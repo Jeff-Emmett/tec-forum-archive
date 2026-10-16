@@ -3,18 +3,25 @@
  "title": "The Initial Buy-In",
  "slug": "the-initial-buy-in",
  "category_id": 28,
+ "posts_count": 34,
+ "created_at": "2021-10-19T22:46:05.657Z",
+ "views": 6347,
+ "last_posted_at": "2022-01-25T11:00:24.258Z",
  "tags": [
   "advice-process"
  ],
+ "highest_post_number": 35,
+ "closed": true,
+ "archived": false,
  "more_after": 20,
- "posts_count": 34,
+ "sitemap_lastmod": "2022-01-25T11:00:24Z",
+ "in_sitemap": true,
  "total_known": true,
- "archived_posts": 20,
- "archived_numbers": 20,
- "created_at": "2021-10-19T22:46:05Z",
- "last_archived_post_at": "2021-11-08T16:21:36Z",
+ "archived_posts": 29,
+ "archived_numbers": 30,
+ "last_archived_post_at": "2021-11-25T17:16:55Z",
  "captured_between": [
-  "2021-12-07T12:35:46Z",
+  "2021-11-12T16:21:28Z",
   "2026-06-17T04:21:48Z"
  ],
  "posts": [
@@ -337,9 +344,174 @@
     "timestamp": "20260617042148",
     "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
    }
+  },
+  {
+   "post_number": 21,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-11-08T16:23:49Z",
+   "updated_at": "2021-11-08T16:23:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Paul<br>\nZargham<br>\nGideon<br>\nAngela<br>\nMyself<br>\nTam<br>\nMitch</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-11-08T16:25:00Z",
+   "updated_at": "2021-11-08T16:25:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>0xGabi<br>\nMyself<br>\nZargham<br>\nMitch<br>\nZep<br>\nTam<br>\nAngela</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "ZeptimusQ",
+   "name": "9i81ftctu4",
+   "created_at": "2021-11-08T17:50:08Z",
+   "updated_at": "2021-11-08T17:50:08Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I nominate:</p>\n<p>Paul Haas - VitaDAO<br>\nMichael Zargham - Blockscience<br>\n0xGabi - 1Hive<br>\nPhilH - dOrg/Ethereum France<br>\nGideon - TEC Communitas<br>\nGriff Green - Commons Stack<br>\nAngela - TE Academy</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-11-08T18:38:31Z",
+   "updated_at": "2021-11-08T18:38:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Livia<br>\nTam<br>\nAngela<br>\nIvy<br>\nMitch<br>\nZargham<br>\nMyself</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 25,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-11-08T18:41:00Z",
+   "updated_at": "2021-11-08T18:41:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Gideon<br>\nPaul<br>\n0xgabi<br>\nMitch<br>\nTam<br>\nZep<br>\nAngela</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 26,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-11-08T18:57:14Z",
+   "updated_at": "2021-11-08T18:57:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Myself<br>\nZargham<br>\n0xgabi<br>\nMitch<br>\nTam<br>\nAngela<br>\nZep</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 27,
+   "username": "ZeptimusQ",
+   "name": "9i81ftctu4",
+   "created_at": "2021-11-08T19:02:08Z",
+   "updated_at": "2021-11-08T19:02:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Chuy<br>\nJuan<br>\nNate<br>\nZargham<br>\nGabi<br>\nPaul<br>\nGriff</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 28,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-11-09T15:38:33Z",
+   "updated_at": "2021-11-09T18:40:40Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Okay Nominations have officially closed! We’ll be creating the vote for these nomination sets once the Initial buy-in proposal passes.</p>\n<p>Here’s the signal vote for the Initial buy-in:</p>\n<p><a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535</a></p>\n<p>If the initial buy-in passes on snapshot we’ll have to create the on-chain vote to execute the action via the Hatch DAO.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 29,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-11-09T15:38:38Z",
+   "updated_at": "2021-11-09T15:38:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "closed.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
+  },
+  {
+   "post_number": 30,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-11-25T17:16:55Z",
+   "updated_at": "2021-11-25T17:16:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I found it easier to sort out my vote on Google Sheets. Thought i would share <img src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"></p><aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/17ZSRL5hUB8ECXSvN-lcn0NqpxDW5Ew1d9BLhMi87YN8/edit?usp=sharing\">\n  <header class=\"source\">\n\n      <a href=\"https://docs.google.com/spreadsheets/d/17ZSRL5hUB8ECXSvN-lcn0NqpxDW5Ew1d9BLhMi87YN8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">docs.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <a href=\"https://docs.google.com/spreadsheets/d/17ZSRL5hUB8ECXSvN-lcn0NqpxDW5Ew1d9BLhMi87YN8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n\n<h3><a href=\"https://docs.google.com/spreadsheets/d/17ZSRL5hUB8ECXSvN-lcn0NqpxDW5Ew1d9BLhMi87YN8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">Laser Tag Multisig</a></h3>\n\n<p>Sheet1\n\n\n1. Griff, Mitch, Livia, Ivy, Nate, YGG, Tamara\n2. Griff, Tam, Livia, Angela, Mitch, Zeptimus and Nate\n3. Griff, Tam, Livia, Ivy, Juanka, Zepti and Chuy\n4. Griff Zep Mitch Tam Angela Zargham PhilH\n5. Paul Zargham Gideon Angela Griff Tam...</p>\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>Make a Copy and then you can sort it easily <img src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030054",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
+   }
   }
  ],
  "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211112162128",
+   "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+  },
   {
    "source": "commoncrawl",
    "timestamp": "20211207123546",
@@ -349,6 +521,11 @@
    "source": "wayback",
    "timestamp": "20211207123546",
    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228030054",
+   "url": "https://forum.tecommons.org/t/the-initial-buy-in/670/16"
   },
   {
    "source": "commoncrawl",

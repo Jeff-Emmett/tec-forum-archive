@@ -6,6 +6,8 @@
  "posts_count": 3,
  "created_at": "2021-09-04T10:58:51.005Z",
  "last_posted_at": "2021-09-05T21:22:37.823Z",
+ "sitemap_lastmod": "2021-09-05T21:22:37Z",
+ "in_sitemap": true,
  "total_known": true,
  "archived_posts": 4,
  "archived_numbers": 4,
@@ -26,7 +28,7 @@
    "cooked": "<h1>\n<a class=\"anchor\" href=\"#tao-voting-graph-v1-1\" name=\"tao-voting-graph-v1-1\"></a>Tao Voting Graph V1</h1>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54\" href=\"https://forum.tecommons.org/uploads/default/original/1X/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54.png\" title=\"Screen Shot 2021-09-04 at 12.26.14 PM\"><img alt=\"Screen Shot 2021-09-04 at 12.26.14 PM\" data-base62-sha1=\"jN5mY5pnG1FKodeHS34c4aKmnRO\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54_2_10x10.png\" height=\"326\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54_2_690x326.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54_2_690x326.png, https://forum.tecommons.org/uploads/default/optimized/1X/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54_2_1035x489.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/8ab5c9cb53d6696a6e87608a005f381cc6c2ba54.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-09-04 at 12.26.14 PM</span><span class=\"informations\">1214×574 92.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<hr/>\n<h1>\n<a class=\"anchor\" href=\"#tao-voting-graph-v2-2\" name=\"tao-voting-graph-v2-2\"></a>Tao Voting Graph V2</h1>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b\" href=\"https://forum.tecommons.org/uploads/default/original/1X/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b.png\" title=\"Screen Shot 2021-09-04 at 12.26.09 PM\"><img alt=\"Screen Shot 2021-09-04 at 12.26.09 PM\" data-base62-sha1=\"4BsSwY91KtKM0bGWEQ3LyYTl9vZ\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b_2_10x10.png\" height=\"407\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b_2_690x407.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b_2_690x407.png, https://forum.tecommons.org/uploads/default/optimized/1X/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b_2_1035x610.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/2044e45bfb5292bbc8d0d53e4845bb1d948c2d2b.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-09-04 at 12.26.09 PM</span><span class=\"informations\">1132×668 97 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>For full context you can check out the <a href=\"https://www.figma.com/proto/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps?page-id=3942%3A15137&amp;node-id=5700%3A6667&amp;viewport=286%2C151%2C0.05957180634140968&amp;scaling=min-zoom&amp;starting-point-node-id=3962%3A18070\">Figma Prototype</a></p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"a1bfb5d330153190fc40f2a3ed9d82a2\">V1</li>\n<li data-poll-option-id=\"17705373196221ae67b0fcf4dd3926bc\">V2</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20230204014343",
     "url": "https://forum.tecommons.org/t/which-tao-voting-graph-is-better/599"
    }
@@ -42,7 +44,7 @@
    "cooked": "<p>haha it is unanimous!!  Who woulda thought…<img alt=\":green_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=9\" title=\":green_heart:\"/>  That shows how cohesive our community is…or maybe how awesome Graph # n is heh heh!  No pressure…just vote <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20230204014343",
     "url": "https://forum.tecommons.org/t/which-tao-voting-graph-is-better/599"
    }
@@ -58,7 +60,7 @@
    "cooked": "<p>The nested one just looks more aesthetically appealing to me. Same amount of information, less visual clutter. <img alt=\":nail_care:t6:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/nail_care/6.png?v=9\" title=\":nail_care:t6:\"/></p>\n<p>Also a fan of the color palette <img alt=\":art:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/art.png?v=9\" title=\":art:\"/></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20230204014343",
     "url": "https://forum.tecommons.org/t/which-tao-voting-graph-is-better/599"
    }
@@ -74,7 +76,7 @@
    "cooked": "<p>Found out that Pedro, the hero working on the front end spent 2 hours trying to do this and had trouble making it happen with the library we have…</p>\n<p>WE WILL CHANGE IT! But it might be deprioritized until after we get all the other modules done and people can use it.</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20230204014343",
     "url": "https://forum.tecommons.org/t/which-tao-voting-graph-is-better/599"
    }
@@ -83,6 +85,11 @@
  "captures": [
   {
    "source": "commoncrawl",
+   "timestamp": "20230204014343",
+   "url": "https://forum.tecommons.org/t/which-tao-voting-graph-is-better/599"
+  },
+  {
+   "source": "wayback",
    "timestamp": "20230204014343",
    "url": "https://forum.tecommons.org/t/which-tao-voting-graph-is-better/599"
   }

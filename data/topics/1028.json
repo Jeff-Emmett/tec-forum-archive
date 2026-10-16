@@ -4,6 +4,8 @@
  "slug": "transparency-wg-funding-proposal-may-to-july-2022",
  "category_id": 28,
  "posts_count": 0,
+ "sitemap_lastmod": "2022-05-30T20:24:34Z",
+ "in_sitemap": true,
  "total_known": false,
  "archived_posts": 1,
  "archived_numbers": 1,
@@ -25,7 +27,7 @@
    "cooked": "<p><strong>Proposal title:</strong> Transparency WG 3-month funding</p>\n<p><strong>Period covered:</strong> 3 months (May to July)</p>\n<p><strong>Proposal description:</strong></p>\n<p>This proposal covers a three-month period.</p>\n<p>The tasks that need to be done by the Transparency WG remain the same, including recording calls, transparency audit, documentation and other operations-related tasks. There are some newly proposed initiatives that might require the work from the Transparency WG if they pass, such as tracking salaries and coordinating with Sampo WG.</p>\n<p>To compensate the contributors of the Transparency WG, we will need 16140 for the months of May, June and July. But since the Transparency WG still has an unused budget of 5,601.25 WXDAI from the previous funding (February to April), we are requesting 10538,75 in this funding proposal.</p>\n<p>The proposed budget will be divided among the contributors of the working group.</p>\n<p>To check how we spent the previous funding check this <a href=\"https://docs.google.com/spreadsheets/d/1vq8YUdl-pbzD2HkgbRjqIJpX2bSMH8Dn66C4b-KeOMg/edit?copiedFromTrash#gid=1484400937\">document</a> and the previous <a href=\"https://forum.tecommons.org/t/transparency-wg-funding-proposal-on-cv/834/30\">forum thread</a> and to confirm what we accomplish check the <a href=\"https://forum.tecommons.org/t/audit-report-0001/1002\">transparency audit</a></p>\n<p><strong>The Tasks and the Budget</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/1a769602cd18094eb85f59714d38f44ddb00d517\" href=\"https://forum.tecommons.org/uploads/default/original/1X/1a769602cd18094eb85f59714d38f44ddb00d517.png\" title=\"imagen\"><img alt=\"imagen\" data-base62-sha1=\"3M6tYEYeV7lH4KtRBH7Eun2OH55\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/1a769602cd18094eb85f59714d38f44ddb00d517_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/1a769602cd18094eb85f59714d38f44ddb00d517_2_579x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/1a769602cd18094eb85f59714d38f44ddb00d517_2_579x500.png, https://forum.tecommons.org/uploads/default/original/1X/1a769602cd18094eb85f59714d38f44ddb00d517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/1a769602cd18094eb85f59714d38f44ddb00d517.png 2x\" width=\"579\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">imagen</span><span class=\"informations\">657×567 39.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>How does this proposal benefit the community or the field of Token Engineering?</strong></p>\n<p>This will encourage and provide opportunities for the members to participate in upholding transparency and monitor the activities in the community. Providing equal access to information and involving agents to care for rules that apply to all eliminate the need for external agents and increase the commitment of participants to engage in the advice process. Trust comes when we can comprehend the behavior of other actors by using the same framework.</p>\n<p><strong>Amount requested (Only for conviction voting)</strong></p>\n<p>10538,75 XDAI</p>\n<p><strong>How will you share progress?</strong></p>\n<p>We will keep the same methods as the last time people will request funds on this proposal and we will track the job done for this period <a href=\"https://docs.google.com/spreadsheets/d/1Wwio-Ysqn_mzbPw7hEIz5jg3zZJGlrLATBGHR6bImhI/edit#gid=1484400937\">here</a> and the milestones will be shared on the second Audit report</p>\n<p><strong>Team information:</strong><br/>\nAcidlazzer<br/>\nBear100<br/>\nEfra<br/>\nEnti<br/>\nJH<br/>\nIvy<br/>\nRex<br/>\nZeptimus</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20220706014443",
     "url": "https://forum.tecommons.org/t/transparency-wg-funding-proposal-may-to-july-2022/1028"
    }
@@ -34,6 +36,11 @@
  "captures": [
   {
    "source": "commoncrawl",
+   "timestamp": "20220706014443",
+   "url": "https://forum.tecommons.org/t/transparency-wg-funding-proposal-may-to-july-2022/1028"
+  },
+  {
+   "source": "wayback",
    "timestamp": "20220706014443",
    "url": "https://forum.tecommons.org/t/transparency-wg-funding-proposal-may-to-july-2022/1028"
   }

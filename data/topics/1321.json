@@ -6,6 +6,8 @@
  "posts_count": 1,
  "created_at": "2023-12-14T12:01:20.908Z",
  "last_posted_at": "2023-12-15T01:34:47.327Z",
+ "sitemap_lastmod": "2023-12-15T01:34:47Z",
+ "in_sitemap": true,
  "total_known": true,
  "archived_posts": 2,
  "archived_numbers": 2,
@@ -26,7 +28,7 @@
    "cooked": "<p>The <a href=\"https://forum.tecommons.org/t/tao-vote-migration-to-optimism/1320/2\">vote to migrate the TEC to Optimism</a> is now open. When this vote passes, the execution of this vote will kick off the starting sequence of the migration.</p>\n<p>Without any voting delay introduced and if the vote passes, the migration to OP Mainnet may start as early as Tuesday, Dec. 19th. Once migration starts, the TEC token on Gnosis will be frozen forever. It may take up to 24 hours to recreate the TEC token economy on OP Mainnet and during that time no swaps of the TEC token will be possible.</p>\n<p>The previous <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/35\">vote to migrate to OP Mainnet</a> gave the green light to conclude preparations for the TEC’s migration from Gnosis to OP Mainnet and to run dress rehearsals. Up until now, the dress rehearsals return positive indicators for the migration. Should any indicator change, the migration can be halted and the TEC token economy restored on Gnosis.</p>\n<p>Here are some key things you may want to know. Use this thread for any more questions or comments you’d like to share!</p>\n<p><strong>- What does it mean to migrate the TEC?</strong></p>\n<p>The TEC currently lives on on Gnosis chain. That is where the economic and governance layers exist, specifically the <a href=\"https://convert.tecommons.org/\">Augmented Bonding Curve (ABC)</a> and <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/\">1Hive’s Gardens</a>. A migration to Optimism means moving the economic and governance layers to OP Mainnet.</p>\n<p>More details can be found in the <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/9\">community advice process about the migration</a> that started in September.</p>\n<p><strong>- As a $TEC token holder, what do I need to do?</strong></p>\n<p>If you hold TEC tokens in a simple EOA, you will find your TEC tokens in the same address on OP Mainnet after the migration. If you have not already, you will want to add OP Mainnet network to your wallet. And you will need to import the new TEC token address.</p>\n<ul>\n<li><a href=\"https://help.optimism.io/hc/en-us/articles/4411903123483-How-do-I-add-the-OP-Mainnet-to-my-wallet-\">How to add OP Mainnet network to your wallet</a></li>\n<li>The OP Mainnet TEC token address will be posted as soon as it is available.</li>\n</ul>\n<p>Most TEC held inside smart contracts should have be moved before the migration. For any TEC still held in smart contracts at the time of migration, those TEC will be held as “Claimable TEC” so the owners can claim them after the migration. If you are not holding TEC in a smart contract, this does not apply to you.</p>\n<p><strong>- Did someone say new reserve currency?</strong></p>\n<p>Yes, rETH will be the reserve currency for the TEC on OP Mainnet. The <a href=\"https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/15\">community advice process</a> was followed by a discussion and vote in a joint TECAN + Coordination team call, the result of which was agreement on rETH (RocketPool staked ETH).</p>\n<p><strong>- How to buy and sell TEC tokens after the migration.</strong></p>\n<p>The TEC tokens will be able to be swapped for rETH on <a href=\"https://abcswap.xyz/\">abcswap.xyz</a>.</p>\n<p>Secondary market information will be posted as soon as it is available.</p>\n<p><strong>- Is there anything else I should be aware of?</strong></p>\n<p>Yes. The Garden’s dispute resolution solution, Celeste, is not available on Optimism so the Aragon Guardian’s solution will be used in it’s place. See the <a href=\"https://forum.tecommons.org/t/introducing-tec-guardians/1311\">guardians announcement</a> and <a href=\"https://forum.tecommons.org/t/tec-guardians-nominations/1313/17\">nomination post. </a></p>\n<p>Also, there is a new <a href=\"https://forum.tecommons.org/t/tec-community-covenant/572/18\">TEC Covenant</a> that will take effect following the migration.</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240229123511",
     "url": "https://forum.tecommons.org/t/vote-to-migrate-to-op-mainnet-is-open-what-tec-token-holders-need-to-know/1321"
    }
@@ -42,7 +44,7 @@
    "cooked": "<p>Just a quick note to say that <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> and <a class=\"mention\" href=\"/u/sem\">@sem</a> have done a remarkable job of project managing and executing this migration process. I don’t want to jinx anything by congratulating anyone before we’re completely through it, but this has been an extremely complex undertaking and they have been handling it beautifully. Also, it’s worth mentioning that <a class=\"mention\" href=\"/u/bear100\">@bear100</a> has been playing a very important role in handling many of the proposals that were needed along the way.</p>\n<p><img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240229123511",
     "url": "https://forum.tecommons.org/t/vote-to-migrate-to-op-mainnet-is-open-what-tec-token-holders-need-to-know/1321"
    }
@@ -51,6 +53,11 @@
  "captures": [
   {
    "source": "commoncrawl",
+   "timestamp": "20240229123511",
+   "url": "https://forum.tecommons.org/t/vote-to-migrate-to-op-mainnet-is-open-what-tec-token-holders-need-to-know/1321"
+  },
+  {
+   "source": "wayback",
    "timestamp": "20240229123511",
    "url": "https://forum.tecommons.org/t/vote-to-migrate-to-op-mainnet-is-open-what-tec-token-holders-need-to-know/1321"
   }

@@ -3,13 +3,15 @@
  "title": "Montaña Rusa: The Communist Roller-Coaster v2",
  "slug": "montana-rusa-the-communist-roller-coaster-v2",
  "category_id": 7,
- "posts_count": 1,
+ "posts_count": 0,
  "created_at": "2021-12-19T20:57:02.164Z",
  "last_posted_at": "2021-12-19T20:57:02.490Z",
  "tags": [
   "advice-process"
  ],
- "total_known": true,
+ "sitemap_lastmod": "2021-12-19T20:57:02Z",
+ "in_sitemap": true,
+ "total_known": false,
  "archived_posts": 1,
  "archived_numbers": 1,
  "last_archived_post_at": "2021-12-19T20:57:02Z",

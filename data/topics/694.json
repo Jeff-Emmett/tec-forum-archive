@@ -3,15 +3,21 @@
  "title": "TEC Working Groups Weekly Update, Nov 7th",
  "slug": "tec-working-groups-weekly-update-nov-7th",
  "category_id": 5,
- "posts_count": 1,
+ "posts_count": 0,
  "created_at": "2021-11-08T03:15:34.213Z",
+ "views": 12,
  "last_posted_at": "2021-11-08T03:15:34.631Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "sitemap_lastmod": "2021-11-08T03:15:34Z",
+ "in_sitemap": true,
  "total_known": true,
  "archived_posts": 1,
  "archived_numbers": 1,
  "last_archived_post_at": "2021-11-08T03:15:34Z",
  "captured_between": [
-  "2021-12-07T11:32:09Z",
+  "2021-11-08T15:23:42Z",
   "2023-05-30T07:26:48Z"
  ],
  "posts": [
@@ -33,6 +39,11 @@
   }
  ],
  "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211108152342",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-nov-7th/694"
+  },
   {
    "source": "commoncrawl",
    "timestamp": "20211207113209",

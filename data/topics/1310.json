@@ -6,6 +6,8 @@
  "posts_count": 4,
  "created_at": "2023-11-09T16:21:18.776Z",
  "last_posted_at": "2023-12-11T17:07:15.163Z",
+ "sitemap_lastmod": "2023-12-11T17:07:15Z",
+ "in_sitemap": true,
  "total_known": true,
  "archived_posts": 5,
  "archived_numbers": 5,
@@ -26,7 +28,7 @@
    "cooked": "<p>On behalf of TECAN and the Coordination team:</p>\n<p>This proposal is to open community advice process about formally exiting the <a href=\"https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973\">WATER</a> initiative contingent on a community vote for the TEC to migrate to Optimism. This would mean withdrawing liquidity of ~<a href=\"https://gnosisscan.io/address/0x71641d6656ffb673f471ea292ea09ac528cc4df2\" rel=\"noopener nofollow ugc\">38k $TEC</a>, equivalent to $16,300 USD, from WATER and paying a 15% penalty, which amounts to 5,700 $TEC or $2,451 USD as of Oct 31st. These figures may shift.</p>\n<p>We participated in this innovative experiment aimed at creating liquidity and contributing to the creation of the $WATER token, which has also served as an index for various aligned token communities on the Gnosis Chain.</p>\n<p>Another option that has been raised is to maintain our liquidity in WATER by coordinating with them before the migration to remove TEC from shared liquidity, then after the new token is created on Optimism, we bridge it to Gnosis Chain and replace our old TEC token with the new one. The reason we do not recommend this path is because (1) we don’t see much value in maintaining liquidity on Gnosis Chain and (2) the coordination overhead required. However, we open the floor for any argument in favor of that option.</p>\n<p><strong>What do we do with WATER if we choose to migrate to Optimism?</strong></p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"cf87bf5a49bf5fc6197fb516c175ecd8\">Pay the 15% and get back the rest of the TEC</li>\n<li data-poll-option-id=\"a5ab33d5b33e98138695641b9a8c1cd5\">Migrate the TEC token back to Gnosis Chain</li>\n<li data-poll-option-id=\"9965c8e81bbba9fba9e85862b1ce1e2a\">See results</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240521202118",
     "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
    }
@@ -42,7 +44,7 @@
    "cooked": "<p>After going through advice process, the Snapshot vote for this proposal is now live: <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0x051dcdec2531b3fc3c17dca73bb46a5590f17da0e869078f184deb08f361e11c\" rel=\"noopener nofollow ugc\">Snapshot</a></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240521202118",
     "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
    }
@@ -58,7 +60,7 @@
    "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1310\" data-username=\"bear100\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/bear100/40/914_2.png\" width=\"20\"/> bear100:</div>\n<blockquote>\n<p>other option that has been raised is to maintain our liquidity in WATER by coordinating with them before the migration to remove TEC from shared liquidity, then after the new token is created on Optimism, we bridge it to Gnosis Chain and replace our old TEC token with the new one. The reason we do not recommend this path is because (1) we don’t see much value in maintaining liquidity on Gnosis Chain and (2) the coordination overhead required. However, we open the floor for any argument in favor of that option.</p>\n</blockquote>\n</aside>\n<p>I didn’t see this post, and its my fault for not staying on top of that.</p>\n<p>However, I do think this decision merits further discussion, as the “prenuptial agreement” within the <a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\">$WATER Proposal</a> has very little enforcement power, and even less justification for enforcing it.</p>\n<p>I know that my perspective here may be considered “not cool” – but I have a hard time willfully sacrificing 15% of TEC tokens held for participating in an experiment that brought little value to the TEC and saw minimal use in the broader liquidity system on Gnosis, not to mention saw little advancement from the initial ideation of the project.</p>\n<p>Ideally, we should petition the Water Board to use their power to remove us from the experiment – as actors who participated in good faith, and return 100% of our tokens.</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240521202118",
     "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
    }
@@ -74,7 +76,7 @@
    "cooked": "<p>The Snapshot vote has successfully passed (<a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0x051dcdec2531b3fc3c17dca73bb46a5590f17da0e869078f184deb08f361e11c\" rel=\"noopener nofollow ugc\">Snapshot</a>). The next step will be to make a formal request to the WATER team for an exit plan.</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240521202118",
     "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
    }
@@ -90,7 +92,7 @@
    "cooked": "<p>The formal request to exit from WATER was posted on the original 1Hive forum post here: <a class=\"inline-onebox\" href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019/38\">Water💧 Shared Liquidity Proposal - #38 by Tam2140 - 🌿 Proposals - 1Hive</a></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20240521202118",
     "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
    }
@@ -109,6 +111,11 @@
   },
   {
    "source": "commoncrawl",
+   "timestamp": "20240521202118",
+   "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
+  },
+  {
+   "source": "wayback",
    "timestamp": "20240521202118",
    "url": "https://forum.tecommons.org/t/water-exit-proposal/1310"
   }

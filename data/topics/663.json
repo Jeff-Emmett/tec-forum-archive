@@ -4,6 +4,8 @@
  "slug": "what-is-the-kids-education-fund-snapshot-proposal",
  "category_id": 8,
  "posts_count": 5,
+ "sitemap_lastmod": "2021-10-10T23:03:26Z",
+ "in_sitemap": true,
  "total_known": true,
  "archived_posts": 6,
  "archived_numbers": 6,
@@ -25,7 +27,7 @@
    "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/ece0a556c6e35501cdbe5253f8d54160430fed1e\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ece0a556c6e35501cdbe5253f8d54160430fed1e.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"xNvZ2C9whv2yr6VsMGUQKwYvsuy\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ece0a556c6e35501cdbe5253f8d54160430fed1e_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/ece0a556c6e35501cdbe5253f8d54160430fed1e_2_670x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/ece0a556c6e35501cdbe5253f8d54160430fed1e_2_670x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/ece0a556c6e35501cdbe5253f8d54160430fed1e_2_1005x750.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/ece0a556c6e35501cdbe5253f8d54160430fed1e.png 2x\" width=\"670\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1256×936 74.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h2>\n<a class=\"anchor\" href=\"#point_up_2-whats-happening-here-1\" name=\"point_up_2-whats-happening-here-1\"></a>…<img alt=\":point_up_2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_up_2.png?v=10\" title=\":point_up_2:\"/> What’s happening here? <img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=10\" title=\":thinking:\"/>\n</h2>\n<blockquote>\n<p>I searched the forum and the server and didn’t see what this was all about, did I miss a memo?</p>\n</blockquote>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20251216234416",
     "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
    }
@@ -41,7 +43,7 @@
    "cooked": "<p>Looks like this is some sort of troll proposal.</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20251216234416",
     "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
    }
@@ -57,7 +59,7 @@
    "cooked": "<p>What will we do about these sorts of things?</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20251216234416",
     "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
    }
@@ -73,7 +75,7 @@
    "cooked": "<p><img alt=\"\" class=\"animated\" data-base62-sha1=\"yx2gJfvhtPrxRCzTZyYC08D20g2\" height=\"240\" src=\"https://forum.tecommons.org/uploads/default/original/1X/f205f01d21c603bfa1408dd6e16b09507094a442.gif\" width=\"320\"/></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20251216234416",
     "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
    }
@@ -89,7 +91,7 @@
    "cooked": "<p>I search for this person also on hatcher list, and it didn’t show up.</p>\n<p>If I am correct <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> is working on fixing this issue.</p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20251216234416",
     "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
    }
@@ -105,7 +107,7 @@
    "cooked": "<p>I changed the permissions so right now only people whith TECH tokens (just need 1 :D) can create a proposal. It should prevent spam at least for now since only hatchers have TECH in the future we could change it to have an X amount of TEC to prevent spam. Or at least if they wanna spam they should buy some tokens and fund our funding pool.</p>\n<aside class=\"quote no-group\" data-full=\"true\" data-post=\"3\" data-topic=\"663\" data-username=\"AL0YSI0US\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/al0ysi0us/40/444_2.png\" width=\"20\"/> AL0YSI0US:</div>\n<blockquote>\n<p>What will we do about these sorts of things?</p>\n</blockquote>\n</aside>\n<p>My personal feeling would be just ignored it, that being said people sometimes fall into those so we could also delete them if that’s what we think it’s the best. I think we shouldn’t delete them because on the real DAO we won’t be able to delete, we can’t protect everyone sometimes people learn the hard way  <img alt=\":man_shrugging:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/man_shrugging.png?v=10\" title=\":man_shrugging:\"/></p>",
    "action": null,
    "source": {
-    "source": "commoncrawl",
+    "source": "wayback",
     "timestamp": "20251216234416",
     "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
    }
@@ -124,6 +126,11 @@
   },
   {
    "source": "commoncrawl",
+   "timestamp": "20251216234416",
+   "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
+  },
+  {
+   "source": "wayback",
    "timestamp": "20251216234416",
    "url": "https://forum.tecommons.org/t/what-is-the-kids-education-fund-snapshot-proposal/663"
   }
