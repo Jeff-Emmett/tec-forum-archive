@@ -3,3 +3,4 @@ site/
 *.pyc
 .venv/
 raw/*.log
+discourse-import/

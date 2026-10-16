@@ -21,7 +21,10 @@ services:
       - traefik-public
     labels:
       - traefik.enable=true
-      - traefik.http.routers.tec-forum-archive.rule=Host(`tec.mycostack.xyz`)
+      # tec-archive is this site's own name. On tec.mycostack.xyz the Discourse container's router
+      # wins (priority 1 here = lowest); if Discourse is down, this static copy answers instead.
+      - traefik.http.routers.tec-forum-archive.rule=Host(`tec-archive.mycostack.xyz`) || Host(`tec.mycostack.xyz`)
+      - traefik.http.routers.tec-forum-archive.priority=1
       - traefik.http.routers.tec-forum-archive.entrypoints=web
       - traefik.http.services.tec-forum-archive.loadbalancer.server.port=80
       - traefik.docker.network=traefik-public

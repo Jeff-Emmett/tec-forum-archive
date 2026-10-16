@@ -1,0 +1,64 @@
+## Discourse container for the TEC forum archive (read-only).
+## Lives in its OWN discourse_docker clone, /opt/discourse-tec, copied to containers/tec.yml.
+## /opt/discourse is a different clone running cadCAD (`app`) and `p2pforum` on older templates;
+## sharing it would tie this forum's Postgres/base image to theirs (and `rebuild` self-updates it).
+
+templates:
+  - "templates/postgres.template.yml"
+  - "templates/redis.template.yml"
+  - "templates/web.template.yml"
+  - "templates/web.ratelimited.template.yml"
+
+params:
+  db_default_text_search_config: "pg_catalog.english"
+  db_shared_buffers: "128MB"
+  db_work_mem: "10MB"
+
+docker_args: --memory=3g --memory-swap=3g
+
+env:
+  LC_ALL: en_US.UTF-8
+  LANG: en_US.UTF-8
+  LANGUAGE: en_US.UTF-8
+  DISCOURSE_DEFAULT_LOCALE: en
+  DISCOURSE_HOSTNAME: 'tec.mycostack.xyz'
+  DISCOURSE_DEVELOPER_EMAILS: 'jeff@jeffemmett.com'
+  ## Archive sends no mail (disable_emails = yes is set by the importer). The launcher still
+  ## requires an SMTP address; this is the same internal Mailcow relay the other forums use.
+  DISCOURSE_SMTP_ADDRESS: 10.100.0.253
+  DISCOURSE_SMTP_PORT: 25
+  DISCOURSE_SMTP_ENABLE_START_TLS: false
+  DISCOURSE_SMTP_OPENSSL_VERIFY_MODE: none
+  DISCOURSE_SMTP_DOMAIN: mycostack.xyz
+  DISCOURSE_NOTIFICATION_EMAIL: noreply@mycostack.xyz
+  DISCOURSE_FORCE_HTTPS: true
+
+volumes:
+  - volume:
+      host: /opt/discourse-tec/shared/tec
+      guest: /shared
+  - volume:
+      host: /opt/discourse-tec/shared/tec/log/var-log
+      guest: /var/log
+
+hooks:
+  after_code:
+    - exec:
+        cd: $home/plugins
+        cmd:
+          - echo "no plugins"
+
+run:
+  - exec: echo "Beginning of custom commands"
+  ## Cloudflare -> tunnel -> Traefik -> here: the scheme the container sees is http.
+  - exec:
+      cmd: sed -i 's/default \$scheme;/default https;/' /etc/nginx/conf.d/discourse.conf
+
+labels:
+  app_name: tec
+  traefik.enable: "true"
+  traefik.docker.network: traefik-public
+  ## TEC_HOST_RULE is swapped to Host(`tec.mycostack.xyz`) at cut-over (discourse/deploy.sh).
+  traefik.http.routers.tec-discourse.rule: "Host(`tec-discourse.invalid`)"
+  traefik.http.routers.tec-discourse.entrypoints: web
+  traefik.http.services.tec-discourse.loadbalancer.server.port: "80"

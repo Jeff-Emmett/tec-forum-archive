@@ -2,7 +2,7 @@
 {% from "_macros.html" import coverage %}
 {% block title %}{{ t.title }} · TEC Forum Archive{% endblock %}
 {% block description %}{{ t.title }}: archived discussion from the Token Engineering Commons forum, {{ t.created_at|date }}.{% endblock %}
-{% block head %}<link rel="canonical" href="https://tec.mycostack.xyz{{ t.path }}">{% endblock %}
+{% block head %}<link rel="canonical" href="https://tec.mycostack.xyz{{ t.path.rstrip('/') }}">{% endblock %}
 {% block main %}
 <article class="topic" data-pagefind-body>
   <header class="topic-head">

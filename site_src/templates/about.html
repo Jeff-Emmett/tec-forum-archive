@@ -22,7 +22,7 @@
     <li>Posts were merged by their number within each topic. Where several captures held the same post, the newest one was kept, since it carries the latest edit. Every post links back to the capture it came from.</li>
     <li>Post HTML was sanitised. Links between topics were rewritten to point inside this archive, and everything else points to the Wayback Machine. Images were kept wherever a crawler had saved them.</li>
   </ol>
-  <p>Old forum links keep working if you change the host: <span class="mono">forum.tecommons.org/t/&lt;slug&gt;/&lt;id&gt;</span> becomes <span class="mono">tec.mycostack.xyz/t/&lt;slug&gt;/&lt;id&gt;/</span>.</p>
+  <p>The same posts are also loaded into a read-only Discourse at <a href="https://tec.mycostack.xyz">tec.mycostack.xyz</a>, so the forum can be read the way it looked, with Discourse's own search, user pages and threading. It keeps the forum's topic and post numbers: <span class="mono">forum.tecommons.org/t/&lt;slug&gt;/&lt;id&gt;</span> becomes <span class="mono">tec.mycostack.xyz/t/&lt;slug&gt;/&lt;id&gt;</span>. This site, <span class="mono">tec-archive.mycostack.xyz</span>, is the evidence view: which capture every post came from, and where the gaps are. The same paths work here.</p>
 
   <h2>Data</h2>
   <p>The merged corpus, one topic per line with every post and its source capture: <a href="/data/tec-forum-archive.jsonl.gz">tec-forum-archive.jsonl.gz</a>. The index of all known topics, captured or not: <a href="/data/index.json">index.json</a>. Scraper and site source: <a href="https://gitea.jeffemmett.com/jeffemmett/tec-forum-archive">gitea.jeffemmett.com/jeffemmett/tec-forum-archive</a>.</p>
