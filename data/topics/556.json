@@ -1,0 +1,67 @@
+{
+ "id": 556,
+ "title": "Clueless Seeking token design help on an new NFT project",
+ "slug": "clueless-seeking-token-design-help-on-an-new-nft-project",
+ "category_id": 28,
+ "posts_count": 0,
+ "created_at": "2021-08-17T12:06:30.797Z",
+ "last_posted_at": "2021-08-17T12:06:31.134Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-08-17T12:06:31Z",
+ "captured_between": [
+  "2021-09-28T00:46:24Z",
+  "2023-05-30T07:05:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "GetVested",
+   "name": null,
+   "created_at": "2021-08-17T12:06:31Z",
+   "updated_at": "2021-12-02T14:56:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Seeking token design help on a new NFT project.</strong></p>\n<p>Our project is founded by 5 high profile social media influencer with a combined audience of over 5m followers.  This will be an utility token to gain access/membership to exclusive entertainment and saving on community branded products and services such as mobile services, insurance, events, and travel. 90% of all the proceeds from the NFT sales will go directly into buying the products and services.</p>\n<p>I need someone to join the team that has experience designing generative tokens tied to a bonding curve. Feel free to reach out directly at <a href=\"mailto:ruvested@gmail.com\">ruvested@gmail.com</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070516",
+    "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928004624",
+   "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928004624",
+   "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124025339",
+   "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124025339",
+   "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530070516",
+   "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530070516",
+   "url": "https://forum.tecommons.org/t/clueless-seeking-token-design-help-on-an-new-nft-project/556"
+  }
+ ]
+}

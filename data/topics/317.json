@@ -1,0 +1,81 @@
+{
+ "id": 317,
+ "title": "How to ROCK THE VOTE with Tokenlog's Quadratic Voting",
+ "slug": "how-to-rock-the-vote-with-tokenlogs-quadratic-voting",
+ "category_id": 5,
+ "posts_count": 0,
+ "created_at": "2021-04-01T13:43:56.723Z",
+ "views": 65,
+ "last_posted_at": "2021-04-01T13:43:56.971Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-04-01T13:43:56Z",
+ "captured_between": [
+  "2021-04-02T18:31:18Z",
+  "2025-03-19T13:55:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-04-01T13:43:56Z",
+   "updated_at": "2021-05-19T21:04:58Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>If the terms ‘Tokenlog’ and ‘Quadratic Voting’ got you spooked, fear no more! I will demystify in this post how to use Tokenlog, how your contributions to the TEC allow you to vote and how quadratic voting will affect your influence on proposals.</p>\n<p>First things first, let’s get some eyes on this beast. Head on over to <a href=\"https://tokenlog.xyz/CommonsBuild/coordination\">the TEC Coordination Tokenlog</a> for a quick test! Connect to the site via MetaMask &amp; make sure you’re on the xDai chain.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/61af3b926cbba1a98241f373fe59171d3008bde6\" href=\"https://forum.tecommons.org/uploads/default/original/1X/61af3b926cbba1a98241f373fe59171d3008bde6.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"dW9Kr26YLZjc7yE64fqdHVOg7kO\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_10x10.png\" height=\"294\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_562x294.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_562x294.png, https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_843x441.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/61af3b926cbba1a98241f373fe59171d3008bde6_2_1124x588.png 2x\" width=\"562\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1600×836 142 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Once you’re connected you should see in the box at the top on the right under CSTK | IHT your <strong>‘Voting Power’ (VP)</strong>. This is a reflection of your combined CSTK Score and Impact Hours. You will stake your VP on the open issues to signal your preference. The top issues as voted in the coordination repo will get highlighted and prioritized in the Community Stewards Sprint Planning sessions</p>\n<p>VP things start to get interesting. Your staked VP is transformed into votes by a simple square root formula.</p>\n<p>For example if you like Issue A and put 25 VP behind it then you will have cast 5 votes towards that issue because  <img alt=\"image\" data-base62-sha1=\"7ODA20pb6avv3VTkl334X7Sqvuj\" height=\"51\" src=\"https://forum.tecommons.org/uploads/default/original/1X/36c89b4d566c12eb5fd86424b604fb591c5c0243.png\" width=\"122\"/></p>\n<p>In Tokenlog you’re not limited to voting on single issues, in fact you’re encouraged in part by this formula to stake behind multiple issues and proposals.</p>\n<p>If you stake 16 VP on ‘Issue B’ you will have cast 4 votes towards that Issue.</p>\n<p>Then you stake 9 VP on ‘Issue C’, thereby casting 3 votes to ‘Issue C’.</p>\n<p>On Issues B and C you will have cast 7 votes using 25 Voting Power. However, on ‘Issue A’ 25 VP only made 5 votes. As you can see, taking the square root of of the amount of VP staked (quadratic voting) effectively mitigates the influence of whales on the decision making process and encourages more strategic distribution of your Voting Power in order to maximize total votes cast.</p>\n<p>That’s pretty dang nifty, eh? And now what? Well it’s time for your call to action! We have a very important vote that you need to participate in:</p>\n<hr/>\n<p>Final Hatch Parameters Voting!<br/>\n<a href=\"https://tokenlog.xyz/CommonsBuild/TEC-Hatch-Vote\">VOTE HERE!</a></p>\n<hr/>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250319135559",
+    "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210402183118",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210420133226",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420133226",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210729023909",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210729023909",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530080538",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080538",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319135559",
+   "url": "https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317"
+  }
+ ]
+}

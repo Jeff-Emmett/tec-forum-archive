@@ -1,0 +1,60 @@
+{
+ "id": 1344,
+ "title": "Results of TE Grants Round 3",
+ "slug": "results-of-te-grants-round-3",
+ "category_id": 32,
+ "tags": [
+  "round-results"
+ ],
+ "posts_count": 0,
+ "created_at": "2024-02-20T11:52:32.702Z",
+ "last_posted_at": "2024-02-20T11:52:32.871Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2024-02-20T11:52:32Z",
+ "captured_between": [
+  "2024-04-24T19:11:53Z",
+  "2024-08-15T15:25:19Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2024-02-20T11:52:32Z",
+   "updated_at": "2024-02-20T11:52:32Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/929fe67a7c20eb0ae1a21837e68ec1fc04be0777\" href=\"https://forum.tecommons.org/uploads/default/original/1X/929fe67a7c20eb0ae1a21837e68ec1fc04be0777.jpeg\" title=\"TEGR3 BANNER\"><img alt=\"TEGR3 BANNER\" data-base62-sha1=\"kV6ijWPqLI5XPQNjHjDuk427mUD\" data-dominant-color=\"BFCFE8\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/929fe67a7c20eb0ae1a21837e68ec1fc04be0777_2_690x388.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/929fe67a7c20eb0ae1a21837e68ec1fc04be0777_2_690x388.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/929fe67a7c20eb0ae1a21837e68ec1fc04be0777_2_1035x582.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/929fe67a7c20eb0ae1a21837e68ec1fc04be0777_2_1380x776.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">TEGR3 BANNER</span><span class=\"informations\">1920×1080 186 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h2>\n<a class=\"anchor\" href=\"#about-the-round-1\" name=\"about-the-round-1\"></a>About the Round</h2>\n<p>During the past Gitcoin Round (Nov 15 - 29) we had the third QF round of our TE Grants Program as a Gitcoin Featured Round. For the first time, all funding was provided by sponsors with <a href=\"https://oceanprotocol.com/\">Ocean</a> and <a href=\"https://arbitrum.io/\">Arbitrum</a> supporting this round!</p>\n<h3>\n<a class=\"anchor\" href=\"#round-configuration-2\" name=\"round-configuration-2\"></a>Round Configuration:</h3>\n<ul>\n<li>$50k matching pool</li>\n<li>15% matching cap</li>\n<li>2x coefficient multiplier for the TE Matching Boost, more details below</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#round-stats-3\" name=\"round-stats-3\"></a>Round Stats:</h3>\n<ul>\n<li>20 projects</li>\n<li>530 unique donors</li>\n<li>1,720 contributions in total</li>\n<li>$5,108.13 raised from donors</li>\n<li>$9.64 average contribution</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#results-of-the-round-4\" name=\"results-of-the-round-4\"></a>Results of the round</h2>\n<p>Here are the results of the round for the projects:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th><strong>Project Name</strong></th>\n<th><strong>Payout in $TEC</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Stack</td>\n<td>15032.5993</td>\n</tr>\n<tr>\n<td>Bonding Curve Research Group (BCRG)</td>\n<td>14364.4000</td>\n</tr>\n<tr>\n<td>cadCAD: Computer Aided Design for Complex Systems</td>\n<td>9755.8170</td>\n</tr>\n<tr>\n<td>Metagov</td>\n<td>8378.0571</td>\n</tr>\n<tr>\n<td>PlaceCred: Exploring SourceCred for Place-based Reputation</td>\n<td>7410.1051</td>\n</tr>\n<tr>\n<td>Mechanism Institute</td>\n<td>7163.3384</td>\n</tr>\n<tr>\n<td>EVMcrispr</td>\n<td>6318.8977</td>\n</tr>\n<tr>\n<td>Breadchain Cooperative</td>\n<td>5397.5672</td>\n</tr>\n<tr>\n<td>Index Wallets</td>\n<td>4275.5343</td>\n</tr>\n<tr>\n<td>cadEVM</td>\n<td>3978.2708</td>\n</tr>\n<tr>\n<td>EIP-7265 Alliance - securing the future of ethereum</td>\n<td>2756.8830</td>\n</tr>\n<tr>\n<td>SymVal</td>\n<td>2748.2642</td>\n</tr>\n<tr>\n<td>LunCo - collaborative systems engineering</td>\n<td>2718.9188</td>\n</tr>\n<tr>\n<td>TurtleShell</td>\n<td>2377.9839</td>\n</tr>\n<tr>\n<td>Public Nouns Operations</td>\n<td>2252.5196</td>\n</tr>\n<tr>\n<td>KaliBerger</td>\n<td>1743.5197</td>\n</tr>\n<tr>\n<td>Token Engineering Governance Education</td>\n<td>1307.1124</td>\n</tr>\n<tr>\n<td>TE Career Builder for Womxn in Web 3</td>\n<td>980.0674</td>\n</tr>\n<tr>\n<td>Ecofrontiers: Crypto Natural Capital Aggregator</td>\n<td>659.2630</td>\n</tr>\n<tr>\n<td>tokensight</td>\n<td>598.2099</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>100217.3289</strong></td>\n</tr>\n</tbody>\n</table>\n</div><h2>\n<a class=\"anchor\" href=\"#next-round-5\" name=\"next-round-5\"></a>Next Round</h2>\n<p>Dates for the next round are still TBD, we’ll communicate them as soon as we finalise some details <img alt=\":robot:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=12\" title=\":robot:\" width=\"20\"/>.</p>\n<p>In the meantime, if you are a grantee interested in participating, or a project interested in sponsoring this or following rounds. Please reach out to us via discord or <a href=\"mailto:grants@tecommons.org\">grants@tecommons.org</a></p>\n<p>Apologies on the delays, we learnt a lot on this new round with sponsors. Any feedback on how can we improve is very much appreciated!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815152519",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-3/1344"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424191153",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-3/1344"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240424191153",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-3/1344"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815152519",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-3/1344"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815152519",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-3/1344"
+  }
+ ]
+}

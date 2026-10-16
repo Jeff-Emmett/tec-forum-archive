@@ -1,0 +1,116 @@
+{
+ "id": 52,
+ "title": "TEST - Research: DAO Chat Bot",
+ "slug": "test-research-dao-chat-bot",
+ "category_id": 7,
+ "posts_count": 4,
+ "created_at": "2020-10-31T13:49:42.154Z",
+ "last_posted_at": "2020-12-05T16:28:24.005Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2020-12-05T16:28:24Z",
+ "captured_between": [
+  "2021-03-06T02:34:17Z",
+  "2023-05-30T08:51:42Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "daithi",
+   "name": null,
+   "created_at": "2020-10-31T13:49:42Z",
+   "updated_at": "2020-12-04T20:57:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h1>Research: DAO Chat Bot</h1>\n<h2>Proposal Information</h2>\n<p><strong>Proposal description:</strong><br/>\n<em>research feasibility of a ‘chat bot?’ that would update social media channels (discord, telegram etc) when properties on chain are updated. Such as proposal metrics like CRUD operations on dao properties or even metrics on the status of related tokens</em></p>\n<p><strong>Proposal Rationale</strong><br/>\nNot everybody is at their laptop and people can subscribe to a specific channel for notifications on mobile if they like, or silence the channel if they want.</p>\n<p>Bot could also be open sourced on teCommons github (gitlab for ci?) as the same solution could possibly suit multiple Aragon and 1Hive projects.</p>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<em>research needed in order to measure a proper eta. Depending on resources could be 4 days to 3 weeks</em></p>\n<h2>Team Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>here ye here ye calling interested parties (<span class=\"mention\">@daithiC</span> is in)</strong></p>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\n<em>will reveal itself after some research/measurement. Most likely only web-dev and jsonrpc experience needed.</em></p>\n<h2>Proposed Resources</h2>\n<p>** most likely will be a small app running on a server, connecting to the chain using websockets to watch address’s for specific events, and forwarding formatted messages to a social media channel**</p>\n<h2>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested: 0 xDAI</strong></p>\n<p><strong>0x61d0fF49888f47886C243c7cACE49De7a51d0A72</strong></p>\n<p><strong>More detailed description of how funds will be handled and used:</strong><br/>\nGetting to Venus before Musk gets to Mars.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085142",
+    "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-07T15:43:03Z",
+   "updated_at": "2020-11-07T15:43:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Nice it passed! Great work!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085142",
+    "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "daithi",
+   "name": null,
+   "created_at": "2020-11-19T00:17:44Z",
+   "updated_at": "2020-11-19T00:17:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Here is the working document on this project: <a href=\"https://docs.google.com/document/d/1IQhBVIay1y3w6EG7165ryZdRHfUX8uyUIFNDv9nQUoU/edit\" rel=\"noopener nofollow ugc\">https://docs.google.com/document/d/1IQhBVIay1y3w6EG7165ryZdRHfUX8uyUIFNDv9nQUoU/edit</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085142",
+    "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "daithi",
+   "name": null,
+   "created_at": "2020-12-05T16:19:35Z",
+   "updated_at": "2020-12-05T16:19:35Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Here is the code currently:<br/>\n</p><aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/daithi-coombes/go-api-eth-skeleton/tree/tec-dao-bot\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"400\" src=\"https://forum.tecommons.org/uploads/default/original/1X/677ba8c137f11297bbf993e2091b56e35df872ac.jpeg\" width=\"400\"/>\n<h3><a href=\"https://github.com/daithi-coombes/go-api-eth-skeleton/tree/tec-dao-bot\" rel=\"noopener nofollow ugc\" target=\"_blank\">daithi-coombes/go-api-eth-skeleton</a></h3>\n<p>Contribute to daithi-coombes/go-api-eth-skeleton development by creating an account on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>its in a branch on a skeleton repo I was creating. Am thinking goroutines are becoming the best option for event based solutions, industry is stuck in nodeJS though (which is personally my main stack).</p>\n<p>Also after chat with <span class=\"mention\">@kris</span> in discord, it makes sense to have the chat-bot working in Discord as well as Telegram. Am thinking going down this route is the best option and may lead to two instabilities:</p>\n<ol>\n<li>Plugin API. Should be extensible to work with all types of DOA’s, eg aragon/compound/ocean etc</li>\n<li>Cover multiple ‘social media’ platforms, eg Telegram &amp; Discord</li>\n</ol>\n<p>^ also, building out those two points may be ‘cleaner’ in go then in node (mixing ts/vanila/es6 etc).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085142",
+    "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "daithi",
+   "name": null,
+   "created_at": "2020-12-05T16:28:24Z",
+   "updated_at": "2020-12-05T16:28:24Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>… another point that has come up in research is whether to use GraphQL (the future) or JSON-RPC (the most available to all users/teams/orgs).</p>\n<p>GraphQL (future)<br/>\nCon: If we use GraphQL (eg <a href=\"http://thegraph.com\" rel=\"noopener nofollow ugc\">thegraph.com</a>) then the application is stuck ‘almost’ vendor locked to <a href=\"http://thegraph.com\" rel=\"noopener nofollow ugc\">thegraph.com</a> etc (good service, crap docs) or alternative. I say ‘almost’ because users can install their own graphQL.<br/>\nPro: It links IPFS with the ETH Protocol, basically they handle the logic and we just consume the result.</p>\n<p>JSON-RPC (most available)<br/>\nCon: We might have to do our own IPFS client.<br/>\nPro: If we use JSON-RPC (with websockets) then it is easier for a user/team/org to setup a quick client node themselves.</p>\n<p>… also, … also; graphQL with <a href=\"http://thegraph.com\" rel=\"noopener nofollow ugc\">thegraph.com</a> is fighting my websocket implementation in go, disconnecting and EOF instead of an error <img alt=\":face_with_symbols_over_mouth:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/face_with_symbols_over_mouth.png?v=9\" title=\":face_with_symbols_over_mouth:\"/> (will need to unpick their wss calls as their docs are just meh lol).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085142",
+    "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306023417",
+   "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306023417",
+   "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530085142",
+   "url": "https://forum.tecommons.org/t/test-research-dao-chat-bot/52"
+  }
+ ]
+}

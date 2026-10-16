@@ -1,0 +1,178 @@
+{
+ "id": 1261,
+ "title": "Buying wstETH to diversify our treasury - Funding Proposal",
+ "slug": "buying-wsteth-to-diversify-our-treasury-funding-proposal",
+ "category_id": 28,
+ "posts_count": 7,
+ "created_at": "2023-06-08T19:40:50.435Z",
+ "views": 10,
+ "last_posted_at": "2023-07-25T21:27:08.386Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2023-07-25T21:27:08Z",
+ "captured_between": [
+  "2023-06-08T20:14:54Z",
+  "2024-06-16T09:45:14Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-06-08T19:40:50Z",
+   "updated_at": "2023-06-08T19:40:50Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a><strong>Proposal title</strong>\n</h3>\n<p>Buying wstETH to diversify our treasury - Funding Proposal</p>\n<h3>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h3>\n<p>Buying wstETH (the only LST available on Gnosis Chain) to diversify TEC’s treasury.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h3>\n<p>On March we saw a most stablecoins, including DAI, depegging due to the Silicon Valley Bank (which holded Circle’s USDC collateral) collapsing. This put TEC’s treasury at tremendous risk.</p>\n<p>Shortly after the incident <a href=\"https://forum.tecommons.org/t/buying-eth-to-protect-against-xdai-challenges/1239\">I posted a temperature check</a> to see how the community felt about buying some Ether (preferably staked Ether to make use of the APY) as a way of diversifying the treasury but also as a long term investment. As per the pool on the temperature check, this proposal is requesting <strong>100,000.00 WXDAI</strong> to be converted to wstETH (<a href=\"https://gnosisscan.io/address/0x6c76971f98945ae98dd7d4dfca8711ebea946ea6\" rel=\"noopener nofollow ugc\">0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6</a>).</p>\n<p>This is very good timing as Gnosis Chain is welcoming wstETH with multiple incentives (<a href=\"https://snapshot.org/#/agavedao.eth/proposal/0xd29e9640c3155f9498f01f703fb4c9c4048de2702e04a60839a6bfaa75098829\" rel=\"noopener nofollow ugc\">Agave</a>, <a href=\"https://forum.balancer.fi/t/bip-313-enable-gnosis-gauges/4830\" rel=\"noopener nofollow ugc\">Balancer</a>), which means there’s going to be a good amount of liquidity coming.</p>\n<p>That said, $100,000.00 comes with a decent amount of slippage, should this proposal pass, these are the three options I see as optimal to complete this proposal:</p>\n<ol>\n<li>Set a temporary multisig taskforce to buy wstETH regularly during a ~10 week period, where after each purchase the wstETH is directly sent to the DAO.</li>\n<li>Talk with GnosisDAO’ Karpatkey to make a token swap (they already are the biggest wstETH holder on the chain).</li>\n<li>Bridge the WXDAI to Ethereum, buy wstETH there and then bridge it back. The liquidity on Ethereum would make this easier, though this would require ~$100 extra to cover gas fees.</li>\n</ol>\n<p>The funds will always be accessible from the DAO, anyone will be able to make proposals denominated in wstETH.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>Diversifying our treasury ensures we’ll be able to operate for the foreseeable future. Ether has also good upside and wstETH gives us, at the time of writing, 4.3% APR.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-5\" name=\"amount-requested-5\"></a>Amount requested</h3>\n<p>$100,000.00 WXDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-6\" name=\"how-will-these-funds-be-used-6\"></a>How will these funds be used?</h3>\n<p>To buy wstETH.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-7\" name=\"what-does-success-look-like-7\"></a>What does success look like?</h3>\n<p>The DAO holds the equivalent to $100,000.00 denominated in wstETH.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-8\" name=\"how-will-you-share-progress-8\"></a>How will you share progress?</h3>\n<p>This post also serves as advice feedback for the specific way of obtaining the wstETH. If we choose one of the ways that require a set of trades or bridging to another chain, I’ll post updates on this same thread.</p>\n<p>If it’s a direct swap I’ll just notify when done.</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-9\" name=\"project-information-if-applies-9\"></a>Project information (if applies)</h3>\n<p>N/A</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-10\" name=\"team-information-10\"></a>Team Information</h3>\n<p>I’m doing this proposal on my own.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-06-09T14:59:29Z",
+   "updated_at": "2023-06-09T15:03:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Ill post what i posted in the discord</p>\n<p>Diversifying the treasury with these yield bearing instruments is a great idea, however i suggest you change the instrument</p>\n<p>sfrxETH would be abetter choice. Seriously</p>\n<p>theres alot of contention about the % of the market owned by Lido ETH</p>\n<p>Its becoming a serious issues that will be addressed over the next 12-24 monthhs</p>\n<p>ontop of that sfrxETH (staked frax eth) offers a higher yield because of how the yield ties into their whole ecosystem</p>\n<p>I hope this proposal can be re-worked for the above reasons, with <span class=\"hashtag\">#1</span> being of utmost importance to the ethereum blockchain</p>\n<p>Apart from that, im not sure this solves the issues of the sustainability of the TEC’s treasury. If revenue does not come in, $5000 a year in yield will not keep this community afloat</p>\n<p>So hard to say if this is a good use of funds or if a potential business line that would provde potentially more revenue would be</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-06-11T23:25:50Z",
+   "updated_at": "2023-06-11T23:25:50Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi, just following up with what I replied on discord as well:</p>\n<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"1261\" data-username=\"curiousrabbit.eth\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/c/e95f7d/40.png\" width=\"20\"/> curiousrabbit.eth:</div>\n<blockquote>\n<p>theres alot of contention about the % of the market owned by Lido ETH</p>\n<p>Its becoming a serious issues that will be addressed over the next 12-24 monthhs</p>\n</blockquote>\n</aside>\n<p>I agree, and ideally we would hold multiple LSTs, but for us to hold another asset without having to add overhead and trust with multisig setups on another chains, we’d need it to be available on the Gnosis Chain, and currently wstETH is the only one.</p>\n<p>I commit myself to as soon as there’s another one make a proposal to swap some of the wstETH in favor of LST diversity.</p>\n<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"1261\" data-username=\"curiousrabbit.eth\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/c/e95f7d/40.png\" width=\"20\"/> curiousrabbit.eth:</div>\n<blockquote>\n<p>Apart from that, im not sure this solves the issues of the sustainability of the TEC’s treasury. If revenue does not come in, $5000 a year in yield will not keep this community afloat</p>\n</blockquote>\n</aside>\n<p>Yeah, the intention right now is more to just have another asset in case something happens with DAI. At the current size of treasury it’s almost impossible we’d get enough to live on returns, and anyways, 5k a year on our treasury is better than what we have right now, which is nothing <img alt=\":stuck_out_tongue:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/stuck_out_tongue.png?v=12\" title=\":stuck_out_tongue:\" width=\"20\"/></p>\n<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"1261\" data-username=\"curiousrabbit.eth\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/c/e95f7d/40.png\" width=\"20\"/> curiousrabbit.eth:</div>\n<blockquote>\n<p>So hard to say if this is a good use of funds or if a potential business line that would provde potentially more revenue would be</p>\n</blockquote>\n</aside>\n<p>One quick clarification is that this token swap doesn’t make the funds unavailable for use. As they will be kept on the DAO alongside xDai, everyone will be able to request either wstETH or xDai for their proposals.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-07-03T18:48:59Z",
+   "updated_at": "2023-07-03T18:48:59Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The proposal is now up on <a href=\"https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/30\">Gardens</a>!</p>\n<p>The receiver is a 3/4 multisig with <a class=\"mention\" href=\"/u/rex\">@rex</a>, <a class=\"mention\" href=\"/u/bear100\">@bear100</a> <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> and me as signers.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-07-04T20:06:25Z",
+   "updated_at": "2023-07-04T20:06:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This is a lot of money to be held in a 3/4 multisig. I guess it’s OK, but I’m hoping the community is tracking this as it’s a pretty big movement.</p>\n<p>As for the slippage concept, looks like 2 or 3 make the most sense. Any developments on the strategy here?</p>\n<p>How does this work in the front-end when requesting for wstETH for proposals? Is there a dropdown for token selection? Or input field for token address?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-07-04T21:27:58Z",
+   "updated_at": "2023-07-04T21:27:58Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"1261\" data-username=\"linuxiscool\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/linuxiscool/40/886_2.png\" width=\"20\"/> linuxiscool:</div>\n<blockquote>\n<p>This is a lot of money to be held in a 3/4 multisig. I guess it’s OK, but I’m hoping the community is tracking this as it’s a pretty big movement.</p>\n</blockquote>\n</aside>\n<p>Happy to add you or anyone else interested in helping out! Went with the 3/4 because not everyone wanted to commit to this multisig, had to kinda roll with it.</p>\n<p>Though the idea is to do this as quickly as possible and send the wstETH to the DAO right after every purchase.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"1261\" data-username=\"linuxiscool\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/linuxiscool/40/886_2.png\" width=\"20\"/> linuxiscool:</div>\n<blockquote>\n<p>As for the slippage concept, looks like 2 or 3 make the most sense. Any developments on the strategy here?</p>\n</blockquote>\n</aside>\n<p>While talking with multiple people, the DCA was the preferred because of the liquidity at the time, but it also dampened ETH’s price movements. Now there’s more liquidity (5M in <a class=\"inline-onebox\" href=\"https://app.balancer.fi/#/gnosis-chain/pool/0xbad20c15a773bf03ab973302f61fabcea5101f0a000000000000000000000034\">Balancer</a>), so something around 5 swaps, one per week seems like a good way forward.</p>\n<p>Not set in stone though, so happy to hear any other thoughts.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"1261\" data-username=\"linuxiscool\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/linuxiscool/40/886_2.png\" width=\"20\"/> linuxiscool:</div>\n<blockquote>\n<p>How does this work in the front-end when requesting for wstETH for proposals? Is there a dropdown for token selection? Or input field for token address?</p>\n</blockquote>\n</aside>\n<p>After the shutdown of CV, the only way to make a proposal for both WXDAI or any other token is through the in-Gardens EVM Executor (dropdown menu for Aragon apps with input boxes for params i.e. token address and receiver address) or EVMcrispr (CLI). Not the best UX for regular users, but that’s what we have for now.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-07-25T18:44:27Z",
+   "updated_at": "2023-07-25T18:44:27Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Can the team please provide an update on progress? I believe the funds have been transferred from the common pool, what’s the current status?</p>\n<p>Exciting mission.</p>\n<p>Regards,<br/>\nYGG</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-07-25T21:27:08Z",
+   "updated_at": "2023-07-25T21:27:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1261\" data-username=\"linuxiscool\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/linuxiscool/40/886_2.png\" width=\"20\"/> linuxiscool:</div>\n<blockquote>\n<p>Can the team please provide an update on progress?</p>\n</blockquote>\n</aside>\n<p>Sadly the proposal did not pass <img alt=\":frowning:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/frowning.png?v=12\" title=\":frowning:\" width=\"20\"/> <a class=\"inline-onebox\" href=\"https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/30\">Gardens</a>.</p>\n<p>Quite frankly not the best time (most were AFK for Barcelona/Paris) and some token holders abstained from voting because they did not had time to really understand how wstETH works and any potential risk.</p>\n<p>I’ll still pursue this proposal, but will wait a few weeks/months more I guess.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094514",
+    "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230608201454",
+   "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231002215014",
+   "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002215014",
+   "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240616094514",
+   "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616094514",
+   "url": "https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6"
+  }
+ ]
+}

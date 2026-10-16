@@ -1,0 +1,113 @@
+{
+ "id": 296,
+ "title": "Mission, Vision and Values TokenLog Session!",
+ "slug": "mission-vision-and-values-tokenlog-session",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2021-03-25T18:28:39.286Z",
+ "views": 2112,
+ "last_posted_at": "2021-04-15T20:51:51.150Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-04-15T20:51:51Z",
+ "captured_between": [
+  "2021-03-29T13:45:28Z",
+  "2023-05-30T07:53:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-03-25T18:28:39Z",
+   "updated_at": "2021-04-06T17:50:05Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<h2>MISSION, VISION, VALUES</h2>\n<h3>TL;DR</h3>\n<hr/>\n<p><strong><img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/> <a href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Propose &amp; Vote on MVV Now!</a> <img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/></strong></p>\n<hr/>\n<p>We are revisiting the TEC mission, vision and values and proposing new statements using Tokenlog to pick the best ones. Everyone can participate and CSTK and Impact Hour token holders can vote! There are only 2 steps, proposing and voting. Scroll down to the instructions if you have questions and feel free to reach out.</p>\n<hr/>\n<p>The very <a href=\"https://docs.google.com/document/d/1ouFisWOfJgqi7nQODvXQqNg0T49jmZGZalPFvpB121c/edit#heading=h.ko4v3w80u028\">first move of the Cultural Build</a> was to iterate on the mission, vision and values of the TEC. It seemed appropriate to understand the direction of the path we want to open before just walking in it. A big learning from this early step is that we needed a decision making process before making any decision <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=9\" title=\":sweat_smile:\"/></p>\n<p>Now, we have Tokenlog, an incredible decision making tool that uses quadratic voting and fits perfectly the Mission use case. Tokenlog will also be used to pick the TEC Hatch DAO parameters so it’s a great timing to get familiar with it.</p>\n<p>Nevertheless the early stage, the first iteration of the mission, vision and values was so valuable and this<a href=\"https://miro.com/app/board/o9J_ko8MJkI=/\"> Miro board </a>still offers key insights.</p>\n<p>We have evolved immensely since day one of the Cultural Build and we count now with 270+ active contributors and Hatchers who should have an opportunity to collaborate with our mission, vision and value statements.</p>\n<hr/>\n<p><strong><img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/> <a href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Vote on MVV Now!</a> <img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/></strong></p>\n<hr/>\n<h3>Here are the former statements for reference:</h3>\n<h3>TEC Vision</h3>\n<p>The TEC envisions a world with safe digital socio-economic public infrastructures that are diversely designed and aligned with collective needs.</p>\n<h3>Values</h3>\n<p>The TEC operates from a prosocial human centered perspective.</p>\n<p>We hold ourselves to high standards of safety, resilience, and integrity.</p>\n<p>We encourage our members to be radically open source, non-hierarchical, creative, transparent in their intentions and accountable for their actions.</p>\n<p>We are value driven, (not profit driven) and will strive to support token engineering projects that appreciate the value of public goods and ethical, inclusive economic systems.</p>\n<p>See also, the <a href=\"https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit#\">TEC Code of Conduct</a></p>\n<h3>Near Term Mission</h3>\n<p>Our primary goal in the near term is to get the Token Engineering Commons (TEC) launched, and operating, with a resilient culture. Once launched, the TEC (smart contracts and culture built around it) will align incentives around advancing the token engineering discipline.</p>\n<p>There are a many requirements to fulfill, these are just some of the most important:</p>\n<ul>\n<li>The TEC will be launched by a Trusted Seed, a critical mass of token engineering, decentralized governance, and commons management “experts.”</li>\n<li>The TEC will consist of an Augmented Bonding Curve (or similar bonding curve) feeding into a community pool of funds that can be disbursed using Conviction Funding.</li>\n<li>The Token Engineering Commons will be able to be upgradable so that it can improve upon its initial design.</li>\n</ul>\n<p>The cultural and technical build are currently happening to ensure a successful launch of the TEC and are the focus until they are completed and the TEC is allocating funding to support TE Public Goods.</p>\n<h3>Long Term Mission</h3>\n<p>The TE Commons mission is to gather and steward the efficient distribution of funds to projects in the emerging field of token engineering to encourage the robust and ethical design of tokenized infrastructures. The TE Commons will curate and connect projects to the resources they need, while also evolving and maintaining our own healthy culture &amp; regenerative infrastructure where capital supports contributions, contributions create value, value empowers token engineers, and people who appreciate token engineers being empowered contribute capital of all sorts.</p>\n<h3>So how is this gonna work?</h3>\n<h2>Step 1 - PROPOSING</h2>\n<ul>\n<li>\n<p>Go to <a class=\"inline-onebox\" href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Tokenlog · Token-weighted backlogs</a></p>\n</li>\n<li>\n<p>To submit a proposal is super easy, click on “new issue”. This will bring you to a Github issue template which you should fill with one statement for the mission, one for vision and one for values. This time we aren’t doing “Near” and “Long” term missions, just Mission, since we are so close to hatching.</p>\n</li>\n<li>\n<p>You can be creative with the title <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n</li>\n<li>\n<p>Click “Submit new issue” and it will pop up automatically on Tokenlog.</p>\n</li>\n</ul>\n<h3>What if someone sent a mission and values I like but I want to change the vision?</h3>\n<ul>\n<li>Copy and paste their mission and values and give them the credit by mentioning the number of their issue.</li>\n<li>Create your version of the mission and submit the issue.</li>\n<li>This is valid for any combinations between the 3 statements .</li>\n</ul>\n<h3>What if I want to change something small or just the wording of a proposal?</h3>\n<ul>\n<li>Leave a comment on the issue you’re looking at, the owner might want to incorporate your feedback!</li>\n<li>If they don’t reply within a day or don’t want to incorporate the suggestion you’re encouraged to post your own proposal with your name and mention it’s a FORK of proposal x in the title.</li>\n</ul>\n<h2>Step 2 - VOTING</h2>\n<ul>\n<li>You can vote if you’re a member of the Trusted Seed Association</li>\n<li>Go to <a class=\"inline-onebox\" href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Tokenlog · Token-weighted backlogs</a>\n</li>\n<li>Choose the xDAI network on your wallet</li>\n<li>Click “connect” on the top right corner, make sure to be logged in your Trusted Seed address</li>\n<li>Pick your favorite proposals and distribute your votes!</li>\n</ul>\n<h3>How is the winner chosen?</h3>\n<p>If a proposal has over 50% of the total voting power, then it is the winner. Otherwise, the top 3 to 5 submissions will have another voting round and the one with more votes will win. Because of the potential for votes to be split amongst forked proposals that are similar, the Community Stewards will choose the top submissions for the run-off.</p>\n<h3>What if there is a polarized scenario, where 2 to 3 different proposals have an evenly split majority of votes in the run-off?</h3>\n<p>In this case, the top 2 or 3 authors will be invited to a hack session to merge their proposals together and the result will be the mission vision and values.</p>\n<hr/>\n<p><strong><img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/> <a href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Vote on MVV Now!</a> <img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/></strong></p>\n<hr/>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075333",
+    "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-12T12:54:55Z",
+   "updated_at": "2021-04-12T12:54:55Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The voting session ends tomorrow during Soft Gov call at 7pm CET! There is still time to submit proposals and <a href=\"https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317\">ROCK THE VOTE!</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075333",
+    "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-15T20:51:51Z",
+   "updated_at": "2021-04-20T17:30:56Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h3>We closed the first round of MVV today</h3>\n<p><img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=9\" title=\":partying_face:\"/> thanks to all the <strong>10 submissions!!</strong><br/>\n<img alt=\":writing_hand:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=9\" title=\":writing_hand:\"/>The votes came from <strong>18 unique addresses</strong><br/>\n<img alt=\":open_mouth:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/open_mouth.png?v=9\" title=\":open_mouth:\"/>With a total amount of <strong>1858 votes</strong>,<br/>\n<img alt=\":zap:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/zap.png?v=9\" title=\":zap:\"/>that have cost <strong>94,932 of voting power</strong></p>\n<p>The top 4 proposals are very close to each other in number of votes, so this Sunday 18th at 4pm CET we’ll get together for an MVV runoff and prepare a final voting session to pick a definite winner to be announced in the next Soft Gov call on Tuesday at 7pm CET when votes will be closed.</p>\n<p>Here are the top 4 submissions:</p>\n<h2>1. Advancing TE for the benefit of humanity</h2>\n<h3><strong>Vision</strong></h3>\n<p>The TEC is advancing the field of Token Engineering to support the ethical and robust design of complex tokenized systems for the benefit of humanity.</p>\n<h3><strong>Mission</strong></h3>\n<p>To steward efficient collection and distribution of funds to TE projects that will continue to develop tools and mechanisms to design and test their assumptions. Creating guidelines for quality and safety of token engineering practices and especially to foster a nourishing environment for collaboration, education and continuous research.</p>\n<h3><strong>Values</strong></h3>\n<p>The TEC operates from a value driven human centered perspective. Curiosity, constructive inquiry, presence and gratitude are the foundations for mutual respect and growth. .<br/>\nWe encourage our members to be radically open source, non-hierarchical, creative, transparent in their intentions and accountable for their actions.<br/>\nWe will strive to support token engineering projects that appreciate the value of ethical, diverse and inclusive economic systems.</p>\n<h2>2. Advancing TE via culture and economy</h2>\n<h3><strong>Vision</strong></h3>\n<p>The TEC will Advance Token Engineering by supporting the development of TE best practices and making it easy for anyone to learn and apply them.</p>\n<h3><strong>Mission</strong></h3>\n<p>The TEC will use its token economy to distribute funds to projects that are advancing token engineering, but on top of that economic layer, we strive to unite the token engineering field socially. The TEC’s mission is to become a Schelling Point for the TE community for various topics, not just for allocating funding and aiding in project discovery, but also for important discussions around ethics, standards, tools, and countless other topics that members of the field come across as this nascent field of research advances.</p>\n<p>We will design our organization to align the advancement of token engineering with the individual benefit of its members. If the TEC provides value to the greater society, then the individual members will also be rewarded at the individual level.</p>\n<h3><strong>Values</strong></h3>\n<p>The TEC operates from a prosocial human centered perspective.</p>\n<p>We hold ourselves to high standards of safety, resilience, and integrity.<br/>\nCuriosity, constructive inquiry, presence and gratitude are our foundations for mutual respect and growth.</p>\n<p>We encourage our members to be radically open source, non-hierarchical, creative, transparent in their intentions and accountable for their actions.</p>\n<p>We are value driven and will strive to support the advancement of token engineering through projects that appreciate the value of public goods and ethical, inclusive economic systems, even at the expense of individual profit.</p>\n<h2>3. <img alt=\":brain:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/brain.png?v=9\" title=\":brain:\"/> The Braintrust <img alt=\":brain:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/brain.png?v=9\" title=\":brain:\"/>\n</h2>\n<h3><strong>Vision</strong></h3>\n<p>The vision of the TEC is encapsulated in our three-word tagline, Advance Token Engineering. We see it as inevitable that web3 enabled systems will continue to become more prominent - and eventual cornerstone - fixtures in our social and economic structures. As such, we are laser focused on a world where sustainable and ethical standards are an inseparable part of crypto-economic systems engineering.</p>\n<p>The TEC is the Braintrust of Token Engineering. We are the cross-disciplinary community of the emergent and cross-disciplinary field of Token Engineering. It is the collective experience and intelligence of our engineers, researchers, philosophers and every contributor that provides the fertile ground for our landmark achievements and innovation in the name of advancing Token Engineering.</p>\n<h3><strong>Mission</strong></h3>\n<p>Our mission is to realize our vision in these three primary ways:</p>\n<p>1 - Fund open source software and tools, research and education.<br/>\nGather and steward the efficient distribution of funds to Token Engineering projects that serve to provide research, education and tools to the wider community as building blocks for even greater innovations to come.</p>\n<p>2 - Foster the Braintrust.<br/>\nCongregate the most trusted and experienced in the Token Engineering community to provide insight and directional guidance on the important topics to address and problems to solve in order to ensure the visions we have become reality.</p>\n<p>3 - Maintain and evolve the cultural build of our collective community.<br/>\nCreate a nourishing environment for collaboration, education and continuous research. Connect Token Engineering projects and resources, cultivating a passionate and benevolent community, incentivizing contributions to the commons, and being the hub of a thriving, sustainable, tokenized ecosystem.</p>\n<h3><strong>Values</strong></h3>\n<p>The TEC operates from a prosocial human centered perspective. Curiosity, constructive inquiry, presence and gratitude are our foundations for mutual respect and individual and community evolution.</p>\n<p>We hold ourselves to high standards of safety, resilience, and integrity. We encourage our members to be holarchical, creative, deliberately developmental, transparent in their intentions, radically inclusive, with an open source mindset, transparent in their intentions and accountable for their actions.</p>\n<p>We are value driven, over profit driven and will strive to support the advancement of token engineering through projects and a community that appreciates the value of all resources and ethical, inclusive economic systems.</p>\n<h2>4. Commons for Token Engineering</h2>\n<h3><strong>Vision</strong></h3>\n<p>The TEC advances the transdisciplinary field of Token Engineering by taking care of it as a Common Pool Resource that is self governed and ruled by the community. We encourage ethical and robust designs of complex tokenized systems for the benefit of humanity through an ethical and high thinking membership participating in a deliberately developmental organization.</p>\n<h3><strong>Mission</strong></h3>\n<p>To gather and steward the efficient distribution of funds to TE projects and assist in the development of the community around it so that its members can develop tools and mechanisms to design and test their assumptions, aiming to create a positive impact upon humanity. Promoting guidelines for quality and safety of token engineering practices and especially to foster a nourishing environment for collaboration, education and continuous research.</p>\n<p>The TEC’s mission is to become a default focus point (Schelling Point in game theory) for the TE community around ethics, standards, tools, and participants who are creating and advancing this nascent field of study. We design our organization to align the advancement of token engineering with the individual benefit of its members. If the TEC provides value to the greater society, then the individual members should also be rewarded also at the individual level.</p>\n<h3><strong>Values</strong></h3>\n<p>The TEC operates from a prosocial human centered perspective. Curiosity, constructive inquiry, presence and gratitude are our foundations for mutual respect and growth.</p>\n<p>We hold ourselves to high standards of safety, resilience, and integrity. We encourage our members to be holarchical, creative, deliberately developmental, transparent in their intentions, radically inclusive, with an open source mindset, transparent in their intentions and accountable for their actions.</p>\n<p>We are value driven, over profit driven and will strive to support the advancement of token engineering through projects and a community that appreciates the value of all resources and ethical, inclusive economic systems.<br/>\n…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075333",
+    "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210329134528",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210420132147",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420132147",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210729022905",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210729022905",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230505132059",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530075333",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530075333",
+   "url": "https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296"
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "id": 516,
+ "title": "Augmented Bonding Curve - Opening Price & Reserve Ratio",
+ "slug": "augmented-bonding-curve-opening-price-reserve-ratio",
+ "category_id": 26,
+ "posts_count": 19,
+ "created_at": "2021-07-29T20:21:33.867Z",
+ "last_posted_at": "2021-12-15T07:26:37.817Z",
+ "views": 2144,
+ "highest_post_number": 21,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "last_archived_post_at": "2021-12-15T07:26:37Z",
+ "captured_between": [
+  "2021-09-19T22:29:00Z",
+  "2026-01-21T12:06:30Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-07-29T20:21:34Z",
+   "updated_at": "2023-11-22T05:54:01Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#opening-price-initial-buy-reserve-ratio-1\" name=\"opening-price-initial-buy-reserve-ratio-1\"></a>Opening Price, Initial Buy &amp; Reserve Ratio**</h2>\n<p>The <strong>Opening Price</strong> is the desired price that is set for the TEC token when it becomes available for exchange through the Augmented Bonding Curve Before the Initial Buy.</p>\n<p>The <strong>Initial Buy</strong> is the first buy of TEC tokens that happens at launch to mint tokens for the Commons collective Governance. It will take place at the Opening price, but as the buy is expected to be large (~250k wxDai) there will be slippage and it will greatly change the Price that TEC will list at for launch.</p>\n<p>The <strong>Reserve Ratio</strong> is a ratio between the market cap of the TEC token (<em>token supply x unit price</em>) and the value of the Reserve balance (<em>wxDai</em>) that will be fixed for the life of the Augmented Bonding Curve…</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nYou will have the option to set the Opening Price to any ($) amount that you would like, 1 wxDai = 1 US dollar. This choice, in pairing with the Commons Tribute establishes the Reserve Ratio which sets the relative price sensitivity for the TEC token.</p>\n<p><img alt=\"\" data-base62-sha1=\"hky2gRPGPznCUoCzpkSaDzY9Rb9\" height=\"32\" role=\"presentation\" src=\"https://forum.tecommons.org/uploads/default/original/1X/79779c1904818fd19849e7ff3e08267348a3835f.gif\" width=\"406\"/></p>\n<p>The opening price you set will dictate the Reserve Ratio.  The total supply of TEC tokens minted will be dependent on how much wxDai is received by the HatchDAO during the Hatch Period.  The minting rate is set at 1:1 (wxDai : TEC), so if we reach our minimum target goal (800,000 wxDai) we will have a total supply of 800,000 TEC Tokens.</p>\n<p>The total value locked up in the Reserve Pool is dependent on both the amount of wxDai raised, and the Commons Tribute (%) parameter that you established earlier.  In order to make this easier to understand, lets look at an example with our minimum target goal:</p>\n<p>Total amount Raised: 800,000 wxDai<br/>\nTotal TEC minted = 800,000<br/>\nCommons Tribute (%) = 20%</p>\n<pre><code class=\"lang-auto\">Common Pool = 160,000 wxDai \nReserve Pool = 640,000 wxDai\n</code></pre>\n<p>In this scenario, we set our Commons Tribute (%) parameter to 20, which allocated 20% of the total funds raised to the Common Pool (a total of 160,000 wxDai), and the remaining 80% to the Reserve Pool (a total value of 640,000 wxDai).</p>\n<p>If we take our equation, <em>RR = Reserve Pool / (Total Supply of TEC * OPENING PRICE)</em>, we end up with our RR = 640,000 wxDai / (800,000 * OPENING PRICE).  If we want our Reserve Ratio to be locked at 1, the opening price would have to be $0.80.  It is important to understand that this ratio will be locked throughout the lifetime of the Bonding Curve.</p>\n<p>Since the Reserve Ratio is fixed, the purchase and sell of TEC tokens within the ABC will change the total supply of tokens as well as the price of each token with respect to the reserve balance and will be recalculated to maintain the configured reserve ratio between them.</p>\n<p>Understanding that setting the Opening Price parameter locks in our Reserve Ratio is incredibly important, but what does it mean?  Well, it has a lot to do with price sensitivity (the magnitude of volatility a single buy or sell from the curve has on the TEC price).  A higher reserve ratio between the Reserve Pool balance and the TEC token will result in a lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the TEC price movement.  Conversely, a lower ratio between the Reserve Pool balance and the TEC token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportional effect on the TEC price movement.</p>\n<p>Other implications to consider are the spectators, buyers, and the general public who are interested in participating within the TEC economy.  For most of us, we are receiving TEC tokens in the low 1 wxDai range, so setting an opening price at $21.00 will probably force people to hesitate with their decision to buy into our economy, hoping to buy in at a lower price, even if we establish a substantial vesting period through our Token Freeze and Token Thaw parameters.  If we set the price too low, we take a risk of not generating enough funds to fully support the TEC economy during the early days.</p>\n<p>The ABC is a very complex mechanism, and each decision has implications for so many others, so it is extremely important to evaluate this parameter with care.</p>\n<p><strong>Related Parameters to consider when defining the Opening Price parameter:</strong><br/>\nToken Freeze<br/>\nToken Thaw<br/>\nCommons Tribute</p>\n<p><strong>Suggested Range</strong><br/>\n$0.60 - 6</p>\n<p>Note this post was heavily edited to update the post to the evolving state of deployment</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-09-20T23:20:43Z",
+   "updated_at": "2021-09-20T23:20:43Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Just updating the numbers in the example with the actual amount raised during Hatch:<br/>\n1,571,223.57 WXDAI</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-11-19T07:13:13Z",
+   "updated_at": "2021-11-19T07:13:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Why does the Reserve Ratio be absolutely fixed? Why cannot the price sensitivity vary as desired to meet the larger objectives of the entity? And any adverse effects compensated with tokens? What will be the adverse effects anyway?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-11-19T07:14:52Z",
+   "updated_at": "2021-11-19T07:14:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>So what is the Reserve Ratio now, can I ask?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-12-07T04:57:30Z",
+   "updated_at": "2021-12-07T04:57:30Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>That’s exactly my question. I’m embarrassed to admit I’m just reading this post for the first time, evidencing the reality that my due diligence has been entirely lacking, but the idea of a fixed Reserve Ratio seems to immediately jump out as an opportunity missed for an oracle-based engineered solution to the price sensitivity/lack of liquidity concern/issue. It would seem like other on-chain data indicators could be employed through something like Chainlink to signal these problematically large transactions are potentially inbound to the ABC, and could trigger or otherwise provide a “just in time” back-door answer to the hypothetical “question” a whale transaction intentionally poses to an AMM through scale. In that way, the manipulation attempts, or FOMO frenzy, are de-pressurized into the Common Pool in our favor, through continuously-rapidly adjusted injections and removals of liquidity from some parallel obfuscated pool (now you see it, now you don’t), and potentially turning the weapons used against the curve to its benefit. I’m sure implementing this is more complicated (and costly) than I could ever dream, and that I’m beyond over-simplifying or missing some other critical parameter or consideration entirely, but that was just the thought that struck me as well. Why fixed? Can’t be variable? Even simple variable? Apologies also that there is admittedly no such thing as “simple” for any of this.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-12-08T05:47:57Z",
+   "updated_at": "2021-12-08T05:47:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Actually, the answer is the Reserve Ratio and the curvature of the bonding curve is in the nature of a committment to the tokenholders. Changing would it be violation of the committment. In all probability respecting it is also written into the legal arrangement and investors could demand such a clause.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-12-08T08:20:20Z",
+   "updated_at": "2021-12-08T08:20:20Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>So, I’m going to attempt to answer both <a class=\"mention\" href=\"/u/kojak\">@Kojak</a> and <a class=\"mention\" href=\"/u/gene\">@gene</a> on this topic. Forgive me if I misunderstand your responses.</p>\n<aside class=\"quote no-group\" data-full=\"true\" data-post=\"4\" data-topic=\"516\" data-username=\"Kojak\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/kojak/40/348_2.png\" width=\"20\"/> Kojak:</div>\n<blockquote>\n<p>So what is the Reserve Ratio now, can I ask?</p>\n</blockquote>\n</aside>\n<p>The Reserve Ratio has not yet been established.  At the moment we are currently going through our Commons Upgrade. Right now, members of the community are able to propose their own design patterns that include the parameters associated with the Bonding Curve, which determines the Reserve Ratio.</p>\n<aside class=\"quote no-group\" data-full=\"true\" data-post=\"3\" data-topic=\"516\" data-username=\"Kojak\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/kojak/40/348_2.png\" width=\"20\"/> Kojak:</div>\n<blockquote>\n<p>Why does the Reserve Ratio be absolutely fixed? Why cannot the price sensitivity vary as desired to meet the larger objectives of the entity?</p>\n</blockquote>\n</aside>\n<p>The benefit of having a Bonding Curve is that it serves as an Automatic Market Maker (AMM) which creates a source of liquidity without having to rely on external exchanges.  In order for this liquidity to be available for a community, the token supply parameter must be variable (users must be able to mint and burn tokens according to some mathematical relationship).</p>\n<p>The Reserve Ratio follows the formula stated above:</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"516\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>RR = Reserve Pool total value (wxDai) / Total Supply of TEC (TEC) * Price (wxDai/TEC)</p>\n</blockquote>\n</aside>\n<p>The Reserve Ratio is just an expression of this mathematical relationship.<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/d266e6c87f24c5ce2e66fdf87e974881a856a6ac\" href=\"https://forum.tecommons.org/uploads/default/original/1X/d266e6c87f24c5ce2e66fdf87e974881a856a6ac.png\" title=\"5fc10287d1d75e0d1baf4f09_um8DFnUIl3g3deVZB_SxwrqWrSTk1Uw68rGeGtkWs97xenNhVrqREH_tO7iBPANGeMVaci15ICrFZFWK-AGaS8cnRQq7UznC6zLd9xOTdqEK9pAsSpMqGwCFRFYz9TmqZd9mVnpM\"><img alt=\"5fc10287d1d75e0d1baf4f09_um8DFnUIl3g3deVZB_SxwrqWrSTk1Uw68rGeGtkWs97xenNhVrqREH_tO7iBPANGeMVaci15ICrFZFWK-AGaS8cnRQq7UznC6zLd9xOTdqEK9pAsSpMqGwCFRFYz9TmqZd9mVnpM\" data-base62-sha1=\"u1iJwoDCYUysfZ2o3QrgaNHBdeI\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/d266e6c87f24c5ce2e66fdf87e974881a856a6ac_2_10x10.png\" height=\"310\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/d266e6c87f24c5ce2e66fdf87e974881a856a6ac_2_517x310.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/d266e6c87f24c5ce2e66fdf87e974881a856a6ac_2_517x310.png, https://forum.tecommons.org/uploads/default/original/1X/d266e6c87f24c5ce2e66fdf87e974881a856a6ac.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/d266e6c87f24c5ce2e66fdf87e974881a856a6ac.png 2x\" width=\"517\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">5fc10287d1d75e0d1baf4f09_um8DFnUIl3g3deVZB_SxwrqWrSTk1Uw68rGeGtkWs97xenNhVrqREH_tO7iBPANGeMVaci15ICrFZFWK-AGaS8cnRQq7UznC6zLd9xOTdqEK9pAsSpMqGwCFRFYz9TmqZd9mVnpM</span><span class=\"informations\">696×418 46.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>I’m not sure what you mean by “as desired”.  The price-sensitivity is a by-product of the mathematical curve established within the ABC.  The higher the Reserve Ratio, the lower the volatility and vice-versa. If somehow we could adjust this ratio “as desired”, we would also be changing the shape of the curve.  Dynamic Bonding curves have been proposed before, but I believe there are issues associated with sybil protections.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"516\" data-username=\"gene\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gene/40/446_2.png\" width=\"20\"/> gene:</div>\n<blockquote>\n<p>the idea of a fixed Reserve Ratio seems to immediately jump out as an opportunity missed for an oracle-based engineered solution to the price sensitivity/lack of liquidity concern/issue. It would seem like other on-chain data indicators could be employed through something like Chainlink to signal these problematically large transactions are potentially inbound to the ABC, and could trigger or otherwise provide a “just in time” back-door answer to the hypothetical “question” a whale transaction intentionally poses to an AMM through scale.</p>\n</blockquote>\n</aside>\n<p>The Bonding-Curve IS the Oracle of truth within this system.  The design of the Bonding Curve mitigates the potential for whales and manipulation because of the cost it incurs for each additional token.  Can someone drop 3 million dollars (double our raise)?  Sure.  But the curve will drastically increase the cost and they will only have a small percentage of the overall token distribution.</p>\n<p>It seems that you are suggesting that we can safeguard the ABC against large transactions by adjusting the liquidity within the ABC when large transactions are detected on-chain…I’m not sure if we want to stop transactions at all.  If someone decides to drop 3+ million, 2-5 percent is going directly to the common pool, and they have likely 5-10x’d the price of the Token. If it is hostile they would probably control the funds in the common pool, but they will lose the organization (made of people).  Non-whales, previous whales, and contributors will sell their tokens in a race to the bottom, take their profits, fork the code, and start all over. The fact that the Reserve Ratio is fixed  is an even bigger deterrent.</p>\n<p>I hope I cleared something up?  I didn’t want to leave you both hanging without a response.  If you want to clarify or continue this dialogue, please do reply to this post!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-12-08T12:29:33Z",
+   "updated_at": "2021-12-08T12:29:33Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thank you nate. Apologies for putting you through that. I appreciate the clarification on the curve concept and your patience in kindly explaining something to somebody like myself who clearly has no place in the discussion. Will restrain myself from necessitating public clarifications and consuming your limited time that would be more valuable applied to literally anything else. Apologies to you as well <a class=\"mention\" href=\"/u/kojak\">@Kojak</a>. Didn’t mean to rope your legitimate questions into my ramblings. I’ll leave the conceptualizing and engineering to the qualified going forward. <img alt=\":disappointed:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/disappointed.png?v=10\" title=\":disappointed:\"/> <img alt=\":point_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_right.png?v=10\" title=\":point_right:\"/> <img alt=\":hole:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hole.png?v=10\" title=\":hole:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-12-08T15:46:35Z",
+   "updated_at": "2021-12-08T15:46:35Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/gene\">@gene</a> I am nowhere near qualified to respond.  Lol.  Don’t ever feel hesitant to post your thoughts on a subject.  That is what the forum is for, and the more we talk about things the better we understand.  I’m sure someone more qualified than me will come and correct everything I just said…but it will be corrected, we will all learn from it, and everyone benefits.  Its def. not a waste of time!</p>\n<p>Don’t stop engaging!  I just wanted to share my thoughts around the subject!  Please, feel free to keep the conversation going!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-12-08T15:54:48Z",
+   "updated_at": "2021-12-08T15:54:48Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks, <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> - had kinda figured it out and it was interesting to see in a recent AMA responding to <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> , <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> explained the relation between a Automatic Market Maker (AMM) and the Augmented Bonding Curve (ABC) by redefining ABC as the Primary (markets) AMM or <strong>pAMM</strong> which is a <em>continuous source of fund raising</em>. And ABC as the Secondary(markets) AMM or <strong>sAMM</strong> where tokens can have <em>a continuous source of liquidity</em>.</p>\n<p>Another question: Can the <strong>Reserve Ratio</strong> be changed through <em>TAO voting</em>?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-12-08T15:59:12Z",
+   "updated_at": "2021-12-08T15:59:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yes!  Jeff &amp; Jess explain it far more beautifully than I ever could!  I’m glad you got to discuss it with them!</p>\n<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"516\" data-username=\"Kojak\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/kojak/40/348_2.png\" width=\"20\"/> Kojak:</div>\n<blockquote>\n<p>Another question: Can the <strong>Reserve Ratio</strong> be changed through <em>TAO voting</em>?</p>\n</blockquote>\n</aside>\n<p>Unfortunately, no.  Once the Reserve Ratio is established it cannot be changed.  The only upgradeable components are the Entry &amp; Exit Tributes associated with the Curve.  <a class=\"mention\" href=\"/u/griff\">@Griff</a> had some thoughts prior about possibly having separate buy &amp; sell curves, although it may be off-subject from this question.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-12-08T17:44:20Z",
+   "updated_at": "2021-12-08T17:44:20Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>It wasnt really Jeff explaining it, he was actually redefining the Augmented Bonding Curve as the “Primary” AMM and he had a nice illustration too.</p>\n<p><img alt=\"image\" data-base62-sha1=\"hAgT9dU9Xl2pbN0lO0u7dbUVvuk\" height=\"330\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7b3e9e78150c7a2cff65d145bb969f9c133a3dec.jpeg\" width=\"443\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-12-08T22:59:12Z",
+   "updated_at": "2021-12-08T22:59:12Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>These are all great observations.  There could indeed be an advanced mechanism for a dynamic reserve ratio in a future Augmented Bonding Curve, which would likely come in handy in certain contexts (e.g. local economies growing large enough in scale of flow that they can tolerate smaller stock of reserves). But it also presents other issues - complexity of design as one issue, on top of the attack vectors <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> touched on.</p>\n<p>The ABC being deployed in the TEC is the first of its kind, and the intention is to iterate and improve features and functionality with lessons learned in subsequent deployments. I would be very interested to see the systemic effects of a variable reserve ratio bonding curve modelled in cadCAD!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-12-08T23:10:10Z",
+   "updated_at": "2021-12-08T23:10:10Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Glad you found the diagram helpful <a class=\"mention\" href=\"/u/kojak\">@Kojak</a>!  As you pointed out, the ABC is the primary market AMM and Uniswap (or other tools) would be secondary AMMs.</p>\n<p>However, given the different dynamics of the primary market and secondary markets (e.g. entry/exit tributes, etc), I’m thinking the ABC would be better labeled as a CMM (Commons Market Maker). Thoughts?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-12-09T11:41:02Z",
+   "updated_at": "2021-12-09T11:53:33Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>AMMs certainly has a certain degree of acceptance but defining ABC as the CMMs Commons Market maker is better than “Augmented Bonding Curve”. And,</p>\n<p>What I found really good about your clarification <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a>  is the linkage between the two and the continuous eco system it automatically creates: ABCs/CMMs as a source of <em>continuous funding</em> and AMMs as a source of <em>continuous liquidity</em>?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-12-12T15:18:59Z",
+   "updated_at": "2021-12-12T15:18:59Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"14\" data-topic=\"516\" data-username=\"JeffEmmett\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/jeffemmett/40/161_2.png\" width=\"20\"/> JeffEmmett:</div>\n<blockquote>\n<p>I would be very interested to see the systemic effects of a variable reserve ratio bonding curve modelled in cadCAD!</p>\n</blockquote>\n</aside>\n<p>challenge <strong>accepted</strong> sir <img alt=\":mouse:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mouse.png?v=10\" title=\":mouse:\"/> <img alt=\":heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=10\" title=\":heart:\"/> <img alt=\":brain:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/brain.png?v=10\" title=\":brain:\"/><br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a\" href=\"https://forum.tecommons.org/uploads/default/original/1X/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a.png\" title=\"Screenshot (70)\"><img alt=\"Screenshot (70)\" data-base62-sha1=\"lkUlFb1ek42v2BmBBOunUjqam6K\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a_2_625x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a_2_625x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a_2_937x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/958ab854d8c351ecc0dc65fa067c05a4b7eb4d6a_2_1250x1000.png 2x\" width=\"625\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot (70)</span><span class=\"informations\">1280×1024 199 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-12-13T17:45:23Z",
+   "updated_at": "2021-12-14T17:23:41Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"16\" data-topic=\"516\" data-username=\"Kojak\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/kojak/40/348_2.png\" width=\"20\"/> Kojak:</div>\n<blockquote>\n<p>What I found really good about your clarification <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> is the linkage between the two and the continuous eco system it automatically creates: ABCs/CMMs as a source of <em>continuous funding</em> and AMMs as a source of <em>continuous liquidity</em>?</p>\n</blockquote>\n</aside>\n<p>This is a good differentiation, although I would add that the ABC/CMM as a specific implementation of a P-AMM offers <em>continuous <strong>issuance</strong></em> (and burning) as well as continuous fundraising.  The primary function of the P-AMM itself is <em>algorithmic issuance of tokens based on reserve assets entered</em> into the primary market. This makes a P-AMM supported currency have something like a <em>breathing supply</em>, continually expanding and contracting with demand.</p>\n<p>The continuous funding is provided by the addition of the Common Pool which is fed by the continual entry/exit tax, which is where I would say the ABC/CMM as a market maker for the Commons more specifically. P-AMMs <a href=\"https://docs.gyro.finance/overview/core-elements/algorithmic-pricing/pamm\" rel=\"noopener nofollow ugc\">on their own</a> don’t necessarily have this common pool asset management strategy built in.</p>\n<p>The S-AMMs are primarily for continuous liquidity between other token assets, correct.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-12-13T17:47:27Z",
+   "updated_at": "2021-12-14T20:05:09Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Now we’re talking!!  <img alt=\":mouse2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mouse2.png?v=10\" title=\":mouse2:\"/><img alt=\":smiling_face_with_three_hearts:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiling_face_with_three_hearts.png?v=10\" title=\":smiling_face_with_three_hearts:\"/><img alt=\":chart_with_upwards_trend:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/chart_with_upwards_trend.png?v=10\" title=\":chart_with_upwards_trend:\"/></p>\n<p>Actually, now that I think about it the <a href=\"https://github.com/BlockScience/Risk-Adjusted-Bonding-Curves\" rel=\"noopener nofollow ugc\">“Risk-Adjusted Bonding Curve”</a> design that BlockScience worked on for <a href=\"https://www.ixo.world/alphabonds\" rel=\"noopener nofollow ugc\">ixo’s AlphaBonds</a> is a dynamic bonding curve, varying its reserve ratio depending on the assertions made in the associated prediction mechanism.</p>\n<p>Shaun wrote more about the potential use of these tools here: <a class=\"inline-onebox\" href=\"https://medium.com/ixo-blog/risk-adjusted-token-bonding-curves-eb4fffc86bf0\" rel=\"noopener nofollow ugc\">Risk-adjusted token bonding curves | by Dr Shaun Conway | ixo Journal | Medium</a></p>\n<p>There are also a few notebooks exploring the interrelated invariants of the dynamic bonding curve / prediction mechanism composition, if you’re interested to dive deeper <a class=\"mention\" href=\"/u/gene\">@gene</a>:  <a class=\"inline-onebox\" href=\"https://github.com/BlockScience/Risk-Adjusted-Bonding-Curves/blob/master/Math_Specification/2_Invariants.ipynb\" rel=\"noopener nofollow ugc\">Risk-Adjusted-Bonding-Curves/2_Invariants.ipynb at master · BlockScience/Risk-Adjusted-Bonding-Curves · GitHub</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-12-13T23:05:35Z",
+   "updated_at": "2021-12-13T23:05:35Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>You are right, that Tao Voting has no direct way to modify Reserve Ratio, however it does have the power to change the Virtual Supply and Virtual Balance as well as mint and burn tokens and move money out of the Reserve… so Technically… Tao Voting can change the shape of the bonding curve that is initially characterized by the Reserve Ratio at launch.</p>\n<p>However that is really not something that should be considered lightly. There would need to be a lot of thought and a lot of justification to do something like that, it sort of flies in the face of the point of having a bonding curve, the Reserve Ratio is supposed to be an invariant in the Bancor Bonding Curves… It would be like tweaking gravity a little… prob not a great idea… weird unexpected things could happen.</p>\n<p>But I could see one day that we grow large enough that we want to turn off the bonding curve to some extent and maybe even tap into those funds like DXDAO did… Then the ABC might have a different primary use case and it might make sense to play with things.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2021-12-15T07:26:37Z",
+   "updated_at": "2021-12-15T07:41:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"18\" data-topic=\"516\" data-username=\"JeffEmmett\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/jeffemmett/40/161_2.png\" width=\"20\"/> JeffEmmett:</div>\n<blockquote>\n<p>This makes a P-AMM supported currency have something like a <em>breathing supply</em>, continually expanding and contracting with demand.</p>\n</blockquote>\n</aside>\n<p>This analogy to breathing is perfect, in one more way, especially when its possible to couple the larger traditional finance/fiat  with its near infinite supply of funds, which could be  tapped into as needed, the way air is free, the cost of funds is near zero in traditional finance. Helps create what <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> once referred to as “finance becoming a feature”, the way almost every living system breathes, entities can “breathe” in funding, naturally!!! Cryptoeconomic systems, because they are emerging and  realising latent potential within an economy, it has the inherent capacity to earn far higher returns. It pays out more and has an indirect reflection in Staking Pools/Yield Farming returns. Its no aberration and can persist.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/95fe64c968c7c712b88c54abff49d30823de0753\" href=\"https://forum.tecommons.org/uploads/default/original/1X/95fe64c968c7c712b88c54abff49d30823de0753.png\" title=\"Proposal Inverter Mechanism\"><img alt=\"Proposal Inverter Mechanism\" data-base62-sha1=\"loUb6occugy1TEH9ZYJsAI292wP\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/95fe64c968c7c712b88c54abff49d30823de0753_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/95fe64c968c7c712b88c54abff49d30823de0753_2_462x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/95fe64c968c7c712b88c54abff49d30823de0753_2_462x500.png, https://forum.tecommons.org/uploads/default/original/1X/95fe64c968c7c712b88c54abff49d30823de0753.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/95fe64c968c7c712b88c54abff49d30823de0753.png 2x\" width=\"462\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Proposal Inverter Mechanism</span><span class=\"informations\">475×514 119 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div> .\n<p>Putting it in context,  these two features “continous issuance/burning” and “continuous liquidity”, coupled with the higher potential for higher returns in cryptoeconomic systems points to the natural and inevitable total disruption of existing financial systems.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121120630",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210919222900",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520075041",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520075041",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230414160101",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229105925",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229105925",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260121120630",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260121120630",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516/2"
+  }
+ ]
+}

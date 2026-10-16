@@ -1,0 +1,56 @@
+{
+ "id": 338,
+ "title": "Soft Gov WG Audit",
+ "slug": "soft-gov-wg-audit",
+ "category_id": 24,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2021-04-13T13:19:03Z",
+ "last_archived_post_at": "2021-04-13T13:19:03Z",
+ "captured_between": [
+  "2021-06-24T15:32:03Z",
+  "2023-02-04T02:47:54Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-13T13:19:03Z",
+   "updated_at": "2021-04-13T13:19:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This is Soft Gov wg transparency audit. You can check the document and give feedback if something doesn’t look accurate. Thanks Zeptimus and Ivy for making this a very easy and relevant process.</p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1i0ah8pU6lzcCcRSzAjHnMdqEJC6XXBQu9B-EMMhMp0w/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1i0ah8pU6lzcCcRSzAjHnMdqEJC6XXBQu9B-EMMhMp0w/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1i0ah8pU6lzcCcRSzAjHnMdqEJC6XXBQu9B-EMMhMp0w/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">Soft Gov audit DATE 04 13 2021</a></h3>\n<p>General Process\n\nGeneral Process\nFor the audit to be successful, the working groups will prepare the documentation needed to fulfill the audit criteria/checklist. The WG will then answer the audit criteria/checklist and get feedback from members...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204024754",
+    "url": "https://forum.tecommons.org/t/soft-gov-wg-audit/338"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624153203",
+   "url": "https://forum.tecommons.org/t/soft-gov-wg-audit/338"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624153203",
+   "url": "https://forum.tecommons.org/t/soft-gov-wg-audit/338"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204024754",
+   "url": "https://forum.tecommons.org/t/soft-gov-wg-audit/338"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204024754",
+   "url": "https://forum.tecommons.org/t/soft-gov-wg-audit/338"
+  }
+ ]
+}

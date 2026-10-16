@@ -1,0 +1,186 @@
+{
+ "id": 804,
+ "title": "Dogfooding the Proposal Inverter - TEC as a payer(funder/sponsor)",
+ "slug": "dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor",
+ "category_id": 7,
+ "tags": [
+  "advice-process"
+ ],
+ "posts_count": 7,
+ "created_at": "2022-01-10T16:28:48.478Z",
+ "last_posted_at": "2022-03-23T18:54:06.378Z",
+ "views": 3096,
+ "highest_post_number": 8,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2022-03-23T18:54:06Z",
+ "captured_between": [
+  "2022-01-24T04:02:32Z",
+  "2025-10-17T11:29:46Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2022-01-10T16:28:48Z",
+   "updated_at": "2022-01-13T19:09:07Z",
+   "reply_to_post_number": null,
+   "like_count": 11,
+   "cooked": "<h1>\n<a name=\"dogfooding-the-proposal-inverter-1\" class=\"anchor\" href=\"#dogfooding-the-proposal-inverter-1\"></a>Dogfooding the Proposal Inverter</h1>\n<p>A joint effort has been underway towards the development of the proposal inverter. Block Science, Longtail Financial, TEC, and PrimeDAO have all contributed resources and talent towards the spec and modelling of the PI. A development series was hosted in the TEC labs, which transformed into a workshop series hosted by PrimeDAO. LTF has been contributing developers, Blockscience produced the initial mathematical spec and model, and PrimeDAO has been pouring gasoline on the fire since the beginning by producing articles and other promotional materials around the impact of the proposal inverter.</p>\n<p>It’s now time to put the proposal inverter to the test by ‘dogfooding’ the model. Dogfooding is a common term in software engineering and product development that means that a product is good enough for the creators of it to use it. It extends from the idea of a dogfood company eating the food themselves, or atleast feeding it to their dogs. In this case, we want the creators of the proposal inverter to be the initial users of the proposal inverter.  To understand how this will work, some background on the PI’s purpose and usage will be required. Let’s begin with a summary of it’s purpose from the original PrimeDAO proposal inverter development proposal (October 2020):</p>\n<blockquote>\n<p>The proposal inverter inverts the DAO-proposal relationship. Such that, instead of having many proposals for a single DAO, we will have many DAOs for a single proposal. This enables the collaborative funding of proposals that benefit multiple DAOs throughout the ecosystem. You can think of this as solving the byzantine generals problem for the collective funding of public goods for DAOs.</p>\n</blockquote>\n<aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit\">\n  <header class=\"source\">\n\n      <a href=\"https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit\" target=\"_blank\" rel=\"noopener nofollow ugc\">docs.google.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <a href=\"https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit\" target=\"_blank\" rel=\"noopener nofollow ugc\"><span class=\"googledocs-onebox-logo g-docs-logo\"></span></a>\n\n<h3><a href=\"https://docs.google.com/document/d/135ZH2AByCU7cmXbG501Cu4Xl8LgMcJiHpb_-XzhNlzY/edit\" target=\"_blank\" rel=\"noopener nofollow ugc\">Proposal Inverter - PrimeDAO Proposal 🤖</a></h3>\n\n<p>This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the...</p>\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<h2>\n<a name=\"how-does-it-work-2\" class=\"anchor\" href=\"#how-does-it-work-2\"></a>How does it work?</h2>\n<p>The proposal inverter has three types of actors:</p>\n<ol>\n<li>Owners</li>\n<li>Payers</li>\n<li>Brokers</li>\n</ol>\n<p><strong>Owners</strong> are the creators of proposal inverter instances. They are the ones who identify the need for a particular public good to be developed and take the initiative of starting a campaign to acquire funding from payers and attracting brokers to produce or deliver the public good. An owner can also be a payer or a broker on the PI that they create or other PIs. An owner can also blacklist or whitelist brokers and determine the governance mechanism for modifying the lists.</p>\n<p><strong>Payers</strong> sign up to fund the development of a public good that has been identified by an owner. They simply send tokens to the Proposal Inverter.</p>\n<p><strong>Brokers</strong> are the workers. They produce or deliver the public good. They are compensated on a periodic frequency that is determined by the Owner when they initialize the PI.</p>\n<p>For more information see the mathematical spec here: <a href=\"https://hackmd.io/Id2t4vybRE-_QWwKqgs_KA\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Generalized Proposal Inverter - HackMD</a></p>\n<p>See the history of the proposal inverter development here:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://coal-beanie-b1e.notion.site/Proposal-Inverter-All-Records-46404f5c03864290aaf636081ab47976\">\n  <header class=\"source\">\n      <img src=\"https://coal-beanie-b1e.notion.site/images/favicon.ico\" class=\"site-icon\" width=\"64\" height=\"64\">\n\n      <a href=\"https://coal-beanie-b1e.notion.site/Proposal-Inverter-All-Records-46404f5c03864290aaf636081ab47976\" target=\"_blank\" rel=\"noopener nofollow ugc\">Notion</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_690x362.png\" class=\"thumbnail\" width=\"690\" height=\"362\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/a204008401d6542aa7936a0814f0fc5999b8a489.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_10x10.png\"></div>\n\n<h3><a href=\"https://coal-beanie-b1e.notion.site/Proposal-Inverter-All-Records-46404f5c03864290aaf636081ab47976\" target=\"_blank\" rel=\"noopener nofollow ugc\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n\n  <p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>See the PrimeDAO Proposal Inverter development dashboard here:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.notion.so/Proposal-Inverter-05972283128d43a3803d2ec959b9237b\">\n  <header class=\"source\">\n      <img src=\"https://www.notion.so/images/favicon.ico\" class=\"site-icon\" width=\"64\" height=\"64\">\n\n      <a href=\"https://www.notion.so/Proposal-Inverter-05972283128d43a3803d2ec959b9237b\" target=\"_blank\" rel=\"noopener nofollow ugc\">Notion</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_690x362.png\" class=\"thumbnail\" width=\"690\" height=\"362\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/a204008401d6542aa7936a0814f0fc5999b8a489.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_10x10.png\"></div>\n\n<h3><a href=\"https://www.notion.so/Proposal-Inverter-05972283128d43a3803d2ec959b9237b\" target=\"_blank\" rel=\"noopener nofollow ugc\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n\n  <p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<h2>\n<a name=\"the-dogfood-model-3\" class=\"anchor\" href=\"#the-dogfood-model-3\"></a>The DogFood Model</h2>\n<p>Owner: PrimeDAO<br>\n[Potential] Payers: PrimeDAO, TEC, GitCoin, Others<br>\nBrokers: Roughly 10 contributors who are primarly coming from LTF, PrimeDAO, and the Trusted Seed.</p>\n<p>Example:<br>\nEpoch length: 1 Month<br>\nAllocations per epoch: $2000DAI<br>\nNumber of Brokers: 10<br>\nMinimum Horizon: 2</p>\n<p>This would be a burn rate of $20,000DAI/Month with minimum funding for 2 months, which means a minimum of $40,000DAI funding.</p>\n<p>So, consider for this initial proposal, $15,000 from TEC, $15,000 from PrimeDAO and $15,000 from GitCoin for two months of development with a team of 10 people. This would leave a remainder of $5,000 in the PI which will be distributed to the workers in the case that the work is completed, or remain in the PI in the case that future funding is required.</p>\n<p>The above is a rough sketch and will be ran through simulations in the following week.</p>\n<p>Thanks for reading!! We are keen to receive feedback, recommendations, or eager contributors to become brokers (or payers!) on this proposal! Cheers to revolutionizing the nature of labour, collaboration, and funding of public goods!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "paparaw",
+   "name": null,
+   "created_at": "2022-01-10T21:36:26Z",
+   "updated_at": "2022-01-10T21:36:26Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-username=\"ygg_anderson\" data-post=\"1\" data-topic=\"804\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/ygg_anderson/40/29_2.png\" class=\"avatar\"> ygg_anderson:</div>\n<blockquote>\n<p>Roughly 10 contributors who are primarly coming from LTF, PrimeDAO, and the Trusted Seed.</p>\n</blockquote>\n</aside>\n<p>First off, great work.</p>\n<p>Second, I offer some questions to the collective in the spirit of dogfooding <img src=\"https://forum.tecommons.org/images/emoji/win10/dog.png?v=10\" title=\":dog:\" class=\"emoji\" alt=\":dog:\"></p>\n<ul>\n<li>Do we see these 10 people as regular contributors across all organizations, or open slots that undergo some curation? How are <strong>broker slots</strong> selected?</li>\n<li>To what legal entity should invoices be issued by the <strong>brokers</strong>? Would the brokers issue invoices to the <strong>owners</strong>? I ask as this is a key legal architecture and compliance question, therefore has considerations re: product design &amp; adoption by certain potential groups, such as well capitalized funds with one foot in the real-world.</li>\n<li>What deliverables or services should be expected from this team of 10 people? With such a low allocation per person, it seems like it’s more of a “wide bounty” than some sort of contract for services – do we have a specific intention or scope for these 10 contributors?</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2022-01-11T22:21:00Z",
+   "updated_at": "2022-01-11T22:21:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>What kind of contributors are you looking for to become Brokers within this first proposal? I’m very inspired by this article and would love to learn more.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "MrsBadgerface",
+   "name": "Anna-Marie Swan",
+   "created_at": "2022-01-17T20:38:58Z",
+   "updated_at": "2022-01-17T20:38:58Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Love this so much! The potential for partners and alliances in crypto-projects to fund work outside of their immediate borders is huge!</p>\n<p>I think it would be helpful to re-think the names. Owners, payers, brokers seems 1. a little intimidating, as language, and perhaps isn’t clear in what the role is, and 2. brokers just makes me think of brokers in the 80s <img src=\"https://forum.tecommons.org/images/emoji/win10/laughing.png?v=10\" title=\":laughing:\" class=\"emoji\" alt=\":laughing:\"></p>\n<p>No great ideas right now but I’ll let it sit in the back of my mind and come back if I get some inspiration.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-01-19T17:58:48Z",
+   "updated_at": "2022-01-19T17:58:48Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I’m really excited about the proposal inverter!</p>\n<p>At TE Academy we’ve already explored a similar setup with several DAOs funding one TE Academy program (see <a href=\"https://forum.gnosis.io/t/gip-15-governauts-rewards-systems-research-initiative/1857/2\" rel=\"noopener nofollow ugc\">here</a>, <a href=\"https://oceanpearl.io/projects/c2b3b1dAaD-governauts-rewards-systems-research\" rel=\"noopener nofollow ugc\">here</a> and <a href=\"https://www.sputnik.fund/#/dao/communitysquad.sputnikdao.near/proposals/158\" rel=\"noopener nofollow ugc\">here</a>).   It’s a great model, but requires a lot of overhead in managing communications, aligning timelines or settling transactions!<br>\nThe proposal inverter would be a huge leap towards collaborative funding - this makes so much sense since public goods need and will benefit many players.<br>\nWhen discussing potential features of the proposal inverter we’ve detected a lot of details to be tested in a practical application case - so I support dogfooding the tool.<br>\nCan’t say anything about the funding example published, but we should aim for making progress towards the launch the proposal inverter and make it available to all public good projects in the space!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-01-21T17:48:52Z",
+   "updated_at": "2022-01-21T17:48:52Z",
+   "reply_to_post_number": 5,
+   "like_count": 2,
+   "cooked": "<p>One more comment here.</p>\n<p>Typically, such DAO tools or components are developed at hackathons, and receive funding to build</p>\n<ul>\n<li>the smart contracts</li>\n<li>a front-end</li>\n<li>and documentation</li>\n</ul>\n<p><strong>What’s missing:</strong> a model to run simulations and find the best parameter setting!</p>\n<p>In case of the Proposal Inverter, the tool comes with <em>an open-source model</em>, enabling any team to test and verify the best setup.</p>\n<p>Imagine this package becomes a standard to any component/tool launched in crypto!<br>\nThis would be a huge leap towards establishing token engineering practice and great value for the space. <img src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\" class=\"emoji\" alt=\":rocket:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2022-03-16T22:00:40Z",
+   "updated_at": "2022-03-16T22:00:40Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Following the Stewards Call 03/16/2022 we should follow up in this thread around some important questions regarding the TEC’s involvement as a Payer in the Proposal Inverter Proposal (PIP)</p>\n<ol>\n<li>How much should the TEC contribute - In the latest PIP iteration the PI team would like to request a <strong>one time 45k DAI</strong> in funding.</li>\n<li>What value does the Proposal Inverter create for the TEC and/or Token Engineering?</li>\n</ol>\n<p>I would like to use the second question to arrive at a conclusion for the first question but most importantly, let’s create a space for thoughtful discussion!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2022-03-23T18:54:06Z",
+   "updated_at": "2022-03-23T18:54:06Z",
+   "reply_to_post_number": 7,
+   "like_count": 5,
+   "cooked": "<p>We have 803,196.52 WXDAI… 45k is over 5.5% of our budget… I think it is just too high :-/</p>\n<p>Gitcoin, Radicle and PrimeDAO have large treasuries and on top of that can all effectively print money, but we are much smaller. We should ABSOLUTELY support this project… but maybe we should put in ~2.5% of our Treasury, which is about 20k.</p>\n<p>If any other group put in even 1% of their treasury, it would be wild how much money would come in.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251017112946",
+    "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124040232",
+   "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124040232",
+   "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706012232",
+   "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706012232",
+   "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230120183348",
+   "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251017112946",
+   "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": 673,
+ "title": "Transparency Audit Report - A New Approach",
+ "slug": "transparency-audit-report-a-new-approach",
+ "category_id": 28,
+ "posts_count": 2,
+ "created_at": "2021-10-21T14:02:21.180Z",
+ "views": 336,
+ "last_posted_at": "2021-12-23T09:05:23.494Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-12-23T09:05:23Z",
+ "captured_between": [
+  "2021-12-07T12:50:35Z",
+  "2022-05-20T08:22:23Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2021-10-21T14:02:21Z",
+   "updated_at": "2021-11-18T18:48:56Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>As we come closer to the Commons Upgrade, we think this is the best time to revisit our transparency audit process and find out where we can improve to make our community more transparent.</p>\n<p>The previous <a href=\"https://forum.tecommons.org/t/welcome-to-the-transparency-audit-index/473\">Transparency Audit</a> that specifically targeted the working groups was a good first step. This time, we think a bigger Transparency Audit Report covering all the important points happening in the TEC will be very beneficial for new members as well as members who can’t check on the community all the time. The goal of the report is to provide the members with information around the processes, decisions, funding, and other activities that the community should be aware of.</p>\n<p>There will be no transparency forms to be filled out by the WG stewards anymore. Instead, the Transparency WG will gather information/data that matter to the community and present them in this report, and the community has the duty of monitoring it and making sure everything is there. However, if any WG feels the need to improve their transparency, they can reach out to Transparency WG and request a transparency check.</p>\n<p>Here are the topics we’d like to cover in the Transparency Audit Report:</p>\n<ol>\n<li>\n<p>Processes (e.g. submitting a proposal, requesting funding., etc.)</p>\n<ul>\n<li>Publicly available documentation and links of these processes</li>\n<li>When the process has been created and why</li>\n<li>When the process has been stopped and why</li>\n</ul>\n</li>\n<li>\n<p>Decisions</p>\n<ul>\n<li>Decisions made internally (within smaller groups) that affected the community</li>\n<li>Decisions that went through the advice process</li>\n</ul>\n</li>\n<li>\n<p>Votes and results</p>\n<ul>\n<li>Forum</li>\n<li>Snapshot</li>\n<li>Tokenlog</li>\n<li>TAO voting</li>\n<li>Conviction voting</li>\n</ul>\n</li>\n<li>\n<p>Funding pool and fund movement</p>\n<ul>\n<li>\n<p>$TEC</p>\n<ul>\n<li>Revenue (inflow)</li>\n<li>Expenses (outflow)</li>\n<li>Total funding</li>\n<li>Fund distribution</li>\n</ul>\n</li>\n<li>\n<p>Commons Pool</p>\n<ul>\n<li>WGs</li>\n<li>TE Projects</li>\n<li>Rewards</li>\n<li>Other ops expenses</li>\n<li>Reserve</li>\n</ul>\n</li>\n<li>\n<p>TE Projects</p>\n<ul>\n<li>Funding proposals</li>\n<li>How are those funds being used (Transparency WG is available to help with that matter if the project needs it)</li>\n<li>Carry-over and future budget to accomplish the goals</li>\n</ul>\n</li>\n<li>\n<p>WG and contributors</p>\n<ul>\n<li>Funding proposals</li>\n<li>How are those funds being used (Transparency WG is available to help on that matter if the project needs it)</li>\n<li>Carry-over and future budget to accomplish the goals</li>\n</ul>\n</li>\n<li>\n<p>Treasury management and Rewards</p>\n<ul>\n<li>Funding proposals</li>\n<li>How are those funds being used (Transparency WG is available to help on that matter if the project needs it)</li>\n<li>Carry-over and future budget to accomplish the goals</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p>$TEC holders ranking (data from Blockscout)</p>\n<ul>\n<li>Wallet addresses holding the top 30% of the total supply of $TEC</li>\n<li>Ranking of addresses with their respective %</li>\n</ul>\n</li>\n<li>\n<p>Monitoring community buying &amp; selling activities (addresses)</p>\n<ul>\n<li>General view</li>\n<li>Transactions that move the price by x%</li>\n<li>Top 10 buying and top 10 selling (based on number of $TEC tokens)</li>\n<li>How much is being bought and sold?</li>\n</ul>\n</li>\n<li>\n<p>Governance tokens</p>\n<ul>\n<li>How many governance tokens are minted (total supply)</li>\n<li>How many governance tokens are available for voting</li>\n<li>How many governance tokens are being used in farming, LP, etc.</li>\n<li>Where/how they are used\n<ul>\n<li>proposals voted on using the the tokens</li>\n<li>Farming, LP</li>\n</ul>\n</li>\n</ul>\n</li>\n</ol>\n<p>There are some controversial topics like the buying and selling activities of addresses. We would like to know your opinion if that would be beneficial for us (radical transparency) or dangerous (looking into individual addresses may raise privacy issues). Note that this data will also be available on the blockchain for everyone to see.</p>\n<p>If there’s anything that should be added to or removed from this list, please reply to this forum post. We’d appreciate all your feedback! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>\n<p>cc: <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520082223",
+    "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-11-08T10:24:29Z",
+   "updated_at": "2021-11-08T10:24:29Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> and I are chatting about this now and I have a lot of questions and feedback-  but I think what would be most helpful is seeing a sample of what this report will look like. Which parts are tables, which parts are pie charts or other kinds of charts even. Specific examples. You get the idea.</p>\n<p>Part 1 and 2: are still quite broad. Some specific examples here would help to narrow it down.<br/>\nPart 3: This one is very clear.<br/>\nPart 4:  TEC - What is meant by “total funding” and “fund distribution”?<br/>\nCommons Pool - this is a pie chart, right? Great!<br/>\nTE Projects, “WG and contributors”, “Treasure mgmt &amp; Rewards” - What do the last two items mean? How the funds are being used will be part of the proposal. What else is there to do? And what is carry-over?<br/>\nPart 5: Sure. Distribution is something people ask about.<br/>\nPart 6: What does “general view” mean? For the second, how soon is this reported after that movement? Immediately? Or a week later? For the third, only info that is available on the block explorer - so no names, right? Looking at this, I think that rather than looking at it as “Monitoring the community” this could be a “dashboard that reports statistics for the ABC”.<br/>\nPart 7:  Pretty straightforward once the gov-exclusive token actually happen.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520082223",
+    "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2021-12-23T09:05:23Z",
+   "updated_at": "2021-12-23T09:05:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> and I revised the sections to clarify some points and provide more details. See below <img alt=\":point_down:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_down.png?v=10\" title=\":point_down:\"/></p>\n<p><strong>Part 1. Processes</strong></p>\n<p>This covers most the cultural procedures that are relevant to the community at large, <em>for example:</em></p>\n<p>a. The Advice Process<br/>\nb. Creating a proposal on Snapshot<br/>\nc. Submitting funding and cultural proposals<br/>\nd. Nominating and offboarding stewards<br/>\ne. Requesting credentials<br/>\nf. Etc</p>\n<p>Information to be included:</p>\n<p>a. Documentation of these processes<br/>\nb. When the process has been created and why<br/>\nc. When the process has been stopped and why</p>\n<p><strong>Part 2. Decisions</strong></p>\n<p>This covers important decisions that don’t go through community voting:</p>\n<p>a. Made internally (within smaller groups) that affect the community, <em>for example</em>:</p>\n<ul>\n<li>\n<p>Choosing and offboarding stewards</p>\n</li>\n<li>\n<p>Default values of params in the dashboard</p>\n</li>\n</ul>\n<p>b. Went through the advice process, for example:</p>\n<ul>\n<li>Conducting a transparency audit</li>\n<li>The Covenant</li>\n</ul>\n<p><strong>Part 3. Votes and results</strong></p>\n<p>This covers ALL votes that went through the following tools:</p>\n<p>a. Forum<br/>\nb. Snapshot<br/>\nc. Tokenlog<br/>\nd. TAO voting<br/>\ne. Conviction voting</p>\n<p><strong>Part 4. Funding pool and reserve and fund movement</strong></p>\n<p>This covers the financial specifics pertaining to internal accounting and treasury management. We will use graphs and Dune Analytics to present most of this data.</p>\n<p>a. $TEC</p>\n<ul>\n<li>Revenue (inflow) from the Reserve</li>\n<li>Expenses (outflow) from the Commons Pool (fund distribution)\n<ul>\n<li>WGs</li>\n<li>TE Projects</li>\n<li>Rewards</li>\n<li>Other ops expenses</li>\n</ul>\n</li>\n<li>Total funding being held in the Commons Pool and Reserve</li>\n</ul>\n<p>b. TE Projects</p>\n<ul>\n<li>Funding proposals</li>\n<li>*Results: How are those funds being used after the proposal passed</li>\n</ul>\n<p>c. WG and contributors</p>\n<ul>\n<li>Funding proposals</li>\n<li>*Results: How are those funds being used after the proposal passed and what the WG accomplishes</li>\n<li>Excess budget</li>\n</ul>\n<p>d. Treasury management and Rewards<br/>\n<em>(Note: These two projects might turn into a working group later on. Therefore,</em><br/>\n<em>this part of the audit will be integrated in 4c.)</em></p>\n<ul>\n<li>Funding proposals</li>\n<li>*Results: How are those funds being used after the proposal passed</li>\n<li>Excess budget</li>\n</ul>\n<p>*<em>Transparency WG is available to help on that matter if the WG/project needs it.</em></p>\n<p><strong>Part. 5. $TEC holders ranking (data from Blockscout)</strong></p>\n<p>Wallet addresses holding the top 30% of the total supply of $TEC</p>\n<ul>\n<li>Ranking of addresses with their respective %</li>\n</ul>\n<p><strong>Part 6. Monitoring community buying &amp; selling activities (wallet addresses, no names)</strong></p>\n<p>a. General view of the $TEC (in graphics)</p>\n<ul>\n<li>Market supply</li>\n<li>Total number of token holders</li>\n<li>Total amount of $TEC in Commons Pool</li>\n<li>Total amount of wxDAI in Reserve</li>\n<li>Anything else?</li>\n</ul>\n<p>b. Transactions that move the price by x% in x period of time<br/>\nc. Top 10 buying and top 10 selling (based on number of $TEC tokens)<br/>\nd. How much is being bought and sold?</p>\n<p><strong>Part 7. Governance tokens</strong></p>\n<p>a. How many governance tokens are minted (total supply)<br/>\nb. How many governance tokens are available for voting<br/>\nc. How many governance tokens are being used in farming, LP, etc.<br/>\nd. Where/how they are used</p>\n<ul>\n<li>proposals voted on using the the tokens</li>\n<li>Farming, LP</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520082223",
+    "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207125035",
+   "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207125035",
+   "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220125104429",
+   "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520082223",
+   "url": "https://forum.tecommons.org/t/transparency-audit-report-a-new-approach/673"
+  }
+ ]
+}

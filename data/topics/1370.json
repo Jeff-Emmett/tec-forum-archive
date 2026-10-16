@@ -1,0 +1,137 @@
+{
+ "id": 1370,
+ "title": "TE Grant Round 4 $TEC Distribution Proposal",
+ "slug": "te-grant-round-4-tec-distribution-proposal",
+ "category_id": 32,
+ "posts_count": 5,
+ "created_at": "2024-05-16T04:32:02.163Z",
+ "last_posted_at": "2024-06-18T22:23:03.420Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2024-06-18T22:23:03Z",
+ "captured_between": [
+  "2024-05-21T18:59:31Z",
+  "2024-08-15T14:36:49Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-05-16T04:32:02Z",
+   "updated_at": "2024-07-19T20:14:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h2>\n<p>This proposal is merely a logistical procedure to acquire $TEC tokens from the Common Pool for the distribution of grant funds for Token Engineering Grant Round 4 (TEGR4)based on the already approved <a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353\">TEC 2024 Priorities &amp; Budget</a>.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h2>\n<p>The TEC will soon be distributing $50k worth of $TEC tokens between the 32 projects participating within TEGR4. While the TEC has disclosed that it will be distributing these funds in $TEC as we have with all previous rounds, it has never specified the source from where the price would be derived.</p>\n<p>At this moment, the TEC currently holds 97,000 $TEC (~$38k) in the Common Pool, which accounts for the majority of the tokens necessary for distribution. Use of these funds has already been approved in the <a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353#six-month-staffing-proposal-11\">TEC budget for 2024</a>, which includes $50K in funding for QF rounds. Using these $TEC tokens from the CP greatly reduces complexity and avoids an artificial increase in price pressure on $TEC from making large purchases. With this move, it will only be necessary to purchase an additional ~$12k worth of $TEC.</p>\n<p>In summary, we’ll be pulling $TEC out of the Common Pool and sending it to the TE Grants Program (TEGP) <a href=\"https://app.safe.global/home?safe=oeth:0x690ab933C5082049d20E53B21Dd37F9A346C8B47\">multisig</a> (per the budgeted request that’s already been approved), and using the existing $25K in the TEGP multisig and incoming Gitcoin funds to fund the additional ~$12K in $TEC purchases. The remaining funds will then be used to accumulate $TEC for future rounds.</p>\n<p><strong>Proposed Actions:</strong></p>\n<ol>\n<li>Withdraw 97k $TEC from the CP.</li>\n<li>Make an announcement that the distribution of $TEC will be based on the spot price of $TEC on the Secondary Market at time X.</li>\n<li>Make a purchase of $12k worth of $TEC (~3.59rEth) from the ABC.</li>\n<li>Distribute $TEC to the 32 projects based on the amount derived from spot price in step(2).</li>\n<li>Use half of the remaining $38k stablecoin from the TEGP funds to start purchasing and accumulating $TEC from the ABC on a recurring basis in preparation for following rounds.</li>\n<li>Monitor sell pressure from grantees on the secondary market.</li>\n<li>Once the majority of grantees have sold, use the remaining half of the 38k to purchase $TEC from the secondary market to match spot price derived in step(2).</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#amount-requested-3\" name=\"amount-requested-3\"></a>Amount requested</h2>\n<p>97,000 $TEC</p>\n<h2>\n<a class=\"anchor\" href=\"#what-does-success-look-like-4\" name=\"what-does-success-look-like-4\"></a>What does success look like?</h2>\n<ul>\n<li>All TEGR4 grantees receive their $TEC tokens on time, with clear communication about the price calculation.</li>\n<li>Effective management of sell pressure to keep the $TEC token price stable during and after the distribution.</li>\n<li>Have the possibility to start accumulating $TEC tokens to ensure funding is available for future grant rounds.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-5\" name=\"how-will-you-share-progress-5\"></a>How will you share progress?</h2>\n<p>All progress can be followed <a href=\"https://tecommons.notion.site/TEC-Roadmap-948b046df87144d7923632494a3a4461\">here</a>.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-6\" name=\"team-information-6\"></a>Team Information</h2>\n<p>TEC Coordination Team</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240815143649",
+    "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "rex",
+   "name": null,
+   "created_at": "2024-05-18T20:21:12Z",
+   "updated_at": "2024-05-18T20:21:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Bear! I would like to comment on two things here:</p>\n<p><code>Make an announcement that the distribution of $TEC will be based on the spot price of $TEC on the Secondary Market at time X.</code></p>\n<p>The SAMM price is extremely volatile, as the liquidity depth is very poor at the minute. You can check out in CoinGecko that it traded between 54 cents and 33 cents, even though the ABC has not shifted its price by nearly as much. <a class=\"inline-onebox\" href=\"https://www.coingecko.com/en/coins/token-engineering-commons\" rel=\"noopener nofollow ugc\">Token Engineering Commons Price: TEC Live Price Chart, Market Cap &amp; News Today | CoinGecko</a>.</p>\n<p>Instead, I would instead suggest getting the price directly from <a href=\"https://abcswap.xyz/tec\" rel=\"noopener nofollow ugc\">abcswap.xyz</a>, or directly from the bonding curve (with <a href=\"https://github.com/bonding-curves/conding\" rel=\"noopener nofollow ugc\">conding</a>)</p>\n<p><code>At this moment, the TEC currently holds 97,000 $TEC (~$38k) in the Common Pool</code></p>\n<p>Note, on the ABC, the price of TEC is:<br/>\n<strong>1 rETH = 6653.5718 TEC</strong>, or 51.8 cents. This in turn amounts to 96,525 $TEC to be distributed; hence, no more needs to be purchased nor sold for this grant round - just the total currently in the common pool.</p>\n<p>I hope this makes sense! I finished porting the <a href=\"https://dune.com/tec/tec\" rel=\"noopener nofollow ugc\">Dune dashboard here</a> this weekend for more information.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240815143649",
+    "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "rex",
+   "name": null,
+   "created_at": "2024-05-19T09:18:32Z",
+   "updated_at": "2024-05-19T09:18:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I have a third comment on this. This is a de facto increase on the budget of the Coordination Team. Would it instead not make sense for the coordination team to exchange part of the funds already received for TEC Tokens? If so, why not?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240815143649",
+    "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-05-21T06:46:46Z",
+   "updated_at": "2024-05-21T06:59:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Rex!</p>\n<p>Thank you for providing this feedback. I think that makes a lot of sense. I’m looping <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> into the conversation as he’s been leading the definition of this plan and might have a better understanding of the different implications.</p>\n<p>In regard to your other question:</p>\n<blockquote>\n<p>I have a third comment on this. This is a de facto increase in the budget of the Coordination Team. Would it not make more sense for the Coordination Team to exchange part of the funds already received for TEC Tokens? If so, why not?</p>\n</blockquote>\n<p>This request is to fund the TE Grants Program (QF grant round) directly as per the annual <a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353\">budget</a> for the TEC previously approved. The funds that were previously released are for Coordination Team staffing expenses for a period of 6 months. The budget breakdown for both the TEC and the Coordination Team proposal is also in <a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353\">here</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240815143649",
+    "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-05-21T06:58:08Z",
+   "updated_at": "2024-05-21T06:58:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The vote for this proposal is now live: <a class=\"inline-onebox\" href=\"https://dao.tecommons.org/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/3\" rel=\"noopener nofollow ugc\">Commons DAO</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240815143649",
+    "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2024-06-18T22:23:03Z",
+   "updated_at": "2024-06-18T22:23:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>UPDATE:</strong></p>\n<p>I am posting this to maintain financial transparency and fiduciary accountability around the TEC grants program.</p>\n<p>As a measure to ensure that we are prepared for future grant round distributions, the TEC is creating a <em>$TEC</em> purchasing process that will allow us to accumulate <em>$TEC</em> for future rounds.  As always we are consistently looking for partners and sponsors for each of our grant rounds as we have done in Token Engineering Grant Rounds (TEGR) 1 through 4.</p>\n<p>This purchasing process will allow the grant program to acquire enough <em>$TEC</em> prior to each round without having to make large predictable purchases.  This will prevent any type of front-running or significant market impacts to the ABC and secondary market.</p>\n<p><strong>The process is outlined here in the Functions &amp; Limits of associated TEC wallets:</strong></p>\n<blockquote>\n<p>Note: in order to purchase <em>$TEC</em> from the Augmented Bonding Curve (ABC), we will need to setup two accounts: A ‘Transaction Team Multisig’ responsible for purchasing <em>$rETH</em> (the collateral in our ABC) and an Externally Owned Account (EOA) to purchase the <em>$TEC</em>, as the current implementation of the ABC is unable to interact with a multisig wallet.</p>\n</blockquote>\n<p><strong>Token Engineering Grant Program (TEGP) Multisig</strong> - this wallet is responsible for receiving funding for our grant program and distributing $TEC to our grantees.</p>\n<p><em>Functions include:</em></p>\n<ul>\n<li>Receiving funds from the Common Pool or External Sponsors for the purpose of funding our grant program.</li>\n<li>Sending assets to the ‘Transaction Team Multisig’.</li>\n<li>Receiving <em>$TEC</em> from the ‘ABC EOA’ wallet.</li>\n<li>Distributing <em>$TEC</em> to grantees.</li>\n<li>There is no limit on the amount of funds under management.</li>\n</ul>\n<p><strong>Transaction Team Multisig</strong>  - this wallet is responsible for managing all transactions associated with the acquisition of <em>$rETH</em>. [The reason for separating the TEGP Multisig from the burden of transactions is that it makes it easier for transparency and historical investigations.]</p>\n<p><em>Functions include:</em></p>\n<ul>\n<li>Receiving funds from the ‘TEGP Multisig’.</li>\n<li>Implementing a Dollar Cost Average (DCA) purchasing strategy of <em>$rETH</em> on secondary markets.  (A DCA strategy involves weekly purchases of <em>$rETH</em> in the same $ amount to mitigate issues with the volatility of an asset.)</li>\n<li>Sending <em>$rETH</em> to the ‘ABC EOA’ wallet.</li>\n<li>The amount of funds under management at any given time will be limited to $30k.</li>\n</ul>\n<p><strong>ABC EOA</strong> - this wallet will be responsible for purchasing <em>$TEC</em> from the ABC and sending it to the ‘TEGP Multisig’.</p>\n<p><em>Functions include:</em></p>\n<ul>\n<li>Receiving <em>$rETH</em> from ‘Transaction Team Multisig’.</li>\n<li>Purchasing <em>$TEC</em> from the ABC.</li>\n<li>Sending <em>$TEC</em> to the ‘TEGP Multisig’.</li>\n<li>The amount of funds under management at any given time will be limited to $15k.</li>\n</ul>\n<p>In addition, the owner of the ‘ABC EOA’ wallet will follow strict reporting requirements:</p>\n<ul>\n<li>During the Coordination Team (CT) weekly meeting, the owner of ABC EOA must open the meeting with a brief evaluation of the OPScan address with members of the CT and report all activities in a manner where all members can verify actions taken to ensure accountability and transparency.  Violations of this procedure will result in termination of owner from any and all activities associated with the TEC.</li>\n</ul>\n<p>Here is a quick graphic to help explain!</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/c66fa8140ea8730949fb7e0cdcab528eab429aa1\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c66fa8140ea8730949fb7e0cdcab528eab429aa1.jpeg\" title=\"TEADP\"><img alt=\"TEADP\" data-base62-sha1=\"sjrLfXDXmPT4cR4UEhOBJBMJPO1\" data-dominant-color=\"BECFCD\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c66fa8140ea8730949fb7e0cdcab528eab429aa1_2_619x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c66fa8140ea8730949fb7e0cdcab528eab429aa1_2_619x500.jpeg, https://forum.tecommons.org/uploads/default/original/1X/c66fa8140ea8730949fb7e0cdcab528eab429aa1.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/c66fa8140ea8730949fb7e0cdcab528eab429aa1.jpeg 2x\" width=\"619\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">TEADP</span><span class=\"informations\">842×680 94 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>If you have any ideas, questions, or concerns regarding this process, please do let me know!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240815143649",
+    "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521185931",
+   "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240521185931",
+   "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815143649",
+   "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815143649",
+   "url": "https://forum.tecommons.org/t/te-grant-round-4-tec-distribution-proposal/1370"
+  }
+ ]
+}

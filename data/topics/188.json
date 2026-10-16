@@ -1,0 +1,177 @@
+{
+ "id": 188,
+ "title": "Tokenlog - Token-weighted backlog",
+ "slug": "tokenlog-token-weighted-backlog",
+ "category_id": 7,
+ "posts_count": 4,
+ "created_at": "2020-12-27T12:14:57.983Z",
+ "last_posted_at": "2021-01-20T08:23:53.466Z",
+ "tags": [
+  "conviction-voting"
+ ],
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-01-20T08:23:53Z",
+ "captured_between": [
+  "2021-03-06T01:53:10Z",
+  "2023-05-30T08:06:12Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2020-12-27T12:14:58Z",
+   "updated_at": "2021-11-12T21:39:24Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a>Proposal Title</h1>\n<p>Tokenlog - Token-weighted backlogs</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p>Tokenlog is a new governance tool that democratizes open-source software projects by creating token-weighted backlogs.</p>\n<p>It allows projects to continuously gather feedback from their token-holders and allows token-holders to signal which items matter to them rather than just vote on single proposals.</p>\n<blockquote>\n<p>A better way for projects to collaborate with their biggest supporters.</p>\n</blockquote>\n<h2>\n<a class=\"anchor\" href=\"#background-3\" name=\"background-3\"></a>Background</h2>\n<p>Tokenlog started as a hackathon project during the ETHOnline hackathon. It was inspired by the ideas and challenges of others.</p>\n<p>Dan Finlay, Metamask<br/>\n<a href=\"https://twitter.com/danfinlay/status/1296511092718329856?s=20\" rel=\"noopener nofollow ugc\"><img alt=\"\" data-base62-sha1=\"yRvQjNAyT61DDYb0toQ87lRz7zt\" height=\"148\" src=\"https://forum.tecommons.org/uploads/default/original/1X/f45681df7f89ce5dbc21f9ce92b55df4037b4c0b.png\" width=\"480\"/></a></p>\n<p><a href=\"https://medium.com/compound-finance/ethonline-2020-17-hackathon-project-ideas-767a93e6c680\" rel=\"noopener nofollow ugc\">Compound, hackathon challenge</a><br/>\n“Develop a system that makes it easier for the Compound community to coordinate governance actions; for example, where they could build a roadmap together, rather than discuss each proposal one at a time in a vacuum.”</p>\n<p>The project has gained a lot of attention during the hackathon. It received 4 sponsors’ prizes and several projects expressed interest to try or integrate with Tokenlog. It’s currently running as a trial for a few of these, incl. Commons stack.</p>\n<h2>\n<a class=\"anchor\" href=\"#why-4\" name=\"why-4\"></a>Why</h2>\n<p>A strong, resilient community is one that continues to develop, grow, and adapt to the changes in time and market conditions. That requires all members to be able to collaborate together and have the right tools to do so. Current governance systems however are often expensive, due to high gas fees or require high thresholds before even allowing to submit a proposal. This results in low participation rates or even worse, that smaller stakeholders delegate their tokens to a small, select group of concentrated power. While they do have the product’s best interest in mind, they’re often not engaged in the daily operation and development of the product.</p>\n<p>Tokenlog is planning to become part of a new stack, that allows for new development models of open-source software.</p>\n<p><a href=\"https://twitter.com/balajis/status/1326313315044192256\" rel=\"noopener nofollow ugc\"><img alt=\"\" data-base62-sha1=\"7XkfZtZZvNhOK1ND2pvi4ygaLxE\" height=\"344\" src=\"https://forum.tecommons.org/uploads/default/original/1X/37c4083e621af61bde04e50afaed032b4095d152.png\" width=\"482\"/></a></p>\n<h2>\n<a class=\"anchor\" href=\"#how-5\" name=\"how-5\"></a>How</h2>\n<ul>\n<li>Tokenlog is permissionless and free to set-up and configure.</li>\n<li>Integrates seamlessly into your Github workflow.</li>\n<li>Free off-chain and gasless ETH signature voting.</li>\n<li>Standard 1-token, 1-vote or quadratic voting.</li>\n<li>Fully open-source.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#proposal-details-6\" name=\"proposal-details-6\"></a>Proposal Details</h2>\n<p>While the product is stable and already being trialed, it is still in an early-stage/state. This proposal would allow the project to move forward from a hackathon idea to a more robust, quality product.</p>\n<p><strong>Presentation</strong> <a class=\"inline-onebox\" href=\"https://docs.google.com/presentation/d/1H68Vlm1jxuKBLq4eVBUA5Zq0s7xx6mvb5sAihI17EbA/edit?usp=sharing\" rel=\"noopener nofollow ugc\">Tokenlog // Introduction - Google Präsentationen</a><br/>\n<strong>Github</strong> <a class=\"inline-onebox\" href=\"https://github.com/wslyvh/tokenlog\" rel=\"noopener nofollow ugc\">GitHub - wslyvh/tokenlog: Token-weighted backlog(s)</a><br/>\n<strong>Backlog</strong> <a class=\"inline-onebox\" href=\"https://tokenlog.xyz/wslyvh/tokenlog\" rel=\"noopener nofollow ugc\">Tokenlog · Token-weighted backlogs</a><br/>\n<strong>Demo</strong> (commons-stack) <a class=\"inline-onebox\" href=\"https://tokenlog.xyz/commons-stack/iteration0\" rel=\"noopener nofollow ugc\">Tokenlog · Token-weighted backlogs</a><br/>\nOr set-up any other Github repository using the documentation.</p>\n<h2>\n<a class=\"anchor\" href=\"#expected-duration-or-delivery-date-7\" name=\"expected-duration-or-delivery-date-7\"></a>Expected duration or delivery date</h2>\n<p>The development of tokenlog will be an on-going effort. This proposal will focus on moving from a hackathon project to MVP. The expected duration will be ~3 months. The focus will be on a few key components, with a more loosely coupled architecture to allow for more efficient (future) integrations.</p>\n<ul>\n<li>\n<strong>Data sourcing</strong> - currently only supports Github. Plan is to integrate with other community and product management tools (e.g. Discourse)</li>\n<li>\n<strong>Data storage</strong> - currently stored on a centralized Mongo database. Plan is to move to a more decentralized and transparent storage solution that can be verified by others (e.g. IPFS)</li>\n<li>\n<strong>Voting</strong> - currently supporting a 1-token, 1-vote mechanism, or quadratic voting on issues. Plan is to experiment with other voting mechanisms both off-/on-chain at different stages of the development process (e.g. PR’s or bounties)</li>\n<li><strong>Improve UI/UX design</strong></li>\n</ul>\n<p>Development of this MVP will go in parallel with more research, trial runs and interviewing of product &amp; community managers. These results will help further drive the development and roadmap of Tokenlog. The plan for Tokenlog itself is to dogfood the solution (launch a non-transferable governance token) and reward/distribute these to other contributors (e.g Sourcecred).</p>\n<p>Additional proposals might follow, for later stages, depending on the above research, trial runs and if we feel it would continue to benefit the Token Engineering community.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h2>\n<p><strong>Wesley van Heije</strong><br/>\nI’m an Indie maker who likes to build products &amp; teams, with a successful track record delivering enterprise-grade products &amp; solutions for leading international organizations (Microsoft, Accenture). For the last 4 years, I’ve focused primarily on blockchain and Ethereum (ConsenSys, Shell, Ethereum Foundation) and have developed several open-source side-projects and tools.</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/wslyvh\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/wslyvh\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"460\" src=\"https://forum.tecommons.org/uploads/default/original/1X/970aa1226439b15143f4e2328e8fd1c89477a29a.jpeg\" width=\"460\"/>\n<h3><a href=\"https://github.com/wslyvh\" rel=\"noopener nofollow ugc\" target=\"_blank\">wslyvh - Overview</a></h3>\n<p>Indie Maker 🛠️ Devcon @ethereum. wslyvh has 60 repositories available. Follow their code on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p><a class=\"onebox\" href=\"https://www.twitter.com/wslyvh\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://www.twitter.com/wslyvh</a><br/>\n<a class=\"onebox\" href=\"https://www.wslyvh.com\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://www.wslyvh.com</a></p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-9\" name=\"funding-information-9\"></a>Funding Information</h2>\n<p>Amount of tokens requested:<br/>\n€ 5,720 EUR in stablecoin.</p>\n<p>For the successful execution of this proposal, I’m requesting a total of € 5,720 EUR in stablecoin, based on an average of 8 hrs/week for 13 weeks at a rate of € 50/hr. An additional 10% was added for contingency.</p>\n<p>Ethereum address where funds shall be transferred:<br/>\n0xcBC3Dc48Ba005cd292de77E582D5B9c55E43b95C</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080612",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-29T00:31:23Z",
+   "updated_at": "2020-12-29T00:31:23Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Would you give some thought into what the second part of this may look like for future proposals?  This is a fantastic idea.  It would be nice to know at least a just little more about where it can go? Then again, maybe I just want to know?? lol</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210306015310",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2020-12-29T10:14:26Z",
+   "updated_at": "2020-12-29T10:14:26Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Sure, of course! Although the roadmap (and thus future proposals) will depend on more research, interviews, and learnings from earlier phase(s). A few things that I’m considering at the moment are:</p>\n<ol>\n<li>\n<p>Full &amp; native Github integration (Github App/actions). I don’t believe another tool to monitor will solve much of the mentioned problems. I’d like to integrate as close to the source/workflow as possible, depending on where token-holders &amp; community members hang out most. The Tokenlog UI would offer an option to view the prioritized backlog, but shouldn’t be the (only) place to manage it. This could potentially on-board non-blockchain related projects into the ecosystem as well.</p>\n</li>\n<li>\n<p>Explore additional voting options &amp; mechanisms. Right now you can only upvote issues and your votes remained ‘fixed’ until the issue is completed. Early feedback already suggested allowing to downvote or ‘unvote’. I’m also looking at existing open-source guidelines, such as <a href=\"https://httpd.apache.org/dev/guidelines.html\" rel=\"noopener nofollow ugc\">Apache’s voting committee</a>. They provide rules for voting (+1, neutral or -1) on different action items, such as change requests, patches, releases, etc.</p>\n</li>\n<li>\n<p>Add on-chain activity. Right now, all voting happens off-chain. Which I think is fine for funneling in ideas &amp; proposals as early as possible. Once these proposals start to mature and get implemented, I can imagine they require a more ‘official’ community vote to pass. This could potentially be solved by integrating with existing solutions (e.g. Aragon, Snapshot, etc…).</p>\n</li>\n</ol>\n<p>*) Adding on-chain activity would also allow for other directions that I’ve been thinking about, such as adding bounties to items, sprints, or even money streams to contributors/teams.</p>\n<p>On all of these, happy to discuss and get more feedback <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080612",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-29T15:33:51Z",
+   "updated_at": "2020-12-29T15:33:51Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I love the github intergration.  I think you have a chance at doing something really cool.   Look forward to this!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210306015310",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "pacobacpac",
+   "name": null,
+   "created_at": "2021-01-19T11:13:07Z",
+   "updated_at": "2021-01-19T11:13:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Super interesting proposal that can definitely lead to a pillar in communities building things together.</p>\n<p>We have a very similar need in MetaGame, but not with github issues. Would love to chat and see how we can collaborate.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080612",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2021-01-19T14:15:38Z",
+   "updated_at": "2021-01-20T08:24:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi Paco, thanks for reaching out!</p>\n<p>While it’s currently not easy to pull in other data sources (than Github), this proposal (v2) should make it easier in the near future (see data sourcing). I’ll DM you how to see how Tokenlog could fit in with MetaGame. Curious to hear more!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080612",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2021-01-19T20:05:29Z",
+   "updated_at": "2021-01-19T20:05:29Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I hope you understand that you’re building something that could be bigger??..</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210306015310",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2021-01-20T08:23:53Z",
+   "updated_at": "2021-01-20T08:23:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Definitely. Hence the proposal <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080612",
+    "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306015310",
+   "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306015310",
+   "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025094019",
+   "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188/9"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025094019",
+   "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188/9"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080612",
+   "url": "https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188"
+  }
+ ]
+}

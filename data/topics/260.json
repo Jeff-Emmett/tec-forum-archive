@@ -1,0 +1,66 @@
+{
+ "id": 260,
+ "title": "🌾 Community Stewards WG",
+ "slug": "community-stewards-wg",
+ "category_id": 13,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2021-02-24T23:00:26Z",
+ "last_archived_post_at": "2021-02-24T23:00:26Z",
+ "captured_between": [
+  "2021-04-20T13:41:57Z",
+  "2026-04-12T16:47:28Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-02-24T23:00:26Z",
+   "updated_at": "2021-05-28T14:29:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The main objectives of the Community Stewards WG are to provide visibility across all of the separate work streams such that all Stewards walk forward together in lockstep to reach our high level TEC goals. Our weekly meetings are a place to check-in on the temperature of the community, to resolve blockers, to raise questions that affect the Stewards or the members of our community and to solve them with collective intelligence. We are agile in our planning and follow a 2-week Sprint cadence.</p>\n<p>Meetings: Wednesday at 7pm CET</p>\n<p>Where? <span class=\"hashtag\">#stewards</span> <a href=\"https://discord.gg/djC3yjb6sz\">Discord voice channel </a></p>\n<p>WG Lead: <span class=\"mention\">@Tam2140</span></p>\n<p>Discussions happen on <a href=\"https://discord.gg/djC3yjb6sz\">#stewards</a></p>\n<p><a href=\"https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit\">Community Stewards Manifesto</a></p>\n<p><a href=\"https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit\">Community Stewards Agenda </a></p>\n<p><a href=\"https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?repos=306706322\">Zenhub Sprint Board</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412164728",
+    "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420134157",
+   "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420134157",
+   "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928015456",
+   "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928015456",
+   "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260412164728",
+   "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260412164728",
+   "url": "https://forum.tecommons.org/t/community-stewards-wg/260"
+  }
+ ]
+}

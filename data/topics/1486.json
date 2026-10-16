@@ -1,0 +1,88 @@
+{
+ "id": 1486,
+ "title": "Article: Building the World Together: The Promise of Decentralized Physical Infrastructure Networks (DePIN)",
+ "slug": "article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin",
+ "category_id": 34,
+ "posts_count": 2,
+ "created_at": "2025-07-07T21:43:29.985Z",
+ "last_posted_at": "2025-07-19T21:22:04.590Z",
+ "views": 63,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2025-07-19T21:22:04Z",
+ "captured_between": [
+  "2025-07-19T11:26:21Z",
+  "2025-08-05T13:50:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-07-07T21:43:30Z",
+   "updated_at": "2025-07-10T16:58:15Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/ff93ff545473ecaa4b0bf74179f301c4c4b4d76a\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ff93ff545473ecaa4b0bf74179f301c4c4b4d76a.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"AsWPWQCMHR3UVgU5Yc3sv9nA9OW\" data-dominant-color=\"4E472E\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/original/1X/ff93ff545473ecaa4b0bf74179f301c4c4b4d76a.jpeg\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1080×540 52.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>The recent article “Building the World Together: The Promise of Decentralized Physical Infrastructure Networks (DePIN)” explored the emerging movement to build and govern real-world infrastructure through decentralized, community-aligned networks. Projects like Helium, Hivemapper, WeatherXM, Grass, Render, Akash, and Sunified are pioneering new models for deploying wireless networks, mapping data, weather stations, internet bandwidth, cloud computing, and energy grids using incentive mechanisms and tokenized participation.</p>\n<p>DePIN is a fundamental rethinking of how we coordinate effort in the physical world. It challenges legacy assumptions that infrastructure must be centrally financed, governed, and operated. It opens the door to localized, bottom-up models that reward contributors and communities directly.</p>\n<p>But this shift also raises deep questions about sustainability, accountability, and real-world adoption. Token incentives can kickstart participation, but what happens when emissions run out? Can networks governed by DAOs or multisigs make sound infrastructure decisions over time? Are we truly solving problems for people outside of crypto, or just building new systems that cater to ourselves?</p>\n<p>We’d love to hear your thoughts on this space. Some questions to get the conversation started:<br/>\n•\tWhich DePIN projects do you find most promising or impactful, and why?<br/>\n•\tWhat use cases are missing from the DePIN conversation that should be explored?<br/>\n•\tHow can DePIN projects build trust and engagement beyond the Web3 communities?<br/>\n•\tWhat models of governance and funding seem most sustainable for long-term infrastructure?<br/>\n•\tHow should policymakers and local governments engage with DePIN networks, if at all?</p>\n<p>As always, we’re interested in more than just technical takes.  We want to understand the social, economic, and political layers that shape how infrastructure works and who it serves. Are we heading toward a new commons or just a tokenized shadow of the systems we already know?</p>\n<p>Drop your thoughts, critiques, examples, or projects we should be watching!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805135018",
+    "url": "https://forum.tecommons.org/t/article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin/1486"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2025-07-08T20:18:07Z",
+   "updated_at": "2025-07-08T20:18:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I really enjoyed this article, <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. Nicely done. There were a number of projects I’d not heard of before.</p>\n<p>The Helium challenges in stimulating demand for the service seems indicative of a deep challenge. Their pivot to a more concentrated set of business customers is instructive too.  Projects that rely on widespread end user adoption are going to have a real challenge taking off for quite some time. Building awareness, and ultimately trial, across diffuse customer bases is expensive. That’s particularly true when a solution has to overcome deep sources of resistance, such as blockchain’s steep learning curve and the general bad name that crypto has developed in recent years.</p>\n<p>I’m still bullish though. The key is finding the disruptive new vectors of utility that matter to users and that the established players just can’t easily match. Microsoft Office still hasn’t really solved the online collaboration opportunity and that gave Google the opening it needed to establish a lead there. This is the “innovator’s dilemma” and the path to this kind of disruption.</p>\n<p>Thanks for writing this one. Very thought-provoking.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805135018",
+    "url": "https://forum.tecommons.org/t/article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin/1486"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "patrick-t-anderson",
+   "name": null,
+   "created_at": "2025-07-19T21:22:04Z",
+   "updated_at": "2025-07-19T21:22:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I believe the most important use cases are:</p>\n<ul>\n<li>Regenerative Food</li>\n<li>Regenerative Housing</li>\n<li>Regenerative Employment</li>\n</ul>\n<p>My team has designed a plan to solve all of these at once using 1 Coin and 3 NFTs to implement the ideals of Ethereum Localism as a series of regenerative, private micro-cities.</p>\n<p>Users gain real land ownership (<img alt=\":card_index_dividers:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/card_index_dividers.png?v=12\" title=\":card_index_dividers:\" width=\"20\"/>Deeds) as they work (fulfill <img alt=\":writing_hand:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=12\" title=\":writing_hand:\" width=\"20\"/>Contracts) to build and maintain the homes and supply-chains for the local production of the many future goods and services (<img alt=\":ticket:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/ticket.png?v=12\" title=\":ticket:\" width=\"20\"/>Tickets) they need, and to also produce enough surplus to sell for profit.</p>\n<p>All users gain home ownership and also own tiny fractions in each step of each supply-chain, to thereby <strong>own</strong> and control those future goods and services even before they have been produced.</p>\n<p>Proposed Timeline</p>\n<ol>\n<li>Mint 1 <img alt=\":coin:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/coin.png?v=12\" title=\":coin:\" width=\"20\"/>Coin for each square_meter of land.</li>\n<li>Sell those <img alt=\":coin:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/coin.png?v=12\" title=\":coin:\" width=\"20\"/>Coins to buy that land.</li>\n<li>Ask users which goods and services they want.</li>\n<li>Issue 1 <img alt=\":ticket:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/ticket.png?v=12\" title=\":ticket:\" width=\"20\"/>Ticket for each kind of future good or service.</li>\n<li>Issue 1 <img alt=\":writing_hand:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=12\" title=\":writing_hand:\" width=\"20\"/>Contract for each kind of future work required for all of that production.</li>\n<li>Offer a bundle of <strong>many</strong> <img alt=\":ticket:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/ticket.png?v=12\" title=\":ticket:\" width=\"20\"/>Tickets for each <img alt=\":writing_hand:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=12\" title=\":writing_hand:\" width=\"20\"/>Contract signature.</li>\n<li>Vest <img alt=\":card_index_dividers:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/card_index_dividers.png?v=12\" title=\":card_index_dividers:\" width=\"20\"/>Deeds of land ownership as <img alt=\":writing_hand:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=12\" title=\":writing_hand:\" width=\"20\"/>Contracts are fulfilled.</li>\n<li>Users hold <img alt=\":card_index_dividers:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/card_index_dividers.png?v=12\" title=\":card_index_dividers:\" width=\"20\"/>Deeds to own and govern future production.</li>\n<li>Some % of profit (from the sale of surplus goods and services) must be used to insure the users who paid that profit also gain <img alt=\":card_index_dividers:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/card_index_dividers.png?v=12\" title=\":card_index_dividers:\" width=\"20\"/>Deeds of land ownership.</li>\n</ol>\n<p>This creates a user-owned core surrounded by a growth-ring where surplus is sold for profit which causes the core to grow even further, until, theoretically, all land is user-owned, and profit will mostly be from new inventions and late changes in taste.</p>\n<p>Here is the latest version of our proposal</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://paragraph.com/@work_to_own/earth-change-business-model-1\">\n<header class=\"source\">\n<a href=\"https://paragraph.com/@work_to_own/earth-change-business-model-1\" rel=\"noopener nofollow ugc\" target=\"_blank\">paragraph.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/344;\"><img class=\"thumbnail\" height=\"344\" src=\"https://storage.googleapis.com/papyrus_images/4642db2927a803f20e98e04ba0d4543a.jpg\" width=\"690\"/></div>\n<h3><a href=\"https://paragraph.com/@work_to_own/earth-change-business-model-1\" rel=\"noopener nofollow ugc\" target=\"_blank\">Earth Change Business Model</a></h3>\n<p>Objective\n\nBuild regenerative communities where you slowly gain ownership in the real world assets required to host the local production of all essential goods and services.\n\nReal land ownership is distributed to you as you work-to-own your home and...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805135018",
+    "url": "https://forum.tecommons.org/t/article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin/1486"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20250719112621",
+   "url": "https://forum.tecommons.org/t/article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin/1486"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805135018",
+   "url": "https://forum.tecommons.org/t/article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin/1486"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805135018",
+   "url": "https://forum.tecommons.org/t/article-building-the-world-together-the-promise-of-decentralized-physical-infrastructure-networks-depin/1486"
+  }
+ ]
+}

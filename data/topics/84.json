@@ -1,0 +1,72 @@
+{
+ "id": 84,
+ "title": "Conviction Voting Parameters General Disccusion",
+ "slug": "conviction-voting-parameters-general-disccusion",
+ "posts_count": 0,
+ "category_id": 20,
+ "total_known": false,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2020-11-18T00:30:21Z",
+ "last_archived_post_at": "2020-12-01T06:04:11Z",
+ "captured_between": [
+  "2021-04-20T14:17:06Z",
+  "2023-02-04T03:19:10Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-18T00:30:21Z",
+   "updated_at": "2021-01-11T18:18:18Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The second component that we have demo’d is <a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">Conviction Voting</a> (CV). While we break down the Commons into technical and cultural components, and then further break down the components into parameters to better understand the details and choices, <strong>the Commons must be designed holistically</strong> as all components must work together to create a healthy economy to coordinate value production within the Token Engineering Public Goods space.</p>\n<h2>The Facts</h2>\n<p>We had a few CV implementations. The first CV deployment happened in October and was funded with 300 xDAI, but this is NOT the deployment discussed in this forum post, we will discuss the second deployment made on Thursday Nov 12th which is currently up at: <a href=\"http://gov.tecommons.org\">http://gov.tecommons.org</a></p>\n<p>This Test CV deployment was set with the <a href=\"https://github.com/TECommons/tec-template/blob/master/scripts/new-dao.js\">following Parameters</a>:</p>\n<p>Half Life = 12 hours<br/>\nMax Ratio = 40%<br/>\nMin Threshold = 0.5%<br/>\nMin Effective Supply = 0.25%</p>\n<h2>Smaller Discussion Posts</h2>\n<p><strong>Alpha/Half Life</strong><br/>\n</p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"160\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tamara/40/67_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160\">Half Life (Conviction Voting) Deep Dive</a> <a class=\"badge-wrapper bullet\" href=\"/c/Token-talk-anything-about-the-TEC-token-such-as-issuance-and-hatches/conviction-vote/20\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0088CC;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Conviction Vote</span></a>\n</div>\n<blockquote>\n    What is half life in Conviction Voting?\nIn Conviction Voting, half life is the parameter that determines the time it takes to accumulate or reduce voting power by 50%. Half life, defined in number of days, represents the number of days it takes to accumulate 50% voting power or to reduce by 50% voting power. \nFor example: \nIf the CV half life is 3 days, your tokens must back your favorite project for 3 days to reach 50% of those tokens’ max voting power, 6 days to reach 75%, 9 days to reach 87.5…\n  </blockquote>\n</aside>\n<p></p>\n<p><strong>Beta/Max Ratio</strong><br/>\n</p><aside class=\"quote quote-modified\" data-post=\"3\" data-topic=\"156\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/sem/40/23_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3\">Conviction Voting : Max Ratio/Beta - Deep Dive</a> <a class=\"badge-wrapper bullet\" href=\"/c/Token-talk-anything-about-the-TEC-token-such-as-issuance-and-hatches/conviction-vote/20\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0088CC;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Conviction Vote</span></a>\n</div>\n<blockquote>\n    I’d like to share some tools that will allow us to select beta and min threshold parameters. \nWe have an interactive graph on how much conviction is required depending on the funds requested. Tweaking beta (β) and min threshold (M) we can see how much conviction is needed. \n\n\nWe can also see how much conviction is gathered during time in this other interactive graph, in which you can interact with the three parameters: half-life, beta and min threshold.\n  </blockquote>\n</aside>\n<p></p>\n<p><strong>Min Threshold</strong><br/>\n</p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"155\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/freedumbs00/40/70_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155\">Conviction Voting Minimum Threshold</a> <a class=\"badge-wrapper bullet\" href=\"/c/Token-talk-anything-about-the-TEC-token-such-as-issuance-and-hatches/conviction-vote/20\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0088CC;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Conviction Vote</span></a>\n</div>\n<blockquote>\n    Conviction Voting Minimum Threshold \nWhat is the Minimum Threshold in CV??\nMinimum Threshold sets the minimum percent of tokens that are used for calculating the threshold to pass any proposal. \nIt is very similar to the <a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">Minimum Quorum needed in Dandelion Voting.</a> \nBecause proposals in Conviction Voting are token weighted and are a part of “continuous proposals” or dynamic average consensus the Minimum Threshold is the minimum conviction needed to pass a proposal. \nThe threshold calculation is de…\n  </blockquote>\n</aside>\n<p></p>\n<p><strong>Min Effective Supply</strong><br/>\nWIP, will link soon</p>\n<h2>What are we using this thread for?</h2>\n<p>This thread is a great place to collect the most important points from the various more detailed threads and eventually we will debate how to merge all the smaller parameter decisions into one coherent CV design, that fits with the overall Commons Design for the next Test Deployment.</p>\n<p>This thread is also a great place to ask general questions about Conviction Voting</p>\n<h2>Extra tools &amp; Links</h2>\n<p>Conviction Math simulated: <a href=\"https://www.desmos.com/calculator/yxklrjs5m3\">https://www.desmos.com/calculator/yxklrjs5m3</a></p>\n<p>Conviction Voting Blog Posts:</p>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/92828c7858211b02d0d926ab7420a83a29bb5e66.png\" width=\"32\"/>\n<a href=\"https://medium.com/commonsstack/announcing-the-conviction-voting-cadcad-model-release-8e907ce67e4e\" rel=\"noopener\" target=\"_blank\" title=\"07:55PM - 30 December 2020\">Medium – 30 Dec 20</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:688/375;\"><img class=\"thumbnail\" height=\"375\" src=\"https://forum.tecommons.org/uploads/default/original/1X/c2ea5c81c01eac659ff9fb1c14e1facda9f09cd6.png\" width=\"688\"/></div>\n<h3><a href=\"https://medium.com/commonsstack/announcing-the-conviction-voting-cadcad-model-release-8e907ce67e4e\" rel=\"noopener\" target=\"_blank\">Announcing the Conviction Voting cadCAD Model Release</a></h3>\n<p>Understanding Real-Time ‘Vote Streaming’</p>\n<p><span class=\"label1\">Reading time: 10 min read</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/92828c7858211b02d0d926ab7420a83a29bb5e66.png\" width=\"32\"/>\n<a href=\"https://medium.com/commonsstack/conviction-voting-f6f83a5d392a\" rel=\"noopener\" target=\"_blank\" title=\"06:15PM - 31 May 2019\">Medium – 31 May 19</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/341;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/afdb57c82b848183011c9c221b040eb35f274782_2_10x10.png\" height=\"341\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/afdb57c82b848183011c9c221b040eb35f274782_2_690x341.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/afdb57c82b848183011c9c221b040eb35f274782_2_690x341.png, https://forum.tecommons.org/uploads/default/original/1X/afdb57c82b848183011c9c221b040eb35f274782.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/afdb57c82b848183011c9c221b040eb35f274782.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://medium.com/commonsstack/conviction-voting-f6f83a5d392a\" rel=\"noopener\" target=\"_blank\">Conviction Voting</a></h3>\n<p>From ad-hoc voting to continuous voting.</p>\n<p><span class=\"label1\">Reading time: 7 min read</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/92828c7858211b02d0d926ab7420a83a29bb5e66.png\" width=\"32\"/>\n<a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\" rel=\"noopener\" target=\"_blank\" title=\"03:42PM - 18 November 2019\">Medium – 18 Nov 19</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:610/427;\"><img class=\"thumbnail\" height=\"427\" src=\"https://forum.tecommons.org/uploads/default/original/1X/9251d234a62fff8cf67102d7472aff87256072b5.jpeg\" width=\"610\"/></div>\n<h3><a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\" rel=\"noopener\" target=\"_blank\">Conviction Voting: A Novel Continuous Decision Making Alternative to Governance</a></h3>\n<p>A Commons Stack Component Explainer</p>\n<p><span class=\"label1\">Reading time: 11 min read</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031910",
+    "url": "https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-01T06:04:11Z",
+   "updated_at": "2020-12-01T06:04:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>the Commons must be designed holistically</strong> as all components must work together to create a healthy economy to coordinate value production within the Token Engineering Public Goods space.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420141706",
+    "url": "https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420141706",
+   "url": "https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420141706",
+   "url": "https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204031910",
+   "url": "https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204031910",
+   "url": "https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84"
+  }
+ ]
+}

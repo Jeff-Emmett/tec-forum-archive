@@ -1,0 +1,47 @@
+{
+ "id": 720,
+ "title": "BOOK ON BLOCKCHAIN AND THE COMMONS (Commons Stack and the TEC hatch case study)",
+ "slug": "book-on-blockchain-and-the-commons-commons-stack-and-the-tec-hatch-case-study",
+ "category_id": 12,
+ "posts_count": 0,
+ "created_at": "2021-12-01T17:21:54.387Z",
+ "last_posted_at": "2021-12-01T17:21:54.763Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-12-01T17:21:54Z",
+ "captured_between": [
+  "2022-01-24T02:52:55Z",
+  "2022-01-24T02:52:55Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vagpap",
+   "name": null,
+   "created_at": "2021-12-01T17:21:54Z",
+   "updated_at": "2021-12-01T17:21:54Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hi! I am a post doc researcher writing a book on blockchain and the commons. I am illustrating in particular the Commons Stack case study and the TEC hatch. I have some questions on a number of issues. It would be helpful if someone could assist me accordingly. Just to mention that i met the guys from the Commons Stack at the Crypto Commons Conference in Austria. I have already spoken to Jeff and Livia on Telegram. So looking forward to speaking to someone here.</p>\n<p>best</p>\n<p>vangelis</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124025255",
+    "url": "https://forum.tecommons.org/t/book-on-blockchain-and-the-commons-commons-stack-and-the-tec-hatch-case-study/720"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124025255",
+   "url": "https://forum.tecommons.org/t/book-on-blockchain-and-the-commons-commons-stack-and-the-tec-hatch-case-study/720"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124025255",
+   "url": "https://forum.tecommons.org/t/book-on-blockchain-and-the-commons-commons-stack-and-the-tec-hatch-case-study/720"
+  }
+ ]
+}

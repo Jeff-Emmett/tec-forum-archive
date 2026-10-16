@@ -1,0 +1,312 @@
+{
+ "id": 574,
+ "title": "Should we do the initial buy into the bonding curve?",
+ "slug": "should-we-do-the-initial-buy-into-the-bonding-curve",
+ "category_id": 28,
+ "posts_count": 15,
+ "created_at": "2021-08-25T18:12:52.057Z",
+ "last_posted_at": "2021-09-16T17:52:22.009Z",
+ "total_known": true,
+ "archived_posts": 16,
+ "archived_numbers": 16,
+ "last_archived_post_at": "2021-09-16T17:52:22Z",
+ "captured_between": [
+  "2021-08-28T08:09:12Z",
+  "2023-04-01T00:23:25Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-08-25T18:12:52Z",
+   "updated_at": "2021-12-02T14:54:32Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>We are submitting this to the Forum for advice process, ideation, evaluation, everything! There is a lot to consider here so let’s get started. Any proposals would need to be voted on before the Commons Upgrade, of course, <strong>so within the next few weeks.</strong> Need decision on the amount of money 3 weeks before the upgrade. Target of September 15 would be great.</p>\n<p>There is an opportunity for the TEC to do an initial buy into the bonding curve at the moment of initialization. The advantage is that this will allow the DAO to acquire TEC tokens at the initialization price - <strong>before bots and other market actors drive the price up</strong>. The <a href=\"https://forum.tecommons.org/t/token-freeze-token-thaw/509\">Token Freeze and Token Thaw</a> parameters will impact how long the TECH-converted TEC tokens are frozen, maintaining a floor price for the TEC token itself.</p>\n<p>The DAO would use its own funding for this purpose. Funding that would otherwise be allocated to the common and reserve pools. All of these allocations will be determined as part of the Commons Upgrade parameter vote.</p>\n<p>The first step is to explore possible use cases for these initial TEC tokens and how much of the Hatch raise should be allocated to each specific use case. The feasibility of some of these use cases may depend on whether the Community votes (as part of the Commons upgrade) that the TEC token be transferable.</p>\n<p>Some possible options we might consider are:</p>\n<ol>\n<li>Fund the <a href=\"https://blockscout.com/xdai/mainnet/tokens/0x8517423cb31b98AFC977B5cEb615D5E028E88823/token-transfers\">Reward DAO</a> for distribution of TEC rewards for SourceCred and Praise.</li>\n<li>Token swap and/or other structures for DAO 2 DAO partnerships.</li>\n<li>Strategic, value aligned venture partners whose promotion and backing will behoove the TEC.</li>\n<li>Add liquidity on secondary markets - e.g. honeyswap pools for ETH/TEC. All the swap fees collected go directly into the Common Pool to be used for TEC initiatives and upkeep. (New idea submitted by Mitch.)</li>\n<li>what other ideas!?</li>\n</ol>\n<p>The next steps:</p>\n<ol>\n<li>\n<p>Exploration of ideas! Evaluation and debate on the advantages and disadvantages of the use cases above and others that might be submitted as part of this forum thread.</p>\n</li>\n<li>\n<p>Community sourced champions, and proposals, for specific use cases.</p>\n</li>\n</ol>\n<p><strong>Zeptimus &amp; Tamara</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-08-25T18:42:34Z",
+   "updated_at": "2021-08-25T18:42:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I personally would feel confident working the Reward DAO proposal, and if someone who would want to work on it together that would be awesome!. At the same time <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> make very good points that might make this proposal unnecessary.</p>\n<p>\"<em>how does this not crossover with the function of the Common Pool - Which is meant to fund the TEC’s initiatives (a loose definition)?</em></p>\n<p><em>If you want real alpha exposure why not just vote in a commons configuration with a higher commons tribute  (allocating more to the common pool) instead of using the DAO money to buy TEC at the opening price</em>\"</p>\n<p>Since it’s and idea that was brought by the community on a steward call i would love some engagement before we think on taking this on.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-08-26T16:54:07Z",
+   "updated_at": "2021-08-26T16:54:07Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>This proposal is bad ass and I support it. I think it’s very important for the TEC to have TEC tokens in its treasury, and being the first-in on the bonding curve is a no-brainer for value accumulation.</p>\n<p>Then the question is “How much”?</p>\n<p>I would love to see this modelled.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-08-27T02:05:09Z",
+   "updated_at": "2021-08-27T02:05:09Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Summary of thoughts on this proposal:</p>\n<p>I am all in for this proposal, and <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> is asking the right question: How much should we purchase for this?  Any number we come up with needs to be justified and quantified as much as possible.</p>\n<p>Additionally, this is just a single piece of the overall strategy that we will need to have in order to manage and generate revenue for the growth of our Commons Pool.</p>\n<p>Reviewing the possible options we are considering:</p>\n<blockquote>\n<ol>\n<li>Fund the <a href=\"https://blockscout.com/xdai/mainnet/tokens/0x8517423cb31b98AFC977B5cEb615D5E028E88823/token-transfers\">Reward DAO</a> for distribution of TEC rewards for SourceCred and Praise.</li>\n</ol>\n</blockquote>\n<p>I believe that this is a good use for TEC tokens, and the goal with this is to give our Rewards DAO enough “Runway” for it to become sufficiently funded by the Commons Pool in the future. Although, I’d argue that instead of a ‘full-fledged’ DAO, we treat the Reward DAO as a multi-sig managed by a committee.</p>\n<p>I’d argue this would be a good first system to model if possible.</p>\n<blockquote>\n<p>2.) Token swap and/or other structures for DAO 2 DAO partnerships.</p>\n</blockquote>\n<p>This one is a very interesting proposition as it provides a method for significantly diversifying our Treasury and promotes a system of “Nested Enterprises” especially with high-profile DAOs and projects whose future value is substantial and whose activities are aligned with our mission.</p>\n<p>A good first-step for this aspect of our proposal would be to identify what projects would be interested in such a proposition, and engage them with how much they would be willing to ‘trade’ for TEC tokens.</p>\n<blockquote>\n<ol start=\"3\">\n<li>Strategic, value aligned venture partners whose promotion and backing will behoove the TEC.</li>\n</ol>\n</blockquote>\n<p>I’m still not sure about this proposition, because at the end of the day the value alignment of these venture partners are still not clear to me.  While impact investing is a possible explanation to their involvement to ensuring that the TEC is funded and allows for the growth in the amount of Token Engineers available to other projects they are funding – makes sense, but I perceive this as being a very short-term play for these venture partners who are benefiting on getting tokens at the very bottom of the Bonding-Curve without proper explanations on what they are offering outside of increased amount of external funding.</p>\n<p>Moreover, the amount of funds a venture partner is willing to provide is typically a significant amount as they are looking for a guaranteed return, regardless of how small.  I would consider this if there was more of an articulated plan on how we release those tokens to the venture partner, and what other efforts/resources they are willing to provide for the TEC in the short-term.  My hesitations are centered around the long-term (5+years) governance distribution, as we are not only providing them with an investment opportunity but also governance rights that will likely remain dormant until significant proposals are being considered within the TEC.</p>\n<blockquote>\n<ol start=\"4\">\n<li>Add liquidity on secondary markets - e.g. honeyswap pools for ETH/TEC. All the swap fees collected go directly into the Common Pool to be used for TEC initiatives and upkeep. (New idea submitted by Mitch.)</li>\n</ol>\n</blockquote>\n<p>For me, this is the number 1 use-case for purchasing the initial batch of TEC tokens from the Bonding Curve.  Providing a base-line amount of liquidity and generating funds from that liquidity provides a healthy and stable secondary market in which external actors can participate and build trust with the TEC token.  The rewards can go to staking, operations, the Rewards DAO and generally be a consistent form of growth within the Commons Pool.</p>\n<p>The question is, how much TEC is sufficient to provide a healthy secondary-market liquidity pool, and how do we manage the accounting around impermanent-loss.  I believe doing this allows us to provide ample time to find external liquidity providers who are dedicated to the project long-term and won’t remove their funds from the liquidity pool during a bear-market.</p>\n<blockquote>\n<ol start=\"5\">\n<li>what other ideas!?</li>\n</ol>\n</blockquote>\n<p>Another application is to use the TEC tokens as a Prize/Reward for exceptional Token Engineers who are making an impact in the space, or are looking to fund their education through the TE Academy or other educational opportunities (similar to a scholarship program).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-08-28T01:13:41Z",
+   "updated_at": "2021-08-28T01:13:41Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Thanks for the in-depth breakdown of all the possibilities. I’d like to comment on a few of your musings:</p>\n<blockquote>\n<ol>\n<li>Fund the <a href=\"https://blockscout.com/xdai/mainnet/tokens/0x8517423cb31b98AFC977B5cEb615D5E028E88823/token-transfers\">Reward DAO</a> for distribution of TEC rewards for SourceCred and Praise.</li>\n</ol>\n</blockquote>\n<p>I think the Reward DAO can be more effectively funded via Common Pool funds. My initial comment of allocating more to the Common Pool via voting in a commons configuration with a higher Commons Tribute would give us a better method of rewarding exceptional contributors.</p>\n<blockquote>\n<ol start=\"2\">\n<li>Token swap and/or other structures for DAO 2 DAO partnerships.</li>\n</ol>\n</blockquote>\n<p>An interesting idea but is the intention here to trade Governance rights between DAO’s? We have a share in their Governance and they have a share in ours? who controls the Governance power? If the Governance is shared by some entity, how much overhead does this create?</p>\n<p>If our intention isn’t trading Governance power with other DAOs, then its purpose must be speculation on token value. In any speculation scenario the eventual intention is to sell the token, no matter how long you HODL. So then is our intention to swap our tokens to eventually sell each other’s tokens?</p>\n<blockquote>\n<ol start=\"3\">\n<li>Strategic, value aligned venture partners whose promotion and backing will behoove the TEC.</li>\n</ol>\n</blockquote>\n<p>I think this one like you mentioned is a bit vague and not really aligned with what we’re trying to build.</p>\n<blockquote>\n<ol start=\"4\">\n<li>Add liquidity on secondary markets - e.g. honeyswap pools for ETH/TEC. All the swap fees collected go directly into the Common Pool to be used for TEC initiatives and upkeep.</li>\n</ol>\n</blockquote>\n<p>Of course I have to toot my own horn and say if we’re going to play the market, this is the best way to do it. There will be a secondary market and why not get in with some early liquidity. Not only do we provide essential liquidity for a healthy economy, (one that trades a lot) but also be able to take profit to fund our objectives. The other side affect is that since the DAO holds the liquidity we can effectively raise the price floor of our token, assuming we decide never to sell.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-08-28T23:26:47Z",
+   "updated_at": "2021-08-28T23:26:47Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I support this and say strongly yes we should buy in to the initial curve.  Not so many to raise Centralization alarms but not so few that we will be vulnerable to a dao-takeover.  Does a dao-takeover even exist who knows but would you want that happening?  NO !  So let’s ensure that we purchase enough tokens to matter.  $50K-$100 seems comfortable to me but that is without any calculations.  Thanks for the clear explanations!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-31T10:16:12Z",
+   "updated_at": "2021-08-31T10:16:12Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>The big point here is that… let’s say the token freeze is 1 year… that means that if the Commons wants to buy any TEC in the next year, we can guarantee, the price at the initialization is the cheapest price the DAO. So it’s a good idea to make the initial buy into the curve</p>\n<p>The downside is if we try to buy a lot (like 400k) there may be slippage that would actually be a bad deal for us… Also if we buy too much it might dissuade speculators.</p>\n<p>I love all of these ideas.</p>\n<ol>\n<li>\n<p>Let’s figure out a 3 month budget and buy that much TEC for sure.</p>\n</li>\n<li>\n<p>I would be down to fund a DAO that wants to do this… We make the initial buy, then hodl for a month and then sell the TEC in a sort of “OTC” way where the buyers actually send the money straight to the Common Pool.</p>\n</li>\n<li>\n<p>I would say we combine this with 2… we sell the TEC we have there at a very small discount to the current price (but a nice profit from what we bought the tokens at) only to value aligned individuals.</p>\n</li>\n<li>\n<p>I would connect with 1hive and try to use their infrastructure to create liquidity via liquidity mining as opposed to providing liquidity ourselves. Gardens by default has a TEC/HNY pool and it would be cool to keep that going.</p>\n</li>\n</ol>\n<p>Maybe a later proposal to the Commons could create a bot that would do arbitrage between the bonding curve and the pool and send profits to the Common pool <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-09-01T08:54:12Z",
+   "updated_at": "2021-09-01T08:54:12Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>At number 2 I was yelling 1hive.<br/>\nI got to number 4 and darn near clicked my heels together…</p>\n<p>Liquidity pools with 1hive?</p>\n<p>I’ve been evesdropping on 1hive for months now. They’re pretty much the most efficient and organized project I have witnessed as of yet. Their liquidity pools are brilliant. Can we partnership with them more here?</p>\n<p>The learning curve for me is high and I’m often off target but I can tell what they are creating is ingenious. Whether or not it’s right for what we’re trying to accomplish is well over my head as a brand new kid on the tokenE block.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "mettodo",
+   "name": null,
+   "created_at": "2021-09-06T08:28:05Z",
+   "updated_at": "2021-09-06T08:28:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey! Thanks for the discussion.<br/>\nA general assumption being made is that most of TEC tokens bought during theToken Freeze period through the bonding curve will be bought by hatchers, right?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-09-09T20:32:57Z",
+   "updated_at": "2021-09-09T20:32:57Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/solsista\">@Solsista</a>, Griff mentioned today that it would be great to have your inputs in this proposal from the Omega working group perspective</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-10T20:52:49Z",
+   "updated_at": "2021-09-10T20:57:53Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p><a href=\"https://imgflip.com/i/5mk611\"><img alt=\"\" data-base62-sha1=\"tv3TrY3BqMLl3yGozR04ecz4xjj\" height=\"374\" src=\"https://forum.tecommons.org/uploads/default/original/1X/cec1f323f49f995c5f40674cd5ff3bf0373d3c41.jpeg\" title=\"made at imgflip.com\" width=\"668\"/></a></p><div><p></p></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "pab",
+   "name": null,
+   "created_at": "2021-09-13T09:52:55Z",
+   "updated_at": "2021-09-13T09:52:55Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Bumping this bc I see no discussion around the idea.</p>\n<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"574\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Another application is to use the TEC tokens as a Prize/Reward for exceptional Token Engineers who are making an impact in the space, or are looking to fund their education through the TE Academy or other educational opportunities (similar to a scholarship program).</p>\n</blockquote>\n</aside>\n<p>I may be biased in some ways but I really like it  - In order for the space to grow and communities to decentralize, more and more people will need to get involved and in my opinion weekly discord onboarding sessions just aren’t really enough for people to really understand what’s going on around and be able to help. This kind of initiative I think would help bring in new people who may be able to contribute a great deal of value to this and maybe other organizations the TEC eventually becomes partners with, but may not otherwise be able to due to the very big learning curve and the (sometimes perhaps intimidating) amount of documentation people need to go through to even start grasping the kinds of problems / objectives these orgs are trying to tackle.</p>\n<p>Although for a scholarships program to really be effective and transparent there would need to be some sort of deliverables format maybe? to make sure the people who do get to enjoy having their education funded are actually putting in the hours to really juice the opportunities? <img alt=\":eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/eyes.png?v=10\" title=\":eyes:\"/></p>\n<p><img alt=\":upside_down_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/upside_down_face.png?v=10\" title=\":upside_down_face:\"/> Idk; may be overthinking here <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/> My views on the rest of the discussion are pretty much the same as <a class=\"mention\" href=\"/u/blazingthirdeye\">@blazingthirdeye</a> 's</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-14T17:14:01Z",
+   "updated_at": "2021-09-14T17:14:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>hatchers will already have TEC minted for them at a 1:1 ratio for the amount of TECH they received from contributing to the Hatch, this particular process doesn’t count as a buy on ABC</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-15T01:16:37Z",
+   "updated_at": "2021-09-15T01:16:37Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Honestly I would love to keep things simple with this proposal…</p>\n<p>I see a lot of benefit in buying into the bonding curve to hold our own token… I don’t see a lot of benefit in deciding so early what to do with it.</p>\n<p>We know the reward system will need some… so let’s make a budget for that, make an estimate in wxDai that it would take to fund the Reward DAO with TEC to be enough to reward the work during the Hatch Phase before the Commons Upgrade (I still consider this the Hatch Phase.</p>\n<p>Then let’s just score some more and plan to hodl it for a month and see what the best opportunities are that arise… Token Swaps, Token Sales, Liquidity Mining… there are a lot of opportunities… we can continue to have conversations and then do a ranked choice snapshot vote at a set date.</p>\n<p>So my suggestion is:</p>\n<ol>\n<li>Make a budget for Reward DAO</li>\n<li>Choose a total amount for the initial buy, part for RewardDAO part for TBD.</li>\n<li>Outline a decision making process (Like a proposal method, final date to make a proposal, voting method, and date of the vote)</li>\n<li>Outline an execution process (where do the tokens go initially? A subDAO/gnosis safe with 4-8 trusted members?)</li>\n<li>Follow the process as we lay it out.</li>\n</ol>\n<p>The reason I propose it like this is 3-fold.</p>\n<p><span class=\"hashtag\">#1</span> I think it’s important to have a set number for the initial buy for the Commons Config Dashboard… if we are designing this economy we need to know how much money we have to split between the ABC’s Reserve and CV’s Common Pool, and then we will know how the first buy will effect the curve.</p>\n<p><span class=\"hashtag\">#2</span> We are a pretty cool project that a lot of people want to wheel and deal with us. Let’s give time for the offers to come in after the Commons Upgrade so we can really pick the best ones.</p>\n<p><span class=\"hashtag\">#3</span> Those people that want to deal with us are our friends… most are probably Hatchers! Let’s give time and certainty to our partners. It will be a lot easier to negotiate if we have a timeline and a a set amount of money we are playing with.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "mettodo",
+   "name": null,
+   "created_at": "2021-09-16T08:31:27Z",
+   "updated_at": "2021-09-16T08:31:27Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>OK, thanks! <a class=\"mention\" href=\"/u/mount_manu\">@Mount_Manu</a> made clear <a href=\"https://forum.tecommons.org/t/token-freeze-token-thaw/509/5\">here</a> that during the Token Freeze period Hatchers can use their token for governance. I understood we (hatchers) couldn´t.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "farty",
+   "name": null,
+   "created_at": "2021-09-16T17:52:22Z",
+   "updated_at": "2021-09-16T17:52:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Slippage wouldn’t be a factor if you use a modified bancor formula that can calculate from 0</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401002325",
+    "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210828080912",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928004341",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928004341",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124025209",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124025209",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401002325",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401002325",
+   "url": "https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/15"
+  }
+ ]
+}

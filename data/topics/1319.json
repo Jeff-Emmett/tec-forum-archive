@@ -1,0 +1,45 @@
+{
+ "id": 1319,
+ "title": "Simulating the TEC Migration to Optimism",
+ "slug": "simulating-the-tec-migration-to-optimism",
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2023-12-13T04:26:03Z",
+ "last_archived_post_at": "2023-12-13T04:26:03Z",
+ "captured_between": [
+  "2024-02-29T10:54:12Z",
+  "2024-02-29T10:54:12Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-13T04:26:03Z",
+   "updated_at": "2023-12-13T04:26:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I created an EVMcrispr script to simulate the vote to freeze the TEC token and move the funds to Optimism.</p>\n<p>This is how the vote looks like:</p>\n<pre><code class=\"lang-auto\">switch gnosis\nload aragonos as ar\nset $token.tokenlist https://tokens.honeyswap.org\nset $surgery 0xe51195c5a8e8141b7ec8bc8b61bd2a06320d252d\n\nset $tecGarden 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8\nset $migrationAddr 0xE7ee4A5821Ba12a31d3Ca97C53E7BD75efb4ee61 # Guardians Safe\n\nar:connect $tecGarden disputable-voting.open --context \"Freeze TEC and Migrate WXDAI\" (\n    set $tokenManager wrappable-hooked-token-manager.open\n    set $votingApp disputable-voting.open\n    set $commonPool agent\n    set $reserve agent:2\n\n    upgrade wrappable-hooked-token-manager.open $surgery\n    forward $tokenManager --check-forwarder false (\n      exec $tokenManager::token() enableTransfers(bool) false\n      exec $tokenManager::token() changeController(address) $migrationAddr\n    )\n    upgrade wrappable-hooked-token-manager.open\n\n    upgrade agent $surgery\n    exec $commonPool withdraw(address,address) @token(WXDAI) $migrationAddr\n    exec $reserve withdraw(address,address) @token(WXDAI) $migrationAddr\n    upgrade agent\n)\n</code></pre>\n<p>It involves <a href=\"https://github.com/BlossomLabs/surgery-app/#readme\">surgeries</a> on both the Token Manager and the Agent apps. You can check the entire simulation in <a href=\"https://evmcrispr.com/#/terminal/QmRCCS6Z4qXPEtdPLyawXpVuZ2NbxRxhWxbcAotk73Z75h\">this script</a>.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/5a3fe13acbc26f8991464060265e947f74c7c20e\" href=\"https://forum.tecommons.org/uploads/default/original/1X/5a3fe13acbc26f8991464060265e947f74c7c20e.png\" title=\"EVMcrispr screenshot\"><img alt=\"EVMcrispr screenshot\" data-base62-sha1=\"cSnPICmjuWelXGpaSuHiVHUNT1s\" data-dominant-color=\"0E120F\" height=\"328\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/5a3fe13acbc26f8991464060265e947f74c7c20e_2_690x328.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/5a3fe13acbc26f8991464060265e947f74c7c20e_2_690x328.png, https://forum.tecommons.org/uploads/default/optimized/1X/5a3fe13acbc26f8991464060265e947f74c7c20e_2_1035x492.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/5a3fe13acbc26f8991464060265e947f74c7c20e_2_1380x656.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">EVMcrispr screenshot</span><span class=\"informations\">1437×685 69.5 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>After the vote is executed, it is expected that the token is not transferable, although the guardians can make it transferable again in case of emergency, and the DAO funds are in the Guardians multisig, which will send them to Mainnet, and afterwards to Optimism.</p>\n<p>This script is going to be used during the Dress Rehearsal to check that everything goes as expected, and in the final migration vote.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105412",
+    "url": "https://forum.tecommons.org/t/simulating-the-tec-migration-to-optimism/1319"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240229105412",
+   "url": "https://forum.tecommons.org/t/simulating-the-tec-migration-to-optimism/1319"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229105412",
+   "url": "https://forum.tecommons.org/t/simulating-the-tec-migration-to-optimism/1319"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": 193,
+ "title": "TEC Legal Strategy Proposal & Vote",
+ "slug": "tec-legal-strategy-proposal-vote",
+ "category_id": 7,
+ "posts_count": 5,
+ "created_at": "2020-12-30T19:13:31.332Z",
+ "last_posted_at": "2022-04-12T19:21:54.168Z",
+ "views": 3387,
+ "tags": [
+  "cultural-proposal"
+ ],
+ "highest_post_number": 6,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2022-04-12T19:21:54Z",
+ "captured_between": [
+  "2021-03-06T00:57:53Z",
+  "2025-03-22T17:54:46Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-12-30T19:13:31Z",
+   "updated_at": "2021-11-12T21:46:32Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Over several months, the TEC Legal Working Group, along with DAO legal experts, examined the liabilities and strategies for the legal protection of TEC members. The following proposal is the result of that research.</p>\n<p>We have settled on an innovative middle way approach that protects the individual members while giving the TE Commons the freedom to evolve.</p>\n<p>Please vote on the following strategy and we welcome your feedback:</p>\n<h2>\n<a class=\"anchor\" href=\"#core-legal-strategy-using-the-commons-stacks-swiss-association-1\" name=\"core-legal-strategy-using-the-commons-stacks-swiss-association-1\"></a>Core Legal Strategy - Using the Commons Stack’s Swiss Association</h2>\n<p>To allow the Token Engineering Commons to launch and evolve with less restrictions, we propose to have no formal legal entity.</p>\n<p>The advantage is less requirements for members before and after the Hatch, and the freedom to change the structure of the TE Commons as needed. It would be very difficult to design a legal structure flexible enough for a bonding curve, which is why <a href=\"https://medium.com/@rawsonpatrick/the-first-ever-blockchain-native-entity-has-made-history-raising-funds-in-a-completely-a1b36e871af6\">DXdao</a>, <a href=\"https://github.com/TECommons/coordination/issues/35\">Aragon Court</a> and <a href=\"https://github.com/TECommons/coordination/issues/38\">PrimeDAO</a> all lack a formal legal entity for their Bonding Curve enabled DAOs. The downside of this path is that with no legal distinction, DAO members risk being classified as ‘general partners’, making each member liable for the actions of the DAO, including potential security issuance liability.</p>\n<p>In light of this, the Legal Working Group is recommending all founding members of the TEC to join the <a href=\"https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de\">Trusted Seed</a>. This ensures all participants of the TEC Hatch are members of the Commons Stack’s Swiss Association, which offers protection in the case that any member, acting in good faith, faces legal issues.</p>\n<p>Under this proposal, everyone contributing to the TEC HatchDAO would <a href=\"https://commonsstack.org/apply\">apply</a> to become a member of the <a href=\"https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de\">Trusted Seed</a> and pay dues to become a member of the Commons Stack’s not-for-profit Swiss Association, receiving legal protection and the opportunity to participate in future Common’s hatches. For more details, read the Commons Stack Association’s <a href=\"https://drive.google.com/file/d/10CSaceZBMBO5f4tfa61IugLtCU3aFUIO/view?usp=sharing\">Statutes</a> and <a href=\"https://docs.google.com/document/d/1oZLHvH8QiW1eQcTcmrKZdquQkv_HUjbqjAXXD-zYiqk/edit?usp=sharing\">Terms &amp; Conditions</a> for joining.</p>\n<p>Using the Commons Stack’s Trusted Seed has the added benefit of attracting participants who are aligned with the TE Commons mission and vision and will be responsible stewards of our shared resources, as opposed to only seeking to speculate for short term profits, and extract value from the Commons for their own personal benefit.</p>\n<h3>\n<a class=\"anchor\" href=\"#other-steps-to-mitigate-legal-risks-2\" name=\"other-steps-to-mitigate-legal-risks-2\"></a>Other Steps to Mitigate Legal Risks</h3>\n<p>Our altruistic mission, of funding TE Public Goods is itself helpful in reducing the risk of legal issues, but in addition to recommending the Commons Stack’s Swiss Association, we also advised:</p>\n<ol>\n<li>\n<p>Launching in two parts to maintain a “sufficiently decentralized” strategy. (The community decided to accept this recommendation in a<a href=\"https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85\"> previous vote</a>.)</p>\n</li>\n<li>\n<p>Start with a non-transferable token.</p>\n</li>\n<li>\n<p>Crafting a terms of service to be signed before every interaction with the TE Commons.</p>\n</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#vote-3\" name=\"vote-3\"></a>VOTE!</h2>\n<p>Do you support the legal strategy recommended by the Legal Working Group for the launch of the TEC?</p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-public=\"true\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"40d488461f1b54785826a62d9daa6183\">Yes <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/>\n</li>\n<li data-poll-option-id=\"c558988366698cf6990db661a16fb6ba\">No <img alt=\":expressionless:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/expressionless.png?v=10\" title=\":expressionless:\"/>\n</li>\n<li data-poll-option-id=\"7cfd61ea0a4d9cab29de847a741b8070\">Block <img alt=\":no_entry_sign:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/no_entry_sign.png?v=10\" title=\":no_entry_sign:\"/>\n</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>\n<p>*If you vote Neutral or Block, please share your feedback, alternative strategy suggestions, or questions below by replying to the thread</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322175446",
+    "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2020-12-31T09:41:26Z",
+   "updated_at": "2020-12-31T09:43:04Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>So, I want to walk through my understanding of this legal structure:</p>\n<p>The Commons Stack Association is a Not-for-Profit Swiss <em>Association</em>.</p>\n<p>The characteristics of the Association include that of a Board of Directors, and the Assembly Association (which consist of all members of the Association).</p>\n<p>A requirement for potential members is that they must apply through the Trusted Seed, which gives the Board of Directors (who hold instances of legal liability) a transparent way to vet new members ensuring alignment of values and reducing liability risk.</p>\n<p>As members, we have legal protection from any liabilities incurred by the Commons Stack Association (and their products (TEC HatchDAO + Future Commons Hatches))?</p>\n<p>To represent our membership in the Commons Stack Association, we will be issued a non-transferrable membership token (representing xCommons Hatch or in this instance, the TEC HatchDAO token).</p>\n<p><strong>Questions:</strong></p>\n<p>In order to be classified as a Swiss Association, are members required to pay fees to be considered members?</p>\n<p>Do the non-transferrable tokens which represent membership in the TEC also serve as voting power within the Association Assembly/Elections?  If so, how will this system be maintained for members who are apart of multiple hatches?</p>\n<p>Is there a distinction in membership liabilities between the Dandeliion DAO and the HatchDAO?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322175446",
+    "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-12-31T12:46:20Z",
+   "updated_at": "2021-01-01T00:26:03Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"193\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>As members, we have legal protection from any liabilities incurred by the Commons Stack Association (and their products (TEC HatchDAO + Future Commons Hatches))?</p>\n</blockquote>\n</aside>\n<p>Yes, at least from building the software and doing the other cultural build work… but the actual deployments are not the Commons Stack’s products… just the Software and Community build up until the deployment.</p>\n<p>The Commons Stack Association is NOT deploying the TEC, the TEC is deploying itself, and the Commons Stack Association is not involved in the ACTUAL TEC. It will hold no tokens.</p>\n<p>We were hoping we could go that far but it was basically found impossible to be done because the individuals who participate in the TEC have complete control over their tokens and the assets they put in… the Commons Stack has no control over them… We went as far as we could but thats the clear line.</p>\n<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"193\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>In order to be classified as a Swiss Association, are members required to pay fees to be considered members?</p>\n</blockquote>\n</aside>\n<p>No. But for the Commons Stack Association to be able to offer legal compensation to its members we need a clear way to pay for it, and membership dues are the way to do that.</p>\n<p>Also, of course, it is worth mentioning that this is the main way that Commons Stack can get reliable funding to pay our very reasonable salaries for the work we are trying to do. And all funds we raise are distributed on Giveth. You can see every dime we have ever spent in our Giveth Campaign: <a href=\"https://beta.giveth.io/campaigns/5d110631994eac53adc8f21e\">https://beta.giveth.io/campaigns/5d110631994eac53adc8f21e</a></p>\n<p>The funds that will be collected in membership dues will go to a new campaign: <a href=\"https://beta.giveth.io/campaigns/5feb2ca1dae3134bd0166dd6\">https://beta.giveth.io/campaigns/5feb2ca1dae3134bd0166dd6</a> and you will actually be able to trace the movement of your funds to see EXACTLY what your Dues go to pay for… Its pretty cool <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>\n<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"193\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Do the non-transferrable tokens which represent membership in the TEC also serve as voting power within the Association Assembly/Elections? If so, how will this system be maintained for members who are apart of multiple hatches?</p>\n</blockquote>\n</aside>\n<p>No. Crazy enough there will be 3! Yes 3 nontransferable tokens! And none of them give voting power in the Swiss Association. The Swiss Association is 1 member 1 vote.</p>\n<p>the 3 tokens are:</p>\n<p>CSTK Tokens = More like a reputation token that represents your Membership Score in the Trusted Seed and can be used be Commons, like the TE Commons is proposing, for protecting the Hatch from value extracting speculators.</p>\n<p>TECH tokens = TE Commons Hatch DAO tokens. the Tokens that will be used for initializing the Commons and Voting to upgrade to the Commons</p>\n<p>TEC tokens = The tokens you get after the migration from the TEC Hatch DAO to the full fledged commons that has an Augmented Bonding Curve and Conviction Voting.</p>\n<p>All of these will be non-transferable… but the TEC tokens could be made transferable by a DAO vote.</p>\n<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"193\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Is there a distinction in membership liabilities between the Dandeliion DAO and the HatchDAO?</p>\n</blockquote>\n</aside>\n<p>Nope! The HatchDAO is the Dandelion DAO + the Hatch. The liabilities are just like any other DAO… It’s probably a general partnership or whatever a court wants to call it. The big difference here is that all the members of the Hatch DAO will also be members of the Commons Stack Association which agrees to support you (assuming you are acting in good faith) if there is some weird legal issue.</p>\n<p>SO the liabilities are yours (You own the tokens!)… but after you pay your dues and become member of the Association, the Association agrees to help you if there are issues… I know it sounds sort of silly and sort of complicated… but its the best we could do.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322175446",
+    "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-12-31T12:54:49Z",
+   "updated_at": "2021-01-01T12:00:42Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>And all the details are spelled out in the Commons Stack Association’s <a href=\"https://drive.google.com/file/d/10CSaceZBMBO5f4tfa61IugLtCU3aFUIO/view?usp=sharing\">Statutes </a> and <a href=\"https://docs.google.com/document/d/1oZLHvH8QiW1eQcTcmrKZdquQkv_HUjbqjAXXD-zYiqk/edit?usp=sharing\">Terms &amp; Conditions</a> for joining. They are not too long or hard to read.</p>\n<p>That said, don’t feel like you have to read them before you ask more questions!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322175446",
+    "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-01-07T16:59:02Z",
+   "updated_at": "2021-01-07T16:59:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322175446",
+    "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "TiberiusB",
+   "name": null,
+   "created_at": "2022-04-12T19:21:54Z",
+   "updated_at": "2022-04-12T19:26:18Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>To avoid the <strong>problem</strong> of personal liability of members of an association (‘general partners’) you decided (<strong>solution</strong>) to create the the Commons Stack’s Swiss Association as a non-profit organization.  In doing that, you reduce fluidity and scalability in the <em>commons organization</em>. If fluidity and scalability are not so important, then it’s OK. I also worry that the chosen scheme reduces openness (barrier to access to participation), In other words, expansion requires scrutiny and permission  from a core (the trusted seed).</p>\n<p>You could have avoided these limitations while preserving your measures for keeping with the <em>capture resistant</em> requirement  (for the commons). One solution is to use what we call a <a href=\"http://ovn.world/index.php?title=Custodian\" rel=\"noopener nofollow ugc\">Custodian</a> (a Trust) to absorb everything that could represent a liability. Multiple custodians can be used at the same time, for specific needs. A custodian is seen as a service provider to the organization.  Some custodial functions can be automated and be absorbed by a DAO.<br/>\nThus you can dissociate <em>agents</em> participating in <em>processes</em> from <em>holding</em> or <em>ownership</em>. That’s the essence of the implementation of the <em><a href=\"http://ovn.world/index.php?title=Nondominium\" rel=\"noopener nofollow ugc\">nondominium</a> form of property</em>.</p>\n<p>This arrangement does not sacrifice the ability of agents to defend and preserve the commons, to nurture the culture, preserve core values, etc., because the network governance can essentially remain unchanged (some type of meritocracy, agents voting according to skin in the game, token holding, etc.).</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322175446",
+    "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306005753",
+   "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306005753",
+   "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319132731",
+   "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250322175446",
+   "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250322175446",
+   "url": "https://forum.tecommons.org/t/tec-legal-strategy-proposal-vote/193"
+  }
+ ]
+}

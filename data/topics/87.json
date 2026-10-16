@@ -1,0 +1,183 @@
+{
+ "id": 87,
+ "title": "Principles 1&2 - Rules and Boundaries",
+ "slug": "principles-1-2-rules-and-boundaries",
+ "category_id": 5,
+ "posts_count": 7,
+ "created_at": "2020-11-19T06:02:42.940Z",
+ "views": 132,
+ "last_posted_at": "2020-11-25T10:58:00.205Z",
+ "highest_post_number": 9,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2020-11-25T10:58:00Z",
+ "captured_between": [
+  "2020-12-01T16:45:25Z",
+  "2023-05-30T08:18:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-11-19T06:02:43Z",
+   "updated_at": "2020-11-19T06:10:30Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Yesterday in soft gov we took a look at Ostrom’s first and second principles which are:</p>\n<ol>\n<li>Commons need to have clearly defined boundaries</li>\n<li>Rules need to fit local circumstances.</li>\n</ol>\n<p>When this principles were laid out, they were thought to fit physical commons. When it comes to a cyber Commons like ours, some of the boundaries and ‘local circumstances’ might not be so obvious at a first glance.</p>\n<p>Today, in the <a href=\"https://metagov.org/seminar/\" rel=\"noopener nofollow ugc\">Metagovernance</a> Seminar, Christopher Frantz shared his perspective that a good approach to identify the rules of a system is by looking at the present violations and the value expectations that haven’t been fulfilled.<br/>\nThis seems like a nice hook to look back into TEC values:</p>\n<blockquote>\n<p>The TEC operates from a prosocial human centered perspective.</p>\n<p>We hold ourselves to high standards of safety, resilience, and integrity.</p>\n<p>We encourage our members to be radically open source, non-hierarchical, creative, transparent in their intentions and accountable for their actions.</p>\n<p>We are value driven, (not profit driven) and will strive to support token engineering projects that appreciate the value of public goods and ethical, inclusive economic systems.</p>\n<p>See also, the <a href=\"https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit#\" rel=\"noopener nofollow ugc\">TEC Code of Conduct </a></p>\n</blockquote>\n<p><img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> How do we feel about them?<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Are we expecting each other to behave in accordance with these values?<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Is there anything that could be added or modified?<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Are there any expectations that have been unfulfilled in regards to values and code of conduct so far?</p>\n<p>Luckily we have <a href=\"https://discord.gg/AcyVVTef55\" rel=\"noopener nofollow ugc\">Gravity</a>, our conflict management working group led by <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> to pay attention to violations that might arise, continuing to inform the development of the system, but meanwhile, let’s imagine what might be useful in the future before the need for rules emerge in the practice.</p>\n<p>Today <a class=\"mention\" href=\"/u/griff\">@Griff</a> said: “When things get easier for legal, things just get easier for everyone.”</p>\n<p>I suppose one of the reasons why is because everyone appreciates the tranquility of behaving without fearing a negative outcome from that behavior, and information is key to this peace of mind. <img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=9\" title=\":dove:\"/> In my experience, most conflicts happen from lack of clarity or different interpretations of a single subject.</p>\n<p>It sounds exciting to be able to create our own law, and have so many inputs from a diverse group of people about how clear they are.</p>\n<p>So before we advance into some of the rules and boundaries that came up during our call, I want to propose a few points of reflection:</p>\n<p><img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> The boundaries will define the perimeter in which the rules will be applied, it’s very important to be specific about them.<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> The language used to determine the rules and boundaries should be simple and accessible to all.<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Every boundary and rule should be examined through the lenses of ambiguity until the closest to an indisputable meaning is achieved.</p>\n<p>Just so we are clear, I added the dictionary description for Rules and Boundaries -<br/>\n<strong>Rule.</strong> One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.</p>\n<ul>\n<li>Code of conduct</li>\n</ul>\n<ul>\n<li>Exit tribute</li>\n</ul>\n<ul>\n<li>Conviction Voting</li>\n<li>Graduated sanctions</li>\n<li>Different tools might have different social expectations and rules (forum, CV, Discord, etc)</li>\n<li>Dandelion vote and the hard governance</li>\n<li>Everyone would agree that the hatch tribute goes to TE public goods - They are donating a portion of their funds. The other portion of their funds is for building an economical experiment.</li>\n</ul>\n<ul>\n<li>Proposal making template</li>\n</ul>\n<p><strong>Boundary.</strong> A line that marks the limits of an area; a dividing line - a limit of a subject or sphere of activity</p>\n<ul>\n<li>Social media platforms and channels - think of them as different “physical rooms”</li>\n</ul>\n<ul>\n<li>Exit tribute</li>\n<li>How people get rewarded - Impact hours</li>\n</ul>\n<ul>\n<li>Launching the token will be a clear boundary - Holding TEC token</li>\n</ul>\n<ul>\n<li>Dandelion vote and the hard governance</li>\n</ul>\n<ul>\n<li>Being an active member</li>\n<li>Expertise in the TE field</li>\n<li>Proposal making template</li>\n</ul>\n<p>This was the first brainstorming which definitely need more love! It’s interesting how it seems like some of the rules are also boundaries and vice versa. There is much room to expand each one of them and add others. I’m very keen to hear inputs and suggestions here. Once we have a more detailed and thought out list we’ll propose to the community. Hopefully this will happen until the end of next week.</p>\n<p>Fun questions to think about:<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> What are the rules and boundaries in your household?<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Can you think of other social activities that you are involved in that have rules and boundaries?<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Were they clear and explicit, or they were organic and non verbal social agreements?<br/>\n<img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/> Do you have a set of rules and boundaries for your relationship with yourself? How do you self iterate them? Can you identify which are the most challenging and the most easy points?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2020-11-19T17:59:39Z",
+   "updated_at": "2020-11-19T17:59:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We can have an open conversation on this topic!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-11-20T13:12:12Z",
+   "updated_at": "2020-11-20T13:12:12Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>It’s very interesting to see this. I would say that boundaries are necessary for rules to apply. Think on a soccer field, it has clearly defined boundaries, so we can know which rules applies to each one.</p>\n<p>For me, a clear boundary from the technical perspective is the TEC token itself. It’s something we control as a community and can determine which rules applies to it. Do we want it transferable, non-transferable, do we want to be redeemable by funds in the funding pool, do we want a bonding curve with a reserve, etc? It’s something that in our area of control, whereas we can’t control other tokens.</p>\n<p>In the current Commons Stack design, which 1hive Gardens is being build upon, the boundary that delimits what we can control and what not is the bonding curve, which is the gateway between the internal (TEC token) and the external (xDAI). I think Michael Zargham does a good analogy talking of it as the membrane of a cell.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-11-23T19:17:56Z",
+   "updated_at": "2020-11-23T19:17:56Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for bringing the tech perspective <a class=\"mention\" href=\"/u/sem\">@sem</a>!<br/>\nPerhaps a good way to go on deciding these boundaries would be to have a more in depth explanation and a voting round for each?</p>\n<ol>\n<li>How does a transferrable token affects the Commons opposed to a non-transferrable one?</li>\n<li>What are the pros and cons to have TEC tokens also in the funding pool?</li>\n<li>What are the implications of a bonding curve with a reserve?</li>\n</ol>\n<p>Should we have a combined tech spec + soft gov call this week? <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-11-24T01:13:57Z",
+   "updated_at": "2020-11-24T11:55:17Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I’d like to give some clarifications, but they are quite open questions and I’d like to hear much more points of view.</p>\n<blockquote>\n<ol>\n<li>How does a transferable token affects the Commons opposed to a non-transferable one?</li>\n</ol>\n</blockquote>\n<p>It’s important to say that when we talk about transferable/non-transferable and locked/vested tokens, we talk of different things. All of them have the same voting rights both in conviction voting and in dandelion voting, but…</p>\n<ul>\n<li>Transferable tokens are like money, they can be moved across the accounts, we can give them to our friends, sell them in an exchange, or even send them to ethereum mainnet using the xDAI bridge.</li>\n<li>Non-transferable tokens are like shares tied to a specific ethereum account and can only be minted and burned by the DAO, but not transferred. You can only cash them in and out with the mechanisms we decide as a DAO (the hatch DAO will only have one way to redeem them, and via votings we may add others such as a bonding curve, for example).</li>\n<li>Locked tokens are transferable or non-transferable tokens that have a time-based locking. They have the same voting rights than the other tokens that are not locked, but they can not be transferred or burnt under any circumstance before the right amount of time has passed.</li>\n</ul>\n<p>So replying to the question:</p>\n<ul>\n<li>The community has much more control of what is done with the tokens if they are <em>non-transferable</em>, but it also kills the imagination of individuals, not letting them find new ways to use the tokens outside of the <strong>boundaries</strong> of the DAO. The <strong>rule</strong> is that they can only add new mechanisms to move tokens if they are agreed with all the community and voted on the DAO. This prevents secondary markets for example, and makes the bonding curve exit tribute unavoidable when converting cashing in and out the token.</li>\n<li>On the other hand, <em>locking/vesting</em> tokens is an interesting <strong>rule</strong> to give hatchers all the voting rights meanwhile we prevent them to manipulate the market pumping and dumping the price of the token. It encourages long-term investment into the DAO (skin in the game).</li>\n</ul>\n<blockquote>\n<ol start=\"2\">\n<li>What are the pros and cons to have TEC tokens also in the funding pool?</li>\n<li>What are the implications of a bonding curve with a reserve?</li>\n</ol>\n</blockquote>\n<p>In our implementations we can only deal with one kind of token per funding pool, we could have more in the future, but our technology is not ready for it yet (<strong>boundary</strong>).</p>\n<p>I’d like to compare the designs of 1hive and TEC for better repling to these two questions. Both have a governance token and use conviction voting to distribute funds among proposers, but TEC has xDAI in the funding pool and a bonding curve, whereas 1hive has honey in the funding pool and an issuance policy. Let’s see pros vs cons having governance tokens (TEC or HNY) instead of stable coins (xDAI) in the funding pool.</p>\n<p>Pros:</p>\n<ul>\n<li>Simplicity. 1Hive uses the same token (honey) to vote and to fund proposals, making the design of the DAO much simpler, not needing a bonding curve. On the other hand, TEC  is quite complex…</li>\n<li>Directly-funded community. Honey is distributed directly among the people who is providing value to the community through conviction voting. That’s the only way to obtain new honey (<strong>rule</strong>), because it goes directly to the funding pool and helps the community be sustainable. On the other hand, the only way to create/destroy TEC is adding or removing xDAI to/from the bonding curve, and the funding pool is mostly receiving funds from the exit tribute (<strong>rule</strong>), so we have only can distribute funds to proposers when people has been cashing in and out of the bonding curve, which may not be sustainable if the trading is not much active.</li>\n</ul>\n<p>Cons:</p>\n<ul>\n<li>Price volatility. Having the funding pool in a non-stable coin may be problematic for proposers because they have to deal with high volatility. This problem can be mitigated with a token price oracle, but it adds an external dependency and a bigger attack surface. On the other hand, TEC has the funding pool in xDAI, which is a better unit of account. We can consider the token price a <strong>boundary</strong> because it’s something that affect what we can or can’t do, but we don’t control.</li>\n<li>Crypto-winters. Price voliatility also has huge impacts in the DAO funding pool value in dollars during dips and crypto-winters that can affect the long-term sustainability of the DAO (we can also see the crypto market expansion and reduction as a <strong>boundary</strong>). On the other hand, TEC has the funding pool in xDAI, that is a better unit of account and also allow us to plan how to fund proposals on the long term.</li>\n</ul>\n<p>EDIT Nov 24: Added some more clarifications here and there.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2020-11-24T15:06:26Z",
+   "updated_at": "2020-11-24T15:06:26Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I felt that “will strive to support token engineering projects” this had been violated, when the Commons Book club was promoted above the Token Engineering Book efforts; and in general that “Token Engineering” communtiy members are under a lot of work, and do volunteer work, but don’t have time to follow with all the rules and boundaries that are being proposed. I have flagged since Day1 : that I do not agree with the boundary between Token Engineering Commons and Community. But all in all I trust that we will jive in time, and this experiment is good to see what works and what needs improvement.  I welcome the efforts now to open up “Proposals to support Token Engineering projects”</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-24T17:07:03Z",
+   "updated_at": "2020-11-24T17:07:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Clear boundaries are needed to overcome the so called “Tragedy of the Commons.” When defining the boundaries of the TE Commons we had to zoom in our focus to what is needed to have a successful launch.</p>\n<p>Once the TEC launches it can support the general TE community… but before launch, we can not allow our focus to be diluted by all the other awesome TE Projects, otherwise we will never launch <img alt=\":frowning:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/frowning.png?v=9\" title=\":frowning:\"/> It’s one of those, “got to put on our own mask first before assisting others” things.</p>\n<p>That said, we do encourage Praise to be dished for all TE work and I wish we had more of it! The process is there, it just needs to be utilized.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2020-11-25T10:58:00Z",
+   "updated_at": "2020-11-25T10:58:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I get that really <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/> It was asked for examples, I gave one. I fail to see awesome TE projects as “dillution” but as the actual TE Commons that are being created despite tragedy of commons. In TE Academy for example we offer highly subsidized courses. And again TE project proposals for the hatch do help with improving the situation.</p>\n<p>Our ideas/models originate from different worldviews, Griff - which is ok: It just states I would have drawn the boundary around the existent TE public goods (models, tutorials, books,… anything that the community already created and is creating - as much as around the future capital TEC might allocate)… This seeming paradox needs to be resolved at a higher paradigm.  All works to be done, projects to be proposed. Acknowledged. So let’s just give our best.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081816",
+    "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20201201164525",
+   "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20201201233510",
+   "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87/9"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210303022627",
+   "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303022627",
+   "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530081816",
+   "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530081816",
+   "url": "https://forum.tecommons.org/t/principles-1-2-rules-and-boundaries/87"
+  }
+ ]
+}

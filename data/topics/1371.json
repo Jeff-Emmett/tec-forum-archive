@@ -1,0 +1,47 @@
+{
+ "id": 1371,
+ "title": "Dune TEC Dashboard 2024",
+ "slug": "dune-tec-dashboard-2024",
+ "category_id": 5,
+ "posts_count": 0,
+ "created_at": "2024-05-19T09:25:31.859Z",
+ "last_posted_at": "2024-05-19T09:25:31.973Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2024-05-19T09:25:31Z",
+ "captured_between": [
+  "2024-06-16T08:29:29Z",
+  "2024-06-16T08:29:29Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "rex",
+   "name": null,
+   "created_at": "2024-05-19T09:25:31Z",
+   "updated_at": "2024-05-19T09:25:31Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Good morning all,</p>\n<p>I have now updated the Dune TEC Dashboard to include information on our tokens, reserves and balances post-migration. You can find the new dashboard under the same link: <a href=\"https://dune.com/tec/tec\" rel=\"noopener nofollow ugc\">https://dune.com/tec/tec</a>.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/af1743dcc3f68c652f85822a899f35959e473607\" href=\"https://forum.tecommons.org/uploads/default/original/1X/af1743dcc3f68c652f85822a899f35959e473607.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"oYVoXoy5iRgPrAcowMhUuDLtx7F\" data-dominant-color=\"F5EAE5\" height=\"383\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/af1743dcc3f68c652f85822a899f35959e473607_2_690x383.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/af1743dcc3f68c652f85822a899f35959e473607_2_690x383.png, https://forum.tecommons.org/uploads/default/optimized/1X/af1743dcc3f68c652f85822a899f35959e473607_2_1035x574.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/af1743dcc3f68c652f85822a899f35959e473607_2_1380x766.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">2439×1355 243 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>It contains 5 sub-dashboards - including:</p>\n<ul>\n<li>\n<strong>$TEC Market Information.</strong> This includes general price information, such as supply, distribution, and TEC-XDAI price information.</li>\n<li>\n<strong>TEC Reserve And Common Pools.</strong> This includes information on the health of the common pool and reserve pool, including balances over time in native token and USD.</li>\n<li>\n<strong>TEC Core Group</strong>. This includes information on the transactions and balances of the TEC Core Group Multisig on optimism.</li>\n<li>\n<strong>TEC Token Trades</strong>. This includes data on trades via Honeyswap and our Augmented Bonding Curve usage.</li>\n<li>\n<strong>TEC ABC Tributes</strong>. This includes data on the revenue created by our Augmented Bonding Curve taxation system.</li>\n</ul>\n<p>The old dashboard with pre-migration data has now been moved to <a href=\"https://dune.com/tec/tec-gno\" rel=\"noopener nofollow ugc\">https://dune.com/tec/tec-gno</a></p>\n<p>Let me know if you find any bugs! <img alt=\":sunflower:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/sunflower.png?v=12\" title=\":sunflower:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616082929",
+    "url": "https://forum.tecommons.org/t/dune-tec-dashboard-2024/1371"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240616082929",
+   "url": "https://forum.tecommons.org/t/dune-tec-dashboard-2024/1371"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616082929",
+   "url": "https://forum.tecommons.org/t/dune-tec-dashboard-2024/1371"
+  }
+ ]
+}

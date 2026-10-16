@@ -1,0 +1,163 @@
+{
+ "id": 417,
+ "title": "Credential management",
+ "slug": "credential-management",
+ "category_id": 28,
+ "posts_count": 6,
+ "created_at": "2021-06-10T09:58:56.602Z",
+ "last_posted_at": "2021-08-06T10:19:00.896Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-08-06T10:19:00Z",
+ "captured_between": [
+  "2021-06-24T15:23:05Z",
+  "2022-01-24T03:43:32Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-06-10T09:58:56Z",
+   "updated_at": "2021-12-02T14:56:48Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#using-jam-link-as-tec-credentials-manager-1\" name=\"using-jam-link-as-tec-credentials-manager-1\"></a>Using JAM link as TEC credentials manager</h2>\n<p>Until now we were using Keybase for sharing credentials and keeping a registry of the members with <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/cultural-components/transparency-or-mutual-accountability\">access to each platform</a>. With platforms like JAM we don’t need to share credentials anymore we can just share access. And credentials could be changed every month without affecting the workflow.</p>\n<p>We could use JAM until more decentralized technologies such as <a href=\"https://www.nucypher.com/\">https://www.nucypher.com/</a> are available.</p>\n<p>Doing a change like this brings up a lot of questions. For example decisions like this centralizes our process and that’s why I think it’s worth opening this thread, to get pros and cons of this action and get a decision as a whole.</p>\n<p>PROS:</p>\n<ul>\n<li>\n<p>Increasing the security in case of future conflicts “The problem of decentralizing states is defence, and the problem of decentralizing daos is password management :-D”</p>\n</li>\n<li>\n<p>Access can be revoked when members are not contributing on a task anymore</p>\n</li>\n<li>\n<p>Every reset (we could define a period of time) restricts access to inactive contributors and/or to people with previous access who have broken the code of conduct.</p>\n</li>\n</ul>\n<p>CONS:</p>\n<ul>\n<li>\n<p>Centralize power and the consequences of that.</p>\n</li>\n<li>\n<p>Add bureaucratic steps</p>\n</li>\n<li>\n<p>Sharing access isn’t much different from sharing credentials, people with it can do the same except sharing access with third parties.</p>\n</li>\n</ul>\n<p>We should also discuss how we wanna approach it also on our platforms such as GitHub or Discord. In my opinion we are doing a great job. We have different projects with different members with powers, for example we have Gitbook admin powers on 1 account. Then we have Github where there are many contributors but at the same time the contracts are on another repo where there are not many contributors.</p>\n<p>But we can also see it the other way, for example on discord there are a lot of admins, is it necessary? Would it be ok with the moderator and 1 backup? What are the pros and cons?</p>\n<p>Another goal with this post is to brainstorm the process to share credentials? Is it needed or would it be bureaucratic?</p>\n<p>For example we could add a <a href=\"https://2w1516v81n6.typeform.com/to/qAAqaUVT\">Typeform</a> with questions like asking for handle, which platform do the contributor need access to and what it’s the job going to be done on that platform (to decide what kind of access we should give) And the results of the typeform could be share on the stewards chat with a poll and if no one is against on 24hrs we give the access corresponding to that Typeform. This process would have a delay of 48h more or less.</p>\n<p>The idea it’s come up with the best process possible regarding security and efficiency. This one above might be super bureaucratic.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-06-10T15:20:58Z",
+   "updated_at": "2021-06-10T15:20:58Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for bringing this up Zep! super important discussion<br/>\nWhat if we use JAM and have a limited number of people that can be there like we did with SourceCred. We could have a bi-weekly or monthly check-in to see that everyone is still active and keep track of the access links sent.<br/>\nUntil the more decentralized solution is available.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-06-11T18:06:25Z",
+   "updated_at": "2021-06-11T18:06:25Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This content was authored by our Subject Matter Expert, <a class=\"mention\" href=\"/u/durgadas\">@Durgadas</a>:</p>\n<p>TEC Security Management Practices</p>\n<p>So, there is always a tension between security and access.</p>\n<p>Here are the <strong>problems</strong> I see:</p>\n<ol>\n<li>\n<p><strong>Trust</strong> would seem to be VERY important in our situation to have really clear security best practices, not consumer-level or untested new products.</p>\n</li>\n<li>\n<p>We are not really using enterprise-level best practices and products up to now, to my knowledge, but there are significant gaps in my knowledge of the existing map of the tension between security and access; and failing to map this tension we cannot share it or vote on it. <a class=\"inline-onebox\" href=\"https://www.beyondtrust.com/blog/entry/top-15-password-management-best-practices\" rel=\"noopener nofollow ugc\">Top 15 Password Management Best Practices | BeyondTrust</a></p>\n</li>\n<li>\n<p>Our stated goal (<a href=\"https://www.nucypher.com/\" rel=\"noopener nofollow ugc\">https://www.nucypher.com/</a>) from Zeptimus’ post is an untested alpha/beta product. Sure, it is a Good Idea and very cutting edge, but not sure why we would implement that apart from testing any time soon.</p>\n</li>\n<li>\n<p>Using a consumer-level product even as a stopgap seems like an odd choice that lessens security and trust.</p>\n</li>\n<li>\n<p><strong>Lessened Security Has Become Normalized…Because… “free”</strong>: But then again, we use many insecure products or “free” products made by companies with demonstrated tendencies to lack a concern for privacy (Discord, Google, etc.) which I also think is a mistake.</p>\n</li>\n<li>\n<p>Discord’s desktop client is almost continuously hacked, and Google sees literally everything we do since we use their products to document EVERYTHING.</p>\n</li>\n<li>\n<p>I’m not sure why this is not more of a concern among our users <em>or those who would invest in our products</em>, to be honest.</p>\n</li>\n<li>\n<p>It seems to be that we take these things for granted, which is of course what Google and the like rely upon as the foundation of their business.</p>\n</li>\n<li>\n<p>There is no map I can see of our current overlapping planned security circles or even risks posed by involving so many people with varying security practices participating in it. I’m happy to be corrected on this if such a map exists. <a class=\"inline-onebox\" href=\"https://blog.dashlane.com/conduct-internal-security-audit/\" rel=\"noopener nofollow ugc\">How to Conduct an Internal Security Audit in 5 Steps</a></p>\n</li>\n<li>\n<p>We need Auditing, and no program I see we’re using allows for this.</p>\n</li>\n</ol>\n<ol start=\"6\">\n<li>We are NOT in control of our participants computer security like you might get in an enterprise, so as a result we have existing and unclose-able threat vectors that an enterprise might not have. It is very possible to have any given user with a keylogger or other virus that can compromise our security or access, and so we need to find some way to state that people need to have some level of standard protection in this regard, since it would be tragic if one person’s machine being compromised somehow compromises security or access to key systems. This matters more after the Hatch when real money is being played with.</li>\n</ol>\n<p>Here is what I would recommend:</p>\n<ol>\n<li>\n<p>Map all security and access, perhaps using <a href=\"http://Glassfrog.com\" rel=\"noopener nofollow ugc\">Glassfrog.com</a> circles to make sense of this (share among Super Admins and Admins, and vote for approval among the community).</p>\n</li>\n<li>\n<p>ALL top-level Super Admin and Admin named accounts have 2FA as a requirement.</p>\n</li>\n<li>\n<p>Recommend that we have 5 layers of access:</p>\n</li>\n</ol>\n<p>a) <strong>Super Admins</strong> (account-level payment, access, password &amp; user management) Specific to validated Trusted Seed users using validated email accounts and phone numbers.</p>\n<p>b) <strong>Admins/Stewards</strong> (user-modification access toward the Provisional Admins) Specific to validated users using validated email accounts and phone numbers.</p>\n<p>c) <strong>Provisional Admins</strong> (management of individual password and designated account password management). Either assigned or service accounts created here.</p>\n<p>i. <strong>Caveat</strong>: In positions with high turnover, you might want to create service accounts whose passwords and accounts are ‘assigned’ to a given individual but the shared nature of this means you won’t want to turn on 2FA.</p>\n<p>d) General <strong>Editor</strong> Users who need to have passwords shared with them temporarily or using a lower-level type access to individual accounts for some function or to assist. Either assigned or service accounts created here.</p>\n<p>i. <strong>Caveat</strong>: In positions with high turnover, you might want to create service accounts whose passwords and accounts are ‘assigned’ to a given individual but the shared nature of this means you won’t want to turn on 2FA.</p>\n<p>e) <strong>Everyone</strong> else in the community with their own access and passwords with 2FA available:</p>\n<p>i. Discord, Forum, website, etc.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-06-14T13:23:01Z",
+   "updated_at": "2021-06-14T13:42:27Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks guys! This is being super valuable</p>\n<p>I love the  2 practices suggested that we can do regarding which method we end up using</p>\n<ul>\n<li>Bi-weekly or monthly audit for the access</li>\n<li>Guide our members with good practices regarding security.  I think we could add this best practices on top of the rules we are building for each platform that ideally we will add on the Gitbook.</li>\n</ul>\n<p>Regarding GlassFrog, correct me if I’m wrong it would be a substitute for Discord and the forum. I think it wouldn’t be beneficial, the main reason being that Discord and forum are like the default apps on the DAO space (from what I know, could be wrong). The benefits of using them in my opinion are higher over GlassFrog which still a centralized platform</p>\n<p>(A dapp that substitutes discord would be super cool :D)</p>\n<p>In the case of the password management tool JAM it’s a  provisional solution and nucypher is a project to keep an eye on in fact other projects might be raised to solve this issue. Of course we can use something different than JAM, Dashlane is another option.</p>\n<p>But the main goal of the discussion is to know how to approach as a DAO this kind of centralization, or maybe we want the keybase method we are using right now which is more decentralized which also has its pros and cons. But especially when we have roles like super admin, admin etc. How many of each role should we have? Who should be a super admin and why? I would love 0mega engagement on this threat</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-06-14T13:30:22Z",
+   "updated_at": "2021-06-14T13:30:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Another thing that worries me that Juan raised on our last transparency call , is when members want to contribute but they don’t have certain access to do their job. What if a new member that’s working on marketing stuff needs to work with sensitive information?</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"417\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>For example we could add a <a href=\"https://2w1516v81n6.typeform.com/to/qAAqaUVT\">Typeform </a> with questions like asking for handle, which platform do the contributor need access to and what it’s the job going to be done on that platform (to decide what kind of access we should give) And the results of the typeform could be share on the stewards chat with a poll and if no one is against on 24hrs we give the access corresponding to that Typeform. This process would have a delay of 48h more or less.</p>\n</blockquote>\n</aside>\n<p>Would that solve something?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-06-20T05:23:43Z",
+   "updated_at": "2021-06-20T05:23:43Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This is a great thread. I would support a CV proposal that funds this discussion and the implementation process that comes out of it. Proper access permissioning is a factor on organizational efficiency. In other words, positive ROI in the long term. And a great research area given the novel systems that we are operating.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2021-08-06T10:19:00Z",
+   "updated_at": "2021-08-06T10:19:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<ol>\n<li>\n<p>Firstly, let’s look at what state of the art is … I reference the book “Security Engineering <a href=\"https://www.cl.cam.ac.uk/~rja14/book.html\" rel=\"noopener nofollow ugc\">3rd Ed</a>”. The whole 1st edition is available gratis (just not recent cases).</p>\n</li>\n<li>\n<p>What is Zep trying to do? … identify the “opponent” or failure mode you are trying to prevent. If it is laziness of credential holders, the simplest solution may be a dead-man switch which after a period of inactivity, grants the multi-sig to a reserve list … .aka auto-fallover, rather than adopting a whole new system. Are you going for operational tweaks or systemic changes in practices?</p>\n</li>\n<li>\n<p>Decision process for systemic changes … orthogonal to above is how does TEC decide what to decide.</p>\n</li>\n</ol>\n<p>So with ref to the book (chp &amp; verse) perhaps we can typograph the issues Zep raises (passwords, sigs, wallets, audit, etc) and try to come to some consensus which risks justifies the cost in change.</p>\n<p>I come at this from both a Legal engineering back ground (risk management) plus CompSci (systems programming) as history shows that simple as possible reduces the attack surface and avoids security gaps due to lack of human comprehension.</p>\n<p><a class=\"mention\" href=\"/u/drllau\">@drllau</a></p>\n<p>ObJoke … Privacy is a transient notion. It started when people stopped believing that God could see everything and stopped when governments realised there was a vacancy to be filled.– ROGER NEEDHAM</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034332",
+    "url": "https://forum.tecommons.org/t/credential-management/417"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624152305",
+   "url": "https://forum.tecommons.org/t/credential-management/417"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624152305",
+   "url": "https://forum.tecommons.org/t/credential-management/417"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928014314",
+   "url": "https://forum.tecommons.org/t/credential-management/417"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014314",
+   "url": "https://forum.tecommons.org/t/credential-management/417"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124034332",
+   "url": "https://forum.tecommons.org/t/credential-management/417"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124034332",
+   "url": "https://forum.tecommons.org/t/credential-management/417"
+  }
+ ]
+}

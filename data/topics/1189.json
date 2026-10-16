@@ -1,0 +1,46 @@
+{
+ "id": 1189,
+ "title": "Report on Praise data text-classification in pursuit on an Actor-Critic RL agent for Headless DAO steering",
+ "slug": "report-on-praise-data-text-classification-in-pursuit-on-an-actor-critic-rl-agent-for-headless-dao-steering",
+ "category_id": 28,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2022-12-23T06:14:51Z",
+ "last_archived_post_at": "2022-12-23T06:14:51Z",
+ "captured_between": [
+  "2023-02-04T02:20:00Z",
+  "2023-02-04T02:20:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "graial",
+   "name": null,
+   "created_at": "2022-12-23T06:14:51Z",
+   "updated_at": "2022-12-23T06:14:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#provide-as-much-information-as-possible-about-your-idea-1\" name=\"provide-as-much-information-as-possible-about-your-idea-1\"></a>Provide as much information as possible about your idea.</h3>\n<p>I went overboard analyzing the Praise Quant data this month as a practice problem/skill development exercise for Reinforcement Learning.</p>\n<aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/document/d/16TfH3ilImGxymYZQQnka7pJryug02bBCLIAOZB_HXeE/edit\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/document/d/16TfH3ilImGxymYZQQnka7pJryug02bBCLIAOZB_HXeE/edit\" rel=\"noopener nofollow ugc\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/document/d/16TfH3ilImGxymYZQQnka7pJryug02bBCLIAOZB_HXeE/edit\" rel=\"noopener nofollow ugc\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-docs-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/document/d/16TfH3ilImGxymYZQQnka7pJryug02bBCLIAOZB_HXeE/edit\" rel=\"noopener nofollow ugc\" target=\"_blank\">Commons Stack Praise</a></h3>\n<p>Commons Stack Praise \t\t\t  By graial December 21, 2022  “One day I will find the right words, and they will be simple” - Jack Kerouac Intent Praise is now rolling at CommonsStack and this month I’ve been asked to participate in the quantification...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h3>\n<a class=\"anchor\" href=\"#how-is-it-relevant-to-the-tec-mission-vision-and-values-2\" name=\"how-is-it-relevant-to-the-tec-mission-vision-and-values-2\"></a>How is it relevant to the TEC mission, vision and values?</h3>\n<p>I am a bit out of the loop regarding TEC’s is currently at with the rewards system.  I just wanted to share the report to see what peoples’ impressions are.</p>\n<p>I like working with written language and have been working towards a similar control-system/feedback loop for a power-electronics project.</p>\n<p>What can I say, to a man training up in ‘Ostrom-style IAD’, every problem looks like a ‘Markov Decision Process’ <img alt=\":yum:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yum.png?v=10\" title=\":yum:\"/></p>\n<h3>\n<a class=\"anchor\" href=\"#who-is-going-to-be-affected-by-what-youre-proposing-3\" name=\"who-is-going-to-be-affected-by-what-youre-proposing-3\"></a>Who is going to be affected by what you’re proposing?</h3>\n<p>Im not really proposing anything at this time, just sharing the report to see what kind of impressions it gets.</p>\n<h3>\n<a class=\"anchor\" href=\"#who-has-expertise-in-this-topic-and-could-advise-your-process-4\" name=\"who-has-expertise-in-this-topic-and-could-advise-your-process-4\"></a>Who has expertise in this topic and could advise your process?</h3>\n<p>Rewards Team?  I helped Krisofer with some of the data parsing earlier this year.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-5\" name=\"what-type-of-proposal-is-this-5\"></a>What type of proposal is this?</h3>\n<ol start=\"4\">\n<li>This is an idea or something I just need advice to proceed with.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204022000",
+    "url": "https://forum.tecommons.org/t/report-on-praise-data-text-classification-in-pursuit-on-an-actor-critic-rl-agent-for-headless-dao-steering/1189"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230204022000",
+   "url": "https://forum.tecommons.org/t/report-on-praise-data-text-classification-in-pursuit-on-an-actor-critic-rl-agent-for-headless-dao-steering/1189"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204022000",
+   "url": "https://forum.tecommons.org/t/report-on-praise-data-text-classification-in-pursuit-on-an-actor-critic-rl-agent-for-headless-dao-steering/1189"
+  }
+ ]
+}

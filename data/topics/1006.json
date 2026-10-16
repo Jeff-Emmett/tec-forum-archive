@@ -1,0 +1,83 @@
+{
+ "id": 1006,
+ "title": "Transparency around TEC salaries",
+ "slug": "transparency-around-tec-salaries",
+ "category_id": 28,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2022-05-12T17:17:22Z",
+ "last_archived_post_at": "2022-05-14T20:54:39Z",
+ "captured_between": [
+  "2022-05-20T07:27:48Z",
+  "2026-08-09T04:24:34Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-05-12T17:17:22Z",
+   "updated_at": "2022-05-12T17:17:22Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>We have been discussing in the <a href=\"https://forum.tecommons.org/t/rewards-budget-distribution/992\">Rewards budget distribution</a> thread regarding transparency around salaries distributed on the TEC and if that should have its own document to be tracked monthly and add this information to the Transparency Audit.</p>\n<p>What would be tracked and publish is only money that is coming from TEC common pool and that being said could only apply to the proposals that use dework or any kind of transparency on who is getting what (that wouldn’t apply for TE proposals since the Transparency WG is only tracking milestones for those).</p>\n<p>In order to that to be tracked and mutual monitored by the community we also need that rewards distribution are linked to names as <span class=\"mention\">@tam</span> said <a href=\"https://forum.tecommons.org/t/tec-rewards-distribution-july-2022/1004/3\">here</a></p>\n<p>I’m planning to take this decision by snapshot after the advice process.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-is-it-relevant-to-the-tec-mission-vision-and-values-1\" name=\"how-is-it-relevant-to-the-tec-mission-vision-and-values-1\"></a>How is it relevant to the TEC mission, vision and values?</h3>\n<p>I think it raises a little discussion at the beginning but can prevent bigger conflicts in the community in the long run.</p>\n<h3>\n<a class=\"anchor\" href=\"#who-is-going-to-be-affected-by-what-youre-proposing-2\" name=\"who-is-going-to-be-affected-by-what-youre-proposing-2\"></a>Who is going to be affected by what you’re proposing?</h3>\n<p>Every TEC contributor</p>\n<h3>\n<a class=\"anchor\" href=\"#who-has-expertise-in-this-topic-and-could-advise-your-process-3\" name=\"who-has-expertise-in-this-topic-and-could-advise-your-process-3\"></a>Who has expertise in this topic and could advise your process?</h3>\n<p>Collective intelligence</p>\n<h3>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-4\" name=\"what-type-of-proposal-is-this-4\"></a>What type of proposal is this?</h3>\n<p>Snapshot (cultural)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809042434",
+    "url": "https://forum.tecommons.org/t/transparency-around-tec-salaries/1006"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2022-05-12T18:52:37Z",
+   "updated_at": "2022-05-12T18:52:37Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Transparency For The Win!!!<br/>\nGreat proposal <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> - I think this can incentivize mutual monitoring over better distribution of work loads and compensations <img alt=\":+1:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/+1.png?v=10\" title=\":+1:\"/>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809042434",
+    "url": "https://forum.tecommons.org/t/transparency-around-tec-salaries/1006"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-05-14T20:54:39Z",
+   "updated_at": "2022-05-14T20:54:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I am all for this. As you say, <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a>, this funding is right from the community pool and so it’s important that we shine the light of transparency down to this next level. It also infuses accountability into the power of transparency. Yes, there may be some awkwardness at first, perhaps, but I am confident we will work through that. This is going to be increasingly important in the months ahead as we try to better understanding of the exact nature of the TEC’s overall spending.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809042434",
+    "url": "https://forum.tecommons.org/t/transparency-around-tec-salaries/1006"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520072748",
+   "url": "https://forum.tecommons.org/t/transparency-around-tec-salaries/1006"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520072748",
+   "url": "https://forum.tecommons.org/t/transparency-around-tec-salaries/1006"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260809042434",
+   "url": "https://forum.tecommons.org/t/transparency-around-tec-salaries/1006"
+  }
+ ]
+}

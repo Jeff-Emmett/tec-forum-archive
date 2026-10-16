@@ -1,0 +1,156 @@
+{
+ "id": 1303,
+ "title": "Taking advantage of sDAI's yield with the TEC's Common Pool",
+ "slug": "taking-advantage-of-sdais-yield-with-the-tecs-common-pool",
+ "category_id": 29,
+ "tags": [
+  "funding-proposal"
+ ],
+ "posts_count": 6,
+ "created_at": "2023-10-24T13:01:38.720Z",
+ "last_posted_at": "2023-10-25T20:02:49.097Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2023-10-25T20:02:49Z",
+ "captured_between": [
+  "2023-12-10T23:29:37Z",
+  "2024-06-16T09:42:17Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-10-24T13:01:38Z",
+   "updated_at": "2023-10-24T13:01:38Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h3>\n<p>Transfer all funds from the  Common Pool (313,454.57 WXDAI at the time of writing) to <a href=\"https://gnosisscan.io/token/0xaf204776c7245bf4147c2612bf6e5972ee483701\">sDAI</a>.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h3>\n<p>This proposal suggests moving the entire balance of the Common Pool into sDAI, a token that generates yield from all the DAI in Gnosis Chains’ bridge being deposited in Maker’s DAI Savings Rate (DSR) – currently 5% – and passing the yield to sDAI holders in Gnosis. Because there’s more DAI in the bridge contract than deposited in Gnosis sDAI, the yield ends up being higher than the DSR’s on Mainnet. As of now, the APY on Gnosis sDAI is 7.524%.</p>\n<p><strong>This would provide an estimated additional 1,965.3601539 DAI per month to the TEC.</strong></p>\n<p>It’s important to note that sDAI is a non-rebasing token, meaning that it will continuously go up in price as it accrues the yield, we’ll need to have its price into consideration when making proposals.</p>\n<h3>\n<a class=\"anchor\" href=\"#additional-information-to-add-3\" name=\"additional-information-to-add-3\"></a>Additional information to add</h3>\n<ul>\n<li>\n<a href=\"https://agavefinance.eth.limo/sdai/\">Gnosis sDAI frontend</a> (for those with concerns about Agave, they’re just the first UI, but this is a project coming directly from Gnosis)</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>Funding the Commons has always being a concern. By using sDAI we get a fairly low effort and low risk way to earn yield on the DAI we already hold.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>313,454.57 WXDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-6\" name=\"how-will-these-funds-be-used-6\"></a>How will these funds be used?</h3>\n<p>By the time I can take this proposal onchain I’ll know if we can do this vote directly with a EVMCrispr script or if we need to set up a multisig to do the movements.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-7\" name=\"what-does-success-look-like-7\"></a>What does success look like?</h3>\n<p>Success for this proposal would be achieved when the funds from the Token Engineering Commons’ Common Pool are successfully moved to sDAI, and the additional yield generated from the DAI Savings Rate on the Gnosis Chain starts accruing for the benefit of the Commons.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-8\" name=\"how-will-you-share-progress-8\"></a>How will you share progress?</h3>\n<p>N/A</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-9\" name=\"project-information-if-applies-9\"></a>Project information (if applies)</h3>\n<p>N/A</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-10\" name=\"team-information-10\"></a>Team Information</h3>\n<p>I’m putting this proposal froward as myself. The Gnosis sDAI is a project carried out by GnosisDAO and audited by a few firms.</p>\n<h3>\n<a class=\"anchor\" href=\"#complementary-information-11\" name=\"complementary-information-11\"></a>Complementary information</h3>\n<p>N/A</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-24T16:42:13Z",
+   "updated_at": "2023-10-24T16:42:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I love the idea. Let’s put out a poll.</p>\n<p>We should probably do a test vote first to see if the EVMcrispr script would work with a smaller amount of money, before the big vote.</p>\n<h1>\n<a class=\"anchor\" href=\"#swap-our-common-pools-wxdai-1\" name=\"swap-our-common-pools-wxdai-1\"></a>Swap our Common Pool’s wxDAI</h1>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"087e7074c165e823a3cabfe3b56ab8d4\">Yeah let’s swap 100%</li>\n<li data-poll-option-id=\"32d1c348f42264751c11079c2889e637\">Yes but let’s swap less than 100%</li>\n<li data-poll-option-id=\"94b4997b6bd832062a2575eaa706a8d1\">No, I like keeping all wxDAI</li>\n<li data-poll-option-id=\"a794bdf089ea385737e0a3326e315898\">I’m not really sure</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-10-24T17:41:46Z",
+   "updated_at": "2023-10-24T17:41:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I like this proposal.</p>\n<p>Definitely run a test first!</p>\n<p>Should we diversify rather than put in 100%? I’m not sure about this yet… would like to hear more from the community. I would put forward considerations for 50%, 75%, 100%.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-10-25T13:00:31Z",
+   "updated_at": "2023-10-25T13:00:31Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>The EVMcrispr script for doing that is simple:</p>\n<pre><code class=\"lang-auto\">load aragonos as ar\n\n# Variables\nset $token.tokenlist https://tokens.honeyswap.org\nset $tecGarden 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8\nset $savingsXDaiAdapter 0xd499b51fcfc66bd31248ef4b28d656d67e591a94\n\nar:connect $tecGarden disputable-voting.open agent --context \"Migrate WXDAI from Common Pool to sDAI\" (\n    # Variables\n    set $commonPool agent\n    set $funds @token.balance(WXDAI, $commonPool) \n\n    # Operations\n    exec @token(WXDAI) approve(address,uint) $savingsXDaiAdapter $funds\n    exec $savingsXDaiAdapter deposit(uint256,address) $funds $commonPool\n)\n</code></pre>\n<p>I simulated the vote execution using <strong><a href=\"https://evmcrispr.com/#/terminal/QmWANJ9VtRYSFUErGXvwih5d3daVDj6L24DLTtaDRpfJMK\">EVMcrispr + Tenderly</a></strong>, and sending <strong>307,468 WXDAI</strong> ($306,307) from the Common Pool, the DAO receives back <strong>301,585 sDAI</strong> ($297,884 in Gnosis, but $309,799 in Mainnet).</p>\n<p>I don’t know why the sDAI price in <a href=\"https://www.coingecko.com/en/coins/savings-xdai\">gnosis</a> and <a href=\"https://www.coingecko.com/en/coins/savings-dai\">mainnet</a> is different and if sDAI on gnosis is just a bridged token or is there something else. Please be aware of that the price is fluctuating but it should not affect to the amount of sDAIs received when executing the vote.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-10-25T14:17:48Z",
+   "updated_at": "2023-10-25T18:44:52Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for the script!</p>\n<p>sDAI on Gnosis is a completely different token than sDAI on Mainnet. They deposited all DAI in the Mainnnet bridge (except for a $1M buffer) on Mainnet’s DSR, so the bridge is holding sDAI, but all the yield is directed to the Gnosis sDAI contract, which is pretty much just a WXDAI wrapper.</p>\n<p>And because there’s less WXDAI in Gnosis sDAI than there is on the bridge, the APY is just higher.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-10-25T19:43:37Z",
+   "updated_at": "2023-10-25T19:43:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>It’s confusing they both are called sDAI. The Gnosis version should be called sxDAI (savings xDAI) or gsDAI (gnosis savings DAI), and this is how I’ll call it from now on to avoid confusion…</p>\n<p>At the end it’s an improved wrapper, like the <a href=\"https://pokemon.fandom.com/es/wiki/GS_Ball\">GS Ball</a>.<br/>\n<img alt=\"GS_Ball_(Ilustraci n)\" data-base62-sha1=\"hFQM34kzHULzaDN09c0fkvGgfyh\" height=\"100\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7be00f55c362de33da9e55a5f853787759bd3d49.webp\" width=\"100\"/></p>\n<p>According to <a href=\"https://www.coingecko.com/en/coins/savings-xdai\">Coingecko</a>, 301,585 gsDAI is currently $304,600 (the price is fluctuating all the time). This is 0.56% of slippage ($1,707), something totally reasonable, although we <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/\">might be migrating</a> very soon to Optimism, <a href=\"https://forum.tecommons.org/t/buying-eth-to-protect-against-xdai-challenges/1239\">choosing a different common pool and reserve token</a> that can’t be wxDAI nor gsDAI, so I wonder if it is worth the cost.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-10-25T20:02:49Z",
+   "updated_at": "2023-10-25T20:02:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Yeah I agree it’s pretty confusing <img alt=\":sweat_smile:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=12\" title=\":sweat_smile:\" width=\"20\"/>.</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"1303\" data-username=\"sem\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" width=\"20\"/> sem:</div>\n<blockquote>\n<p>According to <a href=\"https://www.coingecko.com/en/coins/savings-xdai\">Coingecko</a>, 301,585 gsDAI is currently $304,600 (the price is fluctuating all the time).</p>\n</blockquote>\n</aside>\n<p>Coingecko is getting the quote from the open market, which isn’t very liquid yet. Folks can go directly to the contract to unwrap gsDAI at the real price (currently ~1.02 usd per gsDAI); liquidity should be ramping up very soon though, there’s already incentives in <a href=\"https://app.aura.finance/#/100/pool/18\">Aura for the sDAI/EURe pool</a>.</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"1303\" data-username=\"sem\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" width=\"20\"/> sem:</div>\n<blockquote>\n<p>I wonder if it is worth the cost.</p>\n</blockquote>\n</aside>\n<p>About the Optimism migration, it’s a single vote and will give us more money than what we currently get from the ABC. Any penny we can get from now till we move to OP is a very welcomed penny imo.</p>\n<p>Doing this directly through the gsDAI contract should incur in no slippage at all.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240616094217",
+    "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210232937",
+   "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231210232937",
+   "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240616094217",
+   "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616094217",
+   "url": "https://forum.tecommons.org/t/taking-advantage-of-sdais-yield-with-the-tecs-common-pool/1303/6"
+  }
+ ]
+}

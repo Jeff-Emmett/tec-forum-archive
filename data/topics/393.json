@@ -1,0 +1,121 @@
+{
+ "id": 393,
+ "title": "Electric Circus - Game-based version of Ecosystem Valueflows course",
+ "slug": "electric-circus-game-based-version-of-ecosystem-valueflows-course",
+ "category_id": 7,
+ "posts_count": 4,
+ "created_at": "2021-05-24T12:13:37.098Z",
+ "last_posted_at": "2021-05-26T08:39:40.976Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2022-04-27T10:39:06Z",
+ "captured_between": [
+  "2021-06-24T14:51:34Z",
+  "2026-04-12T16:18:05Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-05-24T12:13:37Z",
+   "updated_at": "2021-06-18T10:03:22Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#electric-circus-1\" name=\"electric-circus-1\"></a>Electric Circus</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p>Game-based version of the Ecosystem Valueflows course, that makes it easier for diverse community to asynchronously or synchronously create the game, i.e. dynamic system model, of their ecosystem. The game-based version both enables the documentation of assumptions, co-creation with stakeholders, as well as game-based simulations.</p>\n<p>It is a fun way to collect information required to create useful models and simulations, including but not only for your Token Model Generation.</p>\n<p><strong>Proposal Details:</strong><br/>\nCurrently hosted by Freeelio (solsista’s open innovation vehicle): <a href=\"https://freeel.io/workshops#rpg\" rel=\"noopener nofollow ugc\">website</a>, <a href=\"https://github.com/Freeelio/electric-circus\" rel=\"noopener nofollow ugc\">github</a></p>\n<p>Prototype scenario is Impact Pirates: <a href=\"https://gitcoin.co/grants/1638/electric-circus-proudly-presents-impact-pirates\" rel=\"noopener nofollow ugc\">gitcoin grant</a><br/>\nCo-creation with the 3rd cohort of Ecosystem Valueflows course <span class=\"hashtag\">#tmg1-may2021</span> in Discord, miro board<br/>\nPotential peer learning material for DACADE <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285\">Dacade - peer to peer learning platform</a></p>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<strong>Playable prototype in Miro (approx 3 weeks)</strong> - currently in development, will also be used as specification for implementation  <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> <span class=\"mention\">@Magenta</span> <a class=\"mention\" href=\"/u/paula\">@Paula</a><br/>\nBased on Le Grand Jeu by <span class=\"mention\">@Federico</span> <span class=\"mention\">@Raffaella</span><br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/75dd60b6afaf157958b4ad4d03f68ac1f9a47571\" href=\"https://forum.tecommons.org/uploads/default/original/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"gOGa9vM7TmkNb55snaUU8BIBWzn\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_10x10.png\" height=\"340\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_690x340.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_690x340.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_1035x510.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/75dd60b6afaf157958b4ad4d03f68ac1f9a47571_2_1380x680.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1761×869 385 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>Implementation (approx 18 weeks) - not yet started</strong>. <span class=\"mention\">@Philipp</span>_ <a class=\"mention\" href=\"/u/paula\">@Paula</a> <a class=\"mention\" href=\"/u/randomshinichi\">@randomshinichi</a>, <span class=\"mention\">@Dario</span><br/>\nReference Implementation of Le Grand Jeu in Rust by <a class=\"mention\" href=\"/u/qubeo\">@Qubeo</a> currently in development</p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong><br/>\nThis will make Ecosystem Value Flows course of TE Academy more accessible to a wider range of learners, especially distributed teams or bigger ecosystems who have difficulties to schedule on the sparse offerings (at most twice per year), and also want to keep honing their skills and engage their community after the course.</p>\n<p>It is also great tooling for token engineers in their own ecosystems, or projects they are engineering for - especially if co-creation and participatory design is more important then having a system designed by few or one engineer.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-3\" name=\"team-information-for-funding-proposals-3\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Names, usernames, and/or relevant social links for team members (Twitter, Github, TEC Forum, etc.):</strong><br/>\n</p>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\n</p>\n<p><em>What are some of your skills or related experience that might help inform TEC holders about your ability to execute on your proposal</em></p>\n<p>We are the designers of the Ecosystem Value Flows course &amp; contents, especially the dynamics and game-based topics.</p>\n<p>We have experience in knowledge management systems, game-based systems, token engineering course design.</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-4\" name=\"funding-information-for-funding-proposals-4\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong><br/>\napprox. 75k in DAI</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong><br/>\n0x0EC8BeA26e3ca271010eF02decB84Bfb9139472B<br/>\n</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong><br/>\n&lt;will be detailed after Miro Prototype; roughly 10% design 20% play-testing 70% development&gt;</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412161805",
+    "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Evo",
+   "name": null,
+   "created_at": "2021-05-25T11:38:39Z",
+   "updated_at": "2021-05-25T11:38:39Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/solsista\">@Solsista</a>, thank you for initiating this and I hope it takes off. I just missed the last value flows course and am happy to see that learning will become more accessible to a wider audience. Hopefully attuned to people like me who have a real ecosystem and community use case but moderate technical skills. Will need all the help I can get. Let me know if help is needed in prototyping it…</p>\n<p>Ivo</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412161805",
+    "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-05-25T16:49:17Z",
+   "updated_at": "2021-05-25T16:49:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>wonderful! This is who this is for :)) Evo, can you share a link or some info wrt community &amp; ecosystem?<br/>\nThank you!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412161805",
+    "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Evo",
+   "name": null,
+   "created_at": "2021-05-26T08:39:40Z",
+   "updated_at": "2021-05-26T08:39:40Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/solsista\">@Solsista</a>,<br/>\nSure. I’ll keep it short first. I am helping to build 2 organisations basically. One is <a href=\"https://systems-souls-society.com/\" rel=\"noopener nofollow ugc\">Perspectiva</a>, which is the mothership, and the other is called <a href=\"http://www.whatisemerging.com/about\" rel=\"noopener nofollow ugc\">Emerge</a>. A social movement-building initiative aimed at working on the social dimension of what we call the ‘Meta-crisis’.</p>\n<p>The TL;DR is below</p>\n<p>So I am working as senior adviser, COO, Praxis designer for Perspectiva, (<a href=\"http://www.systems-souls-society.com\" rel=\"noopener nofollow ugc\">www.systems-souls-society.com</a>) a registered charity in London, which is an epistemically diverse organism and an odd one for a charity in the sense that we do not work to solve one issue, like getting homeless of the streets, but take a root-cause metasystematic approach to the interweaving of the current crises we face as humanity. We call it the ‘Meta-Crisis…’ We jokingly call ourselves an ‘urgent 100-year project’ a reference to the time frames we are thinking along and working with.</p>\n<p>One of our strands of inquiry is called Emergence, taking this phenomenon of dynamic complex systems as a heuristic for cultural transformation towards higher-order more anti-fragile systems. Emerge, (<a href=\"http://www.whatisemerging.com\" rel=\"noopener nofollow ugc\">www.whatisemerging.com</a>) is now mostly a media channel, some pre-pandemic local meetups in Berlin, London and Sweden and a large Gathering coming up in Berlin in October. It is ultimately about building a network-of-networks, a movement of organisations, capable of forming an effective ‘We’ as a response to the meta-crisis.</p>\n<p>Each of these tribes in our ecosystem are doing their own individual thing, like transforming business, personal development, tackling climate change, rethinking politics, promoting inner work of various kinds. But we recognize that these things alone are not going to do the job, important, but partial approaches…</p>\n<p>Since these crises, of politics, climate, meaning, ecology, economic and monetary systems, to name a few, are interlocking, we need all these perspectives and kinds of wisdom in the room. But as you may know, these perspectives, like some people, are not always compatible. So we’re basically working to crack trust and coherence beyond Dunbar, hopefully capable of freeing up and harnessing collective intelligence and move towards meaningful collective action without centralized coercion and loss of agency of the individual actors. Easy, right?</p>\n<p>I think we have around 40 organisations and a core network/audience between 3 or4K people, a lot into Yellow/Turquoise, 2nd tier thinking (I know you have been conversing with Durgadas, so I think you are familiar with these terms). Each willing to work together and in recognition that these meta-systematic approaches and non-rivalrous dynamics are needed to move ahead, but most are unsure of how to cohere our social space. There is a lot of potential though.</p>\n<p>So I am doing a deep dive in all things TE and adjacent disciplines to first ‘find the mess’, then try to see if we can come to proto-engineering, making a blueprint for a purpose-driven token ecosystem, first for Emerge, as a DAO, but eventually, hopefully, intertribal DAO2DAO collaboration in our wider space with a managed commons for funding research and setting up projects, allocate funding and people, surface the best ideas in line with our purpose. Think I’ll stop there… Let me know if you want to hear more…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412161805",
+    "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-04-27T10:39:06Z",
+   "updated_at": "2022-04-27T10:39:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>would love to revive this - but we need intrinsically motivated designer(s) and developer(s) <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> else it’s too hard to coordinate. Respond here, if you are interested:<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b\" href=\"https://forum.tecommons.org/uploads/default/original/1X/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"5vPtHugHngEEw77M94YPEu3BVnJ\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b_2_10x10.png\" height=\"393\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b_2_690x393.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b_2_690x393.png, https://forum.tecommons.org/uploads/default/optimized/1X/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b_2_1035x589.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/26a3fc0869cb3c8bbf391e6623a17d03b6a5d06b.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1224×698 114 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412161805",
+    "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624145134",
+   "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624145134",
+   "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260412161805",
+   "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260412161805",
+   "url": "https://forum.tecommons.org/t/electric-circus-game-based-version-of-ecosystem-valueflows-course/393"
+  }
+ ]
+}

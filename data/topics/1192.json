@@ -1,0 +1,46 @@
+{
+ "id": 1192,
+ "title": "Upgrading Token Engineering Common’s Operational Ecosystem",
+ "slug": "upgrading-token-engineering-common-s-operational-ecosystem",
+ "category_id": 11,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2023-01-11T13:42:25Z",
+ "last_archived_post_at": "2023-01-11T13:42:25Z",
+ "captured_between": [
+  "2023-02-04T02:25:05Z",
+  "2023-02-04T02:25:05Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Amenek.eth",
+   "name": null,
+   "created_at": "2023-01-11T13:42:25Z",
+   "updated_at": "2023-01-11T13:42:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Summary:</strong></p>\n<p>This proposal revolves around how the <a href=\"https://www.youtube.com/watch?v=BQaZutooAL0\" rel=\"noopener nofollow ugc\">DaoLens DAO Manager platform</a> can refine the day-to-day operations of the Token Engineering Commons Community through a well-defined and self-serve DAO Tooling infrastructure.</p>\n<p>The influx of such a tooling mechanism shall result in a unified platform for most of the DAO’s operations including but not limited to the management of projects, discussions, proposals, off-chain/on-chain voting, bounties, and compensation. Considering how the current operation in your DAO leaves a massive scope for improvement and on top, most admins and members are losing the context of what concerns them amidst all the noise, such a platform shall be pivotal in how DAOs can flourish.</p>\n<p>Based on our experience breaking down the daily operations of around 500 DAOs and Digital Communities, we have been able to redefine the operational infrastructure a DAO should adhere to for optimum operational efficiency. Below are some concepts on how Token Engineering Commons Community Community can benefit from the DaoLens DAO Manager.</p>\n<p><strong>Problem Statements that we’ll solve:</strong></p>\n<p><strong>1. Lack of motivation for Contributors:</strong></p>\n<p>It is tricky to maintain member retention within a DAO and rewarding tokens to the members on the completion of a bounty does not effectively build a sense of belongingness for the members.</p>\n<p><strong>2. Accessibility of Modules and absence of rules to group like-minded folks together:</strong></p>\n<p>DAO Admins should be able to establish Gating rules for Discussions, Bounties, Proposal creation, Project management, etc. to ensure only select/eligible folks are able to work on them. An absence of such gating results in noise in discussion forums and bounty boards, etc.</p>\n<p><strong>3. Lack of relevant Context:</strong></p>\n<p>Admins and Contributors, both tend to lose the context behind every bounty, proposal, and project because of the noise that exists on discussion platforms like Discourse and Discord.</p>\n<p><strong>4. Lack of Visibility:</strong></p>\n<p>While using multiple platforms for each type of operation, the Admins also lose the visibility of ‘what concerns them the most amidst all the noise?’</p>\n<p><strong>5. Inconvenient cross-DAO operations:</strong></p>\n<p>While most contributors are a part of multiple DAOs, it becomes quite difficult to track what concerns them the most for each. Juggling between multiple tools and tabs to get work done hinders the productivity of contributors and admins alike.</p>\n<p><strong>What does DAO Manager do?</strong></p>\n<p>The goal of the DAO Manager is to provide a solution that reduces friction in day-to-day DAO management. It shall do so by structuring a unified platform with modules for each type of operation including (but not limited to):</p>\n<ol>\n<li>Curation of Bounty Board</li>\n<li>Review and Compensation of Tasks and Bounties</li>\n<li>Creation and management of Discussions Forums</li>\n<li>Creation of Proposals</li>\n<li>On-Chain Voting on proposals (with multiple voting types available)</li>\n<li>Project management</li>\n<li>Custom section (courses, a marketplace of the DAO, to be highlighted with reference to what would make sense for the day)</li>\n<li>Gating rules for all of the above modules (NFT, NFT Traits, and Token-based gating to limit accessibility)</li>\n<li>Lastly, a Discovery platform brings your DAO to the visibility of the users more often.</li>\n</ol>\n<p><strong><a href=\"https://www.daolens.com\" rel=\"noopener nofollow ugc\">Website</a></strong></p>\n<p><strong>Benefits of moving onto the DAO Manager:</strong></p>\n<p>Apart from solving the problem statements as mentioned above, the MVP of DAO Manager is a feature-packed platform to help you reduce the operational costs of managing multiple tools.</p>\n<p><strong># Next Steps</strong></p>\n<p>The Token Engineering Commons Community team can get in touch with DaoLens to build a testrun on the DAO Manager platform and get the DaoLens team to build any custom features that the Token Engineering Commons Community community wants to see in the new community workspace. Once that’s done, we can discuss the migration of the current data onto the new workspace.</p>\n<p>Happy to answer any questions about this.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204022505",
+    "url": "https://forum.tecommons.org/t/upgrading-token-engineering-common-s-operational-ecosystem/1192"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204022505",
+   "url": "https://forum.tecommons.org/t/upgrading-token-engineering-common-s-operational-ecosystem/1192"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204022505",
+   "url": "https://forum.tecommons.org/t/upgrading-token-engineering-common-s-operational-ecosystem/1192"
+  }
+ ]
+}

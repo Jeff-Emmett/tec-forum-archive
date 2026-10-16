@@ -1,0 +1,94 @@
+{
+ "id": 542,
+ "title": "[proposal] Abstracting complexity for non crypto-natives",
+ "slug": "proposal-abstracting-complexity-for-non-crypto-natives",
+ "category_id": 10,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2021-08-12T16:33:08Z",
+ "last_archived_post_at": "2021-08-16T11:30:14Z",
+ "captured_between": [
+  "2021-09-28T02:17:51Z",
+  "2021-09-28T02:17:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "dRAT3",
+   "name": null,
+   "created_at": "2021-08-12T16:33:08Z",
+   "updated_at": "2021-08-12T16:33:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi I’m dRAT3 I’ve been hanging around on the commons stack discord. I have a proposal for the TEC</p>\n<p>So the procedure to get someone to invest in your commons is the following:</p>\n<ol>\n<li>Convince person about project merrit</li>\n<li>Explain what a crypto token is</li>\n<li>Explain what a bonding curve is</li>\n<li>Explain what Dai,or xDai or wxDai is</li>\n<li>Call to action, get them to buy dai/xdai on exchange</li>\n<li>Get them to install metamask and change rpc settings to xdai or arbitrum, explain that they need eth as well to pay gas</li>\n<li>Get them to connect to the curve and mint the tokens</li>\n</ol>\n<p>Then I haven’t spoken about kyc, private keys and self-custody.</p>\n<p>Proposal:<br/>\nFor step 2and 3 create a finematics type animated introduction that every commons can re-use</p>\n<p>For step 4 to 7<br/>\nCreate a part of the stack for managed minting and managed burning. With an exchange like web-wallet managed by TEC and possibility to withdraw tokens to private wallet for governance/utility once the users get a hang on crypto and want to be more involved with the commons.</p>\n<p>Give user the option to mint directly with dai or use a payment processor/wire transfer. When they pay with a payment processor they have to do kyc to prevent fraud. Then they get connected to the TEC platform and TEC mints the tokens in the background for the user. They can then burn them again for usd.</p>\n<p>Make this an opt-in service for the commons and payed for by said commons. I propose  a commision of certain percentage upto a certain level.</p>\n<p>This will probably become obsolete once cbdc’s are live, but for now I think it’s a crucial thing to have.</p>\n<p>Caveats:</p>\n<p>Security: When funds get frozen because of stolen cc and the token drops in value there is a loss. Would have to be offset by profits made by the commision/subscription model.</p>\n<p>Legal : avoid being regulated as an exchange</p>\n<p>Technical: Should be doable with the talent you got here…</p>\n<p>Benefits:<br/>\nTEC just got a revenue model and your tokens become more valuable</p>\n<p>Commons are going to get way more donators</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210928021751",
+    "url": "https://forum.tecommons.org/t/proposal-abstracting-complexity-for-non-crypto-natives/542"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2021-08-14T09:24:24Z",
+   "updated_at": "2021-08-14T09:24:24Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>We’re missing a familiar analog that can help people mentally map conventions to the new token terminology. One solution that I put forward (but not developed as got side-tracked with new job) was</p>\n<ol>\n<li>putting $$ (as backer) into TECH is like lending money to a (education) charity</li>\n<li>you can get your funds out (rage-quit) but with a penalty to discourage churn</li>\n<li>The TEC charity/education trust (??? need a good mental match here) uses the interest to fund public-good projects</li>\n<li>Wisely chosen projects will attract more participants, and theoretically drive up the value of the token for everyone</li>\n<li>the bonding curve acts like an incentive scheme, rewarding earlier participants rather than late-comers who just want to jump on the band-wagon</li>\n</ol>\n<p>Not sure if I got the details right but a high-school level conceptual view of the TECH token might avoid frequent confusion.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210928021751",
+    "url": "https://forum.tecommons.org/t/proposal-abstracting-complexity-for-non-crypto-natives/542"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "dRAT3",
+   "name": null,
+   "created_at": "2021-08-14T11:59:47Z",
+   "updated_at": "2021-08-14T11:59:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for your reply drlau.</p>\n<p>The problem is putting the cash in as a non crypto native is extremely complex. Non tech people have trouble installing an ad-blocker, let alone metamask with a custom rpc and storing a private key etc. Getting xdai etc etc.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210928021751",
+    "url": "https://forum.tecommons.org/t/proposal-abstracting-complexity-for-non-crypto-natives/542"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2021-08-16T11:30:14Z",
+   "updated_at": "2021-08-16T11:30:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The mechanics (setting up wallet, getting DAI, etc) are a UX design problem … explaining the concepts is a marketing/pre-sale stage … only if people are comfortable knowing what the money is being used for (public goods as determined by voting on TECommons) then they may consider going forward</p>\n<p>Perhaps if we have some example of proposals, then people might sense the value in joining the community (if not necessarily chip in money)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210928021751",
+    "url": "https://forum.tecommons.org/t/proposal-abstracting-complexity-for-non-crypto-natives/542"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928021751",
+   "url": "https://forum.tecommons.org/t/proposal-abstracting-complexity-for-non-crypto-natives/542"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928021751",
+   "url": "https://forum.tecommons.org/t/proposal-abstracting-complexity-for-non-crypto-natives/542"
+  }
+ ]
+}

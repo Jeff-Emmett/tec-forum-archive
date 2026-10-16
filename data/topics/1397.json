@@ -1,0 +1,87 @@
+{
+ "id": 1397,
+ "title": "Super DCA GG20 Update",
+ "slug": "super-dca-gg20-update",
+ "category_id": 5,
+ "posts_count": 1,
+ "created_at": "2024-08-13T20:38:06.584Z",
+ "last_posted_at": "2024-08-13T20:41:46.019Z",
+ "views": 755,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2024-08-13T20:41:46Z",
+ "captured_between": [
+  "2024-09-20T01:42:36Z",
+  "2025-08-11T19:11:09Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "superdca",
+   "name": "Mike | Super DCA",
+   "created_at": "2024-08-13T20:38:06Z",
+   "updated_at": "2024-08-13T20:38:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hello TEC Community,</p>\n<p>Thank you for your support in GG20. I’m really excited to be included in GG21! Here is an update on developments since GG20.</p>\n<p>You can support Super DCA in GG21 here: <a href=\"https://explorer.gitcoin.co/?#/round/10/57/17\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Gitcoin | Explorer</a></p>\n<p><strong>Super DCA App Deployment</strong></p>\n<ul>\n<li>The frontend application that I’m using to test the protocol is now available at:\n<ul>\n<li><a href=\"https://superdca.eth.limo\" rel=\"noopener nofollow ugc\">https://superdca.eth.limo</a></li>\n</ul>\n</li>\n<li>\n<strong>Call to Action:</strong> I could use the community’s help to get a small amount of volume flowing through the network. So, if you plan to do some DCA from USDC to ETH or OP, please consider trying Super DCA when you do it.</li>\n<li>\n<strong>Important:</strong> You need to use Bridged USDC (USDC.e) on Super DCA.</li>\n</ul>\n<p><strong>Super DCA Liquidity Network Bootstrapped</strong></p>\n<ul>\n<li>A small network has been established using the Super DCA token on Optimism.\n<ul>\n<li>Contract Address: op:0xb1599cde32181f48f89683d3c5db5c5d2c7c93cc</li>\n</ul>\n</li>\n<li>This network is small but has concentrated liquidity.\n<ul>\n<li>Despite the small amount of liquidity, the <em>Super DCA Liquidity Network</em> can still achieve very little slippage due to Uniswap V3’s design.</li>\n</ul>\n</li>\n<li>The image below shows that even with limited liquidity, the all-in price delta (fees + slippage) is 0.54%, which is in line with other protocols’ fees of 0.5% to 0.6%.</li>\n<li>Under ideal conditions (low gas &amp; volatility), the <em>Super DCA Liquidity Network</em> design achieves a 0% oracle delta, meaning no fees or slippage occurred on the swap.</li>\n</ul>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/735a30c3ed7fee9b022a1d353e1bcee34142c057.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/735a30c3ed7fee9b022a1d353e1bcee34142c057\" title=\"signal-2024-06-13-204454_041\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/735a30c3ed7fee9b022a1d353e1bcee34142c057_2_345x230.png\" alt=\"signal-2024-06-13-204454_041\" data-base62-sha1=\"gss8LhXGevJaP1U5usg5xrBMWGj\" width=\"345\" height=\"230\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/735a30c3ed7fee9b022a1d353e1bcee34142c057_2_345x230.png, https://forum.tecommons.org/uploads/default/optimized/1X/735a30c3ed7fee9b022a1d353e1bcee34142c057_2_517x345.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/735a30c3ed7fee9b022a1d353e1bcee34142c057_2_690x460.png 2x\" data-dominant-color=\"F9FAFB\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">signal-2024-06-13-204454_041</span><span class=\"informations\">966×646 32 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<ul>\n<li>\n<strong>Call to Action:</strong> Please consider getting some DCA tokens and adding liquidity to the DCA-USDC.e, DCA-ETH, and DCA-OP pools on Optimism. There are DCA token rewards for LPs.</li>\n</ul>\n<p><strong>Website</strong><br>\nI put together a website for the project, which helps a lot when sharing it. The website has links to the white paper and the app.</p>\n<p><strong>Challenges You Could Help With</strong></p>\n<ul>\n<li>First, it helps to have more people doing DCA on Super DCA for it to work optimally. More volume = lower fees for everyone. So give it a try on Optimism today!</li>\n<li>Second, it helps to have more liquidity providers for DCA pairs on Uniswap V3 on Optimism. Please get some DCA tokens and add some liquidity to pairs: DCA-USDC.e, DCA-ETH, and DCA-OP. If you need help getting DCA tokens to LP with, get in touch with me! There are DCA tokens available. LPs for these pairs also receive emissions of DCA tokens, so there is a reward for LPs.</li>\n</ul>\n<p><strong>Thank you for your support!</strong><br>\nThis is a research project that has been very hard to fund. Thanks to TEC, I have been able to get this project on-chain, and it has now been collecting three months of activity data. Heading into GG21, I’ll be working on several improvements to the application and protocol, as well as producing some Dune Analytics Dashboards to track the performance of this system.</p>\n<p>Regards,</p>\n<p>Mike Ghen (<span class=\"mention\">@mikeghen</span>)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250811191109",
+    "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397/2"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "superdca",
+   "name": "Mike | Super DCA",
+   "created_at": "2024-08-13T20:41:46Z",
+   "updated_at": "2024-08-13T20:41:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Here are some additional Links and Media I wasn’t allow to post all at once:</p>\n<p>Super DCA observed 0% oracle delta during ideal conditions, low fees and low volatility. The image below shows that the Uniswap slippage was actually negative (i.e., price improvement) which is possible given Super DCA Liquidity Networks design. Furthermore, during ideal conditions the execution fee paid to Gelato trends to 0.01%. These two combine to achieve a price that is exactly the price reported by the oracle, which implies no slippage nor fees were taken.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c334ce3464208e1d42e990620e681bfe58c48881.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/c334ce3464208e1d42e990620e681bfe58c48881\" title=\"signal-2024-06-16-181938_002\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c334ce3464208e1d42e990620e681bfe58c48881_2_345x122.png\" alt=\"signal-2024-06-16-181938_002\" data-base62-sha1=\"rQSf08ABnoptgRmFj6atJttgpzP\" width=\"345\" height=\"122\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c334ce3464208e1d42e990620e681bfe58c48881_2_345x122.png, https://forum.tecommons.org/uploads/default/optimized/1X/c334ce3464208e1d42e990620e681bfe58c48881_2_517x183.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/c334ce3464208e1d42e990620e681bfe58c48881_2_690x244.png 2x\" data-dominant-color=\"F3F3F3\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">signal-2024-06-16-181938_002</span><span class=\"informations\">738×262 16.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>You can find these values reported in real time on the Super DCA application.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250811191109",
+    "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397/2"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240920014236",
+   "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240920014236",
+   "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20241226222054",
+   "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397/1"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250214205001",
+   "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250214205001",
+   "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250811191109",
+   "url": "https://forum.tecommons.org/t/super-dca-gg20-update/1397/2"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "id": 1163,
+ "title": "Optimize our Categorization of Praise",
+ "slug": "optimize-our-categorization-of-praise",
+ "category_id": 10,
+ "posts_count": 6,
+ "created_at": "2022-10-21T16:17:41.059Z",
+ "views": 30,
+ "last_posted_at": "2022-11-23T22:29:16.184Z",
+ "tags": [
+  "rewards-wg"
+ ],
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2022-11-23T22:29:16Z",
+ "captured_between": [
+  "2022-10-22T18:13:46Z",
+  "2022-11-26T23:20:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-10-21T16:17:41Z",
+   "updated_at": "2022-10-21T16:17:41Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey everyone! <img alt=\":wave:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wave.png?v=10\" title=\":wave:\"/></p>\n<p>I wanted to point out this awesome component of our praise analysis that <a class=\"mention\" href=\"/u/liviade\">@liviade</a> proposed and <a class=\"mention\" href=\"/u/zhiwei\">@zhiwei</a> made into a reality - <strong>The categorization of praise!</strong> <img alt=\":orange_square:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/orange_square.png?v=10\" title=\":orange_square:\"/> <img alt=\":small_red_triangle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/small_red_triangle.png?v=10\" title=\":small_red_triangle:\"/> <img alt=\":green_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=10\" title=\":green_circle:\"/></p>\n<p>In case you’re unfamiliar the praise categorization looks something like this:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/ce7ff97e2ddfd1e39a8316f83b1563cee694f517\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ce7ff97e2ddfd1e39a8316f83b1563cee694f517.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"tsMxG19MkXwxvbAkT9Vkq3IhaYf\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ce7ff97e2ddfd1e39a8316f83b1563cee694f517_2_10x10.png\" height=\"357\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/ce7ff97e2ddfd1e39a8316f83b1563cee694f517_2_690x357.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/ce7ff97e2ddfd1e39a8316f83b1563cee694f517_2_690x357.png, https://forum.tecommons.org/uploads/default/optimized/1X/ce7ff97e2ddfd1e39a8316f83b1563cee694f517_2_1035x535.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/ce7ff97e2ddfd1e39a8316f83b1563cee694f517_2_1380x714.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1826×946 92.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>You can find the latest cross-period analysis here. (Check near the bottom for praise categorization)</p>\n<p><a class=\"onebox\" href=\"https://rawcdn.githack.com/CommonsBuild/tec-rewards/79c9740ce0c5e71fc2103e51beeea317e9e1b9a8/distribution_rounds/round-19/distribution_results/reports/round-19--cross-period-analysis-report.html\" rel=\"noopener\" target=\"_blank\">https://rawcdn.githack.com/CommonsBuild/tec-rewards/79c9740ce0c5e71fc2103e51beeea317e9e1b9a8/distribution_rounds/round-19/distribution_results/reports/round-19--cross-period-analysis-report.html</a></p>\n<p>While this was implemented  a while ago I don’t think we ever took the time to check out how this works and how we can optimize it to give better results! <img alt=\":bar_chart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/bar_chart.png?v=10\" title=\":bar_chart:\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#how-categorization-works-1\" name=\"how-categorization-works-1\"></a>How categorization works</h2>\n<p>We can define certain categories that represent a “grouping” of certain words. We can also define the words considered a part of each category. The cross-period analysis then finds the specified words in each instance of praise dished and puts it under it’s associated category.</p>\n<p>From this process we can identify how often we dish praise under a certain category. We can also identify the average scores quantified for each category.</p>\n<p>We can also see the 3 highest-scored praises across the specified period for each category. In the case above we’re looking at the previous 52 weeks. <img alt=\":calendar:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/calendar.png?v=10\" title=\":calendar:\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#current-categories-and-keywords-2\" name=\"current-categories-and-keywords-2\"></a>Current Categories and Keywords</h2>\n<p>We currently have 9 categories, here they are and their associated keywords:</p>\n<h4>\n<a class=\"anchor\" href=\"#attendance-3\" name=\"attendance-3\"></a>attendance</h4>\n<ul>\n<li>join</li>\n<li>attend</li>\n<li>show up</li>\n<li>participate</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#discussion-4\" name=\"discussion-4\"></a>discussion</h4>\n<ul>\n<li>question</li>\n<li>ask</li>\n<li>discuss</li>\n<li>discussion</li>\n<li>conversation</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#work-5\" name=\"work-5\"></a>work</h4>\n<ul>\n<li>help</li>\n<li>work</li>\n<li>design</li>\n<li>make</li>\n<li>write</li>\n<li>hack</li>\n<li>edit</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#lead-6\" name=\"lead-6\"></a>lead</h4>\n<ul>\n<li>host</li>\n<li>lead</li>\n<li>initiate</li>\n<li>form</li>\n<li>organize</li>\n<li>steward</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#share-7\" name=\"share-7\"></a>share</h4>\n<ul>\n<li>share</li>\n<li>spread</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#twitter-8\" name=\"twitter-8\"></a>twitter</h4>\n<ul>\n<li>twitter</li>\n<li>tweet</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#hack-9\" name=\"hack-9\"></a>hack</h4>\n<ul>\n<li>hack</li>\n<li>test</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#general-10\" name=\"general-10\"></a>general</h4>\n<ul>\n<li>support</li>\n<li>awesome</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#irl-11\" name=\"irl-11\"></a>IRL</h4>\n<ul>\n<li>trip</li>\n<li>conference</li>\n</ul>\n<hr/>\n<p>The purpose of this forum post is to review and refine our keywords and categories. Happy to receive any proposals and suggestions! <img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=10\" title=\":ballot_box:\"/></p>\n<p>We can also make progressive iterations by updating the keywords and running the analysis and reviewing the results. <img alt=\":mag:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mag.png?v=10\" title=\":mag:\"/></p>\n<p>The optimization of our categories and keywords will lead to eventually a quantification guide that will help quantifiers use their best judgement in the process by providing accurate historical scoring data.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-10-21T20:47:28Z",
+   "updated_at": "2022-10-21T20:49:01Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I see the keyword hack in two categories (work and hack). I think most will understand, but it might be good to explicitly call out that it’s just a tip/guide to be helpful and might not apply and/or shouldn’t overrule your judgment as a quantifier.</p>\n<p>For IRL, I’ve also seen praise around taking mental breaks, rejuvenate, etc. Anything come to mind other than ‘break’ which could be ambiguous?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-10-24T14:00:59Z",
+   "updated_at": "2022-10-24T14:00:59Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I think another category for “self-care” would be very useful to capture. We could look for keywords such as “rejuvenate”, “mental”, “vacation”, “time off” (have to check if we can add phrases to the system)<br/>\n“break” I would avoid because apps or websites often break which could make things confusing</p>\n<p>maybe it’s worth doing some of our research in the praise channel and see some historic wording</p>\n<p>I also think removing the hack category would be useful since hacking has become often synonymous with working</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-16T15:53:12Z",
+   "updated_at": "2022-11-16T15:53:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/maxwe11\">@Maxwe11</a> and I hacked through a list of updated keywords and I just ran it into the latest cross-period analysis - check out the results!</p>\n<p><a class=\"onebox\" href=\"https://rawcdn.githack.com/CommonsBuild/tec-rewards/c501ba7d9bce43c738b51c0d7f65d6d0913d793b/distribution_rounds/round-21/distribution_results/reports/round-21--cross-period-analysis-report.html\" rel=\"noopener\" target=\"_blank\">https://rawcdn.githack.com/CommonsBuild/tec-rewards/c501ba7d9bce43c738b51c0d7f65d6d0913d793b/distribution_rounds/round-21/distribution_results/reports/round-21--cross-period-analysis-report.html</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-11-16T18:19:23Z",
+   "updated_at": "2022-11-16T18:19:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks for posting! That distribution looks reasonable, and while there are outliers they seem to be relatively few. We talked about reviewing the uncategorized praise to see if there were any trends we could identify, do we have that data? I saw a bulk number, which was higher than I expected at roughly 1/3 of all instances uncategorized.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-11-22T20:17:38Z",
+   "updated_at": "2022-11-22T20:17:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>It might be easier to review the uncategorised praise with the frequency analysis <a class=\"mention\" href=\"/u/enti\">@enti</a> set up earlier last month.</p>\n<p>e.g. Feedback</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65\" href=\"https://forum.tecommons.org/uploads/default/original/1X/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"tlowN9ntQxskffFetCOVUiXU3Od\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65_2_550x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65_2_550x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65_2_825x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/cdaa32ae4c84abb7f5c7923dfe17c3b5de732c65_2_1100x1000.png 2x\" width=\"550\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1670×1518 148 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Give it a spin!</p>\n<p><a class=\"onebox\" href=\"https://eenti.github.io/TEC-Discord-Analysis/\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://eenti.github.io/TEC-Discord-Analysis/</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-23T22:29:16Z",
+   "updated_at": "2022-11-23T22:29:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Are you able to use this tool to see the full message the word was contained in?</p>\n<p>It’s not exactly useful to see how often the word appears but rather if it’s being used in a context that reliably enough fits under a certain category we define.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126232000",
+    "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221022181346",
+   "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126232000",
+   "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126232000",
+   "url": "https://forum.tecommons.org/t/optimize-our-categorization-of-praise/1163"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "id": 1105,
+ "title": "Redefining being a Member at the TEC",
+ "slug": "redefining-being-a-member-at-the-tec",
+ "category_id": 28,
+ "posts_count": 2,
+ "created_at": "2022-08-01T11:58:30.611Z",
+ "last_posted_at": "2022-09-01T09:33:17.573Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2022-09-01T09:33:17Z",
+ "captured_between": [
+  "2022-08-15T10:46:09Z",
+  "2022-11-26T23:41:45Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-08-01T11:58:31Z",
+   "updated_at": "2022-08-01T11:58:31Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<blockquote>\n<ol>\n<li>Context</li>\n</ol>\n</blockquote>\n<p>Over the past two months we have held weekly discussions about the scope of “membership”. We found that the concept sometimes isn’t suitable for web3 communities,</p>\n<p>If we go to the origin of the word member: from Old French membre *“part, portion; topic, subject; limb, member of the body; member” (of a group, etc.),\" 11c., from Latin membrum “limb, member of the body, part,” probably from PIE *mems-ro, from root <em>mems- “flesh, meat” (source also of Sanskrit mamsam “flesh;” Greek meninx “membrane,” mēros “thigh” (the “fleshy part”); Gothic mimz “flesh”).</em> We understand that this concept established the idea of “a part of a whole”, but there is no deeper approach to the word, intrinsically member just means that you “are part of something”, but that definition doesn’t provide clarity on: boundaries, implications, responsibilities and consequences.</p>\n<p>If we go to the origin of the Token Engineering Commons, the mission has always been to Advance Token Engineering. So why not choose an approach of TE and apply it also to the idea of being part of the commons that is TEC?</p>\n<p>So we went from this naive idea that a “role selection” approach would serve members to find a way into a community and somehow, understanding what they wanted, was going to help us matchmaking their intention with opportunities in our community. We now aspire to a more TE methodology not only on the onboarding (with an Onboarding presentation that includes all the layers of the TEC) but also for the rest of the journey of a <strong>newcomer</strong> in our community.</p>\n<p>So we have identified three key humans at the front gate of the TEC:</p>\n<ul>\n<li>\n<strong>Observer:</strong> Someone who is paying attention but has not yet started exploring in our community. For example, someone who read about us on twitter, a medium article or a google search result. But the observer isn’t taking any meaningful form of engage with the TEC.</li>\n<li>\n<strong>Newcomer:</strong> someone who has been soft-onboarded and takes a look at us/shows interest.</li>\n<li>\n<strong>Member:</strong> someone who has accepted the layers of our community (this includes VC, partnership proposers, and everything in between, because we seek for value alignment)</li>\n</ul>\n<p>After identifying these three potential kinds of users of our community, we then mapped out what are the steps that one has to follow to move from visitor to newcomer and what are the things required by the community to be a member.</p>\n<blockquote>\n<ol start=\"2\">\n<li>Proposal for defining membership in the TEC</li>\n</ol>\n</blockquote>\n<p>Based on what was mentioned before, we introduce the following process and framework for the new members that would join our community.</p>\n<p><strong>From Observer to Newcomer:</strong></p>\n<ul>\n<li>Join any of the key spaces of our community: discord or forum.</li>\n<li>Join one of our orientation calls.</li>\n<li>Read the TEC Gitbook and self learn.</li>\n</ul>\n<p>The next steps (from newcomer to member) we have tried to simplify them based on what our community have decided organically are our most important layers:</p>\n<p><strong>From newcomer to member.</strong></p>\n<ul>\n<li>Cultural layer:\n<ul>\n<li>Do the Community Offering (see Glossary section for reference).</li>\n</ul>\n</li>\n<li>Governance layer\n<ul>\n<li>Sign the covenant (see Glossary section for reference)</li>\n<li>Engage in governance when possible.</li>\n</ul>\n</li>\n<li>Economic layer\n<ul>\n<li>Join Praise: Connect wallet with Praise system.</li>\n<li>Hold TEC tokens.</li>\n</ul>\n</li>\n</ul>\n<p><em>Quick note: all this steps are meant to be ratified, modified or accepted, this is just a proposed framework</em></p>\n<blockquote>\n<ol start=\"3\">\n<li>Rationale</li>\n</ol>\n</blockquote>\n<p>Why these three layers? Because even if the newcomer doesn’t have all the information, we have certainty that by engaging in the three layers, the most important aspects of our Community layers will be conveyed to you.</p>\n<p>We are also working under the assumption that everyone who joins has some interest in Token Engineering. It doesn’t necessarily mean they would want to take a full dive into TE, but to learn/contribute/engage/hire one of all of the layers that is being a TE, so it would make sense that in order to be part of our ecosystem, your first encounter is to learn about TE by engaging with one of our best examples of a TE system: The Praise.</p>\n<p>The praise system feels like the lowest effort entry point with the highest reward (see what I did there): you only have to match your wallet with the Praise system dashboard.</p>\n<p>The result of this process, conducted over the past two months, has been the idea that, by engaging anyone through key layers of a community, the new member will have a better understanding, knowledge and sense of belonging to that community.</p>\n<p>The now member would be: oriented, praised and a covenant signer. And he/she/they will be fully part of our economy. The next steps would lead to potential contributions, learning experiences or engaging opportunities, that would rise from his/her/their exchanges with what is now he/she/their community. There are certainly gaps that will still need to be filled, but our intention is to provide an horizontal process and entry point to anyone, regardless of their gender, religion, orientation, background or nationality to the Commons.</p>\n<blockquote>\n<ol start=\"4\">\n<li>Conclusion</li>\n</ol>\n</blockquote>\n<p>If what we proposed (a framework for membership), as Communitas Working group, is accepted the following steps needs to happen:</p>\n<ul>\n<li>Easy access (forum, discord, praise system dashboard) to the Covenant.</li>\n<li>Update documentation about “how to become a member”</li>\n<li>Set up the Community Offering channel.\n<ul>\n<li>Ask stewards to be the first on lead the efforts and share their community offering</li>\n</ul>\n</li>\n<li>Update the praise system documentation.</li>\n<li>Update the role system in discord and leave only (this is subject to change, as we refine which roles are key): Newcomer, Member, Stewards and Hatchers, Gravitons.</li>\n</ul>\n<p>Note: We are also looking to simplify these by using a tool called <a href=\"https://www.otterspace.xyz/\">Otterspace</a>, that potentially could hold all these steps on a singular space.</p>\n<blockquote>\n<ol start=\"5\">\n<li>Glossary</li>\n</ol>\n</blockquote>\n<ul>\n<li>\n<strong>Community Offering:</strong> Embracing the culture of gratitude followed up by the Praise system, Community Offering is a simple action performed by a newcomer, when they share in a designated public channel, an interpretation of Articles selected by the TEC as a “must know”</li>\n<li>\n<strong>Praise:</strong> reward system based on the culture of gratitude, that embraces transparency, accountability and awareness to a community while providing an economic reward to the receiver.</li>\n<li>\n<strong>Covenant:</strong> A covenant is a social contract written by TECommons Community that set the boundaries about the community code of behavior.</li>\n</ul>\n<p>Ideally this framework will receive feedback from current members, specifically we seek advice from: <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>, <a class=\"mention\" href=\"/u/liviade\">@liviade</a>, <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>, <a class=\"mention\" href=\"/u/al0ysi0us\">@AL0YSI0US</a>.</p>\n<p>This piece of work was co-created over the past months with the Communitas WG and <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>.</p>\n<p><strong>Any comment, feedback and change is more than welcome!</strong></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234145",
+    "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-08-12T04:27:31Z",
+   "updated_at": "2022-08-12T04:27:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> and <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> for the tremendous effort that was required to prepare this framework over the past few months. I really appreciate the forethought that went into the process of understanding the newcomer’s journey. What is proposed here feels streamlined and slick. I particularly like the idea of simplifying the discord roles to make them more intuitive.</p>\n<p>My only question would be whether we are still thinking about an additional construct for further education? Or has that function been designated to TEA, the Consilience Library, gitbook, etc?</p>\n<p>Well done again gentlemen. Great proposal.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234145",
+    "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-09-01T09:33:17Z",
+   "updated_at": "2022-09-01T09:33:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Gene! My apologies I didn’t answer this on time. I think that on our case, unless we have a clear space of education, our role mainly will be to support and guide folks towards point of references for education, since we don’t have one at the moment (besides learning by doing).</p>\n<p>Also, I will take this proposal as finished for the advice process, and we will start executing as planned.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234145",
+    "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815104609",
+   "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815104609",
+   "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126234145",
+   "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126234145",
+   "url": "https://forum.tecommons.org/t/redefining-being-a-member-at-the-tec/1105"
+  }
+ ]
+}

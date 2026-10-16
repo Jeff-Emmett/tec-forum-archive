@@ -1,0 +1,56 @@
+{
+ "id": 488,
+ "title": "Tao Voting - Quiet Ending Period and Quiet Ending Extension",
+ "slug": "tao-voting-quiet-ending-period-and-quiet-ending-extension",
+ "category_id": 26,
+ "posts_count": 0,
+ "created_at": "2021-07-12T17:33:51.475Z",
+ "last_posted_at": "2021-07-12T17:33:51.746Z",
+ "views": 122,
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-07-12T17:33:51Z",
+ "captured_between": [
+  "2021-09-08T23:21:49Z",
+  "2022-10-06T17:11:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-07-12T17:33:51Z",
+   "updated_at": "2021-08-29T15:34:30Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#quiet-ending-1\" name=\"quiet-ending-1\"></a>Quiet Ending</h3>\n<p>One of the unique features of Disputable Voting is Quiet Ending. This checks for flipped outcomes during the final portion of the Vote Duration and adds more voting time in the event of a flip.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-is-quiet-ending-period-2\" name=\"what-is-quiet-ending-period-2\"></a>What is Quiet Ending Period?</h3>\n<p>This a the specified amount of time within the latter part of the Vote Duration. During the Quiet Ending Period if the voting outcomes changes from “yes” to “no” or vice versa it will trigger the Quiet Ending Extension. The Quiet Ending Period can only happen once during a vote. Voting will close normally if the outcome does not change during the Quiet Ending Period.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-is-quiet-ending-extension-3\" name=\"what-is-quiet-ending-extension-3\"></a>What is Quiet Ending Extension?</h3>\n<p>This is the voting duration extension that triggers only from a vote outcome flipping during the Quiet Ending Period. This will add the specified amount of time to the vote duration allowing any voters (except Delegates) more time to vote. If an outcome is flipped again during the Quiet Ending Extension another extension will trigger. There is no limit on how many times an extension can be triggered. Voting closes once there is no change of outcome during this extension period.</p>\n<h3>\n<a class=\"anchor\" href=\"#implications-parameter-options-4\" name=\"implications-parameter-options-4\"></a>Implications &amp; Parameter Options</h3>\n<p>These parameters are set in days. Quiet Ending Period is limited by the Vote Duration since it cannot extend past the total eligible voting duration of a proposal. Quiet Ending Extension however since it adds time is not constrained by the initial Vote Duration.</p>\n<p>The intention behind this mechanic is to allow time for more voter input in the event of a contentious vote. It can also act as a safeguard if a member, particularly a whale,  tries to flip a voting outcome at the last moment.</p>\n<h3>\n<a class=\"anchor\" href=\"#suggested-range-5\" name=\"suggested-range-5\"></a>Suggested Range</h3>\n<h4>\n<a class=\"anchor\" href=\"#quiet-ending-period-6\" name=\"quiet-ending-period-6\"></a>Quiet Ending Period</h4>\n<p>Anywhere from 50% to 10% of the Vote Duration is suggested for the Quiet Ending Period. However, since this parameter is expressed in days it is suggested to round to the nearest whole day.</p>\n<p>Example:</p>\n<blockquote>\n<p>The Vote Duration is <strong>9 days</strong>.<br/>\nYour desired Quiet Ending Period is <strong>20%</strong> of the Vote Duration, which equals <strong>1.8 days</strong>.<br/>\nFor sanity and simplicity we <strong>round up</strong> to a whole number giving us <strong>2 days</strong> for the  Quiet Ending Period.</p>\n</blockquote>\n<h4>\n<a class=\"anchor\" href=\"#quiet-ending-extension-7\" name=\"quiet-ending-extension-7\"></a>Quiet Ending Extension</h4>\n<p>In order to accomodate various timezones and schedules a range of 1-3 days is recommended for the Quiet Ending Extension, also taking into special consideration that this can trigger multiple times.</p>\n<h3>\n<a class=\"anchor\" href=\"#related-parameters-8\" name=\"related-parameters-8\"></a>Related Parameters</h3>\n<p>Vote Duration (days)<br/>\nDelegated Voting Period (days)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221006171133",
+    "url": "https://forum.tecommons.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/488"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210908232149",
+   "url": "https://forum.tecommons.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/488"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006171133",
+   "url": "https://forum.tecommons.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/488"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006171133",
+   "url": "https://forum.tecommons.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/488"
+  }
+ ]
+}

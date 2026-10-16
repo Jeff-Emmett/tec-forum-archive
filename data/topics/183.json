@@ -1,0 +1,124 @@
+{
+ "id": 183,
+ "title": "Luna Swarm - Modelling the 1Hive Ecosystem in cadCAD",
+ "slug": "luna-swarm-modelling-the-1hive-ecosystem-in-cadcad",
+ "category_id": 7,
+ "posts_count": 4,
+ "created_at": "2020-12-23T02:17:50.785Z",
+ "last_posted_at": "2020-12-26T20:39:01.826Z",
+ "tags": [
+  "funding-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2020-12-26T20:39:01Z",
+ "captured_between": [
+  "2021-03-06T01:44:29Z",
+  "2026-06-17T03:53:19Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2020-12-23T02:17:50Z",
+   "updated_at": "2021-11-09T13:02:33Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#luna-swarm-modelling-the-1hive-ecosystem-in-cadcad-1\" name=\"luna-swarm-modelling-the-1hive-ecosystem-in-cadcad-1\"></a>Luna Swarm - Modelling the 1Hive Ecosystem in cadCAD</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Proposal Description:</strong><br/>\nThe <img alt=\":last_quarter_moon_with_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/last_quarter_moon_with_face.png?v=10\" title=\":last_quarter_moon_with_face:\"/> Luna Swarm is a collaboration of individuals and organizations that seek to rigorously model the 1Hive ecosystem in <a href=\"http://cadcad.org/\" rel=\"noopener nofollow ugc\">cadCAD</a>, providing tools for operational decision support with future design and governance decisions.</p>\n<p><strong>Proposal Details:</strong><br/>\nThis post lays out a [work-in-progress] roadmap of features to build on &amp; improve the initial <a href=\"https://github.com/BlockScience/Aragon_Conviction_Voting\" rel=\"noopener nofollow ugc\">cadCAD Conviction Voting model</a>, and modeling other features, mechanisms and subsystems specific to 1Hive and the Gardens Swarm smart contract template.</p>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\nThis will be an ongoing initiative, with model iterations prioritized by the 1Hive community. This initial proposal aims to fund 1-3 months of work, and subsequent proposals may request more funding to continue modeling work.</p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong><br/>\nUsing complex systems engineering and rigorous data science methodology, the 1Hive ecosystem can be iteratively modeled to provide <a href=\"https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2\" rel=\"noopener nofollow ugc\">Computer-Aided Governance</a> to empower the 1Hive organization using cadCAD.</p>\n<p><a href=\"http://cadcad.org/\" rel=\"noopener nofollow ugc\">cadCAD </a> is a complex systems design methodology, and a Python package that assists in the processes of designing, testing and validating complex systems through simulation, with support for Monte Carlo methods, A/B testing and parameter sweeps.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-3\" name=\"team-information-for-funding-proposals-3\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Names, usernames, and/or relevant social links for team members (Twitter, Github, TEC Forum, etc.):</strong><br/>\n<a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a>, Luke Duncan, Michael Zargham, <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>, <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a></p>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\nPast work modelling related systems include:<br/>\nGrassroots Economics CICs: <a class=\"inline-onebox\" href=\"https://gitlab.com/grassrootseconomics/cic-modeling\" rel=\"noopener nofollow ugc\">Grassroots Economics / CIC Modeling · GitLab</a><br/>\nConviction Voting: <a class=\"inline-onebox\" href=\"https://github.com/1Hive/conviction-voting-cadcad\" rel=\"noopener nofollow ugc\">GitHub - 1Hive/conviction-voting-cadcad: Notebook Link: https://github.com/BlockScience/Aragon_Conviction_Voting/blob/master/models/v3/Aragon_Conviction_Voting_Model.ipynb</a><br/>\nRisk-Adjusted Bonding Curves: <a class=\"inline-onebox\" href=\"https://github.com/BlockScience/Risk-Adjusted-Bonding-Curves\" rel=\"noopener nofollow ugc\">GitHub - BlockScience/Risk-Adjusted-Bonding-Curves: Public Repo for Collaboration between Interchain Foundation and BlockScience</a></p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-4\" name=\"funding-information-for-funding-proposals-4\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong><br/>\n15,000 xDAI</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong><br/>\n0xf189357b782d56ee3331697371e61ab8e9b8e97f</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong><br/>\nFunds will be held in the <a href=\"https://aragon.1hive.org/#/luna/\" rel=\"noopener nofollow ugc\">Luna Aragon DAO</a> and allocated per hours spent by contributors.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617035319",
+    "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-24T21:40:44Z",
+   "updated_at": "2020-12-24T21:40:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>What a Team <img alt=\":muscle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/muscle.png?v=9\" title=\":muscle:\"/> looking forward to see it happen!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617035319",
+    "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-26T11:55:39Z",
+   "updated_at": "2020-12-26T13:55:49Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I would like to know exactly how this benefits the Token Engineering Community, personally I believe in the team member’s ability to do great/outstanding work and think having them on the TEC is an amazing opportunity.<br/>\nIn regards to communities to model 1Hive is pretty big and probably modelling it can help further modelling other communities or our own.<br/>\nIf you guys have meetings for discussing work, can we join as listeners only? To learn from your thought processes? Can you do it in some of the voice channels on the TEC? Can it be recorded?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617035319",
+    "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2020-12-26T20:35:50Z",
+   "updated_at": "2020-12-26T20:35:50Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Absolutely - thanks for the follow up questions Tonga!</p>\n<p>Given that the TEC infrastructure is built off the Gardens Swarm tools &amp; templates (Augmented Bonding Curve, Conviction Voting, etc), and 1Hive also makes use of the Gardens Swarm tools (although in slightly different context), there is a lot of overlap and similarities in the 1Hive ecosystem and the TE Commons, or other Commons that may be launched with this toolkit.</p>\n<p>The Luna Swarm, by modelling these components in 1Hive, is aiding the TEC in the reusability of these models, given their customizable and open source nature. Much of the work we do modelling 1Hive benefits every other group using similar tools.</p>\n<p>We invite anyone interested to join in the Luna Swarm discussions that take place on the <a href=\"https://discord.gg/XpGPUeW\" rel=\"noopener nofollow ugc\">1Hive Discord</a>.<br/>\nWeekly calls are also open invite and listed on the <a href=\"https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MjR0bTA5aGhjdmU2ZGo4ZnU1N2FiZzdtMHRfMjAyMTAxMDhUMjEwMDAwWiBjYWRjYWQub3JnQG0&amp;tmsrc=cadcad.org%40gmail.com&amp;scp=ALL\" rel=\"noopener nofollow ugc\">cadCAD public calendar</a>, and contributors are welcomed - internships for learning cadCAD also available, with POAP certificate on project completion.</p>\n<p>Oh, I should also note on this proposal that this working group also received funds from the 1Hive Community and two rounds of Gitcoin Grants, and are collecting them all in a Luna DAO for compensating contributions.  I will edit the proposal above accordingly.</p>\n<p>Thanks for engaging in the discussion!</p>\n<p>Jeff</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617035319",
+    "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2020-12-26T20:39:01Z",
+   "updated_at": "2020-12-26T20:39:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I can’t seem to edit my original proposal, so I will just note it here:</p>\n<p>** This proposal also received funds from the 1Hive Community and two rounds of Gitcoin Grants, and are collecting them all in a <a href=\"https://aragon.1hive.org/#/luna/\" rel=\"noopener nofollow ugc\">Luna DAO</a> for compensating contributions for ongoing modelling and associated tasks.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617035319",
+    "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306014429",
+   "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306014429",
+   "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260617035319",
+   "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260617035319",
+   "url": "https://forum.tecommons.org/t/luna-swarm-modelling-the-1hive-ecosystem-in-cadcad/183"
+  }
+ ]
+}

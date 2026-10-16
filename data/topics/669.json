@@ -1,0 +1,79 @@
+{
+ "id": 669,
+ "title": "TEC Working Groups Weekly Update, Oct 18",
+ "slug": "tec-working-groups-weekly-update-oct-18",
+ "category_id": 5,
+ "posts_count": 3,
+ "created_at": "2021-10-19T01:03:08.128Z",
+ "last_posted_at": "2021-10-20T09:54:23.869Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-10-20T09:54:23Z",
+ "captured_between": [
+  "2021-12-07T11:13:26Z",
+  "2021-12-07T11:13:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-10-19T01:03:08Z",
+   "updated_at": "2021-10-19T01:03:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hello <img alt=\":wave:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wave.png?v=10\" title=\":wave:\"/>! Here are the Working Group updates from the last week. If you feel like you’re missing out, check out the <a href=\"https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba\" rel=\"noopener nofollow ugc\">calendar</a> and join us in real time during any of our many calls.</p>\n<p>Spotlight: <strong>Centree</strong></p>\n<h3>\n<a class=\"anchor\" href=\"#comms-1\" name=\"comms-1\"></a><img alt=\":satellite:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/satellite.png?v=10\" title=\":satellite:\"/> Comms</h3>\n<ul>\n<li>Continuation of our Creative Onboarding campaign to welcome artists and integrate them into our workflow seamlessly by minimizing the Web3 learning curve</li>\n<li>Working on a framework for bounties and Comms-related project management</li>\n<li>Post-Commons Upgrade manifesto will soon be unveiled!</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#commons-swarm-2\" name=\"commons-swarm-2\"></a><img alt=\":globe_with_meridians:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/globe_with_meridians.png?v=10\" title=\":globe_with_meridians:\"/> Commons Swarm</h3>\n<ul>\n<li>New <a href=\"https://github.com/CommonsSwarm/evmscripter\" rel=\"noopener nofollow ugc\">EVM-Crispr</a> front-end!</li>\n<li>To prevent website downtime, Commons Stack has created several (redundant) sites for the management of our DAO: <a href=\"https://xdai.rpc.blossom.software\" rel=\"noopener nofollow ugc\">here</a>, <a href=\"https://ipfs.blossom.software\" rel=\"noopener nofollow ugc\">here</a>, and <a href=\"https://xdai.aragon.blossom.software\" rel=\"noopener nofollow ugc\">here</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#communitas-3\" name=\"communitas-3\"></a><img alt=\":houses:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/houses.png?v=10\" title=\":houses:\"/> Communitas</h3>\n<ul>\n<li>We are still working on improving the onboarding journey, making it more accessible for everyone. If you have any feedback on how we can improve, contact <span class=\"mention\">@eduardovegap</span> on Discord</li>\n<li>As such, Vyvy-vi is helping us develop an onboarding Bot to facilitate the introductory journey</li>\n<li>\n<strong>Forum Highlight</strong>: Our Orientation Call is Wednesdays at 18:00 CET on the Community Hall VC; and our TEC Lounge is Fridays at 17:00 CET also on the Community Hall VC</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#gravity-4\" name=\"gravity-4\"></a><img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=10\" title=\":dove:\"/> Gravity</h3>\n<ul>\n<li>The fourth session of our 2nd Graviton Training concerned Nonviolent Communication and was hosted by David Danforth; our fifth session will discuss Human Resources in DAOs and will be hosted by Lorelei Loie (On Tuesday Oct. 19)</li>\n<li>Once again, our Nonviolent Communication (NVC) bookclub took place on Thursday in the <a href=\"https://discord.com/invite/vuwqVWwQyN\" rel=\"noopener nofollow ugc\">DAO Bookclub server</a>; it centered around <em>Nonviolent Communication: A Language of Life</em> by Marshall B. Rosenberg</li>\n<li>New <a href=\"https://github.com/CommonsBuild/Gravity\" rel=\"noopener nofollow ugc\">GitHub repo</a> to coordinate our issues</li>\n<li>If you haven’t already, please follow us on Twitter <a href=\"https://twitter.com/GravityDAO\" rel=\"noopener nofollow ugc\">@GravityDAO</a>\n</li>\n<li>\n<strong>Forum Highlight</strong>: <a href=\"https://docs.google.com/document/d/1txyn1dND8xG_ofNG_rxRzvNuBfGl3j20w9Au5N8kq0E/edit\" rel=\"noopener nofollow ugc\">2nd Graviton Training Study Plan</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#labs-5\" name=\"labs-5\"></a><img alt=\":microscope:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=10\" title=\":microscope:\"/> Labs</h3>\n<ul>\n<li>Currently focusing on Rewards System Research: join us Fridays at 9am PST/6pm CEST (at our TEC Discord server)</li>\n<li>For our Praise Evolution Taskforce: join us Thursdays at 7am PST/4pm CEST (at our TEC Discord server)</li>\n<li>For our DAO2DAO Models Workshops: join us Wednesdays at 9am PST/6pm CEST (at the PrimeDAO Discord server)</li>\n<li>For the Tokenspice Development Workshop: join us Mondays at 8am PST/5pm CEST (at the Token Engineering Academy Discord Server)</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#legal-6\" name=\"legal-6\"></a><img alt=\":classical_building:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/classical_building.png?v=10\" title=\":classical_building:\"/> Legal</h3>\n<ul>\n<li>Finished the <a href=\"https://docs.google.com/document/d/1YmbGQhGspIlxhFzmzc1saWG0wzPLwz42lOF2E5NDXXk/edit\" rel=\"noopener nofollow ugc\">current draft</a> of terms and conditions for the ABC</li>\n<li>\n<strong>Forum Highlight</strong>: Join us every other Friday at 16:00 CET for a chance to contribute and learn more about the ABC’s legal framework</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#0mega-7\" name=\"0mega-7\"></a><img alt=\":dizzy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dizzy.png?v=10\" title=\":dizzy:\"/> 0mega</h3>\n<ul>\n<li>As a relevant reminder, make sure to check our <a href=\"https://docs.google.com/document/d/17MJ3zuxpRV_pHqos59AwTrB2Kv1JUVGPrdu7Adonx-4/edit?usp=sharing\" rel=\"noopener nofollow ugc\">manifesto</a>\n</li>\n<li>Started a <a href=\"https://docs.google.com/document/d/1SRvWH57956GjlRXxvVGgVF7w-Exvdi7TFhVwIbpPoLQ/edit#heading=h.hpylb46whoje\" rel=\"noopener nofollow ugc\">series on Ethical Decision-making frameworks</a> with Mount Manu’s presentation on the <a href=\"https://en.wikipedia.org/wiki/Capability_approach\" rel=\"noopener nofollow ugc\">Capability Approach</a> as a framework to evaluate an individual’s freedom to pursue well-being</li>\n<li>On our next sync call Durgadas will host a presentation about contextualizing the Cynefin framework for Token Engineering</li>\n<li>\n<strong>Forum Highlight</strong>: Our WG sync calls are now weekly: the next one will be this Wednesday Oct. 20th at 20:00 CET in the Omega VC</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#params-8\" name=\"params-8\"></a><img alt=\":robot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=10\" title=\":robot:\"/> Params</h3>\n<ul>\n<li>Ongoing design validation of the Commons Configuration Dashboard (CCD)</li>\n<li>We had a beta-testing Param party</li>\n<li>Check out our <a href=\"https://commons-dashboard.netlify.app/config/1\" rel=\"noopener nofollow ugc\">CCD</a> and please open an issue on <a href=\"https://app.zenhub.com/workspaces/commons-config-frontend-612e52f16326e400141ddb76/board?repos=394462437\" rel=\"noopener nofollow ugc\">ZenHub</a> if you find anything wrong</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#soft-gov-9\" name=\"soft-gov-9\"></a><img alt=\":raised_hands:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/4.png?v=10\" title=\":raised_hands:t4:\"/> Soft Gov</h3>\n<ul>\n<li>Our <a href=\"https://docs.google.com/document/d/1VGOHRiX6fg55zgCE361ja86UIPVZzl3ldcNOJGlbTsQ/edit#heading=h.fugkukz2582o\" rel=\"noopener nofollow ugc\">Rewards System task force</a> is still working on our Praise-giving infrastructure</li>\n<li>As mentioned last weed, <a href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">here</a> is a forum post outlining our Rewards System process; discussion around the rules surrounding Praise is ongoing</li>\n<li>We updated our <a href=\"https://docs.google.com/document/d/17R-9Ro-rPLWvRNG5gK-sJqnWSFhcICNeeaC-UOEqsYg/edit\" rel=\"noopener nofollow ugc\">proposal template</a> for Snapshot (and we now require at least 1 TECH for proposal submission as a means to prevent spam)</li>\n<li>\n<strong>Forum Highlight</strong>: Our next Reward System call is Thursday Oct. 21st at 16:00 CET in the TEC Community Hall VC</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#stewards-10\" name=\"stewards-10\"></a><img alt=\":ear_of_rice:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ear_of_rice.png?v=10\" title=\":ear_of_rice:\"/> Stewards</h3>\n<ul>\n<li>As always, check out our TEC Timeline <a href=\"https://miro.com/app/board/o9J_lbkGJHQ=/\" rel=\"noopener nofollow ugc\">here</a>. If you’re feeling lost, lean on the visual explainers from our TEC Handbook <a href=\"https://www.notion.so/Links-cade62a155ee475da580064553147bce#a398b86993dc4e24aa3bb1954d2deb7b\" rel=\"noopener nofollow ugc\">here</a>\n</li>\n<li>End of Sprint 19 and kickoff of Sprint 20</li>\n<li>TEC presented at a TE Academy event in Berlin; show support for TE Academy’s Gnosis proposal <a href=\"https://forum.gnosis.io/t/governauts-rewards-systems-research-initiative/1790/7\" rel=\"noopener nofollow ugc\">here</a>\n</li>\n<li>New Book Club! <strong>The Sovereign Individual</strong>: meeting every Saturday at 10AM CET</li>\n<li>\n<strong>Forum Highlight</strong>: If you see something in the community that you’d like to address, or some work that needs to be done,  open an issue on one of our ZenHub’s workspace boards <a href=\"https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?sprints=Z2lkOi8vcmFwdG9yL1NwcmludC82OTIwNA&amp;filterLogic=any&amp;repos=306706322,349409011\" rel=\"noopener nofollow ugc\">here</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#transparency-11\" name=\"transparency-11\"></a><img alt=\":male_detective:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/male_detective.png?v=10\" title=\":male_detective:\"/> Transparency</h3>\n<ul>\n<li>Ongoing discussion about updating our audit process, incorporating analytics, and creating a <a href=\"https://docs.google.com/document/d/1IgG94l6cCO3d0Zrfsi6ucUEp99A96P_s2uOTQhmB-Tc/edit\" rel=\"noopener nofollow ugc\">transparency report</a> for all WGs (as opposed to doing individual reporting)</li>\n<li>\n<strong>Forum Highlight</strong>: Our WG’s bi-weekly sync calls are on Mondays at 15:00 CET</li>\n</ul>\n<p><img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=10\" title=\":books:\"/> Thanks for reading the update this week! Be sure to check out the <a href=\"https://https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba\" rel=\"noopener nofollow ugc\">calendar</a> to join us on a call! <img alt=\":phone:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/phone.png?v=10\" title=\":phone:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20211207111326",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-oct-18/669"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-10-20T09:21:09Z",
+   "updated_at": "2021-10-20T09:21:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you Manu!</p>\n<p>Do we share this on general discord channel? Could be nice <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20211207111326",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-oct-18/669"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-10-20T09:54:23Z",
+   "updated_at": "2021-10-20T09:54:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’ve always been on the fence about @.everyone messages but, if anything qualifies, I’d agree with you that it’d be these uptown updates over here, son! <img alt=\":sunglasses:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunglasses.png?v=10\" title=\":sunglasses:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20211207111326",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-oct-18/669"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207111326",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-oct-18/669"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207111326",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-oct-18/669"
+  }
+ ]
+}

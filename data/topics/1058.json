@@ -1,0 +1,136 @@
+{
+ "id": 1058,
+ "title": "June 2022 Update to TEC Token Holders",
+ "slug": "june-2022-update-to-tec-token-holders",
+ "category_id": 5,
+ "posts_count": 5,
+ "created_at": "2022-06-20T22:33:08.722Z",
+ "views": 84,
+ "last_posted_at": "2022-06-27T15:53:43.959Z",
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2022-06-27T15:53:43Z",
+ "captured_between": [
+  "2022-06-25T14:02:30Z",
+  "2022-07-06T01:49:29Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-06-20T22:33:09Z",
+   "updated_at": "2022-06-27T14:38:50Z",
+   "reply_to_post_number": null,
+   "like_count": 17,
+   "cooked": "<p><em><strong>A message to token holders from the Stewards of the TEC –</strong></em></p>\n<p>It’s been a little over four months since the Token Engineering Commons (TEC) became an official Commons DAO. That wouldn’t have happened without you and other mission-driven funders.</p>\n<p>A lot has happened in that short time and a lot more is coming. As stewards of this community, part of our job is to be accountable to you, the holders of the TEC token. In this note, we want to give you a quick update and a glimpse of where the Token Engineering Commons is headed next.</p>\n<h3>\n<a class=\"anchor\" href=\"#the-power-of-tec-culture-1\" name=\"the-power-of-tec-culture-1\"></a>The Power of TEC Culture</h3>\n<p>The TEC exists to advance the field of token engineering. We ground this work in governance processes aimed at <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values\" rel=\"noopener nofollow ugc\">our vision</a> of “enabling the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.”</p>\n<p>The TEC has invested heavily in culture because it’s the most powerful form of capital we know. Culture is magnetic. It attracts value-aligned people like nothing else. We are in the early stages of building a next-generation network for housing token engineering expertise, something we fondly refer to as a “Schelling Point.”</p>\n<p>Much of the work since our launch has focused on building systems and processes for engaging this new network of token engineering professionals:</p>\n<ul>\n<li>The Soft Gov &amp; Culture working group <a href=\"https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991\">has implemented Ostrom’s 8 principles for stewarding a commons</a> for the first time in a cyber-commons</li>\n<li>The TEC’s Communitas working group is building new, permissionless <a href=\"https://medium.com/token-engineering-commons/the-permissionless-dao-32fcaaaae5f8\" rel=\"noopener nofollow ugc\">onboarding processes</a>\n</li>\n<li>Decentralized work is not always easy, and the <a href=\"https://gravitydao.medium.com/gravity-conflict-management-and-trust-creation-in-web3-3afa66e43707\" rel=\"noopener nofollow ugc\">Gravity working group</a> is developing new methods for resolving conflicts and building trust</li>\n<li>The Transparency working group is innovating on techniques for keeping DAOs <a href=\"https://medium.com/token-engineering-commons/transparency-within-a-dao-73ff7c73d19d\" rel=\"noopener nofollow ugc\">accountable to their stakeholders</a>, including <a href=\"https://hackmd.io/@lPFQ61eAQAap3vUN520DPw/ByS69fqQq\" rel=\"noopener nofollow ugc\">the TEC’s first audit</a>\n</li>\n<li>The TEC is helping to pioneer “<a href=\"https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475\" rel=\"noopener nofollow ugc\">conviction voting</a>” for making investment decisions more accountable to stakeholders</li>\n<li>We were also the first community to deploy a “<a href=\"https://medium.com/@cryptocommonsassociation/from-bonding-curves-to-commons-market-makers-5c735604bd4c\" rel=\"noopener nofollow ugc\">Commons Market Maker</a>” to launch a micro-economy</li>\n</ul>\n<p>In short, we are on fire. <img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/></p>\n<h3>\n<a class=\"anchor\" href=\"#building-the-field-2\" name=\"building-the-field-2\"></a>Building the Field</h3>\n<p>As we invest in this next-generation network for token engineering, we’ve also been busy building the field of token engineering.</p>\n<p>Some of that work takes the form of influence. In the months since launch, TEC culture is already creating waves with much larger players in the Web3 ecosystem:</p>\n<ul>\n<li>Aragon is adopting Gravity’s conflict resolution processes</li>\n<li>Ethereum Name Service is adopting our onboarding practices</li>\n<li>Gnosis and Giveth are adopting Commons Stacks’ Praise system inspired by its use in the TEC</li>\n<li>Thirty-six groups competed for the <a href=\"https://medium.com/commonsstack/announcing-the-commons-prize-d3df343c37a9\" rel=\"noopener nofollow ugc\">Commons Prize</a> and a chance to build on the TEC experience of launching and running a Web3 commons supported by the Commons Stack and the Trusted Seed network</li>\n</ul>\n<p>We’ve also supported a number of initiatives aimed directly at building the field of token engineering. These include:</p>\n<ul>\n<li>Funding the Token Engineering Academy’s brand new “<a href=\"https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5\" rel=\"noopener nofollow ugc\">Token Engineering Fundamentals</a>” course, certification, and matchmaking program, which will be offered for free in the fall and already has over 1,600 people signed up!</li>\n<li>Six months of operating funding for <a href=\"https://cadcad.org/\" rel=\"noopener nofollow ugc\">CadCAD</a>, an open source software package that uses simulation to support the design, testing and validation of complex token engineering systems</li>\n<li>Support for <a href=\"https://numfocus.org/\" rel=\"noopener nofollow ugc\">NumFOCUS</a>, a nonprofit dedicated to promoting the programming languages, open code projects, and reproducible scientific research that undergird many token engineering tools</li>\n<li>Funding and development of a 3-phased multidisciplinary library to facilitate learning, creating, and research in the field of token engineering</li>\n<li>Funding and incubating a DAO2DAO funding mechanism called “Proposal Inverter,” through a joint collaboration with PrimeDAO, Longtail Financial, and Radicle Drips</li>\n<li>Running a <a href=\"https://www.youtube.com/watch?v=wndDaI-eNgc\" rel=\"noopener nofollow ugc\">DAO rewards systems research initiative</a> with the Token Engineering Academy, Commons Stack, Gnosis, Ocean, and NEAR</li>\n<li>Partnering with the <a href=\"https://tokenengineeringcommunity.github.io/website/\" rel=\"noopener nofollow ugc\">Token Engineering Academy</a> on a monthly introductory class on token engineering</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#whats-next-tec-economic-regeneration-3\" name=\"whats-next-tec-economic-regeneration-3\"></a>What’s Next: TEC Economic Regeneration</h2>\n<p>The TEC’s first four months has focused primarily on two areas: external projects that “build the field” and internal investments in the TEC’s capacity to support this new network of token engineering professionals. Going forward, we will add a new category: Schelling Point services for token engineering expertise.</p>\n<p><strong>Schelling Point Services.</strong> Token engineering is the future of economic systems design. Its growth potential is enormous. The TEC is building the network to support this field and a growing part of that work will involve building services for developing this expertise. There is much work ahead of us in defining these services so that they support the <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values\" rel=\"noopener nofollow ugc\">TEC’s mission, vision, and values</a> – and do so in ways that are economically sustainable for the TEC and the field of token engineering itself.</p>\n<p><strong>Simplify All the Things.</strong> Between now and the fall, the TEC will also be investing in ways to better describe what it is that we do. This will be critical to attracting investment in the next phases of our work. That’s going to mean simplifying terminology and making our work easier to grasp for newcomers to the field.</p>\n<p><strong>Economic Sustainability.</strong> The TEC just started up a new working group called Sampo to ensure its economic sustainability. The group is focused on income generation, financial management, fundraising, and building utility and demand for the $TEC token.</p>\n<p><strong>NFT(E) Non-Fungible Token Engineering.</strong> We’re exploring some different approaches to using NFTs to draw upon TEC culture, grow our network, build awareness for the field of token engineering, and make some money in the process. Stay tuned!</p>\n<p>If you’re a TEC token holder and have talents and energy that you’d also like to contribute to the cause, now is a good time to stop by the <a href=\"https://discord.gg/teCKBctEK5\" rel=\"noopener nofollow ugc\">Communitas channel of our Discord</a> and say “hi.” The TEC is now moving into an exciting new phase, and we can use your help in building this remarkably important new field of token engineering.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706014929",
+    "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "HBesso31",
+   "name": null,
+   "created_at": "2022-06-24T22:36:08Z",
+   "updated_at": "2022-06-24T22:36:08Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Great work so far, champs! I am honored to be witnessing the emergence of the cyber-physical crypto-commons.<br/>\nMay you all be blessed.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706014929",
+    "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-26T00:45:54Z",
+   "updated_at": "2022-06-26T00:45:54Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>That’s a great recap and message <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <img alt=\":clap:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/clap.png?v=10\" title=\":clap:\"/> It has the right tone and conveys a sense of purposeful direction with confidence. Now instead of leaving it up on the forum for the token holders to be forced to come find, why don’t we “engineer” a simple NFT as an on-chain direct message and a fun souvenir? We could even configure something like burning the NFT afterward for the ability to schedule a 1-1 TEC Status Update meeting with a Guide/Communitas member/Steward etc etc as a basic additional feature. Let’s show them we have invested in our own engineering capabilities as well as culture =D The whole process for setting up an NFT with those features and providing time for testing and Steward review before distribution wouldn’t take more than a week if not just a few days. It could also be done quick and dirty on a no-code platform in an afternoon.</p>\n<p>Also FYI, the first link for the MVV at the top of the doc is fine but the one at the bottom redirects to a gitbook sign-in instead of just using the same link as the first.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706014929",
+    "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-06-27T14:42:08Z",
+   "updated_at": "2022-06-27T14:42:08Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks, Gene. Made the fix – good catch.</p>\n<p>I really like the NFT idea. It’s all just a question of resources and time right now. We’re going to be figuring out some more reliable mechanisms for communicating with token holders (not just Hatchers), so maybe we look at this for our next outreach. We’re looking at setting up a token-gated channel or two in Discord and so maybe we couple that somehow.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706014929",
+    "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-27T15:14:32Z",
+   "updated_at": "2022-06-27T15:14:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Cool, next outreach sounds fine then, but I could do all the work; I don’t require any additional resources and have the time if those are the issues. The token-gated channel stuff is also rather straight forward and can be done with NFTY and/or guild.xyz. Is the effort for that being focused on Sampo’s Clarity?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706014929",
+    "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-06-27T15:53:43Z",
+   "updated_at": "2022-06-27T15:53:43Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>There are just a lot of projects moving right now around Sampo and Edu and Costa are doing outreach to Hatchers to ensure they see this - so I think we’re good right now with this one, Gene. As for the token gate work, yes, Enti’s driving this work and here’s the project:<br/>\n<a class=\"onebox\" href=\"https://app.clarity.so/Sampo/project/108\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://app.clarity.so/Sampo/project/108</a><br/>\nFeel free to jump in. <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706014929",
+    "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220625140230",
+   "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014929",
+   "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014929",
+   "url": "https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058"
+  }
+ ]
+}

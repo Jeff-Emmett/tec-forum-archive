@@ -1,0 +1,135 @@
+{
+ "id": 108,
+ "title": "Support Required Deep Dive",
+ "slug": "support-required-deep-dive",
+ "posts_count": 4,
+ "category_id": 19,
+ "created_at": "2020-12-01T07:53:05.172Z",
+ "views": 4145,
+ "last_posted_at": "2021-05-07T18:33:28.664Z",
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2021-05-07T18:33:28Z",
+ "captured_between": [
+  "2021-04-20T14:35:52Z",
+  "2026-02-28T12:46:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2020-12-01T07:53:05Z",
+   "updated_at": "2021-03-08T14:54:22Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h2>What is the Support Required?</h2>\n<p>This is pretty straight forward…</p>\n<p>Support Required is what percentage of tokens need to vote yes (of the tokens that were used to vote) for a proposal to pass in both Disputable Voting and Dandelion Voting.</p>\n<p>Things worth mentioning:</p>\n<ul>\n<li>\n<p>Dandelion Voting and Disputable Voting use Token Weighted voting meaning its not 1 person - 1 vote.</p>\n</li>\n<li>\n<p>A good range for Support Required is between 50-90%</p>\n</li>\n<li>\n<p>Below 50% would mean a majority of voters could disagree with decision but it would still pass</p>\n</li>\n<li>\n<p>Above 90% would mean a small minority of voters could block any decision from happening</p>\n</li>\n</ul>\n<h2>So what do we need to decide?</h2>\n<ol>\n<li>\n<p>What information should we use to decide the Support Required?</p>\n</li>\n<li>\n<p>What is the benefit of a high Support Required (75%-90%)?</p>\n</li>\n<li>\n<p>What is the benefit of a low Support Required (50%-60%)?</p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228124659",
+    "url": "https://forum.tecommons.org/t/support-required-deep-dive/108/5?u=natesuits"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "philh",
+   "name": "PhilH",
+   "created_at": "2020-12-01T18:22:23Z",
+   "updated_at": "2020-12-01T18:22:23Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>NB: Supermajority is generally up to 75% rather than 90%, 90% is extreme. Although there’s the case of institutions requiring 100% support on some issues - a recipe for powerlessness, as evidenced by the EU (case in point: the current rescue package blocked by Poland and Hungary).</p>\n<p>The tradeoff: use a simple majority in ordinary decisions, so that there’s the least possible friction in the normal course of affairs. Use supermajority for strategic decisions that require the largest consensus as it will bear long-term consequences on all stakeholders/members. If there’s no compelling reasons to add another threshold, it’s probably much better to have 2 levels max, it’s complicated enough.</p>\n<p>Another way to approach supermajority is to do stakeholder groups. Simple majority within each stakeholder group is an elegant alternative to a higher support level. In traditional political institutions, it’s used when low and high chambers are required to jointly approved a decision, for instance. Same thing in the case of multi-stakeholder coops.</p>\n<p>My 2 cents <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228124659",
+    "url": "https://forum.tecommons.org/t/support-required-deep-dive/108/5?u=natesuits"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2020-12-03T11:47:02Z",
+   "updated_at": "2020-12-03T11:47:02Z",
+   "reply_to_post_number": 2,
+   "like_count": 1,
+   "cooked": "<p>This is actually a really important point.</p>\n<p>There are several parameters and permissions that can be changed and some of them are some what basic, while others are very critical.</p>\n<p>We will probably want to have a few instances of Dandelion Voting with different Min Quorums and different Supports Required for the different levels of decisions.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228124659",
+    "url": "https://forum.tecommons.org/t/support-required-deep-dive/108/5?u=natesuits"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-03T17:03:52Z",
+   "updated_at": "2020-12-03T17:03:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I think here is also important to know the level of commitment of the stakeholders. (whether they are also working in the projects or just voting and what % of the total supply they will own)<br>\nWhat i don’t know is why I think it is important <img src=\"https://forum.tecommons.org/images/emoji/win10/man_shrugging/2.png?v=9\" title=\":man_shrugging:t2:\" class=\"emoji\" alt=\":man_shrugging:t2:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228124659",
+    "url": "https://forum.tecommons.org/t/support-required-deep-dive/108/5?u=natesuits"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2021-05-07T18:33:28Z",
+   "updated_at": "2021-05-07T18:33:28Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>What is the Support Required (%)?</strong><br>\nThe Support Required (%) is the percentage of YES votes from the vote-total required for a proposal to pass.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br>\nThe Support Required (%) is measured as a percentage (YES Votes/Total Votes), and you will have the option to set this parameter between 50 and 100.</p>\n<p>The Support Required is an important consideration when developing responsible voting configurations.  We desire consensus when voting, and the Support Required percentage is a direct reflection on the degree of consensus among token holders regarding any proposal.  Consensus requires deliberation, and the parameters for the Commons Upgrade will be thoroughly debated.  A high Support Required percentage means that a certain degree of consensus around the Commons Upgrade is required.   A low Support Required percentage will allow for a small majority to dictate the parameters of the Commons Upgrade.</p>\n<p><strong>Suggested Range</strong><br>\nSince support for a proposal is highly desirable, we suggest a range of 60%-95% for the Support Required parameter.</p>\n<p><strong>Related Parameters to consider when defining the Support Required (%):</strong><br>\nMinimum Quorum (%)<br>\nVote Duration (days)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228124659",
+    "url": "https://forum.tecommons.org/t/support-required-deep-dive/108/5?u=natesuits"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420143552",
+   "url": "https://forum.tecommons.org/t/support-required-deep-dive/108"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420143552",
+   "url": "https://forum.tecommons.org/t/support-required-deep-dive/108"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928024332",
+   "url": "https://forum.tecommons.org/t/support-required-deep-dive/108"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928024332",
+   "url": "https://forum.tecommons.org/t/support-required-deep-dive/108"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250514045900",
+   "url": "https://forum.tecommons.org/t/support-required-deep-dive/108"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228124659",
+   "url": "https://forum.tecommons.org/t/support-required-deep-dive/108/5?u=natesuits"
+  }
+ ]
+}

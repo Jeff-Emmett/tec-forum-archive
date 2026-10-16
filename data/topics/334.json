@@ -1,0 +1,67 @@
+{
+ "id": 334,
+ "title": "💫Ωmega Working Group",
+ "slug": "mega-working-group",
+ "category_id": 13,
+ "posts_count": 0,
+ "created_at": "2021-04-12T13:03:26.562Z",
+ "last_posted_at": "2021-04-12T13:03:26.787Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-04-12T13:03:26Z",
+ "captured_between": [
+  "2021-06-24T14:16:33Z",
+  "2022-01-24T02:40:04Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-04-12T13:03:26Z",
+   "updated_at": "2021-12-16T22:24:37Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>The 0mega Working Group examines the ethos of and ethics in token engineering as well as the shared vision and diversity of its communities.</p>\n<p><strong>We meet</strong></p>\n<ul>\n<li>biweekly Wednesdays 20:00 CET - if no special session is planned with different times (best check the calendar/discord)</li>\n<li>in <a href=\"https://discord.gg/YnRHYCkD8D\">0mega voice channel</a> of TEC Discord</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#activities-1\" name=\"activities-1\"></a>Activities</h3>\n<p><a href=\"https://the-commons-stack.typeform.com/to/t7M0UzZU\">Community Survey!</a> Participate, in order to:</p>\n<ul>\n<li>learn about transdisciplinarity in TE → initiative 2</li>\n<li>learn about Ethics of TE → initiative 1</li>\n</ul>\n<p>Workshop at <a href=\"https://www.crypto-commons.org/\">CryptoCommons Gathering</a> (10. - 16.7.2021)</p>\n<ul>\n<li>Invisible Economy: Protect Creative Spaces</li>\n<li>An Interface to Moral Philosophy for Token Engineers<br/>\nPropose a Topic, e.g. Zero Marginal Cost Society, Fractal Ownership, … and let’s exchange in the responses to this post or in the discord!</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124024004",
+    "url": "https://forum.tecommons.org/t/mega-working-group/334"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624141633",
+   "url": "https://forum.tecommons.org/t/mega-working-group/334"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624141633",
+   "url": "https://forum.tecommons.org/t/mega-working-group/334"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928002702",
+   "url": "https://forum.tecommons.org/t/mega-working-group/334"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928002702",
+   "url": "https://forum.tecommons.org/t/mega-working-group/334"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124024004",
+   "url": "https://forum.tecommons.org/t/mega-working-group/334"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124024004",
+   "url": "https://forum.tecommons.org/t/mega-working-group/334"
+  }
+ ]
+}

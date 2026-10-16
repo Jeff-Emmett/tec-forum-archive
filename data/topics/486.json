@@ -1,0 +1,125 @@
+{
+ "id": 486,
+ "title": "Tao Voting - Support Required",
+ "slug": "tao-voting-support-required",
+ "category_id": 26,
+ "posts_count": 4,
+ "created_at": "2021-07-12T16:26:19.518Z",
+ "last_posted_at": "2021-09-05T21:58:55.647Z",
+ "views": 134,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2021-09-05T21:58:55Z",
+ "captured_between": [
+  "2021-09-05T13:48:03Z",
+  "2023-05-30T09:09:13Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-07-12T16:26:19Z",
+   "updated_at": "2021-08-29T15:35:04Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>What is the Support Required (%)?</strong><br/>\nThe Support Required (%) is the percentage of YES votes from the vote-total required for a proposal to pass.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nThe Support Required (%) is measured as a percentage (YES Votes/Total Votes), and you will have the option to set this parameter between 50 and 100.</p>\n<p>The Support Required is an important consideration when developing responsible voting configurations. We desire consensus when voting, and the Support Required percentage is a direct reflection on the degree of consensus among token holders regarding any proposal. Consensus requires deliberation, and the parameters for the Commons Upgrade will be thoroughly debated. A high Support Required percentage means that a certain degree of consensus around the Commons Upgrade is required. A low Support Required percentage will allow for a small majority to dictate the parameters of the Commons Upgrade.</p>\n<p><strong>Suggested Range</strong><br/>\nSince support for a proposal is highly desirable, we suggest a range of 60%-95% for the Support Required parameter.</p>\n<p><strong>Related Parameters to consider when defining the Support Required (%):</strong><br/>\nMinimum Quorum (%)<br/>\nVote Duration (days)</p>\n<p><a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108/5\">Original post by @natesuits can be found here.</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090913",
+    "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-09-05T16:38:57Z",
+   "updated_at": "2021-09-05T16:38:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I like what’s written here. I have strong personal opinions influenced by over a decade of military service.</p>\n<p>My gut says real loud out threshold should be 75% my reasoning is 60% is just barely over the halfway mark and making a decision that only half the community is interested in will not bode well for productivity, engagement, motivation, morale etc.</p>\n<p>I think since I’m in a science minded space I’ll encourage folx to address conflict when it arises. Strong splits in a vote where everyone seems to be driving towards the same goal can signal that there are parts of the proposal that are being misinterpreted or even that there are voices not being listened to.</p>\n<p>Miscommunication is easy on the web as we are located all over the world and every one of us has our own internal dictionary. It is uncommon for dictionaries to match across the globe because different cultures have different ways of using language as well as adopting English and it’s easy to develop bias towards the context of some of our terminology. This is a part of the communication issue we have on the web, the other half is that a mass majority of our population is autistic and are oblivious to thier own communication differences, that’s an issue for a whole neurodiversity movement but it certainly does impact how we communicate or avoid altogether when it comes to decision making as a group.</p>\n<p>I can’t say I’m a fan of how I’ve seen anyone utilizing voting to date. Here comes some embodied opinions…</p>\n<p>Voting should be a way we confirm that we’re all still on the same page Less so as a way to speed up moving the project along. I see it as confirming a consensus I believe to be present. Verifying people understand where we’ve agreed to go. When it’s pretty evenly divided that’s a sign to me that we need to slow down and go back to the drawing board. I promise this approach will always be better than running with a barely winning vote. Ive proven this theory in the field (🪖 anti war vet) and know there’s value in what I’m addressing. It’ll teach us the ways we’re not communicating well and allow folx to get back on the same page again.</p>\n<p>In the hopes that others around me are working towards decolonizing the collective mind I want to remind people that we are all deeply conditioned by our environments. We were all born into oppressive systems, we will steward them if we are not questioning our own behavior as well as the systems and designs we are following.</p>\n<p>Voting within itself…the values for it ought to be looked at again. Voting by design was not created to hear all voices despite the appearance it was created to speed productivity/ building/regulations and get past the folx raising issues it allows people with power a silent way to ignore conflict. We should be mindful of how were voting so it is not oppressive within itself.</p>\n<p>In the future I am building I have a deep desire to hear everyone’s ideas only then can we collectively choose the best options. If people can’t agree it’s because we’re having a communication issue or values are out of alignment. I’m all ears as to what folx may be seeing that I’m not. How can we get them to speak up? How can we all get better at turning towards conflict as opposed to creating systems to handle it for us?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090913",
+    "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-09-05T21:20:47Z",
+   "updated_at": "2021-09-05T21:20:47Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Wow tough one!!  I say 75-85.  Thanks for the insightful comments Aloysious.  I never thought about voting like that before!  It made me increase my % suggested.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090913",
+    "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-05T21:52:06Z",
+   "updated_at": "2021-09-05T21:52:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Yeah important things to remember:</p>\n<ul>\n<li>There is Delegation in Tao Voting</li>\n<li>There tends to be a huge “yes” voting bias in DAOs… Most votes pass with &gt;90% support*</li>\n<li>Tao Voting is expected to be rarely used.</li>\n</ul>\n<p>Personally I like to flip Support Required around and say, what % of voters should be able to block a proposal from passing.</p>\n<p>For our Hatch DAO, its 12%… That feels pretty right to me for the Hatch, maybe its a little low for a less Trusted and more open voting set… even then tho, if 20% of the community votes no (80% support required), that should probably make us pause and we can revote.</p>\n<p>*NOTE: 90% is just what I have observed… would love to see data…</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090913",
+    "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-09-05T21:58:55Z",
+   "updated_at": "2021-09-05T21:58:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yeah from what I’ve seen at Gitcoin that is true.  Rarely is there opposition.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090913",
+    "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210905134803",
+   "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210905210941",
+   "url": "https://forum.tecommons.org/t/tao-voting-support-required/486/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530090913",
+   "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530090913",
+   "url": "https://forum.tecommons.org/t/tao-voting-support-required/486"
+  }
+ ]
+}

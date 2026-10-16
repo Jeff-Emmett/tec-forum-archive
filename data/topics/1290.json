@@ -1,0 +1,72 @@
+{
+ "id": 1290,
+ "title": "TEC Rewards Distribution - round-34",
+ "slug": "tec-rewards-distribution-round-34",
+ "category_id": 31,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2023-09-14T18:26:14Z",
+ "last_archived_post_at": "2023-09-18T11:21:12Z",
+ "captured_between": [
+  "2023-10-02T21:12:58Z",
+  "2024-02-29T11:45:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2023-09-14T18:26:14Z",
+   "updated_at": "2023-10-26T19:58:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This period covers praise given between <strong>14 July 2023 and 21.August 2023</strong>. We allocated <strong>766.4987833</strong> TEC tokens for rewards, using our new distribution system which boosts non-paid contributors. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.</p>\n<p>Out of the total rewards:</p>\n<ul>\n<li>90% of the tokens were given as praise rewards <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/>\n</li>\n<li>7% distributed among quantifiers <img alt=\":balance_scale:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/balance_scale.png?v=12\" title=\":balance_scale:\" width=\"20\"/>\n</li>\n<li>3% assigned to the reward board <img alt=\":memo:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/memo.png?v=12\" title=\":memo:\" width=\"20\"/>\n</li>\n</ul>\n<p>This data has been reviewed by the Quantifiers and the Reward Board, and has been submitted for distribution to the <a href=\"https://xdai.aragon.blossom.software/#/rewardboardtec/\" rel=\"noopener nofollow ugc\">Reward Board DAO</a></p>\n<p>You can check out the <a href=\"https://rawcdn.githack.com/CommonsBuild/tec-rewards/5bc838042f1c857b9d92e5bf8cb4589522ce152c/distribution_rounds/round-34/distribution_results/reports/round-34--general-round-analysis-report.html\" rel=\"noopener nofollow ugc\">full period analysis here</a>. <img alt=\":bar_chart:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/bar_chart.png?v=12\" title=\":bar_chart:\" width=\"20\"/></p>\n<p>This post will be open to the community for review for 48 hours then submitted to the Reward Board for final execution. <img alt=\":heavy_check_mark:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/heavy_check_mark.png?v=12\" title=\":heavy_check_mark:\" width=\"20\"/></p>\n<p>The Rewards Distribution for this round is as follows:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Username</th>\n<th style=\"text-align:right\">Rewards in TEC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">bear100#9085</td>\n<td style=\"text-align:right\">35.41592599</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">r-x-x</td>\n<td style=\"text-align:right\">47.15093742</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Isaac (enti)<span class=\"hashtag\">#1546</span>\n</td>\n<td style=\"text-align:right\">29.99803071</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">akrtws#4246</td>\n<td style=\"text-align:right\">59.53981761</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">liviade#1387</td>\n<td style=\"text-align:right\">47.67747847</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">gideonro#0</td>\n<td style=\"text-align:right\">45.73844226</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">natesuits</td>\n<td style=\"text-align:right\">19.39485098</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">ygg_anderson#4998</td>\n<td style=\"text-align:right\">33.76204217</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">\n<img alt=\":octopus:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/octopus.png?v=12\" title=\":octopus:\" width=\"20\"/> octopus#5508</td>\n<td style=\"text-align:right\">33.1917374</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">pat.zip (TE Academy)<span class=\"hashtag\">#5266</span>\n</td>\n<td style=\"text-align:right\">23.26843447</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Tamarandom#9361</td>\n<td style=\"text-align:right\">17.90756966</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">JessicaZartler#2263</td>\n<td style=\"text-align:right\">12.77482677</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Griff (<img alt=\":purple_heart:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/purple_heart.png?v=12\" title=\":purple_heart:\" width=\"20\"/>,<img alt=\":purple_heart:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/purple_heart.png?v=12\" title=\":purple_heart:\" width=\"20\"/>)<span class=\"hashtag\">#8888</span>\n</td>\n<td style=\"text-align:right\">10.72172961</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">makkiyzy</td>\n<td style=\"text-align:right\">7.205708829</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">roro#1166</td>\n<td style=\"text-align:right\">8.668632449</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">stephanesg</td>\n<td style=\"text-align:right\">8.668632449</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">divine_comedian</td>\n<td style=\"text-align:right\">6.965518535</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">mZ#3472</td>\n<td style=\"text-align:right\">8.098327682</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">acidlazzer</td>\n<td style=\"text-align:right\">6.448344053</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">JeffEmmett#7202</td>\n<td style=\"text-align:right\">7.071779103</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">trentmc0#2875</td>\n<td style=\"text-align:right\">5.703047664</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">JHennyArt#2106</td>\n<td style=\"text-align:right\">2.452310495</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">r33pich33p</td>\n<td style=\"text-align:right\">3.482759268</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">mattytokenomics</td>\n<td style=\"text-align:right\">3.878072411</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">dr.suga</td>\n<td style=\"text-align:right\">3.878072411</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Sha#6179</td>\n<td style=\"text-align:right\">3.307767645</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">curiousrabbit.eth#0790</td>\n<td style=\"text-align:right\">2.965584785</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">zeptimus</td>\n<td style=\"text-align:right\">2.401902943</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Mark D#6686</td>\n<td style=\"text-align:right\">2.395280019</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Marathonmind#3078</td>\n<td style=\"text-align:right\">0.9124876262</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">0xBlockBoy  <img alt=\":black_flag:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/black_flag.png?v=12\" title=\":black_flag:\" width=\"20\"/>#8972</td>\n<td style=\"text-align:right\">1.482792393</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">mekail</td>\n<td style=\"text-align:right\">0.1140609533</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">dgn2rgn</td>\n<td style=\"text-align:right\">0.1140609533</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229114518",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-34/1290"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2023-09-18T11:21:12Z",
+   "updated_at": "2023-09-18T11:21:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>The Top 10 highest rated praise this week was:</strong></p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Avg. score</th>\n<th>To</th>\n<th style=\"text-align:right\">Reason</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">7.6666666666667</td>\n<td>akrtws#4246</td>\n<td style=\"text-align:right\">for all their hard work on planning and executing on TE Barcamp!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">41.0</td>\n<td>liviade#1387</td>\n<td style=\"text-align:right\">for her excellent presentation at EthCC on the results of the TE stakeholder study!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">38.3333333333333</td>\n<td>akrtws#4246</td>\n<td style=\"text-align:right\">for their great presentations at ETHCC and the TEBarcamp</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">36.6666666666667</td>\n<td>0xr3x</td>\n<td style=\"text-align:right\">for their great presentations at ETHCC and the TEBarcamp</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">34.0</td>\n<td>pat.zip (TE Academy)<span class=\"hashtag\">#5266</span>\n</td>\n<td style=\"text-align:right\">for all their hard work on planning and executing on TE Barcamp!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">29.6666666666667</td>\n<td>gideonro#0</td>\n<td style=\"text-align:right\">For dedicate leadership at TEC during the transition over the past two years.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">29.6666666666667</td>\n<td>Tamarandom#9361</td>\n<td style=\"text-align:right\">for their great presentations at ETHCC and the TEBarcamp</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">25.3333333333333</td>\n<td>roro#1166</td>\n<td style=\"text-align:right\">for his work with the TE AI and his insightful presentations about it at ETHCC and the Barcamp</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">22.6666666666667</td>\n<td>pat.zip (TE Academy)<span class=\"hashtag\">#5266</span>\n</td>\n<td style=\"text-align:right\">For their devotion to the TE academy and pioneering the domain of decentralized education and Token Engineering education.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">22.6666666666667</td>\n<td>Isaac (enti)<span class=\"hashtag\">#1546</span>\n</td>\n<td style=\"text-align:right\">for representing the TEC and presenting on TE at a major crypto conference! Awesome work!</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229114518",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-34/1290"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002211258",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-34/1290"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231002211258",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-34/1290"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229114518",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-34/1290"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229114518",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-34/1290"
+  }
+ ]
+}

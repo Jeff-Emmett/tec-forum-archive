@@ -1,0 +1,51 @@
+{
+ "id": 22,
+ "title": "About the 💭 Feedback and Questions category",
+ "slug": "about-the-feedback-and-questions-category",
+ "category_id": 8,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2020-10-24T00:45:50Z",
+ "last_archived_post_at": "2020-10-24T00:45:50Z",
+ "captured_between": [
+  "2021-03-01T23:11:07Z",
+  "2026-07-17T02:45:31Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-10-24T00:45:50Z",
+   "updated_at": "2020-12-03T21:50:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Feedback, questions, bug, reporting and insights</p>\n<p>Use the following paragraphs for a longer description, or to establish category guidelines or rules:</p>\n<ul>\n<li>\n<p>Why should people use this category? What is it for?</p>\n</li>\n<li>\n<p>How exactly is this different than the other categories we already have?</p>\n</li>\n<li>\n<p>What should topics in this category generally contain?</p>\n</li>\n<li>\n<p>Do we need this category? Can we merge with another category, or subcategory?</p>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717024531",
+    "url": "https://forum.tecommons.org/t/about-the-feedback-and-questions-category/22"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210301231107",
+   "url": "https://forum.tecommons.org/t/about-the-feedback-and-questions-category/22"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210301231107",
+   "url": "https://forum.tecommons.org/t/about-the-feedback-and-questions-category/22"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260717024531",
+   "url": "https://forum.tecommons.org/t/about-the-feedback-and-questions-category/22"
+  }
+ ]
+}

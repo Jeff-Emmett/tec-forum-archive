@@ -1,0 +1,72 @@
+{
+ "id": 573,
+ "title": "The Commons Configuration Dashboard",
+ "slug": "the-commons-configuration-dashboard",
+ "category_id": 9,
+ "posts_count": 2,
+ "created_at": "2021-08-25T17:56:32.317Z",
+ "views": 2858,
+ "last_posted_at": "2021-08-28T22:10:18.885Z",
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-08-28T22:10:18Z",
+ "captured_between": [
+  "2021-08-31T16:08:52Z",
+  "2026-02-28T05:03:40Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-08-25T17:56:32Z",
+   "updated_at": "2021-08-25T17:58:28Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>With the <a href=\"https://forum.tecommons.org/t/design-your-economy-make-your-choice/366\">Hatch Dashboard</a> long behind us, the Params WG has been working overtime on their next product, the <strong>Commons Configuration Dashboard</strong> (CCD). This Dashboard is the tool by which the TEC will design, iterate and propose the parameter configurations for the Commons Upgrade. The CCD will have several robust features including:</p>\n<ul>\n<li>Information and resources to learn about how each component of the Commons works.</li>\n<li>Intuitive modules for configuring all parameters necessary for launching the TEC Commons.</li>\n<li>Graphs and tables for experimentation and analysis of each component.</li>\n<li>A standardized Github template for proposing and comparing Commmons Configurations.</li>\n</ul>\n<p>The four main components are <strong>Token Freeze &amp; Token Thaw</strong>, <strong>Augmented Bonding Curve</strong>, <strong>Tao Voting</strong> (formerly Disputable Voting), and <strong>Conviction Voting</strong>. There will also be an Advanced Settings component for power-users wanting to leverage high-level technical settings. The CCD is an essential tool for taking the TEC to the next level and to allow us to fully move past the Hatch. The Parameters WG is very excited to finish this tool and get it in the hands of the people!</p>\n<h3>\n<a name=\"for-more-information-on-the-ccd-1\" class=\"anchor\" href=\"#for-more-information-on-the-ccd-1\"></a>For more information on the CCD</h3>\n<ul>\n<li>Check out the <a href=\"https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511\">Power of Defaults</a> post by Griff</li>\n<li>Visit the <a href=\"https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/ccd-params/26\">CCD Parameters</a> and <a href=\"https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/adv-ccd-params/27\">Advanced CCD Parameters</a> Categories in the Forum</li>\n<li>Follow development for the <a href=\"https://github.com/CommonsBuild/commons-config-frontend\">front-end</a> and <a href=\"https://github.com/CommonsBuild/commons-config-backend\">back-end</a> on Github</li>\n</ul>\n<hr>\n<p><strong>As of writing</strong> <em>(August 25, 2021)</em> the Ideation and Design process for the CCD has been completed. We’re beaming this beast to the world wide web with the help of our <em>Brazilian Developer Ninjas</em> (working title) and we’re aiming to have something the community can start playing with in the next couple weeks.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228050340",
+    "url": "https://forum.tecommons.org/t/the-commons-configuration-dashboard/573"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-08-28T22:10:18Z",
+   "updated_at": "2021-08-28T22:10:18Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Well that was fast, its already out: <a href=\"https://commons-dashboard.netlify.app/\">https://commons-dashboard.netlify.app/</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228050340",
+    "url": "https://forum.tecommons.org/t/the-commons-configuration-dashboard/573"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210831160852",
+   "url": "https://forum.tecommons.org/t/the-commons-configuration-dashboard/573"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530084454",
+   "url": "https://forum.tecommons.org/t/the-commons-configuration-dashboard/573"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228050340",
+   "url": "https://forum.tecommons.org/t/the-commons-configuration-dashboard/573"
+  }
+ ]
+}

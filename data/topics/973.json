@@ -1,0 +1,130 @@
+{
+ "id": 973,
+ "title": "Water: 5 Token Swaps in 1 & an Index Token to Boot! :boot:",
+ "slug": "water-5-token-swaps-in-1-an-index-token-to-boot",
+ "category_id": 30,
+ "tags": [
+  "governance",
+  "advice-process"
+ ],
+ "posts_count": 5,
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "created_at": "2022-04-05T21:55:28Z",
+ "last_archived_post_at": "2022-04-22T15:34:14Z",
+ "captured_between": [
+  "2022-05-20T07:06:22Z",
+  "2022-05-20T07:06:22Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-04-05T21:55:28Z",
+   "updated_at": "2022-04-05T21:55:28Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>There has been a lot of advice process in various Steward Calls around this topic, but it looks like this is the first time it has hit the forums!</p>\n<p><a class=\"mention\" href=\"/u/paul2\">@paul2</a> from 1hive has been spearheading a unique solution to increase liquidity for various aligned token communities on Gnosis Chain, including us!</p>\n<p>The proposal evolved a lot  in the last several weeks, and has been hashed out in this epic thread:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/d9df4f6da0d157e5be2a8d72fa040650c0f0174c.png\" width=\"32\"/>\n<a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener\" target=\"_blank\" title=\"08:04PM - 16 February 2022\">1Hive – 16 Feb 22</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"180\" src=\"https://forum.tecommons.org/uploads/default/original/1X/1c395527ca1290db50cd7fcf5b1ad22226c70766.png\" width=\"180\"/>\n<h3><a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener\" target=\"_blank\">Water💧 Shared Liquidity Proposal</a></h3>\n<p>Background:  Following the success of the shared liquidity proposals with Shapeshift and BrightID, we went to the drawing board on a more scalable shared liquidity solution that could benefit many projects at once.  This proposal is seeking [updated]...</p>\n<p>\n<span class=\"label1\">Reading time: 16 mins 🕑</span>\n<span class=\"label2\">Likes: 72 ❤</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h2>\n<a class=\"anchor\" href=\"#in-summary-this-is-how-it-would-work-1\" name=\"in-summary-this-is-how-it-would-work-1\"></a>In summary this is how it would work…</h2>\n<p>Each of these DAOs</p>\n<ul>\n<li>1Hive</li>\n<li>Shapeshift</li>\n<li>BrightID</li>\n<li>Giveth</li>\n<li>Maybe Opolis</li>\n<li>Us! <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/>\n</li>\n</ul>\n<p>Would put in 100k in their token into a multisig and then, if all 6 groups put in $100k, 600k $WATER would be minted and then paired with each token in a Honeyswap LP. No other $WATER would be minted.</p>\n<p>This would allow each DAO to have a nice liquidity boost, while also creating a $WATER token that effectively acts as an Index of all the DAOs.</p>\n<p>It’s a 5 way token swap that also creates an index token that can potentially give additional upside!</p>\n<p>This is however an untested model… Defi is a crazy place and even though it seems like a great idea to me, by participating, we would be blazing a trail that hasn’t been walked before.</p>\n<h2>\n<a class=\"anchor\" href=\"#details-to-note-2\" name=\"details-to-note-2\"></a>Details to note</h2>\n<h3>\n<a class=\"anchor\" href=\"#the-multisig-3\" name=\"the-multisig-3\"></a>The Multisig</h3>\n<p>The multisig that would hold the TEC has 2 representatives from each team.</p>\n<p>Here are the people on this multisig:</p><aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/1WMXJ2cS4ZENOP9sBgWMVQZTi98y3JS9nJbu9uWW8Wzw/edit#gid=951253700\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1WMXJ2cS4ZENOP9sBgWMVQZTi98y3JS9nJbu9uWW8Wzw/edit#gid=951253700\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1WMXJ2cS4ZENOP9sBgWMVQZTi98y3JS9nJbu9uWW8Wzw/edit#gid=951253700\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1WMXJ2cS4ZENOP9sBgWMVQZTi98y3JS9nJbu9uWW8Wzw/edit#gid=951253700\" rel=\"noopener\" target=\"_blank\">Water Multisig Deets</a></h3>\n<p>LP Safe\n\nMultisig Address,0xb5F50e42aD28fB4BFc25b6B4c5a34AaD30649FC0,5 of 12,xDai\nKey Holder,Reping,Address\nWilly,FOX,0x1D01A2FefB8883A5cfB8c77B19d9b96794581288\nCrypto...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>You will notice 4 Stewards in the TEC, Mitch, Lauren, Chuy and myself are on this multisig ;-D</p>\n<p>The multisig that holds the funds would be a 5/12 gnosis safe, the multisig that can mint $WATER would be an 8/12 gnosis safe.</p>\n<h3>\n<a class=\"anchor\" href=\"#this-is-a-lot-of-tec-4\" name=\"this-is-a-lot-of-tec-4\"></a>This is a lot of TEC</h3>\n<p>$100k of TEC currently equates to about 30% of Lasertag funds (~$325k).</p>\n<h3>\n<a class=\"anchor\" href=\"#there-is-a-15-penalty-for-backing-out-5\" name=\"there-is-a-15-penalty-for-backing-out-5\"></a>There is a 15% penalty for backing out</h3>\n<p>We can choose to get our tokens back at any time but we face a 15% penalty, so really we are in or we are out, I wouldn’t consider this refundable. That said, we do have major influence on the multisig and if  an unforeseable issue arises or we have a reasonable excuse for why we want to leave (better than, $TEC is pumping and all you losers are dragging us down), I think it would be considered.</p>\n<h3>\n<a class=\"anchor\" href=\"#water-evolution-is-possible-6\" name=\"water-evolution-is-possible-6\"></a>$WATER evolution is possible</h3>\n<p>Exactly how the $WATER token evolves is up to the multisig. There are discussions about adding other communities to the index in the future… but I think it is likely this is a one time thing and once launched nothing will change.</p>\n<h3>\n<a class=\"anchor\" href=\"#water-is-innovative-7\" name=\"water-is-innovative-7\"></a>$WATER is innovative</h3>\n<p>As an index token, $WATER is very cool. Most index tokens require some sort of liquidity mining to bootstrap, yet $WATER has liquidity by virtue of its creation. It has not been modeled… yet… and how things will go has had a lot of thought put behind it but it still hasn’t really been tested.</p>\n<h3>\n<a class=\"anchor\" href=\"#we-have-until-the-18th-to-get-this-all-sorted-8\" name=\"we-have-until-the-18th-to-get-this-all-sorted-8\"></a>We have until the 18th to get this all sorted!</h3>\n<p>1hive and BrightDAO have already passed proposals to fund their share</p>\n<h2>\n<a class=\"anchor\" href=\"#want-to-read-more-9\" name=\"want-to-read-more-9\"></a>Want to read more?</h2>\n<p>I tried to keep this short and to the point because the bulk of the debate has occurred in this thread:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/d9df4f6da0d157e5be2a8d72fa040650c0f0174c.png\" width=\"32\"/>\n<a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener\" target=\"_blank\" title=\"08:04PM - 16 February 2022\">1Hive – 16 Feb 22</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"180\" src=\"https://forum.tecommons.org/uploads/default/original/1X/1c395527ca1290db50cd7fcf5b1ad22226c70766.png\" width=\"180\"/>\n<h3><a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener\" target=\"_blank\">Water💧 Shared Liquidity Proposal</a></h3>\n<p>Background:  Following the success of the shared liquidity proposals with Shapeshift and BrightID, we went to the drawing board on a more scalable shared liquidity solution that could benefit many projects at once.  This proposal is seeking [updated]...</p>\n<p>\n<span class=\"label1\">Reading time: 16 mins 🕑</span>\n<span class=\"label2\">Likes: 72 ❤</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h1>\n<a class=\"anchor\" href=\"#wdyt-should-we-jump-into-the-water-10\" name=\"wdyt-should-we-jump-into-the-water-10\"></a>WDYT? Should we jump into the $WATER?</h1>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"00b64d879196c5c11829ffe3e908de74\">Let’s take the Dive!</li>\n<li data-poll-option-id=\"e20c8c58348693e2c1d9131b4db7d445\">Not sure, will dip my feet in and think about it.</li>\n<li data-poll-option-id=\"48a43ea089b21ee570fd38729b14612b\">Let’s stay dry.</li>\n<li data-poll-option-id=\"d28722ed31d2410f46a95e3b0f143f91\">Abstain</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070622",
+    "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-04-19T18:23:10Z",
+   "updated_at": "2022-04-19T18:35:06Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>It’s not so clear yet for me if the liquidity boost we could have is worth the risks being presented. Do we have an estimate of what this boost could be and how this could benefit the TEC in a short - medium or long term? What would be the impact for us if this doesn’t work?</p>\n<p>We are a token engineering project talking about a non modeled, non tested solution using 35% percent of our buy in tokens. It feels unreasonable to me but I might be lacking understanding.</p>\n<p>I’m voting no for now but open to change my mind in the next few days</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070622",
+    "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-04-22T02:46:38Z",
+   "updated_at": "2022-04-22T02:46:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The lack of movement on this vote is probably less apathy and more just uncertainty around how to assess this.</p>\n<p>Does this basically boil down to more diversified liquidity? Or does an index actually generate <em>more</em> liquidity somehow? I just don’t understand the mechanics well enough to know whether taking $100K of $TEC and pairing with just one token (e.g. HNY) would result in the same liquidity as matching it to an index like this. <a class=\"mention\" href=\"/u/griff\">@Griff</a>, maybe you can shine some light on that question?</p>\n<p>I do also have a governance concern, which is that while one third of the multisig members are well known in the TEC community, the remaining 2/3s are not. $100K of $TEC is a lot. If this were a well-established financial mechanism, that “governance stretch” might not be that big of a deal. But this is so new that there actually <em>could</em> be some real need for governance, and that part still seems rather undefined right now.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070622",
+    "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-04-22T12:17:04Z",
+   "updated_at": "2022-04-22T14:27:27Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>If it doesn’t work, or the group as a whole decides to end the project, we would get our tokens back. If we don’t like it and want to back out but the rest of the multisig likes it, then we have to pay a 15% fee.</p>\n<p>The only way I see this failing is if somehow the multisig decides to print a bunch of $WATER… and they know that they shouldn’t</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070622",
+    "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-04-22T12:18:49Z",
+   "updated_at": "2022-04-22T12:18:49Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The index part doesn’t generate more liquidity… it generates more demand, if anyone decides to hold $WATER in their wallet, they will be buying it and taking it from the liquidity pools, which it will create demand for TEC and raise the price.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070622",
+    "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-04-22T15:34:14Z",
+   "updated_at": "2022-04-22T15:34:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>OK. Thanks for clarifying. I’m just trying to fully get my head around this, not just for the vote but as part of my responsibility on the Lasertag multisig. Also, I’m hoping this will help clarify things for others in the community who aren’t up to speed and have yet to vote.</p>\n<p>So basically, $WATER would boost demand for $TEC:</p>\n<ul>\n<li>By creating a mechanism for participating communities to cooperate in boosting demand</li>\n<li>Efficiently, by not having to create individual liquidity pools for each token</li>\n<li>While diversifying our treasury (a bit) through an index</li>\n<li>And while pioneering a novel financial mechanism that could evolve over time</li>\n</ul>\n<p>The risks entail:</p>\n<ul>\n<li>Some uncertainty around this being a new technique</li>\n<li>Some still TBD processes around governance of index</li>\n<li>The possibility that $WATER multisig participants would print too much of the token (but this is unlikely because it would only hurt their own token)</li>\n</ul>\n<p>If the majority of multisig participants agree it’s not working, we all walk away with a full refund. But if the TEC decides, for whatever reason, that we alone want to walk away, we lose $15K.</p>\n<p>Here’s the link to the vote, <strong>which ends in 2 hours</strong>:<br/>\n<a class=\"onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0xbf91a8d1a6701a5ff4e99d97e3fa4fe581326641b793e0482340aeff0b5edd2b\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://snapshot.org/#/tecommons.eth/proposal/0xbf91a8d1a6701a5ff4e99d97e3fa4fe581326641b793e0482340aeff0b5edd2b</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070622",
+    "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520070622",
+   "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520070622",
+   "url": "https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "id": 1173,
+ "title": "A public apology",
+ "slug": "a-public-apology",
+ "category_id": 5,
+ "posts_count": 4,
+ "created_at": "2022-11-13T18:46:31.794Z",
+ "last_posted_at": "2022-12-01T20:27:47.953Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2022-12-01T20:27:47Z",
+ "captured_between": [
+  "2022-11-26T22:24:08Z",
+  "2023-04-01T01:05:24Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-11-13T18:46:32Z",
+   "updated_at": "2022-11-13T18:46:32Z",
+   "reply_to_post_number": null,
+   "like_count": 13,
+   "cooked": "<p>This is a public apology, and I figure this is as good a place as any to post it.</p>\n<p>Last week, I allowed myself to become defensive about the transformation plan I’ve been working on over the past month or so. In my desire to make progress, I failed to hear a legitimate concern over retaining the TEC’s decentralized nature. The person giving clearest voice to that concern was Livia, and my unskillful reaction ended up upsetting her. For that, I feel deep regret and remorse. I have apologized to Livia in private, but there are two reasons to make this apology public:</p>\n<p>The first is publicly recognizing my immense respect for who she is and all she has done here in the TEC. Of all the people in this community, Livia is the last person I would ever want to hurt. She is one of the most welcoming, warm, and brilliant people I know. To me, she represents a kind of avatar for the collective soul that I would wish for the TEC. To know I have hurt this person feels very bad.</p>\n<p>So, Livia, I apologize to you once again, this time in public. I am so sorry.</p>\n<p>The second reason to apologize publicly is that I have behaved similarly with more than just her.</p>\n<p>I first learned of the TEC in August of 2021, and was instantly entranced. It deeply resonated with things I’d been working on and writing about for years: a set of tools for a new economic fabric for civilization and a group of people actually experimenting with the new organizational forms needed to get there. I fell hard for this mission and believe it’s very possible that future generations will look back in wonder and gratitude for what we did here.</p>\n<p>By April of this year, however, I started getting really worried about the TEC’s sustainability. I took on stewardship of Sampo to work on the problem, but in doing so fell into the trap of feeling like it was up to me to “save” this place. I have lost countless nights’ sleep over the last six months and even considered leaving several times over frustration at my inability to actually make real change. As time passed, I found myself becoming increasingly critical and less focused on that wonder and gratitude for what has already been done here.</p>\n<p>I don’t want to do that anymore.</p>\n<p>So, this is a public apology not just to Livie, but to my fellow stewards and the community as a whole. I have let my concerns over the sustainability of this mission get the better of me. My unskillful response to Livia’s concerns last week made me see this with a lot of clarity over this weekend, and realize how far I’ve drifted from the servant leader ideal I generally aspire to in my work.</p>\n<p>To be clear, I do have tremendous gratitude for all the work that has gone into creating this commons and its supporting community. I see the remarkable commitment to new ways of coordinating people, the governance structures, the economic self-launch capacity, the parameterized economic systems design, and the thoughtful organizational processes. These are all amazing accomplishments that need to be recognized and celebrated. We need to stop beating ourselves up because we tried something new and hard and it didn’t turn out exactly the way we wanted. It’s the nature of pioneering work, but these ideals are the lighthouse that should guide all of our efforts to rebuild.</p>\n<p>This next year will be challenging as we right-size the cost of governing and stewarding the Token Engineering Commons and figure out how best to serve the field of token engineering. One thing worth noting is that while we haven’t drawn all that many actual token engineers to our work, we have succeeded at deeply engaging a group of talented people with a shared passion for the governance and stewardship of a blockchain-based commons. Perhaps that is no coincidence, and instead a signal from the field that we need to pay closer attention to.</p>\n<p>I mention this last part because while it is clear that we need to simplify and restructure the way we coordinate work here, it is also clear that we need to keep this flame of decentralized governance and stewardship burning bright as we do so. It feels not just core to <em>who</em>, but also <em>what</em> we are, and I am deeply committed to that.</p>\n<p>I still have a lot to learn on this front, so to think that I hurt one of my most valuable teachers is something for which I deeply apologize.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401010524",
+    "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-14T19:55:13Z",
+   "updated_at": "2022-11-14T22:32:34Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Gideon,<br/>\nThis is so thoughtful. I appreciate your reflection a lot. I had my reflections too over this weekend which I shared with you, but I also want to publicly apologize for how I’ve been expressing myself.<br/>\nAs many in the community know, I’m burned out and I’m about to take a month off. My capacity to express eloquently and with grace was put as a second priority, which I regret so much. I could have delivered my feedback in much more gentle ways. I’ve been observing my tendencies to act rebelliously with figures of authority and I think this happened with you.</p>\n<ol>\n<li>Because I was sensing an uncomfortable feeling of central power being formed around you and</li>\n<li>Because I admire you a lot and deep down I wanted to be seen and acknowledged by you.</li>\n</ol>\n<p>The 1st point happened because you generated an incredible amount of energy and excitement that this community needed. I think everyone in the TEC feels grateful for this. The next step just needed to rebalance this energy by creating decentralization practices that are aligned with the upcoming org design. We could have supported each other on this, but at that point there was already some tension.</p>\n<p>I want to put myself available to think about this together. It’s very natural for us to default to centralization. I have to keep alert of myself all the time. This is how we’ve been wired in our capitalist societies and we should be patient with ourselves in this process. I am grateful that <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>  brought this up in our Stewards reflection call: we are all on the same boat, no one in the space has fully figured this out. We are experimenting and learning.</p>\n<p>On the learning point - I felt upset by the general reaction of the group that expressed this wasn’t a priority for the transition because it would slow things down. Again, I don’t think I communicated my thoughts well enough, but I feel like the learnings we are gathering should be incorporated on how we are making this transition. How can we do that? What learnings can we bring to the new structure? How can we do this together? These are all hard questions and I believe we’ll be able to address them. It’s important to think <strong>what is that we are in the rush for?</strong> What are the real objectives we are working towards, mission wise. How to facilitate for them to happen? What is our Token Engineering roadmap, <strong>supported by</strong> our operations roadmap and not the opposite.</p>\n<p>Point number 2 comes because of something very personal I’m working on. It’s my frustration to want to collaborate on so many fronts, and not be able too. I literally have no energy, my brain is not at its best capacity and I’m dropping almost everything I get a hold of. So there was a conflict between what I wanted to do and what I was actually doing. I felt like I disappointed you Gideon, and many others in this community in the past few months. So I was expressing with frustration and resentment at myself but completely projecting this into you and others. I saw myself as a child wanting validation and approval from this big figure I respect. I’m taking time off to rest, heal, return to my womanhood and drop the childlike behavior that shows up sometimes.</p>\n<p>I also want to open space if anyone identifies with this feeling, feel free to DM me and we can chat about more vulnerable feelings that may arise when being in community. They feel very disempowering and frustrating. There is so much we are learning when returning to collective living and co-creation. feeling unvalued, unrecognized and unseen can be pointers for deeper mental health issues and putting the shame away to speak about them is the best way for us to heal collectively.</p>\n<p>Thanks Gideon for your patience with me and commitment with the TEC. We really are all learning together and I’m so confident the TEC will see a bright future with the energy everyone is putting in this community.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401010524",
+    "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-11-15T01:26:29Z",
+   "updated_at": "2022-11-15T01:26:29Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Thank you, <a class=\"mention\" href=\"/u/liviade\">@liviade</a>, for this honest and heartfelt reply. The vulnerability you have shared here takes a lot of courage. So much of what drives our behavior with others has these deep roots. This ability to share what is going on inside us makes space for understanding and deep trust. I think it can also serve to inspire others to do the same.</p>\n<p>What I also respect about your response is that in addition to sharing these very vulnerable personal feelings, you also didn’t shy away from telling the truth about what was bothering you about what you were seeing. Without that honest feedback from others, it is difficult to actually correct our actions.</p>\n<p>My sense is that my felt need to “save” this place is the other side of the coin to your concerns about power centralizing around me. For me, this is left over from some trauma related to an organization I used to run. The person who came in after me ran it into the ground over the course of two years. I loved that place, and there was a lot of pain and suffering caused to its people. Worse still, the loss of this mission-driven consulting group had a big impact on the local and regional environmental movements in Canada and the US. In a way, I think my ‘panic’ over seeing this commons becoming unsustainable re-triggered these emotions.</p>\n<p>I share this here because this is part of the baggage I bring to this work. What has been wonderful is seeing that there are still so many people who are here to help carry this load. It is not <em>mine</em> alone to carry. My head gets this, but I’m still trying to convince my body. <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/> I am open to being reminded of this, when needed, btw.</p>\n<p>To get to your specific question of ‘why the rush?’, I would say that it is because we have a group of people who are stepping up to carry the next phase of this work forward. They have been in a kind of limbo for several months now, and it’s actually not fair to them to keep this uncertainty dragging out for much longer. It’s not fair financially, and it is also not fair just in terms of what they could be doing otherwise with their lives. Plus, we could risk losing them.</p>\n<p>In addition, I personally feel like it is time to move, and to once again turn our gaze outwards and get to the actual work of fulfilling our mission. Too much focus on the how and not enough on the what and the why is not good for the soul. It robs us of a powerful sense of meaning.</p>\n<p>That is my honest opinion. Now, having said that, I firmly believe that getting this smaller team in place in no way prevents us from continuing to follow decentralization practices. We just need to figure out how to do them in ways that don’t require as much paid staff to support it. It will take some creative thinking but I am confident we can do it – and I am personally fully committed to doing that.</p>\n<p>The key, I believe, comes down to creating a new accountability feedback loop: one that ensures that this coordination team remains fully faithful to the MVV. Nonprofit organizations do this through boards of directors. I have to believe that there is something analogous, but decentralized, that we could develop. Perhaps it rests in the “Commons Stewards” role from Tam’s and Nate’s proposal, but with these stewards representing various stakeholder groups - contributors, yes, but also a much broader range of the full TEC community and partners. We might be able to combine this some good feedback tools to help these stewards work with the stakeholder groups to more actively participate in TEC governance.</p>\n<p>There is still work here, clearly. But I don’t think we can afford to hold up getting this coordination team in place in order to get all that figured out beforehand. I think it risks putting us in further limbo and that feels dangerous, and that’s not just my past trauma talking. <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/></p>\n<p>One last thing, I thought that the reflection you helped us do last week was really important. There may be more there to distill. What’s more, I think there is another job for us, which is to figure out that ceremonial ritual you mentioned earlier as a way to actually recognize all of the amazing work of the stewards who have gotten us to where we are. Maybe we can cover that in one of next week’s calls?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401010524",
+    "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-16T22:41:19Z",
+   "updated_at": "2022-11-16T22:41:19Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Thanks so much Gideon for this open hearted convo <img alt=\":white_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_heart.png?v=10\" title=\":white_heart:\"/><br/>\nWe are already chatting about many things you mentioned here, so I just want to express my gratitude and commitment to moving forward <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401010524",
+    "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-12-01T20:27:47Z",
+   "updated_at": "2022-12-01T20:27:47Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Thank you both for this open exchange and sharing deep and personal insights with the community. I’m coming to believe that this is the difference between collaboration and mere cooperation. It speaks to the high trust environment that emerges as each individual contributor grows beyond and above their perspectives, together.</p>\n<p>Consensus means feeling together. There’s no way (yet) that any sensing device can reach this level, yet I can see how you model regenerative ways of working together - from which both environment and algorithm designers as well as participants can learn. <img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=10\" title=\":dove:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401010524",
+    "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221126222408",
+   "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126222408",
+   "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401010524",
+   "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401010524",
+   "url": "https://forum.tecommons.org/t/a-public-apology/1173"
+  }
+ ]
+}

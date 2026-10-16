@@ -1,0 +1,67 @@
+{
+ "id": 606,
+ "title": "Allow TEC to be Lent and Borrowed - TEC x AGAVE",
+ "slug": "allow-tec-to-be-lent-and-borrowed-tec-x-agave",
+ "posts_count": 0,
+ "category_id": 28,
+ "created_at": "2021-09-06T19:10:08.225Z",
+ "last_posted_at": "2021-09-06T19:10:08.468Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-09-06T19:10:08Z",
+ "captured_between": [
+  "2021-09-28T02:24:52Z",
+  "2023-05-30T08:53:09Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-06T19:10:08Z",
+   "updated_at": "2021-12-02T14:56:51Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#context-1\" name=\"context-1\"></a>Context</h2>\n<p>The <a href=\"https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574\">Tam-Zepti proposal</a> for making an initial buy into our own bonding curve ignited further explorations into possible economic and inter-DAO opportunities for the TEC. Coincidentally, after much anticipation, the AGAVE platform launched shortly thereafter. AGAVE, an offshoot from 1hive, is a protocol built on xDAI for Borrowing and Lending various types of token assets. I saw this as a perfect opportunity to seize the momentum and build on the soft-conensus we found around exploring all the possibilities laid out before us, given the success of the Hatch.</p>\n<p><strong>We arranged a meeting on September 6, 2021</strong> with representatives of the TEC and AGAVE and after fruitful discussion I can come forward with three opportunities for us to collaborate with AGAVE and provide economic benefit for the TEC. I will draft three different posts to allow us to accurately discuss and iterate on each proposal.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-3-list-tec-on-agave-allowing-it-to-be-lent-and-borrowed-2\" name=\"proposal-3-list-tec-on-agave-allowing-it-to-be-lent-and-borrowed-2\"></a>Proposal <span class=\"hashtag\">#3</span> - List TEC on AGAVE, allowing it to be Lent and Borrowed</h2>\n<p>As of launch, <a href=\"https://app.agave.finance/#/markets\">AGAVE has a few classic pools</a> for lending and borrowing assets but their vision for the future is to become much more dynamic and allow a variety of unique assets to form collateral bases on their platform. Listing the TEC on their platform allows a variety of unique interactions to be made with our token that can provide new use-cases  thus, <strong>increasing the economic utility and perceived value of the TEC token</strong>.</p>\n<p>There are some important technical challenges that need to be overcome in order to make this proposal possible. Chainlink is currently the oracle used to whitelist tokens that AGAVE can use, this is important for reliable token data. In order to be whitelisted a token must be listed on multiple DEXs with frankly unfeasible amounts of daily volume. So the challenge lies with the AGAVE team to build technical solutions for oracle data so they can move away from Chainlink and become more self-reliant and dynamic. <strong>The TE Community has a chance to imply themselves in this process and help build this application in collaboration with AGAVE</strong>.</p>\n<p>To consider:</p>\n<ul>\n<li>What are the use-cases for borrowing and lending TEC tokens?</li>\n<li>How does the Commons benefit from this?</li>\n<li>Are we willing to commit resources to help AGAVE find solutions?</li>\n<li>Do we deposit our own TEC as collateral? How much?</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#opening-the-discussion-3\" name=\"opening-the-discussion-3\"></a>Opening the Discussion</h3>\n<p>This is not something that can be implemented in the near-medium term but worth exploring. There is definitely a ton of research that could be done around this proposal. Exploring new avenues of token economics by collaborating with protocols, I feel is a strong component of what the Token Engineering Commons is about.  I’d like to open up the discussion here and I would love to hear from a token engineering perspective any further ideas or perspectives around this proposal!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085309",
+    "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928022452",
+   "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928022452",
+   "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124042346",
+   "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124042346",
+   "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530085309",
+   "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530085309",
+   "url": "https://forum.tecommons.org/t/allow-tec-to-be-lent-and-borrowed-tec-x-agave/606"
+  }
+ ]
+}

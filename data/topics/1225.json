@@ -1,0 +1,72 @@
+{
+ "id": 1225,
+ "title": "TEC Rewards Distribution - Round 29",
+ "slug": "tec-rewards-distribution-round-29",
+ "category_id": 31,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2023-03-23T15:12:44Z",
+ "last_archived_post_at": "2023-03-23T15:15:13Z",
+ "captured_between": [
+  "2023-05-30T08:22:38Z",
+  "2023-12-10T23:44:41Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2023-03-23T15:12:44Z",
+   "updated_at": "2023-10-26T19:59:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#tec-rewards-distribution-round-29-130223-to-090323-1\" name=\"tec-rewards-distribution-round-29-130223-to-090323-1\"></a>TEC Rewards Distribution - round-29  - 13/02/23 to 09/03/23</h1>\n<p>This period covers praise given between <strong>13 February 2023 and 09 March 2023</strong>. We allocated <strong>131.6087353</strong> TEC tokens for rewards, using our new distribution system which boosts non-paid contributors. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.</p>\n<p>Out of the total rewards:</p>\n<ul>\n<li>90% of the tokens were given as praise rewards <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/>\n</li>\n<li>7% distributed among quantifiers <img alt=\":balance_scale:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/balance_scale.png?v=12\" title=\":balance_scale:\" width=\"20\"/>\n</li>\n<li>3% assigned to the reward board <img alt=\":memo:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/memo.png?v=12\" title=\":memo:\" width=\"20\"/>\n</li>\n</ul>\n<p>This data has been reviewed by the Quantifiers and the Reward Board, and has been submitted for distribution to the <a href=\"https://xdai.aragon.blossom.software/#/rewardboardtec/\" rel=\"noopener nofollow ugc\">Reward Board DAO</a></p>\n<p>You can check out the <a href=\"https://rawcdn.githack.com/0xNuggan/tec-rewards/510ee3fdbcf8eddd7352a60ecaeb23452694d40e/distribution_rounds/round-29/distribution_results/reports/round-29--general-round-analysis-report.html\" rel=\"noopener nofollow ugc\">full period analysis here</a>. <img alt=\":bar_chart:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/bar_chart.png?v=12\" title=\":bar_chart:\" width=\"20\"/></p>\n<p>This post will be open to the community for review for 48 hours then submitted to the Reward Board for final execution. <img alt=\":heavy_check_mark:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/heavy_check_mark.png?v=12\" title=\":heavy_check_mark:\" width=\"20\"/></p>\n<p>The Rewards Distribution for this round is as follows:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Username</th>\n<th style=\"text-align:right\">Rewards in TEC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">Marathonmind#3078</td>\n<td style=\"text-align:right\">19.39430366</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">JHennyArt#2106</td>\n<td style=\"text-align:right\">10.12338603</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">natesuits#4789</td>\n<td style=\"text-align:right\">4.825903884</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">danlessa#2831</td>\n<td style=\"text-align:right\">9.327921601</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">bear100#9085</td>\n<td style=\"text-align:right\">4.599183567</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">roro#1166</td>\n<td style=\"text-align:right\">7.449381834</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">divine_comedian#5493</td>\n<td style=\"text-align:right\">5.198372975</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">acidlazzer#5796</td>\n<td style=\"text-align:right\">3.20647305</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">itsyaboi#2591</td>\n<td style=\"text-align:right\">5.765173767</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">GideonRo#3175</td>\n<td style=\"text-align:right\">5.765173767</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">r-x-x#8344</td>\n<td style=\"text-align:right\">2.513964841</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">BiancaGadelha#2667</td>\n<td style=\"text-align:right\">1.327933283</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">EFRA#7972</td>\n<td style=\"text-align:right\">1.624408174</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Zeptimus#3359</td>\n<td style=\"text-align:right\">0.9392698834</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Isaac (enti)<span class=\"hashtag\">#1546</span>\n</td>\n<td style=\"text-align:right\">1.516114296</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">lee0007#8152</td>\n<td style=\"text-align:right\">1.461967357</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">missing username</td>\n<td style=\"text-align:right\">0.889557</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">missing username</td>\n<td style=\"text-align:right\">0.889557</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Juankbell#7458</td>\n<td style=\"text-align:right\">0.3562747834</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">durgadas#9280</td>\n<td style=\"text-align:right\">0.3562747834</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">metaverde#2503</td>\n<td style=\"text-align:right\">0.7125495667</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Nikola Creatrix#5026</td>\n<td style=\"text-align:right\">0.7125495667</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231210234441",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-29/1225"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2023-03-23T15:15:13Z",
+   "updated_at": "2023-03-23T15:15:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>The ten highest rated contributions for this round were the following:</strong></p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Avg.Score</th>\n<th>To</th>\n<th style=\"text-align:right\">Reason</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">36.0</td>\n<td>danlessa#2831</td>\n<td style=\"text-align:right\">for his incredible support in writing the TE Stakeholder Study proposal. Danilo was proactive and generous with his time and knowledge and brought so much quality to our process which will directly impact the results if the proposals is approved.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">28.75</td>\n<td>roro#1166</td>\n<td style=\"text-align:right\">for a very good article on using both Machinations and cadCAD in the TE process <a class=\"inline-onebox\" href=\"https://medium.com/@e4rohan/a-conversion-guide-for-machinations-and-cadcad-ca94ccdea174\" rel=\"noopener nofollow ugc\">A Conversion Guide for Machinations and CadCAD | by Rohan Mehta | Feb, 2023 | Medium</a>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">23.5</td>\n<td>Marathonmind#3078</td>\n<td style=\"text-align:right\">for hosting a really interesting twitter space about the Reputation Research Group, well done team!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">22.57</td>\n<td>Marathonmind#3078</td>\n<td style=\"text-align:right\">for presenting in the Rewards Systems Open Research Group Twitter Spaces where we covered Reputation &amp; Expertise within web3. Thanks again for an amazing conversation and education session!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">22.25</td>\n<td>itsyaboi#2591</td>\n<td style=\"text-align:right\">for shipping the final version of the praise quantifier and getting it live on youtube!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">18.25</td>\n<td>divine_comedian#5493</td>\n<td style=\"text-align:right\">organizing the quantifier session, walking me through Praise’s analytics and answering all my questions - I learned a lot and it was amazing!! <img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">17.0</td>\n<td>natesuits#4789</td>\n<td style=\"text-align:right\">for hosting a really interesting twitter space about the Reputation Research Group, well done team!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">17.0</td>\n<td>bear100#9085</td>\n<td style=\"text-align:right\">for an awesome work-session on developing a comprehensive framework for a reputation system for the TE Community.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">15.75</td>\n<td>JHennyArt#2106</td>\n<td style=\"text-align:right\">for hosting a really interesting twitter space about the Reputation Research Group, well done team!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">15.0</td>\n<td>GideonRo#3175</td>\n<td style=\"text-align:right\">for his nonstop support and kindness. It’s an absolute honor to work with someone so genuine.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231210234441",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-29/1225"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530082238",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-29/1225"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530082238",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-29/1225"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210234441",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-29/1225"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231210234441",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-29/1225"
+  }
+ ]
+}

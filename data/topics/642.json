@@ -1,0 +1,137 @@
+{
+ "id": 642,
+ "title": "Let's talk about Treasury Management",
+ "slug": "lets-talk-about-treasury-management",
+ "category_id": 5,
+ "posts_count": 6,
+ "created_at": "2021-09-30T17:22:25.944Z",
+ "last_posted_at": "2021-10-04T01:37:38.455Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-10-04T01:37:38Z",
+ "captured_between": [
+  "2021-10-25T10:37:23Z",
+  "2023-05-30T08:01:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-30T17:22:26Z",
+   "updated_at": "2021-09-30T17:27:52Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>After the Agave debate, the feeling I had from the community is that it wants to diversify our treasury with different strategies which I strongly agree with. In my opinion, holding all your savings in stables has even more risks than diversification in the long run, especially those days. (Our strategies are limited to the crypto space sadly as far as I know.)</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/93213d53d3cd520d74b4586a2463ce069a5e684f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/93213d53d3cd520d74b4586a2463ce069a5e684f.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"kZzp1nKPl7xC3rHDOv2RNeu1H7p\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/93213d53d3cd520d74b4586a2463ce069a5e684f_2_10x10.png\" height=\"196\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/93213d53d3cd520d74b4586a2463ce069a5e684f_2_349x196.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/93213d53d3cd520d74b4586a2463ce069a5e684f_2_349x196.png, https://forum.tecommons.org/uploads/default/optimized/1X/93213d53d3cd520d74b4586a2463ce069a5e684f_2_523x294.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/93213d53d3cd520d74b4586a2463ce069a5e684f_2_698x392.png 2x\" width=\"349\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1024×576 348 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>The goal of this forum thread is to present some treasury management tools after some research on this topic and debate which one fits more with our values. Also present more tools that could be missed on this thread.</p>\n<ol>\n<li>Hedgey</li>\n</ol>\n<p>Hedgey is a platform that makes treasury management easier since it gives an interface. It’s a protocol powered by Uniswap’s liquidity, oracles, and flash swaps. It’s a breakthrough in decentralized financial derivatives (DeFiDe).</p>\n<p>You can manage the money as an individual or as a DAO (Gnosis Safe multisig compatible) and inside the platform you can do many things such as stop loss, buy the token before it happen its price falls (buy orders, sell orders etc), speculate on DeFi and also fund some projects (buy tokens early on).</p>\n<p>Their contracts are not audited.</p>\n<p>Resources:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://parachutetoken.medium.com/part-1-introducing-hedgey-finance-31241c58a66a\">\n<header class=\"source\">\n<a href=\"https://parachutetoken.medium.com/part-1-introducing-hedgey-finance-31241c58a66a\" rel=\"noopener\" target=\"_blank\" title=\"02:29PM - 19 July 2021\">Medium – 19 Jul 21</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/388;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/0751ed3ff244a9b355467258033711acbf782e86_2_10x10.png\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/0751ed3ff244a9b355467258033711acbf782e86_2_690x388.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/0751ed3ff244a9b355467258033711acbf782e86_2_690x388.png, https://forum.tecommons.org/uploads/default/optimized/1X/0751ed3ff244a9b355467258033711acbf782e86_2_1035x582.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/0751ed3ff244a9b355467258033711acbf782e86.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://parachutetoken.medium.com/part-1-introducing-hedgey-finance-31241c58a66a\" rel=\"noopener\" target=\"_blank\">Part 1: Introducing Hedgey Finance</a></h3>\n<p>Today we’re launching a new frontier for DeFi: Decentralized options trading. It’s Uniswap meets RobinHood.</p>\n<p>\n<span class=\"label1\">Reading time: 5 min read</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://app.hedgey.finance/portfolio\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7fa7d9fe3583890d90ff84788c0d97f720a07ee5.png\" width=\"32\"/>\n<a href=\"https://app.hedgey.finance/portfolio\" rel=\"noopener\" target=\"_blank\">app.hedgey.finance</a>\n</header>\n<article class=\"onebox-body\">\n<h3><a href=\"https://app.hedgey.finance/portfolio\" rel=\"noopener\" target=\"_blank\">Hedgey | Decentralized Options Trading</a></h3>\n<p>Hedgey lets anyone trade options on any decentralized asset using its unique DeFiDe protocol.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<ol start=\"2\">\n<li>Zodiac</li>\n</ol>\n<p>Zodiac calls themselves the expansion pack for DAOs and it’s an app for progressive decentralization.</p>\n<p>They launched four tools available through the Zodiac App on <a href=\"https://gnosis-safe.io/\">Gnosis Safe</a>. These are Exit, Bridge, and Delay, which join Reality in the Zodiac collection of tools.</p>\n<p>The philosophy of Zodiac is to support DAOs on the road to progressive decentralization. This philosophy decouples avatars from decision making, meaning those practices surrounding governance, membership, and treasury management can be customized independently of the affordances of any of the tools a DAO uses.</p>\n<p>They use an example to illustrate that in their article: “When the community grows rapidly, developing many centers of activity through their token-enabled Discord, and one central team managing their Gnosis Safe becomes less than ideal. They decide to use Reality, allowing both off-chain Snapshot proposals and Discord polls to trigger on-chain Gnosis Safe transactions that anyone in the community can execute.”</p>\n<p>Tools for progressive decentralization:</p>\n<h3>\n<a class=\"anchor\" href=\"#avatars-1\" name=\"avatars-1\"></a>Avatars</h3>\n<ul>\n<li>\n<a href=\"https://gnosis-safe.io/\">Gnosis Safe</a>: The most trusted platform for managing digital assets on Ethereum (available on xdai). Zodiac embraces Gnosis Safe as a powerful, extensible and programmable account standard. However, all Zodiac tools are framework agnostic, and they can be plugged into any programmable account that implements the <a href=\"https://github.com/gnosis/zodiac/blob/master/contracts/interfaces/IAvatar.sol\">IAvatar</a> interface.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#modules-2\" name=\"modules-2\"></a>Modules</h3>\n<ul>\n<li>\n<a href=\"https://gnosis.github.io/zodiac/docs/tutorial-module-reality/get-started\">Reality</a> (formerly SafeSnap): This module allows on-chain execution based on the outcome of events reported by the <a href=\"https://reality.eth.link/\">Reality.eth</a> oracle. While built initially to execute Gnosis Safe transactions according to Snapshot proposals, this module is framework agnostic. It can enable proposal execution from just about anywhere. For example, it can bring Discord polls on-chain.</li>\n<li>\n<a href=\"https://gnosis.github.io/zodiac/docs/tutorial-module-bridge/get-started\">Bridge</a>: This module allows an address on one chain to control an avatar on another chain using an Arbitrary Message Bridge (AMB). This enables a DAO on one chain to control assets and interact with systems like a Gnosis Safe on a different chain.</li>\n<li>\n<a href=\"https://gnosis.github.io/zodiac/docs/tutorial-module-exit/get-started\">Exit</a>: This module allows participants to redeem a designated token for a proportional share of an avatar’s digital assets, similar to Moloch DAO’s <a href=\"https://twitter.com/molochdao/status/1115451404242436098\">rageQuit()</a> function.</li>\n<li>\n<a href=\"https://daohaus.substack.com/p/6991f40b-3931-47ff-bea3-fa6f9c365135\">Safe Minion</a> (developed by <a href=\"https://daohaus.club/\">DAOHaus</a>): This module allows Moloch DAOs to manage Gnosis Safe’s digital assets based on the outcome of v2 Moloch DAO proposals. Safe Minion enables Moloch DAOs to control collections of NFTs, manage LP positions with AMMs, and initiate any other arbitrary interactions. Even more, it supports DAOs that begin as a Gnosis Safe to later delegate governance to a Moloch DAO.</li>\n<li>\n<a href=\"https://github.com/TokenWalk/Seele\">Seele</a> (developed by <a href=\"https://www.tokenwalk.org/\">TokenWalk</a>): This module allows avatars to operate with trustless tokenized DeGov, similar to Compound or Gitcoin, with a time-boxed proposal core that can register swappable voting contracts. This enables DAOs to choose from various on-chain voting methods that best suit their needs.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#modifiers-3\" name=\"modifiers-3\"></a>Modifiers</h3>\n<ul>\n<li>\n<a href=\"https://gnosis.github.io/zodiac/docs/tutorial-modifier-delay/get-started\">Delay</a>: This modifier allows avatars to enforce a time delay between when a module initiates a transaction and when it can be executed by an avatar.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#guards-4\" name=\"guards-4\"></a>Guards</h3>\n<ul>\n<li>\n<a href=\"https://github.com/gnosis/zodiac-guard-scope\">Scope</a>: This guard allows an avatar or module to limit the scope of the functions with which it can interact. This enables a DAO to define granular permissions for different control mechanisms.</li>\n</ul>\n<p>Resources: <a class=\"inline-onebox\" href=\"https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg\">Zodiac: The expansion pack for DAOs — Mirror</a></p>\n<ol start=\"3\">\n<li>Treasury management in Gardens</li>\n</ol>\n<p>If in the future we upgrade to a garden, which is expected, we could follow the route of managing our treasury with just Conviction Voting. Anyone could ask for funds for whatever reason that follows the Covenant. For example, the Reward DAO could ask for funds and those would be managed as this sub-DAO feels for an accurate and effective management of the Common Pool fund available with Conviction Voting. In my opinion, it’s extremely important to have radical transparency and mutual monitoring on how funds are being used on those sub-DAOs.</p>\n<p>Sem goes very deeply into it on this thread, <a class=\"inline-onebox\" href=\"https://forum.1hive.org/t/treasury-management-in-gardens/4411\">Treasury management in Gardens - 🔥Swarms - 1Hive</a></p>\n<p>Options 1 and 2 would work together with Gardens as an extension, meanwhile Option 3 would mean the community prefers to keep being more decentralized. Also the difference between a sub-DAO or a WG multisig vs a treasury management multisig would be the amount of funds each of those would hold (that should be discussed in another topic, I would love we focus on the process here).</p>\n<p>!praise <a class=\"mention\" href=\"/u/shawn\">@shawn</a> <a class=\"mention\" href=\"/u/sem\">@sem</a> <a class=\"mention\" href=\"/u/blazingthirdeye\">@blazingthirdeye</a> <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530080100",
+    "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-30T17:23:00Z",
+   "updated_at": "2021-09-30T17:23:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>My favorite option would be something similar to Yearn Vault’s structure. I simply love it but sadly from what I know it’s not available on xdai. But their community members can propose different strategies that have a duration in time chosen by the strategy creator and the token holders vote between those strategies. The creator of the strategy gets an extra % on profits so that incentives build strategies. If something similar would be possible we could split % on vaults and have different strategies to diversify risk. It would be so nice to develop something similar on xdai.</p>\n<p>But coming back to what is more feasible I would support Option 2. I really hate centralizing our processes but I hate even more to get stuck in USD (DAI) - with the inflation we already have and the one I feel is to come and we will have enough of it on our reserve for the ABC.</p>\n<p>The way I would handle the multisig would be skin in the game. If for example we decide to go with a 5/6 multisig it should be the top 6 holders. At the end of the day, the CSTK score allowed those Hatchers to buy this amount of tokens so they are the most trusted members in our community according to our processes. The multisig crew should agree to replicate any decision the community makes (their function is limited to that)  when their action is needed and they should be compensated for that. And in my opinion for example if someone says I’m too busy for it he should choose someone of his trust to handle it.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530080100",
+    "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-30T18:39:14Z",
+   "updated_at": "2021-09-30T18:39:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I want to also throw out OlympusDAO!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530080100",
+    "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2021-09-30T22:04:25Z",
+   "updated_at": "2021-09-30T22:04:25Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I agree that spinning up a xDai native yearn fork is somewhat unrealistic. Also, developing/managing strategies etc is a lot of work and very exposed to different kinds of risk.</p>\n<p>If we wanted to go the route of actually having the treasury out there yield farming, I think it would be probably safer to just use yearn itself: a Zodiac avatar on mainnet controlled from xDai through the Bridge module.  We could even set strict limits to what that avatar can do with the Guard, so it just isn’t a multisig.</p>\n<p>Right now that may be expensive, but AFAIK yearn is going to be on zkSync on launch, so the price would stop being a problem, specially if we just bridge from time to time to “top-up” on xDai to fund current affairs.</p>\n<p>But I’m unsure how well all that would mix with gardens…</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530080100",
+    "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-03T20:44:14Z",
+   "updated_at": "2021-10-03T20:44:14Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Nuggan and I played around with Gnosis Safe today and I would definitely recommend using it for a sub DAO that manages the treasury. It has nice features for interacting with dapps on xDAI and the multisig feature works well, the UI is intuitive and there’s a range of extensions and apps we can opt-in and opt-out of.</p>\n<p>I realize that it is not the most decentralized choice but it allows us to be agile and provides the greatest amount of options on a platform that has been thoroughly battle-tested.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530080100",
+    "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-10-04T01:37:38Z",
+   "updated_at": "2021-10-04T01:37:38Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Excellent discussion and write up of this issue Zepti.  Thanks for doing the research and sharing the results.  I also favor option 2.  Or 2 &amp; 3 together.  Gnosis has a solid reputation.  We probably want to be conservative in our approach since without a treasury we are done for.</p>\n<p>Process is important and we should use it as Zepti states.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530080100",
+    "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211025103723",
+   "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025103723",
+   "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080100",
+   "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530080100",
+   "url": "https://forum.tecommons.org/t/lets-talk-about-treasury-management/642"
+  }
+ ]
+}

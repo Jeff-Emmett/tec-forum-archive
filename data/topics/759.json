@@ -1,0 +1,50 @@
+{
+ "id": 759,
+ "title": "Montaña Rusa: The Communist Roller-Coaster v2",
+ "slug": "montana-rusa-the-communist-roller-coaster-v2",
+ "category_id": 7,
+ "posts_count": 1,
+ "created_at": "2021-12-19T20:57:02.164Z",
+ "last_posted_at": "2021-12-19T20:57:02.490Z",
+ "tags": [
+  "advice-process"
+ ],
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-12-19T20:57:02Z",
+ "captured_between": [
+  "2022-01-24T04:37:41Z",
+  "2022-01-24T04:37:41Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-12-19T20:57:02Z",
+   "updated_at": "2021-12-19T21:06:11Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’m nominating Montaña Rusa: The Communist Roller-Coaster v2 for your consideration. I’d like to start with a meme that summarizes the intention behind this proposal:</p>\n<p><strong>The TE Commons</strong>:<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/be6d274b948e859d2bb7749f999700a3b0823fbb\" href=\"https://forum.tecommons.org/uploads/default/original/1X/be6d274b948e859d2bb7749f999700a3b0823fbb.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"raAzWgzzjXLwqYgT2LkWliMryFt\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/be6d274b948e859d2bb7749f999700a3b0823fbb_2_10x10.png\" height=\"387\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/be6d274b948e859d2bb7749f999700a3b0823fbb_2_690x387.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/be6d274b948e859d2bb7749f999700a3b0823fbb_2_690x387.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/be6d274b948e859d2bb7749f999700a3b0823fbb_2_1035x580.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/be6d274b948e859d2bb7749f999700a3b0823fbb_2_1380x774.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">3920×2204 1.14 MB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>The ABC</strong>:<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/eb208cf01b02277986bbe015c1902d363ba5ab8f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/eb208cf01b02277986bbe015c1902d363ba5ab8f.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"xy1WzFuZWRTVTUdx67l3U5hCVc3\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/eb208cf01b02277986bbe015c1902d363ba5ab8f_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/eb208cf01b02277986bbe015c1902d363ba5ab8f_2_682x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/eb208cf01b02277986bbe015c1902d363ba5ab8f_2_682x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/eb208cf01b02277986bbe015c1902d363ba5ab8f_2_1023x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/eb208cf01b02277986bbe015c1902d363ba5ab8f_2_1364x1000.jpeg 2x\" width=\"682\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">2500×1831 1.63 MB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h1>\n<a class=\"anchor\" href=\"#summary-1\" name=\"summary-1\"></a>Summary</h1>\n<p>This proposal was born as a fork of TEC Casino and The Bolshevik’s Gambit. The approach is simple: Let’s give the market what they want! BUT… Let’s empower the TEC with 1M wxDai for funding initial proposals!</p>\n<p>A low (not so much!) reserve ratio will let us start with volatile conditions that will promote interactions with the bonding curve, generating income to the common pool with a starting entry tribute of 8% and an exit tribute of 2%.</p>\n<p>Once the token freeze period ends after 4 months and secondary markets develop, the tributes should be re-adjusted to an even 5% each.</p>\n<h3>\n<a class=\"anchor\" href=\"#module-1-token-freeze-token-thaw-2\" name=\"module-1-token-freeze-token-thaw-2\"></a>Module 1: Token Freeze &amp; Token Thaw</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Token Freeze</td>\n<td>16 Weeks</td>\n</tr>\n<tr>\n<td>Token Thaw</td>\n<td>88 Weeks</td>\n</tr>\n<tr>\n<td>Opening Price</td>\n<td>0.95 wxDAI</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-2-augmented-bonding-curve-3\" name=\"module-2-augmented-bonding-curve-3\"></a>Module 2: Augmented Bonding Curve</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Tribute</td>\n<td>77.00%</td>\n</tr>\n<tr>\n<td>Entry Tribute</td>\n<td>8.00%</td>\n</tr>\n<tr>\n<td>Exit Tribute</td>\n<td>2.00%</td>\n</tr>\n<tr>\n<td>*<em>Reserve Ratio</em>\n</td>\n<td>15.61%</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-3-tao-voting-4\" name=\"module-3-tao-voting-4\"></a>Module 3: Tao Voting</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Support Required</td>\n<td>88%</td>\n</tr>\n<tr>\n<td>Minimum Quorum</td>\n<td>8%</td>\n</tr>\n<tr>\n<td>Vote Duration</td>\n<td>6.5 day(s)</td>\n</tr>\n<tr>\n<td>Delegated Voting Period</td>\n<td>3.5 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Period</td>\n<td>1 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Extension</td>\n<td>2.5 day(s)</td>\n</tr>\n<tr>\n<td>Execution Delay</td>\n<td>1 day(s)</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-4-conviction-voting-5\" name=\"module-4-conviction-voting-5\"></a>Module 4: Conviction Voting</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Conviction Growth</td>\n<td>14 day(s)</td>\n</tr>\n<tr>\n<td>Minimum Conviction</td>\n<td>3.0%</td>\n</tr>\n<tr>\n<td>Spending Limit</td>\n<td>16.0%</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124043741",
+    "url": "https://forum.tecommons.org/t/montana-rusa-the-communist-roller-coaster-v2/759"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124043741",
+   "url": "https://forum.tecommons.org/t/montana-rusa-the-communist-roller-coaster-v2/759"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124043741",
+   "url": "https://forum.tecommons.org/t/montana-rusa-the-communist-roller-coaster-v2/759"
+  }
+ ]
+}

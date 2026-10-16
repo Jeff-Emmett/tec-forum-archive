@@ -1,0 +1,47 @@
+{
+ "id": 742,
+ "title": "Reserve ratio matters, change my mind for TEC Commons Config!",
+ "slug": "reserve-ratio-matters-change-my-mind-for-tec-commons-config",
+ "category_id": 7,
+ "posts_count": 1,
+ "created_at": "2021-12-15T23:34:51.983Z",
+ "last_posted_at": "2021-12-15T23:34:52.688Z",
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-12-15T23:34:52Z",
+ "captured_between": [
+  "2022-01-24T02:38:36Z",
+  "2022-01-24T02:38:36Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-12-15T23:34:52Z",
+   "updated_at": "2021-12-15T23:34:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I am announcing my nomination for <a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/123\">Reserve ratio matters, change my mind</a><br/>\n<img alt=\"image\" data-base62-sha1=\"4PYMuvdGOvbdNmueuhyJfFM9D4k\" height=\"432\" src=\"https://forum.tecommons.org/uploads/default/original/1X/21e8eb236844fb1be122236f531d8dc284d9ac80.jpeg\" width=\"577\"/></p>\n<p>Most of the proposals on the community have a pretty low reserve ratio (under 25%) that means we would end up with some big problems like fear of hatchers selling, since there is not enough liquidity at a good price to everyone. And one of the biggest concerns i have low reserve coins it’s there is no way to get more governance that the hatchers, do we wanna create a TE economy or a hatchers economy those are different games. The strategy overall it’s playing middle ground numbers so every part of the economy can live in harmony with each other. Hatchers will feel rewarded, speculators are welcome to come and play (not as hard as the casino, but we are not punishing them at all). Builders will have a stable economy, and they won’t fear so much having some savings on TEC.</p>\n<h1>\n<a class=\"anchor\" href=\"#module-1-token-freeze-and-token-thaw-1\" name=\"module-1-token-freeze-and-token-thaw-1\"></a>Module 1: Token Freeze and Token Thaw</h1>\n<h3>\n<a class=\"anchor\" href=\"#strategy-2\" name=\"strategy-2\"></a>Strategy:</h3>\n<p>Low opening price so we can have a healthy economy with a high reserve and good amount of the common pool. There is a little more than a year of vesting to show people from outside, we are connected with our economy</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Token Freeze</td>\n<td>32 Weeks</td>\n</tr>\n<tr>\n<td>Token Thaw</td>\n<td>26 Weeks</td>\n</tr>\n<tr>\n<td>Opening Price</td>\n<td>1.05 wxDAI</td>\n</tr>\n</tbody>\n</table>\n</div><h1>\n<a class=\"anchor\" href=\"#module-2-augmented-bonding-curve-abc-3\" name=\"module-2-augmented-bonding-curve-abc-3\"></a>Module 2: Augmented Bonding Curve (ABC)</h1>\n<h3>\n<a class=\"anchor\" href=\"#strategy-4\" name=\"strategy-4\"></a>Strategy:</h3>\n<p>Money in the common pool it’s going to be a bit limited compared to other proposals, but it’s good enough to start working and feel the pressure of creating inflows on the economy.<br/>\nLow entry and exit tribute to incentives speculation and arbitrage opportunities that funds TE public goods</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Tribute</td>\n<td>50.00%</td>\n</tr>\n<tr>\n<td>Entry Tribute</td>\n<td>0.75%</td>\n</tr>\n<tr>\n<td>Exit Tribute</td>\n<td>0.75%</td>\n</tr>\n<tr>\n<td>*<em>Reserve Ratio</em>\n</td>\n<td>30.70%</td>\n</tr>\n</tbody>\n</table>\n</div><h1>\n<a class=\"anchor\" href=\"#module-3-tao-voting-5\" name=\"module-3-tao-voting-5\"></a>Module 3: Tao Voting</h1>\n<h3>\n<a class=\"anchor\" href=\"#strategy-6\" name=\"strategy-6\"></a>Strategy:</h3>\n<p>If you look at our hatch params support gets a bit lower because our community will be open and 75% its a high majority and quorum 15% we will have delegated voting and we have a strong coordinate community.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Support Required</td>\n<td>75%</td>\n</tr>\n<tr>\n<td>Minimum Quorum</td>\n<td>15%</td>\n</tr>\n<tr>\n<td>Vote Duration</td>\n<td>7 day(s)</td>\n</tr>\n<tr>\n<td>Delegated Voting Period</td>\n<td>4 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Period</td>\n<td>0.5 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Extension</td>\n<td>2 day(s)</td>\n</tr>\n<tr>\n<td>Execution Delay</td>\n<td>0.5 day(s)</td>\n</tr>\n</tbody>\n</table>\n</div><h1>\n<a class=\"anchor\" href=\"#module-4-conviction-voting-7\" name=\"module-4-conviction-voting-7\"></a>Module 4: Conviction Voting</h1>\n<h3>\n<a class=\"anchor\" href=\"#strategy-8\" name=\"strategy-8\"></a>Strategy:</h3>\n<p>CV probably it’s a bit hard to pass proposals, so we use money wisely.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Conviction Growth</td>\n<td>15 day(s)</td>\n</tr>\n<tr>\n<td>Minimum Conviction</td>\n<td>2.0%</td>\n</tr>\n<tr>\n<td>Spending Limit</td>\n<td>13.0%</td>\n</tr>\n</tbody>\n</table>\n</div><p>If you wanna see a balanced economy where all the economy agents are taking into account join the fight for a higher reserve ratio, i know proposals will be harder to pass but lets work as a community on our inflows having a good common pool with low reserve is not a long term solution its just taking care of the first year and paying a high price for it. This way we will use our resources more wisely vote for <small>(<span class=\"hashtag\">#123</span>)</small>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124023836",
+    "url": "https://forum.tecommons.org/t/reserve-ratio-matters-change-my-mind-for-tec-commons-config/742"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124023836",
+   "url": "https://forum.tecommons.org/t/reserve-ratio-matters-change-my-mind-for-tec-commons-config/742"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124023836",
+   "url": "https://forum.tecommons.org/t/reserve-ratio-matters-change-my-mind-for-tec-commons-config/742"
+  }
+ ]
+}

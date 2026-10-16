@@ -1,0 +1,83 @@
+{
+ "id": 1311,
+ "title": "Introducing TEC Guardians",
+ "slug": "introducing-tec-guardians",
+ "category_id": 33,
+ "posts_count": 1,
+ "created_at": "2023-11-10T18:21:46.935Z",
+ "last_posted_at": "2024-04-18T02:14:22.382Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2024-04-18T02:14:22Z",
+ "captured_between": [
+  "2023-12-10T22:45:34Z",
+  "2024-08-15T14:38:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-11-10T18:21:47Z",
+   "updated_at": "2024-07-19T20:15:43Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#introduction-1\" name=\"introduction-1\"></a>Introduction</h1>\n<p>As part of the likely <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294\">migration of the TEC to Optimism</a>, it is important to share some of the thoughts and recommendations that the TECAN has been discussing regarding the purpose and role of the “Guardians” once the TEC has migrated to OP. We want to continue this conversation with the community for advice and further refinement of the proposal through this forum post.</p>\n<h1>\n<a class=\"anchor\" href=\"#about-guardians-2\" name=\"about-guardians-2\"></a>About Guardians</h1>\n<p>Celeste, the arbitration method for resolving proposal disputes, is not available on Optimism. However, the new Tao Voting DAO architecture used by <a href=\"https://dao.aragon.org/\">AragonDAO</a> has a mechanism in place to protect against proposals that might present an economic threat. This safeguard comes in the form of Guardians, who act as the final line of defense for the Commons. Their role is not to approve votes but to ensure the safety and security of the Commons by upholding its core principles through the ability to delay or veto proposals that violate the community’s covenant.</p>\n<h2>\n<a class=\"anchor\" href=\"#veto-process-3\" name=\"veto-process-3\"></a>Veto Process</h2>\n<p>Each individual Guardian possesses the authority to veto a proposal as well as the power to delay it. The Guardian veto process involves several key steps to ensure transparency and accountability. When a proposal is submitted, community members participate in a voting process. If the proposal fails to gain sufficient support, no further action is taken. However, if the proposal successfully passes the community vote, Guardians will have a 24-hour window within which they can exercise their delay or veto power. If they do, the Guardian is required to post an explanation on the forum, clarifying the reasons for taking that action.</p>\n<p>To enhance community engagement and enable constructive feedback, a clear process needs to be established for how community members can reach out to the Guardians and suggest the need for a veto. Given the short 24-hour time frame, the best option would be the quickest method available. For this, community members will be able to send direct messages to Guardians through Discord or Telegram, and/or create a forum post and tag them there.</p>\n<h1>\n<a class=\"anchor\" href=\"#guardian-dao-4\" name=\"guardian-dao-4\"></a>Guardian DAO</h1>\n<p>The elected Guardians become members of a Guardian DAO, an independent DAO from the TEC with a set of defined rules and parameters. The Guardians DAO consists of seven members, all of whom must be known and public.</p>\n<p>Guardians will be nominated via a self-nominating process (explained below) and elected by a Rank Choice vote on Snapshot. The top seven individuals will serve as Guardians and following three individuals will serve as “reservists”. The Guardian DAO should always maintain a total membership of seven so if the need arises to replace a Guardian, the next in line reservists will be called upon to fill the vacancy. If the reservists agree to the commitments of the role, they will become members of the Guardian DAO. If not, the next will be called upon. In the event that either none are able to serve or more than a year has passed since the last vote, a new self-nomination and election will take place. This will allow community members who have joined since the choice of serving.</p>\n<p>How can Guardians be forcibly removed, should that be deemed necessary? The Guardian DAO vote must reach a quorum of 40% (this means 3/7 guardians will need to vote), with a minimum support of 51%, to remove a member Guardian. Votes will be open for 31 days - long enough for it to certainly be seen by all of the Guardians. A vote that is tied will not succeed, hence the importance of maintaining a membership of seven</p>\n<h1>\n<a class=\"anchor\" href=\"#guardian-nomination-5\" name=\"guardian-nomination-5\"></a>Guardian Nomination</h1>\n<p>The process to elect new Guardians is community-driven and involves open nominations through a self-nomination process, followed by a Snapshot rank choice voting, to ensure a collective and transparent selection process that aligns with the community’s preferences.</p>\n<p>The suggested selection criteria for Guardians, both for the initial group and subsequent ones, is outlined below with the intention to bring transparency and accountability. To nominate oneself as a Guardian, we suggest certain requirements and commitments are met, including:</p>\n<p><em>Timeline:</em></p>\n<ul>\n<li>Nominations will be open between <strong>Nov 16 - 23</strong> via another forum post that will be shared on the 16th.</li>\n<li>The Snapshot vote will open on <strong>Nov 24.</strong>\n</li>\n</ul>\n<p><em>Eligibility requirements:</em></p>\n<ul>\n<li>Be a $TEC token holder for more than 6 months.</li>\n<li>To know and accept the responsibilities of being a TEC Guardian.</li>\n<li>Sign the Community Covenant <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\">here</a> and share the transaction details as proof. (When the Covenant is updated, you will need to read and sign it again in order to remain a Guardian.)</li>\n</ul>\n<p><em>Commitments:</em></p>\n<ul>\n<li>Pledge the Guardian oath.</li>\n<li>Regularly check the Guardian DAO for votes (about once a week) to prevent collusion by other members and to have a thorough understanding of the process to delay or block votes.</li>\n<li>Hold ETH on Optimism in order to participate in Guardian DAO votes.</li>\n</ul>\n<p><em>Template:</em></p>\n<p><strong>Name</strong>: [Your name]</p>\n<p><strong>Contact Information</strong>: [Discord/Telegram/Twitter/Email]</p>\n<p><strong>$TEC Holding Duration</strong>: [The number of months you have held TEC and the address where you hold them as on-chain proof]</p>\n<p><strong>Guardian Commitment</strong>: [Pledge this simple Guardian oath: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicions proposals and regularly checking the Guardian DAO votes.]</p>\n<p><strong>Community Covenant Commitment</strong>: [Add Covenant signature link]</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815143850",
+    "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2024-04-18T02:14:22Z",
+   "updated_at": "2024-04-18T02:25:19Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Interesting parallels with protectors/guardians of legal <a href=\"https://en.wikipedia.org/wiki/Protector_(trust)\" rel=\"noopener nofollow ugc\">trusts</a>. However, are the <strong>powers merely advisory</strong> or does the GuardianDAO have emergency intervention powers? I cite the situation of Loomio (kiwi <a href=\"https://www.loomio.com/d/EOLoBYiU/voting-abstention-and-political-rituals\" rel=\"noopener nofollow ugc\">voting</a>) which apart from</p>\n<ul>\n<li>yes/no (roman); also</li>\n<li>abstain = not yet convinced</li>\n<li>veto = have concerns</li>\n</ul>\n<p>Thus for the guardians to be more than a toothless court of appeal, TEC should define the circumstances in which a guardian exercising the discretionary powers of a veto (for a justifiable reason/rational) that may pause, return or even overturn a populist vote.</p>\n<p>Design of human protocols is non-trivial and given the importance of this and shakey status of DAOs on the verge of self-implosions, some careful thought has to going into how emergency protocols operate eg <a href=\"https://github.com/lexDAO/hackmd/blob/drllau-banklessDAO/Override/2024-04-09%201stResponder.md\" rel=\"noopener nofollow ugc\">first responder</a>.</p>\n<p>Some thoughts on legal mapping:</p>\n<ol>\n<li>assume some meta-power, the ability to change the rule to change the rule. This could be to make an existing bylaw immutable (fixed) or to relax a constraint making a previously hard&amp;fast threshold optional.</li>\n<li>have some form of threshold computing that implements such a 7+3 mechanism … (I admit my bias) and nominate a NZ Look-Through-Company (<a href=\"https://en.wikipedia.org/wiki/Look-through_company\" rel=\"noopener nofollow ugc\">LTC</a>) which by law is optimised for trustee management (and resulting legal standards under anglo-saxon law). This is injected into UK via the UK-NZ-free trade agreement and UK is the default home for international law disputes (residual benefits of being ex-colonialist).</li>\n<li>look at minimum effort to refactor the existing voting smart contracts to bake in the reserve powers.</li>\n</ol>\n<p>I would modify the above proposal that in additional to the majority vote (4/7) there must be a fifth member who is drawn from the reserves to specifically argue against exercising the veto. This 5th wheel acts as <a href=\"https://themindcollection.com/the-tenth-man-rule-devils-advocacy/\" rel=\"noopener nofollow ugc\">devil advocate</a> so even if the personal pref is to concur with the majority, there must be at least an <strong>attempt to search for countrary evidence</strong>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815143850",
+    "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231210224534",
+   "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210224534",
+   "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240424181422",
+   "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424181422",
+   "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815143850",
+   "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815143850",
+   "url": "https://forum.tecommons.org/t/introducing-tec-guardians/1311"
+  }
+ ]
+}

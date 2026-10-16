@@ -1,0 +1,94 @@
+{
+ "id": 1140,
+ "title": "Sybil resistance voting to enable safe quadratic voting or other mechanisms",
+ "slug": "sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms",
+ "category_id": 7,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2022-09-20T14:13:50Z",
+ "last_archived_post_at": "2022-09-28T19:04:37Z",
+ "captured_between": [
+  "2022-10-06T16:08:11Z",
+  "2022-10-06T16:08:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "zkportal",
+   "name": null,
+   "created_at": "2022-09-20T14:13:50Z",
+   "updated_at": "2022-09-20T14:13:50Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Dear all,</p>\n<p>I was wondering if you guys have a need for 1-person-1-vote protection against sybil attacks. This allows you to have proper quadratic voting. I saw on snapshot that you used quadratic voting in the past, which is susceptible to sybil attacks. While quadratic voting is the better voting strategy, you need to protect against sybil attacks and bots.</p>\n<p>If you agree, I would be curious to hear your feedback on a project I’m working on. At <a href=\"http://zkPortal.io\" rel=\"noopener nofollow ugc\">zkPortal.io</a> you can get a solution which does not require showing anyone your passport nor does it cost you anything. You can simply log in to your crypto exchange, after which a proof of the fact that you went through KYC at that platform is saved. Then you can use our snapshot strategy which guarantees sybil &amp; bot resistance.  Let me know what you think!</p>\n<p>Thanks</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221006160811",
+    "url": "https://forum.tecommons.org/t/sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms/1140"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-09-22T15:12:37Z",
+   "updated_at": "2022-09-22T15:12:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>That’s interesting, though I believe the fact that relies on CEX KYC doesn’t make it ideal for a lot of our members that prefer to stay completely anonymous. Just out of curiosity, would you mind explaining how is zero knowledge used there?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221006160811",
+    "url": "https://forum.tecommons.org/t/sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms/1140"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "zkportal",
+   "name": null,
+   "created_at": "2022-09-23T15:18:25Z",
+   "updated_at": "2022-09-23T15:18:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Could you clarify one thing for me, do you mean your users don’t have a CEX account or they don’t want to be identified? In our model your users would be pseudonymous but some kind of identification is inherent if you want to solve sybil attacks and that is partly why I am asking if this is of use to this community. By “re-using” KYC, we limit the privacy violations to a minimum e.g. not requiring passports or even iris scans again - but just a simple login from a trusted source and still allow for 1person-1vote models, quadratic voting, bot protection etc.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221006160811",
+    "url": "https://forum.tecommons.org/t/sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms/1140"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-09-28T19:04:37Z",
+   "updated_at": "2022-09-28T19:04:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>We don’t know whether our users have a KYC’ed account at any CEX and we generally don’t like to impose those things; so far for sybil resistance we’ve been using <a href=\"https://www.brightid.org/\">BrightID</a> which creates a p2p identity network that so far has been useful in preventing sybil attacks.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221006160811",
+    "url": "https://forum.tecommons.org/t/sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms/1140"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006160811",
+   "url": "https://forum.tecommons.org/t/sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms/1140"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006160811",
+   "url": "https://forum.tecommons.org/t/sybil-resistance-voting-to-enable-safe-quadratic-voting-or-other-mechanisms/1140"
+  }
+ ]
+}

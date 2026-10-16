@@ -1,0 +1,238 @@
+{
+ "id": 1516,
+ "title": "Sunsetting Implementation for the $TEC Token",
+ "slug": "sunsetting-implementation-for-the-tec-token",
+ "category_id": 33,
+ "tags": [
+  "advice-process",
+  "cultural-proposal",
+  "funding-proposal"
+ ],
+ "posts_count": 12,
+ "created_at": "2025-08-21T11:54:41.722Z",
+ "last_posted_at": "2025-09-16T15:02:19.299Z",
+ "total_known": true,
+ "archived_posts": 12,
+ "archived_numbers": 12,
+ "last_archived_post_at": "2025-09-16T15:02:19Z",
+ "captured_between": [
+  "2025-09-06T13:32:06Z",
+  "2025-12-17T00:17:52Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-08-21T11:54:42Z",
+   "updated_at": "2025-08-21T11:54:42Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#executive-summary-1\" name=\"executive-summary-1\"></a>Executive Summary</h1>\n<p>This proposal operationalizes the TEC wind-down with clear roles, deadlines, and safeguards. It establishes the consolidation of all assets to the <strong>Common Pool</strong>, mandates the <strong>conversion of all recovered assets to rETH</strong>, and funds a <strong>minimal claims mechanism</strong> for $TEC holders.</p>\n<p>Legacy, deprecated contracts (Reserve and Common Pool) are upgraded by Guardians to freeze the Commons in a recoverable state and enable direct flows from the Common Pool to the claim contract. All other TEC-related multisigs/EOAs have <strong>14 days</strong> to return funds to the Common Pool. Any $TEC held by participating multisigs will be <strong>burned</strong> through the ABC to avoid circular accounting. <strong>OP RPGF</strong> funds vesting via Superfluid will, upon vesting, be routed <strong>by default to the Common Pool</strong> and converted to rETH, unless governance directs otherwise between passage and execution.</p>\n<p>There will be a <strong>four-week process</strong> for the community to verifiably raise any hacked addresses so those assets can be frozen and credited back to verified owners.</p>\n<p><strong>Closure logic:</strong> The <strong>claim period is indefinite by default</strong>; a future proposal (e.g., a the Severance and Postmortem Proposal) may define an end date and the treatment of unclaimed funds.</p>\n<p>**Validity: ** This proposal, after going through the proper review process, will only be valid if a successful Tao Vote is reached.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#purpose-principles-2\" name=\"purpose-principles-2\"></a>Purpose &amp; Principles</h2>\n<ul>\n<li>\n<strong>Stewardship of a Common-Pool Resource:</strong> Preserve value and reduce leakage by consolidating fragmented control into a single, accountable executor.</li>\n<li>\n<strong>Clear Collective-Choice Arrangements:</strong> Named actors, timelines, and bounded mandates replace ambiguity with explicit, monitorable instructions.</li>\n<li>\n<strong>Monitoring &amp; Transparency:</strong> Upgrades and transfers are on-chain; progress updates will be posted at each major state change.</li>\n<li>\n<strong>Graduated Sanctions (Minimal):</strong> A time-bound path (14-day remit window) followed by default routing prevents indefinite drift without adversarial posture.</li>\n<li>\n<strong>Proportionality &amp; Finality:</strong> Minimal technical scope (rationalized contracts, single claims flow) to limit operational and contract risk; no new programs.</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#scope-3\" name=\"scope-3\"></a>Scope</h2>\n<p>This proposal covers:</p>\n<ol>\n<li>\n<strong>Asset recovery</strong> from legacy Aragon contracts and other TEC-related multisigs/EOAs into the Common Pool.</li>\n<li>\n<strong>Mandatory rETH conversion</strong> in the Common Pool prior to claims funding (executed by Guardians or via authorized adaptor).</li>\n<li>Build and deployment of a <strong>minimal claim contract + UI</strong> for $TEC holders (quoted at <strong>$5,000 USD</strong>).</li>\n<li>Handling of <strong>OP RPGF</strong> assets vesting via Superfluid (default → Common Pool → rETH).</li>\n<li>\n<strong>Token handling</strong> rules (burn TEC held by participating multisigs).</li>\n<li>\n<strong>Claims eligibility &amp; disputes</strong>, including a four-week hacked-wallet intake window.</li>\n<li>\n<strong>Closure logic</strong> (indefinite by default; future proposal may define end and unclaimed handling).</li>\n</ol>\n<p>Severance and post-mortem budgets are not in scope of this proposal, but stipulations are made in the case that they do or do not pass in a future proposal in order to maintain proposal independence.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#governance-roles-4\" name=\"governance-roles-4\"></a>Governance &amp; Roles</h2>\n<h3>\n<a class=\"anchor\" href=\"#guardians-5\" name=\"guardians-5\"></a>Guardians</h3>\n<ul>\n<li>\n<strong>Mandate:</strong>\n<ul>\n<li>Pass upgrades to legacy Aragon contracts (Reserve and Common Pool) to <strong>freeze</strong> the Commons in a recoverable state (MiniMe and ABC as needed).</li>\n<li>Enable <strong>Reserve → Common Pool</strong> and <strong>Common Pool → Claim Contract</strong> transfers per the Implementation Partner’s technical design.</li>\n<li>\n<strong>Execute rETH conversions</strong> for inbound assets in the Common Pool.</li>\n<li>Pay the <strong>$5,000 USD</strong> claim build to the Implementation Partner.</li>\n<li>Execute contingencies described below and administer the hacked-wallet dispute process per this proposal.</li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#multisig-signers-other-tec-related-units-6\" name=\"multisig-signers-other-tec-related-units-6\"></a>Multisig Signers (other TEC-related units)</h3>\n<ul>\n<li>\n<strong>Pre-Step:</strong> Withdraw TEC-OP liquidity prior to any transfer.</li>\n<li>\n<strong>Also:</strong> Burn any $TEC held (preferably via the bonding curve) before or at remittance to avoid circulars.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#implementation-partner-7\" name=\"implementation-partner-7\"></a>Implementation Partner</h3>\n<ul>\n<li>\n<strong>Mandate:</strong> Build and deploy a lightweight claim contract + UI.</li>\n<li>\n<strong>Budget:</strong> <strong>$5,000 USD</strong> (fixed).</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#asset-recovery-plan-8\" name=\"asset-recovery-plan-8\"></a>Asset Recovery Plan</h2>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/8904bc03a97ffdcd3ddf06607ae03d616af30e0d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/8904bc03a97ffdcd3ddf06607ae03d616af30e0d.png\" title=\"Untitled diagram _ Mermaid Chart-2025-08-21-115038\"><img alt=\"Untitled diagram _ Mermaid Chart-2025-08-21-115038\" data-base62-sha1=\"jy7ywOjROiTMAOuVfangzdXRajz\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/8904bc03a97ffdcd3ddf06607ae03d616af30e0d_2_527x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/8904bc03a97ffdcd3ddf06607ae03d616af30e0d_2_527x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/8904bc03a97ffdcd3ddf06607ae03d616af30e0d_2_790x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/8904bc03a97ffdcd3ddf06607ae03d616af30e0d_2_1054x1000.png 2x\" width=\"527\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Untitled diagram _ Mermaid Chart-2025-08-21-115038</span><span class=\"informations\">3840×3643 359 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h3>\n<a class=\"anchor\" href=\"#a-reserve-common-pool-legacy-aragon-9\" name=\"a-reserve-common-pool-legacy-aragon-9\"></a>A) Reserve &amp; Common Pool (Legacy Aragon)</h3>\n<ul>\n<li>\n<strong>Action:</strong> Guardians execute upgrades that (i) freeze the system in a recoverable state (MiniMe and ABC as required) and (ii) enable <strong>direct transfers from Reserve to Common Pool</strong> and from <strong>Common Pool to the Claim Contract</strong> per Implementation Partner design.</li>\n<li>\n<strong>Pre-Step:</strong> Withdraw TEC-OP liquidity before moving principal to avoid value leakage.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#b-other-tec-related-multisigseoas-10\" name=\"b-other-tec-related-multisigseoas-10\"></a>B) Other TEC-Related Multisigs/EOAs</h3>\n<ul>\n<li>\n<strong>Notice:</strong> Each unit is formally requested to <strong>remit remaining balances to the Common Pool within 14 days</strong> of notification.</li>\n<li>\n<strong>If no action by Day 14:</strong> The unit is <strong>marked dormant and documented</strong> publicly; recovery efforts may continue, and <strong>any later-recovered funds will be returned pro-rata</strong> to tokenholders by topping up the Claim Contract (see “Top-ups” below).</li>\n<li>\n<strong>Conversion Policy:</strong> All inbound assets to the Common Pool <strong>must</strong> be converted to <strong>rETH</strong> on receipt (hard requirement, executed by Guardians).</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#c-op-rpgf-superfluid-vesting-11\" name=\"c-op-rpgf-superfluid-vesting-11\"></a>C) OP RPGF (Superfluid Vesting)</h3>\n<ul>\n<li>\n<strong>Status:</strong> Vests over time via Superfluid.</li>\n<li>\n<strong>Rule:</strong> On each vesting withdrawal, <strong>route to the Common Pool by default</strong> and convert to <strong>rETH</strong> at that day’s rate, unless governance specifies otherwise between passage and execution.</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#token-handling-avoiding-circulars-12\" name=\"token-handling-avoiding-circulars-12\"></a>Token Handling (Avoiding Circulars)</h2>\n<ul>\n<li>Any <strong>TEC</strong> held by participating multisigs/EOAs must be <strong>burned</strong> (preferably via the ABC bonding curve; otherwise to the zero address) prior to or at the time of remittance.</li>\n<li>\n<strong>Rationale:</strong> Prevent circular accounting and supply feedback.</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#claims-mechanism-implementation-partner-13\" name=\"claims-mechanism-implementation-partner-13\"></a>Claims Mechanism (Implementation Partner)</h2>\n<ul>\n<li>\n<strong>Budget:</strong> <strong>$5,000 USD</strong> from the Common Pool (fixed).</li>\n<li>\n<strong>Mechanics:</strong>\n<ol>\n<li>Confirm MiniMe and ABC are frozen or parameterized as required for claims.</li>\n<li>Snapshot balances via <code>balanceOf</code> at the frozen block.</li>\n<li>Maintain a <code>claimed[address]</code> mapping.</li>\n<li>Publish a <strong>TEC→rETH rate</strong> derived from total rETH committed to claims.</li>\n<li>Provide a <strong>simple web UI</strong> for wallet claims.</li>\n<li>\n<strong>Addresses under active hacked-wallet dispute are temporarily frozen</strong> until resolution.</li>\n</ol>\n</li>\n<li>\n<strong>Funding Flow:</strong><br/>\nCommon Pool converts assets to <strong>rETH</strong> → pays <strong>USD 5,000</strong> for the build →<br/>\n<strong>If Proposal Three passes:</strong> deduct approved severance and postmortem budgets →<br/>\nsend the remainder to the <strong>Claim Contract</strong>.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#top-ups-from-late-recoveries-dormant-units-14\" name=\"top-ups-from-late-recoveries-dormant-units-14\"></a>Top-ups from Late Recoveries (Dormant Units)</h3>\n<ul>\n<li>If funds from <strong>dormant units</strong> are recovered <strong>after</strong> the Claim Contract is funded, they will be:\n<ul>\n<li>converted to rETH by Guardians and</li>\n<li>\n<strong>deposited as a new tranche</strong> into the Claim Contract.</li>\n</ul>\n</li>\n<li>The contract should <strong>credit all snapshot addresses pro-rata</strong> for each top-up; addresses that already claimed become entitled to a <strong>second (delta) claim</strong> equal to their pro-rata share of the new tranche.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#claims-eligibility-hacked-wallets-dispute-process-15\" name=\"claims-eligibility-hacked-wallets-dispute-process-15\"></a>Claims Eligibility &amp; Hacked Wallets Dispute Process</h3>\n<ul>\n<li>\n<strong>Four-week intake window (pre-claims):</strong> For the first <strong>4 weeks</strong> after passage, the community may raise hacked cases; addresses reported during this window are <strong>temporarily held</strong> from claiming pending review.</li>\n<li>\n<strong>Intake details:</strong> The holder opens a forum thread using the <strong>Hacked Wallet Case</strong> template with tx evidence, incident description, Seal911 due-process proof, and prior-ownership proof.</li>\n<li>\n<strong>Review Panel:</strong> 3 reviewers — <strong>1 Guardian</strong>, <strong>1 independent steward</strong>, <strong>1 additional reviewer</strong> designated by Guardians. Standard: <strong>preponderance of evidence</strong>. Decision and rationale published with PII redacted. SLA <strong>≤14 days</strong> (one 7-day extension allowed).</li>\n<li>\n<strong>Remedies:</strong>\n<ul>\n<li>\n<strong>Approved:</strong> blocklist compromised address; <strong>allowlist a new address</strong> for the <strong>same amount</strong>.</li>\n<li>\n<strong>Denied or no decision:</strong> hold expires; original address may claim.</li>\n</ul>\n</li>\n<li>\n<strong>Appeal:</strong> One time to a broader panel designated by Guardians; majority decision is final.</li>\n<li>\n<strong>Ongoing reports:</strong> After the initial four-week window, no further hacked cases may be filed.</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#timelines-service-levels-16\" name=\"timelines-service-levels-16\"></a>Timelines &amp; Service Levels</h2>\n<ul>\n<li>\n<strong>Day 0:</strong> Proposal passes.</li>\n<li>\n<strong>Days 0–2:</strong> Guardians queue/execute Aragon upgrades; issue formal notices to all other multisigs/EOAs.</li>\n<li>\n<strong>Day 14:</strong> Deadline for remittance to <strong>Common Pool</strong>; non-remitting units are <strong>marked dormant</strong>; process continues with available assets.</li>\n<li>\n<strong>Weeks 0–4:</strong> <strong>Hacked-wallet intake window</strong> open; reported addresses held from claiming pending review.</li>\n<li>\n<strong>Rolling:</strong> Convert each inbound asset to <strong>rETH</strong> on receipt.</li>\n<li>\n<strong>Within 2 weeks of funding the build:</strong> Implementation Partner deploys <strong>Claim Contract + UI</strong>, and Guardians fund it from the Common Pool.</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#closure-logic-17\" name=\"closure-logic-17\"></a>Closure Logic</h2>\n<ul>\n<li>\n<strong>Default:</strong> The <strong>claim period is indefinite</strong> and funds remain claimable by tokenholders.</li>\n<li>\n<strong>Change by governance:</strong> A future proposal (including, but not limited to, Proposal Three) may set an end date and define unclaimed handling.</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#risk-management-operational-hygiene-18\" name=\"risk-management-operational-hygiene-18\"></a>Risk Management &amp; Operational Hygiene</h2>\n<ul>\n<li>\n<strong>Minimize legacy surface area:</strong> One-time Aragon upgrades; avoid bespoke extensions on deprecated contracts.</li>\n<li>\n<strong>Credential hygiene:</strong> All signers follow the multisig credential guidelines (key security, rotation discipline).</li>\n<li>\n<strong>Transparency:</strong> Public updates at each state change (upgrades executed, transfers received, conversions completed, claims live).</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#decisions-requested-snapshot-items-19\" name=\"decisions-requested-snapshot-items-19\"></a>Decisions Requested (Snapshot Items)</h2>\n<ol>\n<li>\n<strong>Authorize</strong> Guardians to execute Aragon upgrades that (a) freeze MiniMe and ABC as needed and (b) enable <strong>Reserve → Common Pool</strong> and <strong>Common Pool → Claim Contract</strong> transfers.</li>\n<li>\n<strong>Mandate</strong> a <strong>14-day</strong> remittance window for all TEC-related multisigs/EOAs to the Common Pool; non-remitting units are <strong>marked dormant</strong> and disclosed, and any late recoveries will be <strong>returned pro-rata via top-ups</strong>.</li>\n<li>\n<strong>Require</strong> <strong>rETH conversion</strong> for all inbound assets to the Common Pool prior to claims funding (executed by Guardians).</li>\n<li>\n<strong>Fund</strong> the <strong>USD 5,000</strong> claim contract and UI build from the Common Pool.</li>\n<li>\n<strong>Set</strong> OP RPGF default routing: on vesting, <strong>to Common Pool and convert to rETH</strong>, unless governance specifies otherwise.</li>\n<li>\n<strong>Adopt</strong> the <strong>TEC burn policy</strong> for any TEC held by participating multisigs/EOAs prior to remittance.</li>\n<li>\n<strong>Adopt</strong> the <strong>four-week hacked-wallet intake</strong> and the ongoing dispute process described above.</li>\n<li>\n<strong>Confirm</strong> closure logic: <strong>indefinite claim period by default</strong>; any change requires a future governance decision.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#appendix-1-multisig-actions-table-20\" name=\"appendix-1-multisig-actions-table-20\"></a>Appendix 1: Multisig Actions Table</h2>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Unit</th>\n<th>Primary Action</th>\n<th style=\"text-align:right\">Deadline</th>\n<th>If No Action</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Reserve (Aragon)</strong></td>\n<td>Guardians upgrade → <strong>Reserve → Common Pool</strong>\n</td>\n<td style=\"text-align:right\">ASAP</td>\n<td>—</td>\n<td>Withdraw TEC-OP LP first</td>\n</tr>\n<tr>\n<td><strong>Common Pool (Aragon)</strong></td>\n<td>Guardians enable <strong>Common Pool → Claims Contract</strong>\n</td>\n<td style=\"text-align:right\">ASAP</td>\n<td>—</td>\n<td>Conversion to rETH enforced</td>\n</tr>\n<tr>\n<td><strong>Coordination Team</strong></td>\n<td>No Action Required</td>\n<td style=\"text-align:right\">N/A</td>\n<td>N/A</td>\n<td>N/A</td>\n</tr>\n<tr>\n<td><strong>TECAN</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>TE Grants Program</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>Lasertag</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>TEC GG</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>TEC Giveth Donations EOA</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>Transaction Team</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>ABC EOA</strong></td>\n<td>Transfer → <strong>Common Pool</strong>\n</td>\n<td style=\"text-align:right\">14 days</td>\n<td><strong>Mark dormant</strong></td>\n<td>Convert to rETH on receipt</td>\n</tr>\n<tr>\n<td><strong>OP RPGF Superfluid</strong></td>\n<td>On each vest route → <strong>Common Pool</strong>, convert</td>\n<td style=\"text-align:right\">Rolling</td>\n<td>—</td>\n<td>Default unless governance reroutes</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2025-08-23T17:07:00Z",
+   "updated_at": "2025-08-23T17:07:00Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Well I see this proposal as a scholarly contribution to the TEC. <a class=\"mention\" href=\"/u/rex\">@rex</a> has essentially proposed a graceful shutdown protocol for all TEC token infrastructure. I think it would take a team of domain experts to review and validate the proposal and to execute the scope. I think people like <a class=\"mention\" href=\"/u/sem\">@sem</a> <a class=\"mention\" href=\"/u/laurenluz\">@laurenluz</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/octopus\">@octopus</a> <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> (and many others, post is limited to 10 tags)  would have excellent domain expertise relevant to this consideration and may have interesting perspectives to share as stakeholders.</p>\n<p>Thank you <a class=\"mention\" href=\"/u/rex\">@rex</a> for writing this up, I found it generally very educational from a token infrastructure perspective and I appreciate the level of detail.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-25T13:34:00Z",
+   "updated_at": "2025-08-25T13:34:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>Thank you for the highly detailed proposal. Would very much appreciate some points of clarification on the following:</p>\n<ol>\n<li>How are tokenholders’ governance rights preserved or altered once all assets are moved to the Common Pool and the bonding curve (ABC) is frozen or deprecated?</li>\n<li>Will TEC holders retain any formal voting power or proposal rights after the wind-down, particularly over decisions like future claims closure or unclaimed fund allocation?</li>\n<li>How does the proposal ensure that the Guardians remain accountable to tokenholders, given their central role in executing upgrades, asset conversions, and dispute resolutions?</li>\n</ol>\n<p>Thank you and look forward to your reply.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-08-26T10:50:31Z",
+   "updated_at": "2025-08-26T10:50:31Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1516\" data-username=\"DecentralizeSDGs\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" width=\"20\"/> DecentralizeSDGs:</div>\n<blockquote>\n<p>How are tokenholders’ governance rights preserved or altered once all assets are moved to the Common Pool and the bonding curve (ABC) is frozen or deprecated?</p>\n</blockquote>\n</aside>\n<p>I prefer a $TEC burn mechanism, which requires a temporary governance freeze. This is because one person claiming affects the percentage holdings of remaining participants over the Common’s Assets, and also opens up the space for an attack there if governance were still active.</p>\n<p>The $TEC contracts themselves would remain recoverable in case governance unpauses are desired.</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1516\" data-username=\"DecentralizeSDGs\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" width=\"20\"/> DecentralizeSDGs:</div>\n<blockquote>\n<p>Will TEC holders retain any formal voting power or proposal rights after the wind-down, particularly over decisions like future claims closure or unclaimed fund allocation?</p>\n</blockquote>\n</aside>\n<p>I propose a month-long process from the date of this proposal passing to its execution in which to amend the claims closure and unclaimed fund parameters. I am open to alternative viewpoints on how to define these, but do not think that defining them as part of this proposal makes sense.</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1516\" data-username=\"DecentralizeSDGs\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" width=\"20\"/> DecentralizeSDGs:</div>\n<blockquote>\n<p>How does the proposal ensure that the Guardians remain accountable to tokenholders, given their central role in executing upgrades, asset conversions, and dispute resolutions?</p>\n</blockquote>\n</aside>\n<p>Since the OP upgrade, Guardians have had the rights to freeze any proposals in Tao, as well as any technical upgrades for any part of the Commons. Despite this, they have always remained loyal, so I believe that the overwhelming social negative backlash of going against the Commons continues to be a sufficient deterrent.</p>\n<p>Nevertheless, I would propose that the process continue to be transparent, with the Implementation Partner making detailed forum posts for community feedback before Guardians execute any code, as per previous upgrades.</p>\n<p>A further note: I believe that the current Guardians multisig is a 3/7. Motioning to increase that threshold to 4 or 5 may be of interest as part of this proposal, as it raises the cost of attack and makes Guardians take an active look at these sensitive proposals.</p>\n<hr/>\n<p>Here is relevant information on the Guardians:</p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1311\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/bear100/40/914_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/introducing-tec-guardians/1311/1\">Introducing TEC Guardians</a> <a class=\"badge-wrapper bullet\" href=\"/c/tec-strategy-governance/33\"><span class=\"badge-category-bg\" style=\"background-color: #F7941D;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"A space for discussing the strategic direction and governance of the TEC. This includes objectives, budgets, proposals, and governance frameworks.\">🧭 TEC Strategy &amp; Governance</span></a>\n</div>\n<blockquote>\n<a class=\"anchor\" href=\"#introduction-1\" name=\"introduction-1\"></a>Introduction\nAs part of the likely <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294\">migration of the TEC to Optimism</a>, it is important to share some of the thoughts and recommendations that the TECAN has been discussing regarding the purpose and role of the “Guardians” once the TEC has migrated to OP. We want to continue this conversation with the community for advice and further refinement of the proposal through this forum post. \n\n<a class=\"anchor\" href=\"#about-guardians-2\" name=\"about-guardians-2\"></a>About Guardians\nCeleste, the arbitration method for resolving proposal disputes, is not available on Optimism. H…\n  </blockquote>\n</aside>\n<aside class=\"quote\" data-post=\"16\" data-topic=\"1313\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tamara/40/67_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/tec-guardians-nominations/1313/16\">TEC Guardians Nominations</a> <a class=\"badge-wrapper bullet\" href=\"/c/archive/snapshot/30\"><span class=\"badge-category-parent-bg\" style=\"background-color: #B3B5B4;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0E76BD;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Snapshot is an off-chain but token weighted governance tool used in the TEC for large impact cultural decisions, community signal and runoff votes.\">⚡️ Snapshot</span></a>\n</div>\n<blockquote>\n    The vote is closed and final results are: \nGuardians: \nTam, Griff, Sem, PhilH, Enti, Bear, Gideon \nAlternates (will automatically become, in this order, a Guardian in the event of any departure): \nYgg, Nate, Juanka\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-08-26T10:56:45Z",
+   "updated_at": "2025-08-26T10:56:45Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Some have asked for reference on the current status of Commons funds. Here are the latest details to the best of my knowledge:</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1501\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/rex/40/864_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/request-for-accounts-transparency/1501/1\">Request for Accounts Transparency</a> <a class=\"badge-wrapper bullet\" href=\"/c/tec-strategy-governance/33\"><span class=\"badge-category-bg\" style=\"background-color: #F7941D;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"A space for discussing the strategic direction and governance of the TEC. This includes objectives, budgets, proposals, and governance frameworks.\">🧭 TEC Strategy &amp; Governance</span></a>\n</div>\n<blockquote>\n    I’d like to formally request that the full list of TEC-associated multisigs with remaining funds be made public, along with their current balances. \nThis information was not included in the <a href=\"https://forum.tecommons.org/t/tec-h2-2025-strategic-proposal/1498\">H2 2025 Strategic Proposal</a> nor in the <a href=\"https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500\">Sunsetting the TEC Proposal</a>, yet it is critical for both coordination and accountability; and for the first step of either: the return of unused funds to the common pool. \nTo my knowledge, <a class=\"mention\" href=\"/u/bear100\">@bear100</a> maintained a CSV of the multisigs and their signers as of last month. I re…\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-26T18:01:10Z",
+   "updated_at": "2025-08-26T18:01:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>Thank you for the clarifications. Would like to understand still how this will play out in a scenario where less than all $TEC token holders claim and remain active. How then is the TEC governed once the claims process had ended and who retains control over the Commons Pool allocation? What rights will $TEC holders who have not claimed have retained? What will $TEC rights be if there is a second Hatch or some sort of funding mechanism? Your clarifications on these points would be greatly appreciated. Thank you.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-08-26T20:42:47Z",
+   "updated_at": "2025-08-26T20:42:47Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> with this proposal, there would be nothing left to govern for remaining $TEC holders.  All funds from both the Reserve of the ABC, and the Common Pool would simply be converted into rETH, and put into a claims contract for an indefinite period of time.</p>\n<p>The exchange rate between $TEC and $rETH would be established, and at any point in time, a $TEC token-holder can exchange it directly for $rETH at the established rate.  Those funds will remain in the contract until all of it is gone.</p>\n<p>I believe if there were to be another hatch, or fund-raise at some point in the future it would be with a completely different set of stakeholders, utilizing a different token architecture, and separated from the functions of any remaining $TEC tokens.</p>\n<p>For those wanting to continue with the efforts of the TEC, the Coordination Team is available and willing to facilitate what may be a set of constructive next steps in terms of both funding and direction.  With that being said, there is nothing to gain from holding onto $TEC after the claims contract goes live, as there will be no utility for it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-27T15:15:14Z",
+   "updated_at": "2025-08-27T15:15:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>Thank you for the clarifications. However, this proposed approach undermines the rights of active $TEC token holders. Dissolving those rights without a clear and legitimate claim to the remaining assets beyond the claim in rETH in Commins Pool is problematic, especially when there’s ambiguity about who will be able to re-monetize them. Whether it’s an unspecified group or the Guardians with non-tokenized authority, this isn’t how a managed wind-down should work. Token holders should absolutely retain a stake in any future value gained from a re-Hatch, if realized, and any decision around the future should involve transparency and accountability to the community that helped build it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "c-georgen.eth",
+   "name": null,
+   "created_at": "2025-08-28T20:02:49Z",
+   "updated_at": "2025-08-28T20:02:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I very much agree with <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> here. I can’t understand the desire to remove any sort of optionality from those who still wish to see TEC succeed. I see the open ended claim window (even if it is modified in the future) coupled with a full conversion back to rETH as a forced end of TEC.</p>\n<p>There should be a way to just let people exit the system if they want without paying an exit tax for some limited window.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-29T12:29:42Z",
+   "updated_at": "2025-08-29T12:29:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/c-georgen.eth\">@c-georgen.eth</a></p>\n<p>Fully agree as I cannot support a displacement of token holder interest through forced liquidation with no claim to future TEC assets and governance.</p>\n<p>Kindly ask <a class=\"mention\" href=\"/u/rex\">@rex</a> to consider the foregoing in a modified proposal that will protect residual $TEC token holder rights. Thank you.</p>\n<p>Cc: <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-09-16T14:26:37Z",
+   "updated_at": "2025-09-16T14:26:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I have left the proposal up in the forums to observe whether there is an active community that would want a continuation of the $TEC token. So far, there has been no interest outside members of the Coordination Team (which have a vested interest in continuing to make use of token holder funds), a singular whale, and one member of the community acting as kingpin due to the 85% support required for all future TEC proposals going forward.</p>\n<p>Unfortunately, there is no active community: there are but a small number of token holders remaining in favour of keeping the Commons as is, without any active community to back them. I believe the 80%-90% of our community members who came through in favour of the original proposal have, once again, been abused of their time and energy.</p>\n<p>There is much love and understanding in continuing token engineering and the Commons, but if the lack of progress in the last two months is not evidence that the governance framework is no longer fit for purpose, I don’t know what is.</p>\n<p>Given the absolute lack of interest in engaging with the alternative proposal, it is also unlikely that it reach the necessary 85% support, in effect causing a governance deadlock, with the commons unable to continue AND the inaccessibility of funds. Deadlock is also a form of governance death, yet a much less fruitful than having understood by the remaining whales that cooperation and good-faith engagement was what was necessary from the very start.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-09-16T15:02:19Z",
+   "updated_at": "2025-09-16T15:02:19Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you <a class=\"mention\" href=\"/u/rex\">@rex</a> for your reflections and continued engagement. However, I’d like to respectfully offer a few clarifications and counterpoints that I believe are important to the current conversation.</p>\n<p>First, it is worth noting that there <strong>is</strong> an <strong>active and viable alternative proposal</strong> brought forward by <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> currently on the forum. It remains <strong>open to discussion</strong>, and crucially, it has <strong>not faced significant opposition</strong> to date. In fact, the alternative proposal <strong>emerged in response to earlier pushback</strong>, showing a willingness to integrate community concerns and seek <strong>balance between differing stakeholder interests</strong>.</p>\n<p>To conflate the absence of loud opposition in the TEC Forum with the absence of community engagement is a false equivalency. The TEC Forum, by design, supports asynchronous and evolving debate. The refinement of proposals through debate and negotiation should not be interpreted as a failure of governance, but rather as a <strong>feature of a functional governance process</strong>.</p>\n<p>Importantly, there is no <strong>confirmed deadlock</strong> at this point. The alternative proposal still provides a <strong>viable path forward</strong> that attempts to bridge divergent views. It remains available for community input and refinement, precisely to test whether there is still a base of active engagement.</p>\n<p>If the metric for an “active community” is participation in continued TEC governance, then I’d invite you particularly, and anyone who express concern to also support and participate in discussions around the alternative proposal. Constructive engagement and dialogue is the clearest way to avoid the very deadlock you are citing.</p>\n<p>Finally, I’d caution against framing the Coordination Team or any individual contributors as acting out of self-interest without clear evidence. Many have dedicated substantial time and effort in good faith to keeping this process transparent and inclusive.</p>\n<p>In conclusion, the opportunity for consensus has <strong>not passed</strong> nor should we prematurely declare a deadlock. What’s needed now is not resignation but <strong>renewed participation</strong> especially from those who claim to care deeply about the future of the TEC and its mission.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251217001752",
+    "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250906133206",
+   "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250906133206",
+   "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251217001752",
+   "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251217001752",
+   "url": "https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": 1005,
+ "title": "Steward WG 3-month funding proposal (May - July)",
+ "slug": "steward-wg-3-month-funding-proposal-may-july",
+ "total_known": false,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "created_at": "2022-05-12T07:30:03Z",
+ "last_archived_post_at": "2022-06-06T10:51:30Z",
+ "captured_between": [
+  "2022-05-20T07:07:48Z",
+  "2022-10-06T16:54:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-05-12T07:30:03Z",
+   "updated_at": "2022-05-12T07:30:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The first <a href=\"https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal/713\">3-month funding</a> covered Feb, Mar and April.</p>\n<p>This is a proposal for funding for the Stewards WG for May, June and July.</p>\n<p><strong>Key information</strong></p>\n<p><strong>Proposal title</strong></p>\n<p>Steward WG 3-month funding proposal</p>\n<p><strong>TL;DR</strong></p>\n<p>The purpose is to provide compensation for the Stewarding and the coordination efforts of active Stewards and Working Group Coordination Leads (WGCL).</p>\n<p><strong>Proposal description</strong></p>\n<p>This proposal takes into account these assumptions:</p>\n<ul>\n<li>Not all WGCL participate in the transversal coordination and those that do not are not compensated as part of this proposal. (They should be compensated as part of their WG’s proposal).</li>\n<li>Stewards and WGCL should also be compensated in the WG in which they are active contributors. So, this is the additional compensation for the transversal activities they are responsible for and for their dedication to staying up to speed on everything that is happening in the TEC and our 11, and counting, working groups.</li>\n<li>Factors in a small budget for special projects and bounties that support the WG objectives.</li>\n</ul>\n<p><strong>About Stewards &amp; Working Group Coordination Leads (WGCL)</strong></p>\n<ul>\n<li>Stewards and WGCL are a critical to our success at the TEC. They keep the ship moving forward and on-target.</li>\n<li>Stewards:\n<ul>\n<li>are the MVV super-spreaders,</li>\n<li>carry the know-how of the TEC (e.g., how we are organized, whom to ask about what, what projects are active across multiple WGs),</li>\n<li>represent the TEC to the larger community,</li>\n<li>raise, debate, resolve, coordinate, advocate, propagate,</li>\n<li>are the civil servants of the community.</li>\n<li>Expected time commitment: At least 10+ hours per week to keep active and “on top” of what’s happening, attend the Weekly, Council and Community calls, other WG calls, etc.</li>\n</ul>\n</li>\n<li>WGCLs:\n<ul>\n<li>are responsible for streams of work contained within a WG. For the coordination and surfacing inter-wg dependencies.</li>\n<li>Expected time commitment: At least 10+ hours per week. Attending the Sprint planning &amp; retro, Weekly call, Council call, WG calls, etc.</li>\n</ul>\n</li>\n<li>Stewards and WGCL may be active contributors in more than one WG.</li>\n<li>WGCL may also be Stewards although not always.</li>\n<li>Stewards may also be WGCL although not always.</li>\n<li>Stewards and WGCL should remain active and present. Inactivity would be cause to self-offboard or be nominated for offboarding. The process by which that happens is outlined in the <a href=\"https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit\">Stewards’ Manifesto</a>.</li>\n</ul>\n<p><strong>Additional information to add</strong></p>\n<p>For the first 3 months of funding from the <a href=\"https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal/713\">previous proposal</a>, Stewards and WGCL were compensated in xDAI.</p>\n<p>For this funding proposal we will be distributing compensation in TEC tokens.</p>\n<p>Advantages:</p>\n<ul>\n<li>Compensating the Stewards and WGCL with our own token will increase their governance weight, should they choose to hold onto them.</li>\n<li>Creates buy demand for the TEC token itself.</li>\n<li>Will serve as a discovery mechanism to surface challenges of compensating contributors with the TEC token. Eventually this is something other WG may decide to do as well.</li>\n</ul>\n<p>How will this work:</p>\n<ul>\n<li>Stewards multisig will hold xDAI and convert what is needed for that month’s compensation into TEC around the first week of every month.</li>\n</ul>\n<p><strong>How does this proposal benefit the community or the field of Token Engineering?</strong></p>\n<p>Stewardship is the engine that keeps the TEC running. We also like to think we are building repeatable processes, practices and tools for other TE DOAs to utilize for themselves.</p>\n<p><strong>Amount requested (Only for conviction voting)</strong></p>\n<p>48,750 xDAI</p>\n<p>Address (multisig): gno:0xA3b2391a209b906FE29d4D4285782F18E38fA525</p>\n<p><strong>How will these funds be used? (Only for conviction voting)</strong></p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Role</th>\n<th>Monthly</th>\n<th>Role/Budget</th>\n<th><span class=\"hashtag\">#ppl</span></th>\n<th>Monthly</th>\n<th>3-month</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>WGCL</td>\n<td>750</td>\n<td>WGCL</td>\n<td>9</td>\n<td>6750</td>\n<td>20250</td>\n</tr>\n<tr>\n<td>Steward</td>\n<td>500</td>\n<td>Steward</td>\n<td>15</td>\n<td>7500</td>\n<td>22500</td>\n</tr>\n<tr>\n<td>Special projects</td>\n<td>2000</td>\n<td>Monthly projects budget</td>\n<td>tbd</td>\n<td>2000</td>\n<td>6000</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Totals:</td>\n<td>16250</td>\n<td>48750</td>\n</tr>\n</tbody>\n</table>\n</div><p>*The compensation is cumulative. If someone has the responsibilities of both Steward and WGCL, they will receive compensation for both versus a member that is energizing the role of one or the other.</p>\n<p><strong>How will you share progress?</strong></p>\n<p>We seek to keep this process simple and transparent. During the first week of each month, each Steward or WGCL will post their compensation request on the <span class=\"hashtag\">#Steward</span> discord channel. The post will include their role, work performed and associated github issues. If no objection is raised, the amount will be transferred. If an objection is raised, it will be mediated internally in the WG. If it is not able to be mediated within the WG, a Gravity form will be opened for assistance in mediation.</p>\n<p><strong>Complementary information</strong></p>\n<p><strong>Project information</strong></p>\n<p>Community Stewards WG <a href=\"https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit\">Manifesto</a></p>\n<p><strong>Team Information</strong></p>\n<p>Stewards</p>\n<p>At the time of this proposal there are 15 Stewards.</p>\n<ol>\n<li>Chuy</li>\n<li>Eduardo</li>\n<li>Gideon</li>\n<li>Griff</li>\n<li>Ivy</li>\n<li>Juan Carlos</li>\n<li>Lauren</li>\n<li>Livia</li>\n<li>Mitch</li>\n<li>Nate</li>\n<li>Sebnem</li>\n<li>Tamara</li>\n<li>Vyvy-vi</li>\n<li>Ygg</li>\n<li>Zeptimus</li>\n</ol>\n<p>Working Groups &amp; WGCL (if the WG participates in transversal coordination events)</p>\n<p>At the time of this proposal there are 9 WGCLs.</p>\n<p>Working Group Coordination Leads (WGCL)</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>No.</th>\n<th>Working Group</th>\n<th>Steward</th>\n<th>WGCL</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Community Stewards</td>\n<td>Tamara, Nate</td>\n<td>MountManu</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Soft Gov &amp; Culture</td>\n<td>Livia</td>\n<td>Livia</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Transparency</td>\n<td>Ivy, Zeptimus</td>\n<td>Zeptimus</td>\n</tr>\n<tr>\n<td>4</td>\n<td>0mega</td>\n<td>Sebnem</td>\n<td>Mert</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Gravity</td>\n<td>Juan Carlos</td>\n<td>Juan Carlos</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Legal</td>\n<td>Ivy</td>\n<td>Ivy</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Communications</td>\n<td>Chuy</td>\n<td>Chuy</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Labs</td>\n<td>YGG</td>\n<td></td>\n</tr>\n<tr>\n<td>9</td>\n<td>Communitas</td>\n<td>Eduardo, Tamara</td>\n<td>Tamara</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Rewards System</td>\n<td>Mitch</td>\n<td>Kristofer</td>\n</tr>\n</tbody>\n</table>\n</div><p><strong>Previous experience and interests</strong></p>\n<p>These are all the active Stewards and WGCLs in the TEC now.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-05-12T19:30:54Z",
+   "updated_at": "2022-05-13T11:56:48Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>A few questions about the xDAI &gt; $TEC conversion:</p>\n<ol>\n<li>\n<p>$TEC is super stable relative to the rest of the market, but it <a href=\"https://dune.com/tecommons/TECommons\" rel=\"noopener nofollow ugc\">still fluctuates</a> - how do we help protect folks from just happening to have bad timing at the time of conversion?</p>\n</li>\n<li>\n<p>Are we using the ABC for conversion, and if so, will we convert all of the funds at once or person by person? The latter could create some undesired differences in price as demand pushes it up. The former could create some slippage, but I’m not savvy enough about the ABC dynamics (yet!) to understand how that would affect things.</p>\n</li>\n<li>\n<p>I’m assuming that the calculation for the conversion will just take into account the tributes, and that that doesn’t matter because the tribute just goes back into the common pool anyway, right?</p>\n</li>\n</ol>\n<p>P.S. I’m excited about the possibility of paying in $TEC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-05-13T17:22:51Z",
+   "updated_at": "2022-05-13T17:22:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<blockquote>\n<p>$TEC is super stable relative to the rest of the market, but it <a href=\"https://dune.com/tecommons/TECommons\">still fluctuates</a> - how do we help protect folks from just happening to have bad timing at the time of conversion?</p>\n</blockquote>\n<p>The xDAI from the multisig will be converted to TEC right before the distribution itself. We can let everyone know when it happens. The relative stability of the TEC because of the ABC (in comparison with the token dumps that are happening all around us atm) does offer some small protection. If anyone has any other ideas for this, please shout them out.</p>\n<blockquote>\n<p>Are we using the ABC for conversion, and if so, will we convert all of the funds at once or person by person? The latter could create some undesired differences in price as demand pushes it up. The former could create some slippage, but I’m not savvy enough about the ABC dynamics (yet!) to understand how that would affect things.</p>\n</blockquote>\n<p>All at once. Then the mutisig will hold the TEC and distribute. Probably secondary market instead of ABC.</p>\n<blockquote>\n<p>I’m assuming that the calculation for the conversion will just take into account the tributes, and that that doesn’t matter because the tribute just goes back into the common pool anyway, right?</p>\n</blockquote>\n<p>We will have to factor this in, yes. Though using the secondary markets does alleviate this consideration.</p>\n<p>The Stewards being compensated in $TEC is a large step forward! Eventually, we can imagine compensating all contributors in $TEC and even funding proposals in $TEC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-05-13T19:09:27Z",
+   "updated_at": "2022-05-13T19:09:27Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I agree. This is a step forward on multiple fronts.</p>\n<p>One approach to dealing w/ the fluctuation that we’ll still face would be to break the trades into a few chunks over time (like a dollar-cost-averaging strategy). That might also help reduce slippage too. Just a thought.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2022-05-15T17:48:50Z",
+   "updated_at": "2022-05-15T17:48:50Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Nice to see the $TEC initiative!</p>\n<p>A question/suggestion: are the stewards or any working group addressing or planning to address long-term budget planning and/or sustainability of the common pool and viable business models/value production?</p>\n<p>This seems to me one of the biggest challenges ripe for R&amp;D. The ABC is a boostrapping mechanism and operates under the assumption that there will be volatility funding the pool. Of course, we will see more when vesting unlocks but if not already in the works, this would be an imcredibly valuable focus over the next months if not already in the works.</p>\n<p>Also would be interesting to get a feel for what the community desires in regards to %s of funding going to operations/admin, research &amp; development and other buckets.</p>\n<p>One more thought was around crisis planning: in recent governance research I did with BSci colleagues on resilience in Lido gov assessment, I saw crisis planning/gov documentation from Yearn that was pretty fantastic and made me think developing crisis planning for TEC would be a good idea…</p>\n<p>Appreciate any feedback and updates thank you!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-05-16T08:54:43Z",
+   "updated_at": "2022-05-16T08:54:43Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>!</p>\n<p>Yes. Sampo is a new WG that has very recently formed specifically to focus on financial sustainability within the TEC. It is still ramping up. We are fortunate that <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> has volunteered to Steward the WG and those initiatives.</p>\n<p>Crisis planning does sound pragmatic. Can you share some of the topics covered in the assessment you mentioned.</p>\n<p>Also, the vote is now live in the Gardens for Stewards funding for another 3 months.</p>\n<p><a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/22\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/22</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2022-05-16T12:14:24Z",
+   "updated_at": "2022-05-16T12:14:24Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Cool! Glad to hear it! Thanks <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/><img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/><img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>\n<p>Here is the Yearn Emergency Planning Github:</p><aside class=\"onebox githubblob\" data-onebox-src=\"https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md\">\n<header class=\"source\">\n<a href=\"https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md\" rel=\"noopener\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<h4><a href=\"https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md\" rel=\"noopener\" target=\"_blank\">yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md</a></h4>\n<pre><code class=\"lang-md\"># Emergency Procedures for Yearn Finance\n\n## TL;DR: [Emergency Checklist](#emergency-checklist)\n\n## Introduction\n\nThis document details the procedures and guidelines that should take place in the event of an emergency situation. Its purpose is to minimize the risk for loss of funds for Yearn's users, Treasury, and Smart Contracts.\n\n## Definitions and Examples of Emergencies\n\nFor the purposes of this document, an emergency situation is defined to be:\n\n**_Any situation that may lead to a considerable amount of loss of funds for Yearn users, Yearn's Treasury, or Smart Contracts deployed by Yearn._**\n\nThis is a non exhaustive list of possible emergency scenarios:\n\n1. Bug/Exploit in Vault/Strategy code that can cause a loss of funds for users\n2. Bug/Exploit in an underlying protocol that a Yearn Strategy is utilizing that may lead to loss of funds\n3. Loss of private keys for a key role, such as a Strategist\n4. Potential exploit discovered by team or bounty program researcher\n</code></pre>\n\n\n  This file has been truncated. <a href=\"https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md\" rel=\"noopener\" target=\"_blank\">show original</a>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>And overall, they have some of the best governance and operations documentation I’ve seen, so definitely worth a review:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://docs.yearn.finance/contributing/governance/governance-and-operations\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://docs.yearn.finance/img/favicon.ico\" width=\"48\"/>\n<a href=\"https://docs.yearn.finance/contributing/governance/governance-and-operations\" rel=\"noopener\" target=\"_blank\">docs.yearn.finance</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"100\" src=\"https://forum.tecommons.org/uploads/default/original/1X/1de31d3e60f35122831f255e2de066daa1b5832a.png\" width=\"100\"/>\n<h3><a href=\"https://docs.yearn.finance/contributing/governance/governance-and-operations\" rel=\"noopener\" target=\"_blank\">Governance and Operations | Yearn.finance</a></h3>\n<p>---</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>Thanks so much for responding so quickly and the updates! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-05-16T21:52:44Z",
+   "updated_at": "2022-05-16T21:52:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you, Jessica. Still need to dive into this in more detail but it looks very helpful.</p>\n<p>We will need to get to emergency procedures.One of the other things is how we proactively steer a conviction-voting based spending process as passing proposals gets harder and harder with a shrinking pool? This is one of the things that’s really got my attention right now. We have a draft high-level strategy that is still very early in the advice process but would be happy to share if you’re interested. One of the key ideas is “capacity building”.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2022-05-17T09:40:34Z",
+   "updated_at": "2022-05-17T09:40:34Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey Gideon, thanks for your message! We can also take to DM or Discord channel where convo is ongoing lmk when you get a channel for this WG set up <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>\n<p>Makes sense, also FYI Jeff and I have been having calls with Gitcoin DAO and they are planning to build some kind of Osmotic Funding tool that disperses funds as conviction builds proportionately so that could be an interesting future box consideration - though I am not sure technically how the stack could/not integrate… (you can see this thread for info <a class=\"inline-onebox\" href=\"https://gov.gitcoin.co/t/dear-moonshot-collective-help-daos-level-up-gov-tooling-buidl-request-for-chain-agnostic-conviction-voting/10027\">Dear Moonshot Collective 🌜 Help DAOs Level Up Gov tooling: BUIDL Request for Chain Agnostic Conviction Voting - Special Projects - Gitcoin Governance</a>).</p>\n<p>In the near-term - happy to have a look at the strategy (low on cycles atm)… have some meetings this week in Berlin with Trent M, Cem and some other high voltage TE brains - my thought (if you haven’t already) around solutioning for pool sustainability was to gather the best mechanism designers like those guys and Z/Simon DLR/Jeff/Griff/Sebnem/Angela and some others for a TE community brainstorm around this and talk about in general, how to improve on designs/parameter “modes” for various points of the economy i.e. bootstrap phase, ongoing smooth production phase/potential reboots - similar to Temple DAO…</p>\n<p>Anyhoo - I am happy to support rallying those folks into a room / Miro sesh when you get there (no rush! I’m quite slammed until mid June, but in person with some this week so I’ll plant the seed…)</p>\n<p>Feel free to DM me &amp; I’ll send you my email <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/> and I’ll also stop blowing up the budget thread here! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-06-06T10:51:30Z",
+   "updated_at": "2022-06-06T10:51:30Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I can also imagine that opening this up as a learning opportunity - gets more interest and participation in TEC. Especially if it involves the “emergent practice” analysis as Jess offers.</p>\n<p>The issue always is the “low on cycles”… What I could offer is: we’re doing a similar exercise for the TE Consilience Library, which is a “fractal commons” in TEC; that we share any insights and potential solutions?</p>\n<p>However it is clear already, that if we want people stewarding, i.e. picking up the slack, guiding, signalling on health etc. Then there should be a baseline that does care for those Stewards.  Another alternative is that some WGs have insights/knowledge goods that are already useful contributions to the TE knowledge Commons (which in my mind is still what TEC is, commons pool is just a means but not the end of the public good of TE).</p>\n<p>However they are low on comms cycles . There we should definitely reuse TEC comms etc. so there are also some baseline internal process optimizations that are obvious but not yet operational for some reason, not analyzed.</p>\n<p>So definitely yes to improving proposal engines in this space, and don’t see it as a TEC issue, but an issue of transitioning from “market competition” to a “collaborative commons” mindset - the tools we have do not support that mindset. nor the transition… So a lot to do and learn. I trust that if this was formulated as a learning opportunity and a valueable contribution to TE Knowledge Commons it would get the attention it deserves, incl. token engineers and TEC holders and larger token ecosystem.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165416",
+    "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520070748",
+   "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520070748",
+   "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006165416",
+   "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006165416",
+   "url": "https://forum.tecommons.org/t/steward-wg-3-month-funding-proposal-may-july/1005"
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "id": 723,
+ "title": "Commons Upgrade Demo (part 2)",
+ "slug": "commons-upgrade-demo-part-2",
+ "category_id": 22,
+ "posts_count": 9,
+ "created_at": "2021-12-07T06:40:06.474Z",
+ "views": 38,
+ "last_posted_at": "2021-12-19T23:28:13.549Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "last_archived_post_at": "2021-12-19T23:28:13Z",
+ "captured_between": [
+  "2021-12-07T19:49:24Z",
+  "2022-07-06T01:35:23Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-07T06:40:06Z",
+   "updated_at": "2021-12-07T17:31:36Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Some months ago, before launching the hatch, <a href=\"https://forum.tecommons.org/t/commons-upgrade-vote-demo/331\">we tested that the migration process was working</a> as expected. Some time after <a href=\"https://forum.tecommons.org/t/pseudo-code-and-permission-tables-for-the-commons-upgrade/431\">we started to work on a script</a> that could mutate a Gardens DAO into the future TECommons DAO, with a fully fledged Augmented Bonding Curve, and the rest of the specifications defined in the <a href=\"https://config.tecommons.org/\">config dashboard</a>.</p>\n<p>Today is the day in which we can do a demo of the whole process, at last. The demo will take place in two stages:</p>\n<ol>\n<li>\n<strong>The Migration Vote.</strong> It will transfer the funds from a demo Hatch DAO to an already modified Gardens DAO, and it will mint one token in the new DAO for each token in the old DAO in the moment of execution with the tokenlog’s top proposal token freeze and token thaw. <strong>Time:</strong> Starting from today December 7th, at 15:36 PM UTC and until tomorrow 8th at 15:36 PM UTC.</li>\n<li>\n<strong>Bonding Curve Opening Vote.</strong> It will open the bonding curve with a reserve ratio derived from the opening price present in the tokenlog’s top proposal parameters. It will also perform the initial buy defined in the same proposal. <strong>Time:</strong> Starting from Thursday 9th at 12 PM UTC, and finishing Saturday 12 PM UTC (after two days).</li>\n</ol>\n<p>Once the first vote is executed, people will be able to create test proposals to be voted using Conviction Voting. Once the second vote is executed, tDAI (test DAI) holders will be able to buy tokens at <a href=\"http://convert.tecommons.org\">convert.tecommons.org</a>, which allows to interact with the demo bonding curve.</p>\n<h2>\n<a class=\"anchor\" href=\"#technical-details-1\" name=\"technical-details-1\"></a>Technical details</h2>\n<h3>\n<a class=\"anchor\" href=\"#production-contracts-2\" name=\"production-contracts-2\"></a>Production contracts</h3>\n<ul>\n<li>Hatch DAO: <a href=\"https://xdai.aragon.blossom.software/#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42\"><code>0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42</code></a> <a href=\"https://hackmd.io/LHUuUPh_T1S2UUsuoIS-5g\">[specification]</a>\n<ul>\n<li>TECH token: <a href=\"https://blockscout.com/xdai/mainnet/token/0x799844141C2627bD195c89c3A0c71341d0314c55/token-transfers\"><code>0x799844141C2627bD195c89c3A0c71341d0314c55</code></a>\n</li>\n<li>WXDAI token: <a href=\"https://blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers\"><code>0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d</code></a>\n</li>\n</ul>\n</li>\n<li>Garden DAO: <code>TBD</code>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#demo-contracts-3\" name=\"demo-contracts-3\"></a>Demo contracts</h3>\n<ul>\n<li>TEST Hatch DAO: <a href=\"https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb\"><code>0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb</code></a> (vote duration: 1 day)\n<ul>\n<li>TESTTECH token: <a href=\"https://blockscout.com/xdai/mainnet/token/0x0baa582f7d2447d14bdee83d26b6ac88bdf58beb/token-transfers\"><code>0x0baa582f7d2447d14bdee83d26b6ac88bdf58beb</code></a>\n</li>\n<li>tDAI: <a href=\"https://blockscout.com/xdai/mainnet/token/0x70be33cceF2d04D52Ab5F1DabB15291f47B92Da8/token-transfers\"><code>0x70be33ccef2d04d52ab5f1dabb15291f47b92da8</code></a>\n</li>\n</ul>\n</li>\n<li>TEST Garden DAO: <a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc\"><code>0xf7ac40a5d0933e13b346ee611d9072b6095f43fc</code></a> (vote duration: 2 days)</li>\n</ul>\n<p>This is the EVMcl we used to create the “Mock” Hatch DAO from a normal Company DAO, for testing purposes only:</p>\n<pre><code class=\"lang-auto\">connect 0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb token-manager voting\ninstall agent:new\ninstall migration-tools-beta.open:new token-manager agent agent:new\ngrant migration-tools-beta.open:new agent TRANSFER_ROLE voting\ngrant migration-tools-beta.open:new agent:new TRANSFER_ROLE voting\ngrant voting migration-tools-beta.open:new MIGRATE_ROLE voting\n</code></pre>\n<p>This is the script we used to obtain TECH tokenholders, in order to mock their token in the Mock Hatch DAO:</p>\n<pre><code class=\"lang-auto\">fetch('https://blockscout.com/xdai/mainnet/api?module=token&amp;action=getTokenHolders&amp;contractaddress=0x799844141C2627bD195c89c3A0c71341d0314c55&amp;offset=280')\n  .then((o) =&gt; o.json())\n  .then(o =&gt; o\n    .result\n    .map(holder =&gt; holder.address + \" \" + (holder.value / 1e18))\n    .join('\\n'))\n  .then(console.log)\n</code></pre>\n<p>The votes and the results of the demo will be announced in this thread.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-12-07T07:40:39Z",
+   "updated_at": "2021-12-07T07:40:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=10\" title=\":partying_face:\"/> <img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/> <img alt=\":robot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=10\" title=\":robot:\"/> <img alt=\":muscle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/muscle.png?v=10\" title=\":muscle:\"/> <img alt=\":tec_logo:\" class=\"emoji emoji-custom\" src=\"https://forum.tecommons.org/uploads/default/original/1X/8bced1b5301087c16ea9426a4f9c403630d324e6.png?v=10\" title=\":tec_logo:\"/> <img alt=\":ear:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ear.png?v=10\" title=\":ear:\"/> Do you hear that? I could swear I keep hearing Bill Pullman shouting about something… <img alt=\":man_shrugging:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/man_shrugging.png?v=10\" title=\":man_shrugging:\"/> probably nothing.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-07T15:50:34Z",
+   "updated_at": "2021-12-07T15:50:34Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>The first vote has been created December 7th at 15:36h UTC due to some technical complications, and will be open until December 8th at 15:36h UTC. The parameter set that received more votes until now in tokenlog is <a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/91\">TEC Casino</a>. We adapted the token name, symbol, vote duration, delegated voting period, min quorum, and execution delay for the purpose of this test. The resting parameters are as they are in the proposal.</p>\n<p><a href=\"https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1/\"><strong>&gt;&gt; Migration Vote &lt;&lt;</strong></a></p>\n<p>This vote migrates the funds from a “Mock” Hatch DAO to a new (“staging”) demo Garden that has been modified to receive the funds if and only if it is going to mint tokens for all the Hatch DAO tokenholders as a security measure.</p>\n<p>Three addresses are granted with 1,000 TESTTEC in order to be able to deposit some stake into the agreement and be able to create the next vote. In the real DAO the addresses that are responsible for that should send back the TEC to the LASERTAG multisig when their job has finished.</p>\n<p>If this vote passes, TESTTEC tokenholders should be able to propose test conviction votes and make them pass. The opening of the demo bonding curve vote will start on Thursday if everything goes as expected.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-12-08T19:09:14Z",
+   "updated_at": "2021-12-08T19:09:14Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>15% of token holders voted on a DEMO proposal…</p>\n<p>Probably Nothing…</p>\n<p><img alt=\":white_check_mark:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_check_mark.png?v=10\" title=\":white_check_mark:\"/> <a href=\"https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1/\">Hatch DAO Demo Step 1</a> <img alt=\":tada:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=10\" title=\":tada:\"/> <img alt=\":tada:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=10\" title=\":tada:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-08T23:38:00Z",
+   "updated_at": "2021-12-08T23:38:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The migration process has been completed and <a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc\">the new test garden</a> is live with 1,995,737 TestTEC.</p>\n<p>Tomorrow at 12:00 UTC we launch the second vote to open the bonding curve.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-09T12:37:21Z",
+   "updated_at": "2021-12-09T12:37:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc/vote/1\">The vote for opening the bonding curve</a> is live in the new garden. The voting duration was modified for fitting a short demo, so you should be able to vote until Saturday 6:30 am UTC, after that, there is a 12 hours delegated voting period, and the vote should be executable on Saturday 12:30 pm UTC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-09T23:28:16Z",
+   "updated_at": "2021-12-09T23:28:16Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Some problems raised to the surface with this demo, and we have taken action so solve them.</p>\n<ol>\n<li>We were calculating wrong the proposal deposit and challenge deposit amounts on the garden creation from the commons config parameters. <a href=\"https://github.com/CommonsSwarm/commons-upgrade/commit/15bc59e8a8d4175e254c07e036cef6276b887792\">This is fixed now</a> but for the demo they will remain pretty low (2.5 TestTEC for creating proposals and 5 TestTEC for challenging them).</li>\n<li>The mock hatch dao had the double of the tDAI that it had to have (we minted it twice). This is fixed as well, but the second vote (the one that opens the ABC) must be repeated.</li>\n<li>We thought that the delegated voting period was added on top of the voting period, and the token thaw and freeze depends on that. <a href=\"https://github.com/CommonsSwarm/commons-upgrade/commit/c7e7c314d8e6e09f3ebc63b040e6fc5c9a03587b\">We fixed it</a> for the TEC launch.</li>\n</ol>\n<p>The old vote has been disputed and settled, and <a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc/vote/3\">a new vote has been created</a> to open the bonding curve with the right reserve ratio and do the initial buy. You can vote now until Saturday at 11 pm UTC.</p>\n<p><strong><a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc/vote/3\">&gt;&gt; Please vote here &lt;&lt;</a></strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-12T00:55:36Z",
+   "updated_at": "2021-12-12T01:14:10Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The opening of the bonding curve did not go as expected, so we will have to open it with the corrected parameters again.</p>\n<p>We will do it in three steps:</p>\n<ol>\n<li><strong><a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc/vote/4\">Close the bonding curve</a> (the vote is already on).</strong></li>\n<li><strong><a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc/vote/6\">Restore the same balances we had before the vote</a> (vote in here as well, please).</strong></li>\n<li>Open it again.</li>\n</ol>\n<p>I’m really sorry for the inconvenience.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-18T02:28:30Z",
+   "updated_at": "2021-12-18T02:28:30Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The vote to open de bonding curve is up, sorry for taking that long, I just wanted to make sure all the numbers made sense.</p>\n<p><strong><a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc/vote/7\">&gt;&gt; Open Testing Bonding Curve Vote &lt;&lt;</a></strong></p>\n<p>The reserve ratio is set to 3.2056% so the opening price can be 1.20 wxDAI. The “initial buy” with 250,000 wxDAI from the common pool will increase the price to approximately 4.89 wxDAI/TestTEC.</p>\n<p>This is the evmcl used to create the vote:</p>\n<pre><code class=\"lang-nohighlight\">connect 0xf7ac40a5d0933e13b346ee611d9072b6095f43fc disputable-voting.open @context:Open ABC\nexec augmented-bonding-curve.open addCollateralToken 0x70be33ccef2d04d52ab5f1dabb15291f47b92da8 1e18 1e18 32056\nact agent 0x70be33ccef2d04d52ab5f1dabb15291f47b92da8 approve(address,uint256) augmented-bonding-curve.open 250000e18\nact agent augmented-bonding-curve.open makeBuyOrder(address,address,uint256,uint256) agent 0x70be33ccef2d04d52ab5f1dabb15291f47b92da8 250000e18 0\n</code></pre>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-12-19T23:28:13Z",
+   "updated_at": "2021-12-19T23:28:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a href=\"https://blockscout.com/poa/xdai/tx/0x9563e7789fcce0910f5bab3c9b460d17c4ea254c8852dc5398e2b88b30101474\">The vote has been executed</a> and the bonding curve can be tested at <a href=\"http://convert.tecommons.org\">convert.tecommons.org</a>.</p>\n<p>The price after the initial buy of 250k tDAI is 4.8125629 tDAI/TestTEC. The initial buy bought  \t94,462.382 TestTEC that sent to the Common Pool (it could be sent to Laser Tag multisig or anywhere else with one vote). This buy also sent 1,875 tDAI back to the Common Pool due to the entry fee of 0.75%.</p>\n<p>This completes the Commons Upgrade demo, and means that all technical aspects are ready for the launch of TEC after the param debates. In the meanwhile, don’t hesitate to test the bonding curve with your tDAI!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013523",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211207194924",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220328060652",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706013523",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723"
+  }
+ ]
+}

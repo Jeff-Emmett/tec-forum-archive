@@ -1,0 +1,351 @@
+{
+ "id": 1278,
+ "title": "Strengths and Weaknesses of Conviction Voting and Other Mechanisms",
+ "slug": "strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms",
+ "category_id": 5,
+ "more_after": 21,
+ "posts_count": 34,
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "created_at": "2023-08-02T14:41:55Z",
+ "last_archived_post_at": "2023-08-14T15:38:26Z",
+ "captured_between": [
+  "2023-10-02T20:54:30Z",
+  "2023-10-02T20:54:30Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-02T14:41:55Z",
+   "updated_at": "2023-08-02T14:41:55Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>There is no perfect mechanism, in theory (see the No Free Lunch theorem) or in practice (think about your life). Each mechanism (besides completely random distribution) has a unique of profile of situations where it will perform better in response to certain objectives, and other situations where it will perform worse.</p>\n<p>I am requesting the following information about Conviction Voting:</p>\n<ul>\n<li>the objective function that Conviction Voting seeks to address, either in a formula, code, or verbal description</li>\n<li>a concise description of the strengths and weaknesses of Conviction Voting as a mechanism</li>\n</ul>\n<p>As an example, this is not hard to do for Quadratic Voting</p>\n<p><strong>Objective Function</strong><br/>\nThe objective of Quadratic Funding is to solve the free rider problem: the fact that when the community pays for a public good, individuals have an incentive to use that good without contributing corresponding value to its development. In a “pay what you can” public bus model, many riders will pay less than they actually can, trusting that someone else will make up the difference. Quadratic Funding, in theory, makes it so that no bus rider has a reason to pay less than they actually can.</p>\n<p>The mathematical process for computing the objective function is:<br/>\nStep 1. Take the vote record for a given project, i.e. how much each voter allocated to the project.<br/>\nStep 2. Take the square root of each vote record.<br/>\nStep 3. Add up all the numbers from Step 2.<br/>\nStep 4: Take the number from Step 2, and square it.<br/>\nStep 5: Since the funding pool is limited,  the number from Step 4 is likely too large to match. So scale Step 4 to a ratio (i.e. the total % of all such calculations across all such pools) and distribute accordingly</p>\n<p>In python code, if each agent has a <strong>votes</strong> dict where the keys are projects and the values are corresponding value allocations, we can define</p>\n<pre><code class=\"lang-python\">def quadratic_fund(str: project) -&gt; float:\n    allocation = np.square(np.sum([sqrt(agent.votes.get(project) for agent in system.agents])))\n    return allocation\n</code></pre>\n<p><strong>Strengths and Weaknesses of Quadratic Voting</strong></p>\n<p>Strengths:</p>\n<ul>\n<li>\n<strong>Strength 1:</strong> from the perspective of pure math, maximizes the utility function described above</li>\n<li>\n<strong>Strength 2:</strong> democratic, in that it decreases the impact of whales in making decisions</li>\n<li>\n<strong>Strength 3:</strong> meme potential. “WTF is QF?”, “Even $1 counts!”, “Finally the voice of the masses is heard again”, “This is the mathematically optimal way to fund”, etc.</li>\n</ul>\n<p>Weaknesses:</p>\n<ul>\n<li>\n<strong>Weakness 1:</strong> Vulnerable to sybil attacks. The mathematical solution to the problem described above depends crucially on the assumption of strong identity: we know who each person voting is, and we’re sure that they only vote once. This works in an in-person situation where we can see that there is only one person, and that they have only put one envelope in each box. In situations where you can make up new people (like anonymous online accounts), the system is easily gamed and other enforcement mechanisms (such as eyeball-scanning or intelligence gathering) are needed.</li>\n<li>\n<strong>Weakness 2:</strong> Collusion. Quadratic Voting assumes that each agent is expressing their own authentic preferences. If agents communicate to formulate a funding strategy before the meeting, the assumption no longer works. This is mitigated slightly in meatspace, there is no way to know who defected if a collusion strategy doesn’t work – but since votes are tied to addresses onchain, colluders can see if agreements were honored.</li>\n<li>\n<strong>Weakness 3.</strong> Ethical foundations. It may be that the better-resourced agents achieved this status by making sound investments, and so would be better-positioned to make decisions for the community as well. While one may argue that they an individual ultimately seeks their own welfare, this is true of all individuals, regardless of their resources.</li>\n<li>\n<strong>Weakness 4.</strong> Cognitive and Communicative Complexity. At this point, the number of people who understand the relatively simple formula is surprisingly small (e.g. the people who could calculate matching amounts for two pools with five voters, using Excel). This is downstream of issues in global mathematics education.</li>\n</ul>\n<p>There is nothing special about Conviction Voting in this scenario, it is simply a mechanism that this community has the most experience with, and one we voted to approve for use. I would like to suggest that as a Token Engineering discipline, we work towards one-page explainers like the one I have above for any mechanism under consideration (references and hyperlinks can provide more depth for those who wish to go there).</p>\n<p>The key value I am emphasizing here is being adversarial in our thinking and pragmatic about our investments. It is more pleasant to focus on the situations where things work well than those where they don’t, but it is important to have a <strong>clear</strong> understanding of both: risks as well as benefits.</p>\n<p>As a practical matter, this relates to two things:</p>\n<ol>\n<li>Defining standards for communication within the TEC, to support the flow of information among “subject matter experts” as well as “non-math people”</li>\n<li>Establishing adversarial mindset and discussion of potential weaknesses as a professional norm</li>\n</ol>\n<p>Tagging people who may be able to offer the insight I request, or who may have thoughts about a general discussion (in no particular order): and<br/>\n<a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> <a class=\"mention\" href=\"/u/rex\">@rex</a> <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> <a class=\"mention\" href=\"/u/liviade\">@liviade</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> (and apologies to anyone I overlooked who may have helpful viewpoints).</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-02T14:42:22Z",
+   "updated_at": "2023-08-02T14:42:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>An attack on the “only tag ten users per post” mechanism.</p>\n<p><a class=\"mention\" href=\"/u/solsista\">@Solsista</a> <a class=\"mention\" href=\"/u/dawg\">@dawg</a> <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> <a class=\"mention\" href=\"/u/mount_manu\">@Mount_Manu</a> <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/tamara\">@Tamara</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "mzargham",
+   "name": null,
+   "created_at": "2023-08-02T16:17:08Z",
+   "updated_at": "2023-08-02T16:17:08Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>conviction voting first needs to be split between the signal aggregation mechanism (estimator) and trigger function (controller). The second piece, the trigger function was added for the specific purpose of regulating a financial valve and does not represent the conviction voting itself, only a context specific application thereof.</p>\n<p>The actual purpose of developing conviction voting was the recognition that smart contracts by default operate in one of two discrete modalities:</p>\n<ul>\n<li>event based state changes that require active interaction (near real time)</li>\n<li>time locked windows that prevent changes for changes from happening until a period has passed (blockheight based assertioons).</li>\n</ul>\n<p>There are also some linear vesting windows that do some modest smoothing but for the most part these are mirrors of the legacy world mechanisms and do not present the expressive power of programable contracts to emulate natural systems.</p>\n<p>One of the most fundamental “regulatory” mechanisms in the natural world is the <a href=\"https://en.wikipedia.org/wiki/Low-pass_filter\" rel=\"noopener nofollow ugc\">“low pass filter”</a> it is manifest as inertia, as capacitors charging and discharging, and can even <a href=\"https://web.mit.edu/endy/www/scraps/signal/JPhysChemA(106)10205.pdf\" rel=\"noopener nofollow ugc\">simple chemical systems</a>).</p>\n<p>The original motivation was to introduce this concept into the web3 space, there is a pdf containing the short grant proposal i wrote about it here:</p><aside class=\"onebox githubblob\" data-onebox-src=\"https://github.com/BlockScience/conviction/blob/master/social-sensorfusion.pdf\">\n<header class=\"source\">\n<a href=\"https://github.com/BlockScience/conviction/blob/master/social-sensorfusion.pdf\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<h4><a href=\"https://github.com/BlockScience/conviction/blob/master/social-sensorfusion.pdf\" rel=\"noopener nofollow ugc\" target=\"_blank\">BlockScience/conviction/blob/master/social-sensorfusion.pdf</a></h4>\n\n\n  This file is binary. <a href=\"https://github.com/BlockScience/conviction/blob/master/social-sensorfusion.pdf\" rel=\"noopener nofollow ugc\" target=\"_blank\">show original</a>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>I would posit that broadly, it should be used or not used in accordance with first principles of signal processing and control – but in general low pass filters are good for giving things inertia, and bad because they give things inertia.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "mzargham",
+   "name": null,
+   "created_at": "2023-08-02T16:25:15Z",
+   "updated_at": "2023-08-02T16:25:15Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1278\" data-username=\"mzargham\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/mzargham/40/126_2.png\" width=\"20\"/> mzargham:</div>\n<blockquote>\n<p>I would posit that broadly, it should be used or not used in accordance with first principles of signal processing and control – but in general low pass filters are good for giving things inertia, and bad because they give things inertia.</p>\n</blockquote>\n</aside>\n<p>to be less <em>tongue in cheek</em> about it, i believe that it is important for incentive systems of various kinds to have <a href=\"https://en.wikipedia.org/wiki/Passivity_(engineering)\" rel=\"noopener nofollow ugc\">passivity</a> and even be <a href=\"https://en.wikipedia.org/wiki/Dissipative_system\" rel=\"noopener nofollow ugc\">dissapative</a>. This can be likened to concept like <a href=\"https://en.wikipedia.org/wiki/Demurrage_(currency)\" rel=\"noopener nofollow ugc\">demurrage</a> in economics. Ultimately, though designing any feedback system whether its modeled after nature, circuits or economics needs to have its regulatory mechanisms chosen and tuned to their context, so the argument for conviction voting is really just that we need some ways of developing simple stable linear system dynamics as a jumping off point to more novel and interesting algorithmic policy designs.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "mzargham",
+   "name": null,
+   "created_at": "2023-08-02T16:28:54Z",
+   "updated_at": "2023-08-02T16:28:54Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>One last message, as a sanity check, i queried GPT4 as follows</p>\n<blockquote>\n<p>what are some strengths and weaknesses of low pass filters as a primitive concept used in the regulation of feedback systems, in particular for circumstance where human behavior on the part of a population produces the signals which are being aggregated according to this mechanism</p>\n</blockquote>\n<p>Low pass filters, as used in control and feedback systems, primarily serve to reduce the effects of high-frequency noise or signals while allowing low-frequency signals to pass through. In this context, you’re considering low pass filters as a tool for regulating feedback from human behaviors in a population, which are a type of complex, dynamical system.</p>\n<p>Strengths of low pass filters:</p>\n<ol>\n<li>\n<p>Noise Reduction: Low pass filters are effective at reducing high-frequency noise. This is advantageous in the context of behavioral data, which may include sporadic, impulsive actions or high frequency changes that do not represent the overall trend or state of the population.</p>\n</li>\n<li>\n<p>Smoothing Data: Because they allow low-frequency signals to pass through while attenuating high-frequency components, low pass filters can help smooth the data and highlight long-term trends or behavior patterns.</p>\n</li>\n<li>\n<p>Stability: In control systems, the use of a low pass filter can increase the system’s stability by reducing the influence of sudden, high frequency changes and fluctuations.</p>\n</li>\n</ol>\n<p>Weaknesses of low pass filters:</p>\n<ol>\n<li>\n<p>Delay: Low pass filters can introduce phase delay, causing the output signal to lag behind the input signal. This could be problematic in real-time or near real-time systems where rapid responses to changing conditions are necessary.</p>\n</li>\n<li>\n<p>Information Loss: While the smoothing effect can help highlight overall trends, it can also lead to loss of potentially important high-frequency information. If those high-frequency behaviors are significant, their suppression could lead to misleading analysis.</p>\n</li>\n<li>\n<p>Oversimplification: A low pass filter inherently assumes that high-frequency signals are noise and low-frequency signals are the meaningful part of the data. However, in complex systems like human behaviors, this may not always be the case. Rapid, collective changes may carry important information about the system’s dynamics.</p>\n</li>\n<li>\n<p>Tuning Difficulty: Selecting the correct cutoff frequency for a low pass filter in such a complex application can be challenging. If set too low, it may remove meaningful data; if set too high, it may not sufficiently reduce noise.</p>\n</li>\n<li>\n<p>Non-linear and Adaptive Behaviors: Human behaviors often exhibit non-linear and adaptive characteristics that may not be well-represented in a linear filtering process.</p>\n</li>\n</ol>\n<p>Overall, while low pass filters can be a useful tool in understanding the aggregated behavior of a population, their applicability needs to be carefully considered, and other methods for signal processing and data analysis may also need to be employed. These can include methods better suited for handling non-linear and high-dimensional data, such as machine learning and complex systems analysis.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "rex",
+   "name": null,
+   "created_at": "2023-08-02T20:06:12Z",
+   "updated_at": "2023-08-02T20:06:12Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I am loving this discussion, and I would bring to light that voting systems have an even more interesting background in social choice policy than the <em>‘No Free Lunch’</em> theorem.</p>\n<p>Economist, mathematician and Nobel Laureate Kenneth Arrow wrote in his dissertation about what is now known as the “<em>general possibility theorem</em>”. It concludes that no rank-order electoral system is perfectly fair on the basis of the following criteria:</p>\n<ol>\n<li>\n<p>Unrestricted Domain: The voting system should allow any possible set of individual preferences as input.</p>\n</li>\n<li>\n<p>Transitivity: If a majority prefers option A over option B and another majority prefers option B over option C, then the society as a whole should prefer option A over option C.</p>\n</li>\n<li>\n<p>Independence of Irrelevant Alternatives: The ranking of two options should not be influenced by the addition or removal of a third.</p>\n</li>\n<li>\n<p>Non-dictatorship: No single voter should have the power to dictate the outcome of the collective decision.</p>\n</li>\n</ol>\n<hr/>\n<p>ChatGPT’s response to “briefly explain the importance of arrow’s impossibility theorem in the context of voting systems in token and crypto ecosystems” was:</p>\n<blockquote>\n<p>Arrow’s Impossibility Theorem by economist Kenneth Arrow asserts that it’s impossible to create a perfect voting system meeting all desirable criteria. In token and crypto ecosystems, this theorem is relevant to decentralized decision-making through voting. It highlights:</p>\n<ol>\n<li>\n<p><strong>No Perfect System</strong>: No voting system can fulfill all criteria simultaneously, including unrestricted choice, no dictator, transitivity, and independence of alternatives.</p>\n</li>\n<li>\n<p><strong>Infeasibility</strong>: Designing a fair decentralized voting system is challenging due to inherent trade-offs; Arrow’s theorem proves a perfect system is unattainable.</p>\n</li>\n<li>\n<p><strong>Trade-Offs</strong>: Voting mechanisms must balance criteria trade-offs, impacting system design and fairness.</p>\n</li>\n<li>\n<p><strong>Strategic Behavior</strong>: People might manipulate voting, requiring robust anti-manipulation measures.</p>\n</li>\n<li>\n<p><strong>Blockchain’s Role</strong>: While blockchain enhances transparency, the theorem’s lessons persist; hybrid models combining different methods might be necessary.</p>\n</li>\n<li>\n<p><strong>Hybrid Solutions</strong>: Acknowledging Arrow’s limitations, ecosystems can blend direct voting, delegation, and prediction markets for improved governance.</p>\n</li>\n</ol>\n<p>In sum, Arrow’s Impossibility Theorem warns against expecting flawless voting systems. Instead, it encourages thoughtful, innovative design that considers trade-offs to achieve effective and equitable governance.</p>\n</blockquote>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-08-02T21:59:20Z",
+   "updated_at": "2023-08-02T21:59:20Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’m thrilled by this thread as well.</p>\n<aside class=\"quote no-group quote-modified\" data-post=\"1\" data-topic=\"1278\" data-username=\"octopus\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/o/ebca7d/40.png\" width=\"20\"/> octopus:</div>\n<blockquote>\n<pre><code class=\"lang-python\">def quadratic_fund(str: project) -&gt; float:\n    allocation = np.square(np.sum([sqrt(agent.votes.get(project)) for agent in system.agents]))\n    return allocation\n</code></pre>\n</blockquote>\n</aside>\n<p>Small comment on the above (and also fixed a parenthesis error).</p>\n<p>The TEC is using SME signal boosting for their QF algo as described here: <a class=\"inline-onebox\" href=\"https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23\" rel=\"noopener nofollow ugc\">Incorporating Expertise into Quadratic Funding | Token Engineering Commons</a></p>\n<p>So I would propose a formula for TEC QF to be more like:</p>\n<pre><code class=\"lang-python\">def quadratic_fund(str: project) -&gt; float:\n    allocation = np.square(np.sum([sqrt(system.projects[project].coefficient * agent.votes.get(project)) for agent in system.agents]))\n    return allocation\n</code></pre>\n<p><a class=\"mention\" href=\"/u/rex\">@rex</a> <a class=\"mention\" href=\"/u/enti\">@enti</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <a class=\"mention\" href=\"/u/octopus\">@octopus</a> does the above look correct?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-08-03T18:01:00Z",
+   "updated_at": "2023-08-03T18:01:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1278\" data-username=\"mzargham\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/mzargham/40/126_2.png\" width=\"20\"/> mzargham:</div>\n<blockquote>\n<p>I would posit that broadly, it should be used or not used in accordance with first principles of signal processing and control – but in general low pass filters are good for giving things inertia, and bad because they give things inertia.</p>\n</blockquote>\n</aside>\n<p>Having tracked our experience with CV fairly closely over the past year and a half, this question of <strong>inertia</strong> hits home. The rate of conviction growth for a given project varies with the amount of un-allocated conviction in the whole system. In practice, we allocated conviction to an “abstain” project to slow down that overall rate of conviction.</p>\n<p>One of the key challenges came when token holders had their conviction pinned to “abstain” and then took it off to vote for a project. When that project passed, their funds remained in the unallocated pool, which sped up the rate of conviction and made other projects with relatively low conviction pass more quickly.</p>\n<p>There are probably tweaks that we could eventually make – like the ability to automatically revert one’s tokens back to “abstain” after a project passes – that could help improve the expected behavior of the system.</p>\n<p>I’m actually still very bullish about CV for the TEC – especially once we are able to start replenishing the Common Pool again. And I think it’s worth eventually figuring out how to do some more discipline analysis of what worked and what didn’t.</p>\n<p>But replenishing the Common Pool is going to take some time and real work. In the meantime, QF provides a number of short-term benefits, in that it: leverages TEC funds as a match to stimulate donations by others and helps us find like-minded folks interested in funding TE in the process, gets more visibility for the TEC, and slows down and makes our burn rate more predictable, which is important right now as we rebuild.</p>\n<p>Thanks for starting this conversation <a class=\"mention\" href=\"/u/octopus\">@octopus</a> and for your explanations, <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-03T21:09:08Z",
+   "updated_at": "2023-08-03T21:09:08Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I agree with everyone…what a great discussion! The TEC is a great place to learn.</p>\n<p>I will make two posts, since I think the posts by <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> provide two separable threads:</p>\n<ol>\n<li>Contextual information that provides first step towards understanding the strengths and weaknesses of Conviction Voting as a mechanism.</li>\n<li>An overall philosophical discussion of the Low-Pass Filters in information processing, and how exactly TradEng mechanisms should inspire TokEng mechanism design.</li>\n</ol>\n<p>I address these points in the order listed.</p>\n<p>a.) Though the “it provides inertia” response was intended to be to tongue-in-cheek, I think that it actually hits on a useful design principle: the strength of a system’s design is often exactly its weakness. It is a question of fitting the mechanism to the intentions of the designer and the needs of the users. I think this is  TokEng principle that hasn’t been explicitly stated before – it is obvious to experienced people in the field, but needs to be hammered home for beginners.</p>\n<p>b.) ChatGPT apparently has heard of Conviction Voting, and offered this summary of its strengths and weaknesses. I’m wondering how much is accurate vs. hallucination.</p>\n<pre><code class=\"lang-auto\">\nCertainly! Conviction Voting is a mechanism used in Token Engineering, where participants allocate tokens to different proposals based on their conviction for the proposal's value. Here are its strengths and weaknesses:\n\nStrengths:\n1. **Inclusivity**: Conviction Voting allows all participants to have a say in decision-making, as long as they hold tokens. This inclusivity promotes a more democratic process.\n\n2. **Dynamic Allocation**: Participants can allocate tokens dynamically, adjusting their allocation as they gather more information or change their opinions, leading to more accurate representation of preferences.\n\n3. **Flexibility**: It provides flexibility to distribute tokens across multiple proposals, rather than a simple yes/no choice, enabling more nuanced decision-making.\n\n4. **Balancing Short and Long-term Goals**: The conviction-based mechanism can help balance short-term gains with long-term benefits, as participants need to consider the potential impact of proposals over time.\n\nWeaknesses:\n1. **Complexity**: Conviction Voting can be complex to understand, especially for newcomers. The calculation of conviction values might involve intricate formulas, making it challenging for participants to fully grasp.\n\n2. **Token Distribution**: It assumes a fair and well-distributed token allocation, which might not be the case in all scenarios. Unequal token holdings could lead to disproportionate influence.\n\n3. **Gamification**: Participants might \"game\" the system by strategically allocating tokens to proposals they don't fully believe in, affecting the accuracy of the decision-making process.\n\n4. **Token Lock-in**: Conviction Voting often requires participants to lock up their tokens for a certain period. While this prevents rapid vote-switching, it also reduces participants' liquidity and flexibility.\n\n5. **Vulnerability to Manipulation**: It's possible for a well-coordinated group to manipulate the system by colluding to boost a particular proposal's conviction without genuine support.\n\n6. **Subjectivity**: Conviction Voting relies on participants' subjective opinions about the value of proposals, which can introduce bias and make the outcome less objective.\n\nIn summary, Conviction Voting offers a more dynamic and nuanced decision-making process in Token Engineering, but it comes with challenges related to complexity, token distribution, manipulation, and subjectivity. Its suitability depends on the specific context and goals of the token-based system.\n</code></pre>\n<p>It’s cool to see ChatGPT actually design some attack vectors, though I think some of these are a bit genetic (subjectivity? in human voting systems? the horror!)</p>\n<p>In reading this I realized that CV will likely also fail the “Irrelevance of Clones” criterion (Quadratic Voting and Simple Democratic Majority do as well). It’s a cool application that I think lends credence to the ongoing work of <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> and <a class=\"mention\" href=\"/u/roro\">@roro</a> (who I should have tagged earlier as having relevant expertise).</p>\n<p>In the next post, let’s discuss LowPass Filters and the general philosophy of translating TradEng mechanisms to TokEng.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-03T22:02:53Z",
+   "updated_at": "2023-08-03T22:02:53Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>My prior experience with Low-Pass Filters consists of entirely of trying to design weird sound effects using digital audio programs. I have read Julius O. Smith’s book about Digital Signal Processing about ten times in this quest. I have never used or thought about Low-Pass Filters in a physical or analog context.</p>\n<p>It took me some time to find specific examples of Low-Pass Filters in natural systems. There is nothing on the Wikipedia page for Low-Pass Filters about natural systems, nor did I find much evidence for this statement in my  first ten Google results for <strong>“low-pass filters” + “natural systems”</strong> – though this paper <a class=\"inline-onebox\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026371/\" rel=\"noopener nofollow ugc\">Molecular Filters for Noise Reduction - PMC</a> suggests that Low-Pass Filters are often used as an approximating conceptual model in biological systems, but acknowledges they don’t exactly fit.</p>\n<p>ChatGPT offered multiple examples, of which I sample:</p>\n<ul>\n<li>Oceans act as a type of low-pass filter in climate</li>\n<li>“Finance” generically, which I would specify includes time-weighted averaging</li>\n<li>Human Hearing as it filters out noise</li>\n</ul>\n<p>This led me to believe that the term “Low-Pass Filter” is <em>not</em> a mechanism in the sense that Quadratic Voting is – it is more like an ideal form, what software engineers might call an interface, or what TradEng might call a reference spec(?).</p>\n<p>Specific physical systems will need to have different mechanisms for implementation to reach the behavior that approximates the “ideal” Low-Pass Filter (the word “ideal” here is again from Julius O. Smith’s book). I’m not sure what research exists on what mechanisms would implement this concept well in a blockchain-based system.</p>\n<p>A specific mechanism for implementating of a Low-Pass Filter will again be subject to the No Free Lunch Theorem, and so will have equivalent average performance across all possible problem instances. If it has impressive “overperformance” on some problem instances, it must then have “underperformance” on others.</p>\n<p>This is why I asked for some context about the objective function of the system.</p>\n<p>I do see this discussion in the paper that <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> has posted, but I couldn’t find a specific description of the “h” in any of the other literature I surveyed. If I have overlooked something or if someone has the “h” optimized for in the TEC CV system, please let me know.</p>\n<p>I also appreciate other responses and am grateful to see this forum alive again.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-03T22:32:44Z",
+   "updated_at": "2023-08-03T22:32:44Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>At the risk of being an airwave dominator, I wanted to throw on a few more thoughts not related to the above points:</p>\n<ol>\n<li>\n<p><a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> You know I am in awe of your rapid coding ability. Thank you so much for what you were able to do with my code snippet. The community will benefit so much from this data processing!</p>\n</li>\n<li>\n<p><a class=\"mention\" href=\"/u/rex\">@rex</a> Thanks for the callout on Arrow’s Theorem! I think it’s  definitely morally (and perhaps logically, in the proof sense) equivalent to the No Free Lunch Theorem. TE Academy hosted a nice session on this last year.</p>\n</li>\n<li>\n<p><a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> Thanks for your perspective, I hope we can continue to think carefully about these things together.</p>\n</li>\n<li>\n<p><a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> I can’t remember if I thanked you at the outset (it was a lot of words ago <img alt=\":laughing:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/laughing.png?v=12\" title=\":laughing:\" width=\"20\"/>), but I want to again acknowledge your gracious willingness to share from your vast knowledge base in traditional engineering, as well as how it might apply to Token Engineering.</p>\n</li>\n</ol>\n<p>Again I want to say, I am not saying CV is not a bad mechanism! I am saying:</p>\n<ol>\n<li>It is good for some situations, and I want to understand those situations better.</li>\n<li>I think that in general, the TEC community would be better-served if it had a better understanding of the strengths and weaknesses of the mechanisms it considers. If we are building a car, we need to be sure that the potential drivers know mechanisms of safe operation.</li>\n</ol>\n<p>I will hang up and listen for a bit</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "mzargham",
+   "name": null,
+   "created_at": "2023-08-03T22:45:07Z",
+   "updated_at": "2023-08-03T22:45:07Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<blockquote>\n<p>This led me to believe that the term “Low-Pass Filter” is <em>not</em> a mechanism in the sense that Quadratic Voting is – it is more like an ideal form, what software engineers might call an interface, or what TradEng might call a reference spec(?).</p>\n</blockquote>\n<p>I think this is the right intuition; i usually describe this as a separation between function and structure, or between an idealized model of a phenomena and the form its manifestation takes. This separation is natural for engineers trained on physical systems because there is a starker gap between the designed system and the fabricated one.</p>\n<p>I would also add that quadratic voting is actually an in many ways an implementation of <em>least squares</em> which is itself a pretty fundamental concept – though open question whether it is “natural” to the extent that <em>inertia</em> is. For one thing least squares describes a snapshot rather than a dynamic process – though in my mind, it most closely related physical processes are probably flows described energy minimization. In many ways inertia (conservative/maintaining) and energy minimization (progressive/advancing) dynamics are highly complementary concepts (both in theory and in real world systems).</p>\n<p>This leads into the question of $h$. To my knowledge the application of Conviction Voting for TEC did not emanate from an estimator design workflow which would have called for us to decide upon an $h$. In fact, relatively little attention was paid to the estimator at all, relative to the controller (trigger function). I had likened the assemblage of the estimator and controller to activation potential building up and the neuron firing if a threshold was past.</p>\n<p>It seem to me that the choice to use this mechanism turned on that narrative rather than an engineering design workflow.</p>\n<p>I, for one, saw the configuration games the TEC went through as an experimental in novel design process – could we configure this apparatus by some combination of simulation, debate and trial and error. Thus far, I would say we have not done so, but i think this approach is more evolutionary: slower and more lossy than a rigorous (theory forward) signal processing and control engineering workflow would have been, but i also think it gave a lot more people real experience with the governance surface of these mechanisms.</p>\n<p>Whether its conviction voting or any other mechanism, it is all about understanding what that mechanism’s strengths and weaknesses are, and also how to use its parameters to tune it to a circumstances once its chosen.</p>\n<p>Since this thread is also about Quadratic funding, i think its worth noting the rarely acknowledged trade-off inherent in using least squares to process information from a human population:</p>\n<ul>\n<li>benefit: reduction in sensitivity to outlier weights (excess voice whether by wealth or other source signal)</li>\n<li>detriment: the attenuation of the power from higher voice weighted voters is not removed, it reappears in the form of empowering people with large social followings (eg large twitter follower counts).</li>\n</ul>\n<p>This is precisely because people with large followings generate large numbers of small donations or small voice commitments – so the algorithm amplifies those people.</p>\n<p>This can create issues for large platforms with many people engaging in voting or donating, but it’s not really a huge issue in a small community like the TEC. Same as we don’t really have a huge sybil attack issue, the active voting community is relatively small, and still practical to police both sybil attacks and address concerns if individuals social influence results in outsized influence.</p>\n<p>Honestly, I am sensitive not to weigh in publicly on anything I haven’t spent a lot of time thinking deeply about because, I would hate to have a flippant opinion replicated to degree that was incommensurate with the time spent developing that opinion. Its not wrong for people to base their opinions on the opinions of those they respect, it’s just that algorithm tunes UP that effect. That may or may not be something you want.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-04T04:00:44Z",
+   "updated_at": "2023-08-04T04:00:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"13\" data-topic=\"1278\" data-username=\"mzargham\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/mzargham/40/126_2.png\" width=\"20\"/> mzargham:</div>\n<blockquote>\n<p>This leads into the question of $h$. To my knowledge the application of Conviction Voting for TEC did not emanate from an estimator design workflow which would have called for us to decide upon an $h$. In fact, relatively little attention was paid to the estimator at all, relative to the controller (trigger function). I had likened the assemblage of the estimator and controller to activation potential building up and the neuron firing if a threshold was past.</p>\n<p>It seem to me that the choice to use this mechanism turned on that narrative rather than an engineering design workflow.</p>\n<p>I, for one, saw the configuration games the TEC went through as an experimental in novel design process – could we configure this apparatus by some combination of simulation, debate and trial and error. Thus far, I would say we have not done so, but i think this approach is more evolutionary: slower and more lossy than a rigorous (theory forward) signal processing and control engineering workflow would have been, but i also think it gave a lot more people real experience with the governance surface of these mechanisms.</p>\n</blockquote>\n</aside>\n<p>I was (and am) a fan of this general open tinkering playground design approach, based on what I view as the success of “citizen science” platforms to solve complex problems like <a href=\"https://eternagame.org/\" rel=\"noopener nofollow ugc\">EteRNA</a> and <a href=\"https://fold.it/\" rel=\"noopener nofollow ugc\">Foldit</a></p>\n<p>In retrospect I think that this particular process ran afoul of my own <a>Two-Confusion Principle</a>](<a class=\"inline-onebox\" href=\"https://www.youtube.com/watch?v=o3VLMcbnkOs\" rel=\"noopener nofollow ugc\">Pedagogy: The Two Confusion Principle - YouTube</a>),  as we were using a novel verification process to assess a novel mechanism. Combine this with the subsequent users who may not understand the mechanism that they are using, and there is a lot of uncertainty floating around.</p>\n<p>My main goal in this discussion is to make some sense of these various interacting uncertainties.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-08-05T20:05:54Z",
+   "updated_at": "2023-08-05T20:05:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>One of the challenges that token engineering, and likely all engineering, faces is bridging the expertise gap between system designers and system users. It requires the former to get really good at simplifying explanations and the latter to exert effort in understanding things beyond their current grasp. This gap is actually an application interface, and this post serves as an example of it. Here, I’m a system user and you <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> and <a class=\"mention\" href=\"/u/octopus\">@octopus</a>, you are designers. I’m trying to keep up. <img alt=\":wink:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=12\" title=\":wink:\" width=\"20\"/></p>\n<p>Here’s my takeaway from this conversation so far:</p>\n<ol>\n<li>QF is a kind of low-pass filter where the signal ‘frequency’ is wealth and least squares attempts to filter out signal distortion from concentrations of wealth in voting.</li>\n<li>CV is also a low-pass filter where the signal frequency is also wealth and ‘conviction’ attempts to filter out its voting distortion by spreading its impact over time.</li>\n</ol>\n<p>Is that an accurate distinction?</p>\n<p>One more question. It seems to me that the challenge the TEC encountered with CV was actually more about the <em>trigger function</em>. I don’t know the math here, but my observation of the system in operation was that the trigger depended upon on the unallocated pool of votes. As that pool shrank, conviction’s impact slowed, as expected. It probably just didn’t slowly quite quickly enough, and we saw the Common Pool shrinking at an unsustainable rate. We also had some serious surprises related to specifics related to using “abstain” to absorb the unallocated pool (see my comment above).</p>\n<p>Also, <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a>, with regard to this:</p>\n<aside class=\"quote no-group\" data-post=\"13\" data-topic=\"1278\" data-username=\"mzargham\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/mzargham/40/126_2.png\" width=\"20\"/> mzargham:</div>\n<blockquote>\n<p>This is precisely because people with large followings generate large numbers of small donations or small voice commitments – so the algorithm amplifies those people.</p>\n</blockquote>\n</aside>\n<p>Have you been following how we’re trying to incorporate TE expertise signals into the QF voting signal? Here’s a recap:<br/>\n<a class=\"onebox\" href=\"https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23\" rel=\"noopener\" target=\"_blank\">https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "haxelax",
+   "name": null,
+   "created_at": "2023-08-06T09:25:11Z",
+   "updated_at": "2023-08-06T09:25:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>What a great conversation, Thank you <img alt=\":slight_smile:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=12\" title=\":slight_smile:\" width=\"20\"/><br/>\nI hope to start up some research shortly to see if it is possible to predict centralization risk and voter activity in different voting mechanisms, using a combo of ABM and LLM. Specifically, to predict whether voter activity and power will become more or less distributed in different mechanisms and root causes, this plays into some earlier research I did on how to assess the level of decentralization. So, <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <a class=\"mention\" href=\"/u/octopus\">@octopus</a> <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> if there is already an initiative underway that I could plug into, please let me know. Thanks</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-06T21:09:17Z",
+   "updated_at": "2023-08-06T21:09:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Nice to see you <a class=\"mention\" href=\"/u/haxelax\">@haxelax</a></p>\n<p>Can you describe your previous work? I tend to prefer ABMs for modeling work, and LLMs offer cool new capabilities.</p>\n<p>Right now the only relevant initiative in the TE community I know of would be from <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> and <a class=\"mention\" href=\"/u/roro\">@roro</a></p><div class=\"youtube-onebox lazy-video-container\" data-provider-name=\"youtube\" data-video-id=\"R43vlEa8EXk\" data-video-start-time=\"0\" data-video-title=\"AI-powered Token Engineering – Angela Kreitenweis, Rohan Mehta\">\n<a href=\"https://www.youtube.com/watch?v=R43vlEa8EXk\" rel=\"noopener nofollow ugc\" target=\"_blank\">\n<img class=\"youtube-thumbnail\" height=\"388\" src=\"https://img.youtube.com/vi/R43vlEa8EXk/maxresdefault.jpg\" title=\"AI-powered Token Engineering – Angela Kreitenweis, Rohan Mehta\" width=\"690\"/>\n</a>\n</div>\n<p>But there are others both in the  crypto world and the broader research space.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "haxelax",
+   "name": null,
+   "created_at": "2023-08-07T06:12:18Z",
+   "updated_at": "2023-08-07T15:11:20Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Sure, here is a link: <a class=\"inline-onebox\" href=\"https://csimq-journals.rtu.lv/article/view/csimq.2022-31.04/2972\" rel=\"noopener nofollow ugc\">When is a DAO Decentralized? | Axelsen | Complex Systems Informatics and Modeling Quarterly</a>. It was an attempt to create a pragmatic assessment framework (TIGER) for DAOs (and regulatory supervisors) to assess level of decentralization and whether an otherwise regulated activity should fly below the supervisory radar.  The past months I have been working on using GPTs for community governance in blockchain based business models and I thought it could be interesting to mix ABM and GPT starting with the ‘G’ or Governance in the framework mentioned. There would be several dimensions  1) Using the LLM to create scenarios and interpret scenarios, 2) Using the LLM to predict patterns, 3) Using the LLM to suggest attack surfaces to help design alternative voting mechanisms. I am currently designing the research.  I saw <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> and <a class=\"mention\" href=\"/u/roro\">@roro</a>’s EthCC barcamp invite but was unable to join your workshop. Is there a summary, I did not see it in the Discord? In any respect, kindly let me know if this overlaps to what you are doing?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-08T11:13:06Z",
+   "updated_at": "2023-08-08T11:13:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for the link, I hope to look at it soon.</p>\n<p>The video of the actual talk from Barcamp is available here:<br/>\n<a class=\"onebox\" href=\"https://www.youtube.com/live/45SyiyIYyPw?feature=share\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://www.youtube.com/live/45SyiyIYyPw?feature=share</a></p>\n<p>To be clear, it’s work by <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> and <a class=\"mention\" href=\"/u/roro\">@roro</a><br/>\nI can’t claim any credit.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-08-08T17:27:53Z",
+   "updated_at": "2023-08-08T17:27:53Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> Thanks for this point.</p>\n<aside class=\"quote no-group\" data-post=\"15\" data-topic=\"1278\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>One of the challenges that token engineering, and likely all engineering, faces is bridging the expertise gap between system designers and system users. It requires the former to get really good at simplifying explanations and the latter to exert effort in understanding things beyond their current grasp. This gap is actually an application interface, and this post serves as an example of it. Here, I’m a system user and you <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> and <a class=\"mention\" href=\"/u/octopus\">@octopus</a>, you are designers. I’m trying to keep up. <img alt=\":wink:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=12\" title=\":wink:\" width=\"20\"/></p>\n</blockquote>\n</aside>\n<p>I think a good analogy is automobile design. The value flows depend on (at least) the following roles:</p>\n<ul>\n<li>Designers: people who come up with original ideas about how automobiles can achieve certain requirements. In this context, these would generally be the people who write papers.</li>\n<li>Testers: people who assess the suitability of a design for a suited purpose, determining whether it actually meets all the stated requirements (think people who run crash tests).</li>\n<li>Manufacturers: people who create the actual working implementation of the mechanism, so that it can be used by drivers. In this context, these would be people who write high-quality code.</li>\n<li>Drivers: people who  utilize the product created by manufacturers based on the design. These would be the actual TEC voters and grant proposers.</li>\n<li>Dealers: people who sell the products to drivers and facilitate value transfer to manufacturers</li>\n</ul>\n<p>It’s possible for an agent to participate in multiple roles. Each role requires different perspectives, information, and tools.</p>\n<p>The Driver does not need to know physics: they need to know how to interpret signals both on the dashboard and outside the windshield to make decisions to reach their objectives.</p>\n<p>The ease and availability of training is a part of the larger cyber-physical system, where smaller cyber-physical systems  compete for resources and attention.</p>\n<p>It will help to have something like a Driver’s Manual and Driver’s Education so people really understand the available governance mechanisms and can have reasonable discussion based on the</p>\n<p>For instance, it seems to me that a weakness of conviction voting is that it essentially requires a large number of proposals, else conviction will simply flock to the proposals available at a given moment. One social aspect would seem to be that it requires people to be willing to send strong counter-signals, both in terms of token votes and socially, when they feel that a project isn’t worth funding. I’m not sure that responsibility on the part of TEC voters was well-understood in Summer 2021?</p>\n<p>On the other hand, I am seeing a strength of the “inertia”:CV helps prevent something like the Raider Attacks that have been wrecking DAO treasuries lately.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-08-14T15:38:26Z",
+   "updated_at": "2023-08-14T15:38:26Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"20\" data-topic=\"1278\" data-username=\"octopus\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/o/ebca7d/40.png\" width=\"20\"/> octopus:</div>\n<blockquote>\n<p>For instance, it seems to me that a weakness of conviction voting is that it essentially requires a large number of proposals, else conviction will simply flock to the proposals available at a given moment. One social aspect would seem to be that it requires people to be willing to send strong counter-signals, both in terms of token votes and socially, when they feel that a project isn’t worth funding. I’m not sure that responsibility on the part of TEC voters was well-understood in Summer 2021?</p>\n</blockquote>\n</aside>\n<p>It’s good to be having this conversation here, in public. Some day, I hope we’ll have a more thorough assessment of our (first) experience with CV. For now, these conversations will have to capture some of the learning we got.</p>\n<p>Yes, a large number of proposals seems to be part of the conditions under which this approach works best. As I’ve mentioned, we used an “abstain” proposal as a kind of hack for getting around this, but it had some exposure to unexpected behavior (see above).</p>\n<p>Another condition, I think, it having a well-funded pool for the CV to work on. Having conviction build automatically over time does build a kind of momentum that allows even less popular proposals to eventually pass. So, in general, I would say that CV has a kind of built-in bias for passing funding proposals. A less popular proposal might fail to clear the hurdle in a normal vote one-shot vote (i.e. not one where time magnifies the impact), but with CV it has a decent shot. That bias for funding is not as much of a problem when the pool is large or when it is at least being replenished. Some of the protocols, for example, might have an easier time with it. For the TEC, it seemed to drain the tank faster than expected and we had to intervene and switch to a budgeted QF process to ensure some sort of sustainability.</p>\n<p>I really like your automobile analogy. I think these kinds of representations are particularly useful for understanding the roles and interests of various stakeholders in the extended token engineering ecosystem.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002205430",
+    "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002205430",
+   "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231002205430",
+   "url": "https://forum.tecommons.org/t/strengths-and-weaknesses-of-conviction-voting-and-other-mechanisms/1278"
+  }
+ ]
+}

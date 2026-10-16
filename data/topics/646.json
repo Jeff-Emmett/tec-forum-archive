@@ -1,0 +1,469 @@
+{
+ "id": 646,
+ "title": "Outlining the Rewards System Process.. v2!",
+ "slug": "outlining-the-rewards-system-process-v2",
+ "category_id": 28,
+ "posts_count": 22,
+ "created_at": "2021-10-02T00:27:15.621Z",
+ "views": 510,
+ "last_posted_at": "2021-12-23T12:49:11.738Z",
+ "highest_post_number": 20,
+ "closed": false,
+ "archived": false,
+ "more_after": 21,
+ "total_known": true,
+ "archived_posts": 21,
+ "archived_numbers": 23,
+ "last_archived_post_at": "2021-12-23T12:49:11Z",
+ "captured_between": [
+  "2021-10-25T09:33:00Z",
+  "2022-08-15T10:16:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-02T00:27:16Z",
+   "updated_at": "2022-04-26T16:26:47Z",
+   "reply_to_post_number": null,
+   "like_count": 18,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#rewards-system-process-1\" name=\"rewards-system-process-1\"></a>Rewards System Process</h1>\n<p>The purpose of this system is to create a  way to record, reward and analyze fairly the work done by contributors to the TEC, creating a manner of providing decentralized updates of the action happening in the Commons. By this system we can gather realtime acknowledgement of contributions, in a decentralized manner. We have multiple systems that are designed to reduce as much as possible the mental overhead and time commitment of quantification and also average out the subjectivity of praise in itself, by having a decentralized oracle of quantifiers. This is our current proposed process by which we will achieve the goals of this system.</p>\n<h2>\n<a class=\"anchor\" href=\"#step-1-collect-data-2\" name=\"step-1-collect-data-2\"></a>Step 1 - Collect Data</h2>\n<p>The most important step is to collect the data related to the work done by TEC Contributors. This is broken down into subcategories and further into specific input streams. Data is collected continuously and submitted for Quantification on a bi-weekly schedule. The two sub-categories are <strong>Automatically Quantified</strong> and <strong>Manually Quantified</strong>. The corresponding inputs for each category are as such:</p>\n<ol>\n<li>Auto Quantified<br/>\na. Github<br/>\nb. Discourse(Forum)<br/>\nc. Discord Meeting Attendance <em>(In Development)</em><br/>\nd. Twitter <em>(In Development)</em>\n</li>\n<li>Manually Quantified<br/>\na. Discord Praise<br/>\nb. Telegram Praise</li>\n</ol>\n<p>It’s important to note that in general, auto quantification is related to <em>objective</em> contributions and manual quantification to <em>subjective</em> contributions. It’s possible that some actions in Github and Discourse(Forum) for example fall under the Praise process if they have a subjective character. (i.e. we praise the content of the contribution rather than the factual action of making a contribution.</p>\n<h2>\n<a class=\"anchor\" href=\"#step-2-quantification-3\" name=\"step-2-quantification-3\"></a>Step 2 - Quantification</h2>\n<p>We aggregate all input streams and run each through their distinct quantification paths.</p>\n<h3>\n<a class=\"anchor\" href=\"#automatic-quantification-4\" name=\"automatic-quantification-4\"></a>Automatic Quantification</h3>\n<p>For Automatic Quantification we will be using a SourceCred instance and bot(s)  that will track and quantify specified actions. The Reward Board will have the ability to establish and propose to modify the actions we value and how much they are relatively worth. These “weight” configurations will be shown in the output of Step 7, for every quant.</p>\n<p>For each input we outline the actions that can be automatically tracked and quantified, the four main sources for automatic quantification are <strong>Github</strong>, <strong>Discourse(Forum)</strong>, <strong>Discord Meeting Attendance</strong> (Alexandra?), and <strong>Twitter</strong>. A comprehensive list of the parameters for each source can be found in the Appendix at the bottom of this document.</p>\n<p><img alt=\"\" data-base62-sha1=\"qXleloF405M4RWfDUqSsUmQ5Laj\" height=\"383\" src=\"https://forum.tecommons.org/uploads/default/original/1X/bcedcabe0291a9ba99b99da1d9d7a3b034cae593.jpeg\" width=\"651\"/></p>\n<h3>\n<a class=\"anchor\" href=\"#manual-quantification-5\" name=\"manual-quantification-5\"></a>Manual Quantification</h3>\n<p>Praise will be recorded and saved to the Praise backend by TEC tailored bots in both Telegram and Discord. The amassed praise will have to be quantified each cycle manually. Manual Quantification will be done by members of the community. We have a pool of Quantifiers that have opted in for the responsibility of quantifying praise and we will draft a group of randomly selected Quantifiers from this pool to complete this task. Quantification Periods normally will be a bi-weekly period. Quantifiers will also be rewarded for the work they do in manual quantification to incentivize participation in the system.  <br/>\n<br/>\nThe UI and user flow for Quantifiers that will be built will adhere to a few important points:</p>\n<ul>\n<li>\n<p>Quantifiers will have five (5) days to asynchronously quantify their assigned praise</p>\n</li>\n<li>\n<p>Praise will be grouped by Praise Receiver inside the UI for quantifiers. This is important to see any duplicate praise, or praise from multiple sources for the same contribution.</p>\n</li>\n<li>\n<p>Quantifiers will have overlapping sections of praise that they will need to quantify, not the entire praise for the whole cycle. Meaning that more than 1 quantifier will evaluate each praise and the average will be taken and passed on as the final score.</p>\n</li>\n<li>\n<p>A Fibonacci sequence will be used as the incremental factor for quantifying. To the Quantifier this will show up as simply a slider that returns a numerical value.  Higher score → more valuable the contribution. The range of values go from the least relevant which is 0 to most impactful which is 144, according to this sequence:</p>\n<ul>\n<li>0 → 1 → 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144</li>\n</ul>\n</li>\n<li>\n<p>Quantifiers will reference the <a href=\"https://forum.tecommons.org/t/rules-of-praise-and-quantification/667\">Rules of Praise and Quantification</a>  and <a href=\"https://forum.tecommons.org/t/quantifier-onboarding/825\">Quantifier Onboarding</a> posts which will help them navigate the quantification process.</p>\n</li>\n</ul>\n<p>Both streams will merge once they have been quantified in their respective manners and passed onto the next step.</p>\n<h2>\n<a class=\"anchor\" href=\"#step-3-analysis-6\" name=\"step-3-analysis-6\"></a>Step 3 - Analysis</h2>\n<p>At the end of the 5 day window for quantifying praise a call will be held for the Quantifiers who wish to review the entire praise data to collaboratively analyze and suggest future considerations for other quantifiers. We’ll also be using the [RAD dashboard]<a class=\"inline-onebox\" href=\"https://github.com/CommonsBuild/tec-rewards\">GitHub - CommonsBuild/tec-rewards</a> to analyze and cross-reference data. These Review sessions will show us if there are any gaps in education around quantfying or dishing praise and also identify any problematic or errant quantifiers, bringing us cultural insights and help us find problems and strengths in the early stages.  <strong><a href=\"https://docs.google.com/document/d/1bvpgt8YbDJxdrC3i3cEK9HJYwPwrqNiaUV8nFDyDPgc/edit#heading=h.wper9zmj4asj\">You can find the agenda and notes from the review sessions here.</a></strong></p>\n<h2>\n<a class=\"anchor\" href=\"#step-4-calculate-rewards-7\" name=\"step-4-calculate-rewards-7\"></a>Step 4 - Calculate Rewards</h2>\n<p>Once we have the combined praise data from all streams we’ll use the associated quantification values to calculate the actual token amounts that will be distributed to each eligible recipient. The initial distirbution relationship between sourceCred and Praise is yet to be determined as well as the amount of funds distributed for every round. Keep on the lookout for a forthcoming post from the Reward Board which will detail all relevant distribution parameters.</p>\n<h2>\n<a class=\"anchor\" href=\"#step-5-final-approval-8\" name=\"step-5-final-approval-8\"></a>Step 5 - Final Approval</h2>\n<p>The final token distribution will then be voted by the Reward Board, which also holds the Reward System Funds. This DAO will be stewarded by a board of 3-7 trusted members (Reward Board) who have been vested with the responsibility of inspecting the final distribution and pushing the button to release funds. They will need to check for any oversights or collusion between Quantifiers. The Vote for releasing rewards DAO funds must meet a <strong>Quorum of 41%</strong>(at least 3 of 7 must vote) and have <strong>minimum 81% Support</strong> (2 members voting No can block the proposal).</p>\n<h3>\n<a class=\"anchor\" href=\"#choosing-the-reward-board-9\" name=\"choosing-the-reward-board-9\"></a><strong>Choosing the Reward Board</strong>\n</h3>\n<p>We will have a formal nomination process for the initial Reward Board with up to a maximum of 7 seats. A Reward Board member who has not participated for 3 consecutive rounds will be asked to give up their seat.</p>\n<h3>\n<a class=\"anchor\" href=\"#powers-of-the-reward-board-10\" name=\"powers-of-the-reward-board-10\"></a><strong>Powers of the Reward Board</strong>\n</h3>\n<p>This DAO will have extraordinary powers over the Rewards System, the greater community however will act as the arbiter in case of metagovernance and distribution modifications. We will use Snapshot for these instances. An exhaustive list of this board’s powers are as follows:</p>\n<ol>\n<li>Change the weight configurations in SourceCred</li>\n<li>Change the allocation percentage for each round of rewards.</li>\n<li>Modify the distribution ratio between SourceCred and Praise</li>\n<li>Mint tokens for new board members, burn tokens for outgoing members</li>\n<li>Modify the distribution percentages of the three entities outlined in Step 6</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#but-who-watches-the-watchers-11\" name=\"but-who-watches-the-watchers-11\"></a>…But Who Watches the Watchers?</h3>\n<p>The community will have several instances to act as the backstop in instances of collusion or poor judgement from board members. We define checkpoints for each power numbered in the previous sub-section:</p>\n<ul>\n<li>\n<strong>Action 1</strong> will be output in Step 7 allowing the community to see the weights used and flag issues.</li>\n<li>\n<strong>Actions 2-5</strong> will require community votes to approve proposals made by the board.</li>\n</ul>\n<p><img alt=\"\" data-base62-sha1=\"5ui0KjYBHhuKVk6dETL5qKuxTZE\" height=\"445\" src=\"https://forum.tecommons.org/uploads/default/original/1X/26776cf44a4bbbc1cf511c7a24ad0d1e2e5f1be2.jpeg\" width=\"680\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#step-6-distribution-12\" name=\"step-6-distribution-12\"></a>Step 6 - Distribution</h2>\n<p>Reward Allocations are valued in DAI, but paid out in TEC. We want to inject our contributors directly into our token economy and we’ll use our own Augmented Bonding Curve to achieve that. The ABC will convert the received funds from the TEC treasury, swapping wxDAI to TEC. When the funds have been released by the Reward Board they will be paid out to three entities - the <strong>Reward Board</strong>, <strong>Quantifiers</strong>, and <strong>Contributors</strong>. The distribution will have already been set by the Reward Board and ratified by the greater community at the initialization of the Rewards System.  <br/>\n<br/>\nTo aid in visualization we can use this imagined example:</p>\n<blockquote>\n<p><em>The allocation percentage is 1% of the Common Pool for each rewards round</em></p>\n<p><em>If the Common Pool has 600,000 wxDAI , we distribute 6000 wxDAI, if the price of TEC is 2 wxDAI then this comes to 3000 TEC to distribute for this round</em></p>\n<p><em>The Reward Board establishes an allocation distribution of <strong>90%</strong> to contributors, <strong>7%</strong> to Quantifiers, <strong>3%</strong> to the Reward Board. Allocations is set to 75% Praise, 25% SourceCred.</em></p>\n<p><em>From these amounts, assuming no modifications were made by the Rewards DAO in Step 5, the token distribution amounts would break down as follows:</em></p>\n<ul>\n<li>\n<em>Contributors receive 2700 TEC</em>\n<ul>\n<li><em>675 for SourceCred</em></li>\n<li><em>2025 for Praise</em></li>\n<li><em>Or averaged out across 50 unique contributors renders 54 TEC each</em></li>\n</ul>\n</li>\n<li>\n<em>Quantifiers receives 210 TEC</em>\n<ul>\n<li><em>If there’s 10 Quantifiers that’s 21 TEC each.</em></li>\n</ul>\n</li>\n<li>\n<em>Reward Board receives 90 TEC</em>\n<ul>\n<li><em>If there’s 7 board members that’s 12.85 TEC each</em></li>\n</ul>\n</li>\n</ul>\n</blockquote>\n<p>Once the amounts are calculated and approved by the DAO vote they are distributed using the Transactions App on the Reward Board Aragon DAO.</p>\n<h2>\n<a class=\"anchor\" href=\"#step-7-iterate-and-improve-13\" name=\"step-7-iterate-and-improve-13\"></a>Step 7 - Iterate and Improve</h2>\n<p>After the data analysis of each round we integrate insights and inform the parameters of sourcecred and the reach of praise.</p>\n<p>A forum post will be generated for each quant showing who received how much funds and the SourceCred weight configurations. By this process we invite analysis and discussions and empower transparency. <br/>\n<br/>\nData points and more metrics will be added in Post MVP that will allow robust analytics of praise. <br/>\n<br/>\n<em>*A note on record-keeping: Ultimately the blockchain is the final source of truth for observing distributions. However, a  ledger of final praise distributions will be maintained and made publicly available, this will be the responsibility of the Reward Board.</em></p>\n<h2>\n<a class=\"anchor\" href=\"#quantification-parameters-appendix-14\" name=\"quantification-parameters-appendix-14\"></a><strong>Quantification Parameters Appendix</strong>\n</h2>\n<p>*This list is subject to change as we discover new technical possibilities and limitations</p>\n<table>\n<tbody>\n<tr>\n<td>\n<strong>Data Source</strong>\n</td>\n<td>\n<strong>Inputs</strong>\n</td>\n<td>\n<strong>Parameters and Actions to Weigh</strong>\n</td>\n</tr>\n<tr>\n<td>\n<h2><strong>SourceCred</strong></h2>\n</td>\n<td>\n<strong>Discourse</strong>\n</td>\n<td>\n<ul>\n<li>Like received \n</li>\n<li>Like given\n</li>\n<li>Topic made\n</li>\n<li>Post made\n</li>\n<li>Replied to post\n</li>\n<li>Post receives reply\n</li>\n<li>mention user\n</li>\n<li>user is mentioned\n</li>\n<li>topic is referenced\n</li>\n<li>reference topic\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<strong>GitHub</strong>\n</td>\n<td>\n<ul>\n<li>Create repository\n</li>\n<li>Create Issue\n</li>\n<li>Create PR\n</li>\n<li>Review PR\n</li>\n<li>Add Comment\n</li>\n<li>Add Commit\n</li>\n<li>Merge PR\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<strong>Twitter</strong>\n</td>\n<td>\n<ul>\n<li>Retweeted TEC Post\n</li>\n<li>Post was retweeted by TEC\n</li>\n<li>Mentioned by TEC\n</li>\n<li>Mentions TEC\n</li>\n<li>uses hashtag #????\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<strong>Discord Meeting Attendance</strong>\n</td>\n<td>\n<ul>\n<li>member attended meeting {x}\n</li>\n<li>time spent in meeting?\n</li>\n<li>time spent talking in meeting?\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n<h2><strong>Praise</strong></h2>\n</td>\n<td>\n<strong>Discord</strong>\n</td>\n<td>\n<ul>\n<li>/praise in the TEC Discord\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<strong>Telegram</strong>\n</td>\n<td>\n<ul>\n<li>!praise in TEC Telegram group \n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n<strong><h2>Rewards Distribution</h2></strong><h2>\n<strong></strong>\n</h2>\n</td>\n<td>\n<strong>Reward Board</strong>\n</td>\n<td>\n<ul>\n<li>Registers initial rewards parameters config. Proposes and executes changes to this config\n</li>\n<li>Approving (or rejecting) rewards distribution\n</li>\n<li>Manages Quantification Periods and facilitates Review Sessions\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<strong>Quantifiers</strong>\n</td>\n<td>\n<ul>\n<li>Quantifies praise\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<strong>Contributors</strong>\n</td>\n<td>\n<ul>\n<li>Receives praise for work/contributions\n</li>\n</ul>\n</td>\n</tr>\n<tr>\n</tr>\n</tbody>\n</table>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015358",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/1"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-02T00:29:54Z",
+   "updated_at": "2021-10-02T00:29:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015358",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/1"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-02T00:55:45Z",
+   "updated_at": "2021-10-02T00:55:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015358",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/1"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-10-02T07:27:14Z",
+   "updated_at": "2021-10-02T07:27:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"646\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>We will have a pool of Quantifiers that have opted in for the responsibility of quantifying praise and we will draft a group of 8-10 randomly selected Quantifiers from this pool, bi-weekly, to complete this task.</p>\n</blockquote>\n</aside>\n<p>(<img alt=\":point_up_2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_up_2.png?v=10\" title=\":point_up_2:\"/> Are some of these people Trusted seeds?<img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=10\" title=\":thinking:\"/>)</p>\n<blockquote>\n<p>This could be great for continuity and to have a pool of more people as to not run into burnouts.</p>\n</blockquote>\n<p>I overheard <a class=\"mention\" href=\"/u/griff\">@Griff</a> speak to there being an element of importance to the quantifiers being able to know who is doing what work as it supports continuity. I couldn’t agree more about the continuity part. The best database you have in a decentralized group is eachother. Teaching people to be aware of their surroundings is how information can be collected and shared. Common language is a piece too.</p>\n<p>I appreciate the context I gain from reading Praise. I personally read every props and did-a-thing in my communities server. That’s where a majority of the deliverables go. I learn what’s happening and as time goes on I learn the people associated with the working groups too. After testing this process out in over a dozen servers I can say that It’s possible to read those without names/faces attached and eventually be able to know who is being spoken of. The dots will get connected on the video calls when people are giving updates (I don’t recognize faces much which is why I know this works i’m never tracking faces to contributions rather behavior.)</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"646\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>Unicorn praises Beaver for …</p>\n</blockquote>\n</aside>\n<p>I’m appreciating the anonymous aliases. Anonymity has been brought up on a few occasions by many people over the span of sourcecred and even recently it’s resurfaced I like the idea because it sounds like it would make more people engage with it.</p>\n<h2>\n<a class=\"anchor\" href=\"#quantification-parameters-appendix-1\" name=\"quantification-parameters-appendix-1\"></a><strong>Quantification Parameters Appendix</strong>\n</h2>\n<p>GitHub</p>\n<ul>\n<li>Does anything happen for reviews?</li>\n<li>Does anything happen if someone links a fix / closes out an issue within their pull request?</li>\n</ul>\n<blockquote>\n<p>From a developers point of view are these things part of a first buildout or do they come in later on down the road?</p>\n</blockquote>\n<p>It’s so rad to be able to see an instance be built with more intention of the behavioral impacts.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-03T23:01:47Z",
+   "updated_at": "2021-10-03T23:01:47Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group quote-modified\" data-post=\"4\" data-topic=\"646\" data-username=\"AL0YSI0US\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/al0ysi0us/40/444_2.png\" width=\"20\"/> AL0YSI0US:</div>\n<blockquote>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"646\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>We will have a pool of Quantifiers that have opted in for the responsibility of quantifying praise and we will draft a group of 8-10 randomly selected Quantifiers from this pool, bi-weekly, to complete this task.</p>\n</blockquote>\n</aside>\n<p>(<img alt=\":point_up_2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_up_2.png?v=10\" title=\":point_up_2:\"/> Are some of these people Trusted seeds?<img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=10\" title=\":thinking:\"/>)</p>\n</blockquote>\n</aside>\n<p>My vision for this pool of Quantifiers is to have a very low barrier for entry.  Really I only see 3 requirements to opt-in to be a Quantifier:</p>\n<ol>\n<li>Are Human.</li>\n<li>Know WTF the TEC is.</li>\n<li>Have read some sort of onboarding document, like the Rules of Praise that Livi is working on.</li>\n</ol>\n<p>The bigger the pool and the greater variety of Quantifiers we get I think will help us achieve less subjective praise and also creates a new engagement tool for newcomers.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-10-03T23:12:48Z",
+   "updated_at": "2021-10-03T23:12:48Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"646\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<ul>\n<li>Are Human.</li>\n<li>Know WTF the TEC is.</li>\n<li>Have read some sort of onboarding document, like the Rules of Praise that Livi is working on.</li>\n</ul>\n</blockquote>\n</aside>\n<p>Those are some solid parameters. <img alt=\":joy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/joy.png?v=10\" title=\":joy:\"/> I was hoping the pooling was huge! It’s so good for people to be witnessing all the good happening around them. I dig that the bar to entry is low.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-07T13:57:39Z",
+   "updated_at": "2021-10-07T13:57:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"646\" data-username=\"AL0YSI0US\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/al0ysi0us/40/444_2.png\" width=\"20\"/> AL0YSI0US:</div>\n<blockquote>\n<p>I appreciate the context I gain from reading Praise. I personally read every props and did-a-thing in my communities server. That’s where a majority of the deliverables go. I learn what’s happening and as time goes on I learn the people associated with the working groups too. After testing this process out in over a dozen servers I can say that It’s possible to read those without names/faces attached and eventually be able to know who is being spoken of. The dots will get connected on the video calls when people are giving updates (I don’t recognize faces much which is why I know this works i’m never tracking faces to contributions rather behavior.)</p>\n</blockquote>\n</aside>\n<p>Great point! Do you think the benefit of knowing who did what is greater than the bias that can come with it? The reason we thought about hiding the names of who was praised during quantification is to try to get a more approximate value of the contribution per se, rather than having that value attached and influenced by the persona.<br/>\nSome people will still know who did what intuitively but I believe it plays a role in the psychology of the quant to not see the name immediately there.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-10-08T00:08:58Z",
+   "updated_at": "2021-10-08T00:08:58Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#formula-for-the-total-hoursnet-amount-of-tokens-distributed-in-a-quant-period-1\" name=\"formula-for-the-total-hoursnet-amount-of-tokens-distributed-in-a-quant-period-1\"></a>Formula for the “Total hours”(net amount of tokens distributed in a Quant period)</h2>\n<p>From my current understanding of the mint process, we might be allocating a fixed percentage of the commons pool to the funding for the rewards distributed by Rewards DAO.<br/>\nI’m wondering if it would be of any value to somehow make the total “hours” distributed or total funds distributed a function of <strong>no. of members that were praised</strong>, <strong>arbitrary “effort” metric that the quantifiers decide each quant(which represents how productive they felt the community as a whole for that period)</strong>, <strong>changes to our economy and the relative success of the project(or relative to the funds available in the commons pool, in DAI)</strong> ?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-10-08T01:13:01Z",
+   "updated_at": "2021-10-08T01:13:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>My responses are from a vantage of earning through sourcecred, considering praise and taking into mind that the commons has different cultural practices for appreciating people than sourcecred’s community does. (our cultural practices around gratitude are timid, not radical)</p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"646\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>Do you think the benefit of knowing who did what is greater than the bias that can come with it?</p>\n</blockquote>\n</aside>\n<p>No I don’t.</p>\n<p>There’s a personal bias within me not minding the transparency, it gives myself and others an opportunity to practice gratitude for someone’s energy expelled (i come from the military, we have practices for noticing and honoring and mentoring and collaborating shadow does not manifest in the same ways there as it does out here with resource scarcity on the horizon for so many)</p>\n<p>As I’m thinking this through I would be foolish not to think about how competitive everyone is capable of being naturally. Maybe when i look at !praise, !props and <span class=\"hashtag\">#did-a-things</span>. I don’t get activated by seeing others succeed. <em>By succeed i mean the labor it takes to start and follow through even if it means asking for support.</em></p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"646\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>The reason we thought about hiding the names of who was praised during quantification is to try to get a more approximate value of the contribution per se, rather than having that value attached and influenced by the persona.<br/>\nSome people will still know who did what intuitively but I believe it plays a role in the psychology of the quant to not see the name immediately there.</p>\n</blockquote>\n</aside>\n<p>My current stance is that if people were anonymous folx wouldn’t have a choice but to rate the work and the anonymity of it all will make people more reflexive in thier emoting. Seeing a person introduces bias to the labor. This points driving home in my mind as I’m typing it out.</p>\n<p>I’ve heard people say over and over !props is just a popularity contest. That sentence makes my heart shudder. Such hurts one must have in them to have sour feelings stir in a !props channel or a !praise channel. I understand a great deal of what festers for people in my community around the <span class=\"hashtag\">#did-a-thing</span> channel and the mental Olympics folx go through having been abused for a lifetime by ableism and processes that support capitalism. I do dream of the architecture being more intentional than it has been and am appreciating the anonymity being presented / discussed here.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-08T13:49:54Z",
+   "updated_at": "2021-10-08T13:49:54Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>are !props and <span class=\"hashtag\">#did-a-thing</span> reward mechanisms from sourcecred?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2021-10-08T22:11:57Z",
+   "updated_at": "2021-10-08T22:11:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>One point <a class=\"mention\" href=\"/u/griff\">@Griff</a> brought up in a call which I think is important is that anonimizing the praise to some extents kills the “onboarding” dimension of praise, as in: it helps to get a feeling where stuff is happening, and who is involved. This can be specially useful for newer or less involved members to get an overview, and could even be a good way to incentivize joining the quant pool: “Hey, are you new and don’t know where to start? Join a quant, learn about everything that is happening in the TEC and GET PAID for it!”</p>\n<p>On the other hand there exist specific onboarding processes, and it’s arguable if praise quants should be involved in that at all…</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-10-09T09:11:12Z",
+   "updated_at": "2021-10-09T09:11:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-full=\"true\" data-post=\"11\" data-topic=\"646\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>are !props and <span class=\"hashtag\">#did-a-thing</span> reward mechanisms from sourcecred?</p>\n</blockquote>\n</aside>\n<p>Yes they’re the cultural pieces I speak to when I long for some more intentional design. I had not heard anything about anyone changing practices with a new instance. I was under the impression sourcecred would be setup the same for this community. I’m curious to know what the differences will be.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-09T16:40:46Z",
+   "updated_at": "2021-10-09T16:40:46Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I hear that, however there was some lengthy discussion about how explicitly identifying praisors and praisees increases the subjectivity of praise, however not having enough context, as in being able to distinguish one praisee from another, makes it very difficult to quantify. This is especially true in the case of praisees receiving multiple praises for the same thing.</p>\n<p>In this struggle between objectivity vs. context we decided this method as the happy medium.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-11T11:53:02Z",
+   "updated_at": "2021-10-11T11:53:02Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think even if praise becomes anonymous for the quantification it can still be useful for onboarding. People will have an idea of what is happening and what types of contributions are valued in the community. They will start to put the puzzle together once they become more active and have sweet aha! moments finding out who did what in everyday interactions <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-12T15:01:17Z",
+   "updated_at": "2021-10-14T14:12:20Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Here is a rough overview of the Roadmap to First Quant from the Rewards System-</p>\n<h2>\n<a class=\"anchor\" href=\"#roadmap-to-first-quant-1\" name=\"roadmap-to-first-quant-1\"></a>Roadmap To First Quant</h2>\n<ul>\n<li>Agree on the goals of the praise system.</li>\n<li>Agree on system design within rewards system team and get technical validation</li>\n<li>Present to community for feedback on system (no params/weights proposed)</li>\n<li>Spec front-end and back-end requirements</li>\n<li>Design UI for quantifying praise and reading data</li>\n<li>Begin development starting with the back-end        <strong>&lt;---- WE ARE HERE</strong>\n</li>\n<li>Choose who will be on the Reward Board\n<ul>\n<li>Nominations? Maximum 5 seats</li>\n</ul>\n</li>\n<li>\n<a href=\"https://forum.tecommons.org/t/sourcecred-committee-proposal/271\">Revisit reward committee proposal </a>and propose changes.</li>\n<li>Reward Board chooses initial rewards system first set of parameters\n<ul>\n<li>how many tokens to distribute per cycle?  Fixed amount or variable? Do we have caps on individual contributors?</li>\n<li>Distribution percentages for 3 buckets: <strong>Reward Board, Quantifiers</strong>, <strong>Contributors</strong>\n</li>\n<li>Distribution Ratio between SourceCred and Praise</li>\n<li>Weight configurations for SourceCred and praise</li>\n<li>Use praise receiver pseudonyms during quantification: on/off</li>\n<li>Max quantifiers per praise receiver: number</li>\n<li>Max praise receivers per quantifier: number</li>\n</ul>\n</li>\n<li>Rewards System Team runs tests on configurations, revise and adjust w/ rewards committee, log simulation results</li>\n<li>Forum post for advice process on the settings chosen by the Reward Board, adjust proposals based on community feedback.</li>\n<li>Ratify the Reward System Initial Parameters via Snapshot Vote</li>\n<li>Make initial funding request from the TEC Treasury/Common Pool with the value denominated in wxDAI, receive TEC or convert it to TEC after receipt in wxDAI.</li>\n<li>First quant!</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-12T15:14:36Z",
+   "updated_at": "2021-10-12T15:14:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#does-this-rewards-system-design-look-good-1\" name=\"does-this-rewards-system-design-look-good-1\"></a>Does this Rewards System Design look good?</h2>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"cf6e31eebd6a1fc32b3ea923cdf495f4\">Looks good! BUIDL IT</li>\n<li data-poll-option-id=\"69e651b998fb0eb92db94b52e95d053b\">No, I have unresolved concerns in my comments</li>\n<li data-poll-option-id=\"d28722ed31d2410f46a95e3b0f143f91\">Abstain</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "kristoferlund",
+   "name": null,
+   "created_at": "2021-10-13T10:02:21Z",
+   "updated_at": "2021-10-13T10:02:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We’ll make this one of the configurable parameters managed by the Rewards DAO Committee.</p>\n<p><code>Use praise receiver pseudonyms during quantification: on/off</code></p>\n<p>Two other parameters have been identified so far:</p>\n<p><code>Max quantifiers per praise receiver: number</code></p>\n<p>Determines how many quantifiers should do “the same job” of quantifying praise for one person. More quantifiers per praise receiver means increased workload for quantifiers but less risk of personal bias.</p>\n<p><code>Max praise receivers per quantifier: number</code></p>\n<p>Determines the amount of work each quantifier has to do. If above parameter was set to 10, that reads as: One individual quantifier should not have to quantify praise for more than 10 praise receivers.</p>\n<p>The two parameters are used in combination to determine the minimum size of the quantifier pool needed. When assigning/randomising quantifiers for a quant period the system will warn if quantifier pool is too small. Option 1 is then to recruit more quantifiers and then assign again. Option 2 is modifying the parameters, increasing quantifier workload or increasing the risk of personal bias but requiring a smaller pool size.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-13T15:26:32Z",
+   "updated_at": "2021-10-13T15:26:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I incorporated these parameters into the appropriate sub-section of the roadmap</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-15T13:14:01Z",
+   "updated_at": "2021-10-15T13:14:01Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a href=\"https://forum.tecommons.org/t/rules-of-praise-and-quantification/667\">Rules for praise and quantification</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2021-12-23T11:59:23Z",
+   "updated_at": "2021-12-23T11:59:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"646\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>Quantifiers will have three (3) days to asynchronously quantify their assigned praise</p>\n</blockquote>\n</aside>\n<p>Will there be a system to make comparisons? How do we compare a Dev contribution to a Comms contribution, for example?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2021-12-23T12:02:04Z",
+   "updated_at": "2021-12-23T12:02:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"646\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>Quantifiers will be provided a “Rules of Praise” (WIP) document which will help them navigate the quantification process.</p>\n</blockquote>\n</aside>\n<p>Keen to see this! As you might guess from my previous comment.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-12-23T12:47:11Z",
+   "updated_at": "2021-12-23T12:47:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>here’s the forum post to learn more - <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/rules-of-praise-and-quantification/667\">Rules of Praise and Quantification</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-12-23T12:49:11Z",
+   "updated_at": "2021-12-23T12:49:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>in the praise system there is no distinction between the <code>type</code> of contributor  - a dev contributor is graded on the same metrics as comms - however sourcecred will be able to weigh objective actions (ie. publishing on the forum, retweets, making commits in github…) so we can measure those contributions proportionally based on what we value</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220815101651",
+    "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211025093300",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025093300",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211210143908",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520063028",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520063028",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706001229",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/23"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706001229",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/23"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706002840",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646?page=2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706002840",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646?page=2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706003824",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706003824",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706015358",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/1"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706015358",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/1"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815101651",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815101651",
+   "url": "https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646/16"
+  }
+ ]
+}

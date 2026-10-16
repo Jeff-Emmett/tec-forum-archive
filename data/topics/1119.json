@@ -1,0 +1,157 @@
+{
+ "id": 1119,
+ "title": "Comprehensive \"How to Design Tokenomics\" Guide Funding Proposal",
+ "slug": "comprehensive-how-to-design-tokenomics-guide-funding-proposal",
+ "posts_count": 7,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "created_at": "2022-08-22T23:08:11Z",
+ "last_archived_post_at": "2022-09-29T16:59:29Z",
+ "captured_between": [
+  "2022-10-06T16:57:14Z",
+  "2022-10-06T16:57:14Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "mattytokenomics",
+   "name": null,
+   "created_at": "2022-08-22T23:08:11Z",
+   "updated_at": "2022-08-22T23:08:11Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a><strong>Proposal title</strong>\n</h3>\n<p>Comprehensive “How to Design Tokenomics” Guide Funding Proposal</p>\n<h3>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h3>\n<p>The completion of a comprehensive and <strong>practical</strong> guide to tokenomics for builders. The guide comprises two parts 1) tokenomics fundamental concepts and history, and 2) a market-tested step-by-step process to design and optimize tokenomics complete with frameworks and template quantitative models in Excel and Python. The guide condenses hundreds of blogs, videos, threads, papers, frameworks, and tools on tokenomics into one <em>helpful</em> nor merely <em>informational</em> guide. The entire emphasis is practical, evidence backed tokenomics design approaches builders can directly apply to their protocols, rather than surface level descriptive summaries.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h3>\n<p>A few months ago, I was speaking with teams that had just graduated from a Web3 accelerator. All of them were grappling with the same tokenomics questions in parallel - trying to educate themselves on the same fundamental topics, research the same standard practices and parameters, build the same models, and optimize for roughly the same objectives.</p>\n<p>It was immediately clear to me that these teams were in need of a comprehensive guide to tokenomics, not just to save them time and resources, but to maximize their chances of success. I’m sure everyone on this thread can fully relate. A practical and comprehensive guide to how to design tokenomics from scratch, complete with prescriptive steps, frameworks and quantitative models simply does not exist.</p>\n<p>You can read the initial chapters of the guide, and find a complete outline of the eventual full contents of the guide on Notion:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://tokenomics-tools.notion.site/Tokenomics-for-Builders-A-Comprehensive-Practitioner-s-Guide-to-Tokenom-b5154feba117415cafd67678355e317b\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"64\" src=\"https://tokenomics-tools.notion.site/images/favicon.ico\" width=\"64\"/>\n<a href=\"https://tokenomics-tools.notion.site/Tokenomics-for-Builders-A-Comprehensive-Practitioner-s-Guide-to-Tokenom-b5154feba117415cafd67678355e317b\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_10x10.png\" height=\"362\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_690x362.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/a204008401d6542aa7936a0814f0fc5999b8a489_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/a204008401d6542aa7936a0814f0fc5999b8a489.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://tokenomics-tools.notion.site/Tokenomics-for-Builders-A-Comprehensive-Practitioner-s-Guide-to-Tokenom-b5154feba117415cafd67678355e317b\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n<p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>This funding proposal covers 2-3 months of work to fully complete the guide, including template frameworks and models. As the author, this funding proposal covers my considerable time in researching, compiling, writing, and model building.</p>\n<p>I come from an applied industry background, rather than an academic one. My experience includes quant finance (algo trading for one of the world’s largest hedge funds) and technical founder (Python) of a VC funded machine learning startup. I have been in crypto since 2015 and as a tokenomics engineer I have worked with protocols building marketplaces, lending platforms, yield aggregators and more on chains such as ETH and SOL, in addition to helping the Stacks protocol (a Bitcoin L2 layer with $3.7 billion peak market cap) with its own tokenomics and consensus mechanism optimization. My tokenomics work has comprised research, data analysis, technical and non-technical documentation, and custom model building - including both simple deterministic Excel models and stochastic models custom built with Python employing Monte Carlo simulations as well as supervised and unsupervised machine learning techniques.</p>\n<p>I am filing this proposal with the support of several senior members of the Tokenomics DAO, and at the bequest of Stewards/SMEs from the TEC community such as <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>#4998. This funding would allow me to allocate the required resources to complete the guide as specified, within the allotted timeframe.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>In the interest of full transparency, the Stacks Foundation has partially contributed to completing this extremely time and resource intensive guide. The guide however is in no way specific to the Stacks ecosystem, nor does it even cover Stacks explicitly - the guide is entirely chain agnostic.</p>\n<p>TEC’s funding would allow for further development, more rigorous quantitative modeling templates, and perhaps most importantly, forever attach TEC’s name to this comprehensive tokenomics guide. Buy-in from the TEC community would increase the quality, rigor, and credibility of the guide, while also making a significant contribution to TEC’s corpus of tokenomics resources for protocol builders.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>Total request for 12,000 xDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-6\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-6\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>100% of the funds will be used to fund contributors time in researching, compiling, writing, editing, modeling, and reviewing feedback from SMEs.</p>\n<p>This breaks down to roughly 4,000 xDAI per month, with the guide fully completed no later than 3 months from this proposal review.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-7\" name=\"how-will-you-share-progress-7\"></a>How will you share progress?</h3>\n<p>Via Twitter and Discord as new chapters (and models or frameworks) are published, as well as via Notion, where the document itself lives, and will be updated live, with full TEC community transparency, and ability to comment and provide their productive input, at any given time.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h3>\n<p>Primary author: MattyTokenomics (<a href=\"https://twitter.com/MattySTX\" rel=\"noopener nofollow ugc\">https://twitter.com/MattySTX</a>)<br/>\nContent reviewers and contributors:</p>\n<ul>\n<li>Albert Liang, founder at Stacks Web3 Founders Lab</li>\n<li>Florian Strauf, founder at Tokenomics DAO</li>\n<li>Maximillian Gusche, core contributor at Tokenomics DAO</li>\n<li>Jeff, founder at Mechanism<br/>\n… more names with large audiences and practical tokenomics experience in the works</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "lee0007",
+   "name": null,
+   "created_at": "2022-08-25T17:03:04Z",
+   "updated_at": "2022-08-25T17:03:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>GOLD! I’d pay to have such a guide especially because of the templates so is there a simple way to enable people to donate for use? which long term or perhaps very quickly might return more than the very small 12k investment requested. Look forward to reading referencing and applying this guide. Thank you</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-09-02T09:10:01Z",
+   "updated_at": "2022-09-02T09:10:01Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This is a great proposal, <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> maybe we can have Matty to explain his project on the next Community Call?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-09-05T07:05:42Z",
+   "updated_at": "2022-09-05T07:05:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1119\" data-username=\"vegayp\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/v/a4c791/40.png\" width=\"20\"/> vegayp:</div>\n<blockquote>\n<p>maybe we can have Matty to explain his project on the next Community Call?</p>\n</blockquote>\n</aside>\n<p>I think that would be an amazing idea! Would that be of interest to you <a class=\"mention\" href=\"/u/mattytokenomics\">@mattytokenomics</a>?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "mattytokenomics",
+   "name": null,
+   "created_at": "2022-09-06T13:30:20Z",
+   "updated_at": "2022-09-06T13:30:20Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yeah, sounds great <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> Would be happy to discuss on the next call, thanks</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "richa",
+   "name": null,
+   "created_at": "2022-09-12T15:17:40Z",
+   "updated_at": "2022-09-12T15:17:40Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Love this! Would also like to help so will DM you <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-09-19T10:56:09Z",
+   "updated_at": "2022-09-19T10:56:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Just catching up on this.</p>\n<p>Just a question - is the full source of funds to come from the TEC, or will the funding, as the content, be shared amongst all parties mentioned above?</p>\n<p>r-x-x</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-09-29T16:59:29Z",
+   "updated_at": "2022-09-29T16:59:29Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Matty - do you plan to move this proposal to Conviction Voting? Let us know if you need help doing so. <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006165714",
+    "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221006165714",
+   "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006165714",
+   "url": "https://forum.tecommons.org/t/comprehensive-how-to-design-tokenomics-guide-funding-proposal/1119"
+  }
+ ]
+}

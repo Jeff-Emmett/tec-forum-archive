@@ -1,0 +1,97 @@
+{
+ "id": 443,
+ "title": "Universal Python Library for TE Models",
+ "slug": "universal-python-library-for-te-models",
+ "category_id": 7,
+ "tags": [
+  "conviction-voting"
+ ],
+ "posts_count": 2,
+ "created_at": "2021-06-20T04:07:28.571Z",
+ "last_posted_at": "2021-06-25T11:29:44.421Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-06-25T11:29:44Z",
+ "captured_between": [
+  "2021-09-28T01:48:01Z",
+  "2023-05-30T08:10:44Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-06-20T04:07:29Z",
+   "updated_at": "2021-11-12T21:38:36Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#universal-python-library-for-te-models-1\" name=\"universal-python-library-for-te-models-1\"></a>Universal Python Library for TE Models</h1>\n<p>We need to start maintaining a <strong>token engineering library for standard DeFi and Governance components</strong>. It’s inevitable that this will happen soon enough. If tecmns can be the ones to do it then we will get infinite street cred and branding as every token engineer in the world,  for all time will be installing our models in their python environments!</p>\n<p>Imagine:</p>\n<pre><code class=\"lang-auto\">pip install tecmns\nfrom tecmns.commonsbuild import praise, abc, convictionvoting\nfrom tecmns.1hive import continuousissuance, convictionvoting\nfrom tecmns.ltfte import multisigmoid, cashflow, alexandra\nfrom tecmns.tea import skilltree\n</code></pre>\n<h3>\n<a class=\"anchor\" href=\"#conviction-voting-2\" name=\"conviction-voting-2\"></a>Conviction Voting</h3>\n<p>We are not far from this reality. <a href=\"https://colab.research.google.com/drive/159f6w8FhLz4zi0FROdamkUpUWCxye3Uu?usp=sharing\" rel=\"noopener nofollow ugc\">These models are already being implemented</a> [Sem et al. 1hive]. They just havn’t been organized anywhere. All we have to do is <strong>start a repository</strong>, create a standard structure that we are happy with, <strong>include tests</strong> and <strong>standards for contributions</strong>, and then <strong>push to pypi</strong>. This is straight forward. Hey why don’t we even hash our models and have them trace a legacy. It’s like krypto kiddies for TE models. It’s so simple, we hash the files. This way. Hashes can be associated with github authors.</p>\n<h3>\n<a class=\"anchor\" href=\"#parameterized-classes-3\" name=\"parameterized-classes-3\"></a>Parameterized Classes</h3>\n<p>I propose a standard way of implementing token engineering component models. Specifically,  using python param. <strong>Parameterized python classes are a revolution in software engineering</strong>. It’s the absolutely perfect choice for making re-usable token engineering component models.</p>\n<p>From the <a href=\"https://pyviz-dev.github.io/param/\" rel=\"noopener nofollow ugc\">param docs</a>:</p>\n<blockquote>\n<p>Are you a Python programmer? If so, you need Param!</p>\n<p>Param is a library for handling all the user-modifiable parameters, arguments, and attributes that control your code. It provides automatic, robust error-checking while dramatically reducing boilerplate code, letting you focus on what you want your code to do rather than on checking for all the possible ways users could supply inappropriate values to a function or class.</p>\n<p>Param lets you program declaratively in Python, stating facts about each of your parameters up front. Once you have done that, Param can handle the rest (type checking, range validation, documentation, serialization, and more!).</p>\n<p>Param-based programs tend to contain much less code than other Python programs, instead just having easily readable and maintainable manifests of Parameters for each object or function. This way your remaining code can be much simpler and clearer, while users can also easily see how to use it properly. Plus, Param doesn’t require any code outside of the Python standard library, making it simple to add to any project.</p>\n<p>Param is also useful as a way to keep your domain-specific code independent of any GUI or other user-interface code, letting you maintain a single codebase to support both GUI and non-GUI usage, with the GUI maintainable by UI experts and the domain-specific code maintained by domain experts.</p>\n</blockquote>\n<h3>\n<a class=\"anchor\" href=\"#proposing-a-modular-approach-4\" name=\"proposing-a-modular-approach-4\"></a>Proposing a Modular Approach.</h3>\n<p>It would be cool if this repository was more like a bootloader containing registered repositories. This would allow a fractal structure, a generalization of repositories containing registry files. such that registered models(repositories) could themselves contain registered models. Thus we can  have a standard packaging and loading framework for models. This would form a network topology of models. Like an internet of models.</p>\n<p>Consider the following netlist contained in commonsbuild/tecmns-models<br/>\nnetlist.py</p>\n<pre><code class=\"lang-auto\">longtailfinancial/tokenengineering\ncommonsbuild/hatch\ncommonsbuild/commonsupgrade\n1hive/models\n</code></pre>\n<p>another file, tecmns.py</p>\n<p>tecmns --init</p>\n<p>The above command will clone the repositories in the netlist and verify their hash. The hash could potentially be broadcast on-chain. This effort could borrow and lend efforts to the skills forest considerations for skills trees. Consider the badge of honour in being an early author or repositories registered in the TE netlist.</p>\n<h3>\n<a class=\"anchor\" href=\"#this-is-not-another-simulation-framework-5\" name=\"this-is-not-another-simulation-framework-5\"></a>This is not another simulation framework.</h3>\n<p>The beautiful part about this approach is that it is perfectly complimentary to simulation frameworks like cadCAD and Tokenspice. This will not be another simulation framework. It will be a modelling framework. The tecmns models can be passed into cadCAD simulations like so:</p>\n<pre><code class=\"lang-auto\"># Simulation Imports\nfrom cadCAD.configuration.utils import config_sim\nfrom cadCAD.configuration import Experiment\nfrom cadCAD.engine import ExecutionMode, ExecutionContext\nfrom cadCAD.engine import Executor\nfrom cadCAD import configs\n\n# Model Imports\nfrom tecmns.commonsbuild import AgumentedBondingCurve, CulturalBuild\nfrom tecmns.ltfte import InterestRate, MultiSigmoid, Alexandra, Opex, LTFTE\nfrom tecmns.1hive.models import ConvictionVoting\n\n# Initial State \ncb_system = CommonsBuild(\n                phase1=CulturalBuild()\n                phase2=HatchUpgrade(\n                        fundraiser=AugmentedBondingCurve(reserve_ratio=0.65, starting_price=1, starting_supply=1e6)\n                        governance=ConvictionVoting(parameter='supagov')\n\nltfte_system = LTFTE(\n                        fundraiser = MultiSigmoid(),\n                        governance = ConvictionVoting(parameter='karmaconf')\n\n# Metrics and emergent properties\ninitial_state = {\n        **cb_system.metrics(),\n        **ltfte_system.metrics(),\n        **ecosystem.metrics(),\n        'x_factor': 1,\n        'market_scale': 1,\n}\n\n\n# Controllable and Uncontrollable models\nsystem_params={\n'controllables' = [{\n        'tecmns': cb_system,\n        'ltfte': ltfte_system,\n        'ecosystem': Eco(parameter='tea'),\n}],\n'uncontrollables' = [{\n        'maket': Market(parameter='bull_market'),\n        'interest_rates' = InterestRate(0.314),\n    },\n    {\n        'maket': Market(parameter='bear_market'),\n        'interest_rates' = InterestRate(-.0125),\n}]\n\n### Component Step Logic\ndef p_step(params, substep, state_history, previous_state):\n        controllables = params['system']['controllables']\n        uncontrollables = params['system']['uncontrollables']\n        for model in uncontrollables:\n                    model.step()\n        for model in controllables:\n                    model.step()\n        return {}\n\n### Interaction Logic\ndef p_interact(params, substep, state_history, previous_state)\n        controllables = params['system']['controllables']\n        uncontrollables = params['system']['uncontrollables']\n\n        tec = controllables['tecmns']\n        ltf  = controllables['ltfte']\n        ecosystem = controllables['ecosystem']\n        market = uncontrollables['market']\n\n\n        x_factor = ltf.treasury * tec.treasury\n        market.x_factor = x_factor\n        market.scale = ecosystem.scale(market)\n\n        hatchers: int = controllables['tecmns'].hatchers\n        token_engineers: int = controllables['ecosystem'].token_engineers\n        token_engineering_opportunities = uncontrollables['market'].opportunities\n\n        market.open(hatchers, token_engineers, token_engineering_opportunities)\n\n        ltf.grow(market_opportunities)\n        tec.grow(ltf.job_opprotunities())\n\n        nft_skill_forest.develop(ltf, tec, market)\n\n        te_academy.teach()\n\n\ns_metrics(params, substep, state_history, previous_state, policy_input):\n        controllables = params['system']['controllables']\n        uncontrollables = params['system']['uncontrollables']\n        tec = controllables['tecmns']\n        ltf  = controllables['ltfte']\n        ecosystem = controllables['ecosystem']\n        market = uncontrollables['market']\n\n        return **{\n                **tec.metrics(),\n                **ltf.metrics(),\n                **ecosystem.metrics(),\n                **market.metrics(),\n                'x_factor': policy_input['x_factor'],\n                'market_scale': policy_input['market_scale'],\n        }\n\npartial_state_update_blocks = [\n    {\n        'policies': {\n            'p_step' : p_step,\n            'p_interact' : p_interact,\n        },\n\n        'variables': {\n            'metrics': s_metrics,\n}\n\n\ndel configs[:]\n\nsim_config = config_sim({\n    'T': range(300), # No of timesteps to simulate\n    'N': 1, # No. of Monte Carlo Run\n    'M': system_params # passing system parameters as defined earlier\n})\n\nexperiment = Experiment()\nexperiment.append_configs(\n    initial_state=model.initial_state,\n    partial_state_update_blocks=model.partial_state_update_blocks,\n    sim_configs=sim_config,\n)\n\nexec_context = ExecutionContext()\nsimulation = Executor(\n    exec_context=exec_context,\n    configs=configs,\n)\n\n#print(\"Started Simulation at:\", datetime.now().strftime(\"%H:%M:%S\"))\n\nraw_result, tensor_field, sessions = simulation.execute()\n\ndf = pd.DataFrame(raw_result)\n</code></pre>\n<p>In the above example, we borrow a pattern that Dr. McConaghy implements in tokenspice, that is the idea of <a href=\"https://github.com/oceanprotocol/tokenspice#-tokenspice-design\" rel=\"noopener nofollow ugc\">controllables, uncontrollables, and metrics</a>.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-information-6\" name=\"proposal-information-6\"></a>Proposal Information</h3>\n<p><strong>Proposal Description:</strong><br/>\n<em>Implementation of the netlist modular TE library described above</em></p>\n<p><strong>Proposal Details:</strong><br/>\n<em>See proposal content above.</em></p>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<em>Two weeks</em></p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong><br/>\n<em>See proposal content above.</em></p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-7\" name=\"team-information-for-funding-proposals-7\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Names, usernames, and/or relevant social links for team members (Twitter, Github, TEC Forum, etc.):</strong><br/>\n<a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a><br/>\n<a class=\"mention\" href=\"/u/sem\">@sem</a><br/>\n<a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a><br/>\n<a class=\"mention\" href=\"/u/navier_stoked\">@navier_stoked</a><br/>\n<a class=\"mention\" href=\"/u/heater\">@Heater</a></p>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\n<em>We have been busy building. This proposal is to organize work done and make it highly available to the world.</em></p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-8\" name=\"funding-information-for-funding-proposals-8\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong><br/>\n25KWXDAI</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong><br/>\n0x8C6e8021de64150BF374640Eaf7732542D93aEb8</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong><br/>\nThe address above is the Longtail Financial vault. Contributors can register with LTF to be compensated based on a combination of hours logged, commits pushed, and models authored.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081044",
+    "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-06-20T14:33:08Z",
+   "updated_at": "2021-06-20T14:33:08Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>That’s rad, thank you for posting this!</p>\n<p>I think the most interesting thing of these modules is its interoperability. If we map somehow the smart contracts inputs and outputs with the python classes inputs and outputs, we can model any tokenomic system and visualize how those small pieces behave when they are interconnected.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081044",
+    "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Heater",
+   "name": null,
+   "created_at": "2021-06-25T11:29:44Z",
+   "updated_at": "2021-06-25T11:29:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Very cool, thanks for writing this up! Regarding the hashing idea, I see some some similarities with the work stream we’ve been hacking away at with the TE Academy to better understand the distribution of educational digital content (i.e. blog posts, eTextbooks, videos, etc.) through a network with the intention of flowing value back down those contribution channels to original creators. In this common repository use case, however, the digital content is a Token Engineering model component (not a textbook), and the creators are developers (not teachers/researchers), but the same value reward mechanism could come into play!</p>\n<p><a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> FYI since this idea came up as a use case in our last meeting too!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530081044",
+    "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928014801",
+   "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014801",
+   "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006172629",
+   "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530081044",
+   "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530081044",
+   "url": "https://forum.tecommons.org/t/universal-python-library-for-te-models/443"
+  }
+ ]
+}

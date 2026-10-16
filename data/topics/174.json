@@ -1,0 +1,98 @@
+{
+ "id": 174,
+ "title": "Gravity - Role design",
+ "slug": "gravity-role-design",
+ "category_id": 10,
+ "posts_count": 2,
+ "created_at": "2020-12-18T20:08:55.231Z",
+ "views": 3065,
+ "last_posted_at": "2021-09-06T18:35:13.432Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-09-06T18:35:13Z",
+ "captured_between": [
+  "2021-03-03T02:41:13Z",
+  "2026-04-12T17:01:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2020-12-18T20:08:55Z",
+   "updated_at": "2021-08-06T14:50:24Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Gravity role design Epic: <a href=\"https://github.com/TECommons/coordination/issues/130\">https://github.com/TECommons/coordination/issues/130</a></p>\n<p>Rules and boundaries are key for managing Common Pool Resources, and monitoring gives legitimacy to agreements toward maintaining trust and collective goodwill.</p>\n<p>We are proposing a mutual-monitoring system, where each one of us can inform any issue (through the Gravity <a href=\"https://the-commons-stack.typeform.com/to/rCVsK5RK\">Typeform</a>) to a designated group of members in the community, that will assume the following <strong>responsibilities:</strong></p>\n<p>a) As individuals, to promote dialogue within the organization and manage conflicts addressed through ADR (<a href=\"https://en.wikipedia.org/wiki/Alternative_dispute_resolution\">Alternative Dispute Resolution</a>),</p>\n<p>b) As a collective, to take decisions on the implementation of <a href=\"http://patternsofcommoning.org/uncategorized/eight-design-principles-for-successful-commons/\">graduated sanctions</a>.</p>\n<p>c) As both a collective and individuals, to commit to the practice of preventing, contextualizing and resolving disputes by regular attendance in our community practice.</p>\n<p><strong>Gravity members must commit to additional exigences that are required to join and stay in the collective. Such as:</strong></p>\n<ol>\n<li>\n<p>Voluntary Process: All members in the Gravity group participate without coercion from any actor.</p>\n</li>\n<li>\n<p>Self-Determination: Recognize the ability to promote voluntary agreements. The mediator facilitates the management of disputes but the outcomes belong to the parties.</p>\n</li>\n<li>\n<p>Conflict of interest: Recognize when they are not capable of facilitating a conversation for any possible bias reason, personal or professional.</p>\n</li>\n<li>\n<p>Competence: As we are a community of experts, the mediator, besides being trained in Alternative Dispute Resolution, should be able to prove deep understanding of the specific topics that the dispute may be about.</p>\n</li>\n<li>\n<p>Confidentiality: Information related to these processes should be handled privately, and strategically shared with the agreement by the parties. Unwanted information filtered by the mediator is a reason to remove from the Gravity group.</p>\n</li>\n<li>\n<p>Impartiality and neutrality: The Gravity group members should lead by their example of empathy and acceptance of different points of view, with freedom from favouritism.</p>\n</li>\n<li>\n<p>Professional Responsibility: Gravity members should assume the task of mediating in the organization with diplomacy and prudence.</p>\n</li>\n<li>\n<p>Rotation: Three times a year, new training and selection processes will be run to encourage members of the community to become part of the Gravity team. One can only be in this group for three years in a row, to avoid accumulation of power.</p>\n</li>\n</ol>\n<p><strong>Only a maximum of three members of the group will be able to look at the answers of the typeform</strong> The rest of the members will participate in collective decisions for the implementation and review of graduated sanctions, communicating insights about the process, and getting assigned cases that should be accepted by the mediator to put in place.</p>\n<p><strong>That implies three levels of confidentiality inside the Gravity Group,</strong></p>\n<ol>\n<li>\n<p>Confidentiality inside the ADR process: Information of the specific process for each case should remain exclusive to the parts involved. Only the mediator notes on a possible agreement, and the agreement will remain on the Gravity Database for follow up and accountability.</p>\n</li>\n<li>\n<p>Gravity typeform confidentiality: Only three members of the Gravity group should be able to see the raw input that comes from the community, and their duty is to transform that input into cases that can be assigned to a gravity member to facilitate.</p>\n</li>\n<li>\n<p>Gravity group confidentiality: discussion of cases, reviews and placement of graduate sanctions will remain as a democratic decision in the gravity group. (Still to decide voting mechanism)</p>\n</li>\n</ol>\n<p>Systems of Communication</p>\n<p>+*. Implement a <a href=\"https://docs.google.com/document/d/12Pl3mpF5IautPtVdPHjh0tc8fu6JM2iTCnGyumCmULc/edit#\">protocol</a> regarding calls:</p>\n<p>Reward mechanisms: Still to decide</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412170148",
+    "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2020-12-24T17:52:47Z",
+   "updated_at": "2020-12-24T17:52:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Voting: Class of decisions, Who is going to participate, why, how is derived from those.<br/>\nWhat actions can be decided by the mediator and what are necessary to check on. context dependent, make clear rules, design checks &amp; balances. Decisions are checked, involve monitoring to hold each other accountable. We need to easily control and not make voting decisions for everything. Trust people who is in charge. have a registry of the sanctions. the idea is to have fast responses and voting slows things.</p>\n<p>Payments: nothing beats one person managing funds. Responsability for negotiation. budget requested from CV. Planning economy. One mind in very touchy issue. Rotate.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412170148",
+    "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-09-06T18:35:13Z",
+   "updated_at": "2021-09-06T18:35:13Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>The intellectual rigor and ethical consideration displayed by <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> and the rest of Gravity in this design is a perfect example of what makes me proud to participate in the TEC community. Really inspiring! <img alt=\":raised_hands:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=9\" title=\":raised_hands:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412170148",
+    "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303024113",
+   "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303024113",
+   "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319080257",
+   "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260412170148",
+   "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260412170148",
+   "url": "https://forum.tecommons.org/t/gravity-role-design/174"
+  }
+ ]
+}

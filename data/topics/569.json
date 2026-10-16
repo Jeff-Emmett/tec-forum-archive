@@ -1,0 +1,376 @@
+{
+ "id": 569,
+ "title": "75% Governance Giveback",
+ "slug": "75-governance-giveback",
+ "category_id": 28,
+ "posts_count": 28,
+ "created_at": "2021-08-24T10:08:16.298Z",
+ "views": 404,
+ "last_posted_at": "2021-11-03T17:11:06.574Z",
+ "highest_post_number": 17,
+ "closed": false,
+ "archived": false,
+ "more_after": 20,
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "last_archived_post_at": "2021-09-27T23:25:18Z",
+ "captured_between": [
+  "2021-08-28T08:14:15Z",
+  "2022-01-24T03:42:53Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-08-24T10:08:16Z",
+   "updated_at": "2021-11-18T18:49:17Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#75-governance-giveback-to-paid-contributors-1\" name=\"75-governance-giveback-to-paid-contributors-1\"></a>75% Governance Giveback to paid contributors</h2>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Proposal Description:</strong><br/>\nThis proposal refers to the “75% Governance Giveback” topic of the <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/12\">No Abnormal Intervention</a> proposal, which was part of the Impact Hour Intervention voting session that happened on TokenLog in July 2021.</p>\n<p><strong>Background:</strong> <strong>48</strong> contributors that were compensated by the Commons Stack, Giveth, Commons Swarm or General Magic for the work done in the TEC received an IH deduction during praise quantifications. Deductions varied wildly. Some contributors were mostly volunteering, and some were paid almost the full time.</p>\n<p><strong>Problem:</strong> During the Praise Analysis Process, this deduction was claimed unfair by part of the community and was defended by another.</p>\n<p><strong>1. Unfair:</strong> One of the arguments to change the deduction system was that it makes little sense to penalize members who are so dedicated to the project, this actually hurts the TEC as we will lose their valuable perspective in our governance.</p>\n<p><strong>2. Fair:</strong> One of the arguments to not change the deduction system is that it is not fair to double reward the people who are receiving compensation financially since many volunteers were offered compensation but chose to work for Impact Hours, knowing they would later become tokens.</p>\n<p><em><strong>We are proposing:</strong></em></p>\n<p><strong>Solution:</strong> The No Abnormal Intervention Proposal, which got the most votes front he community in the Praise Debates proposed a “75% Governance Giveback” acknowledging the intertwining of money and governance rights is not ideal and strikes a compromise between both points.</p>\n<p>The goal is to replace 75% of the governance rights that were deducted from these 48 contributors <strong>without giving them any monetary rewards,</strong> effectively giving them back some of the voice that earned but taken away because of their monetary rewards.</p>\n<h2>\n<a class=\"anchor\" href=\"#this-vote-would-be-held-on-snapshot-3\" name=\"this-vote-would-be-held-on-snapshot-3\"></a>This vote would be held on snapshot</h2>\n<p><strong>Proposal Details:</strong></p>\n<p>The Impact Hour Intervention vote ended with a compromise between Praisemagedon and No Abnormal Intervention due to a polarized scenario. Deductions were lessoned by the inclusion of Praisemageedon, but there were still deductions in Praisemaggedon’s revised distribution.</p>\n<p>If we were to reward 75% of the Governance rights to those with deductions, this is what it would look like:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">Handle</th>\n<th style=\"text-align:center\">75% Gov Rights</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">GriffGreen</td>\n<td style=\"text-align:center\">16,413.08</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">sembrestels</td>\n<td style=\"text-align:center\">15,371.16</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">liviade</td>\n<td style=\"text-align:center\">15,299.92</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tam2140</td>\n<td style=\"text-align:center\">12,268.39</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">JuankBell</td>\n<td style=\"text-align:center\">12,216.29</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">JessicaZartler</td>\n<td style=\"text-align:center\">11,401.58</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">paulo_c2d</td>\n<td style=\"text-align:center\">9,964.25</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">chuygarcia92</td>\n<td style=\"text-align:center\">8,212.31</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">markop</td>\n<td style=\"text-align:center\">7,835.72</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">vegayp</td>\n<td style=\"text-align:center\">7,136.64</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">iviangita</td>\n<td style=\"text-align:center\">6,703.18</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">jeffemmett</td>\n<td style=\"text-align:center\">6,275.71</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">freedumbs00</td>\n<td style=\"text-align:center\">5,451.34</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">VitorMarthendal</td>\n<td style=\"text-align:center\">5,407.21</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">divine_comedian</td>\n<td style=\"text-align:center\">4,751.74</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Suga#8514</td>\n<td style=\"text-align:center\">4,453.36</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">naynaysoo</td>\n<td style=\"text-align:center\">4,141.61</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Laurenluz</td>\n<td style=\"text-align:center\">3,763.14</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">fabimol</td>\n<td style=\"text-align:center\">3,586.76</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Vyvy-vi#5040</td>\n<td style=\"text-align:center\">3,559.03</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Krisjones</td>\n<td style=\"text-align:center\">3,539.05</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">mateodaza</td>\n<td style=\"text-align:center\">3,203.42</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">zeptimusQ</td>\n<td style=\"text-align:center\">3,157.38</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">ygganderson</td>\n<td style=\"text-align:center\">2,905.86</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">fabiosmendes</td>\n<td style=\"text-align:center\">2,358.31</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">knobsDAO</td>\n<td style=\"text-align:center\">1,852.94</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">xgabi</td>\n<td style=\"text-align:center\">1,317.33</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">kristoferkristofer</td>\n<td style=\"text-align:center\">1,171.36</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">vivszaid</td>\n<td style=\"text-align:center\">989.52</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">atacas</td>\n<td style=\"text-align:center\">916.12</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">fiorebotta</td>\n<td style=\"text-align:center\">811.88</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">aminlatifi</td>\n<td style=\"text-align:center\">597.86</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">heater03</td>\n<td style=\"text-align:center\">506.40</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Mount Manu#3530</td>\n<td style=\"text-align:center\">476.69</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">acidlazzer#5796</td>\n<td style=\"text-align:center\">473.32</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">geleeroyale</td>\n<td style=\"text-align:center\">441.26</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">lescanore</td>\n<td style=\"text-align:center\">400.44</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">rubenrussel7</td>\n<td style=\"text-align:center\">363.82</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">danibelle</td>\n<td style=\"text-align:center\">326.34</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">katalenacaban</td>\n<td style=\"text-align:center\">314.00</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">sgonzt</td>\n<td style=\"text-align:center\">307.74</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">anthonyoliai</td>\n<td style=\"text-align:center\">283.06</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">jukren#8803</td>\n<td style=\"text-align:center\">283.01</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">gfriis</td>\n<td style=\"text-align:center\">278.58</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">MerlinEgalite</td>\n<td style=\"text-align:center\">271.80</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">freshelle</td>\n<td style=\"text-align:center\">52.09</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">bradleyc#1813</td>\n<td style=\"text-align:center\">33.37</td>\n<td>TEC</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Ekeneodigwe#1502</td>\n<td style=\"text-align:center\">31.59</td>\n<td>TEC</td>\n</tr>\n</tbody>\n</table>\n</div><p>The math behind this Calculation can be seen here:</p><aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit?usp=sharing\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1qvmwwlUHnQWYc2JQRoE1Qo_IKx6a4CI9ehWIMvkiqFc/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">TEC Praise Quantification</a></h3>\n<p>75% Governance Calc\n\nWeight of No Abnormal Intervention,Weight of Praisemaggedon,Total (IH),Total (IH),Total (Tech),Total,IH Rate (TECH/IH),Scalor Factor for IH,Total IH\n75%...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h2>\n<a class=\"anchor\" href=\"#potential-technical-solutions-4\" name=\"potential-technical-solutions-4\"></a>Potential Technical Solutions</h2>\n<p>We respectfully ask that if this proposal passes we let the Commons Swarm debate the merits of both technical solutions and research them further in an open process before deciding which one to pursue.</p>\n<p><strong>There are 2 main technical solutions</strong></p>\n<p><strong><span class=\"hashtag\">#1</span> Quick and Dirty:</strong> The quick solution is to make a <strong>one character change to the smart contract that would enable us to mint TEC tokens without affecting the bonding curve but place them in a vesting contract that will lock them forever.</strong> This solution is being reviewed for security issues by our smart contract reviewers. If it is deemed to be secure, it is a very simple and practical solution as it requires almost no work to implement and it could be <strong>implemented in the Commons Upgrade</strong>. However, it is not elegant. Changing the bonding curve to ignore these tokens could be confusing especailly since it will look like each of these 48 contributors will have these funds in their address, but they will not be able to transfer them out.</p>\n<p><strong><span class=\"hashtag\">#2</span> Slow and Steady:</strong>  A better solution would be to create a different non-transferable token that could be used alongside the TEC token for governance decisions. Unfortunately the tooling to do this does not exist for Conviction Voting which currently can only support voting with 1 token. We would need to <strong>fund the creation of an Aragon app that could aggregate multiple tokens for voting on Conviction Voting.</strong> This is the better approach and it is very likely that this solution would solve other problems for other communities using Conviction Voting. In fact, it is likely to be pursued eventually no matter what the outcome of this vote is, <strong>however this will take many months to design, build, test, review, and deploy and technical challenges may arise</strong> that can make it more difficult than we expect. It is unclear when it would be prioritized to be built, who would fund it (likely 1hive and the TEC?) and there is no way that it will be done before the Commons Upgrade, so it would require the TE Commons to vote to upgrade Conviction voting later to include it.</p>\n<p>Here is a diagram <strong>Sem</strong> drew of the Slow and Steady solution, the Hooked Voting Aggregator is the App that needs to be built.</p>\n<p><strong><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e6737082431483c6de5639c6423a6daad0b5adcc\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e6737082431483c6de5639c6423a6daad0b5adcc.jpeg\" title=\"\"><img alt=\"\" data-base62-sha1=\"wSF93Rbv8XgMlZ04IbjRAIsOPfK\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e6737082431483c6de5639c6423a6daad0b5adcc_2_10x10.png\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e6737082431483c6de5639c6423a6daad0b5adcc_2_624x360.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e6737082431483c6de5639c6423a6daad0b5adcc_2_624x360.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/e6737082431483c6de5639c6423a6daad0b5adcc_2_936x540.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/e6737082431483c6de5639c6423a6daad0b5adcc_2_1248x720.jpeg 2x\" width=\"624\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">2048×1181 209 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></strong></p>\n<p><strong><span class=\"hashtag\">#3</span> The Unknown Better Solution</strong>: Potentially another solution could emerge as an option as well. We are open to various technical solutions to achieve this outcome. If this vote passes the developers that will implement the solution will review the options and choose the best path forward.</p>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<em>How long do you think it will take to deliver on your proposal</em></p>\n<p>We will work with the Commons Swarm to have the best possible solution up as soon as possible. Either in conjunction with the Commons Upgrade or after, depending on the solution chosen.</p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong></p>\n<p>The deductions that were made took well deserved governance rights away from important contributors. Their knowledge of the ins and outs of the TEC are very valuable and their voice being given extra power will help the DAO make better decisions.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-5\" name=\"team-information-for-funding-proposals-5\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p><a class=\"mention\" href=\"/u/griff\">@Griff</a><br/>\n<a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a><br/>\n<a class=\"mention\" href=\"/u/sem\">@sem</a><br/>\n<a class=\"mention\" href=\"/u/paulo\">@paulo</a><br/>\n<a class=\"mention\" href=\"/u/bradleyc\">@bradleyc</a></p>\n<ul>\n<li>Possible New Aragon devs</li>\n</ul>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\nWe have been trying to promote the best rewards systems. Its hard to work with coin voting governance while also having  regular payments to develop the tools. We want this proposal to be a retroactive governance payment that boosts the decision taking capabilities of core participants in the TEC DAO.</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-6\" name=\"funding-information-6\"></a>Funding Information</h2>\n<p><strong>Amount of tokens requested:</strong> Aprox 191,876.95 TEC that would be locked to not affect the bonding curve</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-08-25T13:00:59Z",
+   "updated_at": "2021-08-25T13:00:59Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<p>Regarding the two technical solutions, I think the first “Quick and Dirty” one should be out of the table. Something like token governance should not be taken lightly, and proposing something like this is a HUGE change in relation of the initial Commons design we had in mind.</p>\n<p>I can not commit to include a technical solution for the 75% Governance Giveback within the Commons Upgrade. The development of the upgrade is complex enough, and implementing the “Quick and Dirty” solution would make the new Augmented Bonding Curve flawed by design, since under certain circumstances it could incur in an <a href=\"https://en.wikipedia.org/wiki/Integer_overflow\">integer overflow error</a>.</p>\n<p>This is something I already told in many Commons Swarm meetings, there is not a quick and good solution. If the community still want to give back governance rights, the solution will be slow and probably expensive, as this requires a redesign and re-implementation of many apps.</p>\n<p>If this vote passes, it will just signal which path the community want this to go, but no one can work miracles.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-08-25T16:36:37Z",
+   "updated_at": "2021-08-25T16:36:37Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Summary of my thoughts on this proposal:</p>\n<p>First, I love the intention of this proposal as it shows how we can come together to find solutions to the challenges that we have faced within our community.  From the Praise Analysis to the IH Intervention Proposals, our ability to adapt and come up with creative solutions is truly unique in the DAO space.</p>\n<p>While I can only speak for myself, I want to state that I do not care about receiving the additional Governance Rights associated with Conviction Voting (in particular).  In the end, my additional (4k) TEC voting rights is a fraction of an increase to the overall voting impact that I have as an <em>individual</em>.</p>\n<p>I would love to see the distribution of voting power by individuals overall and place that under the same lens as we did with our IH distribution.  As Sem said, Governance is very important, and while I appreciate the attempt for remuneration for IH deductions, the overall strategy for long-term governance is far more important in my opinion.</p>\n<p>I LOVE the mechanism of having a staking contract for Governance tokens.  However, I think that the application of this mechanism to giving individuals additional voting power is not as strategic as it could be in terms of developing an effective governance strategy.  My feeling, is that this mechanism would be far more effective if we instead created a single pool of Governance tokens that can be managed by a committee of TE experts (appointed by our community and managed via multi-sig address) who can guide, influence and inform all TEC token-holders on what Projects they believe are the most vital for TE funding.</p>\n<p>The feasibility of our technical solutions may make this a non-starter, but I do believe thinking about Governance from a strategic standpoint is worthy of a conversation.  I’m incredibly neutral about the outcome of this proposal, but I am VERY interested in developing the mechanism that allows it to happen.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-08-26T14:59:54Z",
+   "updated_at": "2021-08-26T14:59:54Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"569\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>My feeling, is that this mechanism would be far more effective if we instead created a single pool of Governance tokens that can be managed by a committee of TE experts (appointed by our community and managed via multi-sig address)</p>\n</blockquote>\n</aside>\n<p>I think that can be dangerous, it will give a group of people a certain privilege and power, especially in a field of study where new branches might be born more often than what we think. Another thing that I’m personally afraid of taking decisions of this magnitude is if someone wanna do something, gotta coordinate with them creating a bureaucracy where this group of people would be the bureaucrats. It could also lead to a dictatorship where this group of people only need to coordinate with <strong>key members</strong> to rule the commons at their own. I feel it’s good to hear “TE Experts” but if they want to decide anything they must have skin in the game or their influence should be limited to the people that want to hear them and of course have tokens. If we make a decision of concentrate the power it will also be more easy to bribe this people or to them to bribe others (since they might have a high control on our treasury)</p>\n<p>We should think about how many keys do we need right now to rule the commons and how to make it decentralize so human feelings do not get in the way of the goal of the common. I wanna clarify that, the initial distribution seems pretty representative on the skin on the game with that i’m not saying that the previus conflict was good it was clearly bad for us if you see pros and cons and the only reason that was able to happen it’s because weird power dynamics outside TEC and human feelings so i really encourage us to keep decentralize and do not create “TE Experts”.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-28T22:14:32Z",
+   "updated_at": "2021-08-28T22:14:32Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The code can be checked for that integer overflow issues, and we can test it. While the bonding curve may lose some of its elegance, if the review comes out with no issues, the curve will gain a lot of functionality.</p>\n<p>Separating Governance power from value is something that this space, and the TEC specifically could benefit greatly from.</p>\n<p>Giving the Tao voting app (formerly disputable voting) the permission to create a negative Virtual Supply could let it create issues in the Commons… but the Tao voting app already can vote to remove money out of the bonding curve and send it to 0x0. Giving the Tao Voting app the option to screw things up doesn’t add any more risk, as it already has that option in 100 different ways. Any use of this added functionality would have to be reviewed carefully, but I don’t believe the fear of an integer overflow error is justified if the functionality passes a code review.</p>\n<p>In the end of course, Ethereum just had a chain split, things can go wrong no matter how well we review things, but we have to measure the risk vs the reward. Here, IMO, if the risk is assessed to be very low we shoudl do it because the reward for future functionality is massive.</p>\n<p>There are many use cases for giving out governance rights without connecting it to a monetary instrument. For instance, if a non-profit/foundation would find it to be too complicated to add a token of value to it’s accounting, it could just send money directly to the Common Pool and then we mint the org a token with governance rights and no value!</p>\n<p>Of course there are more complicated and better ways to create this solution… but they are not very practical relative to a 1 character change that was reviewed and deemed to be safe.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-08-30T15:19:47Z",
+   "updated_at": "2021-08-30T15:19:47Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I think I could not be more clear: there is not a quick and good solution. I am not going to deploy a change that potentially can lead to a failure of the bonding curve. I already explained why in the previous post.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-05T08:01:03Z",
+   "updated_at": "2021-09-05T08:01:03Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The good thing is we don’t have to vote as a community on the technical solution, that’s more of a Commons Swarm decision. The vote here is whether its even worth investigating.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-09-06T19:33:34Z",
+   "updated_at": "2021-09-07T06:48:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>In sept 6 Commons swarm call, <a class=\"mention\" href=\"/u/sem\">@sem</a> presented a technical solution (HOOKED TOKEN MANAGER) that could be implemented before the commons upgrade and can be useful until the implementation of multi token gardens. <strong>With that part of the advice process more cleared out, I think this proposal is ready to proceed and look for the community’s support to return governance to core members of the project,</strong> who had TEC tokens reduced for their monetary compensations.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828\" href=\"https://forum.tecommons.org/uploads/default/original/1X/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828.jpeg\" title=\"Captura de Pantalla 2021-09-06 a la(s) 8.56.59 p. m.\"><img alt=\"Captura de Pantalla 2021-09-06 a la(s) 8.56.59 p. m.\" data-base62-sha1=\"jOlJOUxYlvJJd3XbVHSdYcj1kQo\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828_2_561x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828_2_561x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828_2_841x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/8ada5dd4cb3fe520e5e27c5316ba51d4e2d06828.jpeg 2x\" width=\"561\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Captura de Pantalla 2021-09-06 a la(s) 8.56.59 p. m.</span><span class=\"informations\">860×766 114 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>This vote is proposed to be done on the weekend of September 17-20.</strong><br/>\n<strong><strong>Using Quadratic voting on snapshot</strong></strong></p>\n<p>“Do you support the implementation of a technical solution that makes a 75% governance giveback to paid contributors who were deducted TEC tokens previous to the hatch?”</p>\n<p><strong>Options:</strong> <strong>Yes / No</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-09T19:22:32Z",
+   "updated_at": "2021-09-09T19:22:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thoughts from the group conversation today:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://sunderfinance.medium.com/\">\n<header class=\"source\">\n<a href=\"https://sunderfinance.medium.com/\" rel=\"noopener\" target=\"_blank\">Medium</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/c395c3a0a6fa8984390242a935ac309766e4417a_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c395c3a0a6fa8984390242a935ac309766e4417a_2_500x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c395c3a0a6fa8984390242a935ac309766e4417a_2_500x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/c395c3a0a6fa8984390242a935ac309766e4417a_2_750x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/c395c3a0a6fa8984390242a935ac309766e4417a.jpeg 2x\" width=\"500\"/>\n<h3><a href=\"https://sunderfinance.medium.com/\" rel=\"noopener\" target=\"_blank\">Sunder Finance – Medium</a></h3>\n<p>Read writing from Sunder Finance on Medium. Redefining token governance &amp; earnings. Every day, Sunder Finance and thousands of other voices read, write, and share important stories on Medium.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<ul>\n<li>\n<p>Weird dynamics could arise…</p>\n</li>\n<li>\n<p>What if some of these people ragequit? They would still have tokens to vote…</p>\n</li>\n<li>\n<p>People who chose to</p>\n</li>\n<li>\n<p>There are other groups who have done this:</p>\n</li>\n<li>\n<p>What if these tokens went to a group of Token Engineers instead… and we had a DAO for them that would be cool! x2</p>\n</li>\n<li>\n<p>Would be better if it was more communal.</p>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-10T20:58:12Z",
+   "updated_at": "2021-09-10T21:03:26Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p><a href=\"https://imgflip.com/i/5mkc0z\"><img alt=\"\" data-base62-sha1=\"7uoOtWuVduJYEO4GeLJDdHkDHvW\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/original/1X/347ef2ccf3d1d9c8e23bccbf8cad7f5977c41fd0.jpeg\" title=\"made at imgflip.com\" width=\"379\"/></a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-09-14T18:24:26Z",
+   "updated_at": "2021-09-14T18:24:26Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"569\" data-username=\"Juankbell\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/j/e79b87/40.png\" width=\"20\"/> Juankbell:</div>\n<blockquote>\n<p><strong>This vote is proposed to be done on the weekend of September 17-20.</strong><br/>\n<strong><strong>Using Quadratic voting on snapshot</strong></strong></p>\n<p>“Do you support the implementation of a technical solution that makes a 75% governance giveback to paid contributors who were deducted TEC tokens previous to the hatch?”</p>\n<p><strong>Options:</strong> <strong>Yes / No</strong></p>\n</blockquote>\n</aside>\n<p>Allow me to show strong support the binary yes/no framing and leaving the solution to the experts, aka Commons Swarm, to determine! But, I find myself asking how we determine whether a vote should take place on Snapshot versus the HatchDAO. What criteria should be used?</p>\n<p>It seems there might be at least these two criteria which would necessitate a HatchDAO vote:</p>\n<ol>\n<li>Request for funding from the DAO</li>\n<li>Proposal to change the DAO code itself or have significant impact on technical architecture</li>\n</ol>\n<p>If we agree this to be true, then this proposal - in which the solution implemented would create a new form of  governance-only token - would qualify as “significant change to HatchDAO” and would need to go to Hatch DAO vote.</p>\n<p>The Snapshot vote is preferable for all the reasons explained in <a class=\"mention\" href=\"/u/liviade\">@liviade</a>’s post on <a href=\"https://forum.tecommons.org/t/decision-making-guide/609\">Decision Making</a> but we may be setting a precedent by doing so.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-09-14T19:19:47Z",
+   "updated_at": "2021-09-14T19:19:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I would vote Yes, and to delegate my Governance Tokens to a Communal Pool.  <img alt=\":upside_down_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/upside_down_face.png?v=10\" title=\":upside_down_face:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-15T17:13:05Z",
+   "updated_at": "2021-09-15T17:13:05Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"569\" data-username=\"Tamara\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tamara/40/67_2.png\" width=\"20\"/> Tamara:</div>\n<blockquote>\n<p>If we agree this to be true, then this proposal - in which the solution implemented would create a new form of governance-only token - would qualify as “significant change to HatchDAO” and would need to go to Hatch DAO vote.</p>\n</blockquote>\n</aside>\n<p>It is not a change in the Hatch DAO, but in the Commons DAO, so this decision could be made in the Commons Upgrade vote itself. However, Commons Swarm will also need economic support for building the Hooked Voting Aggregator. We could request 5,000 wxDAI from the Hatch DAO to build this solution, and once the solution is built ratify the decision with the Commons Upgrade vote.</p>\n<aside class=\"quote no-group\" data-full=\"true\" data-post=\"12\" data-topic=\"569\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>I would vote Yes, and to delegate my Governance Tokens to a Communal Pool. <img alt=\":upside_down_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/upside_down_face.png?v=10\" title=\":upside_down_face:\"/></p>\n</blockquote>\n</aside>\n<p>You can delegate your tao voting power to somebody else, or even a DAO controlled by a group of stakeholders (something like a political party?). Delegation is not possible in Conviction Voting, since the dynamic of this kind of voting performs badly without direct democracy.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-09-16T11:41:21Z",
+   "updated_at": "2021-09-16T11:41:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for this clarification, <a class=\"mention\" href=\"/u/sem\">@sem</a>. We talked the next steps in the Stewards’ call yesterday and will move forward with a Snapshot yes/no vote (expected to happen from Sept 24 - 27th). A “yes” vote would mean that it will be included in the Commons upgrade vote. This way it will still be voted via Hatch DAO but bundled together with the rest of the parameters for the Commons upgrade.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-09-16T17:01:25Z",
+   "updated_at": "2021-09-16T17:01:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>As Tam states, after receiving feedback from the advice process, we have decided that this vote is going to be held between the <strong>24th - 27th September</strong>. I will post <a href=\"https://snapshot.org/#/tecommons.eth\">here</a> the snapshot vote for everyone to participate. Let’s coordinate with <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a> to promote engagement.</p>\n<p>*The execution of this proposal will be bundled within the commons upgrade.</p>\n<p>Voting type: <strong>Quadratic voting</strong> (because it continues the implementation of a <a href=\"https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533\">past decision taken on tokenlog</a>)</p>\n<p>\"Do you support the funding and implementation of a technical solution that will allow to make a 75% governance giveback to paid contributors who were deducted TEC tokens previous to the hatch?</p>\n<p><strong>Options: YES / NO</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-17T11:22:31Z",
+   "updated_at": "2021-09-17T11:22:31Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>In my opinion single vote, or weighted voting would give us a better signal since it’s the one the Hatch DAO will use.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-09-20T13:48:42Z",
+   "updated_at": "2021-09-24T20:53:49Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>Snapshote proposal published!</strong> <a href=\"https://snapshot.org/#/tecommons.eth\">[VOTE HERE]</a></p>\n<p>Following <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> advice, we decided to go with <strong>single choice voting</strong>, to have signaling from the Hatch DAO distribution.</p>\n<p>Dates: 24 september 8AM (GMT-5), ending 27 september 8PM (GMT-5)</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/f8822c776204acd6c5f2659147a2acbb46b35bd2\" href=\"https://forum.tecommons.org/uploads/default/original/1X/f8822c776204acd6c5f2659147a2acbb46b35bd2.jpeg\" title=\"Captura de Pantalla 2021-09-20 a la(s) 8.20.59 a. m.\"><img alt=\"Captura de Pantalla 2021-09-20 a la(s) 8.20.59 a. m.\" data-base62-sha1=\"zspj7ZnhZRRbHrEHOVwnBxGKOpI\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f8822c776204acd6c5f2659147a2acbb46b35bd2_2_10x10.png\" height=\"196\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f8822c776204acd6c5f2659147a2acbb46b35bd2_2_345x196.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f8822c776204acd6c5f2659147a2acbb46b35bd2_2_345x196.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/f8822c776204acd6c5f2659147a2acbb46b35bd2_2_517x294.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/f8822c776204acd6c5f2659147a2acbb46b35bd2_2_690x392.jpeg 2x\" width=\"345\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Captura de Pantalla 2021-09-20 a la(s) 8.20.59 a. m.</span><span class=\"informations\">950×540 23.6 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>Thanks for engaging with this proposal that can help us develop strategies to advance the field and</strong> <a href=\"https://vitalik.ca/general/2021/08/16/voting3.html\">move beyond coin voting governance</a>!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-09-24T20:58:18Z",
+   "updated_at": "2021-09-24T21:06:22Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>After the latest advices on snapshot, this is the text that will be displayed for the <a href=\"https://snapshot.org/#/tecommons.eth\">vote</a>:</p>\n<p><strong>This proposal is meant to signal the community support for the funding and implementation of a technical solution that will allow to make a 75% governance giveback to paid contributors who were deducted Impact Hours previous to the Hatch</strong></p>\n<p><strong>The funding of this proposal will be used to support the Commons Swarm team to develop a technical solution and will cost 5,000 wxDAI that will be requested to Conviction Voting retroactively after the Commons Upgrade.</strong></p>\n<p><strong>If this proposal is approved (more than 85% approval rate) the Commons Swarm team will start prototyping a solution to be implemented before the Commons Upgrade. The detailed implementation will be proposed to the Hatch DAO since this solution will involve minting of tokens and be attached to the bonding curve.</strong></p>\n<p><strong>The goal of funding this development in the TEC is to effectively return some of the voice that was earned but taken away from core contributors, because of their monetary compensation.\"</strong></p>\n<p>Single choice voting<br/>\n<strong>Options: Yes / No</strong></p>\n<p>From the 24th september, to the 27th september</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2021-09-27T21:18:38Z",
+   "updated_at": "2021-09-27T21:18:38Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I know this is probably a bit late in the process, but we had a very interesting discussion about the snapshot vote at the close of the Commons Swarm call, and I wanted to put something here for the wider community. <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a>  shared with us why he voted “No”, and since I think he wanted to write something here too I’ll leave it to him to explain his reasoning in full, but one of the fears he expressed, and which I also share is that in a way this “patching” to amend past mistakes compromises the structure and system of the TEC in a way that makes a clean slate impossible long-term, and this even before we have launched.<br/>\nAt the end of the day, this non transferrable governance power does “tack on” an element of centralization to the governance of the Token Engineering Commons, forever. This feels sadly ironic to me.</p>\n<p>I’ve ended up voting in favor of the proposal, because I think it’s important to honor the result of the praise debate vote, but since the actual implementation details are not set in stone,<br/>\nI wanted to openly float the idea of <strong>binding the additional voting power to the vesting period</strong>, so that it slowly decreases with time.<br/>\nThis would set a definite end to the consequences of the IH conflict, and guarantee that in the future the bonding curve alone regulates the TEC economy, as was originally intended. Until then, the governance giveback would help adequately honor the sweat equity and knowledge of the people who set it in motion.</p>\n<p>I would love to hear your opinions on this, and also get some feedback on if this is technically feasible. I apologize for bringing up something like this so late.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-09-27T23:25:18Z",
+   "updated_at": "2021-09-27T23:25:18Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>First of all, I’d like to apologize for expressing this so late into the vote. Even though I originally supported this proposal, I have to say I strongly disagree with the possible outcomes. Some key points to my reasoning:</p>\n<ol>\n<li>\n<p>This is trying to fix with governance what should’ve been about compensation. I feel that ship has sailed and if we go down this path we’ll just eventually face more trouble around the centralization issues this vote involves. Imagine coming across a DAO whose goals you feel identified with, but having some of its seed members have permanent decision power.</p>\n</li>\n<li>\n<p>Non-transferable governance tokens are like having a CEO in a DAO. I don’t feel both concepts coexist in the same environment. We shouldn’t be able to fix voting power to specific members since this would be closer to a traditional rigged political system, which is everything we’re trying to get away from.</p>\n</li>\n<li>\n<p>Our goal is clear: Advance Token Engineering. Executing this proposal would consume resources and time to achieve what I think is the opposite of advancing anywhere. These resources should be allocated to funding proposals where better TE will be implemented, but I feel that with this situation we’re changing a very clear point that has always distinguished the TEC among other communities: we’re DAOing to DAO instead of DAOing to advance TE.</p>\n</li>\n</ol>\n<p>Again, I’m sorry for bringing this up so late. I have to admit that part of this was because I didn’t really have any ideas for a better solution, however I think <a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a>’s approach of a vesting period (even if it’s additional to the currently set period) is something that could work and end the IH discussion once and for all.<br/>\nThanks TEC family, love y’all <img alt=\":sparkling_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sparkling_heart.png?v=10\" title=\":sparkling_heart:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034253",
+    "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210828081415",
+   "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210924135536",
+   "url": "https://forum.tecommons.org/t/75-governance-giveback/569/17"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928014234",
+   "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014234",
+   "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124034253",
+   "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124034253",
+   "url": "https://forum.tecommons.org/t/75-governance-giveback/569"
+  }
+ ]
+}

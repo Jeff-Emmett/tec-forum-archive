@@ -44,7 +44,7 @@
   {% endfor %}
 
   <details class="sources" data-pagefind-ignore>
-    <summary class="mono">Sources for this page ({{ captures|length }} captures)</summary>
+    <summary class="mono">Sources for this page ({{ captures|length }} capture{{ "" if captures|length == 1 else "s" }})</summary>
     <p>Original address: <span class="mono">{{ original }}</span></p>
     <ul class="mono small">
       {% for c in captures %}<li>{% if c.source == 'wayback' %}<a href="{{ src_url(c) }}" rel="nofollow noopener">{{ c.timestamp }}</a>{% else %}{{ c.timestamp }} (Common Crawl){% endif %} {{ c.url }}</li>{% endfor %}

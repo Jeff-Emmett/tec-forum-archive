@@ -1,0 +1,115 @@
+{
+ "id": 285,
+ "title": "Dacade - peer to peer learning platform",
+ "slug": "dacade-peer-to-peer-learning-platform",
+ "category_id": 7,
+ "posts_count": 3,
+ "created_at": "2021-03-10T09:15:01.193Z",
+ "last_posted_at": "2021-05-07T07:25:01.949Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2021-05-07T07:25:01Z",
+ "captured_between": [
+  "2021-04-20T14:18:36Z",
+  "2023-05-30T08:55:10Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Paula",
+   "name": null,
+   "created_at": "2021-03-10T09:15:01Z",
+   "updated_at": "2021-06-08T12:21:46Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#dacade-1\" name=\"dacade-1\"></a>Dacade</h1>\n<p>Dacade -  a peer-to-peer education platform.</p>\n<p><strong>Dacade</strong> (From <strong>D</strong>ecentralised <strong>Acade</strong>my)</p>\n<p>is a peer-to-peer education platform that reenvisions active learning as a public good.</p>\n<p>Presentation: <a href=\"https://docs.google.com/presentation/d/1oyN2m7Zp_ClSs88tv5-DZCRRYtE9l6anaGyT7yUMW1w/edit#slide=id.gbedf41ab05_0_8\">https://docs.google.com/presentation/d/1oyN2m7Zp_ClSs88tv5-DZCRRYtE9l6anaGyT7yUMW1w/edit#slide=id.gbedf41ab05_0_8</a></p>\n<p>Video Presentation: <strong><a href=\"https://youtu.be/_G1raJuadlY\">https://youtu.be/_G1raJuadlY</a></strong></p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Proposal Description:</strong> <em>An accurate and detailed description of what you are proposing</em></p>\n<p>We propose to create a challenge on the peer-learning platform dacade, to grow the Token Engineering Commons and its learning community.</p>\n<p>Dacade’s TEC challenge could have the following scope:</p>\n<ul>\n<li>\n<p>Participants will learn from curated learning materials from the TE Academy about theoretical concepts of Token Engineering.</p>\n</li>\n<li>\n<p>In the tutorial, participants will learn how to model their own Toy Economy and how to create a conceptual model with value flows.</p>\n</li>\n<li>\n<p>In the challenge, participants apply their new knowledge practically and build their own toy economy.</p>\n</li>\n<li>\n<p>After they enter their submission, they receive feedback from their peers.</p>\n</li>\n<li>\n<p>Participants go on to give their peers feedback and are encouraged to cooperate on further projects (e.g. Hackathons,  Le Grand Jeu, etc.).</p>\n</li>\n<li>\n<p>Submissions and Feedback will be incentivized via tokens.</p>\n</li>\n</ul>\n<p>Example: Dacade Demo Video <a href=\"https://www.youtube.com/watch?v=GytYp8FHO3k\">https://www.youtube.com/watch?v=GytYp8FHO3k</a> (80 sec Youtube video)</p>\n<h3>\n<a class=\"anchor\" href=\"#deliverables-3\" name=\"deliverables-3\"></a>Deliverables</h3>\n<p>Curation of Learning Materials</p>\n<ul>\n<li>We will curate a selection of general introductory ecosystem value flow learning materials based on the token engineering academy courses.<br/>\n<a href=\"https://tokenengineeringcommunity.github.io/website/docs/academy-tmg1-ecosystem\">https://tokenengineeringcommunity.github.io/website/docs/academy-tmg1-ecosystem</a>. These materials aim to explain TE’s basics, background, and advantages as well as to give a brief overview of the TE ecosystem.</li>\n</ul>\n<p>Creation of the Tutorial</p>\n<ul>\n<li>We will create a tutorial containing video, code and text. Participants will learn how to model their own Toy Economy. How to create a conceptual model with value flows, how to create a math model and how to simulate the model in cadCAD.</li>\n</ul>\n<p>Creation of the Challenge</p>\n<ul>\n<li>Together with the TEC we will jointly design a challenge that requires Token Engineers to create their own Toy Economy.</li>\n</ul>\n<p>Implementation on Dacade</p>\n<ul>\n<li>Learning Materials, tutorials and challenges will all be implemented with the necessary descriptions and designs on the Dacade platform.</li>\n</ul>\n<p>Evaluation of Submissions and Feedback</p>\n<ul>\n<li>The evaluation of submissions and feedback will happen as objectively as possible through a scoring rubric based on the evaluation criteria that we will develop with TEC. (E.g. scoring rubric: <a class=\"inline-onebox\" href=\"https://dacade.org/ae-dev-101/challenge\">dacade</a>)</li>\n</ul>\n<p>Performance Marketing</p>\n<ul>\n<li>Dacade creates awareness through performance marketing. We will use social media, Email, and other tools to promote the TE challenge to specifically targeted audiences of relevant developers.</li>\n</ul>\n<p>Depending on the scope and broader strategy not all deliverables might be required, but we would suggest them for the best outcome.</p>\n<p><strong>Proposal Details:</strong> <em>Project website or whitepaper, detailed rationale for why this proposal exists and should matter to TEC holders, the Token Engineering community, and/or DAO ecosystem. What value will this provide for the TE community, commons and ecosystem?</em></p>\n<p><a href=\"http://www.dacade.org\">www.dacade.org</a></p>\n<p>We had a strong belief in the revolutionary power of blockchain technology for a long time and wanted to pick an area of work where we saw the most need, the most positive potential and that fitted our interests. To create worldwide change and an open financial system, we believe that we first need to find an affordable and therefore accessible way to teach more people how to develop applications and new ecosystems that can drive this change.</p>\n<p>While helping to start a new blockchain protocol, we also noticed that one of the biggest challenges to their success was the adoption and scalable education (of new developers).</p>\n<p>We identified the following challenges with current developer/learners adoption efforts:</p>\n<ol>\n<li>\n<p>Effective Training is not very accessible - Human feedback from teachers is expensive and hard to scale. That’s why dacade focuses on an incentivized peer-to-peer effort.</p>\n</li>\n<li>\n<p>It is hard to get new developers/token engineers to educate themselves about new technology and build something with it. We focus on practical and engaging learning materials as well as incentives to drive experimentation and development.</p>\n</li>\n<li>\n<p>The success of marketing efforts like sponsoring conferences or meetups is often hard to track. Dacade offers measurable results like GitHub repositories or pull requests.</p>\n</li>\n</ol>\n<p>We created the dacade concept with the help of Hannes Klöpper, Former CEO of iversity (<a href=\"https://iversity.org/\">https://iversity.org/</a>, one of Europe’s biggest MOOCs). His experiences with e-learning shaped our approach to focus on the application of new knowledge and educational peer interactions in contrast to content production and distribution like most learning platforms do.</p>\n<p>We tested and improved our initial concept via physical meetups and workshops (<a href=\"https://www.meetup.com/de-DE/Dacade-Blockchain-Education-Meetup-Berlin/\">https://www.meetup.com/de-DE/Dacade-Blockchain-Education-Meetup-Berlin/</a>) and began to develop our first pilot.</p>\n<p>We ran a successful first non-technical test where we now got over 1000 submissions and 3000 times feedback (<a class=\"inline-onebox\" href=\"https://dacade.org/intro-to-blockchain/introduction\">dacade</a>) and began to transform the pilot to a more sophisticated platform with a focus on developers and planning to widen the field of learning communities as well to token engineers.</p>\n<p>We now ran a proof of concept for the aeternity blockchain, where developers created over 70 applications on top of aeternity and got over 300 times feedback on them.</p>\n<p>Since we consider creating relevant education systems as one of the most critical global challenges, we are excited to work on something that could have a substantial global impact. Our goal is to create an educational platform that is affordable and therefore globally accessible, distributing relevant technical skills regardless of location, age or gender.</p>\n<p><strong>Expected duration or delivery date (if applicable):</strong> <em>How long do you think it will take to deliver on your proposal</em></p>\n<p>20 Weeks Estimated</p>\n<p>Four weeks for the curation and creation of learning materials and the tutorial.</p>\n<p>Four weeks of implementation and testing.</p>\n<p>12 weeks run time.</p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong></p>\n<p>Dacade can help the TEC to broaden and educate its community by creating new token engineers, sharing knowledge and developing new skillsets.</p>\n<p>With our introduction to token engineering course, we will make it very attractive for anybody to become a token engineer and create and test their first toy economy.</p>\n<p>Through our incentive structure, we can drastically increase course completion rates, the creation of first test economies as well as peer feedback on them. This helps to grow the community by enabling productive interactions between its members.</p>\n<p>The challenges can not only be a place for newcomers to test their knowledge but could also enable TEC projects to create their own challenges that require members to use their economy issuing the project’s tokens as rewards.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-4\" name=\"team-information-for-funding-proposals-4\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Names, usernames, and/or relevant social links for team members (Twitter, Github, TEC Forum, etc.):</strong></p>\n<p>Dario Aschero - Designer (<a href=\"https://de.linkedin.com/in/darioaschero\">https://de.linkedin.com/in/darioaschero</a>, <a href=\"https://github.com/darioaschero\">https://github.com/darioaschero</a>)</p>\n<p>Lewis Nkuranga - Developer (<a href=\"https://www.linkedin.com/in/lewis-nkuranga-982913120\">https://www.linkedin.com/in/lewis-nkuranga-982913120</a>, <a href=\"https://github.com/lewisdylan\">https://github.com/lewisdylan</a>)</p>\n<p>Moritz Stellmacher - Developer (<a href=\"http://moritzfelipe.com\">moritzfelipe.com</a>, <a class=\"inline-onebox\" href=\"https://github.com/moritzfelipe\">moritzfelipe · GitHub</a>)</p>\n<p>Paula Kühn - Business Development (<a href=\"https://de.linkedin.com/in/paula-k%C3%BChn-045a031a0\">https://de.linkedin.com/in/paula-k%C3%BChn-045a031a0</a>)</p>\n<p>Philipp Klein - Developer (<a href=\"https://de.linkedin.com/in/philipp-klein-904b20149\">https://de.linkedin.com/in/philipp-klein-904b20149</a>, <a class=\"inline-onebox\" href=\"https://github.com/dadaphl\">dadaphl · GitHub</a>)</p>\n<p>Yannick Musafiri - Developer (<a href=\"https://www.linkedin.com/in/yannick-musafiri-2396a4156\">https://www.linkedin.com/in/yannick-musafiri-2396a4156</a>, <a class=\"inline-onebox\" href=\"https://github.com/musayann\">musayann (Yannick Musafiri) · GitHub</a>)</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-5\" name=\"funding-information-for-funding-proposals-5\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong> $50.000 in Token</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong></p>\n0xEE1Ca6e9B7c3B135090a3d2e398900F238B0dd59\n<p><strong>More detailed description of how funds will be handled and used:</strong></p>\n<p>Total Amount requested: $50.000</p>\n<p>Rewards for learners: $12.500</p>\n<p>Curation of Learning Materials: 16 Hours, 80$/Hour, 1280$ Total</p>\n<p>Creation of the Tutorial: 100 Hours, 80$/Hour, 8000$ Total</p>\n<p>Creation of the Challenge: 14 Hours, 80$/Hour, 1120$ Total</p>\n<p>Implementation on dacade: 30 Hours, 80$/Hour, 2400$ Total</p>\n<p>Evaluation of Submissions: 120 Hours, 55$/Hour, 6600$ Total</p>\n<p>Evaluation of Feedback: 90 Hours, 55$/Hour, 4950$ Total</p>\n<p>Payment Issuance: 12 Hours, 55$/Hour, 660$ Total</p>\n<p>Performance Marketing: 5000$ Total</p>\n<p>Rewards: 12500$ Total</p>\n<p>Operational Cost: 7500$ Total</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085510",
+    "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-27T16:57:23Z",
+   "updated_at": "2021-04-27T16:57:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi Paula! Thanks for your submission!<br/>\nI have a question. Why would anyone engage with Decade for learning about TE instead of going directly to TE Academy or cadCAD edu? It sounds like the Creation of the Challenge and the Performance Marketing are the most important/innovative parts of the proposal although the focus is mostly on the education part. Maybe there could be a partnership with the TE Academy and cadCAD edu so Decade could come in in the next two stages?<br/>\nI’m curious to hear more about it as it seems like a great potential for community engagement.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085510",
+    "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-05-07T07:18:01Z",
+   "updated_at": "2021-05-07T07:18:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I think this answers it well: <a class=\"inline-onebox\" href=\"https://discord.com/channels/701149241107808327/760107058292588575/840106365107568670\" rel=\"noopener nofollow ugc\">Discord</a> Jonathan from cadCAD edu is also big fan of social learning around the courses they create! But you’re right, that info is missing <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085510",
+    "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "catall",
+   "name": null,
+   "created_at": "2021-05-07T07:25:01Z",
+   "updated_at": "2021-05-07T07:25:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I would love this to build my project, get feedback, and learn from TE academy materials.  I think feedback from peers and being able to work outside of the time-frames of the academy courses would be helpful and scale better.</p>\n<p>I’m saying this as someone who missed the deadline for the Value Flows course, but still wants to learn–perhaps from people who have already been through the course and are still modeling.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085510",
+    "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420141836",
+   "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420141836",
+   "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928022713",
+   "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928022713",
+   "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530085510",
+   "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530085510",
+   "url": "https://forum.tecommons.org/t/dacade-peer-to-peer-learning-platform/285"
+  }
+ ]
+}

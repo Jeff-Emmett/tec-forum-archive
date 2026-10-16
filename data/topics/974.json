@@ -1,0 +1,90 @@
+{
+ "id": 974,
+ "title": "Invitation to the TEC community to join the Luna Swarm research group at 1Hive",
+ "slug": "invitation-to-the-tec-community-to-join-the-luna-swarm-research-group-at-1hive",
+ "category_id": 5,
+ "posts_count": 3,
+ "created_at": "2022-04-06T01:57:19.045Z",
+ "last_posted_at": "2022-04-07T17:25:38.067Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2022-04-18T16:27:51Z",
+ "captured_between": [
+  "2022-05-20T07:10:23Z",
+  "2022-05-20T07:10:23Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gabi",
+   "name": null,
+   "created_at": "2022-04-06T01:57:19Z",
+   "updated_at": "2022-04-06T02:09:19Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<p>Hi everyone, my name is Gabi. I’m part of the 1Hive community and I’m currently involved in the Gardens Swarm. Recently we started a discussion about a new use case for Conviction Voting that we want to implement for every Garden. Here is the ongoing discussion:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/1Hive/gardens/discussions/536\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/1Hive/gardens/discussions/536\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/702ffd6d674fcf9a9cf59599021e1341c684fd39_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/702ffd6d674fcf9a9cf59599021e1341c684fd39_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/702ffd6d674fcf9a9cf59599021e1341c684fd39_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/702ffd6d674fcf9a9cf59599021e1341c684fd39_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/702ffd6d674fcf9a9cf59599021e1341c684fd39.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/1Hive/gardens/discussions/536\" rel=\"noopener nofollow ugc\" target=\"_blank\">Fluid proposals (Osmotic Funding) 🚰 · Discussion #536 · 1Hive/gardens</a></h3>\n<p>Summary A new proposal type to create flows of funds from Common Pool of Gardens. From our experience on running Conviction Voting on 1Hive for more than a year. We notice that not all funding prop...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>We share the idea with <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> and <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> and decided to organize an initial meeting to have their perspective and coordinate the next steps. Here is the recording of the meeting:</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"3MkwlC6pw7U\" data-youtube-title=\"fluid proposal kickoff 🥅\">\n<a href=\"https://www.youtube.com/watch?v=3MkwlC6pw7U\" rel=\"noopener nofollow ugc\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/original/1X/be7209ad4df0da4f9c8bb9612ccf3c3cdf990ab2.jpeg\" title=\"fluid proposal kickoff 🥅\" width=\"480\"/>\n</a>\n</div>\n<p>In the meeting, we decided to create a new research group on Luna Swarm (a working group focused on modeling 1Hive using cadCAD) to work on a model of the effects of fluid proposals on the current Gardens system. With the objective to create feedback loops while we work on the implementation in parallel.</p>\n<p><strong>The above is what brings me here, I would like to invite everyone interested on join the effort. We plan to create a proposal on 1Hive to get funding to compensate researchers.</strong></p>\n<hr/>\n<h3>\n<a class=\"anchor\" href=\"#related-links-1\" name=\"related-links-1\"></a>Related links</h3>\n<ul>\n<li>Flow wallets concept on:</li>\n</ul>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/f56baf5876d04e563a1f06d2aa4ab65f2a157d5b.png\" width=\"32\"/>\n<a href=\"https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21\" rel=\"noopener nofollow ugc\" target=\"_blank\" title=\"06:44PM - 15 March 2021\">Medium – 15 Mar 21</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/380;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/90a36015178d8a7c5ce0887b2a5356f8c86695bc_2_10x10.png\" height=\"380\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/90a36015178d8a7c5ce0887b2a5356f8c86695bc_2_690x380.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/90a36015178d8a7c5ce0887b2a5356f8c86695bc_2_690x380.jpeg, https://forum.tecommons.org/uploads/default/original/1X/90a36015178d8a7c5ce0887b2a5356f8c86695bc.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/90a36015178d8a7c5ce0887b2a5356f8c86695bc.jpeg 2x\" width=\"690\"/></div>\n<h3><a href=\"https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21\" rel=\"noopener nofollow ugc\" target=\"_blank\">Exploring DAO2DAO Collaboration Mechanisms</a></h3>\n<p>Implementable Tools to Extend DAO Interaction Patterns in D2D Research Phase 2</p>\n<p>\n<span class=\"label1\">Reading time: 23 min read</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<ul>\n<li>Conviction Voting cadCAD model:</li>\n</ul>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/1Hive/conviction-voting-cadcad\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/1Hive/conviction-voting-cadcad\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/644263fd7456e4796fa51ac9aba06bf24aad15a9_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/644263fd7456e4796fa51ac9aba06bf24aad15a9_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/644263fd7456e4796fa51ac9aba06bf24aad15a9_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/644263fd7456e4796fa51ac9aba06bf24aad15a9_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/644263fd7456e4796fa51ac9aba06bf24aad15a9.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/1Hive/conviction-voting-cadcad\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - 1Hive/conviction-voting-cadcad: Notebook Link:...</a></h3>\n<p>Notebook Link: https://github.com/BlockScience/Aragon_Conviction_Voting/blob/master/models/v3/Aragon_Conviction_Voting_Model.ipynb - GitHub - 1Hive/conviction-voting-cadcad: Notebook Link: https://...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<ul>\n<li>Revenue sharing model (conviction modulated flows):</li>\n</ul>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/BlockScience/revenue-sharing\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/BlockScience/revenue-sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/9a308c9b0b251ad219db79bd555915d2998f7f6b_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/9a308c9b0b251ad219db79bd555915d2998f7f6b_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/9a308c9b0b251ad219db79bd555915d2998f7f6b_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/9a308c9b0b251ad219db79bd555915d2998f7f6b_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/9a308c9b0b251ad219db79bd555915d2998f7f6b.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/BlockScience/revenue-sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - BlockScience/revenue-sharing: Generalized revenue sharing cadCAD model</a></h3>\n<p>Generalized revenue sharing cadCAD model. Contribute to BlockScience/revenue-sharing development by creating an account on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h3>\n<a class=\"anchor\" href=\"#open-question-2\" name=\"open-question-2\"></a>Open question</h3>\n<p>What the community actually did if instead of leaving their tokens in an abstain proposal they were distributed across many fluid proposals to determine flow rates.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071023",
+    "url": "https://forum.tecommons.org/t/invitation-to-the-tec-community-to-join-the-luna-swarm-research-group-at-1hive/974"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2022-04-07T17:25:38Z",
+   "updated_at": "2022-04-07T17:25:38Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>In <a href=\"https://gov.gitcoin.co/t/dear-moonshot-collective-help-daos-level-up-gov-tooling-buidl-request-for-chain-agnostic-conviction-voting/10027/14\" rel=\"noopener nofollow ugc\">conversations with GitcoinDAO so far</a>, it seems their biggest interest in a Conviction-type mechanism is Osmotic Funding/Fluid Proposals. <img alt=\":ok_hand:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ok_hand.png?v=10\" title=\":ok_hand:\"/></p>\n<p>As a large DAO with a number of large workstreams essentially acting as subDAOs, Gitcoin is having trouble with the binary nature of proposal funding.  At the moment, even if there is 85% agreement about a proposal, there are 0% funds flowing to that proposal until amended (often repeatedly) to satisfy all stakeholders, at which point 100% of funds are released. This is a time consuming and disruptive process to ongoing operations, and could be mitigated through a tool like Fluid Proposals that allowed some % of funds to be released as soon as there was a sufficient % of stakeholder conviction in support.</p>\n<p>Just commenting with this information to loop in Gitcoin as another stakeholder group with interest in communicating/funding/developing/deploying these tools that build on the mechanism of Conviction Voting. <img alt=\":+1:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/+1.png?v=10\" title=\":+1:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071023",
+    "url": "https://forum.tecommons.org/t/invitation-to-the-tec-community-to-join-the-luna-swarm-research-group-at-1hive/974"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gabi",
+   "name": null,
+   "created_at": "2022-04-14T17:22:37Z",
+   "updated_at": "2022-04-14T17:22:37Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hi again everyone!</p>\n<p>Wanted to give a quick update. We schedule a recurring meeting every other Friday at 19:00 UTC. The meeting was included on 1Hive’s calendar under the Luna Swarm <img alt=\":first_quarter_moon_with_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/first_quarter_moon_with_face.png?v=10\" title=\":first_quarter_moon_with_face:\"/> event:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://wiki.1hive.org/getting-started/calendar\">\n<header class=\"source\">\n<a href=\"https://wiki.1hive.org/getting-started/calendar\" rel=\"noopener nofollow ugc\" target=\"_blank\">wiki.1hive.org</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" height=\"362\" src=\"https://app.gitbook.com/share/space/thumbnail/-MNrqwoYUmro4mJ9smmt-887967055.png?color=%23ED811D&amp;logo=https%3A%2F%2F3994131263-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MNrqwoYUmro4mJ9smmt%252Favatar-rectangle-1628787859023.png%3Fgeneration%3D1628787859287398%26alt%3Dmedia&amp;theme=light\" width=\"690\"/></div>\n<h3><a href=\"https://wiki.1hive.org/getting-started/calendar\" rel=\"noopener nofollow ugc\" target=\"_blank\">Calendar</a></h3>\n<p>1Hive Google calendar for all upcoming events.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>Join us on the <a href=\"https://discord.gg/K63jqAdcRc\" rel=\"noopener nofollow ugc\">#cafe channel of 1Hive’s Discord server</a>! <img alt=\":raised_hands:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=10\" title=\":raised_hands:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071023",
+    "url": "https://forum.tecommons.org/t/invitation-to-the-tec-community-to-join-the-luna-swarm-research-group-at-1hive/974"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-04-18T16:27:51Z",
+   "updated_at": "2022-04-18T16:27:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>woww this is so awesome! I have been reading alot about drips, osmotic funding and the problems all these initiatives can solve. I’m definitely interested to subscribe to the discussion.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071023",
+    "url": "https://forum.tecommons.org/t/invitation-to-the-tec-community-to-join-the-luna-swarm-research-group-at-1hive/974"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520071023",
+   "url": "https://forum.tecommons.org/t/invitation-to-the-tec-community-to-join-the-luna-swarm-research-group-at-1hive/974"
+  }
+ ]
+}

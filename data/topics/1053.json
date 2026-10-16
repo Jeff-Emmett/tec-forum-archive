@@ -1,0 +1,47 @@
+{
+ "id": 1053,
+ "title": "Adding TEC to the Optimism ecosystem via Velodrome",
+ "slug": "adding-tec-to-the-optimism-ecosystem-via-velodrome",
+ "category_id": 10,
+ "posts_count": 0,
+ "created_at": "2022-06-15T18:18:21.356Z",
+ "last_posted_at": "2022-06-15T18:18:21.993Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2022-06-15T18:18:21Z",
+ "captured_between": [
+  "2022-07-06T00:59:12Z",
+  "2022-07-06T00:59:12Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-15T18:18:21Z",
+   "updated_at": "2022-06-15T18:18:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>About an hour or two ago, I finished listening to a Twitter space discussing bootstrapping projects onto Optimism through Velodrome finance. The speakers were kind enough to explain that projects such as ours should be able to readily transition to Optimism, and through their incentivization mechanism, draw significant liquidity to our pair via voting within Velodrome governance. I’m not perfectly clear on every detail, but if someone were willing to review the documentation with me, I’m confident the process would 1) be a wonderful learning experience for us, and 2) could provide significant value to TEC.</p>\n<p>This would not utilize the ABC directly, but would provide a new chain/market/ecosystem for the token to flourish within, consuming a portion of the floating supply, and indirectly improving demand for the ABC within the home chain/market.</p>\n<p>Does this sound like something anyone might be able to spare bandwidth for? If not, I can always try to solicit some assistance from TEA contributors as well.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005912",
+    "url": "https://forum.tecommons.org/t/adding-tec-to-the-optimism-ecosystem-via-velodrome/1053"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220706005912",
+   "url": "https://forum.tecommons.org/t/adding-tec-to-the-optimism-ecosystem-via-velodrome/1053"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005912",
+   "url": "https://forum.tecommons.org/t/adding-tec-to-the-optimism-ecosystem-via-velodrome/1053"
+  }
+ ]
+}

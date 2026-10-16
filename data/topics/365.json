@@ -1,0 +1,135 @@
+{
+ "id": 365,
+ "title": "Macro Hatch Param Discussion",
+ "slug": "macro-hatch-param-discussion",
+ "category_id": 36,
+ "total_known": false,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "created_at": "2021-05-05T13:38:47Z",
+ "last_archived_post_at": "2021-05-05T19:46:31Z",
+ "captured_between": [
+  "2021-06-24T15:17:47Z",
+  "2026-02-13T07:16:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-05-05T13:38:47Z",
+   "updated_at": "2024-07-19T19:56:09Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Post your favorite proposals here and let’s debate them!</p>\n<p><img alt=\"image\" data-base62-sha1=\"w2VVOJKHcn5Me5QvpfswJoYiqc2\" height=\"374\" src=\"https://forum.tecommons.org/uploads/default/original/1X/e09a7bc0935b319d3737f9bc9d6b2bf0df9bd4c2.jpeg\" width=\"666\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260213071600",
+    "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "markop",
+   "name": null,
+   "created_at": "2021-05-05T13:51:19Z",
+   "updated_at": "2021-05-05T13:51:19Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Just posting mine here to hear your thoughts. <a class=\"inline-onebox\" href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/37\">Do or do not, there is no try · Issue #37 · CommonsBuild/TEC-Hatch-Vote · GitHub</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260213071600",
+    "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-05-05T14:13:52Z",
+   "updated_at": "2021-05-05T14:13:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I forked <a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/33\">Sem’s proposal</a> to make:</p><aside class=\"onebox githubissue\">\n<header class=\"source\">\n<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/35\" rel=\"noopener\" target=\"_blank\">github.com/CommonsBuild/TEC-Hatch-Vote</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"github-row\">\n<div class=\"github-icon-container\" title=\"Issue\">\n<svg aria-hidden=\"true\" class=\"github-icon\" height=\"60\" viewbox=\"0 0 14 16\" width=\"60\"><path d=\"M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z\"></path></svg>\n</div>\n<div class=\"github-info-container\">\n<h4>\n<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/35\" rel=\"noopener\" target=\"_blank\">Forking the baby (Jiving on #33)</a>\n</h4>\n<div class=\"github-info\">\n<div class=\"date\">\n        opened <span class=\"discourse-local-date\" data-date=\"2021-05-05\" data-format=\"ll\" data-time=\"13:48:09\" data-timezone=\"UTC\">01:48PM - 05 May 21 UTC</span>\n</div>\n<div class=\"user\">\n<a href=\"https://github.com/GriffGreen\" rel=\"noopener\" target=\"_blank\">\n<img alt=\"GriffGreen\" class=\"onebox-avatar-inline\" height=\"20\" src=\"https://forum.tecommons.org/uploads/default/original/1X/9e4a7471173735a334e3d7a3e748307a3f2ca638.png\" width=\"20\"/>\n          GriffGreen\n        </a>\n</div>\n</div>\n</div>\n</div>\n<div class=\"github-row\">\n<p class=\"github-content\">Check out my proposal for the Hatch! Click here to preload the Hatch Configuration Dashboard with my parameters if you think...</p>\n</div>\n<div class=\"labels\">\n<span style=\"display:inline-block;margin-top:2px;background-color: #B8B8B8;padding: 2px;border-radius: 4px;color: #fff;margin-left: 3px;\">Vote</span>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>I want to shill the idea of a very high support required (90% min) so that we as a community have a high consensus threshold for the next step… imagine if 25% of the people vote no to the commons upgrade… that is a bad sign! We shouldn’t let it pass.</p>\n<p><em>end rant</em></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260213071600",
+    "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-05-05T15:42:53Z",
+   "updated_at": "2021-05-05T15:48:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I think they are cool and if the strategy its keep the frogs out by not advertising it that might be a good solution, but with a 15 CSTK ratio someone can pay 500 DAI for the membership adds +15k and gamble with it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260213071600",
+    "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-05-05T19:43:22Z",
+   "updated_at": "2021-05-05T20:02:15Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I just submitted mine, it was so much fun to try on the token engineer hat <img alt=\":cowboy_hat_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/cowboy_hat_face.png?v=9\" title=\":cowboy_hat_face:\"/></p><aside class=\"onebox githubissue\">\n<header class=\"source\">\n<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/41\" rel=\"noopener\" target=\"_blank\">github.com/CommonsBuild/TEC-Hatch-Vote</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"github-row\">\n<div class=\"github-icon-container\" title=\"Issue\">\n<svg aria-hidden=\"true\" class=\"github-icon\" height=\"60\" viewbox=\"0 0 14 16\" width=\"60\"><path d=\"M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z\"></path></svg>\n</div>\n<div class=\"github-info-container\">\n<h4>\n<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/41\" rel=\"noopener\" target=\"_blank\">Vote for My Params 🔮</a>\n</h4>\n<div class=\"github-info\">\n<div class=\"date\">\n        opened <span class=\"discourse-local-date\" data-date=\"2021-05-05\" data-format=\"ll\" data-time=\"20:01:19\" data-timezone=\"UTC\">08:01PM - 05 May 21 UTC</span>\n</div>\n<div class=\"user\">\n<a href=\"https://github.com/liviade1\" rel=\"noopener\" target=\"_blank\">\n<img alt=\"liviade1\" class=\"onebox-avatar-inline\" height=\"20\" src=\"https://forum.tecommons.org/uploads/default/original/1X/2c097a0d9334ee3de26e67df0dacbb77cb7411a5.jpeg\" width=\"20\"/>\n          liviade1\n        </a>\n</div>\n</div>\n</div>\n</div>\n<div class=\"github-row\">\n<p class=\"github-content\">Check out my proposal for the Hatch! Click here to preload the Hatch Configuration Dashboard with my parameters if you think...</p>\n</div>\n<div class=\"labels\">\n<span style=\"display:inline-block;margin-top:2px;background-color: #B8B8B8;padding: 2px;border-radius: 4px;color: #fff;margin-left: 3px;\">Vote</span>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260213071600",
+    "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-05-05T19:46:31Z",
+   "updated_at": "2021-05-05T19:46:31Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I love that I chose the hatch tribute very low for the same reason you set it very high <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=9\" title=\":sweat_smile:\"/><br/>\nAnd I thought I had a high quorum but I just see how I was shy with it! I actually really like it very high like yours</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260213071600",
+    "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624151747",
+   "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624151747",
+   "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260213071600",
+   "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260213071600",
+   "url": "https://forum.tecommons.org/t/macro-hatch-param-discussion/365"
+  }
+ ]
+}

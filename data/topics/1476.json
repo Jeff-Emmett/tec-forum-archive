@@ -1,0 +1,89 @@
+{
+ "id": 1476,
+ "title": "Ecosystem-wide collaboration on public goods value capture",
+ "slug": "ecosystem-wide-collaboration-on-public-goods-value-capture",
+ "category_id": 34,
+ "posts_count": 3,
+ "created_at": "2025-05-27T18:08:28.748Z",
+ "last_posted_at": "2025-07-20T08:15:46.308Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2025-07-20T08:15:46Z",
+ "captured_between": [
+  "2025-06-18T10:41:33Z",
+  "2025-09-06T12:28:15Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "abundance",
+   "name": null,
+   "created_at": "2025-05-27T18:08:28Z",
+   "updated_at": "2025-05-27T18:08:28Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi everyone,</p>\n<p>We’re starting an ecosystem-wide initiative to realize value capture for public goods.</p>\n<p>Why value capture?</p>\n<p>Public goods funding without value capture is like funding car production with cookie sales; if you want more cars produced you need to sell more cookies — this doesn’t scale.</p>\n<p>PGF with value capture however is like funding car production with car sales; the more cars you sell the more you can produce — it scales!</p>\n<p>Yet today every public goods funding platform in web3 relies on external sources of funding (“cookie sales”) and doesn’t capture the value of public goods. Meanwhile, little research is done to advance value capture.</p>\n<p>Because scaling PGF is so important for the entire ecosystem (and beyond), we need an ecosystem-wide collaboration to realize value capture — and that’s what we’re now initiating.</p>\n<p>We’d like to bring together project leaders, mechanism designers and builders from across the web3 ecosystem to develop a value capture mechanism for public goods.</p>\n<p>We’re also looking for a liaison from each project/community to keep the community in the loop on what we’re doing.</p>\n<p>We will be onboarding contributors and liaisons from across the ecosystem over the next few weeks, then start the effort of ideating and designing the mechanism, and later prototyping and iterating on the system.</p>\n<p>Much progress has already been made toward a functional value capture mechanism with work around Value Consensus, so that can be our starting point in exploring the solution space. The endpoint though should be a system that every public goods project in the ecosystem can benefit from, and that needs to happen through a ecosystem-wide collaborative effort</p>\n<p>So if you’re a mechanism designer, or otherwise believe you can contribute to this effort, please let me know so I can add you to the initiative.</p>\n<p>Thank you!</p>\n<p>(cross-posting this in the ecosystem)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906122815",
+    "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "patrick-t-anderson",
+   "name": null,
+   "created_at": "2025-07-18T13:54:59Z",
+   "updated_at": "2025-07-19T22:42:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi, I would like to be added to the initiative!</p>\n<p>Here is my approach to value capture<br/>\n<a class=\"onebox\" href=\"https://paragraph.com/@work_to_own/earth-change-business-model\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://paragraph.com/@work_to_own/earth-change-business-model</a></p>\n<p>Here is a 20 minute audio AI analysis of the paper<br/>\n<a class=\"onebox\" href=\"https://notebooklm.google.com/notebook/65406805-108d-4850-8f7d-6df9eb219741/audio\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://notebooklm.google.com/notebook/65406805-108d-4850-8f7d-6df9eb219741/audio</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906122815",
+    "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "patrick-t-anderson",
+   "name": null,
+   "created_at": "2025-07-20T08:15:46Z",
+   "updated_at": "2025-07-20T08:15:46Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Well, I edited this post on Paragraph and the URL changed, so here is the fixed link</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://paragraph.com/@work_to_own/earth-change-business-model-1\">\n<header class=\"source\">\n<a href=\"https://paragraph.com/@work_to_own/earth-change-business-model-1\" rel=\"noopener nofollow ugc\" target=\"_blank\">paragraph.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/344;\"><img class=\"thumbnail\" height=\"344\" src=\"https://storage.googleapis.com/papyrus_images/4642db2927a803f20e98e04ba0d4543a.jpg\" width=\"690\"/></div>\n<h3><a href=\"https://paragraph.com/@work_to_own/earth-change-business-model-1\" rel=\"noopener nofollow ugc\" target=\"_blank\">Earth Change Business Model</a></h3>\n<p>Objective\n\nBuild regenerative communities where you slowly gain ownership in the real world assets required to host the local production of all essential goods and services.\n\nReal land ownership is distributed to you as you work-to-own your home and...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906122815",
+    "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20250618104133",
+   "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250618104133",
+   "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250906122815",
+   "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250906122815",
+   "url": "https://forum.tecommons.org/t/ecosystem-wide-collaboration-on-public-goods-value-capture/1476"
+  }
+ ]
+}

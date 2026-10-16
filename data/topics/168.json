@@ -1,0 +1,125 @@
+{
+ "id": 168,
+ "title": "Multisig Brainstorming",
+ "slug": "multisig-brainstorming",
+ "category_id": 9,
+ "total_known": false,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "created_at": "2020-12-17T00:27:32Z",
+ "last_archived_post_at": "2021-01-05T02:01:16Z",
+ "captured_between": [
+  "2023-05-30T07:08:49Z",
+  "2023-05-30T07:08:49Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-17T00:27:32Z",
+   "updated_at": "2020-12-17T19:02:26Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I would like to raise awareness that there is going to be a multisig which according to what I understand so far is going to be able to recover funds to someone that lost a wallet’s keys.(amongst other things)<br/>\nIf that is the case, what would stop the same people from creating tec tokens whenever they please?<br/>\nTo put it in other words what is the difference with a central bank?<br/>\nYes, I’ve read articles that they use “plutocracy” to protect everyone from “attacks”, but man how are the people from the multisig gonna be decided? What if someone invests because he believes in the project and the subjects and topics from the project and then gets a nice surprise that everything is a “Technocracy” and all that matters are the smart contracts?<br/>\nAre the meetings only marketing strategies?<br/>\nAre the main devs also gonna be the main investors? That’s why they are gonna decide everything from the code?<br/>\nI am personally not expecting many answers to this post anyway, because in a Technocracy all that matters is what is behind the screen.<br/>\n“The value comes from the community” is something I hear pretty often among many leaders on the environment. Is that so in a “Technocracy” too?<br/>\nAs I feel right now, the value comes from the code, and the community is a nice place to meet cool people and hangout. Is that going to be this way?<br/>\n<img alt=\":roll_eyes:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/roll_eyes.png?v=9\" title=\":roll_eyes:\"/><img alt=\":unamused:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/unamused.png?v=9\" title=\":unamused:\"/><br/>\nDo we fight Technocracy or we are Technocracy?</p>\n<p>sincerely yours<br/>\nstan</p>\n<p>Edit: The multisig isn’t what is capable of printing money, that is “The Dandelion Voting app”<br/>\nThx <a class=\"mention\" href=\"/u/griff\">@Griff</a> for the correction .</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070849",
+    "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-17T10:42:49Z",
+   "updated_at": "2020-12-17T10:42:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I have many more questions in this regard.<br/>\nLike, what happens if the people from the multisig die, or dissapear, or start acting stupid and turn off their cameras whenever they are asked about it?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070849",
+    "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vic",
+   "name": null,
+   "created_at": "2020-12-17T13:30:08Z",
+   "updated_at": "2020-12-17T13:30:08Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/tonga\">@Tonga</a>, just gonna leave some thoughts here, i just joined the forum and jumped on this topic <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<p>I am working at LeapDAO atm, we have a multi-sig since the beginning.</p>\n<p>“Keybearers” as we call them, have an important role, they sign out major tx’s and handle the value of the whole DAO, as all our internal bounties are paid from the multisig. One must trust them, thats true!</p>\n<p>We made sure to empower these people, but also draw certain boundaries for them - so no fraud can happen.</p>\n<p>Our main tactic: put everyone in the seat being one of the signers at some point, rotating these roles, so everyone gets the chance to show his skills + making a takeover through bad alliances impossible.</p>\n<p>We change the signers each month, they are accountable for all tx’s leaving the wallet.</p>\n<p>So as a worker collective we make their job easier by presenting precise proposals and offer a transparent overview for what the funds are used, if requested. This way tx’s can be signed very fast.</p>\n<p>If i end up being chosen as a keybearer, i want to know exactly what the tx is for, before signing it - so i appreciate a detailed proposal or bounty. As we stick to these rules, all decisions become transparent and easy to follow.</p>\n<p>I don’t know if that brings you some relief, but multi-sigs are not as scary as they seem - if you prevent a takeover with certain measures <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<p>cheers, Vic <img alt=\":v:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/v.png?v=9\" title=\":v:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070849",
+    "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-17T18:44:22Z",
+   "updated_at": "2020-12-17T18:44:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hello <a class=\"mention\" href=\"/u/vic\">@vic</a> thank you for your insightful post, and welcome to the TEC =)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070849",
+    "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-17T21:21:53Z",
+   "updated_at": "2020-12-17T21:21:53Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Hey!</p>\n<p>Well, we didn’t decided which powers will have the multisig and where is it going to be used in TEC yet. Our initial idea is that we may need to act fast in case a bug in the smart contract arises, so we can give time to the rest of token holders to solve the problem. Here are some of our thoughts:</p>\n<ol>\n<li>The multisig is a small group of trusted people that can <strong>coordinate fast</strong> enough to avoid damage in the system in case there is a bug.</li>\n<li>The people in the multisig is <strong>decided democratically</strong> among token holders. The specific way we initially elect those people can be discussed in softgov (I’d love to hear your thoughts on this <a class=\"mention\" href=\"/u/liviade\">@liviade</a>).</li>\n<li>The multisig has very <strong>few powers</strong>, it is intended to avoid damage. So it can’t mint or burn tokens or transfer funds. It should only be able to pause mintings, burnings, or transfers during a certain period of time.</li>\n<li>The multisig is <strong>subdued</strong> to dandelion voting (all token holders). That means that anything the multisig does, the dandelion voting can undo. Dandelion voting can also abolish multisig powers, or change multisig integrants.</li>\n</ol>\n<p>I can think of two places in which a multisig has sense (there may be more when we propose the final smart contracts):</p>\n<ol>\n<li>Pausing token minting, token burning, and funds transferring in case of a potential attack is discovered.</li>\n<li>Canceling a conviction voting proposal that does not follow community’s terms and conditions.</li>\n</ol>\n<p>It may be still early to discuss the multisig since we still don’t know where we are going to use the multisig, but it may be interesting to begin discussing who could be in the multisig. We can also have more than one multisig: for example community stewards could be able to pause the token minting, burning and transfers for a while, meanwhile gravity wg could be able to cancel proposals. All token holders through dandelion voting can still remove the powers from community stewards and/or gravity wg and assign them to somebody else in case those groups misbehave.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070849",
+    "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-01-05T02:01:16Z",
+   "updated_at": "2021-01-05T02:01:16Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This seems prudent… it’s more of a security issue honestly… and it will all be part of the Commons Upgrade… so the Commons will have to vote to include these multisigs or not.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530070849",
+    "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230530070849",
+   "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530070849",
+   "url": "https://forum.tecommons.org/t/multisig-brainstorming/168"
+  }
+ ]
+}

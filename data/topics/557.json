@@ -1,0 +1,73 @@
+{
+ "id": 557,
+ "title": "Requesting and giving access to TEC accounts and managing credentials",
+ "slug": "requesting-and-giving-access-to-tec-accounts-and-managing-credentials",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2021-08-17T15:09:38.527Z",
+ "last_posted_at": "2021-08-28T22:09:43.399Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-08-28T22:09:43Z",
+ "captured_between": [
+  "2021-09-28T02:28:53Z",
+  "2023-05-30T08:58:04Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2021-08-17T15:09:38Z",
+   "updated_at": "2021-08-17T15:09:38Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Being a decentralized organization, our contributors are spread throughout the globe, and we heavily rely on various online platforms and tools to aggregate our coordination and communication. Because of this, some of our contributors may need to request access to TEC accounts on these platforms so as to efficiently perform some tasks that are necessary in our operations and will help us push our mission forward.</p>\n<p>While our community is built on trust, it’s still best to establish security practices in our organization. Giving access to TEC accounts should therefore be done with extra caution.</p>\n<p>In reference to the<a href=\"https://forum.tecommons.org/t/using-dashlane-as-tec-credentials-manager/478\"> forum post regarding credentials management</a>, we have come up with a simple process for requesting and giving access to TEC accounts:</p>\n<ol>\n<li>The contributor will reach out to any<a href=\"https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit?usp=sharing\" rel=\"noopener nofollow ugc\"> admin of the platform</a> they want to be part of and discuss how they want to contribute.</li>\n<li>The contributor may request access to the platform by filling out this <a href=\"https://2w1516v81n6.typeform.com/to/qAAqaUVT\" rel=\"noopener nofollow ugc\">Typeform</a>. This is our version of KYC or we can call it “Know Your Contributor”. Don’t worry, we won’t be asking for unnecessary personal information! <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/>\n</li>\n<li>The information from the Typeform will then be reviewed by the credentials managers (as of writing, they are Zeptimus, Chuy, and Ivy) and shared with the Community Stewards.</li>\n<li>The Community Stewards will vote in a poll whether the contributor will be given access or not.</li>\n<li>If none of the Stewards vote against it within 24hrs, the credentials managers will give the access corresponding to that Typeform. This process would have a delay of 48hrs more or less.</li>\n</ol>\n<p>To manage the risk of sharing TEC account credentials, it has been decided through <a href=\"https://forum.tecommons.org/t/using-dashlane-as-tec-credentials-manager/478\">forum voting</a> to use Dashlane until more decentralized technologies such as NuCypher or Fidelius are available. This way, only the credentials managers will hold the TEC passwords. Contributors will get access to TEC accounts without knowing the log-in details. Contributors are expected to follow the <a href=\"https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit?usp=sharing\" rel=\"noopener nofollow ugc\">TEC Code of Conduct for Platform Admins</a>.</p>\n<p>The credentials managers will audit the <a href=\"https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit?usp=sharing\" rel=\"noopener nofollow ugc\">list of contributors</a> who have access to TEC accounts every 2 months. They may also reset the passwords after the audit to revoke the access of inactive contributors.</p>\n<p>This process may evolve. If anyone has suggestions to improve it, please reply to this post or drop us a message in the Transparency channel on Discord. We appreciate your feedback! <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085804",
+    "url": "https://forum.tecommons.org/t/requesting-and-giving-access-to-tec-accounts-and-managing-credentials/557"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-28T22:09:43Z",
+   "updated_at": "2021-08-28T22:09:43Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This is so cool! Thank you Ivy for the update and Praise to you and Zep for pushing this forward!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085804",
+    "url": "https://forum.tecommons.org/t/requesting-and-giving-access-to-tec-accounts-and-managing-credentials/557"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928022853",
+   "url": "https://forum.tecommons.org/t/requesting-and-giving-access-to-tec-accounts-and-managing-credentials/557"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928022853",
+   "url": "https://forum.tecommons.org/t/requesting-and-giving-access-to-tec-accounts-and-managing-credentials/557"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530085804",
+   "url": "https://forum.tecommons.org/t/requesting-and-giving-access-to-tec-accounts-and-managing-credentials/557"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530085804",
+   "url": "https://forum.tecommons.org/t/requesting-and-giving-access-to-tec-accounts-and-managing-credentials/557"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": 1214,
+ "title": "Token Engineering Small Grants Pilot",
+ "slug": "token-engineering-small-grants-pilot",
+ "category_id": 7,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2023-03-08T17:12:38Z",
+ "last_archived_post_at": "2023-03-21T17:20:08Z",
+ "captured_between": [
+  "2023-04-01T02:19:31Z",
+  "2023-04-01T02:19:31Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-08T17:12:38Z",
+   "updated_at": "2023-03-08T17:12:38Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR:</h2>\n<p>This proposal requests 3,500 xDAI to fund a small pilot for a “Token Engineering Small Grants Program.” This funding will enable the TEC to partner with Gitcoin in the rollout of its Allo Protocol. It also enables us to test quadratic funding as an approach for supporting token engineering public goods. The total funding pool for this test is $5,000, of which 1 ETH has already been secured by the TEC winning a very competitive <a href=\"https://ensgrants.xyz/rounds/19\" rel=\"noopener nofollow ugc\">ENS Small Grants funding round</a> in February.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description:</h2>\n<p>From its high of over a million xDAI, the TEC Common Pool is now down to just over 550,000 xDAI. A small grants program would enable the TEC to revitalize its support for public goods funding, even in the face of this smaller grant-making pool.</p>\n<p>This request for 3,500xDAI will help fund a 5,000 xDAI pool to run a pilot to test the viability and parameters needed to ramp up a TEC small grants program in a few months. It specifically takes advantage of an opportunity for the TEC to partner with the Gitcoin Product Collective in late March and early April in running a pilot using their <a href=\"https://gov.gitcoin.co/t/introducing-gitcoin-grants-stack-allo-protocol-product-overviews-part-1-of-2/12664\" rel=\"noopener nofollow ugc\">Allo Protocol and Grant Stack solution</a>.</p>\n<p>The TEC will do outreach to attract a handful of promising token engineering projects. In keeping with the TEC’s newly approved <a href=\"https://forum.tecommons.org/t/tec-strategic-framework/1204\">Strategic Framework</a>, we will put a heavy emphasis on funding educational projects. Projects will submit their proposals to a TEC-operated instance of Grant Stack and use their project profiles there to raise funds. At the end of the pilot round, the TEC will allocate its 5,000 xDAI in matching funds based proportionally on the money raised by each project.</p>\n<p>The Gitcoin Product Collective is considering enabling Allo Protocol on the Gnosis Chain, though that is unlikely to happen in time for this pilot. While it is possible to denominate matching grant payouts in $TEC, the benefits in terms of token utility and tributes would be fairly small and most likely not worth the hassle to recipients for this pilot. Based on feedback from this pilot, we will be exploring ways to drive $TEC token utility through the grant program as part of our efforts to strengthen the sustainability of the commons.</p>\n<h2>\n<a class=\"anchor\" href=\"#additional-information-to-add-3\" name=\"additional-information-to-add-3\"></a>Additional information to add</h2>\n<p>NA</p>\n<h2>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h2>\n<ul>\n<li>A small grants program injects dynamism into public goods funding for token engineering by helping to catalyze promising, early-stage projects.</li>\n<li>A small grants program enables the TEC to stretch the remaining Common Pool funds by stimulating contributions from individual donors and matching funds partners.</li>\n<li>This pilot gives the TEC valuable, hands-on experience running a quadratic funding grant-making process.</li>\n<li>Being one of just a few early stage Gitcoin Allo partners will boost TEC visibility and grow awareness for the field of token engineering within the broader web3 community.</li>\n<li>This pilot could help convince Gitcoin to prioritize enabling Allo Protocol on the Gnosis Chain, which is good for the ecosystem and would open a path for driving token utility with $TEC-based matching grant payouts and donation-based voting.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>The total funding for the pilot is 5,000 xDAI, but this request is for 3,500 xDAI because 1 ETH has already been secured by the TEC’s winning the <a href=\"https://ensgrants.xyz/rounds/19\" rel=\"noopener nofollow ugc\">ENS Public Goods Round 6</a> with a pitch for this pilot.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-6\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-6\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>All of the funds will be used as matching fund payouts to grant applicants. The costs of developing, launching and running the pilot are covered by the existing TEC Coordination Team operating budget.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-7\" name=\"what-does-success-look-like-7\"></a>What does success look like?</h3>\n<ul>\n<li>The TEC Coordination Team receives assistance and training by the Gitcoin Product Collective on Gitcoin Allo Protocol, Passport, and Grant Stack</li>\n<li>5000 xDAI in matching funds will be awarded proportionally to at least five small grant applicants</li>\n<li>The TEC gains experience running a small grants program.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-8\" name=\"how-will-you-share-progress-8\"></a>How will you share progress?</h3>\n<p>Progress will be shared through the Coordination Team Roadmap, which is updated every month.</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-9\" name=\"project-information-if-applies-9\"></a>Project information (if applies)</h3>\n<p>NA</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-10\" name=\"team-information-10\"></a>Team Information</h3>\n<p>Core Coordination Team members:</p>\n<ul>\n<li>Isaac (enti)</li>\n<li>Gideon</li>\n</ul>\n<p>Additional Contributors:</p>\n<ul>\n<li>Bear</li>\n</ul>\n<p>Advisors:</p>\n<ul>\n<li>Griff</li>\n<li>Angela</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401021931",
+    "url": "https://forum.tecommons.org/t/token-engineering-small-grants-pilot/1214"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-21T17:20:08Z",
+   "updated_at": "2023-03-21T17:20:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Due to changes in the calendar we won’t be moving with this particular funding proposal; instead, please have a look at the updated one <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/\">Token Engineering Grants Program v1 First Round Funding Proposal</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401021931",
+    "url": "https://forum.tecommons.org/t/token-engineering-small-grants-pilot/1214"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401021931",
+   "url": "https://forum.tecommons.org/t/token-engineering-small-grants-pilot/1214"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401021931",
+   "url": "https://forum.tecommons.org/t/token-engineering-small-grants-pilot/1214"
+  }
+ ]
+}

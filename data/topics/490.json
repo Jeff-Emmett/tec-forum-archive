@@ -1,0 +1,77 @@
+{
+ "id": 490,
+ "title": "Conviction Voting - Conviction Growth (aka Half Life)",
+ "slug": "conviction-voting-conviction-growth-aka-half-life",
+ "category_id": 26,
+ "posts_count": 2,
+ "created_at": "2021-07-12T18:32:47.793Z",
+ "views": 3447,
+ "last_posted_at": "2021-07-31T07:55:51.580Z",
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-07-31T07:55:51Z",
+ "captured_between": [
+  "2021-07-28T22:08:23Z",
+  "2026-05-05T19:34:02Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "laurenluz",
+   "name": "Lauren Luz",
+   "created_at": "2021-07-12T18:32:48Z",
+   "updated_at": "2021-08-29T15:33:46Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><em><strong>What is Conviction?</strong></em><br>\n<em><a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">Conviction Voting</a> is a token-weighted decision making protocol in which tokens are staked on proposals to indicate preference and voting power, aka “Conviction”, grows over time. Conviction is a combination of the number of tokens staked on a proposal and the length of time they are staked for.</em></p>\n<h3>\n<a name=\"conviction-growth-1\" class=\"anchor\" href=\"#conviction-growth-1\"></a>Conviction Growth</h3>\n<p>The parameter “Conviction Growth” decides the rate at which Conviction accumulates via a logarithmic function.</p>\n<p>In the Commons Config Dashboard, you can set the Conviction Growth rate using the slider. This adjusts the curve, based on a logarithmic algorithm, and you can see how many days (x-axis) it would take for staked tokens to reach a certain percentage of their maximum Conviction (y-axis).</p>\n<p>Note: The output for Conviction Growth is the parameter “<a href=\"https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160\">Half Life</a>” which sets the number of days it takes to accumulate (or reduce) Conviction by 50%.</p>\n<h3>\n<a name=\"design-considerations-2\" class=\"anchor\" href=\"#design-considerations-2\"></a>Design Considerations</h3>\n<p>The higher the Conviction Growth rate, the faster the voting power accumulates when tokens are staked on proposals, and the faster the voting power reduction when tokens are removed. This speeds up voting power accrual and expedites the voting process. However, a lower Conviction Growth rate could be advantageous because it slows the accrual and reduction of voting power, dampening the effects of abrupt token movements and preventing last minute vote swings.</p>\n<h3>\n<a name=\"suggested-range-3\" class=\"anchor\" href=\"#suggested-range-3\"></a>Suggested Range</h3>\n<p>0.5 days to 60 days</p>\n<h3>\n<a name=\"related-parameters-4\" class=\"anchor\" href=\"#related-parameters-4\"></a>Related Parameters</h3>\n<p>Spending Limit<br>\nMinimum Conviction</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260505193402",
+    "url": "https://forum.tecommons.org/t/conviction-voting-conviction-growth-aka-half-life/490"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-07-31T07:55:51Z",
+   "updated_at": "2021-07-31T07:55:51Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I like it slow and steady… probably around 7 days 1/2 life which will mean after 21 days the proposal will have 87.5% of the voting power. We will see how that looks once the dashboard is up tho <img src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260505193402",
+    "url": "https://forum.tecommons.org/t/conviction-voting-conviction-growth-aka-half-life/490"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210728220823",
+   "url": "https://forum.tecommons.org/t/disputable-conviction-voting-conviction-growth-aka-half-life/490"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815095234",
+   "url": "https://forum.tecommons.org/t/conviction-voting-conviction-growth-aka-half-life/490"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815095234",
+   "url": "https://forum.tecommons.org/t/conviction-voting-conviction-growth-aka-half-life/490"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260505193402",
+   "url": "https://forum.tecommons.org/t/conviction-voting-conviction-growth-aka-half-life/490"
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "id": 1313,
+ "title": "TEC Guardians Nominations",
+ "slug": "tec-guardians-nominations",
+ "category_id": 30,
+ "posts_count": 17,
+ "created_at": "2023-11-16T20:45:18.235Z",
+ "last_posted_at": "2024-01-15T09:55:07.106Z",
+ "total_known": true,
+ "archived_posts": 18,
+ "archived_numbers": 18,
+ "last_archived_post_at": "2024-01-15T09:55:07Z",
+ "captured_between": [
+  "2023-12-11T00:21:38Z",
+  "2024-07-24T15:58:36Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-11-16T20:45:18Z",
+   "updated_at": "2023-11-22T00:06:55Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>To self-nominate in this first election of TEC Guardians, please leave a comment on this post using the following Guardian Nomination template. All eligible candidates will be added to the Rank Choice Snapshot vote.</p>\n<p>The process to elect new Guardians is community-driven and involves open nominations through a self-nomination process, followed by a Snapshot rank choice vote, to ensure a collective and transparent selection process that aligns with the community’s preferences.</p>\n<p>The selection criteria for Guardians is outlined below for transparency and accountability.</p>\n<p>Guardians will receive a one-time compensation of 100 $TEC which was chosen because Guardians should be compensated for the service they are providing but not motivated by the compensation alone.</p>\n<p><em>Timeline:</em></p>\n<ul>\n<li>Nominations are open between <strong>Nov 16 - 23</strong>.</li>\n<li>The Snapshot vote will open on <strong>Nov 24</strong>.</li>\n</ul>\n<p><em>Eligibility requirements:</em></p>\n<ul>\n<li>Be a $TEC token holder for more than 6 months.</li>\n<li>To know and accept the responsibilities of being a TEC Guardian.</li>\n<li>Sign the Community Covenant <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\" rel=\"noopener nofollow ugc\">here</a> and share the transaction details as proof. (When the Covenant is updated, you will need to read and sign it again in order to remain a Guardian.)</li>\n</ul>\n<p><em>Commitments:</em></p>\n<ul>\n<li>Pledge the Guardian oath.</li>\n<li>Regularly check the Guardian DAO for votes (about once a week) to prevent collusion by other members and to have a thorough understanding of the process to delay or block votes.</li>\n<li>Hold ETH on Optimism in order to participate in Guardian DAO votes.</li>\n</ul>\n<p><em>Template:</em></p>\n<p><strong>Name</strong>: [Your name]</p>\n<p><strong>Contact Information</strong>: [Discord/Telegram/Twitter/Email]</p>\n<p><strong>$TEC Holding Duration</strong>: [The number of months you have held TEC and the address where you hold them as on-chain proof]</p>\n<p><strong>Guardian Commitment</strong>: [Pledge this simple Guardian oath: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.]</p>\n<p><strong>Community Covenant Commitment</strong>: [Add Covenant signature link]</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-11-24T10:56:25Z",
+   "updated_at": "2023-11-24T10:56:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Name: Tam</p>\n<p>Contact Information: tamarandom (TG, Discord, Twitter)</p>\n<p>$TEC Holding Duration: <a href=\"https://gnosisscan.io/address/0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8\">https://gnosisscan.io/address/0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8</a></p>\n<p>Guardian Commitment: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p>Community Covenant Commitment: <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-11-24T11:10:58Z",
+   "updated_at": "2023-11-24T11:10:58Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Name</strong>: Sem.</p>\n<p><strong>Contact Information</strong>: <code>sem_bee</code> on discord.</p>\n<p><strong>$TEC Holding Duration</strong>: 22 months. I’m a TEC holder since January 2022, as it can be seen by my deposit to create the <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/2\">the very first conviction voting proposal on TEC</a>. My address is: <code>0xf632Ce27Ea72deA30d30C1A9700B6b3bCeAA05cF</code>.</p>\n<p><strong>Guardian Commitment</strong>: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p><strong>Community Covenant Commitment</strong>: Signed.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-11-24T15:06:07Z",
+   "updated_at": "2023-11-24T15:06:07Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Name: Gideonro</p>\n<p>Contact Information: gideonro on Telegram, Discord, Twitter</p>\n<p>$TEC Holding Duration: <a href=\"https://gnosisscan.io/address/0x5584E380C5Ba129ccB5c1CE89C2E9D66881f4800#tokentxns\">Address 0x5584E380C5Ba129ccB5c1CE89C2E9D66881f4800 | GnosisScan</a></p>\n<p>Guardian Commitment: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p>Community Covenant Commitment: Signed - <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\">Gardens </a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-11-24T15:51:14Z",
+   "updated_at": "2023-11-24T15:51:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Name</strong>: Bear<br/>\n<strong>Contact Information</strong>: bear100. on discord</p>\n<p><strong>$TEC Holding Duration</strong>: <a class=\"inline-onebox\" href=\"https://gnosis.blockscout.com/address/0x47a5BA5BE900fC22AD31BEC4c1ff54Df8e67cd70\" rel=\"noopener nofollow ugc\">Gnosis chain address details for 0x47a5BA5BE900fC22AD31BEC4c1ff54Df8e67cd70 | Blockscout</a></p>\n<p><strong>Guardian Commitment</strong>: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p><strong>Community Covenant Commitment</strong>: Signed - <a class=\"inline-onebox\" href=\"https://gnosis.blockscout.com/address/0xf6d62c1e193e2aafe91f56db1f475aa2b4544f6a?page=2&amp;next_page_params=%257B%2522block_number%2522%253A23118259%252C%2522index%2522%253A4%252C%2522items_count%2522%253A50%257D\" rel=\"noopener nofollow ugc\">Gnosis chain address details for 0xf6d62c1e193e2aafe91f56db1f475aa2b4544f6a | Blockscout</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-11-24T16:44:09Z",
+   "updated_at": "2023-11-24T16:44:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Name</strong>: Shawn / YGG</p>\n<p><strong>Contact Information</strong>:<br/>\nDiscord / Telegram / Twitter: <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a></p>\n<p><strong>$TEC Holding Duration</strong>: Looks like I’ve had TEC tokens since August 10th 2022. <a href=\"https://gnosisscan.io/tx/0x0d06a7ab09e994affef9d45e9a62e5b7dbe562e3ee8685a3d5b5a401484eaa33\" rel=\"noopener nofollow ugc\">https://gnosisscan.io/tx/0x0d06a7ab09e994affef9d45e9a62e5b7dbe562e3ee8685a3d5b5a401484eaa33</a></p>\n<p>My address is 0x763d7D362B59aeA3858a92a302e18cd41b1252d4 / linuxiscool.eth</p>\n<p><strong>Guardian Commitment</strong>: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p><strong>Community Covenant Commitment</strong>: <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\" rel=\"noopener nofollow ugc\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-11-24T17:00:00Z",
+   "updated_at": "2023-11-24T17:00:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Name</strong>: Enti.</p>\n<p><strong>Contact Information</strong>: <code>eenti</code> on discord.</p>\n<p><strong>$TEC Holding Duration</strong>: <a href=\"https://gnosisscan.io/address/0x6897aBe0fD62B589260784B21F4ca3F78A0D8017\">0x6897aBe0fD62B589260784B21F4ca3F78A0D8017</a>.</p>\n<p><strong>Guardian Commitment</strong>: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p><strong>Community Covenant Commitment</strong>: Signed.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-11-24T22:28:26Z",
+   "updated_at": "2023-11-24T22:28:26Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Name: Griff</p>\n<p>Contact Information: griffgreen (TG, Discord)</p>\n<p>$TEC Holding Duration: <a href=\"https://gnosisscan.io/address/0x839395e20bbB182fa440d08F850E6c7A8f6F0780\">https://gnosisscan.io/address/0x839395e20bbB182fa440d08F850E6c7A8f6F0780</a></p>\n<p>Guardian Commitment: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p>Community Covenant Commitment: <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\">Gardens </a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-11-26T22:44:49Z",
+   "updated_at": "2023-11-26T22:44:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Name: Nate</p>\n<p>Contact Information:  Twitter: <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>, TG: <span class=\"mention\">@naynaysoo</span>, Discord: <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a></p>\n<p>$TEC Holding Duration:<br/>\n<a href=\"https://gnosisscan.io/address/0x66dF5A7715C5D4AfbBFA52435c66aa20733be0d1\">0x66dF5A7715C5D4AfbBFA52435c66aa20733be0d1</a></p>\n<p>Guardian Commitment: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p>Community Covenant Commitment: <a href=\"https://gnosis.blockscout.com/tx/0x7ae61196700727e93386f172ecc626935056eb5ddc303281504408b55e15bb0b\">Signed Covenant Transaction</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-11-28T17:00:23Z",
+   "updated_at": "2023-11-28T17:00:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The Snapshot vote has been moved to happen on Nov 29 at 6pm CET.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "philh",
+   "name": null,
+   "created_at": "2023-11-28T17:40:07Z",
+   "updated_at": "2023-11-28T17:40:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Name</strong>: PhilH</p>\n<p><strong>Contact Information</strong>:<br/>\nTelegram/Twitter: <code>@phil_h</code><br/>\nDiscord: <code>philh</code></p>\n<p><strong>$TEC Holding Duration</strong>:<br/>\n23 months<br/>\n0xAa01DeC5307CF17F20881A3286dcaA062578cea7</p>\n<p><strong>Guardian Commitment</strong>: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p><strong>Community Covenant Commitment</strong>: <a href=\"https://gnosis.blockscout.com/tx/0xa9dd8453688f40066d798a0ce46595673848f0eee44580193aba07e9f922acc4\" rel=\"noopener nofollow ugc\">Signed</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2023-11-28T17:43:17Z",
+   "updated_at": "2023-11-28T17:43:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Name</strong>: [Juan Carlos Bell]</p>\n<p><strong>Contact Information</strong>: [Discord: <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> /Telegram: <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> /Twitter: <span class=\"mention\">@bellcho</span> /Email: <a href=\"mailto:bell.juan.carlos@gmail.com\">bell.juan.carlos@gmail.com</a>]</p>\n<p><strong>$TEC Holding Duration</strong>: Since the Hatch of the TEC<br/>\n<a class=\"onebox\" href=\"https://gnosisscan.io/address/0x7d547666209755FB833f9B37EebEa38eBF513Abb\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://gnosisscan.io/address/0x7d547666209755FB833f9B37EebEa38eBF513Abb</a></p>\n<p><strong>Guardian Commitment</strong>: I commit to the responsibilities of a TEC Guardian including being readily accessible to the TEC community to address any concerns or suspicious proposals and regularly checking the Guardian DAO votes.</p>\n<p><strong>Community Covenant Commitment</strong>:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://gnosis.blockscout.com/tx/0xb66bea1772f316318d25fc628092c8a65885b692f0660eaa3001e2dbd3f5bf51\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://gnosis.blockscout.com/favicon/favicon.ico\" width=\"48\"/>\n<a href=\"https://gnosis.blockscout.com/tx/0xb66bea1772f316318d25fc628092c8a65885b692f0660eaa3001e2dbd3f5bf51\" rel=\"noopener nofollow ugc\" target=\"_blank\">gnosis.blockscout.com</a>\n</header>\n<article class=\"onebox-body\">\n<h3><a href=\"https://gnosis.blockscout.com/tx/0xb66bea1772f316318d25fc628092c8a65885b692f0660eaa3001e2dbd3f5bf51\" rel=\"noopener nofollow ugc\" target=\"_blank\">Gnosis chain transaction...</a></h3>\n<p>View transaction 0xb66bea1772f316318d25fc628092c8a65885b692f0660eaa3001e2dbd3f5bf51 on Gnosis chain (Gnosis chain) Explorer</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/11f1eeb60b4a1f563478d5a99450f0255982f707\" href=\"https://forum.tecommons.org/uploads/default/original/1X/11f1eeb60b4a1f563478d5a99450f0255982f707.png\" title=\"Captura de pantalla 2023-11-28 a la(s) 12.41.34 p.m.\"><img alt=\"Captura de pantalla 2023-11-28 a la(s) 12.41.34 p.m.\" data-base62-sha1=\"2yKscGJ6l2KfCNBtAF4Zdv9C3Eb\" data-dominant-color=\"102141\" height=\"145\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/11f1eeb60b4a1f563478d5a99450f0255982f707_2_690x145.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/11f1eeb60b4a1f563478d5a99450f0255982f707_2_690x145.png, https://forum.tecommons.org/uploads/default/optimized/1X/11f1eeb60b4a1f563478d5a99450f0255982f707_2_1035x217.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/11f1eeb60b4a1f563478d5a99450f0255982f707_2_1380x290.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Captura de pantalla 2023-11-28 a la(s) 12.41.34 p.m.</span><span class=\"informations\">1480×312 19 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-11-29T17:58:39Z",
+   "updated_at": "2023-12-01T05:47:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Nominations have now closed, and the Snapshot vote for this proposal is now live:</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-12-01T05:47:07Z",
+   "updated_at": "2023-12-01T05:47:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The Snapshot vote has been redone and restarted after changing the voting mechanism from “ranked-choice voting” to “approval voting” to make the voting process easier. You can vote now here: <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0xf26af57b9f454e3a5a79e078c1688cb3a12e4de58fa852b201f321cd2882e052\" rel=\"noopener nofollow ugc\">Snapshot</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-12-05T17:38:22Z",
+   "updated_at": "2023-12-05T17:45:59Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The Snapshot vote has been redone because quorum wasn’t met in the previous one. The new vote will continue until December 9 at 9:30 am PT. You can cast your vote here: <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0x798611221196a272fd37ed68f34de5a367d64d5292baf9f95a51e8babcef3827\" rel=\"noopener nofollow ugc\">Snapshot</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-12-11T12:14:40Z",
+   "updated_at": "2023-12-11T12:14:40Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The vote is closed and final results are:</p>\n<p>Guardians:<br/>\nTam, Griff, Sem, PhilH, Enti, Bear, Gideon</p>\n<p>Alternates (will automatically become, in this order, a Guardian in the event of any departure):<br/>\nYgg, Nate, Juanka</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-14T10:10:38Z",
+   "updated_at": "2023-12-14T10:10:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I created the Guardians DAO on Optimism with the following addresses:</p>\n<pre><code class=\"lang-auto\">Tam 0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8\nGriff 0x839395e20bbB182fa440d08F850E6c7A8f6F0780\nSem 0xf632Ce27Ea72deA30d30C1A9700B6b3bCeAA05cF\nPhilH 0xAa01DeC5307CF17F20881A3286dcaA062578cea7\nEnti 0x6897aBe0fD62B589260784B21F4ca3F78A0D8017\nBear 0x47a5BA5BE900fC22AD31BEC4c1ff54Df8e67cd70\nGideon 0x5584E380C5Ba129ccB5c1CE89C2E9D66881f4800\n</code></pre>\n<p>This is the DAO: <a class=\"inline-onebox\" href=\"https://optimism.aragon.blossom.software/#/tecguardians/\">Aragon</a>.</p>\n<p>Its parameters follow the <a href=\"https://forum.tecommons.org/t/optimism-tec-dao-specification/1317#tec-guardians-dao-18\">planned specification of the DAO</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2024-01-15T09:55:07Z",
+   "updated_at": "2024-01-15T09:55:07Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Update: The vote to distribute 100 TEC compensation for the 7 Guardians was created on the TEC DAO here: <a class=\"inline-onebox\" href=\"https://dao.tecommons.org/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/0\">Commons DAO</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240724155836",
+    "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231211002138",
+   "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231211002138",
+   "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240521205044",
+   "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521205044",
+   "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724155836",
+   "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724155836",
+   "url": "https://forum.tecommons.org/t/tec-guardians-nominations/1313/18"
+  }
+ ]
+}

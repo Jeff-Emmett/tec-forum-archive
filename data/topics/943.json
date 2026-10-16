@@ -1,0 +1,145 @@
+{
+ "id": 943,
+ "title": "Proof of Competence funding proposal",
+ "slug": "proof-of-competence-funding-proposal",
+ "category_id": 28,
+ "tags": [
+  "advice-process"
+ ],
+ "posts_count": 10,
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "created_at": "2022-03-18T16:31:20Z",
+ "last_archived_post_at": "2022-03-30T17:13:24Z",
+ "captured_between": [
+  "2022-05-20T06:53:13Z",
+  "2022-05-20T06:53:13Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2022-03-18T16:31:20Z",
+   "updated_at": "2022-03-19T13:31:38Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#proof-of-competence-1\" name=\"proof-of-competence-1\"></a>Proof of Competence</h1>\n<p>This proposal combines 2 of my other projects, useWeb3 and Proof of Competence into a generic platform.</p>\n<p>useWeb3 is a learning platform for developers to explore and learn about Web3. Whether you’re a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.</p>\n<p>Explore the latest resources, tutorials, challenges, tools, courses and boilerplates and start learning. Once you’re ready, browse the job board to land a job at some of the leading companies that work on core, open-source infrastructure, products, tools, frameworks, DAO’s, etc.</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.useweb3.xyz/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://www.useweb3.xyz/favicon.ico\" width=\"48\"/>\n<a href=\"https://www.useweb3.xyz/\" rel=\"noopener nofollow ugc\" target=\"_blank\">useWeb3.xyz</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/5e5546e6cdf84a1c3e684fa6b0722d677e3fd3cf_2_10x10.png\" height=\"362\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/5e5546e6cdf84a1c3e684fa6b0722d677e3fd3cf_2_690x362.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/5e5546e6cdf84a1c3e684fa6b0722d677e3fd3cf_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/5e5546e6cdf84a1c3e684fa6b0722d677e3fd3cf_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/5e5546e6cdf84a1c3e684fa6b0722d677e3fd3cf.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://www.useweb3.xyz/\" rel=\"noopener nofollow ugc\" target=\"_blank\">useWeb3.xyz · Learn Web3 development</a></h3>\n<p>A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/wslyvh/useWeb3\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/wslyvh/useWeb3\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/913723a53a0d0af78ca4f01e3a81a192f9d8d57c_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/913723a53a0d0af78ca4f01e3a81a192f9d8d57c_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/913723a53a0d0af78ca4f01e3a81a192f9d8d57c_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/913723a53a0d0af78ca4f01e3a81a192f9d8d57c_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/913723a53a0d0af78ca4f01e3a81a192f9d8d57c.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/wslyvh/useWeb3\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - wslyvh/useWeb3: useWeb3 provides a curated overview of the best and...</a></h3>\n<p>useWeb3 provides a curated overview of the best and latest resources on Ethereum, blockchain and Web3 development. - GitHub - wslyvh/useWeb3: useWeb3 provides a curated overview of the best and lat...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>Proof of Competence (PoC) started as a hackathon project at ETHLisbon (2021). It’s an open, modular framework to create on-chain quests and on-boarding journeys into Web3. It uses a pluggable task system which can verify that on-chain actions have occurred. This allows to build up reputation or social (DAO) scores that prove an address is familiar with the specified technologies or protocols.</p>\n<p>This allows to:</p>\n<ul>\n<li>Create on-boarding quests for developers to learn about a protocol</li>\n<li>Proof an address is competent enough to have a basic understanding of a protocol</li>\n<li>Novel ways to use the social (DAO) scores instead of token-weights for governance</li>\n</ul>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.poc.quest/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://www.poc.quest/favicon.ico\" width=\"48\"/>\n<a href=\"https://www.poc.quest/\" rel=\"noopener nofollow ugc\" target=\"_blank\">Proof of Competence</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/388;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f47c1feba91a9ac6639aac80c2d551ecf38037e4_2_10x10.png\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f47c1feba91a9ac6639aac80c2d551ecf38037e4_2_690x388.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f47c1feba91a9ac6639aac80c2d551ecf38037e4_2_690x388.png, https://forum.tecommons.org/uploads/default/optimized/1X/f47c1feba91a9ac6639aac80c2d551ecf38037e4_2_1035x582.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/f47c1feba91a9ac6639aac80c2d551ecf38037e4_2_1380x776.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://www.poc.quest/\" rel=\"noopener nofollow ugc\" target=\"_blank\">Proof of Competence</a></h3>\n<p>Proof of Competence (PoC) is an open, modular framework to create on-chain quests and on-boarding journeys into Web3.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/wslyvh/proof-of-competence\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/wslyvh/proof-of-competence\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/d0982d57f0f19a78a1e86ffcf59c9ee506f75278_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/d0982d57f0f19a78a1e86ffcf59c9ee506f75278_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/d0982d57f0f19a78a1e86ffcf59c9ee506f75278_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/d0982d57f0f19a78a1e86ffcf59c9ee506f75278_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/d0982d57f0f19a78a1e86ffcf59c9ee506f75278.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/wslyvh/proof-of-competence\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - wslyvh/proof-of-competence: Proof of Competence (PoC) is an open,...</a></h3>\n<p>Proof of Competence (PoC) is an open, modular framework to create on-chain quests and Web3 on-boarding journeys. - GitHub - wslyvh/proof-of-competence: Proof of Competence (PoC) is an open, modular...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>Both projects were a great PoC (no pun intended) and have provided invaluable insights to take this to the next level.</p>\n<h2>\n<a class=\"anchor\" href=\"#description-2\" name=\"description-2\"></a>Description</h2>\n<p>This proposal describes Proof of Competence V2. An open education platform for communities to design their own, unique learning experiences using on-chain data where members can learn and level up their skills and reputation about their projects.</p>\n<p>The platform will be free, fun and engaging way to learn more about Web3, it’s projects and their communities.</p>\n<p>Learning by doing and level up your skills with fresh challenges.</p>\n<h3>\n<a class=\"anchor\" href=\"#learning-module-3\" name=\"learning-module-3\"></a>Learning Module</h3>\n<p>A fully open-source and modular system allows anyone to design custom learning modules, using common building blocks that are relevant to their projects. This can be any combination of:</p>\n<ul>\n<li>Learning (content) modules</li>\n<li>On-chain verifications</li>\n<li>Signing messages or other type of transactions</li>\n<li>Quizzes</li>\n</ul>\n<p>These modules can be followed linearly or in any preferred order to maximize an individual’s personal learning experience. Completing these modules would allow members to gain experience, level up and receive a ‘community-score’.</p>\n<p>The quests are currently read from simple JSON files configured in the Github repository. To become a permissionless education system, these should be served from IPFS content directories, using similar JSON metadata files and markdown to include rich text, learning materials and any other additional resources. As long as it’s using the same, standardized structure anyone can upload their materials on IPFS so that it can get served from the platform.</p>\n<p>Since it is such an open, permissionless system it would require some form of cryptography to ensure the answers of the quizzes aren’t stored in clear text.</p>\n<h3>\n<a class=\"anchor\" href=\"#reward-module-4\" name=\"reward-module-4\"></a>Reward Module</h3>\n<p>Completing such modules could result in configurable rewards. Communities can configure the type of rewards and when these will be rewarded. Which can be for completing the entire quest or different levels and scores. Multiple rewards (e.g. bronze, silver, gold) could allow a member to level up their knowledge. Reward mechanism could be any combination of:</p>\n<ul>\n<li>Adding badge/attestations to their profile</li>\n<li>Automated POAP distributions</li>\n<li>Minting NFTs</li>\n</ul>\n<p>Note that configuring rewards will be fully optional. Using incentives might bring in more people to learn, but are often not values-aligned. Rewards diminish the intrinsic motivation to learn. Members might come in to pick up the rewards instead of meaning to learn anything.</p>\n<h3>\n<a class=\"anchor\" href=\"#integrations-5\" name=\"integrations-5\"></a>Integrations</h3>\n<p>The current PoC platform would already allow integrations using an API. Integrating with a member’s community score would give new, novel ways to on-board them into the community. Some examples:</p>\n<ul>\n<li>\n<p>Gated-access on community websites, wiki and forums</p>\n</li>\n<li>\n<p>Gradually unlocking new channels on Discord</p>\n</li>\n<li>\n<p>Governance power to provide an alternative to token-weighted</p>\n</li>\n<li>\n<p>Recurring airdrops</p>\n</li>\n<li>\n<p>Developing such integrations are not in scope for this proposal, although looking forward to bouncing ideas/suggestions/discussions for future releases.</p>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#scope-6\" name=\"scope-6\"></a>Scope</h2>\n<p>The current implementation of PoC focuses more on the verification system, but only provides limited information and context. To become an education platform, communities need to be able to add their content, resources and learning materials in a structured manner. Integrating with existing identity solutions so people can build up their reputation on the profiles they already have.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267\" href=\"https://forum.tecommons.org/uploads/default/original/1X/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"pn8uMY08gPJcHEwCZ6wlrQF9ReD\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267_2_10x10.png\" height=\"499\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267_2_397x499.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267_2_397x499.png, https://forum.tecommons.org/uploads/default/optimized/1X/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267_2_595x748.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/b1d3e5496fcf4f49a20aba5a14e8ddebc8ae5267_2_794x998.png 2x\" width=\"397\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">991×1248 132 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Example of a quest for Proof of Humanity - <a class=\"inline-onebox\" href=\"https://www.poc.quest/proof-of-humanity\" rel=\"noopener nofollow ugc\">Proof of Competence</a></p>\n<h3>\n<a class=\"anchor\" href=\"#requested-funds-7\" name=\"requested-funds-7\"></a>Requested Funds</h3>\n<p>I’m requesting a total of $5.500 USD in stablecoin for developing the following components that will help move PoC to a new V2.</p>\n<p>$1.500 Develop content &amp; learning system<br/>\n$1.500 Develop quiz module<br/>\n$1.000 Integrate profiles using existing identity solutions (Ceramic/Self.ID/ENS)<br/>\n$1.000 Design an initial Web3 / Solidity course to showcase the new features of the platform<br/>\n$0 Collaborate with Communitas WG to spec out a TEC learning experience using the developed components</p>\n<p>+10% for contingency</p>\n<h2>\n<a class=\"anchor\" href=\"#team-8\" name=\"team-8\"></a>Team</h2>\n<p>Wesley (<a class=\"mention\" href=\"/u/wslyvh\">@wslyvh</a>) has been an active member in the space, working on a variety of different projects as an indie hacker (PoC, useWeb3, Tokenlog, a gas tracker, a good first issue explorer) and as contractor for several leading companies (ConsenSys, EF).</p>\n<p><a class=\"onebox\" href=\"https://twitter.com/wslyvh\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://twitter.com/wslyvh</a></p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/wslyvh/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/wslyvh/\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"460\" src=\"https://forum.tecommons.org/uploads/default/original/1X/970aa1226439b15143f4e2328e8fd1c89477a29a.jpeg\" width=\"460\"/>\n<h3><a href=\"https://github.com/wslyvh/\" rel=\"noopener nofollow ugc\" target=\"_blank\">wslyvh - Overview</a></h3>\n<p>Indie Maker 🛠️ Devcon @ethereum. wslyvh has 66 repositories available. Follow their code on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>PoC is also brought in as a project to <a href=\"https://www.developerdao.com/\" rel=\"noopener nofollow ugc\">Developer DAO</a> and has several members supporting and contributing in varying capacities. The current work is currently focused on research on user/player-centric design, gamification and how competence can help people land their jobs in the space. This will continue in parallel.</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://miro.com/app/board/uXjVOJuJdPw=/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"\" src=\"https://forum.tecommons.org/uploads/default/original/1X/43cb3593d03da73468e6a049e4445b8c3febd952.png\" width=\"\"/>\n<a href=\"https://miro.com/app/board/uXjVOJuJdPw=/\" rel=\"noopener nofollow ugc\" target=\"_blank\">miro.com</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/25b57ee6fbf5efd61dce8786b98baa6628f5575b_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/25b57ee6fbf5efd61dce8786b98baa6628f5575b_2_500x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/25b57ee6fbf5efd61dce8786b98baa6628f5575b_2_500x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/25b57ee6fbf5efd61dce8786b98baa6628f5575b_2_750x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/25b57ee6fbf5efd61dce8786b98baa6628f5575b_2_1000x1000.jpeg 2x\" width=\"500\"/>\n<h3><a href=\"https://miro.com/app/board/uXjVOJuJdPw=/\" rel=\"noopener nofollow ugc\" target=\"_blank\">Proof of Competence</a></h3>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "markop",
+   "name": null,
+   "created_at": "2022-03-19T14:47:19Z",
+   "updated_at": "2022-03-19T14:47:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for the proposal Wesley, the PoC looks interesting. Integrations seem to be very useful.</p>\n<p>I’m currently working on Web3 Design Education course, similar to Useweb3 but targeting designers.<br/>\nI wonder if we could collaborate, or I could make use<br/>\nof PoC in my project?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-03-20T17:12:39Z",
+   "updated_at": "2022-03-20T17:12:39Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Looking forward to see the implementation of this on TEC!</p>\n<p>It was my understanding from this proposal, that the POC is on Stage 1 right? What does the timeline looks like for V2? And if there is any need or necessities that you may have identified are needed to get there.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2022-03-25T09:49:56Z",
+   "updated_at": "2022-03-25T09:49:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’d be more than happy to collaborate with you (also with useWeb3, btw. Maybe we can add a dedicated design section?). The focus with PoC however, is more on verifiable data &amp; credentials.<br/>\nE.g. has deployed a contract, has interacted with a contract X, has voted on Y amount of proposals, etc. I’m not sure how applicable that is in the context of designers?</p>\n<p>The upcoming learning and quiz modules might be more relevant. I’d be very interested to hear more and see how we can collab! <img alt=\":muscle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/muscle.png?v=10\" title=\":muscle:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2022-03-25T09:58:23Z",
+   "updated_at": "2022-03-25T09:58:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>PoC has a fully functional, working product running at poc.quest which provided a huge amount of input and experience to work and decide next steps. Those next steps (a next version, or V2) is indeed what this proposal aims to achieve.</p>\n<p>No real blockers as of now, although I do wish to keep things as permissionless and neutral as possible so that it remains/becomes a public good for any Web3 community. That also means working with more communities, get their input and help design similar on-boarding journeys and quest with them. This could be an ideal task for community leads, stewards or other non-tech folks who’d like to help.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-03-25T22:56:26Z",
+   "updated_at": "2022-03-25T22:56:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’m relatively new to both communities, but the PoC project sounds very similar to/could benefit from cross-pollination with the quest system that MetaGame is developing (<a class=\"inline-onebox\" href=\"https://forum.metagame.wtf/t/quests-champion-proposal/909\" rel=\"noopener nofollow ugc\">Quests champion proposal - General - MetaGame</a>). I believe I found TEC through MetaGame, so there may already be some familiarity/collaboration, but wanted to call it out in case you weren’t familiar.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2022-03-30T17:13:24Z",
+   "updated_at": "2022-03-30T17:13:24Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for sharing. I’ve been in contact with Peth for quite a while.<br/>\nI think you’re right that there’s a lot of overlap on the questing system.</p>\n<p>This proposal somewhat moves away from it just being used for quests, but more on overall learning, quizzes, etc. But following up with Metagame soon!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520065313",
+    "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520065313",
+   "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520065313",
+   "url": "https://forum.tecommons.org/t/proof-of-competence-funding-proposal/943"
+  }
+ ]
+}

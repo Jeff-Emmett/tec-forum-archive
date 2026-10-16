@@ -1,0 +1,111 @@
+{
+ "id": 1323,
+ "title": "Optimism Migration Dress Rehearsal",
+ "slug": "optimism-migration-dress-rehearsal",
+ "category_id": 9,
+ "posts_count": 4,
+ "created_at": "2023-12-18T18:36:31.613Z",
+ "last_posted_at": "2023-12-19T19:28:59.950Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2023-12-19T19:28:59Z",
+ "captured_between": [
+  "2024-02-29T11:43:07Z",
+  "2024-02-29T11:43:07Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-18T18:36:31Z",
+   "updated_at": "2023-12-18T18:36:31Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The two DAOs created by this test rehearsal can be found here:</p>\n<ul>\n<li><a href=\"https://optimism.aragon.blossom.software/#/testtec/permissions/\">Test TEC DAO</a></li>\n<li><a href=\"https://optimism.aragon.blossom.software/#/testtecrep/permissions/\">Test TEC Rep DAO</a></li>\n</ul>\n<p>The bonding curve for the test DAO is open here:</p>\n<ul>\n<li><a class=\"inline-onebox\" href=\"https://abcswap.xyz/#/testtec\">ABC Swap</a></li>\n</ul>\n<p>We will go through all the steps we used to create them and do the migration of the tokens and the funds.</p>\n<h2>\n<a class=\"anchor\" href=\"#create-the-daos-1\" name=\"create-the-daos-1\"></a>Create the DAOs</h2>\n<p>We create one DAO for TEC and another one for the Reputation Board. We have to separate the DAO creation in two scripts due to a bug in EVMcrispr.</p>\n<pre><code class=\"lang-sh\">load aragonos as ar\nar:new-dao testtec # It will be just \"tec\"\n</code></pre>\n<pre><code class=\"lang-sh\">load aragonos as ar\nar:new-dao testtecrep # It will be just \"tecrep\"\n</code></pre>\n<h2>\n<a class=\"anchor\" href=\"#reassign-permissions-2\" name=\"reassign-permissions-2\"></a>Reassign permissions</h2>\n<p>We have to run these transactions so the DAO can be configured from the TEC Guardians DAO.</p>\n<pre><code class=\"lang-sh\">load aragonos as ar\nswitch optimism\n\n# DAOs\nset $guardians sem # tecguardians\nset $dao testtec # tec\nset $reputationDAO testtecrep #tecrep\n\nar:connect $guardians (\n  set $tm token-manager\n  ar:connect $dao (\n    grant $tm kernel APP_MANAGER_ROLE @me\n    revoke @me kernel APP_MANAGER_ROLE false\n    exec acl setPermissionManager $tm kernel @id(APP_MANAGER_ROLE)\n\n    grant $tm acl CREATE_PERMISSIONS_ROLE @me\n    revoke @me acl CREATE_PERMISSIONS_ROLE false\n    exec acl setPermissionManager $tm acl @id(CREATE_PERMISSIONS_ROLE)\n  )\n  ar:connect $reputationDAO (\n    grant $tm kernel APP_MANAGER_ROLE @me\n    revoke @me kernel APP_MANAGER_ROLE false\n    exec acl setPermissionManager $tm kernel @id(APP_MANAGER_ROLE)\n\n    grant $tm acl CREATE_PERMISSIONS_ROLE @me\n    revoke @me acl CREATE_PERMISSIONS_ROLE false\n    exec acl setPermissionManager $tm acl @id(CREATE_PERMISSIONS_ROLE)\n  )\n)\n</code></pre>\n<h1>\n<a class=\"anchor\" href=\"#create-the-tokens-3\" name=\"create-the-tokens-3\"></a>Create the tokens</h1>\n<p>We create the three tokens involved (TEC, rTEC, and TECRB) in one transaction separated from the rest of the architecture because otherwise we had out of gas errors.</p>\n<pre><code class=\"lang-sh\">\n# **Important:** Remove \"Test\" from the names when done for real\n\nload aragonos as ar\nswitch optimism\n\n# DAOs\nset $guardians sem # tecguardians\nset $dao testtec # tec\nset $reputationDAO testtecrep #tecrep\n\nar:connect $guardians token-manager (\n  ar:connect $reputationDAO (\n    new-token \"Test TEC Reputation Board\" TECRB token-manager:tecrb 0 false\n    install token-manager:tecrb token:TECRB false 0\n  )\n\n  ar:connect $dao (\n    new-token \"Test Token Engineering Commons\" TEC token-manager:contribution\n    install token-manager:contribution token:TEC true 0\n\n    new-token \"Test TEC Reputation\" rTEC token-manager:reputation\n    install token-manager:reputation token:rTEC false 0\n  )\n)\n</code></pre>\n<h1>\n<a class=\"anchor\" href=\"#install-the-apps-and-set-the-permissions-4\" name=\"install-the-apps-and-set-the-permissions-4\"></a>Install the apps and set the permissions</h1>\n<p>In this transaction we configure the TEC main DAO and the Reputation Sub-DAO.</p>\n<p>After this transaction there is no minted TEC tokens and the bonding curve is closed. The Guardians DAO (controlled by the Migration Team) has permissions to mint TEC and open the bonding curve, and it is what they are going to do with the following two votes.</p>\n<pre><code class=\"lang-sh\">load aragonos as ar\nswitch optimism\n\nset $token.tokenlist https://token-list.sushi.com\n\n# DAOs\nset $guardians sem # tecguardians\nset $dao testtec # tec\nset $reputationDAO testtecrep #tecrep\n\n# Tokens\nset $aggregatedTokenName \"TEC Power\"\nset $aggregatedTokenSymbol TECPOW\nset $contributionPower 95 # Reputation power is (100 - $contributionPower)%\nset $fundingToken @token(DAI)\n\n# Governance Voting\nset $governanceVotingFee 40e18 # DAO tokens\nset $governanceVotingTime 5d\nset $governanceVotingSupport 85e16\nset $governanceVotingQuorum 10e16\nset $governanceVotingDelegatedPeriod 3d\nset $governanceVotingQuietEndingPeriod 3d\nset $governanceVotingQuietEndingExtension 2d\nset $governanceVotingDelay 1d\n\n# Budget Voting\nset $budgetVotingFee 40e18 # DAO tokens\nset $budgetVotingTime 5d\nset $budgetVotingSupport 85e16\nset $budgetVotingQuorum 10e16\nset $budgetVotingDelegatedPeriod 3d\nset $budgetVotingQuietEndingPeriod 3d\nset $budgetVotingQuietEndingExtension 2d\nset $budgetVotingDelay 1d\n\n# Augmented Bonding Curve\nset $abcFormula 0x29c7e9fff64bde42faa6e8c0567a15290f7d948b\nset $abcEntryTribute 2e16\nset $abcExitTribute 12e16\nset $abcReserveToken @token(rETH)\nset $abcReserveRatio 20e4\n\n# Reputation Board DAO\nset $boardSupport 81e16\nset $boardQuorum 41e16\nset $boardTime 1d\n\nar:connect $guardians token-manager (\n  set $guardiansTM token-manager\n  set $guardiansVoting voting\n\n  ar:connect $dao (\n\n    # Retreive Contribution-Based Token\n    set $contributionTM token-manager\n    set $contributionToken token-manager::token()\n\n    # Retreive Reputation-Based Token\n    set $reputationTM token-manager:1\n    set $reputationToken token-manager:1::token()\n\n    # Install and Configure Voting Aggregator\n    install vote-token-aggregator.open:new $aggregatedTokenName $aggregatedTokenSymbol 18\n    set $votingAggregator vote-token-aggregator.open:new\n\n    grant $guardiansTM $votingAggregator ADD_POWER_SOURCE_ROLE $guardiansTM\n    exec $votingAggregator addPowerSource $contributionToken 1 $contributionPower\n    exec $votingAggregator addPowerSource $reputationToken 1 (100 - $contributionPower)\n    revoke $guardiansTM $votingAggregator ADD_POWER_SOURCE_ROLE true\n\n    # Install Agents\n    install agent:reserve\n    install agent:common-pool\n    set $reserve agent:reserve\n    set $commonPool agent:common-pool\n\n    # Install Tollgates\n    install tollgate.open:governance $contributionToken $governanceVotingFee $commonPool\n    install tollgate.open:budget $contributionToken $budgetVotingFee $commonPool\n    set $tollgateGov tollgate.open:governance\n    set $tollgateBudget tollgate.open:budget\n    \n    # Install Tao Votings\n    install blossom-tao-voting.open:governance $votingAggregator $governanceVotingTime $governanceVotingSupport $governanceVotingQuorum $governanceVotingDelegatedPeriod $governanceVotingQuietEndingPeriod $governanceVotingQuietEndingExtension 0 NO_ENTITY\n    set $votingGov blossom-tao-voting.open:governance\n    install blossom-tao-voting.open:budget $votingAggregator $budgetVotingTime $budgetVotingSupport $budgetVotingQuorum $budgetVotingDelegatedPeriod $budgetVotingQuietEndingPeriod $budgetVotingQuietEndingExtension 0 $votingGov\n    set $votingBudget blossom-tao-voting.open:budget\n\n    # Install Delays\n    install an-delay.open:governance $governanceVotingDelay $fundingToken 0 $commonPool\n    install an-delay.open:budget $budgetVotingDelay $fundingToken 0 $commonPool\n    set $delayGov an-delay.open:governance\n    set $delayBudget an-delay.open:budget\n    \n    # Install Finance\n    install finance:new $commonPool 30d\n\n    # Install ABC\n    install augmented-bonding-curve.open:abc $contributionTM $abcFormula $reserve $commonPool $abcEntryTribute $abcExitTribute\n    set $abc augmented-bonding-curve.open:abc\n\n    grant $guardiansTM $abc MANAGE_COLLATERAL_TOKEN_ROLE $guardiansTM\n    exec $abc addCollateralToken $abcReserveToken 1 1 $abcReserveRatio\n    revoke $guardiansTM $abc MANAGE_COLLATERAL_TOKEN_ROLE true\n\n    # Configure permissions\n    grant $tollgateGov $votingGov CREATE_VOTES_ROLE $delayGov\n    grant $tollgateBudget $votingBudget CREATE_VOTES_ROLE $delayGov\n    \n    grant $votingGov $delayGov DELAY_EXECUTION_ROLE $delayGov\n    grant $votingBudget $delayBudget DELAY_EXECUTION_ROLE $delayGov\n\n    grant $guardiansTM $delayGov CANCEL_EXECUTION_ROLE $delayGov\n    grant $guardiansTM $delayBudget CANCEL_EXECUTION_ROLE $delayGov\n\n    grant $guardiansTM $delayGov PAUSE_EXECUTION_ROLE $delayGov\n    grant $guardiansTM $delayBudget PAUSE_EXECUTION_ROLE $delayGov\n\n    grant $guardiansTM $delayGov RESUME_EXECUTION_ROLE $delayGov\n    grant $guardiansTM $delayBudget RESUME_EXECUTION_ROLE $delayGov\n\n    grant $delayBudget finance:new CREATE_PAYMENTS_ROLE $delayGov\n\n    grant finance:new $commonPool TRANSFER_ROLE $delayGov\n\n    grant $delayGov $reserve EXECUTE_ROLE $delayGov\n    grant $delayGov $reserve RUN_SCRIPT_ROLE $delayGov\n    \n    grant $delayBudget $commonPool EXECUTE_ROLE $delayGov\n    grant $delayBudget $commonPool RUN_SCRIPT_ROLE $delayGov\n\n    grant $delayGov $tollgateGov CHANGE_AMOUNT_ROLE $delayGov\n    grant $delayGov $tollgateBudget CHANGE_AMOUNT_ROLE $delayGov\n    \n    grant $delayGov kernel APP_MANAGER_ROLE $delayGov\n    grant $delayGov acl CREATE_PERMISSIONS_ROLE $delayGov\n\n    # Guardians will \"open\" the ABC in a later step\n    grant ETH $abc MAKE_BUY_ORDER_ROLE $guardiansVoting\n    grant ETH $abc MAKE_SELL_ORDER_ROLE $guardiansVoting\n\n    grant $abc $contributionTM MINT_ROLE $guardiansVoting\n    grant $abc $contributionTM BURN_ROLE $guardiansVoting\n    grant $abc $reserve TRANSFER_ROLE $delayGov\n\n    ar:connect $reputationDAO (\n      install voting:tecrb token-manager::token() $boardSupport $boardQuorum $boardTime\n      install agent:tecrb\n      install finance:tecrb agent:tecrb 30d\n\n      set $tmTECRB token-manager\n      set $votingTECRB voting:tecrb\n      set $agentTECRB agent:tecrb\n      set $financeTECRB finance:tecrb\n\n      grant $delayGov $tmTECRB MINT_ROLE $delayGov\n      grant $delayGov $tmTECRB BURN_ROLE $guardiansTM\n      grant $votingTECRB $tmTECRB BURN_ROLE $guardiansTM\n      exec acl setPermissionManager $delayGov $tmTECRB @id(BURN_ROLE)\n      grant $tmTECRB $votingTECRB CREATE_VOTES_ROLE $delayGov\n      grant $votingTECRB $financeTECRB CREATE_PAYMENTS_ROLE $delayGov\n      grant $financeTECRB $agentTECRB TRANSFER_ROLE $delayGov\n\n      exec acl revokePermission $guardiansTM kernel @id(APP_MANAGER_ROLE)\n      exec acl revokePermission $guardiansTM acl @id(CREATE_PERMISSIONS_ROLE)\n      exec acl setPermissionManager $delayGov kernel @id(APP_MANAGER_ROLE)\n      exec acl setPermissionManager $delayGov acl @id(CREATE_PERMISSIONS_ROLE)\n    )\n\n    grant $votingTECRB $reputationTM MINT_ROLE $delayGov\n    grant $votingTECRB $reputationTM BURN_ROLE $delayGov\n\n    exec acl revokePermission $guardiansTM kernel @id(APP_MANAGER_ROLE)\n    exec acl revokePermission $guardiansTM acl @id(CREATE_PERMISSIONS_ROLE)\n    exec acl setPermissionManager $delayGov kernel @id(APP_MANAGER_ROLE)\n    exec acl setPermissionManager $delayGov acl @id(CREATE_PERMISSIONS_ROLE)\n  )\n)\n</code></pre>\n<h1>\n<a class=\"anchor\" href=\"#tec-minting-votes-5\" name=\"tec-minting-votes-5\"></a>TEC minting vote(s)</h1>\n<p>The Migration Team will use the Guardians DAO to mint TECs for every frozen TEC on an externally owned addresses on Gnosis. They will also distribute the TEC held by contracts at the moment of migration according to the strategies discussed previously by the community.</p>\n<p>They will use this vote structure to mint TEC to the ~700 token holders:</p>\n<pre><code class=\"lang-sh\">load aragonos as ar\nswitch optimism\n\n# DAOs\nset $guardians sem # tecguardians\nset $dao testtec # tec\n\nar:connect $guardians token-manager voting (\n  set $guardiansVoting voting\n  ar:connect $dao (\n    grant $guardiansVoting token-manager MINT_ROLE $guardiansVoting\n\n    # This will be populated by addresses and amounts.\n    # For the dress rehearsal we only mint for two addresses.\n    exec token-manager mint 0xf632Ce27Ea72deA30d30C1A9700B6b3bCeAA05cF 1000e18\n    exec token-manager mint 0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8 1000e18\n    # ...\n\n    revoke $guardiansVoting token-manager MINT_ROLE false\n  )\n)\n</code></pre>\n<h1>\n<a class=\"anchor\" href=\"#funds-transfer-and-bonding-curve-enabling-6\" name=\"funds-transfer-and-bonding-curve-enabling-6\"></a>Funds transfer and Bonding Curve enabling</h1>\n<p>After checking that all the tokens have been minted correctly, the migration team will use the Guardians DAO to send the funds to the common pool and the reserve, and open the bonding curve, removing itself as the permission manager for the permissions it holds.</p>\n<pre><code class=\"lang-sh\">\n# **Important:** set the amount of transferred funds properly!\n\nload aragonos as ar\nswitch optimism\n\nset $token.tokenlist https://token-list.sushi.com\n\n# DAOs\nset $guardians sem # tecguardians\nset $dao testtec # tec\n\nar:connect $dao (\n  set $reserve agent\n  set $commonPool agent:1\n)\n\nprint \"Reserve: \" $reserve\nprint \"Common Pool: \" $commonPool\n\nar:connect $guardians token-manager voting (\n  set $guardiansVoting voting\n\n  # transfer funds to the common pool\n  exec finance newImmediatePayment @token(DAI) $commonPool 0.01e18 \"transfer common pool funds\"\n\n  # transfer funds to the reserve\n  exec finance newImmediatePayment @token(rETH) $reserve 0.00001e18 \"transfer reserve funds\"\n  \n  connect $dao (\n    set $tm token-manager\n    set $abc augmented-bonding-curve.open\n    set $governanceVotingDelay an-delay.open\n\n    # allow buy and sell in the bonding curve and transfer their permission manager to the dao\n    revoke ETH $abc MAKE_SELL_ORDER_ROLE false\n    revoke ETH $abc MAKE_BUY_ORDER_ROLE false\n    grant ANY_ENTITY $abc MAKE_SELL_ORDER_ROLE $guardiansVoting\n    grant ANY_ENTITY $abc MAKE_BUY_ORDER_ROLE $guardiansVoting\n    exec acl setPermissionManager $governanceVotingDelay $abc @id(MAKE_SELL_ORDER_ROLE)\n    exec acl setPermissionManager $governanceVotingDelay $abc @id(MAKE_BUY_ORDER_ROLE)\n\n    # transfer token manager's MINT and BURN permission manager to the dao\n    exec acl setPermissionManager $governanceVotingDelay $tm @id(MINT_ROLE)\n    exec acl setPermissionManager $governanceVotingDelay $tm @id(BURN_ROLE)\n  )\n)\n</code></pre>\n<h1>\n<a class=\"anchor\" href=\"#payment-to-the-migration-team-7\" name=\"payment-to-the-migration-team-7\"></a>Payment to the Migration Team</h1>\n<p>We can use this vote to test that the DAO is functional:</p>\n<pre><code class=\"lang-sh\">\n# **Important:** Set the payment amount properly!\n\nload aragonos as ar\n\nset $token.tokenlist https://token-list.sushi.com\n\n# DAOs\nset $guardians sem # tecguardians\nset $dao testtec # tec\n\nar:connect $guardians (\n  set $beneficiary agent\n)\nar:connect $dao tollgate.open:1 blossom-tao-voting.open:1 (\n  exec finance newImmediatePayment @token(DAI) $beneficiary 0.01e18 \"pay the migration team\"\n  set $voting blossom-tao-voting.open:1\n)\n</code></pre>\n<p>We simulated this budget vote (plus a governance one) to check that the votes are executable and can also be cancelled by guardians.</p>\n<ul>\n<li><a href=\"https://evmcrispr.com/#/terminal/QmYdZk5NVwsi4nMkhWT8C4Km1h4zQ6viqX5iAT9gmPjWz6\">Budget normal flow</a></li>\n<li><a href=\"https://evmcrispr.com/#/terminal/QmVfD6D4ka6WKfPaBbhhDXQCva87n8jsE12xHyY9EBtrfF\">Budget cancelled flow</a></li>\n<li><a href=\"https://evmcrispr.com/#/terminal/QmQ4ocPnVkqxZ7E6oj9YaPofDBKhBzQkn8hWC1GMKjYKnD\">Governance normal flow</a></li>\n<li><a href=\"https://evmcrispr.com/#/terminal/QmSf3HCcjGai6cVcurSLvgVdzYHAv4aL6SfYyj1rE4M9z9\">Governance cancelled flow</a></li>\n</ul>\n<p>With all these tests, we are consider that we are ready to migrate TEC to Optimism tomorrow.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114307",
+    "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "mel.eth",
+   "name": null,
+   "created_at": "2023-12-19T15:32:22Z",
+   "updated_at": "2023-12-19T15:32:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Will the TEC I have in a gnosis multisig be safu? If no, please halp.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114307",
+    "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-19T17:35:51Z",
+   "updated_at": "2023-12-19T17:35:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Can you share more details on which is your Safe?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114307",
+    "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "mel.eth",
+   "name": null,
+   "created_at": "2023-12-19T19:26:35Z",
+   "updated_at": "2023-12-19T19:26:35Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yeah, stillno.eth ( 0x75d923fbbc9d224ad4a92c370dcc60043010648f )</p>\n<p>Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114307",
+    "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-19T19:28:59Z",
+   "updated_at": "2023-12-19T19:28:59Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yes, you received the TEC on Optimism:</p>\n<p><a class=\"onebox\" href=\"https://optimistic.etherscan.io/address/0x75d923fbbc9d224ad4a92c370dcc60043010648f\" rel=\"noopener\" target=\"_blank\">https://optimistic.etherscan.io/address/0x75d923fbbc9d224ad4a92c370dcc60043010648f</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114307",
+    "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240229114307",
+   "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229114307",
+   "url": "https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323"
+  }
+ ]
+}

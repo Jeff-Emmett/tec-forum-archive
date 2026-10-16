@@ -1,0 +1,152 @@
+{
+ "id": 346,
+ "title": "Hatch Outreach Audit",
+ "slug": "hatch-outreach-audit",
+ "category_id": 24,
+ "posts_count": 6,
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "created_at": "2021-04-20T11:54:54Z",
+ "last_archived_post_at": "2021-04-23T11:27:19Z",
+ "captured_between": [
+  "2021-06-24T14:17:56Z",
+  "2023-05-30T06:43:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-04-20T11:54:54Z",
+   "updated_at": "2021-04-20T11:54:54Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Hello There!</p>\n<p>This is the Hatch Outreach working group audit. Feel free to comment and provide feedback, we would love to learn and improved our working group!</p>\n<p>Thanks Zeptimus for your timing and effort on making this possible.</p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1_vdESKkdaBQ-3ijaz8_olJtUhc7tU6iT_6dobmbYwfk/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1_vdESKkdaBQ-3ijaz8_olJtUhc7tU6iT_6dobmbYwfk/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1_vdESKkdaBQ-3ijaz8_olJtUhc7tU6iT_6dobmbYwfk/edit#gid=0\" rel=\"noopener\" target=\"_blank\">Hatch Outreach Audit</a></h3>\n<p>General Process\n\nGeneral Process\nFor the audit to be successful, the working groups will prepare the documentation needed to fulfill the audit criteria/checklist. The WG will then answer the audit criteria/checklist and get feedback from members...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-21T15:29:36Z",
+   "updated_at": "2021-04-21T15:29:36Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Just a feedback for the financial part. The hatch outreach will probably be dissolved post hatch yeah? So the financial part post hatch should hold no scores IMO, and maybe worth a line mentioning why.</p>\n<p><a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a>  do you think there is a way to separate the future score from the transparency check from now? So wg’s that will be ending don’t suffer with to 0’s in the last section? <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-04-21T15:53:19Z",
+   "updated_at": "2021-04-21T15:53:19Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think that’s a great idea, Livi WGs who are going to be dissolved after just remove that score and dont apply it on the formula so they are not affected in terms of %. And it’s interesting that is happening. now. Lets say some part of the community is not happy with what Edu says on the audit.</p>\n<p>My suggestion would be Edu can just change the Audit integrating your feedback or he (the WG) could say they like how it is and make a vote with the community. I feel used Celeste for signaling would be too much. But I love we have some discussion regarding that topic looks super exiting how we are going to monitor ourselves!!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-04-22T09:38:09Z",
+   "updated_at": "2021-04-22T09:38:09Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>First time I’m looking at the audit. Really nicely done!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-04-22T13:06:07Z",
+   "updated_at": "2021-04-22T13:06:07Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>This is interesting, we were having this conversation with <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a>, because maybe we would change the name and the work of the working group would be just Outreach, shall we keep that mind?</p>\n<p>i like the romantic idea of having the group evolving according the needs, rather than dissappearing and create a new one haha</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-22T16:45:27Z",
+   "updated_at": "2021-04-22T16:45:27Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>we talked briefly about it yesterday in the Hatch Outreach call, about the possibility of a Proposal working group being separate from Hatch Outreach. I think it will be a big thing post hatch. And It seems like a big topic to share attention with the very focused outreach for hatchers now. I’m happy to discuss more and bounce off ideas <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-04-23T11:27:19Z",
+   "updated_at": "2021-04-23T11:27:19Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>That would be lovely Livi! Shall we aim for a 30 minutes hack session?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530064300",
+    "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624141756",
+   "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624141756",
+   "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530064300",
+   "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530064300",
+   "url": "https://forum.tecommons.org/t/hatch-outreach-audit/346"
+  }
+ ]
+}

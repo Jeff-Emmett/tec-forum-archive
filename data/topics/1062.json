@@ -1,0 +1,371 @@
+{
+ "id": 1062,
+ "title": "Reduce Rewards for Regular Paid Contributors",
+ "slug": "reduce-rewards-for-regular-paid-contributors",
+ "category_id": 28,
+ "more_after": 20,
+ "posts_count": 30,
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "created_at": "2022-06-23T20:46:33Z",
+ "last_archived_post_at": "2022-12-05T17:10:45Z",
+ "captured_between": [
+  "2022-08-15T10:52:37Z",
+  "2023-02-04T03:18:23Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-23T20:46:33Z",
+   "updated_at": "2022-06-23T20:46:33Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Following some ideas I threw out in the forum post for <a href=\"https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/6\">open discussion in the reward system</a></p>\n<p>I have put together my proposal to give paid contributors less rewards and unpaid contributors more.</p>\n<p>The amount that we reduce rewards by for contributors would be known as the <code>contributor factor</code></p>\n<p>When we generate the final rewards distribution we apply the <code>contributor factor</code> to those marked as “paid contributors”.</p>\n<p>We then calculate the sum of rewards with the reduction from the ‘contributor factor’ and subtract that sum from the total amount of rewards available. the difference is the excess funds that we can then redistribute to unpaid contributors.</p>\n<p>We take the sum of rewards recipients that are not marked as “paid contributors” and divide our excess funds against this number. This gives us the bonus funds we can equally shell out to each unpaid contributor.</p>\n<p>It’s not a robust solution since even if you contributed alot or a little, each unpaid contributor gets the same bonus, however it does overall shorten the gap between the top recipients and the bottom recipients, it’s a workable “robin hood” style solution. An important consideration here is that we make any modifications at the end to the rewards and not higher up in the system, for if in the end we wanted to add a reputation system on top that we are <strong>not</strong> garnishing paid contributor’s reputation, only their rewards.</p>\n<h2>\n<a class=\"anchor\" href=\"#try-this-1\" name=\"try-this-1\"></a>Try this</h2>\n<p><em>Words are wind</em> though, why not test it out? Check out this spreadsheet to fork and play with (sample from Round 9 Rewards Quant):</p>\n<aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">contributor factor simulation</a></h3>\n<p>final_praise_token_allocation\n\nUSER IDENTITY,contributor?,USER ADDRESS,PRAISE_REWARD,QUANT_REWARD,NR_OF_PRAISES_QUANTIFIED,REWARDBOARD_REWARD,TO RECEIVE,minus contributor factor,total with bonuses (final),contributor...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>*I added a function to lookup for contributor names by discord handle by a separate list and check if they are receiving rewards. If it returns true we apply the factor, if not, we don’t apply the factor, this should make it more practical to implement. <strong>You can see an example list in the sheet labelled <code>contributors</code></strong>.</p>\n<p>All we need is to create a list of regular paid contributors and import it into the spreadsheet everytime we calculate rewards. It would take about 10 minutes of manual work for every quant but I think the Reward Board can handle it.</p>\n<h2>\n<a class=\"anchor\" href=\"#i-propose-2\" name=\"i-propose-2\"></a>I Propose:</h2>\n<p>I would propose we implement this rewards modification for all undistributed quants from the moment of when/if this proposal passes. I propose we <strong>set the contributor factor to 65%</strong>, meaning paid contributors would receive 65% of their original calculated rewards. Bear in mind we can always change this factor later following due governance process.</p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"06895d1dc1d09c4ded46fc75dbad166b\">Yes, let’s try it out!</li>\n<li data-poll-option-id=\"ab6ecfcb4fae06b24f84ea64650ef8e3\">No, I have comments or concerns.</li>\n<li data-poll-option-id=\"d28722ed31d2410f46a95e3b0f143f91\">Abstain</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-24T07:13:37Z",
+   "updated_at": "2022-06-24T07:13:37Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for the work you have done on this <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> ; it really shows that you care about inclusivity and working towards flattening the org structure in meaningful ways. I must admit that although I appreciate the usefulness and intent of the praise system, it did always seem somewhat redundant to have people praising paid contributors for things that it seemed they were already getting paid for. I looked at the spreadsheet and like the idea of distributing more tangible quantities to all contributors. I think it will have an overwhelming positive result on gardens participation and engagement when these contributors realize the signaling power they have with their newly found tokens. The only concern I would have is the potential to erode the commitment of contributors who are being praised for valid reasons outside of their regular paid duties, and diminishing that enthusiasm to complete those irregular tasks…</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-06-24T08:32:23Z",
+   "updated_at": "2022-06-24T08:32:23Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>One of the key learnings from Praisemageddon was that the deductions we made to the praise rewards for paid contributors had the unintended consequence of also reducing governance power because, of course, $TEC currently servers both monetary and governance functions in our Commons.</p>\n<p>As you may recall, there were heated community debates around this which resulted in a <a href=\"https://forum.tecommons.org/t/75-governance-giveback/569\">community vote to restore that governance power</a> via a governance-only TEC token. That way the monetary compensation could be “adjusted” while governance power earned through efforts need not be affected. While that did not happen yet because the TEC doesn’t have developers to do this, that does not mean we should ignore it and repeat past mistakes.</p>\n<p>Can you help me understand how this proposal will not create the same situation?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-24T12:26:06Z",
+   "updated_at": "2022-06-24T12:26:06Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Yes of course, I remember those debates, I remember in fact that the reduction was something drastic like 75% right? So contributors would only receive 25% of what they normally would have.</p>\n<p>A 65% contributor factor means you get 65% of the rewards, not 35%, this is much less severe.  I think giving those rewards to non-paid contributors (without being overly generous) will encourage participation in the community. The Reward System only has so much to dish out so should we spend the $TEC mostly on people who are getting compensated already or to promote engagement from people on the outskirts?</p>\n<p>Looking at our current situation a lot of our core contributors right now did participate in the Hatch and received $TEC from either Impact Hours or by direct investment into the Hatch, but I feel as if our up and coming contributors don’t start right away on the payroll so this would be a great away to get them more governance power.</p>\n<p>One of the new options we have since those debates is to buy TEC, so if paid contributors really wanted governance power they could buy TEC with their salaries/stipends, increasing their governance power.</p>\n<p>On another topic, a reputation token for governance unfortunately would probably remove the only utility the TEC token has at this point so any effort in that direction, even with developers, should be excercised with caution!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-24T14:34:07Z",
+   "updated_at": "2022-06-24T15:16:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Praisemagedon is the reason we are lacking core contributors or at least that’s what I learned and we are playing politics instead of building which was the core goal of the launch of the TEC I don’t really see the point of putting more resources on paid contributors, I really don’t. Why is so important get a small group of people with more and more governance? If we keep doing that fewer people will engage. For this system to work we need <strong>volume</strong> and if we only have 20 people gl with the volume. Giving money to people doesn’t mean they will have governance power, it’s their choice what they do with their rewards they can sell and paid contributors can also buy if they want it’s all about skin in the game. And if u can get a team for 10k or you can get this same team+2 (designers + developers w/e) for the same price what would you choose?</p>\n<p>424 holders</p>\n<p>around 300 hatchers (and some of those with TEC in multiple acc or IH people that didn’t participate in the hatch)</p>\n<p>Those are our numbers with our inclusive community <img alt=\":grimacing:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grimacing.png?v=10\" title=\":grimacing:\"/></p>\n<p>Hatcher’s goal was supposed to protect the commons from rugging the economy so it doesn’t happen like FEI but <strong>if the hatchers are the economy we are playing another game</strong> <img alt=\":alien:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/alien.png?v=10\" title=\":alien:\"/> And I don’t know why we don’t talk about those things. Will not overcome it if we don’t talk and I think public channels are the way.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-06-24T17:08:22Z",
+   "updated_at": "2022-06-24T17:08:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>In one or two sentences, how would you define the problem statement to be solved for?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-24T18:54:00Z",
+   "updated_at": "2022-06-24T18:54:00Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>The majority of the rewards from the reward-system are going to contributors that are already getting paid.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-06-26T10:59:03Z",
+   "updated_at": "2022-06-26T10:59:03Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I voted abstain to this ideal initially.</p>\n<p>Now I’d vote against it.</p>\n<p>For the incoming future we will see how the budgets will be very lean and small for current or future contributors. Cutting now will mean less incentive for the few people who are constant and persistent on the project. Also, the reward system isn’t a significant amount that translate into engage for someone rather new (<em>think on someone new, and the curve/time it takes for them to contribute and get meaningful “reward” from the Praise</em>).</p>\n<p><strong>So I am afraid we will end up with not enough for current contributors nor high incentive enough for new ones, to stay.</strong></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-06-27T08:57:36Z",
+   "updated_at": "2022-06-27T08:57:36Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<aside class=\"quote no-group\" data-full=\"true\" data-post=\"7\" data-topic=\"1062\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>The majority of the rewards from the reward-system are going to contributors that are already getting paid.</p>\n</blockquote>\n</aside>\n<p>If we take this as the problem statement “The majority of the rewards from the reward-system are going to contributors that are already getting paid” then we should be able to add definitions, data and measurements for success.</p>\n<p>What is the criteria for “already getting paid”?</p>\n<ul>\n<li>Does it mean compensation via TEC alone? Or does it include other organizations, for example: Commons Stack, Giveth, General Magic, Token Engineering Academy, LTF, PrimeDAO, 1Hive, cadCAD, etc….</li>\n<li>Is the same “contributor factor” applied to everyone equally regardless of whether they were compensated with 200 or 2000 xDAI for the quantification period?<br/>\nDoes it include bounties as well as role based compensation from Working Groups?</li>\n</ul>\n<p>What is the “Majority” and what is the target?</p>\n<ul>\n<li>What does the data say in terms of percentages? We’ve had a few rounds now. What percentage of the rewards was distributed to whatever definition of “already getting paid” being used? Majority means more than 50%. What, in your opinion, should the target be? How will you know when we have “fixed” the problem in the problem statement?</li>\n</ul>\n<p>Some questions worth considering about whether or not this is even the right problem statement to solve for: What are some of the second order effects we should expect? What other patterns are found in the data that can be a jumping off point for a solution?</p>\n<p>In principle I very much support improving rewards though it’s a fundamental enough piece of our model to be worth more analysis that this solution currently provides.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-06-27T14:57:38Z",
+   "updated_at": "2022-06-27T14:57:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I support this idea as a way to encourage volunteer contributions, which will be increasingly important going forward. But for it to be fair, it cannot be a binary switch between contributor/non-contributor. This is the point that Tam is making:</p>\n<aside class=\"quote no-group\" data-post=\"9\" data-topic=\"1062\" data-username=\"Tamara\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tamara/40/67_2.png\" width=\"20\"/> Tamara:</div>\n<blockquote>\n<p>Is the same “contributor factor” applied to everyone equally regardless of whether they were compensated with 200 or 2000 xDAI for the quantification period?</p>\n</blockquote>\n</aside>\n<p>And yes, same with bounties.</p>\n<p>Also note that in the budget environment we’re going into a contributor one month may not be the next month.</p>\n<p>I wish I had a good solution - maybe some sort of compensation index tied to a discount table?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-27T22:42:39Z",
+   "updated_at": "2022-06-27T22:42:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I ran the numbers against some of the current quants and while I didn’t have a full list of contributors from the people who I did know received payments from the TEC (mostly stewards) It ranges from at least 40-50%. So not a majority from my limited knowledge but likely it is over 50%.</p>\n<p>A lot of the resistance here is I think coming from a black and white perspective, I’m not proposing that we take away the rewards but we give a bit less, 35% less, and give a bit more to the people who aren’t getting paid.</p>\n<p>I do not have an index of how much people are getting paid and I think that would only make any changes more contentious to the system.</p>\n<p>We want to attract newcomers and grow our community, this presents a great manner to kick a lil’ sumthin’ extra to new people who show up and put work into the TEC. I don’t think anyone would disagree that we need some new faces around here to takes this commons to new heights!</p>\n<p><a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> If you think the reduction is too steep it can always be heightened, do you not agree with the method in principle or in the amount reduced?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-06-28T01:59:10Z",
+   "updated_at": "2022-06-28T01:59:10Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’m overall in favor of this, however I certainly agree with some of the comments, particularly <a class=\"mention\" href=\"/u/tamara\">@Tamara</a>’s - IMO it’s a matter of definition, data and possibly an advantage (or disadvantage) inherent to the praise system.</p>\n<aside class=\"quote no-group\" data-full=\"true\" data-post=\"7\" data-topic=\"1062\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>The majority of the rewards from the reward-system are going to contributors that are already getting paid.</p>\n</blockquote>\n</aside>\n<p>We’ve got to think about how unlike other reward systems, praise is really culture intensive and so that must be taken into account where making any changes. Depending on where you stand this is nothing but expected from a system that’s based on gratitude, can’t you be grateful for someone’s contributions even if they’re being paid for?</p>\n<p>Couldn’t tweaking the system to make up for some contributor’s compensation have a negative effect on the positive nature of praising?</p>\n<p>Is there something that could be done at the cultural level to improve whatever this proposal is looking for? (Maybe trying to somehow make people acknowledge more contributions from smaller folks will bring their praise up, thus leveling to some extent with paid and bigger contributors without having to rely on a “regular paid contributor” metric which is likely to be somewhat arbitrary and subjective)</p>\n<p>Now, putting that aside, this aims to solve a issue that may not exist at all(? I remember someone saying that the amount shouldn’t be significant, but fixing the distribution implies that it is, so something here isn’t making that much sense.</p>\n<p>It is, again, a matter of definition.</p>\n<p>What’s the expected outcome of the reward system?</p>\n<p>I’ll finish saiying that we all seem to like reward systems, but we can’t really prove their effectiveness (see <a href=\"https://forum.makerdao.com/t/sourcecred-report/13277\" rel=\"noopener nofollow ugc\">MakerDAO’s detailed report on SourceCred</a>), I’ll ask to defend Praise’s cultural benefit at any cost, I believe it holds more power than we may even realize and trying to fix something we aren’t sure is an issue may have undesired effects. This at least until we come to an agreement on the definition and scope.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-06-28T09:26:26Z",
+   "updated_at": "2022-06-28T09:26:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group quote-modified\" data-post=\"11\" data-topic=\"1062\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>We want to attract newcomers and grow our community, this presents a great manner to kick a lil’ sumthin’ extra to new people who show up and put work into the TEC. I don’t think anyone would disagree that we need some new faces around here to takes this commons to new heights!</p>\n<p><strong>I agree on this.</strong></p>\n<p><a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> If you think the reduction is too steep it can always be heightened, do you not agree with the method in principle or in the amount reduced?</p>\n</blockquote>\n</aside>\n<p>I think that this would work on an ideal scenario of high engagement - not bear market situation. I think that in the current context (without a focus point or a clear service) taking away incentives from the current contributors that have stayed with us, seems counterintuitive.</p>\n<p>Also Mitch, don’t you think this kind of conversations, would be nice to have them at TEC Labs?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-06-28T11:40:27Z",
+   "updated_at": "2022-06-28T11:40:27Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"1062\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>We want to attract newcomers and grow our community, this presents a great manner to kick a lil’ sumthin’ extra to new people who show up and put work into the TEC. I don’t think anyone would disagree that we need some new faces around here to takes this commons to new heights!</p>\n</blockquote>\n</aside>\n<p>This is making an assumption that we don’t have many new people engaging because our financial incentive isn’t attractive, and that adding a few tokens would be enough to attract and retain new folks.</p>\n<p>I agree we need a wider spread of engagement but I don’t see the deduction being effective for it. I’m afraid it would have more unintended consequences like lowering the motivation of committed contributors. No one is making a lot of money in the TEC, the salaries the DAO can provide are already low for the amount of work and dedication people put in. To have the reward system as a bonus in the end of the month is a welcoming thank you in my opinion.</p>\n<p>Once our common pool is more abundant and proposals are flowing we will lose this feeling of “only a few people are contributing” and the reward system will balance out as well, there will be more “real” opportunities for engagement.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2022-06-30T01:26:55Z",
+   "updated_at": "2022-06-30T01:26:55Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>If we do anything to reduce rewards for regular paid contributors, then we should at the same time figure out how to pay them more.</p>\n<p>I agree its worthwhile to examine if our rewards systems are acting as intended, and it could be useful to distribute more rewards to people who aren’t currently as involved, but I am quite concerned about doing so at the expense of our most valuable contributing members.</p>\n<p>Since we are in cryptocurrency, I would lean more towards creating a fungible token with no monetary value, but can add use-cases for later.</p>\n<p>Then those tokens can be widely distributed as an incentive and to draw people in.</p>\n<p>This way, we can reward more participants without negatively impacting our most active contributors.</p>\n<p>That is just an example, but what I really mean is that the problem should be addressed more wholistically so as to not tie our need for increased engagement with taking away from the people who are giving most.</p>\n<p>I see it from the other side.  Thinking of it in analogy of investing, better to invest more in a sure thing than to “diversify” which is a method of hedging your bets against eachother.</p>\n<p>I’d rather see more going to the people who give the most energy, which would encourage others who are interested in participating that their time would be valued.</p>\n<p>Instead, I fear you are spreading that energy too thin for the desired result.</p>\n<p>For example,</p>\n<p><strong>another solution is to give a new  token (non-monetary high supply\\fungible) for praise, and don’t give TEC for praise, at all… instead take that from the praise fund and give it to our paid contributors.</strong></p>\n<p>this is a dynamic I see in sucessful projects. There is a lower supply store of value token + high supply rewards token. This way its easy to be generous without debasing your currency or dilluting your stakeholders.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-12-04T21:51:14Z",
+   "updated_at": "2022-12-04T21:51:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>What happened with this proposal? Did it die? I think it is important that the people who are volunteering get a sort of multiplier for their contributions. The people who are paid are doing their job, and doing it well, they deserve something for sure! The people that just show up and contribute tho, they are heroes, they deserve even more!</p>\n<p>Multiply their rewards! <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-12-05T13:47:46Z",
+   "updated_at": "2022-12-05T13:47:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>There was a lot of pushback on this idea and not a lot of enthusiasm - but I think since <a class=\"mention\" href=\"/u/rex\">@rex</a> published some data to back it up -  <a href=\"https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167\">A Report on the distributive impact of Praise. Part 1</a> - I think there is more appetite for a solution akin.</p>\n<p>I will try to think of something clever over the course of the next few weeks.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-12-05T15:32:44Z",
+   "updated_at": "2022-12-05T15:32:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>As part of what we agreed to in the coordination team proposal, we’re now working through project management processes for helping to sync and coordinate work across the commons in a networky, non-bureaucratic way. Praise came up a bunch in feedback on the proposal. Not everything can or should be done by the coordination team, and we need good ways to recognize work that falls outside of the TEC’s budgeted wages.</p>\n<p>Tuning Praise to focus on that seems like the right path. In my view, it’s critical to ensuring voluntary contributions to the work of the commons – which is how we scale impact without having everyone on wages.</p>\n<p>I definitely have some thoughts here and I know that <a class=\"mention\" href=\"/u/maxwe11\">@Maxwe11</a> and <a class=\"mention\" href=\"/u/bear100\">@bear100</a> are interested in helping think this through, <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>. Maybe we grab some time to jam on this this week or next?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-12-05T16:46:07Z",
+   "updated_at": "2022-12-05T16:46:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Well I took another stab at my proposed spec and improved it a bit more. <img alt=\":hocho:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hocho.png?v=10\" title=\":hocho:\"/></p>\n<p>So in this iteration similar to the original one I posted we would decide a contributor factor which would reduce the amount of praise rewards for contributors that we indicate on a list. (i.e a factor of 65% would multiply their praise rewards by 0.65)</p>\n<p>the subtracted rewards are then distributed to non-contributors taking into account their share of the praise rewards that was assigned to non-contributors</p>\n<p>we then take this new amount and add it with any reward board and/or quantifier rewards to get their final total of rewards to receive for a given round.</p>\n<p>For example you can see how this plays out using rewards data back from round 11(?)</p><aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">contributor factor simulation</a></h3>\n<p>final_praise_token_allocation\n\nUSER IDENTITY,contributor?,USER ADDRESS,PRAISE_REWARD,minus contributor factor,total with factor (final),QUANT_REWARD,NR_OF_PRAISES_QUANTIFIED,REWARDBOARD_REWARD,TO...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>If you look in the spreadsheet let’s look at how this plays out for chuygarcia and griff as examples</p>\n<blockquote>\n<p><strong>chuy</strong> at the time was leading comms so he is on the contributors list - a separate sheet we import and use for reference - his praise rewards are multiplied by 0.65 - going from 175 → 114 in praise rewards - we add in his rewardboard payment of 14.07, unmodified,  for a total of 128 total rewards</p>\n<p><strong>griff</strong> was not a paid contributor but got a lot of praise!  his estimated praise rewards was 143 and we know the total amount of extra rewards subtracted from paid contributors for this round is 554.63</p>\n<p>the total amount of praise rewards for non-contributors is 1792 - compared against griff’s 143 we derive his share %  as 8.03% - apply this to the extra rewards pool of 554.63 we assign him an extra ~44 reward tokens, bringing his new total to 188 tokens.</p>\n</blockquote>\n<p>I think this provides a great ‘weighted’ solution so non-contributors heavily praised get rewarded proportionally to non-contributors who were barely praised at all.</p>\n<p>A further way to refine things would be if we wanted to create tiered contributors - being that do we want to provide the same reduction factor for someone who works 40 hours a week vs someone who works 5? Another decision to make but I think this modification is a great MVP to dynamically reduce praise rewards for paid contributors, while not actually reducing the total amount of rewards we distribute per round.</p>\n<p>Please fork and play with your own copy of the spreadsheet I shared.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-12-05T17:10:45Z",
+   "updated_at": "2022-12-05T17:10:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I think this is a great start. One thing I’m unsure about is reducing rewards for contributors who’s paid work does not overlap with Praise. Correct me if I’m wrong, but the original idea was based on the situation where folks were getting Praised for the same things that they were getting some sort of stable pay for. However, for example for the core team, a potentially significant portion of that paid work may not result in Praise, however those same folks may be contributing in other ways that would lead to them being praised for things they are not getting paid for. Does this disincentivize that type of contribution?</p>\n<p>Another approach may be to identify ways to Praise contributions that aren’t being adequately captured in the current Praise approach. This would overall increase the Praise pool, ideally more accurately capture the engagement of the community, and further broaden the reach of Praise. This could also be done in conjunction with the approach above.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204031823",
+    "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815105237",
+   "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815105237",
+   "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204030022",
+   "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204030022",
+   "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204031823",
+   "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204031823",
+   "url": "https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2"
+  }
+ ]
+}

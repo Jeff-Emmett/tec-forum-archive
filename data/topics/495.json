@@ -1,0 +1,47 @@
+{
+ "id": 495,
+ "title": "Asset Token - Transferability",
+ "slug": "asset-token-transferability",
+ "category_id": 27,
+ "posts_count": 0,
+ "created_at": "2021-07-12T21:25:15.364Z",
+ "last_posted_at": "2021-07-12T21:25:15.585Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-07-12T21:25:15Z",
+ "captured_between": [
+  "2023-02-04T02:25:47Z",
+  "2023-02-04T02:25:47Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-07-12T21:25:15Z",
+   "updated_at": "2021-07-29T09:46:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Transferability</strong></p>\n<p><strong>What is Transferability?</strong></p>\n<p>The Transferability parameter defines if the token can be transferred freely by the user or not. Transferable tokens can be sent or exchanged anywhere, while non-transferable tokens can only be minted and burned through the bonding curve contract.</p>\n<p><strong>Implications &amp; Parameter Options</strong></p>\n<p>You will have the option to set the Transferability parameter to yes or no. Yes will allow the token to be freely transferable, and No will limit the transferability of the token to the bonding curve contract.</p>\n<p>Transferable tokens work like regular money. They can be moved across accounts, given to friends, sold in an exchange, or even sent to ethereum mainnet using the xDAI bridge. There are very few limits to what you can do with the token, and innovation around the use of the token can be utilized outside of the boundaries (and control!) of the DAO.  The major benefit of making the token transferable is that it can be bought and sold on secondary markets such as other exchanges, allowing for easier access to the Commons economy.</p>\n<p>On the other hand, non-transferrable tokens work more like company shares tied to a specific ethereum address. Making a token non-transferable limits the design space considerably, but also offers certain perks: Since it makes the bonding curve unavoidable, it guarantees that on every buy/sell order for the token a corresponding tribute amount gets collected. It can also let the token serve as a kind of ID/reputation system, since every interaction is easily traceable.  An additional benefit is that it makes modeling the TEC economy much easier.</p>\n<p>An important detail to note is that if the token is non-transferable, that doesn’t necessarily mean that it will be forever limited to work ONLY with the original bonding curve. It is possible to whitelist additional uses in the future, but they will need to be specified and approved by the DAO beforehand.</p>\n<p><strong>Related Parameters to consider when defining Transferability:</strong></p>\n<p>[Exit Tribute] and [Entry Tribute]</p>\n<p><strong>Suggested Range</strong><br/>\nSince this is a fundamental choice to your economic design for the TEC, it should probably be addressed first.  While there are multiple benefits and downsides to these choices, it is up to your justifications in design.  Most proposals will have this parameter set to YES, so if you decide to make the token non-transferrable, make it a focal-point of your design!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204022547",
+    "url": "https://forum.tecommons.org/t/asset-token-transferability/495"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230204022547",
+   "url": "https://forum.tecommons.org/t/asset-token-transferability/495"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204022547",
+   "url": "https://forum.tecommons.org/t/asset-token-transferability/495"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": 484,
+ "title": "Tao Voting - Vote Duration",
+ "slug": "tao-voting-vote-duration",
+ "category_id": 26,
+ "posts_count": 0,
+ "created_at": "2021-07-12T15:57:46.442Z",
+ "last_posted_at": "2021-07-12T15:57:46.662Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-07-12T15:57:46Z",
+ "captured_between": [
+  "2022-10-06T16:44:51Z",
+  "2022-10-06T16:44:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-07-12T15:57:46Z",
+   "updated_at": "2021-10-22T14:59:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#what-is-vote-duration-1\" name=\"what-is-vote-duration-1\"></a>What is Vote Duration?</h2>\n<p>This is the voting duration (usually in days) of a proposal in Tao Voting. During this time TEC holders are allowed to vote on the proposal, users cannot take back their vote and users are only allowed to vote ONCE.</p>\n<p>Vote Duration in Disputable Voting has other voting period sections that exists within it:  <strong>Quiet Ending Period</strong> and  <strong>Delegated Voting Period</strong>. The Quiet Ending Extension, if triggered, will increase the Vote Duration by the duration of the QEE, for however many times the QEE triggers.</p>\n<p>Vote Execution Delay is not counted as part of the Vote Duration</p>\n<h3>\n<a class=\"anchor\" href=\"#considerations-2\" name=\"considerations-2\"></a>Considerations</h3>\n<p>It is important to allow a sufficient voting window for all users in all timezones with varying levels of mental bandwidth to be able to visit and review proposals.</p>\n<h3>\n<a class=\"anchor\" href=\"#suggested-range-3\" name=\"suggested-range-3\"></a>Suggested Range</h3>\n<p>3 to 9 days</p>\n<h3>\n<a class=\"anchor\" href=\"#related-parameters-4\" name=\"related-parameters-4\"></a>Related Parameters</h3>\n<p>Support Required<br/>\nMinimum Quorum<br/>\nDelegated Voting Period<br/>\nQuiet Ending Period<br/>\nQuiet Ending Extension<br/>\nVote Execution Delay</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221006164451",
+    "url": "https://forum.tecommons.org/t/tao-voting-vote-duration/484"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006164451",
+   "url": "https://forum.tecommons.org/t/tao-voting-vote-duration/484"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006164451",
+   "url": "https://forum.tecommons.org/t/tao-voting-vote-duration/484"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": 1086,
+ "title": "Funding Request for Praise System Rewards Distribution",
+ "slug": "funding-request-for-praise-system-rewards-distribution",
+ "category_id": 7,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2022-07-15T20:30:07Z",
+ "last_archived_post_at": "2022-08-10T19:10:45Z",
+ "captured_between": [
+  "2022-08-15T10:39:59Z",
+  "2022-08-15T10:39:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2022-07-15T20:30:07Z",
+   "updated_at": "2022-07-15T20:30:07Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#proposal-description-1\" name=\"proposal-description-1\"></a>Proposal description</h3>\n<p>To continue distributing rewards through our Praise Reward System, the Reward Board needs to top up its TEC treasury, since our current funds only cover rewards up until the September payouts. Therefore, we are requesting 20k xDai to guarantee funding until the end of the year. These xDai will be converted into TEC through the bonding curve app.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-2\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-2\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>Praise is an integral part of how the TEC rewards its contributors. It also powers the culture of gratitude which lies at the heart of this DAO.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-3\" name=\"amount-requested-only-for-conviction-voting-3\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>20000 wxDai. This should allow us tu buy around 12500 TEC through the bonding curve at current prices, which together with the remaining treasury would cover the distribution of 134 daily TEC rewards until the end of December.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-4\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-4\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>These funds will used to buy TEC on the bonding curve. Those tokens will stay in the Reward Board Aragon DAO, to be distributed through our Praise Reward System.<br/>\nRecipients will be active community contributors who received praise, the quantifiers that evaluated said praise and the rewardboard, which guides the process and handles the payouts/communication. Details about the distribution of funds can be found <a href=\"https://forum.tecommons.org/t/rewards-budget-distribution/992\">here</a></p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-5\" name=\"what-does-success-look-like-5\"></a>What does success look like?</h3>\n<p>Success looks like having enough TEC funds to pay out rewards during the next quarter.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-6\" name=\"how-will-you-share-progress-6\"></a>How will you share progress?</h3>\n<p>Every distribution round will be announced with a post on the forum summarizing the results of the round, allowing for 48h discussion before proceeding to payouts.</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-7\" name=\"project-information-if-applies-7\"></a>Project information (if applies)</h3>\n<p><a href=\"https://aragon.xdai.blossom.software/#/rewardboardtec/\" rel=\"noopener nofollow ugc\">Rewardboard DAO</a><br/>\n<a href=\"https://forum.tecommons.org/t/rewards-budget-distribution/992\">Rewards Distribution Budget</a></p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h3>\n<p>The Reward Board, currently consisting of:<br/>\n-Chuy<br/>\n-Mitch<br/>\n-Nuggan<br/>\n-Kristofer<br/>\n-Livia<br/>\n-Mateo<br/>\n-Vyvy-vi<br/>\n-Zeptimus</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815103959",
+    "url": "https://forum.tecommons.org/t/funding-request-for-praise-system-rewards-distribution/1086"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-07-18T16:36:41Z",
+   "updated_at": "2022-07-18T16:36:41Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yeah! thanks for posting this, let’s get the ball rolling!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815103959",
+    "url": "https://forum.tecommons.org/t/funding-request-for-praise-system-rewards-distribution/1086"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-08-10T19:10:45Z",
+   "updated_at": "2022-08-10T19:10:45Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I took the liberty to pass this onto the Gardens for Funding!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/32\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/32</a></p>\n<p>For those curious the recipient of funding is the Vault/Agent in the Reward Board Aragon DAO:<br/>\n<a class=\"onebox\" href=\"https://aragon.1hive.org/#/rewardboardtec/0x2723875bff110974e712019e4ab631dcac97910d/\" rel=\"noopener\" target=\"_blank\">https://aragon.1hive.org/#/rewardboardtec/0x2723875bff110974e712019e4ab631dcac97910d/</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815103959",
+    "url": "https://forum.tecommons.org/t/funding-request-for-praise-system-rewards-distribution/1086"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815103959",
+   "url": "https://forum.tecommons.org/t/funding-request-for-praise-system-rewards-distribution/1086"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815103959",
+   "url": "https://forum.tecommons.org/t/funding-request-for-praise-system-rewards-distribution/1086"
+  }
+ ]
+}

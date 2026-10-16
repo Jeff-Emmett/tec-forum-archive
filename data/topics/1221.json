@@ -1,0 +1,182 @@
+{
+ "id": 1221,
+ "title": "Proposal to Sideline Conviction Voting",
+ "slug": "proposal-to-sideline-conviction-voting",
+ "category_id": 29,
+ "posts_count": 7,
+ "created_at": "2023-03-20T21:09:32.556Z",
+ "views": 36,
+ "last_posted_at": "2023-03-26T19:59:13.542Z",
+ "tags": [
+  "funding-proposal",
+  "governance"
+ ],
+ "highest_post_number": 4,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2023-03-30T16:12:17Z",
+ "captured_between": [
+  "2023-03-21T22:52:17Z",
+  "2024-07-24T16:08:19Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-03-20T21:09:33Z",
+   "updated_at": "2023-03-26T19:54:08Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p><strong>NOTICE: AMENDMENT TO THIS PROPOSAL</strong><br/>\nAfter Discussion with several community members, it was decided that we should place a set date of expiration for Conviction Voting if this proposals were to pass.  Such a date would allow for transparency for the community at exactly when this transition would occur, and potential proposals could plan accordingly.  The date agreed upon for this proposal is April 20th.</p>\n<p>This means:  All proposals will need to pass through CV by April 20th or they will risk getting stuck without passing.</p>\n<p><strong>Proposal to Sideline Conviction Voting in the TEC</strong></p>\n<p>This proposal has been developed in parallel with a larger set of proposals that are all part of a synchronized strategy to focus our mission and to create a path toward a more sustainable economic future. Please refer to the “<a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">Proposals Roadmap</a>” forum post which serves as a contextual outline for this broader strategy.</p>\n<p><strong>Context</strong></p>\n<p>The TEC has performed a wide range of experiments within governance, funding, culture, and engineering. Each experiment often comes with a review period to analyze whether or not a tool, process, or method is effective within the context of the Commons and its current goals and initiatives. The evolution of purpose within a Commons is an observation that Elinor Ostrom referenced through her investigations on the use of Adaptive Governance, referring to the ability of individuals and organizations to modify the scope and structure of the institutions that shape their decisions and behavior.</p>\n<p>As we continue to utilize her work to guide us in the Stewardship of the TEC, this proposal will be reviewing the use of Conviction Voting and providing an argument for restricting its use as we continue to develop our governance system and provide a more sustainable path for our economic future.</p>\n<p><strong>Understanding the Problems</strong></p>\n<p>The governance process within the TEC has been managed through three different voting mechanisms: off-chain <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/governance/voting-tools-and-methods/snapshot\">Snapshot Voting</a> for cultural/ideation decisions, <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/governance/voting-tools-and-methods/tao-voting\">Tao voting</a> for smart-contract parameter changes, and <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/governance/voting-tools-and-methods/conviction-voting\">Conviction Voting</a> for the management of our common pool.</p>\n<p>For those of you that need a refresher on how Conviction Voting works, there are good resources <a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">here</a>, <a href=\"https://medium.com/commonsstack/conviction-voting-f6f83a5d392a\">here</a>, and <a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">here</a>. The idea for Conviction Voting is to provide a method for a continuous aggregation of community preferences among a large set of proposals that could better guide funding decisions.</p>\n<p>While the parameters of Conviction Voting have remained the same, the reality of the funding environment has changed dramatically since the TEC’s launch and we have learned a great deal about the dynamics of putting Conviction Voting to work. However, as a community, we have done nothing to adjust to these realities.</p>\n<p>Additionally, there are both contextual and procedural concerns associated with the use of Conviction Voting that limits our much needed control over the common pool at this early stage of our development.</p>\n<p><em>The justification for sidelining our CV module is centered around two broad observations:</em></p>\n<p><strong>1.) Inflows &amp; Market Conditions</strong></p>\n<p>The Conviction Voting Module was designed in part, as a method to accelerate the flow of funds from the organization and solve the problem of well-funded DAOs sitting on their treasury. For the TEC, this design has not come to fruition largely due to our lack of inflows into the common pool via income streams and/or $TEC token utility. T</p>\n<p>The current bear market conditions are exacerbating this problem and placing the common pool at risk of depleting itself very quickly. The Conviction Voting module is permissionless and allows for proposals to remain in the gardens for as long as necessary until they are passed. This feature of Conviction voting is by design and under the right conditions provides a sustainable method for distributing common pool funds.</p>\n<p>However, under current market conditions, and our lack of consistent inflows into the common pool, the use of Conviction Voting has forced the need to have more strict control over access to these funds while we continue to develop utility for the $TEC token and work to replenish the common pool. This need is essential for the longevity of the TEC and its mission.</p>\n<p><strong>2.) Conviction Voting Processes</strong></p>\n<p>The reality of our current funding environment has also exposed some technical and procedural concerns associated with Conviction Voting that have allowed proposals to be passed very easily without any form of mitigating options.</p>\n<p>In an ideal environment, we would see many proposals entering the gardens at one time, and token-holders would have the option of placing their conviction behind the proposal of their choice. The time it takes for a proposal to pass depends on several parameters including the amount of tokens staked behind the proposal, the Effective Supply (the cumulative amount of $TEC tokens actively voting on proposals), and the amount of funds being requested.</p>\n<p>The Effective Supply parameter in particular creates significant challenges when there is a lack of proposals available to vote on, as it dictates the rate at which conviction grows. The more tokens voting, the longer it takes for a proposal to pass. The inverse is also true, as we have seen, allowing for single proposals with minimal support to be passed very quickly when the effective supply is low.</p>\n<p>In addition to this issue we hold concerns regarding the validity of proposals that remain open indefinitely with no support, a lack of enthusiasm around voting behaviors, and the attention required among token-holders to utilize our Conviction Voting module effectively.</p>\n<p>For those of you who want to take a look at how CV works when you alter these parameters, we encourage you to <a href=\"https://config.tecommons.org/config/4\">play around with the configuration dashboard.</a></p>\n<p><strong>Our Proposal</strong></p>\n<p>While we fully support and intend to reintroduce the use of Conviction Voting in the future, we are proposing to make our CV module ineffective at allocating funds from the common pool in the short-term until we start to see a steady inflow of funds replenishing the common pool. We will do this by reducing the Spending Limit parameter to 0, which removes the possibility for common pool fund distribution through CV.</p>\n<p><em>What does this mean for funding proposals?</em></p>\n<p>The new <a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217\">Token Engineering Grants Program</a> will allow the TEC to fund smaller-scale public goods. This new grant-making program builds on Gitcoin’s Allo protocol, enabling the TEC to run its own quadratic funding rounds and use our limited common pool funds as a matching fund stimulus for catalyzing donations from a much broader community.</p>\n<p>We will then use Tao Voting as the main method for making larger funding requests from the common pool. Tao Voting will make it a bit more challenging to pass proposals and will skew toward fewer and bigger proposals that will require some community organizing and stakeholder engagement in order to pass. Examples of these types of funding include operating budgets for the Token Engineering Academy and the TEC itself.</p>\n<p>Unlike Conviction Voting, the Tao Voting module provides a time-boxed, “Yes/No” voting template with the following parameters:</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-support-required/486\">Support Required</a>: 85%</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-minimum-quorum/485\">Minimum Quorum</a>: 10%</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-vote-duration/484\">Vote Duration</a>: 5 Days</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-delegated-voting-period/487\">Delegated Voting Period</a>: 3 Days</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/488\">Quiet Ending Period</a>: 3 Days</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/488\">Quiet Ending Extension</a>: 2 Days</p>\n<p><a href=\"https://forum.tecommons.org/t/tao-voting-execution-delay/489\">Execution Delay</a>: 0.5 Days</p>\n<p>While Tao Voting has always been able to allocate funds from the common pool, its normalized use-case was to modify our smart-contracts, and thus its parameters weren’t necessarily chosen to optimize for funding requests. Due to its change in primary use-case, we will need to evaluate how these parameters work with a set of initial proposals.</p>\n<p>We intend to use this proposal along with the other proposals within the “<a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">Proposals Roadmap</a>” thread to determine whether or not we maintain these parameters, change them, or create a separate instance of Tao Voting for the purpose of funding requests.</p>\n<p><strong>Execution of this Proposal</strong></p>\n<p>Once we have gone through the advice process (this forum post will remain up for discussion for a period of 5 days), we will set-up a series of on-chain proposals.</p>\n<p>As the first step, we will use the <a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217\">Token Engineering Grants Program</a> funding proposal as a test of our Tao Voting module. This will allow us to make sure all participants on the coordination team are capable of submitting a Tao proposal, and serve as the first test to see how the Tao Voting module works for allocating funds from the common pool using our existing parameters.</p>\n<p>The second step, and the one being approved by this proposal, will be to change the Spending Limit Parameter in the Conviction Voting module to 0. This move will effectively shut off Conviction Voting for allocating funds from the common pool and prevent any additional submissions of CV proposals as we make the shift to Tao Voting.</p>\n<p>The next step will be to run three more Tao Voting tests, using the other proposals outlined in the “<a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">Proposals Roadmap</a>”. Once all of these have been successfully executed, the coordination team will assess the experience and come back to the community with recommendations for tuning Tao Voting parameters based on what we have learned using it to govern funding decisions for the TEC. The Coordination Team will then also use the tests to provide the community with a process for submitting funding requests through Tao Voting.</p>\n<p>Thank you for your time and attention!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-03-20T23:11:32Z",
+   "updated_at": "2023-03-20T23:11:32Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I think this is a great idea… CV would be great if we had a lot of proposals… but with so few, it doesn’t work as intended. Moving the public good projects to QF (which can get funded via general Tao Voting votes) and the operations to Tao Voting is a better solution.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-21T16:14:15Z",
+   "updated_at": "2023-03-21T16:14:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1221\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>we have learned a great deal about the dynamics of putting Conviction Voting to work.</p>\n</blockquote>\n</aside>\n<p>would be great to have a link here to the discourse and/or data if there is, e.g. all passed proposals, $TEC in CV, number of voters, xDAI released for each; for fellow curious TEs who might get inspired to improve.</p>\n<p>Great post btw <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> ! highlighting experiment-driven design  &amp; development.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-21T16:17:43Z",
+   "updated_at": "2023-03-21T16:17:43Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"1221\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>Moving the public good projects to QF</p>\n</blockquote>\n</aside>\n<p>Just to make sure no misunderstandings arise - anything that is funded through TE Commons: is still also public good, i.e. open source, available for free to use, add value, share back with the commons.<br/>\ncorrect?</p>\n<p>The QF via Allo is for smaller scale, less strategic, or grassroots TE community projects where strategic impact is not as obvious as education for TE Knowledge commons.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-03-26T19:59:13Z",
+   "updated_at": "2023-03-26T19:59:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/sem\">@sem</a> This proposal sets out a plan to alter the Conviction Voting module by reducing the spending limit to 0.  From what I understand, the spending limit parameter is in fact a derivative of several parameters, and could essentially be brought to 0 by defining the Max Ratio (β) - a parameter between 0 and 1 to Zero.  However, instead of altering the fundamental mathematics of the Conviction Threshold, is there a way we can just direct the address of our CV module away from the Common Pool to an arbitrary EOA with no funds?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "lee0007",
+   "name": null,
+   "created_at": "2023-03-29T22:32:44Z",
+   "updated_at": "2023-03-29T22:32:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Do we know when this proposal moves to vote, please?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-30T01:00:51Z",
+   "updated_at": "2023-03-30T01:00:51Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>iirc, because of some of the competing proposals this was delayed to somewhere around the 20th of April? Please confirm <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-03-30T16:12:17Z",
+   "updated_at": "2023-03-30T16:12:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/lee0007\">@lee0007</a> Yes.  The CV will shut off on April 20th (pending successful vote), which means the vote will be up slightly before that time (projecting April 13th).  If there is a proposal that intends to use CV, please do contact us, or start a forum thread.  If there is not enough time for a proposal to pass through the CV module, we will have our 1st Round of our Grant Program as well as the use of TAO voting for funding opportunities.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724160819",
+    "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230321225217",
+   "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530081440",
+   "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530081440",
+   "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724160819",
+   "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724160819",
+   "url": "https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7"
+  }
+ ]
+}

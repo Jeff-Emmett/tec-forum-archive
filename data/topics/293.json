@@ -1,0 +1,110 @@
+{
+ "id": 293,
+ "title": "Use Case Based Token Analytics Framework",
+ "slug": "use-case-based-token-analytics-framework",
+ "category_id": 28,
+ "posts_count": 3,
+ "created_at": "2021-03-18T16:35:28.338Z",
+ "last_posted_at": "2021-05-20T19:43:54.257Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2021-05-20T19:43:54Z",
+ "captured_between": [
+  "2021-04-20T12:57:57Z",
+  "2022-05-20T07:01:21Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Shermin",
+   "name": null,
+   "created_at": "2021-03-18T16:35:28Z",
+   "updated_at": "2021-12-02T14:56:51Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#proposal-title-token-model-framework-1\" name=\"proposal-title-token-model-framework-1\"></a>Proposal Title: Token Model Framework</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p>We are proposing to develop an analytics framework that will be applied to analysing existing token systems to help us identify common patterns for the development of future token systems. This framework could be a TE building block that precedes the simulation phase in cadCAD. Similar to a  business model canvas that served as a useful tool for Web2 business development, A token model framework could serve as an analytics framework for conceptualising Web3 based token systems.</p>\n<p><strong>Proposal Details:</strong></p>\n<p>One of the greatest challenges in TE is to identify how to design a token system. The Web3 community still lack best practices, analytic frameworks or a token modeling framework. While cadCad is a useful tool to simulate token economies, this tool could serve as a decision framework for how to model the tokenised economy i would like to simulate. The aim of this framework is to:</p>\n<ul>\n<li>Identify properties of tokens and their technical, legal, economic and ethical implications</li>\n<li>Develop and analytics framework to evaluate token system best practices</li>\n<li>Based on the outcome of this evaluation, mutual patterns of different token economic systems will be identified</li>\n<li>Develop a decision tree framework for conceptualising token systems.</li>\n</ul>\n<p>The framework builds on prior research and publications such as:</p>\n<ul>\n<li><a href=\"https://medium.com/token-kitchen/how-do-design-a-token-system-6a19e73c56f3\" rel=\"noopener nofollow ugc\">How to Design a Token System</a></li>\n<li><a href=\"https://medium.com/token-kitchen/purpose-driven-tokens-51334d278c32#:~:text=Purpose-driven%20tokens%20incentivize%20individual,value%20creation%20without%20traditional%20intermediaries.\" rel=\"noopener nofollow ugc\">Purpose-driven Tokens</a></li>\n<li><a href=\"https://epub.wu.ac.at/7782/1/Foundations%20of%20Cryptoeconomic%20Systems.pdf\" rel=\"noopener nofollow ugc\">Foundations of Cryptoeconomic Systems</a></li>\n</ul>\n<p>Output Format:</p>\n<ul>\n<li>An analytics tool</li>\n<li>Analysis of token best practices in text format presented as a series of blog posts, maybe bundled into a book (under a creative commons licence)</li>\n</ul>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<em>How long do you think it will take to deliver on your proposal</em><br/>\n6 months</p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong><br/>\nMain contributor:<br/>\n<strong>Names, usernames, and/or relevant social links for team members (Twitter, Github, TEC Forum, etc.):</strong><br/>\nShermin Voshmgir:<br/>\ntwitter: <span class=\"mention\">@sherminvo</span><br/>\ngithub: <a class=\"inline-onebox\" href=\"https://github.com/sherminvo\" rel=\"noopener nofollow ugc\">sherminvo (Shermin Voshmgir) · GitHub</a></p>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\nShort bio<br/>\nApart from building BlockchainHub Berlin (First online educational community around blockchain &amp; web3 relates topics) and the Research Institute for Cryptoeconomics in Vienna, I also wrote the book <strong>Token Economy</strong> which has received excellent reviews for making token economics and Web3 mechanisms accessible to a general audience. The book was published on Github under a CC licence in December 2020, and is now being translated by a group of 30 volunteers into 11 different languages which are also being published here (translations are a work in progress):</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/Token-Economy-Book/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/Token-Economy-Book/\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"280\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7db0a4de895e4c1bca27a3419724381c13348209.jpeg\" width=\"280\"/>\n<h3><a href=\"https://github.com/Token-Economy-Book/\" rel=\"noopener nofollow ugc\" target=\"_blank\">Token Economy - Second Edition</a></h3>\n<p>Primer to Web3 &amp; Token Economics: Rights have been open sourced (non-commercial) &amp; a team of volunteers is translating into different languages. - Token Economy - Second Edition</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-3\" name=\"funding-information-for-funding-proposals-3\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong><br/>\n30,000 EUR (in Stablecoin)</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong><br/>\n0xc89eD88B54fD663b86FFd76f6AD2cDA09d2cE13c</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong><br/>\nFund will be used to compensate research and development of the tool, as well as the written output of the research process aka description of token analysis use cases. of 1,5 people over the scope of 6 months.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070121",
+    "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-03T13:47:55Z",
+   "updated_at": "2021-04-03T13:47:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Very cool! I really like the inclusion of the legal and ethical categories.</p>\n<p>I am really excited to see what <a href=\"http://platformdesigntoolkit.com\">platformdesigntoolkit.com</a> comes out with this week, seems like that could be a good base to build off</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070121",
+    "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "witwiki",
+   "name": null,
+   "created_at": "2021-04-29T01:04:53Z",
+   "updated_at": "2021-04-29T01:04:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Not sure if this is relevant to this proposal. I’ve tried to do something like this. I was looking at bridging the high level token engineering process from the ecosystems value flows to a cadCAD model specification to breakdown from macro to micro of a cryptoeconomic system.</p>\n<p>Link: <a class=\"inline-onebox\" href=\"https://borderles.substack.com/p/the-aavegotchi-mmt-metaverse\" rel=\"noopener nofollow ugc\">The Aavegotchi MMT Metaverse - Borderless</a></p>\n<p>While, its missing some of the framework (not much). I use the framework here to breakdown the Aavegotchi Metaverse.</p>\n<p>Essentially, it helps the modeler to state the vision and modeling goal and breaks down from there from markets (macro) to mechanisms (meso) and finally token (micro) and establish parameters that can be (a) captured and (b) stored in the multi-agent system for use in the cadCAD model spec. Its still a work in progress…</p>\n<p>Please let me know your thoughts and feedback for improving it.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070121",
+    "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Evo",
+   "name": null,
+   "created_at": "2021-05-20T19:43:54Z",
+   "updated_at": "2021-05-20T19:43:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi Shermin, I like the idea to come to first principles and best practices. Since I am taking a close look at which token system can serve as a template for a participatory economy for a community I am a leader in, I might as well share any findings. The ethical dimension of incentive engineering has my interest. Enjoying your book a lot too.</p>\n<p>Ivo</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520070121",
+    "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420125757",
+   "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420125757",
+   "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928010653",
+   "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520070121",
+   "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520070121",
+   "url": "https://forum.tecommons.org/t/use-case-based-token-analytics-framework/293"
+  }
+ ]
+}

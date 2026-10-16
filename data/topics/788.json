@@ -1,0 +1,73 @@
+{
+ "id": 788,
+ "title": "Ways to Keep the WG Funding Flows Transparent",
+ "slug": "ways-to-keep-the-wg-funding-flows-transparent",
+ "category_id": 28,
+ "posts_count": 1,
+ "created_at": "2022-01-04T14:33:14.240Z",
+ "last_posted_at": "2022-01-04T17:36:03.033Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2022-01-04T17:36:03Z",
+ "captured_between": [
+  "2022-01-24T04:26:46Z",
+  "2022-07-06T01:43:46Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2022-01-04T14:33:14Z",
+   "updated_at": "2022-02-16T13:31:32Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>As we advocate for transparency, the Transparency WG always seeks ways to ensure that the actions and decisions of TEC as a whole and its members are visible to the rest of our community. This will help in our mutual monitoring and accountability.</p>\n<p>We’re getting closer to the Commons Upgrade, and the Working Groups have been preparing their funding proposals. After the Commons Upgrade, they will start requesting funds from the Commons Pool to compensate their contributors for the work that they will do for the TEC. The Transparency WG has come up with ideas to keep the funding flows transparent when it happens. Here are some of them:</p>\n<ol>\n<li>Have a multisig/sub-DAO in each WG</li>\n</ol>\n<p>WGs may request and save their funds either on a multisig or a sub-DAO so the Transparency WG can add this information to Dune Analytics and the addresses will be monitored. We think this is a great transparency practice, but we know that privacy might also be an issue. So, we really encourage contributors to use another address (different from their Hatch address) to receive their payments from the TEC. The information in the blockchain is traceable, which is great, but it’s also important to <strong>protect your privacy as an individual.</strong></p>\n<ol start=\"2\">\n<li>Contributors  may drop a comment under the funding proposal post in the forum when they make compensation/bounty requests.</li>\n</ol>\n<p>This way, we are also promoting mutual monitoring by giving the community visibility on contributors’ tasks. The requests may include the amount and the tasks done.</p>\n<ol start=\"3\">\n<li>Have a budget sheet and make it accessible or viewable to the community</li>\n</ol>\n<p>Aside from transparency purposes, doing this will also help the WG keep organized and the funding data will be ready and available when it is needed. The budget sheet may look like this:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/139e67d380357f8658d6e25a0549332ec8c221cf\" href=\"https://forum.tecommons.org/uploads/default/original/1X/139e67d380357f8658d6e25a0549332ec8c221cf.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"2NysamB2U1zb1pzZdS8sSnakZ55\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/139e67d380357f8658d6e25a0549332ec8c221cf_2_10x10.png\" height=\"136\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/139e67d380357f8658d6e25a0549332ec8c221cf_2_517x136.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/139e67d380357f8658d6e25a0549332ec8c221cf_2_517x136.png, https://forum.tecommons.org/uploads/default/optimized/1X/139e67d380357f8658d6e25a0549332ec8c221cf_2_775x204.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/139e67d380357f8658d6e25a0549332ec8c221cf.png 2x\" width=\"517\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">803×212 13 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div><p></p>\n<p>These methods are only suggestions and not mandatory. Other ideas and improvements are welcome to keep the TEC transparent at all times.</p>\n<p>Praise <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> and <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> for collaborating on this post. <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014346",
+    "url": "https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-01-04T17:36:03Z",
+   "updated_at": "2022-01-04T17:36:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>dework.xyz praise to gabi and chuy <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014346",
+    "url": "https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124042646",
+   "url": "https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124042646",
+   "url": "https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014346",
+   "url": "https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014346",
+   "url": "https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788"
+  }
+ ]
+}

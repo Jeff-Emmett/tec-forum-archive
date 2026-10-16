@@ -1,0 +1,148 @@
+{
+ "id": 308,
+ "title": "Conviction Voting TL;DR",
+ "slug": "conviction-voting-tl-dr",
+ "category_id": 20,
+ "posts_count": 1,
+ "created_at": "2021-03-28T20:14:14.853Z",
+ "views": 4794,
+ "last_posted_at": "2021-03-29T09:10:39.932Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-03-29T09:10:39Z",
+ "captured_between": [
+  "2021-03-31T11:30:52Z",
+  "2026-03-05T14:54:44Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2021-03-28T20:14:15Z",
+   "updated_at": "2021-12-29T20:00:49Z",
+   "reply_to_post_number": null,
+   "like_count": 13,
+   "cooked": "<p><strong>Conviction Voting Overview</strong></p>\n<p>Conviction Voting is a novel decision making process that allows a community to allocate funds appropriately to approved projects in a way that mimics <a href=\"https://en.wikipedia.org/wiki/Biomimetics\">natural systems</a>. Here’s a breakdown of how the token-weighted voting process works:</p>\n<ul>\n<li>Multiple proposals can be considered simultaneously, and are submitted without an explicit voting expiration date.</li>\n<li>Voters can choose to distribute their preference proportionately among different proposals with their tokens.</li>\n<li>While tokens are allocated to proposals their voting power (or “conviction”) grows over time.</li>\n<li>Tokens allocated to proposals can be removed by the voter at any time if they wish to change their preference, or sell their tokens. In this case, conviction on the formerly preferred proposal decays gradually over time.</li>\n<li>A proposal is passed once the collective conviction reaches a threshold that is preset based on the funds requested by a proposal.</li>\n</ul>\n<p>Conviction Voting improves on traditional discrete voting processes, as follows:</p>\n<ul>\n<li>It allows participants to vote at their convenience.</li>\n<li>It encourages token holders to be consistent in their preference while still allowing them freedom to change their preference throughout the process.</li>\n<li>It dampens the voting power swings caused by frictionless token movements.</li>\n<li>It eliminates the need for consensus or majority in order for projects to pass, enabling project diversity and multiple parallel paths to be explored.</li>\n<li>It allows token holders to support multiple outcomes at once, proportionately according to their preference.</li>\n<li>It makes the voting process fully transparent and predictable.</li>\n<li>It allows for pseudonymous voters and is therefore not subject to sybil attacks.</li>\n</ul>\n<p>These are the important terms that will come up when discussing Conviction Voting:</p>\n<p><strong>Common Pool:</strong> The total amount of funds available for funding community projects. When proposals are passed, funds leave the Common Pool and go to support these projects.</p>\n<p><strong>Conviction:</strong> The quantified voting power that has been accumulated by a proposal.</p>\n<p><strong>Spending Limit (formerly Max Ratio &amp; β):</strong> A value between 0 and 1 that represents the theoretical maximum percentage of the Funding Pool that can be withdrawn at any one time. This is often referred to as a “relative cap on spending” because the maximum <em>amount</em> of funds that can be withdrawn is dynamic and depends on the amount of funds that remain in the Common Pool. <a href=\"https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156\"> Deep Dive</a></p>\n<p><strong>Conviction Threshold:</strong> The amount of Conviction that a proposal must accrue in order to be approved. This threshold depends on the percentage of the remaining funds in the common pool that is requested, and how close that percentage is to the Spending Limit.</p>\n<p><strong>Conviction Growth (formerly Half Life):</strong> The amount of time it takes to accumulate (or reduce) Conviction by 50%. For example, if the Conviction Growth is set to 3 days, after tokens are staked it takes 3 days for the vote to reach 50% of its maximum power, 6 days to reach 75% of its maximum power, 9 days to reach 87.5% of its maximum power, and so on. The voting power decreases in the same way if tokens are removed from a proposal. This dampens abrupt changes in support and eliminates the need for arbitrary token lock periods. <a href=\"https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160\">Deep Dive</a></p>\n<p><strong>Effective Supply:</strong> This is the amount of tokens that are actively voting on proposals in Conviction Voting.</p>\n<p><strong>Minimum Conviction (formerly Minimum Threshold):</strong> This is the minimum percentage of total active voting tokens that must be staked on a proposal in order for it to generate enough conviction to pass. This prevents people from asking for small amounts of funding many times and using few tokens to get the proposals to pass. <a href=\"https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155\"> Deep Dive</a></p>\n<p>Note that Conviction Voting is now disputable by integrating Celeste. With Celeste, a Conviction Voting proposal can be challenged by community members if they consider it not inline with community covenant. Proposals can be challenged even after voting has finished, but not after they have been executed. Read more about this in 1hive’s forum post <a href=\"https://forum.1hive.org/t/disputable-honey-pot-celeste-and-agreement-user-process/1343\">here</a>.</p>\n<p>Still hungry? Read more about Conviction Voting <a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">here</a>, <a href=\"https://medium.com/commonsstack/conviction-voting-f6f83a5d392a\">here</a>, or <a href=\"https://medium.com/commonsstack/announcing-the-conviction-voting-cadcad-model-release-8e907ce67e4e\">here</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260305145444",
+    "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Freedumbs00",
+   "name": "Jake Cassani",
+   "created_at": "2021-03-28T20:38:05Z",
+   "updated_at": "2021-03-28T20:38:05Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Great Job Lauren.  Thanks</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210331113143",
+    "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Merlin",
+   "name": null,
+   "created_at": "2021-03-29T09:10:39Z",
+   "updated_at": "2021-03-29T09:10:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>That’s crystal clear!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260305145444",
+    "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210331113052",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=markop"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210331113143",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210814091106",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025113037",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025113037",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025113324",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025113324",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220401123158",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014510",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014510",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231211001402",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231211001402",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250124154104",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260305145444",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260305145444",
+   "url": "https://forum.tecommons.org/t/conviction-voting-tl-dr/308"
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "id": 657,
+ "title": "Advice Process - Re-Imagining the Community Call",
+ "slug": "advice-process-re-imagining-the-community-call",
+ "category_id": 28,
+ "posts_count": 7,
+ "created_at": "2021-10-06T16:43:53.117Z",
+ "last_posted_at": "2021-11-15T19:54:35.237Z",
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-11-15T19:54:35Z",
+ "captured_between": [
+  "2021-10-25T10:24:34Z",
+  "2022-05-20T07:15:28Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-10-06T16:43:53Z",
+   "updated_at": "2021-11-18T18:47:53Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>Purpose:</strong><br/>\nThis post is to start the advice process regarding the modification of our Community Call Format.</p>\n<p><strong>WG Responsible for Decision:</strong><br/>\nStewards Working Group</p>\n<p><strong>WG Lead:</strong><br/>\nTam</p>\n<p><strong>Problem Statement:</strong><br/>\nGrowth in the community has made it difficult to carry out the goals of our community call.</p>\n<p><strong>Description:</strong></p>\n<p>This is the current format for TEC Community Calls:</p>\n<p>Date: Every Thursday at 11am PST</p>\n<p>Length: 1 Hour</p>\n<p>Our community calls are extremely important, and as you can see it is broken down into three distinct sections in the following order:</p>\n<p>~25 minutes of praise.</p>\n<p>~20 minutes for WG updates.</p>\n<p>~15 minutes for TEC Spotlight.</p>\n<p>As many of you have witnessed in the last few months…our community has grown quite rapidly. This growth has introduced new challenges to the Community Call as more people means more information that needs to be condensed within this one hour segment.</p>\n<p>Within the community call there is a delicate balance between timing, awareness, and purpose.</p>\n<p>The successful community call has 3 goals that need to be achieved:</p>\n<ol>\n<li>introduce the practice of praise as part of our cultural build,</li>\n<li>communicate the activities in our working groups, and</li>\n<li>introducing our community to the types of projects we want to help fund via our organizational mission.</li>\n</ol>\n<p>Current problems with our format are centered around timing. From what I have observed, we are extremely diligent about our start-time, and our end-time. However, the time between the beginning of praise and the beginning of our TEC Spotlight has caused us some concern. The amount of people needing to give !praise is slowly eating away at the hour that we have, and as we introduce more WGs and activities within those WGs – conveying important community updates is becoming more of a challenge.</p>\n<p><strong>Praise</strong><br/>\nDishing !praise is an extremely important cultural practice that should be introduced at the beginning of every Community Call. There is something about the energy of starting a call with praise being dished and the TEC is largely admired for this cultural practice within other DAO communities.</p>\n<p>For new members, it is a very attractive element that creates a loving and caring environment that ultimately feels welcoming and could encourage potential new members to stick around. The ability for new members to actually Participate in praise (often for the people who introduced them to the TEC) intensifies that welcome feeling. However, making sure everyone has an opportunity to praise takes up a lot of time, not only the amount of !praise time, but the transition time between praises also increases with this amount of people. How do we ensure everyone gets to participate in praise without it eating up too much of our hour?</p>\n<p><strong>WG Updates</strong><br/>\nThe Working Group updates are extremely important because they introduce the different ‘departments’ of the TEC. This time is for both current members and new members.</p>\n<p>For current members, the WG update is a moment to get up to speed on parallel projects or to keep an eye out on the development of important organizational tools and events that may require their action or input. For new members, the WG update is a chance to explore and compare different WG’s as they search for a way to contribute within the TEC.</p>\n<p>The structure of the TEC allows for more WGs to be developed, and as we are witnessing more activities (some of our WGs are planning DAOs), it is becoming harder to both convey important updates to current members and introduce the basics of the WGs to new members. What is the best way to communicate updates within the community call, and what should Working Group Leads focus on when presenting to the community?</p>\n<p><strong>The TEC Spotlight</strong><br/>\nThe TEC Spotlight is an important moment for both our community and for the projects themselves. Our community is being introduced to exciting new TE projects that they will soon be able to fund, and the projects featured in our spotlight will have the opportunity to show exactly who they are and what they are trying to accomplish.</p>\n<p>Some of our Spotlights have been by projects who were introducing an idea for the first time and this is a very important moment for them. If their 15 minute window gets cut down to 5 minutes, then we are doing a disservice to both parties. How do we ensure that projects get enough time to present their (sometimes complex) projects, and provide our community with enough engagement around those projects?</p>\n<p><strong>List of known possible alternatives:</strong></p>\n<p><strong>A. Reducing the time for each !praise giver:</strong><br/>\nThis strategy is aimed at reducing the amount of time each !praise giver receives.  At the moment, each community member is granted ~50s each to verbalize their praise within the community call. We have reduced this time down to ~45s per person with some success.</p>\n<p><em>Pros</em></p>\n<ol>\n<li>I believe we could probably reduce this to a minimum of 30s, allowing for meaningful and selective praise to be dished during the community call for each member.</li>\n<li>Even if individuals cannot verbalize all the praise they want to dish out, they can always type it in the praise channel.</li>\n</ol>\n<p><em>Cons</em></p>\n<ol start=\"3\">\n<li>Continually reducing the amount of time given will never be scalable.</li>\n<li>The transition via ‘passing’ takes a considerable amount of time with more people.</li>\n<li>The TIMER creates social tension between members when not recognized or followed.</li>\n</ol>\n<p><strong>B. Alternating WG Updates:</strong><br/>\nThis strategy I believe was proposed by Juan (forgive me if I’m mistaken), and it proposes that half of our WGs give updates on alternating weeks of the community call instead of forcing all WG updates into a single 15 minute section.</p>\n<p><em>Pros</em></p>\n<ol>\n<li>This would allow WGs to be more detailed with their WG Updates instead of feeling rushed.</li>\n</ol>\n<p><em>Cons</em></p>\n<ol start=\"2\">\n<li>We miss out on articulating the complexity of our organization to new members who may only be introduced to a handful of WGs that they may not be interested in, and cause them to lose interest.</li>\n</ol>\n<p><strong>My personal thoughts on a solution:</strong></p>\n<p><em>Turning Praise into Super Praise:</em></p>\n<p>Each community member present will have the opportunity to give one specific Super Praise for the week. This will allow everyone to give one praise and pass it to another member. This will cut down on time significantly, and at the end we can make an announcement to make sure that they type their praise in the !praise channel on Discord.</p>\n<p><em>Working Group Inspiration:</em></p>\n<p>My proposal here is to make sure that we introduce all of our Working Groups, what they do, when they meet, and the basics of how they operate. I will say that specific updates on projects and specific initiatives be moved to the Medium Blog Post, unless they are updates that require “whole” community attention. The WG Updates should be about inspiring new members to join their WGs as contributors and have a strict focus on describing what we WG is setting out to achieve.</p>\n<p><em>TEC Spotlight:</em></p>\n<p>The Spotlight is something I would like to see have a dedicated 30 mins - 1 hour, and allow potentially funded projects to really engage with active members of our community. I do think this would best be implemented after the Commons Upgrade. For now, I think ensuring that each Spotlight gets the entire 15 minutes is sufficient until a new setup can be introduced.</p>\n<p><strong>I am looking forward to hearing your feedback!</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-06T18:19:15Z",
+   "updated_at": "2021-10-06T19:29:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"657\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Each community member present will have the opportunity to give one specific Super Praise for the week.</p>\n</blockquote>\n</aside>\n<p>I love that!!! I really like the solutions you are proposing here. And for the platform gets Jitsi (suggested by vyvy) it’s a nice solution no one need to install anything its just a link you can share screens and we can be 75 members on the same call.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-07T13:47:01Z",
+   "updated_at": "2021-10-07T13:47:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>we used Jitsi for our first community calls but moved to Discord because it was glitchy to record sometimes, and also because being able to see everyone who is in the call before jumping in is a quality we shouldn’t underestimate <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-09T16:58:25Z",
+   "updated_at": "2021-10-09T16:58:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>thanks for writing up this post Nate!</p>\n<p>I think that forsure we should give the opportunity for everyone who joins the community call to speak, even if its for just a brief period. I would say even 30s is too long and reduce it down to 15 seconds, I like the single praise idea.</p>\n<p>In order to help expediate the transition process I would suggest the facilitator just moves down from top to bottom in the order members appear in the discord channel. If new members join the call they are added to the very end. This makes passing the mic predictable and avoids the confusion which takes up a considerable amount of time.</p>\n<p>I also like to have all the WGs in a single call, however I do know that some WGs  have less action so we could always have some WGs only present bi-weekly, allowing us to be flexible with the time we leave for the spotlight.</p>\n<p>I’m strongly in favour of keeping the spotlight within the community call. For someone with low bandwidth for adding new calls it’s really nice to have a one-stop shop where I can keep up to date with what’s happening and any new voices in the TEC, plus I get to learn about something new!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-10-10T23:00:47Z",
+   "updated_at": "2021-10-10T23:00:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I feel we should keep the community aspect of this call, it’s about acknowledgement and visibility. Sometimes some WG feels forced to talk when they have nothing, we can open the window to just remind what our WG does and what times are the call, and that’s it.</p>\n<ul>\n<li>\n<p>Loved the idea of Super Praise. In that way we can also on focus and encourage people to use their praise powers. We can add 2 minutes of brief explanation of how to use it, so newcomers don’t get lost.</p>\n</li>\n<li>\n<p>I will also keep the highlight, but rather than 15 minutes, it could be nice if we have a set of things they could talk about, like, rather than explaining all technical stuff, a more generic highlight, and then, we can foster this idea of <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> of having a longer call for highlight alone.</p>\n</li>\n<li>\n<p>I would also change the order a bit, and do the highlight first, so this thing of being against the time doesn’t happen any more. I would also add an idea of “feature member of the WG” or a special praise within the WG updates every 2 weeks or something like that.</p>\n</li>\n</ul>\n<p>Leaving the praise to the end gives so much more excitement because we end the call with a high dose of good energy, rather than tired or overthinking of what we just saw from that project.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-10-10T23:28:54Z",
+   "updated_at": "2021-10-10T23:28:54Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for all the replies!  On Tuesday, I plan on developing a proposed solution for this problem!  If you have thoughts on this topic, please get them in by Tuesday!</p>\n<p>I am also selecting 3 Subject Matter Experts (my choice) for this topic to solicit their input (you are also free to decline): <a class=\"mention\" href=\"/u/tamara\">@Tamara</a>, <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a>, <a class=\"mention\" href=\"/u/vyvy-vi\">@Vyvy-vi</a>.</p>\n<p>On Wednesday, I will propose the solution to the Stewards WG for a decision to be made.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-10-13T17:36:38Z",
+   "updated_at": "2021-10-13T17:36:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I really like the use of Praise as a way for everyone to give updates… I learn so much about what is going on about what everyone is doing when people dish praise.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "ZarMarquez",
+   "name": null,
+   "created_at": "2021-11-15T19:54:35Z",
+   "updated_at": "2021-11-15T19:54:35Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>There’s 2 things I’d like say: (1) I’m working with Livia to do a survey and capture people’s feedback from current members and participants. Please see link and provide feedback: <a class=\"inline-onebox\" href=\"https://bit.ly/3kDHaPk\" rel=\"noopener nofollow ugc\">Community Calls Survey - Google Docs</a></p>\n<p>(2) As someone who just joined and went to the Community Calls maybe I can offer some input.<br/>\nThe first thing I would ask if what is the objective and intended outcome of the call? For me it’s an introduction to the organization and give people enough information so they know which group is for them.<br/>\nI love and appreciate how important it is to praise people. My questions, how much time do you need to take to make that point? People will truly experience the praise culture from their working groups, especially if they see it from the stewards and the day-to-day operations.<br/>\nYour objective at the community call is to recruit the new people and get them to join a working group that resonates with their skills and passion. In my opinion a good chunk of your presentation should be to speak directly to the kind of people you want to attract in your group. You can do so while embracing a praise culture.</p>\n<p>I hope that helps <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/><br/>\nCesar</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071528",
+    "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211025102434",
+   "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025102434",
+   "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520071528",
+   "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520071528",
+   "url": "https://forum.tecommons.org/t/advice-process-re-imagining-the-community-call/657"
+  }
+ ]
+}

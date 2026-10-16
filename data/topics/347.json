@@ -1,0 +1,183 @@
+{
+ "id": 347,
+ "title": "How to get wxDAI; A Bridging Story",
+ "slug": "how-to-get-wxdai-a-bridging-story",
+ "category_id": 5,
+ "posts_count": 8,
+ "created_at": "2021-04-20T14:50:28.890Z",
+ "last_posted_at": "2021-08-10T13:30:17.463Z",
+ "views": 2625,
+ "highest_post_number": 8,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-08-10T13:30:17Z",
+ "captured_between": [
+  "2021-06-07T15:08:33Z",
+  "2022-08-27T12:20:35Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-04-20T14:50:29Z",
+   "updated_at": "2021-08-10T13:29:02Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a href=\"https://imgflip.com/i/56f8wa\"><img src=\"https://forum.tecommons.org/uploads/default/original/1X/cc8003b19be3badb47bfc51b915022fbcd41cbed.jpeg\" alt=\"\" title=\"made at imgflip.com\" data-base62-sha1=\"tb5FLoCL8NbASovsiMjX3uBRbQ1\" width=\"651\" height=\"383\"></a></p><div><a href=\"https://imgflip.com/memegenerator\"></a></div><p></p>\n<h2>\n<a name=\"let-us-begin-1\" class=\"anchor\" href=\"#let-us-begin-1\"></a>Let us Begin.</h2>\n<p>Hello there fellow TE Commons folk, have you been scratching your head over this wxDAI business? You probably realized by now that it’s KINDA(very) important to get your hands on some wxDAI to participate fully in the Hatch. I’m going to walk through the most basic ways to get wxDAI from most crypto networks. Please read through this whole article before starting anything.</p>\n<h2>\n<a name=\"what-is-wxdai-2\" class=\"anchor\" href=\"#what-is-wxdai-2\"></a>What is wxDai?</h2>\n<p>The first thing that will be helpful to understand is where you’re going and what you’re getting. The <a href=\"https://www.xdaichain.com/\">xDAI network</a> is an Ethereum Sidechain, it uses a standard ETH address but boasts insanely cheaper gas prices and faster transactions. xDAI is the native token to the xDAI network, it is pegged to DAI, MakerDAO’s stable coin, which is always about ~$1 USD. wxDAI is the wrapped, ERC-20 tokenized, copy of xDAI and using wrapped xDAI (wxDAI) is easier for smart contracts to handle.</p>\n<p>I sincerely hope if you’re here that you already have the MetaMask browser extension installed, otherwise, <a href=\"https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-Started-With-MetaMask\">go get MetaMask</a>. Use this guide to get connected to the <a href=\"https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup\">xDAI network on Metamask</a>.</p>\n<h2>\n<a name=\"i-have-some-crypto-how-do-i-convert-it-to-wxdai-3\" class=\"anchor\" href=\"#i-have-some-crypto-how-do-i-convert-it-to-wxdai-3\"></a>I have some crypto, how do I convert it to wxDai?</h2>\n<p>The cheapest way is to use Binance Exchange to get your funds onto the Binance Smart Chain, convert it to DAI and then beam them to the xDAI network. For this option keep reading further and I’ll walk you through. If you’re not a fan of Binance or Centralized Exchanges, fair enough. Scroll further down and I’ll take you through getting funds from ETH mainnet to xDAI and getting wxDAI.</p>\n<h2>\n<a name=\"option-1-maximum-efficiency-chain-agnostic-swap-with-binance-4\" class=\"anchor\" href=\"#option-1-maximum-efficiency-chain-agnostic-swap-with-binance-4\"></a>Option 1 - Maximum Efficiency Chain Agnostic Swap with Binance.</h2>\n<p>First, <a href=\"https://www.binance.com/en\">get a Binance account</a> if you don’t have one already. No KYC is required for what we are doing.</p>\n<p>Second, setup MetaMask for <a href=\"https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\">Binance Smart Chain(BSC) with this simple guide</a>. Once you have those two things setup, find out what crypto you want to convert and how much, it should be pretty easy to calculate since as mentioned, 1 wxDAI is $1 USD. It is recommended that you use DAI or alternatively, USDC (both are stablecoins) to bridge your funds to xDAI from BSC, check if the trading pair exists on the Binance market. If you can’t find the pair you might need to do an extra swap, likely to ETH and then again to DAI. You’ll also need a tiny amount of BNB, the native gas token for BSC, and a tiny bit of xDAI, as of writing you can complete this token transfer for less than 0.01 BNB and .01 xDAI. If you need xDAI hit up one of your cool crypto friends or try bribing one of the TEC members to give you some xDAI. If you are a CSTK holder, Caga Tio has airdropped you some already.</p>\n<p>Log into Binance and follow the steps on the site to deposit your crypto into your Binance account. Find your trading pair, make the swap(s) and then you’re going to withdraw your funds DAI/USDC and BNB into your BSC Metamask Wallet. Those are denominated in BEP-20 Tokens.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4_2_667x347.png\" alt=\"\" data-base62-sha1=\"gi6kiIe0aq0Bg8dmY7isgqTeVxy\" width=\"667\" height=\"347\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4_2_667x347.png, https://forum.tecommons.org/uploads/default/optimized/1X/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4_2_1000x520.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4_2_1334x694.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/722ea043c7a6d3f158a1ea2e79661b60dfe9a3c4_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1592×830 79.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div><br>\n<br><br>\nVerify your BSC address on MetaMask that you’re withdrawing funds to. Initiate the withdrawal and wait for your funds to arrive in MetaMask.</p>\n<p>Once all that is good head over to the <a href=\"https://omni.xdaichain.com/bridge\">Omnibridge</a>. Log into BSC on MetaMask, connect to OmniBridge and select BSC &lt;-&gt; xDAI<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db_2_624x265.png\" alt=\"\" data-base62-sha1=\"sId07D3QIJdCsYIPgslqgBSmnTt\" width=\"624\" height=\"265\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db_2_624x265.png, https://forum.tecommons.org/uploads/default/optimized/1X/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db_2_936x397.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db_2_1248x530.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/c93c3979b41bdcff891e1a0fa91eed34aa0ab6db_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1364×580 38 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>From here input your amount of DAI or USDC you want to send to xDAI. The bridge will send your funds to the same wallet address on BSC to xDAI, if you want to send it to a different one click on <code>Advanced Options</code> and put in the desired destination address.<br>\n<img src=\"https://forum.tecommons.org/uploads/default/original/1X/2ef91cffcda349672bd8f3c3865954558e196767.png\" alt=\"\" data-base62-sha1=\"6HxGyr301nuX07HmSU44BCOe3tB\" width=\"394\" height=\"163\"><br>\nUnlocking the contract and transferring the tokens will show up as two separate transactions on MetaMask, accept them both and the transfer will start.</p>\n<p>Okay, you’re on the home stretch now. Once you have your DAI or USDC on xDAI you’ll make the final swap to wrapped xDAI (wxDAI) using <a href=\"https://xdai.component.finance/?tab=swap&amp;token0=3\">component.finance</a>. Make the swap from either DAI(BSC) or USDC(BSC) to wxDAI, push through the transaction, and then boom, you’re in! Nice Work! If you want to be able to see your wxDAI in MetaMask you can <a href=\"https://blockscout.com/xdai/mainnet/address/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/transactions\">get the token address here.</a></p>\n<h2>\n<a name=\"option-2-no-binance-no-cex-eth-mainnet-to-wxdai-on-xdai-5\" class=\"anchor\" href=\"#option-2-no-binance-no-cex-eth-mainnet-to-wxdai-on-xdai-5\"></a>Option 2 - No Binance, no CEX. ETH mainnet to wxDAi on xDAI.</h2>\n<p>Wow look at you, the true decentralized idealist. Well If you have funds on ETH mainnet, either in ETH, DAI or another ERC-20 Tokens there are a few, albeit gas intensive, options to get wxDAI. The easiest will be to move DAI directly onto xDai, in xDAI (the native token) using <a href=\"https://bridge.xdaichain.com/\">the xDAI bridge. </a>This will convert the DAI ERC-20 token on mainnet directly to xDAI, using the same ETH address. Input the amount of DAI you want to send over to the xDAI Network. If you want to send it to a different address then click on <code>Advanced</code> and punch in the destination address.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/b6b53f237ecb1b8d188728f856cd3e7a884a71ee.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/b6b53f237ecb1b8d188728f856cd3e7a884a71ee\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/b6b53f237ecb1b8d188728f856cd3e7a884a71ee_2_624x341.png\" alt=\"\" data-base62-sha1=\"q4jdyRytTXLD96pOICRtyuZLkt0\" width=\"624\" height=\"341\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/b6b53f237ecb1b8d188728f856cd3e7a884a71ee_2_624x341.png, https://forum.tecommons.org/uploads/default/optimized/1X/b6b53f237ecb1b8d188728f856cd3e7a884a71ee_2_936x511.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/b6b53f237ecb1b8d188728f856cd3e7a884a71ee_2_1248x682.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/b6b53f237ecb1b8d188728f856cd3e7a884a71ee_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1375×751 37.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Unlock the contract and accept the transaction on MetaMask and your DAI will be transferred to xDAI.</p>\n<p>If you want to swap ETH for xDAI you’ll need to <a href=\"https://app.uniswap.org/#/swap\">wrap your ETH into an ERC-20 token, WETH, via Uniswap</a>. If you have another ERC-20 Token <a href=\"https://blockscout.com/xdai/mainnet/bridged-tokens\">check this list</a> to see if it has been bridged to xDAI. Take your eligible ERC-20 token, WETH or otherwise and head over to the <a href=\"https://omni.xdaichain.com/bridge\">Omnidge</a> to make the swap to xDAI network. Connect with MetaMask and choose ETH &lt;-&gt; xDAI.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ba11f018783daae9686a760717ed171ac1983160.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/ba11f018783daae9686a760717ed171ac1983160\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/ba11f018783daae9686a760717ed171ac1983160_2_624x261.png\" alt=\"\" data-base62-sha1=\"qy3eXftDdLXMrhq8zpIZbKbpTxu\" width=\"624\" height=\"261\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/ba11f018783daae9686a760717ed171ac1983160_2_624x261.png, https://forum.tecommons.org/uploads/default/optimized/1X/ba11f018783daae9686a760717ed171ac1983160_2_936x391.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/ba11f018783daae9686a760717ed171ac1983160_2_1248x522.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ba11f018783daae9686a760717ed171ac1983160_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1304×545 36 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Once you’re in, pick the token you’re bridging, if you want to send it to a different address on xDAI you can input your destination address similar to how it’s done on the xDAI bridge. If everything looks good then Unlock the contract and push the transaction through on MetaMask.</p>\n<p>Once you have your ERC-20 tokens and/or xDAI on the xDAI network you’ll need to finish the final step, to get that sweet sweet wxDAI, you can do this using <a href=\"https://app.honeyswap.org/#/swap\">Honeyswap</a>. Connect to MetaMask on xDAI network, find your token and swap it to wxDAI. Unlock the contract, accept the transaction and boom! Once the transaction is done you’re officially holding wxDAI! If you want to be able to see your wxDAI in MetaMask you can <a href=\"https://blockscout.com/xdai/mainnet/address/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/transactions\">get the token address here.<br>\n</a>Hopefully this will be a breeze, navigating the world of Ethereum sidechains is not always easy but it is becoming more relevant as new parallel technologies emerge in the space. If you’re not sure about a swap or a bridge a good rule of thumb is to test it out with small amounts, what you might pay in gas is worth avoiding the risk of sending your crypto to the void. Read the documentation I’ve linked across the article if you get stuck or want to learn more. Don’t hesitate to reach out to the community, we’ve been blessed with some brilliant minds in our budding Commons! <strong>See you on xDAI! <img src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\" class=\"emoji\" alt=\":wink:\"></strong></p>\n<h2>\n<a name=\"edit-10082021-6\" class=\"anchor\" href=\"#edit-10082021-6\"></a>EDIT - 10/08/2021</h2>\n<p>Adding in some updated methods for acquiring xDAI that we’re brought up in the comments on this post!</p>\n<h3>\n<a name=\"option-3-ascendex-used-to-be-bitmax-usdtxdai-pair-7\" class=\"anchor\" href=\"#option-3-ascendex-used-to-be-bitmax-usdtxdai-pair-7\"></a>Option 3 - AscendEX (used to be BitMax) USDT/XDAI pair</h3>\n<p>I’d like to suggest this as a CEX option. I’ve personally used it back and forth and never had any issues. It’s one of the bridge methods I use the most and you can withdraw directly to xdai chain <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>\n<p><em>Addition from Chuy</em></p>\n<h3>\n<a name=\"option-4-for-polygon-users-previously-matic-8\" class=\"anchor\" href=\"#option-4-for-polygon-users-previously-matic-8\"></a>Option 4 - For Polygon Users (previously Matic)</h3>\n<p><a href=\"http://gate.io/\">Gate.io</a> now supports withdrawals to the Polygon network. If you’re coming from Polygon you can use <a href=\"https://www.xpollinate.io/\">xPollinate</a> to bridge DAI, USDC and USDT (probably DAI would be a better idea since it has the most liquidity in the xDai side)</p>\n<p><em>Addition from Chuy</em></p>\n<h3>\n<a name=\"option-5-direct-fiat-onramp-with-rampnetwork-9\" class=\"anchor\" href=\"#option-5-direct-fiat-onramp-with-rampnetwork-9\"></a><strong>Option 5 - Direct fiat onramp with ramp.network</strong>\n</h3>\n<p>Hey, I’d like to mention that now you can also buy xDai directly from fiat on <a href=\"https://ramp.network/\">ramp.network </a> . They either accept bank transfers (which take ~2 days) or card payments (instant). Fees are sensible and although their KYC flow is a bit of a pain in the ass if you happen to have a bad phone (like me), the customer service is fast and helpful. I haven’t used them for xDai yet, but I onboarded to Matic through them and it worked very well.</p>\n<p><em>Addition from Nuggan</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-04-20T18:58:43Z",
+   "updated_at": "2021-04-20T18:58:43Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>Option 3 - AscendEX (used to be BitMax) USDT/XDAI pair</h2>\n<p>Hi <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>! I’d like to suggest this as a CEX option. I’ve personally used it back and forth and never had any issues. It’s one of the bridge methods I use the most and you can withdraw directly to xdai chain <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>\n<p><a href=\"http://www.ascendex.com\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">www.ascendex.com</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-04-21T14:55:39Z",
+   "updated_at": "2021-04-21T14:55:39Z",
+   "reply_to_post_number": 2,
+   "like_count": 0,
+   "cooked": "<p>woah nice find Chuy! looks legit!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Suga",
+   "name": "itny0u4gw4",
+   "created_at": "2021-06-25T08:47:51Z",
+   "updated_at": "2021-06-25T08:47:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks, Mitch!</p>\n<p>I just want to add your comment on the tool you mentioned the other day so that it’s part of this post:</p>\n<p>“<a href=\"http://xpollinate.io\">xpollinate.io</a> has been so far pretty effective for moving funds from BSC and MATIC onto xdai chain.”</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "0xNuggan",
+   "name": "Nuggan",
+   "created_at": "2021-06-25T16:56:24Z",
+   "updated_at": "2021-06-25T16:56:24Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>Option 4 - Direct fiat onramp with ramp.network</strong><br>\nHey, I’d like to mention that now you can also buy xDai directly from fiat on <a href=\"https://ramp.network\" rel=\"noopener nofollow ugc\">ramp.network</a> . They either accept bank transfers (which take ~2 days) or card payments (instant). Fees are sensible and although their KYC flow is a bit of a pain in the ass if you happen to have a bad phone (like me), the customer service is fast and helpful. I haven’t used them for xDai yet, but I onboarded to Matic through them and it worked very well.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-06-28T20:18:46Z",
+   "updated_at": "2021-06-28T20:20:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a name=\"option-5-for-polygon-users-previously-matic-1\" class=\"anchor\" href=\"#option-5-for-polygon-users-previously-matic-1\"></a>Option 5 - For Polygon Users (previously Matic)</h2>\n<p>Complementing on <a class=\"mention\" href=\"/u/suga\">@Suga</a>’s contribution, <a href=\"http://Gate.io\" rel=\"noopener nofollow ugc\">Gate.io</a> now supports withdrawals to the Polygon network. If you’re coming from Polygon you can use <a href=\"https://www.xpollinate.io/\" rel=\"noopener nofollow ugc\">xPollinate</a> to bridge DAI, USDC and USDT (probably DAI would be a better idea since it has the most liquidity in the xDai side)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-08-08T00:40:35Z",
+   "updated_at": "2021-08-08T00:42:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I think that link to connecting Binance with Metamask is dead. Here’s a new link:<br>\n<a href=\"https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\" rel=\"noopener nofollow ugc\">https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain</a></p>\n<p>(BTW, this is a really good guide. Tks for pulling it together).</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-08-10T13:30:17Z",
+   "updated_at": "2021-08-10T13:30:17Z",
+   "reply_to_post_number": 7,
+   "like_count": 1,
+   "cooked": "<p>Nice catch! Thanks for reading <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220827122035",
+    "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210607150833",
+   "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624161117",
+   "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624161117",
+   "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928023337",
+   "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928023337",
+   "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220827122035",
+   "url": "https://forum.tecommons.org/t/how-to-get-wxdai-a-bridging-story/347"
+  }
+ ]
+}

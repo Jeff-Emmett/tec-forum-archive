@@ -1,0 +1,140 @@
+{
+ "id": 109,
+ "title": "Central Database - Django Rest Framework",
+ "slug": "central-database-django-rest-framework",
+ "category_id": 7,
+ "posts_count": 5,
+ "created_at": "2020-12-01T17:22:40.117Z",
+ "last_posted_at": "2021-01-05T02:27:55.269Z",
+ "tags": [
+  "conviction-voting"
+ ],
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-11-26T08:59:55Z",
+ "captured_between": [
+  "2021-03-06T02:36:30Z",
+  "2023-05-30T08:55:43Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-01T17:22:40Z",
+   "updated_at": "2021-11-12T21:40:06Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#central-database-django-rest-framework-1\" name=\"central-database-django-rest-framework-1\"></a>Central Database - Django Rest Framework</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>A central database will allow all of our systems to connect and allow the capacity to track any sort of data regarding hatchers, community, technologies, development, anything.</strong><br/>\n<em>Django is an open source web framework written in Python. It is the most popular and robust web framework in the python ecosystem and has been used in production for a very large amount of production environments. The Django Rest Framework is a specific application of Django that is used specifically for backend API services.</em></p>\n<p><a class=\"onebox\" href=\"https://www.django-rest-framework.org/\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://www.django-rest-framework.org/</a></p>\n<p><strong>Proposal Rationale</strong><br/>\n<em>Essentially, this allows us to have a database that we can store any sort of data in, and we can access this data via web requests, so any system can get or post from these data tables. This would aid in processes like the praise quantification or tracking results of the commons simulator over time.</em></p>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<em>This should take about 4 hours of development time. Two devs working in tandem for 2 hours would be ideal. Adding additional tables to the database can be done in 1 dev hour batches.</em></p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-3\" name=\"team-information-for-funding-proposals-3\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p>ygg_anderson (github: linuxiscool)</p>\n<p><strong>Skills and previous experience in related or similar work:</strong><br/>\n<em>I’ve deployed various django production deployments in professional environments. I generally use the django rest framework as a web database solution for various data science projects.</em></p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-4\" name=\"funding-information-for-funding-proposals-4\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>4 Dev hours equivelent for initial launch. Additional hours may be required for specification gathering depending on what kind of data we want to maintain and for what purposes.</strong></p>\n<p><strong>Ethereum address where funds shall be transferred:</strong><br/>\nTBD</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong><br/>\nFunds will be directly transferred to the devs upon deployment of the database.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085543",
+    "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-03T16:51:34Z",
+   "updated_at": "2020-12-03T16:51:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I love django and django rest, only made 1 project with each but was enough to love it. So glad ur coming up with these ideas. <img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=9\" title=\":fire:\"/><img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=9\" title=\":fire:\"/><img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=9\" title=\":fire:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085543",
+    "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-03T18:53:53Z",
+   "updated_at": "2020-12-03T18:53:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey awesome Tonga! I’m glad that you can see the value that Django could bring, I love it as well, super powerful stuff.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085543",
+    "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "HBesso31",
+   "name": null,
+   "created_at": "2020-12-24T11:28:17Z",
+   "updated_at": "2020-12-24T11:28:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>, I don’t know a thing about Django, but 4 hours of work that will benefit the overall community is a no brainer to fund.<br/>\nGo for it bro!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085543",
+    "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-05T02:27:55Z",
+   "updated_at": "2021-01-05T02:27:55Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/hbesso31\">@HBesso31</a>! It needs a certain critical mass of interest to be maintainable and usable, we will need a few community members who are comfortable being maintainers, and comfortable being responsive when people want to make changes / upgrades to the database. If they are to stop being a maintainer, they will have to find and hand off to another maintainer. I would be happy to teach a couple of programmer community members how to pull this off, but I won’t have the availability for maintenance / upgrades.</p>\n<p>Sounds like <a class=\"mention\" href=\"/u/tonga\">@Tonga</a> is down to join the team, if we get another committed co-vestor than we can talk about initializing the project upon approval.</p>\n<p>To further clarify the cost of this project, since we should have some redundant knowledge keepers, I will say 3 programmers (Me and <a class=\"mention\" href=\"/u/tonga\">@Tonga</a> make 2) 2 hours each for development + 2 hours each for deploy, and an average of 2 hours each per month for maintenance and upgrades, thus for a 6 month commitment, that is:</p>\n<p>3*(2+2) &lt;- develop and deploy<br/>\n3 * 2 * 6 &lt;- 6 months maintenance and upgrades<br/>\n12 + 36 = 48 Dev Hours.</p>\n<p>Let’s say dev hours earn between 30 and 60 DAI per hour, that gives the following budget:<br/>\n1440 DAI - 2880 DAI for deploy and 6 months support, 540 DAI per month after that for upgrades, maintenance, and support.</p>\n<p>We could probably end paid support at some point if we have a critical mass of knowledge keepers who are comfortable tweaking and making upgrades, but then again it’s nice to pay people for good work <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<p>Keep in mind, this funds 3 TEC community devs and is an excellent opportunity for dissemination of knowledge for utilizing the Django REST framework!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085543",
+    "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-11-26T08:59:55Z",
+   "updated_at": "2021-11-26T08:59:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This would be interesting, esp. considering that there’s conversation about using tools like Hubspot to track things.</p>\n<p>And Django REST is awesome!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530085543",
+    "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306023630",
+   "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306023630",
+   "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530085543",
+   "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530085543",
+   "url": "https://forum.tecommons.org/t/central-database-django-rest-framework/109"
+  }
+ ]
+}

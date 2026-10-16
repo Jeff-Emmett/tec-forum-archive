@@ -1,0 +1,532 @@
+{
+ "id": 90,
+ "title": "Impact Hour Rate - Deep Dive",
+ "slug": "impact-hour-rate-deep-dive",
+ "posts_count": 20,
+ "category_id": 18,
+ "created_at": "2020-11-21T05:08:36.865Z",
+ "last_posted_at": "2021-05-07T18:28:15.934Z",
+ "more_after": 20,
+ "views": 5872,
+ "highest_post_number": 21,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 21,
+ "archived_numbers": 21,
+ "last_archived_post_at": "2021-05-07T18:28:15Z",
+ "captured_between": [
+  "2021-04-20T12:45:13Z",
+  "2025-08-05T14:54:10Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-11-21T05:08:37Z",
+   "updated_at": "2021-03-06T19:20:21Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Ready to go down this rabbit hole? It’s one of the juiciest pieces of the hatch. <strong>How do we accurately and fairly reward all of the hatchers that contribute to the Cultural Build</strong>? This component of the hatch is called <strong>The Cultural Tribute</strong>.</p>\n<p><strong>How are contributions measured?</strong><br/>\nCultural contributions are measured using a praise system. Hatchers of the trusted seed of the community are enabled the ability to cast praise on any community member that has registered their telegram identity with the praise bot, a community initialization mechanism built into telegram by the commons stack. Read more about  <a href=\"https://docs.google.com/document/d/1P_W9u5Tk1xTRfP2_c3k7iN4whmb6JGP_LwRou_ZqN4E/edit#\" rel=\"noopener nofollow ugc\">Acknowledging &amp; Rewarding Contributions to the TE Commons </a>.</p>\n<p>The <strong>inital spec</strong> in that doc describes the three features of the contribution measurement process, Acknowledgement, Boundary Process, and Single Reward.</p>\n<p><strong>Acknowledgement</strong> is the ability to track work done. This is achieved with the praise bot which records every instance of praise being cast and saves it into a google sheet. This praise data can then be further processed by community members.</p>\n<p><strong>The Boundary Process</strong> is the scoring system which determines how many impact hours are granted for for each specific praise instance. Each praise may yield varying amounts of impact hours from, zero impact hours, to low impact hours, to high impact hours. Learn more about the <a href=\"https://docs.google.com/document/d/1_5DSDgouZI5z0sdYZCCea4wifGVAX6q1lw2oKABKNKo/edit\" rel=\"noopener nofollow ugc\">praise quantification proprosal</a>.</p>\n<p><strong>Single Reward</strong><br/>\nPraised work that is directly compensated by funding from Gitcoin grants will yield less impact hours.</p>\n<blockquote>\n<p>The general idea is that people who contribute to the Cultural Build earn <strong>Impact Hours</strong>, and that Impact Hours will translate to approximately <strong>$20-$200 per hour</strong> in Hatch Contributions. <strong>1-10% of the funds donated</strong> during the Hatch would create tokens for the people who contributed to the Cultural Build.</p>\n</blockquote>\n<p><strong>Test Hatch <span class=\"hashtag\">#1</span></strong><br/>\nThe current TESTTEC system is straight forward. The more funds that are raised, the higher the hourly wage for impact hours becomes. Additionally, the more funds that are raised, the larger the portion of tokens that are paid back to ‘co-vesters’. These two properties mean hatchers are incentivized to raise more funds, and co-vesters are incentivized to invest more funds. A third variable to consider is the total number of impact hours contributed. As the total impact hours goes higher, the hourly DAI payout per hours goes down. These properties can be observed in the example data <a href=\"https://docs.google.com/spreadsheets/d/1qWHdLAVSEm_bP5fhBpEYwdEYC5zTxdzqWArSwBKcJo8/edit?pli=1#gid=426791632\" rel=\"noopener nofollow ugc\">here</a>, and in the notebook analysis <a href=\"https://github.com/TECommons/tec-cultural-tribute-exploration\" rel=\"noopener nofollow ugc\">here</a>.</p>\n<p>This is clearly a very important and complex aspect of the hatch. There are many facets of this topic that can be touched on, please post any thoughts or additional useful resources in the comments of this thread. If you are wondering where to get started thinking on this topic, I highly recommend starting by reading <a href=\"https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de\" rel=\"noopener nofollow ugc\">The Trusted Seed of the Commons Stack</a>. Looking forward to hearing your thoughts!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805132447",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-11-21T14:46:00Z",
+   "updated_at": "2020-11-21T14:55:05Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Last period Impact Hours and Total Impact Hours can be seen in charts through this <a href=\"https://tokenengineeringtest.herokuapp.com/\" rel=\"noopener nofollow ugc\">link</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-06T01:44:42Z",
+   "updated_at": "2020-12-06T01:44:42Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I should have linked this (start here): <a href=\"https://medium.com/token-engineering-commons/how-to-earn-tec-tokens-now-an-inside-look-at-impact-hours-7d93043b739d\" rel=\"noopener nofollow ugc\">https://medium.com/token-engineering-commons/how-to-earn-tec-tokens-now-an-inside-look-at-impact-hours-7d93043b739d</a></p>\n<p>Let’s hear people’s thoughts on this.</p>\n<p>What are you going to spend TEC tokens on?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-13T17:27:37Z",
+   "updated_at": "2020-12-13T17:27:37Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Latest updates as per the last working session. Thank you <a class=\"mention\" href=\"/u/freedumbs00\">@Freedumbs00</a> and team (They wrote this post)!</p>\n<h2>Please Consider the Following and Post Comments</h2>\n<ul>\n<li>We need comments on Min/Max Hatch Goal as something connected to min/max IH rate (DAI/IH)</li>\n<li>We need to hack on a proposed equation that has the right impact parameters</li>\n<li>We need comments on Impact Hours minimum wage price</li>\n<li>We need to call out that if the hatch fails, then people get nothing (This is not a post about a specific course of action. It is simply defining a failed Hatch and what could be done about the Impact Hours wage)</li>\n<li>Resources:\n<ul>\n<li>Video of IH Deep Dive: <a href=\"https://youtu.be/GJcaiopzSSE\" rel=\"noopener nofollow ugc\">https://youtu.be/GJcaiopzSSE</a>\n</li>\n<li>Notes for that video session: <a href=\"https://docs.google.com/document/d/1hotbM3fiYumtqQjmhc4gwn79wFsQi2GPuvTpRxPBPV8/edit#heading=h.kw5maga80kky\" rel=\"noopener nofollow ugc\">https://docs.google.com/document/d/1hotbM3fiYumtqQjmhc4gwn79wFsQi2GPuvTpRxPBPV8/edit#heading=h.kw5maga80kky</a>\n</li>\n<li>Spreadsheet that explores the DAI/hr equation (See Sems newst work in the “Other explorations” tab: <a href=\"https://docs.google.com/spreadsheets/d/1qWHdLAVSEm_bP5fhBpEYwdEYC5zTxdzqWArSwBKcJo8/edit?usp=sharing\" rel=\"noopener nofollow ugc\">https://docs.google.com/spreadsheets/d/1qWHdLAVSEm_bP5fhBpEYwdEYC5zTxdzqWArSwBKcJo8/edit?usp=sharing</a>\n</li>\n</ul>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-14T13:54:48Z",
+   "updated_at": "2020-12-14T13:54:48Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’ve been translating the IH exploration spreadsheet to a formula where the independent variable (x) is the funds raised, and the dependent variable is the IH rate (y). This is the formula:</p>\n<p><img alt=\"Screenshot from 2020-12-14 14-10-05\" data-base62-sha1=\"xPrE0L08LeGMRwkcJObBkxu56xL\" height=\"58\" src=\"https://forum.tecommons.org/uploads/default/original/1X/ed187f4401c6a8901199a6bf1e5916eec597905d.png\" width=\"206\"/></p>\n<p>The formula has three parameters:</p>\n<ul>\n<li>\n<em>H</em> : Total number of impact hours.</li>\n<li>\n<em>m</em> : Hour slope, or how much funds do we expect to raise per IH. A low number makes a more curved function, whereas a high number flattens the curve.</li>\n<li>\n<em>R</em> : Top IH rate limit. It’s an asymptotic limit never reached, no matter how much funds are raised.</li>\n</ul>\n<h3>Original exploration</h3>\n<p>We can replicate the original IH exploration with the following parameters:</p>\n<ul>\n<li>\n<em>H</em> = 6000 hours</li>\n<li>\n<em>m</em> = 1000 DAI/hour</li>\n<li>\n<em>R</em> = 210 DAI/hour</li>\n</ul>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/2e0a0a20df31b290a96aac2a9f3749cc26677f74\" href=\"https://forum.tecommons.org/uploads/default/original/1X/2e0a0a20df31b290a96aac2a9f3749cc26677f74.png\" title=\"Screenshot from 2020-12-14 14-53-43\"><img alt=\"Screenshot from 2020-12-14 14-53-43\" data-base62-sha1=\"6zhtloqK8WUSAm1q82gP0q77E9K\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/2e0a0a20df31b290a96aac2a9f3749cc26677f74_2_10x10.png\" height=\"211\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/2e0a0a20df31b290a96aac2a9f3749cc26677f74_2_690x211.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/2e0a0a20df31b290a96aac2a9f3749cc26677f74_2_690x211.png, https://forum.tecommons.org/uploads/default/optimized/1X/2e0a0a20df31b290a96aac2a9f3749cc26677f74_2_1035x316.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/2e0a0a20df31b290a96aac2a9f3749cc26677f74.png 2x\" width=\"690\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2020-12-14 14-53-43</span><span class=\"informations\">1366×419 23.6 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>\n<p>You can visualize and play with it in this <a href=\"https://www.desmos.com/calculator/r8kq0r6e2s\">graph</a>. You can select other parameters, and moving the X slider, you can see IH rate and IH percent based on total raised.</p>\n<h3>Additional considerations</h3>\n<p>A high <em>m</em> makes the function practically linear, so I would recommend to set up a lower one of maybe 200 DAI/h. On the other hand we have to be careful on setting up a low <em>m</em> because it also increases the percentage of raised money that goes to cover IH.</p>\n<p>Also, in order to have a fair minimum wage, we can play with both <em>R</em> and <em>m</em> having into account a min goal X. So for example with a min goal <em>X</em> of 300k, a <em>R</em> of 80 and an <em>m</em> of 200, we have a IH rate of 16 DAI/h, and this represents the 32% of the raised funds.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-12-14T17:08:32Z",
+   "updated_at": "2020-12-14T17:08:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This is amazing… so Params we need are:</p>\n<ul>\n<li>\n<p><em>m</em> : Hour slope, or how much funds do we expect to raise per IH. A low number makes a more curved function, whereas a high number flattens the curve.</p>\n</li>\n<li>\n<p><em>R</em> : Top IH rate limit. It’s an asymptotic limit never reached, no matter how much funds are raised.</p>\n</li>\n</ul>\n<p>Is that right?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-14T20:56:16Z",
+   "updated_at": "2020-12-14T20:56:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Really great work guys, I recommend anyone seeing this to checkout the math widget and play around with it. Notice you can slide x to pick a scenario of raise amount, and then based on the parameters you see r_x and p_x at the bottom as hourly rate and percent of hatch going to cultural build.</p>\n<p>My initial comments:</p>\n<ul>\n<li>I’m not sold on the intuition for m. I can’t quite see how it is ‘expected funds raised per IH’</li>\n<li>Anyways, if it is ‘expected funds raised per IH’, then notice that the ‘true funds raised per IH’ would be x/h. Plugging that in for m, we get r_x = R/2 which is cool. So if we perfectly guess our raise capabilities then the hourly rate should be 50% of the max.</li>\n<li>We can put bounds on the parameter space by constraining the results of r_x and p_x. For example r_x &gt;15, 0.01 &lt; p_x &lt; 0.2.</li>\n</ul>\n<p>Great initial work, and I’m excited to see this framework evolve.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-14T21:01:43Z",
+   "updated_at": "2020-12-14T21:01:43Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>As far as I can tell, yes, it’s m and R to be decided. Additionally, it looks like we can add constraints to this model such as minimum and max raise, minimum wage, and minimum and max hatch percentages going to the cultural build.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-16T00:51:41Z",
+   "updated_at": "2020-12-16T00:51:41Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"90\" data-username=\"ygg_anderson\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/ygg_anderson/40/29_2.png\" width=\"20\"/> ygg_anderson:</div>\n<blockquote>\n<p>So if we perfectly guess our raise capabilities then the hourly rate should be 50% of the max.</p>\n</blockquote>\n</aside>\n<p>That’s right. That’s why I think we can name <em>m</em> as “expected raise per IH”, since it’s the amount IH people get rewarded with <em>R/2</em>. If the raise gets less than <em>m</em>, the reward drops significantly, if the raise gets more than <em>m</em>, the reward increases slowly until it reaches max rate of <em>R</em>.</p>\n<p>We can find better names, maybe doing reference to the “half-way”. It’s the raise in which IH receive half of the max rate. What about “half-raise”, or “half-way raise”? I can’t find suitable names, maybe you can continue with the brainstorming.</p>\n<p>That being said, it’s important to remark that setting a low <em>m</em> will make it easy to reach a IH ratio greater than <em>R/2</em>, which is what makes the curve. Setting up a high “expected raise”/“half-way raise”, we flatten the curve, making it indistinguishable from a straight line.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-12-22T11:32:43Z",
+   "updated_at": "2020-12-22T11:32:43Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Calculator here: <a href=\"https://www.desmos.com/calculator/r8kq0r6e2s\">https://www.desmos.com/calculator/r8kq0r6e2s</a></p>\n<p>For the test HatchDAO these are the Params I am playing with<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/2cad3c5d1d0b8731ea583794c44c9383d3df911f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/2cad3c5d1d0b8731ea583794c44c9383d3df911f.png\" title=\"Screen Shot 2020-12-22 at 6.29.28 AM\"><img alt=\"Screen Shot 2020-12-22 at 6.29.28 AM\" data-base62-sha1=\"6nead1YskSI2GRcjuFbabcAcUSb\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/2cad3c5d1d0b8731ea583794c44c9383d3df911f_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/2cad3c5d1d0b8731ea583794c44c9383d3df911f_2_345x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/2cad3c5d1d0b8731ea583794c44c9383d3df911f_2_345x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/2cad3c5d1d0b8731ea583794c44c9383d3df911f_2_517x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/2cad3c5d1d0b8731ea583794c44c9383d3df911f_2_690x1000.png 2x\" width=\"345\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2020-12-22 at 6.29.28 AM</span><span class=\"informations\">764×1106 25.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>\n<p>m = 30/2500 expected raise/total IH</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-25T20:38:26Z",
+   "updated_at": "2021-04-26T19:07:45Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>During user testing we discovered that the Impact Hour Slope concept is too hard for users to grok… and they all wanted to understand it… It became a big blocker for most people trying to propose</p>\n<p>So I propose we add a new user facing variable called Curvature</p>\n<p>C = R/m</p>\n<p>This is used to derive m Impact hour slope… but is… hopefully easier to understand than m, and users can try to forget that there is math and just start playing</p>\n<p>updated the calculator: <a class=\"inline-onebox\" href=\"https://www.desmos.com/calculator/eybbnolw2c\">Impact Hours rate</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-04-26T13:38:22Z",
+   "updated_at": "2021-04-26T13:38:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Perhaps if you explain <em>what</em> the curve or slope is, and what impact it has on system configurations, that could help people understand what exactly we are trying to configure here?</p>\n<p>E.g. “The IH slope denotes the sliding agreement of funds allocation attributed to builders (inputting time) vs backers (inputting funds).  At smaller fundraise amounts, builders receive a larger proportion of tokens, while at larger fundraise amounts, builders are better compensated but larger proportions of tokens go to backers.  This curve essentially represents a novel form of dynamic ownership allocation between funders and builders.”</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-26T19:33:03Z",
+   "updated_at": "2021-04-26T19:33:03Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Impact hour slope is the “expected raise per impact hour” in which builders receive 50% of max impact hour rate (<em>R</em>).</p>\n<p>I like <a class=\"mention\" href=\"/u/griff\">@griff</a>’s idea on simplifying it by relating to max rate, but I think it would be more suitable if we use the inverse function of what he is proposing, like this:</p>\n<p><code>C = m/R</code></p>\n<p>This defines C as a factor that multiplies max rate. In order to define a “expected raise per IH” twice as much as “max rate”, we can define C=2. If we want it to be half of max rate, we define C=1/2.</p>\n<p>We can define C as a parameter that goes from 0 to 5 (although it could be higher). Here you can find a <a href=\"https://www.desmos.com/calculator/cbwimia8vh\">demonstration here</a>.</p>\n<p>I hope you like the idea.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-27T14:59:42Z",
+   "updated_at": "2021-04-27T14:59:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I originally had it inverted like that… since it gives more range at the smaller numbers… but then i had to think of what do we call the variable… and with it inverted, the smaller the number, the more curvature it has.</p>\n<p>So if we want to invert it, we shouldnt call it Curvature… cause the smaller the number, the more curvy it is… and this would be non-intuitive…</p>\n<p>We could change the name… but honestly, it was harder to find the name than to invert the ratio!</p>\n<p>obtuseness<br/>\nObtusinity<br/>\nLinear-ness<br/>\nStraightyness<br/>\ninverse curvature<br/>\n1/curvature<br/>\n…</p>\n<p>I started from the user experience and worked towards the math.</p>\n<p>Curvature is what i think will make sense to the user its like how curvy the IH rate line is, and the Max rate is the asymptote… and then i think its very easy to explain and play with</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-27T15:20:35Z",
+   "updated_at": "2021-04-27T15:20:35Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I understand, it’s a trade-off between user experience and math simplicity.</p>\n<p>I still prefer <code>m=C*R</code> because it has more meaning, but in case we go <code>m=R/C</code> I would not add more constants in the formulas. I changed the desmos proposed by griff so it doesn’t multiply R by 500 anymore (it felt arbitrary). I would just make the range of C from 0 to 5, with steps of 0.01. Here is the <a href=\"https://www.desmos.com/calculator/bmpp1izrfp\">updated desmos</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-27T15:39:02Z",
+   "updated_at": "2021-04-27T15:39:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Also, there is something that can make things easier. We already consider “target goal” as a parameter. Let’s use it to replace <code>mH</code> in the original formula, because this is exactly what it means. If we reach the “target goal”, impact hour holders will get paid at a rate of “max rate”/2.</p>\n<p>The final formula would be <code>f(x) = R * x / (x + Tg)</code>. This simplified form is actually used by the <a href=\"https://github.com/CommonsSwarm/impact-hours-app#readme\">smart contract</a>. We would have one parameter less to define for the hatch dao, and overall, less always is better.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-28T14:13:33Z",
+   "updated_at": "2021-04-28T14:13:33Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yet another option is defining the curve based on two points, (+∞, maxRate) and (minGoal, minRate).</p>\n<p>This gives us two intuitive parameters to define the IH formula, the max rate (nearly impossible to reach), and the min rate, which is the rate that receives each impact hour when the min goal is reached. Target goal could also be used instead of min goal, but min rate felt more useful for modeling.</p>\n<p>The formula to get <code>m</code> for the original formula based on min goal <code>G</code> and min rate <code>r</code> is:</p>\n<p><img alt=\"Screenshot from 2021-04-28 16-12-32\" data-base62-sha1=\"vCnZQt9mheth2uf9shw6PHtNB2U\" height=\"62\" src=\"https://forum.tecommons.org/uploads/default/original/1X/dd9a3fb205b95c1ca5a0b2d1a5658d964a9cfdf0.png\" width=\"180\"/></p>\n<p>You can play with the updated <a href=\"https://www.desmos.com/calculator/77o21poj6p\">desmos here</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-28T14:56:21Z",
+   "updated_at": "2021-04-28T14:56:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>THIS IS AMAZING!!!</p>\n<p>It is WAY more intuitive to allow the user to choose a point on the line and define the asymptote then they only need one slider to play with to get their slope…</p>\n<p>It’s genius!!</p>\n<p>I do think the most intuitive point to design around is the Target Goal as opposed to the min goal tho… what do you think, can we play with the equation to make that a thing?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-28T20:36:32Z",
+   "updated_at": "2021-04-28T20:36:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yes of course, we can use target goal instead of min goal, and add min goal rate as an output to have into consideration. It’s the same formula as above, but <code>G</code> now means “Target Goal” and <code>r</code> is the target goal rate. This is the <a href=\"https://www.desmos.com/calculator/hmjxo4tu0w\">updated desmos</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-07T18:22:51Z",
+   "updated_at": "2021-05-07T18:22:51Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Impact Hour Rate at Target Goal (wxDai/IH)?</strong><br/>\nThe Impact Hour Rate at Target Goal (wxDai/IH) parameter determines the amount of wxDai allocated for each Impact Hour earned by the Builders of our community.  The source of these funds comes from the amount raised during the Hatch Period and therefore the ratio between wxDai and Impact Hours is dependent upon the amount of funds raised.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nThe Impact Hour Rate at Target Goal parameter is measured in wxDai, and you will have the option to set this parameter anywhere between 0 and ∞ .</p>\n<p>This parameter has several implications and determines how much we reward our Community Builders in relation to the amount of Impact Hours they earned.  The source of these funds come from the amount of wxDai raised during the Hatch Period, specifically from the unredeemable pool of funds determined by the Hatch% Parameter.</p>\n<p><strong>Suggested Range</strong><br/>\nDepending on your Target Goal, we suggest an Impact Hour Rate of 20-200 wxDai.</p>\n<p><strong>Related Parameters to consider when defining the Impact Hour Rate (wxDai/IH) at Target Goal:</strong><br/>\nTarget Goal (wxDai)<br/>\nMinimum Goal (wxDai)<br/>\nMaximum Goal (wxDai)<br/>\nImpact Hour Rate at Infinity (wxDai/IH)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-07T18:28:15Z",
+   "updated_at": "2021-05-07T18:28:15Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Impact Hour Rate at Infinity (wxDai/IH)</strong><br/>\nThe Impact Hour Rate at Infinity (wxDai/IH) determines the theoretical maximum for the Impact Hour Rate.  The rate serves as an asymptote for the curve according to the amount of funds raised during the Hatch Period.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nThe Impact Hour Rate (wxDai/IH) at Infinity is measured as a ratio, and you will have the option to set this parameter between 0 and 1000.</p>\n<p>Since the Impact Hour Rate is dynamic based on the amount of funds raised during the Hatch Period, the Impact Hour Rate at Infinity(wxDai/IH) parameter defines the curve for this rate.  The higher you set your ratio, the amount of wxDai per single Impact Hour increases as it moves beyond your Target Goal (wxDai) parameter.  This parameter is at the foundation for your Hatch Strategy because it serves as a method for defining your hatch-raise incentives.  The Impact Hour rate rewards our Community Builders, and this parameter establishes the magnitude of that reward.  Inversely, this also impacts the amount of voting power held by Backers within the HatchDAO.(?)</p>\n<p><strong>Suggested Range</strong><br/>\nThe Impact Hour Rate at Infinity should be carefully considered, but we suggest a range of 80-1000 wxDai.</p>\n<p><strong>Related Parameters to consider when defining the Impact Hour Rate (wxDai/IH) at Infinity:</strong><br/>\nTarget Goal (wxDai)<br/>\nMinimum Goal (wxDai)<br/>\nMaximum Goal (wxDai)<br/>\nImpact Hour Rate at Target Goal (wxDai/IH)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145410",
+    "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420124513",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420124513",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624143548",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/10"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624143548",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/10"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928015856",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928015856",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928023926",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928023926",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520080912",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/17"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520080912",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/17"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706002917",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706002917",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815091040",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/10"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815091040",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/10"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006182249",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006182249",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126230921",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126230921",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204023118",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530071351",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530071351",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240424192103",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424192103",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240424195535",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424195535",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319205843",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805131534",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/10"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805131534",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/10"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805132447",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805132447",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805142005",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805142005",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805145410",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805145410",
+   "url": "https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/21"
+  }
+ ]
+}

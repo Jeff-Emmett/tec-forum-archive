@@ -1,0 +1,77 @@
+{
+ "id": 960,
+ "title": "Retroactive Funding for TEC Comms and Communitas",
+ "slug": "retroactive-funding-for-tec-comms-and-communitas",
+ "category_id": 7,
+ "total_known": false,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2022-04-01T02:08:01Z",
+ "last_archived_post_at": "2022-04-04T19:45:20Z",
+ "captured_between": [
+  "2022-05-20T08:14:24Z",
+  "2022-05-20T08:14:24Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-04-01T02:08:01Z",
+   "updated_at": "2022-04-01T02:08:01Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#retroactive-funding-for-tec-comms-and-communitas-1\" name=\"retroactive-funding-for-tec-comms-and-communitas-1\"></a>Retroactive funding for TEC Comms and Communitas</h1>\n<h2>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h2>\n<p>This is a retroactive funding proposal for compensation paid for TEC Comms &amp; Communitas contributors before the Commons Upgrade and before they had their <a href=\"https://forum.tecommons.org/t/comms-t-e-a-m-dao-funding-proposal/865\">funding proposals</a> passed. The covered period is August 2021 - February 2022.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h2>\n<p>This is the breakdown of the compensation paid by Griff for TEC contributors through the Giveth Trace - TEC Campaign. The total amount requested from the TEC Gardens would be sent to Griff’s address as retroactive funding.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Month</th>\n<th>Contributors</th>\n<th>Amount</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>August 2021</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/ygg-august-token-engineering-research-and-labs\">YGG</a>, <a href=\"https://trace.giveth.io/trace/chuy-august-tec-comms-trace\">Chuy</a>, <a href=\"https://trace.giveth.io/trace/acid-lazzer-august-tec-comms-payment\">Acid Lazzer</a>, <a href=\"https://trace.giveth.io/trace/david-please-dyor-august-tec-comms\">David</a> &amp; <a href=\"https://trace.giveth.io/trace/mount-manus-august-trace\">Mount Manu</a>\n</td>\n<td>10,180</td>\n</tr>\n<tr>\n<td>September 2021</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/chuy-september-tec-comms-trace\">Chuy</a>, <a href=\"https://trace.giveth.io/trace/david-please-dyor-september-2021-tec-comms-twitter\">David</a>, <a href=\"https://trace.giveth.io/trace/acid-lazzer-september-tec-comms-payment\">Acid Lazzer</a>, <a href=\"https://trace.giveth.io/trace/eduardos-september-trace\">Eduardo</a> &amp; <a href=\"https://trace.giveth.io/trace/mount-manus-september-trace\">Mount Manu</a>\n</td>\n<td>9,202</td>\n</tr>\n<tr>\n<td>October 2021</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/eduardos-october-trace\">Eduardo</a>, <a href=\"https://trace.giveth.io/trace/chuy-october-tec-comms-trace\">Chuy</a>, <a href=\"https://trace.giveth.io/trace/mt-manus-october-trace\">Mount Manu</a>, <a href=\"https://trace.giveth.io/trace/acid-lazzer-october-tec-comms-trace\">Acid Lazzer</a>, <a href=\"https://trace.giveth.io/trace/david-dyor-month-of-october-2021\">David</a> &amp; <a href=\"https://trace.giveth.io/trace/zer8-month-of-october-november-2021\">ZER8</a>\n</td>\n<td>10,695</td>\n</tr>\n<tr>\n<td>November 2021</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/zer8-month-of-october-november-2021\">ZER8</a>, <a href=\"https://trace.giveth.io/trace/chuy-november-tec-comms-trace\">Chuy</a>, <a href=\"https://trace.giveth.io/trace/acid-lazzers-november-trace\">Acid Lazzer</a>, <a href=\"https://trace.giveth.io/trace/mt-manus-november-trace\">Mount Manu</a> &amp; <a href=\"https://trace.giveth.io/trace/eduardos-november\">Eduardo</a>\n</td>\n<td>9,732</td>\n</tr>\n<tr>\n<td>December 2021</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/eduardos-december-trace\">Eduardo</a>, <a href=\"https://trace.giveth.io/trace/chuy-december-tec-comms-trace\">Chuy</a>, <a href=\"https://trace.giveth.io/trace/mt-manus-december-trace\">Mount Manu</a>, <a href=\"https://trace.giveth.io/trace/acid-lazzer-december-trace\">Acid Lazzer</a> &amp; <a href=\"https://trace.giveth.io/trace/zer8-month-of-december-2021\">ZER8</a>\n</td>\n<td>9,430</td>\n</tr>\n<tr>\n<td>January 2022</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/eduardos-january-2022-trace\">Eduardo</a>, <a href=\"https://trace.giveth.io/trace/chuy-january-2022-tec-comms-trace\">Chuy</a>, <a href=\"https://trace.giveth.io/trace/acid-lazzer-january-2022-trace\">Acid Lazzer</a> &amp; <a href=\"https://trace.giveth.io/trace/mt-manus-january-2022-trace\">Mount Manu</a>\n</td>\n<td>9,620</td>\n</tr>\n<tr>\n<td>February 2022</td>\n<td>\n<a href=\"https://trace.giveth.io/trace/mt-manus-mid-february-trace\">Mount Manu</a>, <a href=\"https://trace.giveth.io/trace/chuy-february-2022-tec-comms-trace\">Chuy</a> &amp; <a href=\"https://trace.giveth.io/trace/acid-lazzer-february-2022-trace\">Acid Lazzer</a>\n</td>\n<td>4,182</td>\n</tr>\n<tr>\n<td>Total</td>\n<td></td>\n<td>63,041</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#team-information-4\" name=\"team-information-4\"></a>Team Information</h3>\n<p>TEC Team: Griff, Chuy, Eduardo, Mount Manu, Acid Lazzer, David, ZER8</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-5\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-5\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>TEC Comms and Communitas WGs were critical for the Commons Upgrade and got us where we were today. Griff donated these funds to keep everyone going when the Commons Stack couldn’t support the effort for legal reasons and there was no rewards system or access to capital for the TEC to pay for to do this critical work.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-6\" name=\"amount-requested-6\"></a>Amount requested</h3>\n<p>63,041 wxDAI - in month by month chunks</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081424",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-comms-and-communitas/960"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-04-01T09:38:47Z",
+   "updated_at": "2022-04-01T09:38:47Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for pushing it  in a critical moment with ur own money Griff <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081424",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-comms-and-communitas/960"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "acidlazzer",
+   "name": null,
+   "created_at": "2022-04-04T19:45:20Z",
+   "updated_at": "2022-04-04T19:45:50Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for everything Griff, big praise for you!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081424",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-comms-and-communitas/960"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520081424",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-comms-and-communitas/960"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520081424",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-comms-and-communitas/960"
+  }
+ ]
+}

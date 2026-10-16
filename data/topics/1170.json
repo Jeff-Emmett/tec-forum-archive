@@ -1,0 +1,226 @@
+{
+ "id": 1170,
+ "title": "Dynamically Changing Rewards Distribution Amount",
+ "slug": "dynamically-changing-rewards-distribution-amount",
+ "category_id": 10,
+ "posts_count": 11,
+ "created_at": "2022-10-27T18:48:03.734Z",
+ "last_posted_at": "2022-11-03T23:50:56.903Z",
+ "tags": [
+  "rewards-distro"
+ ],
+ "total_known": true,
+ "archived_posts": 12,
+ "archived_numbers": 12,
+ "last_archived_post_at": "2022-11-03T23:50:56Z",
+ "captured_between": [
+  "2022-11-26T21:45:41Z",
+  "2022-11-26T21:45:41Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-10-27T18:48:04Z",
+   "updated_at": "2022-10-27T18:48:04Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Challenge: When the TEC token distribution was determined, the volume of Praise was significantly higher than it is now. Over the past 10 months, Praise volume has dropped by over 90% as of the last period. However, as the distribution was set as a static volume, we are distributing the same quantity of TEC (1,874 per 2 week period) for a significantly smaller volume of praise dished.</p>\n<p>Planned Approach: Implement a mechanism to dynamically adjust the rewards distributed for a period to correspond to the amount of Praise being dished. The method of determining the distribution would be based on a linear equation that defines two things:</p>\n<ul>\n<li>The maximum amount of tokens to distribute (ceiling)</li>\n<li>The instances of praise needed to acquire maximum rewards (cutoff).</li>\n</ul>\n<p>We chose a ceiling based on the historical peak count of Praise incidents, while maintaining the ceiling at our current rate of distribution. Here’s our parameters:</p>\n<p>TEC Ceiling: 1,874 (same as current distribution)<br/>\nPraise Instances Cutoff: 800 (~91% of historical peak of praise dished bi-weekly)</p>\n<p>Rewards Distribution can be simulated by inputting period instances of Praise to this tool: <a href=\"https://observablehq.com/@kristofer/praise-straight-curve-with-ceiling\" rel=\"noopener nofollow ugc\">https://observablehq.com/@kristofer/praise-straight-curve-with-ceiling</a></p>\n<p>**credit to <a class=\"mention\" href=\"/u/kristoferlund\">@kristoferlund</a> for developing the tool</p>\n<p>However it’s already been built into RAD and would be ready to use immediately in our current processes.</p>\n<p>**Credit to <a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a> for implementing it</p>\n<p>Example: In Period 19 there were 141 incidents of Praise. Using the tool linked above with the Ceiling and Cutoff values proposed, the Reward Distribution would be 330 TEC.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/dd4a862926e9f0af942914af584922aa67f7939a\" href=\"https://forum.tecommons.org/uploads/default/original/1X/dd4a862926e9f0af942914af584922aa67f7939a.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"vzDbEPVfx4STjXTM1kYZGmWoKQG\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/dd4a862926e9f0af942914af584922aa67f7939a_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/dd4a862926e9f0af942914af584922aa67f7939a_2_558x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/dd4a862926e9f0af942914af584922aa67f7939a_2_558x500.png, https://forum.tecommons.org/uploads/default/original/1X/dd4a862926e9f0af942914af584922aa67f7939a.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/dd4a862926e9f0af942914af584922aa67f7939a.png 2x\" width=\"558\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">660×591 74.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Benefits: Provide some sort of feedback to the distribution process based on utilization of the Praise system. As a secondary benefit, extend the lifespan of the rewards pool.</p>\n<p>Alternatives considered: As an alternative to instances of Praise, we tried looking at the total value of all Praise in a round to calculate the distribution. Using the example above, the distribution above using this method would have only distributed 170 TEC in period 19.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-10-28T02:54:04Z",
+   "updated_at": "2022-10-28T02:54:04Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I support this so much!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-10-28T14:44:18Z",
+   "updated_at": "2022-10-28T14:44:18Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>let’s do it! Thank you so much for posting this hot topic Maxwell!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-28T18:18:17Z",
+   "updated_at": "2022-10-28T18:18:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Very interesting proposal, I’m in favour too. It essentially sets a maximum price per Praise value unit.<br/>\nJust wanted to ask, what’s the value for this constant?</p>\n<p>i.e. what’s the maximum worth of the low value items, eg attending a call/ making a tweet, etc, set at atm?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-10-28T18:39:55Z",
+   "updated_at": "2022-10-28T18:39:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"1170\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/f1d935/40.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>maximum price per Praise value unit</p>\n</blockquote>\n</aside>\n<p>Just to clarify/confirm, the calculation is based on instances of Praise (not the value that quantifiers assign to it). So, in the most extreme example, if there was only a single instance of Praise (regardless of how it was quantified), the token distribution would be 2 TEC (using the 1,874 ceiling, 800 cutoff, and 1 instance of Praise plugged in to the tool). That would further be reduced by the amount allocated to the Rewards Board (3%) and Quantifiers (7%) assigned for that round, so 1.8 TEC is the maximum reward for a single instance of Praise.</p>\n<p>**Please someone correct me if that’s wrong</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-30T12:22:11Z",
+   "updated_at": "2022-10-30T15:06:24Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’ve had a longer think on this proposal over the last few days.</p>\n<p>I’m still in favour, for I do not see other measures that could be taken to ensure our beloved Praise can keep going without fear of having a funding proposal rejected. Furthermore, the proposed distribution mechanics better align all users in favour of praising more often.</p>\n<p>I just wanted to point out, however, that the reduction in Praise items (ergo increase in TEC distribution per person) has indeed correlated with the collapse in the monetary value of TEC. If we’re talking ATH in TEC value, just as we’re taking ATH in Praise activity, TEC hit ~$2.90 twice during the months of February and March. This represents a 60.5% fall in value. It’s not absurd to say that a Praise item has thus far been worth ≅ k xDAI throughout.</p>\n<p>In effect, this’ll be the first time in which those who have relied mainly of on Praise (such as myself) receive a grave collapse in income. Pretty substantial if we’re talking about an 83% (330 as opposed to 1874 TEC) reduction in biweekly outgoings. The burden of payment was gradually pushed onto Praise by multiple WGs, and this proposal will mark a sharp break from accepting such behaviour.</p>\n<p>Once the blueprint for the new TEC operational structure is there, we may need to consider if and how best to ensure this value generation will keep flowing into the TEC, for Praise will now be pushing it aside, too.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-30T15:07:07Z",
+   "updated_at": "2022-10-30T15:07:07Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>(edited above to add extra context and rephrase some of the sentences to better convey my point)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-10-31T00:28:11Z",
+   "updated_at": "2022-10-31T00:28:11Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This is a very good point, and not something I think we addressed directly however touched upon indirectly. My understanding is that Praise was intended to capture contributions that were traditionally excluded from compensation in other ways (Stewards, SourceCred, etc.). However, as you noted, the burden of payment/compensation for some of those workstreams was shifted to Praise for more contributions, outside the intended scope of Praise. While I think we came to the same conclusion around the intent of this change, I think it’s important to consider this use case and ensure it’s taken in to consideration as part of the broader operational changes being discussed.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-01T20:32:51Z",
+   "updated_at": "2022-11-01T20:32:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Perhaps a smoother solution would be to incrementally heighten the ceiling over an x period of time -  rather than a sudden drop of rewards its a slow taper… or perhaps this allows the community to adjust it’s praise culture (dish more praise!)</p>\n<p>i.e we start the next round with a ceiling of 100 then every bi-weekly distribution we increase the cap by 100 praise - we continue this for 7 cycles up until we reach our target ceiling of 800.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-03T19:38:06Z",
+   "updated_at": "2022-11-03T19:38:06Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>After a few weeks of discussion I think I would like to revise this proposal.</p>\n<p>I think 800 is a very high cutoff and might never be feasible in the medium term for the TEC. I also hear some valid arguments as many WGs and contributors have been leaning on rewards to compensate some of the work they are doing.</p>\n<p>I would propose instead we find a lower cutoff. To that end I ran some numbers. I took all of our praise instances from every round and the total praise score for each round and roughly spread it across bi-weekly periods (some quant rounds were for one month or longer). I then calculated a weighted average from across the last 20 rounds, taking the average from the praise instances and using the total praise score as the weight.</p>\n<p>Using this method I arrived at a weighted average of <strong>635.23</strong></p>\n<p>I would propose to use this as our cutoff and slowly ramp up to this point across 3 bi-weekly quant rounds.  We maintain our ceiling at 1874 $TEC per round.</p>\n<p>This would mean we start immediately with a cutoff of 158 and add 158 after each round until we arrive at 635.</p>\n<p>If there’s no objections we will implement this for distribution starting in round 21.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-11-03T20:48:18Z",
+   "updated_at": "2022-11-03T20:48:18Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I think this is a great balance to ease the transition to a dynamic rewards, while recognizing that we likely don’t want to rebase to the absolute maximum of praise activity. I’m fully in support of this approach for a transition.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-11-03T23:50:56Z",
+   "updated_at": "2022-11-03T23:50:56Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I think this will give the time for TEC activities to transition to a more sustainable model alongside Praise rather than forcing a sudden state change.</p>\n<p>I am also in full support.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126214541",
+    "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221126214541",
+   "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126214541",
+   "url": "https://forum.tecommons.org/t/dynamically-changing-rewards-distribution-amount/1170"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": 1302,
+ "title": "Results of TE Grants Round 2",
+ "slug": "results-of-te-grants-round-2",
+ "category_id": 32,
+ "tags": [
+  "round-results"
+ ],
+ "posts_count": 0,
+ "created_at": "2023-10-13T18:33:14.168Z",
+ "last_posted_at": "2023-10-13T18:33:14.355Z",
+ "views": 1397,
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2023-10-13T18:33:14Z",
+ "captured_between": [
+  "2023-12-11T00:02:51Z",
+  "2025-01-20T04:06:21Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-10-13T18:33:14Z",
+   "updated_at": "2024-07-19T20:43:20Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0\" title=\"2023-07-24 14.17.14\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0_2_690x387.jpeg\" alt=\"2023-07-24 14.17.14\" data-base62-sha1=\"9Y1FRoFmGZdrwEjUdyEZF9xdMfC\" width=\"690\" height=\"387\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0_2_690x387.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0_2_1035x580.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0.jpeg 2x\" data-dominant-color=\"512E6E\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">2023-07-24 14.17.14</span><span class=\"informations\">1280×719 190 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<h2>\n<a name=\"about-the-round-1\" class=\"anchor\" href=\"#about-the-round-1\"></a>About the Round</h2>\n<p>During the past Gitcoin Beta Round (Aug 15 - 29) we had the second QF round of our TE Grants Program as a Gitcoin Featured Round, funding came from TEC’s Common Pool.</p>\n<h3>\n<a name=\"round-configuration-2\" class=\"anchor\" href=\"#round-configuration-2\"></a>Round Configuration:</h3>\n<ul>\n<li>$25k matching pool</li>\n<li>20% matching cap</li>\n<li>2x coefficient multiplier for the TE Matching Boost, more details below</li>\n</ul>\n<h3>\n<a name=\"round-stats-3\" class=\"anchor\" href=\"#round-stats-3\"></a>Round Stats:</h3>\n<ul>\n<li>14 projects</li>\n<li>1,837 unique donors</li>\n<li>2,608 contributions in total</li>\n<li>$5,786.48 raised from donors</li>\n<li>$3.15 average contribution</li>\n</ul>\n<h2>\n<a name=\"results-of-the-round-4\" class=\"anchor\" href=\"#results-of-the-round-4\"></a>Results of the round</h2>\n<p>Here are the results of the round for the projects:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>TE GRANTS DISTRIBUTION TABLE</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><strong>Project Name</strong></td>\n<td><strong>Payout in $TEC</strong></td>\n<td></td>\n</tr>\n<tr>\n<td>Bonding Curve Research Group (BCRG)</td>\n<td>9710.0293</td>\n<td></td>\n</tr>\n<tr>\n<td>DataBites</td>\n<td>7073.6435</td>\n<td></td>\n</tr>\n<tr>\n<td>Dynamic Optimization Algorithm for Self-regulating Tokenomics</td>\n<td>6982.7264</td>\n<td></td>\n</tr>\n<tr>\n<td>Index Wallets</td>\n<td>5533.4081</td>\n<td></td>\n</tr>\n<tr>\n<td>Commons Stack</td>\n<td>6044.8391</td>\n<td></td>\n</tr>\n<tr>\n<td>EVMcrispr</td>\n<td>2417.2633</td>\n<td></td>\n</tr>\n<tr>\n<td>Retroactive Thank you to Volunteers at Token Engineering Barcamp (EthCC Paris 2023)</td>\n<td>2522.4362</td>\n<td></td>\n</tr>\n<tr>\n<td>cadCAD: Computer Aided Design for Complex Systems</td>\n<td>2105.8418</td>\n<td></td>\n</tr>\n<tr>\n<td>TurtleShell</td>\n<td>1771.6133</td>\n<td></td>\n</tr>\n<tr>\n<td>TE Career Builder for Womxn in Web 3</td>\n<td>1431.2730</td>\n<td></td>\n</tr>\n<tr>\n<td>Towards an Industry Standard Python Library for Token Engineering</td>\n<td>999.2563</td>\n<td></td>\n</tr>\n<tr>\n<td>Programmable Quantitative Token Model</td>\n<td>848.6801</td>\n<td></td>\n</tr>\n<tr>\n<td>SymVal</td>\n<td>642.5911</td>\n<td></td>\n</tr>\n<tr>\n<td>HarbergerToken - A Decentraliazed Infra for Sustainable Funding of Open Source Proj.</td>\n<td>466.5447</td>\n<td></td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>48550.1464</strong></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div><h2>\n<a name=\"next-round-5\" class=\"anchor\" href=\"#next-round-5\"></a>Next Round</h2>\n<p>Dates for the next round are still TBD, we’ll communicate them as soon as we finalise some details <img src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=12\" title=\":robot:\" class=\"emoji\" alt=\":robot:\" loading=\"lazy\" width=\"20\" height=\"20\">.</p>\n<p>In the meantime, if you are a grantee interested in participating, or a project interested in sponsoring this or following rounds. Please reach out to us via discord or <a href=\"mailto:grants@tecommons.org\">grants@tecommons.org</a></p>\n<p>Any feedback on how can we improve is very much appreciated!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250120040621",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-2/1302"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231211000251",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-2/1302"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231211000251",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-2/1302"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250120040621",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-2/1302"
+  }
+ ]
+}

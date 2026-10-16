@@ -1,0 +1,50 @@
+{
+ "id": 1074,
+ "title": "Reputation System?",
+ "slug": "reputation-system",
+ "category_id": 10,
+ "tags": [
+  "governance"
+ ],
+ "posts_count": 0,
+ "created_at": "2022-07-05T03:23:12.560Z",
+ "last_posted_at": "2022-07-05T03:23:13.266Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2022-07-05T03:23:13Z",
+ "captured_between": [
+  "2022-08-15T10:15:08Z",
+  "2022-08-15T10:15:08Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "klingefjord",
+   "name": null,
+   "created_at": "2022-07-05T03:23:13Z",
+   "updated_at": "2022-07-05T03:23:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi!</p>\n<p>I’m working on reputation systems and have experimented with the !praise data.</p>\n<p>Most reputation systems fail due to not being contextual enough – reputation is multi-dimensional. Universal scalars tend to become social credit scores, due to the perceived objectivity of such numbers.</p>\n<p>I’ve built a system that uses language embeddings and PR to determine who is most reputable within a certain area in the DAO based on the !praise data.</p>\n<p>You can try it like this:</p>\n<pre><code class=\"lang-auto\">curl -X POST -H \\\n        \"Content-Type: application/json\" \\\n        -d '{\"query\": \"graphic design\", \"server\": \"tec\", \"api_key\": \"c4a0ae09-4dab-41d3-9660-d74d551f44c5\"}' \\\n        https://replabs-flask-app-aucndxjanq-ew.a.run.app/query | jq .\n</code></pre>\n<p>The “query” parameter is dynamic and can be any string representing the type of reputation you’re interested in. For example, “graphic design”.</p>\n<p>I mainly did this as an early experiment for <a href=\"https://replabs.xyz/\" rel=\"noopener nofollow ugc\">https://replabs.xyz/</a>, but thought I’d see if this sparks any interest in the TEC community – do you see this being useful to you?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815101508",
+    "url": "https://forum.tecommons.org/t/reputation-system/1074"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815101508",
+   "url": "https://forum.tecommons.org/t/reputation-system/1074"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815101508",
+   "url": "https://forum.tecommons.org/t/reputation-system/1074"
+  }
+ ]
+}

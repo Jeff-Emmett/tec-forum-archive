@@ -1,0 +1,247 @@
+{
+ "id": 1296,
+ "title": "Funding proposal for technical migration of TEC to Optimism",
+ "slug": "funding-proposal-for-technical-migration-of-tec-to-optimism",
+ "category_id": 29,
+ "posts_count": 10,
+ "created_at": "2023-09-29T16:54:18.449Z",
+ "last_posted_at": "2024-01-15T10:11:52.203Z",
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2024-01-15T10:11:52Z",
+ "captured_between": [
+  "2023-12-10T22:35:53Z",
+  "2024-07-24T15:38:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-09-29T16:54:18Z",
+   "updated_at": "2023-09-29T16:54:18Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h3>\n<p>This proposal aims to migrate the TECommons from Gnosis Chain to Optimism. The migration is suggested due to the benefits like reduced friction in buying $TEC, increased access to capital, and potential retroactive public goods funding. As Gardens (currently used by TEC) isn’t available on Optimism, the DAO will transition to Tao Voting DAO on Optimism, which will still be based on the Aragon OS framework and will feature similar functionalities with some adjustments.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h3>\n<p>After evaluating the technical requirements for a DAO migration to Optimism, the TECAN-Strategy group and Turmeric Labs came up with a <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294\">plan to be considered by the community</a>. Tam wrote a forum post for advice process on what decisions the community will need to make and other important considerations, meanwhile this proposal outlines the funding and deliverables for migrating the TEC from Gnosis to Optimism.</p>\n<p>As Gardens are not available on Optimism, we propose to migrate the DAO from a Gardens on Gnosis to a Tao Voting DAO on Optimism.</p>\n<p>Similarly to the Gardens, the Tao Voting DAO will:</p>\n<ul>\n<li>Be based on the Aragon OS framework.</li>\n<li>Have a similar architecture, with the same kind of tokens, a delegate voting system, and we can attach to it the same augmented bonding curve.</li>\n</ul>\n<p>Differently to Gardens:</p>\n<ul>\n<li>As Celeste is not available in Optimism, we must choose a group of Guardians with the capacity of veto proposals that do not follow the Community Covenant. It would be a group of trusted people that must act as judges when somebody in the community or themselves claim that a proposal do not follow the community rules.</li>\n<li>Instead of using Conviction Voting for funding decisions, the new DAO can use Tao Voting with a lowered set of parameters for managing the Common Pool and use Tao Voting with hardened parameters to pass any other kind of decision.</li>\n<li>The DAO will be prepared to use multiple tokens as governance tokens. So in the future it will be easier to enable TEC reputation non-transferable tokens if the community decides so.</li>\n</ul>\n<p>We will provide a more <strong>detailed specification of the DAO architecture</strong> and parameters on a subsequent post, as part of the work funded by this proposal.</p>\n<p>On top of that, we will provide a <strong>report on which contracts hold TEC</strong> and a set of <strong>recommended strategies</strong> so their owners receive the same amount of TEC in their addresses on Optimism. Some of those strategies could be passive (we analyze the contract and determine who are the underlying owners) and some active (the owners should take some action before TEC is migrated).</p>\n<p>In August 2023, when we did a preliminary census, there was only 132,786 TEC held in 17 smart contracts, and most of the value locked were in LPs (WATER-TEC and GIV-TEC) and Safes.</p>\n<p>Once we have a clearer plan on how each smart contract should be migrated, we will perform a <strong>migration rehearsal test</strong> and check that the migration can be done without any issue.</p>\n<p>After that we will be prepared to <strong>perform the real migration</strong>, which will consist on a Tao Vote that will move the Common Pool and Reserve wxDAI into a Safe controlled by trusted individuals of the community (still to be decided), and will freeze the transferability of the TEC token.</p>\n<p>The <strong>multisig will bridge the funds</strong> first to mainnet, and from there to Optimism. If there is a chance to <a href=\"https://forum.tecommons.org/t/buying-eth-to-protect-against-xdai-challenges/1239\">change the reserve token</a>, that would be a good moment, and we could assist on that. Further discussion on this is happening in the Tam’s post on decisions the community must take.</p>\n<p>Once the funds are in Optimism, they should be <strong>transferred to the Tao Vote DAO</strong> which specification was already shared previously in the forum, controlled by the brand new TEC tokenholders. The new token address should be updated in <a href=\"https://www.coingecko.com/en/coins/token-engineering-commons\">Coingecko</a>.</p>\n<p>The <strong>Augmented Bonding Curve should be open shortly afterwards</strong>, allowing people to convert between the reserve and TEC tokens.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-3\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-3\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>This proposal helps TECommons by:</p>\n<ul>\n<li>\n<strong>Lowering the Friction.</strong> The process of buying $TEC has very high friction. One must be on Gnosis Chain, acquire xDAI, wrap the xDAI, and only then can one use the wxDAI to buy $TEC. The process to buy $TEC from optimism will greatly reduce this friction. One will need to be on Optimism, and can then simply swap the tbd reserve asset for $TEC.</li>\n<li>\n<strong>Access to Capital.</strong> Optimism has a much higher TVL than Gnosis Chain, and much better integrations with centralized exchanges.</li>\n<li>\n<strong>RetroPGFs.</strong> Choosing Optimism as TEC new home makes it easier to receive retroactive public goods funding in the future.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-4\" name=\"amount-requested-4\"></a>Amount requested</h3>\n<p>For the successful execution and completion of the tasks at hand, we request a total allocation of 15,000 wxDAI. Here’s a breakdown of the funding:</p>\n<ul>\n<li>An initial sum of 6,000 wxDAI would cover the Deliverables <span class=\"hashtag\">#1</span> and <span class=\"hashtag\">#2</span> (see below). These deliverables will outline the technical migration plan in meticulous detail.</li>\n<li>Subsequently, a provision of 9,000 wxDAI would be spent on the rehearsal test and the actual migration phase.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-5\" name=\"how-will-these-funds-be-used-5\"></a>How will these funds be used?</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>#</th>\n<th>Task</th>\n<th>Amount (wxDAI)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Prepare a census of TEC tokenholders and a migration strategy for each contract that holds TEC. This may include the writing of smart contracts to allow partial transferability of TEC in order to recover the funds put in LPs.</td>\n<td>6,000</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Prepare a vote that moves the funds of both the Common Pool and the Reserve, and freezes the TEC token making it non-transferable on Gnosis.</td>\n<td>4,000</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Create a Tao Voting DAO on Optimism with the same token distribution than in Gnosis (exceptuating the contracts which will have a different migration strategy defined in Task <span class=\"hashtag\">#1</span>). Include an Augmented Bonding Curve that will be open when the funds are transferred to the new DAO.</td>\n<td>5,000</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-6\" name=\"what-does-success-look-like-6\"></a><strong>What does success look like?</strong>\n</h3>\n<p>This criteria should be met to call this proposal done:</p>\n<ul>\n<li>The funds from the Gardens DAO on Gnosis should be successfully migrated to Optimism.</li>\n<li>The tokenholders who had TEC tokens on Gnosis should have the same tokens on Optimism. The tokens on Gnosis should be non-transferable.</li>\n<li>Operations should be able to continue as normal after the small period of time in which the migration takes place (we aim to complete the process in 24h after the execution of the Migration Vote on Gnosis). This includes:\n<ul>\n<li>A new frontend should be available to manage the DAO by TEC tokenholders.</li>\n<li>A new frontend should be available to mint and burn TEC in the bonding curve.</li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-7\" name=\"how-will-you-share-progress-7\"></a>How will you share progress?</h3>\n<p>We will publish three deliverables in the forum before we create the Migration Vote:</p>\n<ul>\n<li>\n<strong>Deliverable <span class=\"hashtag\">#1</span></strong>: TEC tokenholder census and migration strategy. The census will include:\n<ul>\n<li>List of LPs in which TEC is in.</li>\n<li>List of Safes that hold TEC.</li>\n<li>List of other contracts that are holding TEC and who can recover it.</li>\n<li>Step-by-step strategies on how to remove the TEC from those contracts, who to contact to to make it done, and timelines on which action should be done.</li>\n</ul>\n</li>\n<li>\n<strong>Deliverable <span class=\"hashtag\">#2</span></strong>: Specification of the new DAO on Optimism, with the same parameters as in the current DAO on Gnosis when possible (we will recommend others when it is not possible, and let the community decide).</li>\n<li>\n<strong>Deliverable <span class=\"hashtag\">#3</span></strong>: Results of the rehearsal test done weeks before the migration vote.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h3>\n<ul>\n<li>\n<strong>Sem</strong> - Software engineer and former tech lead at Commons Swarm, the team who deployed the TEC on Gnosis. Main responsible of this migration.</li>\n<li>\n<strong>Jorvixsky</strong> - Frontend developer at ABCswap and ABClaunchpad. Co-author of the report on the migration strategies.</li>\n<li>\n<strong>Pinglu</strong> - Software engineer new to Solidity but with lots of experience on other languages. She will write and run the tests to ensure the migration will be successful.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#complementary-information-9\" name=\"complementary-information-9\"></a>Complementary information</h3>\n<p>The team is also working on deploying an ABCswap page on Optimism which can replace the current <a href=\"https://convert.tecommons.org\">TEC Convert page</a> with frontend built on a more modern stack of technologies. The cost of building and deploying this service is already covered by an Optimism Grant, and we can offer a small customization for TEC so it can have it’s own swap page still in <a href=\"http://convert.tecommons.org\">convert.tecommons.org</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-10-02T09:43:39Z",
+   "updated_at": "2023-10-02T09:43:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Very grateful to see this proposal, <a class=\"mention\" href=\"/u/sem\">@sem</a>!</p>\n<p>It would behoove TEC to understand in detail what the technical migration plan would entail before voting on whether or not to make the move. I would fully support the initial sum of 6K for the two deliverables you mention above. And once the community votes to migrate to Optimism, a second proposal to execute the plan.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-04T22:49:07Z",
+   "updated_at": "2023-10-04T22:49:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Fully support this proposal! Its a great idea to break up the migration into bite sized pieces!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-10-07T20:30:16Z",
+   "updated_at": "2023-10-07T20:30:16Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The vote is live on Gardens:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/34\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://gardens.1hive.org/favicon.png\" width=\"32\"/>\n<a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/34\" rel=\"noopener\" target=\"_blank\">gardens.1hive.org</a>\n</header>\n<article class=\"onebox-body\">\n<h3><a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/34\" rel=\"noopener\" target=\"_blank\">Gardens</a></h3>\n<p>Gardens</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-10-11T09:12:58Z",
+   "updated_at": "2023-10-11T09:12:58Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This proposal has been <a href=\"https://celeste.1hive.org/#/disputes/13\">challenged to Celeste</a> by a user who prefers to remain anonymous. This is the message they left in the challenge:</p>\n<blockquote>\n<p>The migration was not thoroughly thought out. Migration of TEC means these tokens on GC will have no value, which will impact all the other tokens paired in the WATER pool. Also, no matter of value-aligned the Optimism Foundation may look, the possibility of funds on Optimism to be at danger due to lack of validity proofs, the upgradeability of their contracts should not be disregarded.</p>\n<p>Other arguments such as “easy accessibility to liquidity” and “access to defi” are basically irrelevant and not well-grounded.</p>\n<p>Also, abandoning conviction voting, which is the core of the entire Gardens stack, allowing the minority to be able to pass proposals and replacing it with TAO voting which encourages delegation is not a great way to enable inclusion.</p>\n<p>From the looks of it, this proposal of migration seems like a cheesy attempt to cover some kind of a possible OP incentives. And I do not think it is worth the effort and financial burden.</p>\n<p>From a practical perspective, as well, this decision requires, first, an amendment to the entire community covenant as it attempts to replace its practical implications regarding its enforcement which is clearly stated to be carried out by Keepers.</p>\n</blockquote>\n<p>As a reply, I write:</p>\n<blockquote>\n<p>The proposal of migrating to Optimism is transparently discussed within the TEC community, with all the guarantees and letting time for people to reply. I don’t see any reason how this violates the TEC Covenant.<br/>\nOn top of that, the challenged proposal is not the migration proposal, but a payment to work on:</p>\n<ul>\n<li>A report with strategies to mitigate any disruption that the migration can cause, and to avoid funds being locked in contracts.</li>\n<li>A DAO architecture on how the new TEC DAO will look like, offering a better fit for TEC current needs, knowing that it does not distribute funds using Conviction Voting but Gitcoin Grants.</li>\n</ul>\n<p>This is why I ask the Celeste Keepers to <strong>allow the action</strong>, so we will be able to work on a report on how to migrate TEC with the less harm and most positive impact possible.</p>\n</blockquote>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-10-11T15:57:29Z",
+   "updated_at": "2023-10-11T15:57:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>To be fair, I agree with the first statement of the challenge. A migration was not <em>thoroughly</em> thought through. However, that is the exact reason for this technical feasibility study proposal. Preliminary thinking was shared as part of <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/8\">community advice process</a>. The study will provide additional details and may surface issues that have not already been identified.</p>\n<p>It is worth noting that the discussion about Conviction Voting happened about 7 months ago, in March. At the time, there was this <a href=\"https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/7\">forum post explaining the rationale</a> followed by a <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/27\">Gardens vote</a>, which took place in May.</p>\n<p>It is also worth noting that the need for a community covenant revision, should the community decide to migrate to Optimism, is already mentioned in the <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/8\">advice process forum post</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-10-15T21:37:22Z",
+   "updated_at": "2023-10-15T21:37:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Quick question, is the plan to deploy the new DAO on a (legacy) Aragon OS or the new Aragon OS X? Neither are deployed on Optimism, but I wonder if it’d be any worth it to have a chat with them and see if Optimism is coming anytime soon and if they’d be up to support the creation of the ABC plugin for OS X.</p>\n<p>Just trying to make sure we take any opportunity possible with this migration and consider (assuming OS X is) an easier to maintain/more future proof base to deploy the TEC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-17T01:44:08Z",
+   "updated_at": "2023-10-17T01:44:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1296\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/enti/40/907_2.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>Quick question, is the plan to deploy the new DAO on a (legacy) Aragon OS or the new Aragon OS X?</p>\n</blockquote>\n</aside>\n<p>Crazy story, but AragonOS is on Optimism now!</p>\n<p><a class=\"onebox\" href=\"https://optimism.aragon.blossom.software/\" rel=\"noopener\" target=\"_blank\">https://optimism.aragon.blossom.software/</a></p>\n<p>But thats not what we are using.</p>\n<p>Sem is deploying the Tao Voting system he built for <a href=\"https://dao.aragon.org/#/voting/0x5b2ae5f9f1870a7d31ab74d3313262b3210c015d/votes\">Aragon’s network DAO</a> which was well audited and designed to hold $200 M in funds. They used it for months, but there was a change in plans when they got worried about a social attack, so they decided not to give their token holders that kind of power.</p>\n<p>So technically the answer is neither, it will be a well tested Tao Voting instance, using an upgraded version of AragonOS (legacy)… It loads fast,  works well, and hopefully other DAOs will want to use it as well as the factory for it should be up soon™.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-03T23:41:17Z",
+   "updated_at": "2023-12-03T23:41:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>After presenting the <a href=\"https://forum.tecommons.org/t/token-census-before-the-tec-migration-to-optimism/1316\">TEC tokenholder census</a> and the <a href=\"https://forum.tecommons.org/t/optimism-tec-dao-specification/1317\">specification of the new DAO</a> funded by the initial sum of 6,000 wxDAI, we request the transfer of the subsequent 9,000 wxDAI in order to perform a rehearsal test and the actual migration to Optimism:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/35\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://gardens.1hive.org/favicon.png\" width=\"32\"/>\n<a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/35\" rel=\"noopener\" target=\"_blank\">gardens.1hive.org</a>\n</header>\n<article class=\"onebox-body\">\n<h3><a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/35\" rel=\"noopener\" target=\"_blank\">Gardens</a></h3>\n<p>Gardens</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>If this vote passes, it will mean that the TEC community will prepare to migrate to Optimism, specifically into Tao Voting DAO described in the link above. We will perform a test rehearsal to ensure that everything will go as expected, and we will create another vote in Gardens to migrate all the funds and to freeze the token.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-18T18:37:31Z",
+   "updated_at": "2023-12-18T18:37:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The results of the rehearsal tests are out. You can check them out here!</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1323\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/optimism-migration-dress-rehearsal/1323\">Optimism Migration Dress Rehearsal</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/9\"><span class=\"badge-category-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Formal discussion for the various parameters and how they work within the TEC\">🤖 TEC</span></a>\n</div>\n<blockquote>\n    The two DAOs created by this test rehearsal can be found here: \n\n<a href=\"https://optimism.aragon.blossom.software/#/testtec/permissions/\">Test TEC DAO</a>\n<a href=\"https://optimism.aragon.blossom.software/#/testtecrep/permissions/\">Test TEC Rep DAO</a>\n\nThe bonding curve for the test DAO is open here: \n\n<a class=\"inline-onebox\" href=\"https://abcswap.xyz/#/testtec\">ABC Swap</a>\n\nWe will go through all the steps we used to create them and do the migration of the tokens and the funds. \n\n<a class=\"anchor\" href=\"#create-the-daos-1\" name=\"create-the-daos-1\"></a>Create the DAOs\nWe create one DAO for TEC and another one for the Reputation Board. We have to separate the DAO creation in two scripts due to a bug in EVMcrispr. \nload aragonos as ar\nar:new-dao testtec # It will be just \"tec\"\n\nload ar…\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "sem",
+   "name": null,
+   "created_at": "2024-01-15T10:11:52Z",
+   "updated_at": "2024-01-15T10:11:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The migration was a success! Griff and me are requesting a reimbursement for the fees we incurred with the migration:</p>\n<ul>\n<li>Griff: 0.1665 ETH</li>\n<li>Sem: 0.1382 ETH</li>\n</ul>\n<p>Total: 0.3047 ETH + 40 TEC = 0.2781 rETH.</p>\n<p>I’m creating a vote on the new DAO: <a class=\"inline-onebox\" href=\"https://dao.tecommons.org/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/1\">Commons DAO</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724153806",
+    "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231210223553",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210223553",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240424180310",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424180310",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240616081014",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/4"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616081014",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/4"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240616095826",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616095826",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724153806",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724153806",
+   "url": "https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/9"
+  }
+ ]
+}

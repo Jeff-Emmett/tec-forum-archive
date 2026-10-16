@@ -1,0 +1,183 @@
+{
+ "id": 316,
+ "title": "Latest Voting Template has arrived at the TEC!",
+ "slug": "latest-voting-template-has-arrived-at-the-tec",
+ "category_id": 9,
+ "total_known": false,
+ "archived_posts": 4,
+ "archived_numbers": 9,
+ "created_at": "2021-04-01T13:07:13Z",
+ "last_archived_post_at": "2021-04-19T21:53:00Z",
+ "captured_between": [
+  "2021-04-20T13:31:45Z",
+  "2023-05-30T08:04:21Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-04-01T13:07:13Z",
+   "updated_at": "2021-04-01T13:07:13Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Today we’re excited to announce the latest template we’re adding to the TEC’s arsenal. Introducing <strong>Applause Voting</strong>! This is a cutting edge new way to show your approval for proposals by applauding your fellow TEC members! Proposal outcomes can be applauded according to a timeline set out by the proposer. With connectivity via Discord, Google Meet or Facebook Messenger voters can slide into a specially designed video chat room and prepare to clap their way to victory! You will signal for which outcome you are rooting for and there will be a brief countdown and then the voting commences! In order to vote you must be connected on camera and you have to cheer on your proposal! Holler, clap, yell, whistle, show your excitement! A special dashboard will track results in real time and the first outcome to reach the applause threshold will be the winning result!</p>\n<p><img alt=\"540juq\" data-base62-sha1=\"wu9swZniCiIMIJbKIki5Ak497Xz\" height=\"130\" src=\"https://forum.tecommons.org/uploads/default/original/1X/e3ae21972c191a717ce790a50cc06320768c5081.gif\" width=\"260\"/></p>\n<p>Applause Voting has a few unique parameters to be aware of:</p>\n<p><strong>Applause Threshold</strong> - Applause or Cheering needed in order for a proposal outcome to pass</p>\n<p><strong>Minimum Claps per Minute (MCPM)</strong> - Minimum cadence of claps per minute that need to be made to contribute towards reaching the applause threshold.</p>\n<p><strong>Visible Support Required</strong> - Participants must be appropriately costumed to be visibly supporting their outcome. If there is no Visible Support then your participation will not count.</p>\n<p><strong>Mitch Tribute</strong> - A percentage of the tollgate fee that goes to Mitch… because he is awesome.</p>\n<p>We’re very excited to debut this new template, these new mechanics threaten to turn modern governance models on their head and bring in a bright, enthusiastic token engineering future! This template is in completion and will be ready to deploy today, April 1, 2021.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080421",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-01T15:46:06Z",
+   "updated_at": "2021-04-01T15:46:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><img alt=\":joy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/joy.png?v=9\" title=\":joy:\"/> you’re onto something</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080421",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-04-01T20:49:57Z",
+   "updated_at": "2021-04-01T20:49:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’m all dressed up and ready to applaud <img alt=\":cat:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/cat.png?v=9\" title=\":cat:\"/>‍:dragon:!</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"316\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>This template is in completion and will be ready to deploy today, April 1, 2021.</p>\n</blockquote>\n</aside>\n<p><img alt=\":thinking:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=9\" title=\":thinking:\"/> <img alt=\":rofl:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rofl.png?v=9\" title=\":rofl:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080421",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2021-04-02T11:46:54Z",
+   "updated_at": "2021-04-02T11:46:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Ohhhh…  Do I want some Mitch Tribute.  Sweet, sweet Mitch Tribute.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080421",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-04-05T18:10:31Z",
+   "updated_at": "2021-04-05T18:10:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420133145",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-04-09T07:09:52Z",
+   "updated_at": "2021-04-09T07:09:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420133145",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-04-12T19:48:17Z",
+   "updated_at": "2021-04-12T19:48:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420133145",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-04-16T09:01:32Z",
+   "updated_at": "2021-04-16T09:01:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420133145",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-04-19T21:53:00Z",
+   "updated_at": "2021-04-19T21:53:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420133145",
+    "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420133145",
+   "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420133145",
+   "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530080421",
+   "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080421",
+   "url": "https://forum.tecommons.org/t/latest-voting-template-has-arrived-at-the-tec/316"
+  }
+ ]
+}

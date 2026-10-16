@@ -1,0 +1,94 @@
+{
+ "id": 470,
+ "title": "Settlement Period",
+ "slug": "settlement-period",
+ "category_id": 27,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2021-07-04T21:58:43Z",
+ "last_archived_post_at": "2021-09-23T01:25:21Z",
+ "captured_between": [
+  "2022-10-06T16:06:52Z",
+  "2022-10-06T16:06:52Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2021-07-04T21:58:43Z",
+   "updated_at": "2021-07-04T21:58:43Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>The Settlement Period parameter is set during the design phase of the Commons in the advanced area of the CCD, and affects <a href=\"https://forum.tecommons.org/t/disputable-voting-parameters-general-discussion/267\">Disputable Voting</a> and Disputable <a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">Conviction Voting</a>.</p>\n<p>Essentially, if an individual believes that a certain proposal is malicious, contains an error, or is not in alignment with the Community Covenant, they can <a href=\"https://forum.1hive.org/t/disputable-honey-pot-celeste-and-agreement-user-process/1343\">challenge the proposal</a>.</p>\n<p>Once challenged, the proposal creator has a set amount of time, the <strong>“Settlement Period”</strong> to dispute the challenge by paying dispute fees and raising the issue to <a href=\"https://forum.1hive.org/t/celeste-a-brief-primer/1483\">Celeste</a>, or to resolve the challenge by paying the Settlement Offer* and taking down their proposal. If they do not take action before the end of the Settlement Period, the proposal is automatically considered “settled”, is taken down, and the proposer gets back the <a href=\"https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468\">Proposal Deposit</a> minus the Settlement Offer.</p>\n<h3>\n<a class=\"anchor\" href=\"#design-considerations-1\" name=\"design-considerations-1\"></a>Design Considerations</h3>\n<p>A longer Settlement Period gives more time for proposal creators to decide whether or not to raise the dispute to Celeste but may drag out the settlement process. A shorter Settlement Period begets faster conclusions but may result in proposals being “settled” and taken down prematurely.</p>\n<p>*<em>The Settlement Offer is set by the challenger at the time of challenging the proposal. This is an amount of xDai in TEC tokens that they would accept from the proposal creator in order to settle the challenge without raising it to Celeste. If the proposer agrees to settle, this amount is slashed from the proposal creator’s Proposal Deposit and sent to the challenger. Note that the challenger can set the Settlement Offer to zero (for example, in the case of disputing a proposal on very minor grounds) to let the proposer keep their Deposit.</em></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006160652",
+    "url": "https://forum.tecommons.org/t/settlement-period/470"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-07-29T09:53:55Z",
+   "updated_at": "2021-07-29T09:53:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think the Gardens Default is 5 days…? I’d be curious to hear what people at 1hive think… if what they have has been to long or too short</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006160652",
+    "url": "https://forum.tecommons.org/t/settlement-period/470"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-09-22T17:20:45Z",
+   "updated_at": "2021-09-22T17:20:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/sem\">@sem</a> do you have any insights on this?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006160652",
+    "url": "https://forum.tecommons.org/t/settlement-period/470"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-23T01:25:21Z",
+   "updated_at": "2021-09-23T01:25:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’m not sure, we only had two disputes on Celeste until now, so I don’t think we have enough data to reply to that.</p>\n<p>If I had to guess, I would say the challenged part may have to prepare their defense (replying to the challenger), and this is why it’s nice to have some days to think in case it is required. Although I’m not totally sure if that’s relevant for this case.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006160652",
+    "url": "https://forum.tecommons.org/t/settlement-period/470"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221006160652",
+   "url": "https://forum.tecommons.org/t/settlement-period/470"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006160652",
+   "url": "https://forum.tecommons.org/t/settlement-period/470"
+  }
+ ]
+}

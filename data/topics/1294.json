@@ -1,0 +1,226 @@
+{
+ "id": 1294,
+ "title": "Community Advice Process on TEC Migration to Optimism",
+ "slug": "community-advice-process-on-tec-migration-to-optimism",
+ "category_id": 33,
+ "posts_count": 9,
+ "created_at": "2023-09-27T17:59:22.741Z",
+ "last_posted_at": "2024-03-25T15:41:40.904Z",
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "last_archived_post_at": "2024-03-25T15:41:40Z",
+ "captured_between": [
+  "2023-12-10T23:36:37Z",
+  "2024-11-10T18:22:55Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-09-27T17:59:22Z",
+   "updated_at": "2024-07-19T20:17:55Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<h2>Introduction</h2>\n<p>Commons Stack has received a grant from Optimism to port Aragon client and Commons DAO tooling, including the Augmented Bonding Curve (ABC), over to Optimism. This will allow projects on Optimism to form and manage DAOs based on the tried-and-trusted Aragon client as well as launch their own ABCs.</p>\n<p>Additionally, having this infrastructure live on Optimism opens the possibility for a TEC migration from Gnosis Chain to Optimism. The <a href=\"https://forum.tecommons.org/t/introducing-the-tec-advisory-network-tecan/1293\">TECAN-Strategy group</a> and Turmeric Labs (the dev team led by <a class=\"mention\" href=\"/u/sem\">@sem</a>) did an initial evaluation of what such a migration would entail with advice process coming in from the Coordination Team.</p>\n<p>This post is an open call for advice from the community. The purpose is to kickstart community discussion by (1) sharing some of the initial thinking about it, (2) sharing the considerations and decisions the TEC community would need to reflect on and decide in order to migrate, and (3) to lay out what a high level sequence of events would look like.</p>\n<p>This is not a complete assessment, so please add to it your own perspective and thinking about the benefits and risks of such a migration, as well as any additional considerations the community should take into account.</p>\n<h2>Initial thinking</h2>\n<p><strong>The migration would have some notable advantages for the TEC, such as:</strong></p>\n<ul>\n<li>\n<p>Making it easier to acquire $TEC. In theory, this can be made easier but it will depend on what reserve currency is used for the TEC ABC on OP chain. The current process of buying $TEC has high friction. One must first be on Gnosis Chain, then acquire xDAI and wrap it, only then can one buy $TEC.</p>\n</li>\n<li>\n<p>Access to capital. Optimism has an almost 9x higher TVL than Gnosis Chain and, additionally, better integrations with centralized exchanges. (<a href=\"https://defillama.com/chains\">https://defillama.com/chains</a>)</p>\n</li>\n<li>\n<p>Access to DeFi. Almost every major DeFi protocol exists on Optimism. (<a href=\"https://www.optimism.io/apps/defi\">https://www.optimism.io/apps/defi</a>)</p>\n</li>\n<li>\n<p>Mitigate the risks the community has already raised about xDAI. See forum posts <a href=\"https://forum.tecommons.org/t/buying-eth-to-protect-against-xdai-challenges/1239\">Buying ETH to protect against xDai challenges</a> and <a href=\"https://forum.tecommons.org/t/question-on-our-reliance-of-wxdai/1125\">Question on our reliance of $wxdai. </a></p>\n</li>\n<li>\n<p>Optimism+TEC value alignment. Optimism is committed to funding public goods and the concept of Impact = Profit. This is highly aligned with the vision and vibes of the TEC.</p>\n</li>\n</ul>\n<p><strong>While there are some risks, they are relatively low and easy to mitigate, such as:</strong></p>\n<ul>\n<li>\n<p>Risk associated with transferring a large sum cross-chain. The bridge selection and thorough testing are two ways to lower this risk.</p>\n</li>\n<li>\n<p>The migration will require transferring TEC assets out of the Common and Reserve pools and into multisigs on the Gnosis, then Mainnet and then Optimism chain. The TEC will have to place their trust in the owners of these multi-sigs. Using 5/7 multisigs with trusted TEC community members is one way to lower this risk.</p>\n</li>\n</ul>\n<h2>Decisions that need to be made, and other considerations</h2>\n<p><strong>Decisions that need to be made</strong><br/>\n<em>These are all decisions that will need to be made as part of any migration plan.</em></p>\n<ul>\n<li>Guardians</li>\n</ul>\n<p>Celeste, the arbitration method for proposal dispute, does not exist on Optimism. The new Tao Voting DAO architecture used by <a href=\"https://dao.aragon.org\">AragonDAO</a> does have a mechanism to prevent proposals that would effectively execute an economic attack on the DAO. It is by using Guardians who are able to veto a proposal before it passes. Guardians are charged with upholding the community covenant and should only veto proposals that violate it. Selecting Guardians is a decision to be made by the community.</p>\n<ul>\n<li>Reserve currency</li>\n</ul>\n<p>Changing the reserve currency (currently wxDAI) for the ABC can be part of the scope of a migration plan without additional costs that would incur if we were to do it later. We would like to open community discussion on this topic.</p>\n<ul>\n<li>Tao voting parameters</li>\n</ul>\n<p>To provide more optionality, there should be two instances of Tao voting as part of a technical migration plan: one to control funds in the Common Pool and the other to modify DAO parameters. We can use the same parameters we have in our single instance Tao voting today for both. But the option remains to make a change to be implemented as part of a technical migration plan.</p>\n<ul>\n<li>$TEC held in smart contracts</li>\n</ul>\n<p>Sem has run an initial onchain prospectus to identify how many $TEC are held in smart contracts (as of August 2023 there were 133K TEC held in 17 smart contracts with the majority in the WATER-TEC and GIV-TEC LPs and Safes.). The community will have to vote to remove $TEC from the <a href=\"https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973\">WATER-TEC</a> and GIV-TEC liquidity pools on Honeyswap. Additionally, we would have to reach out to the Safe owners in order to have them remove $TEC from all Safes. We anticipate these Safes are owned by TEC community members and we will be able to contact them to remove $TEC from the Safe smart contracts prior to migration.</p>\n<p><strong>Other considerations</strong><br/>\n<em>These are subjects that surfaced during the evaluation. While they are important to consider, they should be assumed out of scope for a proposed migration plan.</em></p>\n<ul>\n<li>Reputation token</li>\n</ul>\n<p>The Tao voting on Optimism will have the option for dual-token voting. This means that it will be feasible for the TEC to launch a reputation token at some point in the future.</p>\n<ul>\n<li>Make ABC private to TEC</li>\n</ul>\n<p>The suggestion to make ABC, as a primary market maker, private to the TEC has been brought up before and has come up again as part of this evaluation. One benefit would be the TEC would be the single entity to benefit from arbitrage opportunities. There is a lot more to delve into on this subject and while it is out of scope for a technical migration, it remains an interesting subject to consider for the future.</p>\n<h2>Proposed High Level Planning</h2>\n<p><strong>Phase 1: Advice Process (now through October)</strong></p>\n<ul>\n<li>\n<p>During this phase, the community should deliberate on the merits and risks of migrating to OP and the decisions that need to be made in order for a migration to take place.</p>\n</li>\n<li>\n<p>Turmeric Labs should be engaged to conduct a technical feasibility study to surface any additional considerations or decisions that need to be made other than what we have already identified. In order to get this process underway, a separate proposal for this study will soon be proposed to the community.</p>\n</li>\n<li>\n<p>If the general sentiment is positive toward the idea of a migration to Optimism, then we will continue to the planning phase.</p>\n</li>\n</ul>\n<p><strong>Phase 2: Planning (October/November)</strong></p>\n<ul>\n<li>\n<p>Based on the feasibility study and the community decision making, a technical migration plan will need to be created. This should also be done by Turmeric Labs.</p>\n</li>\n<li>\n<p>A non-technical migration plan will also be needed. This should include, for example, a plan for community engagement, a comm campaign for the general public and documentation sets to be updated, an update community covenant (in preparation for moving off Celeste), among other things.</p>\n</li>\n</ul>\n<p><strong>Phase 3: Vote and Execution (end November/December)</strong></p>\n<ul>\n<li>\n<p>The community should vote on whether to migrate to Optimism based on the technical and non-technical migration plans.</p>\n</li>\n<li>\n<p>If the vote passes, the execution of these plans will be carried out.</p>\n</li>\n<li>\n<p>There will also be separate community votes for an updated community covenant, and to remove $TEC from the WATER-TEC and GIV-TEC liquidity pools. If the guardians and guardian parameters are not in the technical migration plan specifically, that too would be a separate vote.</p>\n</li>\n</ul>\n<p><strong>We look forward to hearing what you think about this idea. <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/></strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2023-10-03T01:01:41Z",
+   "updated_at": "2023-10-03T01:01:41Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Hey Ms. Tam! What a great idea! The transition away from Gnosis Chain has felt like something of an inevitability for some time now, and I’m delighted to see that the evaluation and cognitive prep work for such a task is already well underway. While there may be an argument for “If it isn’t broken, don’t fix it” thinking, potentially citing the risks associated with migrating or the possibility of creating new exploitable surfaces, it does feel like the TECs infrastructure has become increasingly entrenched on Gnosis with the reliance on $WXDAI, the changes that were required for continued governance, etc. For your reasons stated, particularly with respect to the friction associated with acquiring $TEC, the exposure to the broader DeFi world, and the access to capital that Optimism represents, this seems like a solid proposal. IMHO the benefits in this case thoroughly outweigh the detriments. Big Praise to the TECAN-Strategy members and Sem’s group for getting this ball rolling. A potentially very exciting rebirth of the Commons. =D</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-04T23:22:24Z",
+   "updated_at": "2023-10-04T23:22:24Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I fully support this migration to Optimism. Of the potential options, Optimism is clearly the best choice because of its value alignment and TVL.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "philh",
+   "name": null,
+   "created_at": "2023-10-10T06:16:03Z",
+   "updated_at": "2023-10-10T06:16:03Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I support the migration plan.</p>\n<p>TBH friction for acquiring TEC and lower liquidity on Gnosis Chain are relevant rationales for migrating, but I doubt that in itself, moving to Optimism will create buying pressure or bring more liquidity for TEC.</p>\n<p>On the other hand, TEC won’t regain visibility nor momentum by hiding in the shade of a quickly declining chain. Moving to a more vibrant ecosystem with compatible values wouldn’t hurt.</p>\n<p>I’m wondering whether Optimism would support part of the migration effort through PGF. That would be a very convincing argument, not only for financial reasons, but also as a show of interest and support. But I suppose TEC would have to apply for RetroPGF4, right? Round 3 is ending on Oct 23.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-10T20:10:29Z",
+   "updated_at": "2023-10-10T20:10:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We already submitted our application for RetroPGF 3 <img alt=\":smiley:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=12\" title=\":smiley:\" width=\"20\"/> and we will absolutely be continuing to participate in that program. It is definitely another pro for migration.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "lkngtn",
+   "name": null,
+   "created_at": "2023-10-10T23:41:32Z",
+   "updated_at": "2023-10-10T23:41:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1294\" data-username=\"Tamara\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tamara/40/67_2.png\" width=\"20\"/> Tamara:</div>\n<blockquote>\n<ul>\n<li>$TEC held in smart contracts</li>\n</ul>\n<p>Sem has run an initial onchain prospectus to identify how many $TEC are held in smart contracts (as of August 2023 there were 133K TEC held in 17 smart contracts with the majority in the WATER-TEC and GIV-TEC LPs and Safes.). The community will have to vote to remove $TEC from the <a href=\"https://forum.tecommons.org/t/water-5-token-swaps-in-1-an-index-token-to-boot/973\">WATER-TEC </a> and GIV-TEC liquidity pools on Honeyswap. Additionally, we would have to reach out to the Safe owners in order to have them remove $TEC from all Safes. We anticipate these Safes are owned by TEC community members and we will be able to contact them to remove $TEC from the Safe smart contracts prior to migration.</p>\n</blockquote>\n</aside>\n<p>Perhaps this was discussed elsewhere, but I’m not sure why this is necessary. It seems we can avoid any significant disruption to existing TEC holders, including smart contracts, by making it so migration can occur at any time in the future using a one-way exchange contract. If the goal is to avoid people having to deal with bridging, perhaps could have people opt-in by sending TEC ahead of time to a migration contract, then minting tokens to them directly on optimism when the migration happens, for the remainder of tokens there can be a one-way migration contract either on gnosis or on optimism that let them do the exchange (they would need to bridge before or after the process), but the important part is you don’t need to worry about creating a situation where there are a bunch of token which are locked in a contract and become valueless post migration.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "paul2",
+   "name": null,
+   "created_at": "2023-10-11T03:06:02Z",
+   "updated_at": "2023-10-11T03:06:02Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi TEC!</p>\n<p>Dropping in since I see Phase 3 inthe proposal involves removing the TEC from the WATER&lt;&gt;TEC LP on Honeyswap Gnosis Chain.</p>\n<p>FYI there’s a 15% fee for removing that liquidity, which is ~38k TEC right now. It shouldn’t be a problem to get signatures from the Water Gnosis Safe owners to make that happen.</p>\n<aside class=\"onebox discoursetopic\" data-onebox-src=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.1hive.org/uploads/default/optimized/1X/1c395527ca1290db50cd7fcf5b1ad22226c70766_2_32x32.png\" width=\"32\"/>\n<a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener nofollow ugc\" target=\"_blank\" title=\"08:04PM - 16 February 2022\">1Hive – 16 Feb 22</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"180\" src=\"https://forum.1hive.org/uploads/default/original/1X/1c395527ca1290db50cd7fcf5b1ad22226c70766.png\" width=\"180\"/>\n<div class=\"title-wrapper\">\n<h3><a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener nofollow ugc\" target=\"_blank\">Water💧 Shared Liquidity Proposal</a></h3>\n</div>\n<p>Background:  Following the success of the shared liquidity proposals with Shapeshift and BrightID, we went to the drawing board on a more scalable shared liquidity solution that could benefit many projects at once.  This proposal is seeking...</p>\n<p>\n<span class=\"label1\">Reading time: 19 mins 🕑</span>\n<span class=\"label2\">Likes: 117 ❤</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-10-11T08:51:52Z",
+   "updated_at": "2023-10-11T08:51:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Unfortunately it’s important to freeze the tokens on Gnosis Chain and enable all of them on Optimism so they regain the control of the funds (~$500k) bridged to optimism and have a similar price in the bonding curve, avoiding any disruptions the migration could have, impacting the TEC price, or closing the bonding curve for a long time.</p>\n<p>We will enable mechanisms to exit the TEC LP positions after the migration, also avoiding disruptions in the Gnosis Chain side. The <a href=\"https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296/4\">deliverable #1 of the technical migration proposal</a> will bring more light on what is going to happen to each one of the contracts that have TEC and plans to mitigate any undesirable effect pre- and post-migration.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-10-11T21:33:30Z",
+   "updated_at": "2023-10-11T21:33:30Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you, <a class=\"mention\" href=\"/u/paul2\">@paul2</a> for sharing this. Yes, it is important to mention that any vote to remove $TEC from WATER would include the condition that TEC pay the 15% exit fee, as per the agreement.</p>\n<p>So if TEC liquidity remains ~38K, the TEC will pay 15% of that liquidity as penalty.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2024-03-25T15:41:40Z",
+   "updated_at": "2024-03-25T17:12:08Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Note there is a lot of updated information on this topic in the post migration post by <a class=\"mention\" href=\"/u/tamara\">@Tamara</a>:</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1324\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tamara/40/67_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/and-we-are-live-on-op-mainnet/1324\">And we are live… on OP Mainnet! <img alt=\"tada\" class=\"emoji\" height=\"20\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\"tada\" width=\"20\"/></a> <a class=\"badge-wrapper bullet\" href=\"/c/major-updates-and-innovations/5\"><span class=\"badge-category-bg\" style=\"background-color: #12A89D;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Vision, mission, values, governance, culture &amp; education\">⚛ Community</span></a>\n</div>\n<blockquote>\n    We are pleased to announce the TEC’s migration from Gnosis to OP Mainnet is complete. <img alt=\"tada\" class=\"emoji\" height=\"20\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\"tada\" width=\"20\"/><img alt=\"tada\" class=\"emoji\" height=\"20\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\"tada\" width=\"20\"/><img alt=\"tada\" class=\"emoji\" height=\"20\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\"tada\" width=\"20\"/> \nOptimism started as Plasma Group, a research foundation dedicated to scaling Ethereum. Having experienced first-hand the problem of funding and sustaining public goods, they went on to found Optimism in an effort to both scale ethereum and fund public goods. \nThe TEC, a commons dedicated to finding solutions for the same problem, is highly mission aligned with the Optimism ecosystem. Now tha…\n  </blockquote>\n</aside>\n<p>Congrats to the community for achieving this and especially <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> and <a class=\"mention\" href=\"/u/sem\">@sem</a> for their devotion to making the migration successful and smooth.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20241110182255",
+    "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231210233637",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210233637",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240521195414",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521195414",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724152551",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/8"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724152551",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/8"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724160422",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724160422",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294/"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20241110182255",
+   "url": "https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294"
+  }
+ ]
+}

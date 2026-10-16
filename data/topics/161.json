@@ -1,0 +1,161 @@
+{
+ "id": 161,
+ "title": "Govbase: a database for DAOs and other online communities",
+ "slug": "govbase-a-database-for-daos-and-other-online-communities",
+ "posts_count": 6,
+ "category_id": 7,
+ "created_at": "2020-12-14T21:13:16.369Z",
+ "last_posted_at": "2021-06-20T12:23:06.237Z",
+ "tags": [
+  "funding-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-06-20T12:23:06Z",
+ "captured_between": [
+  "2021-03-06T01:32:32Z",
+  "2026-08-09T04:13:09Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "thelastjosh",
+   "name": null,
+   "created_at": "2020-12-14T21:13:16Z",
+   "updated_at": "2021-11-12T21:38:53Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#govbase-a-database-for-daos-and-other-online-communities-1\" name=\"govbase-a-database-for-daos-and-other-online-communities-1\"></a>Govbase: a database for DAOs and other online communities</h1>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/1df4f892dc50dd0d7b52716b6750f2c8fa67853b\" href=\"https://forum.tecommons.org/uploads/default/original/1X/1df4f892dc50dd0d7b52716b6750f2c8fa67853b.png\" title=\"govbase_logo\"><img alt=\"govbase_logo\" data-base62-sha1=\"4h0H3VARMCvrSMs0r3z6L2OEYRl\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/1df4f892dc50dd0d7b52716b6750f2c8fa67853b_2_10x10.png\" height=\"337\" src=\"https://forum.tecommons.org/uploads/default/original/1X/1df4f892dc50dd0d7b52716b6750f2c8fa67853b.png\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">govbase_logo</span><span class=\"informations\">720×352 4.9 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Proposal Description:</strong></p>\n<p><em>What we’ve built</em> : a comprehensive, open-source database of projects and tools for DAOs and other online communities. For more details, read <a href=\"https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef\" rel=\"noopener nofollow ugc\">the introductory article on Medium</a>.</p>\n<p><em>What we want to build next</em> : a <strong>registry of computational constitutions</strong> to which different tools, platforms, and DAOs can publish</p>\n<p><em>Why it’s important</em> : a registry allows comparing and sharing of governance across different communities, promotes interoperability between different tools, and generates open data as an ecosystem service (akin to a Crunchbase for online communities)</p>\n<ol>\n<li>Introductory article: <a href=\"https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef\" rel=\"noopener nofollow ugc\">https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef</a>\n</li>\n<li>Preview the database: <a class=\"inline-onebox\" href=\"https://airtable.com/shrgnUrj0dqzZDsOd\" rel=\"noopener nofollow ugc\">Airtable - Govbase</a>\n</li>\n<li>Project homepage: <a class=\"inline-onebox\" href=\"https://github.com/thelastjosh/govbase\" rel=\"noopener nofollow ugc\">GitHub - thelastjosh/govbase: Govbase is an open, crowdsourced database of projects and tools in online governance. Data hosted at https://airtable.com/shrgnUrj0dqzZDsOd</a>\n</li>\n</ol>\n<p><strong>Proposal Details:</strong></p>\n<p>Govbase is an open, crowdsourced database of projects, tools, and organizations in online governance. It is intended for developers, researchers, and community operators. We built it in order to support governance innovation and to foster an ecosystem of interoperable tools and platforms.</p>\n<p>In the scope of this project, we will build a proof-of-concept for a Registry of Computational Constitutions on top of Govbase, and define two such computational constitutions as reference implementations. At the end of the project, Govbase will be able to represent, integrate, and store both written and computational forms of governance, serving as a kind of registry for the constitutions of online communities much as the <a href=\"https://www.constituteproject.org/\" rel=\"noopener nofollow ugc\">Constitute Project</a> serves as a registry for national constitutions.</p>\n<p>Specifically, we will:</p>\n<ol>\n<li>Expand and fill in the Projects and Organizations tables in Govbase.</li>\n<li>Conduct research on different representations of governance as well as existing publishing practices across online communities.</li>\n<li>Implement two new tables in Govbase: Documents and Policies. Documents would cover the written aspects of governance, from licenses to codes of conduct to existing constitutions. Policies would cover the settings and configurations of community platforms and software.</li>\n<li>Design and implement a publishing standard for computational constitutions.</li>\n<li>With community partners, build two computational constitutions as reference implementations of the standard.</li>\n<li>Build a Registry of Computational Constitutions, realized as a query against the Organizations, Documents, and Policies tables which implements the publishing standard.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#for-the-te-ecosystem-3\" name=\"for-the-te-ecosystem-3\"></a>For the TE ecosystem</h2>\n<p><strong>Share and compare best-practices.</strong> Govbase, as it stands, already contains a useful overview of the DAO ecosystem. With the registry, the TE community will benefit from a scalable mechanism for transmitting and sharing governance best-practices between DAOs, ultimately leading to better governance across the ecosystem. Imagine a world in which every online community displayed a standardized constitution that articulated the rights and responsibilities of its users, much as every open-source software project displays a standardized software license.</p>\n<p><strong>Activate non-technical contributors in community engineering.</strong> Many TE community members may want to do token engineering but lack the technical skills to perform the kind of computational modeling workflows dominant in algorithm design. Govbase provides an efficient mechanism for those members to contribute to the governance design and documentation of an organization or a commons.</p>\n<p><strong>Directly complements TE’s mission in governance.</strong> If the mission of TE’s iteration0 is “to create a comprehensive cultural build playbook on how to build the right culture for a community that wants to use this Commons model to create sustainable funding for governing their shared resources”, then Govbase’s mission to build a printing press that can print and distribute that playbook.</p>\n<p><strong>Facilitate constitutional moments.</strong> Finally, by making governance easier to specify and design, we believe that Govbase will also facilitate more constitutional moments for DAOs—chances to “clean house” and upgrade their socio-technical architecture. We believe that these constitutional moments are as important to decentralized communities as leader selection is to a hierarchical organization.</p>\n<p><strong>Expected duration or delivery date (if applicable):</strong></p>\n<p>4 months for initial prototype, Q3 2021 for public release and reference constitutions</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-4\" name=\"team-information-for-funding-proposals-4\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p>Joshua Tan, <a class=\"mention\" href=\"/u/thelastjosh\">@thelastjosh</a> on Github, joshuaztan on Twitter</p>\n<p>Michael Zargham, <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> on Github, mzargham on Twitter</p>\n<p><strong>Skills and previous experience in related or similar work:</strong></p>\n<p>We are established researchers in online governance, <a href=\"http://joshuatan.com/research\" rel=\"noopener nofollow ugc\">Josh</a> @ <a href=\"https://metagov.org/\" rel=\"noopener nofollow ugc\">Metagov</a> + Oxford and <a href=\"https://www.linkedin.com/in/mczargham\" rel=\"noopener nofollow ugc\">Z</a> @ <a href=\"https://block.science/\" rel=\"noopener nofollow ugc\">BlockScience</a> + Commons Stack. Here’s an article we wrote together recently: “<a href=\"https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4\" rel=\"noopener nofollow ugc\">DAOs as a new kind of institution</a>”.</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-5\" name=\"funding-information-for-funding-proposals-5\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong></p>\n<p>74,380 in stable coin</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong></p>\n<p>0x24c492413fCfd5a8370F43f69205563C3D39Cc5d</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong></p>\n<p>Funds will be handled by the Metagovernance Project, a research nonprofit incorporated in MA, and will be used to fund 4 people (Joshua Tan, Michael Zargham, a decentralized governance research scholar, and a research engineer) for 306 person-days.</p>\n<p>Please see <a href=\"https://docs.google.com/spreadsheets/d/13puNG9--yeqi-Kr3Y-OFcgq8tftgzEKma1YNOT6GINM/edit#gid=0\" rel=\"noopener nofollow ugc\">the project budget</a> for full details.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "HBesso31",
+   "name": null,
+   "created_at": "2020-12-24T11:20:40Z",
+   "updated_at": "2020-12-24T11:20:40Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey, <span class=\"mention\">@mzargham</span> and <a class=\"mention\" href=\"/u/thelastjosh\">@thelastjosh</a> you did a great job both explaining the proposal and detailing the budget.<br/>\nI believe that just your proposal is already a public good (as a template) for other proposals to follow and present their initiatives in a clear way.</p>\n<p>Is the voting already open? I’ll vote for you.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "thelastjosh",
+   "name": null,
+   "created_at": "2020-12-24T12:48:30Z",
+   "updated_at": "2020-12-24T12:48:30Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks Humberto! Appreciate your support <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2021-06-08T11:58:29Z",
+   "updated_at": "2021-06-08T12:01:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I just came across this proposal and am quite interested to learn if there might be room for collaboration. At the least I’ll be getting to know your project deeper to be better informed, myself.</p>\n<p>Quite independently I began making a similar database, with a somewhat different focus than yours, but really began as a quite open inquiry into the DAO space.</p>\n<p>I’m familiar with other ecosystems online that have been around decades and are only now getting around to making a proper database of relevant organizations, so I really had no expectation that the DAO space would already have so much competition in this type of database project (though <a href=\"https://graphcommons.com/graphs/6a993e34-d8b0-4425-83ce-67c3560429e7\" rel=\"noopener nofollow ugc\">DGov also made a worthy contribution</a> to that end).</p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1cbFgKIcnDsqqvq-v5tAdL2iHH7GHojw9a_lxmcJr9es/edit#gid=0\" rel=\"noopener nofollow ugc\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1cbFgKIcnDsqqvq-v5tAdL2iHH7GHojw9a_lxmcJr9es/edit#gid=0\" rel=\"noopener nofollow ugc\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1cbFgKIcnDsqqvq-v5tAdL2iHH7GHojw9a_lxmcJr9es/edit#gid=0\" rel=\"noopener nofollow ugc\" target=\"_blank\">TEC Dataspace</a></h3>\n<p>DAOs Ecosystem\n\nParent,Stack,Ecosystem,Founded,Funding,Contact,Explorer,Location,Tag,Type,Status,Cal,Name,Text,Website,Blog,Feed,Governance,Forum,App\nAragon Labs,Tokenomics,DeFi,0x,0x is important infrastructure for the emerging crypto economy and...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>It looks like most of our columns are different, and that our efforts may be quite complementary.  I’ve only began to map out the territory and gotten a lay for the land myself, so when I do get more serious about collecting data, if there are particular areas I know of that would be most useful to others, I can put more focus there.</p>\n<p>Thanks</p>\n<p>Look forward to hearing what you think!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2021-06-10T20:44:29Z",
+   "updated_at": "2021-06-10T20:44:29Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>on the other hand, if you <em>are</em> planning to cover these data-points, and this proposal is funded, then I can point my efforts in another direction <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "thelastjosh",
+   "name": null,
+   "created_at": "2021-06-14T21:30:24Z",
+   "updated_at": "2021-06-14T21:30:24Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/ddan\">@ddan</a>, looks like a nice list you’re building <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/> we started Govbase with the same idea, though focusing less on specific DAOs and online communities (there’s way way too many!) and more on software projects to support them. Though now, we’re getting started on a better mapping of the DAO space. If you’re interested in collaborating or contributing to Govbase, feel free to hop on one of the Govbase calls (Thursdays @ 5pm ET)! Just DM me for link.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2021-06-20T12:23:06Z",
+   "updated_at": "2021-06-20T12:23:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Josh! Thanks for confirming! Love to see other projects like this out here.</p>\n<p>I look forward to the continued development of your Govbase, and will likely come to a call sooner or later.</p>\n<p>cheers.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809041309",
+    "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306013232",
+   "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306013232",
+   "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624145957",
+   "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624145957",
+   "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260809041309",
+   "url": "https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161"
+  }
+ ]
+}

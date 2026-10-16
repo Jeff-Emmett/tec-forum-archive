@@ -1,0 +1,46 @@
+{
+ "id": 1390,
+ "title": "About the 🗃️ Archive category",
+ "slug": "about-the-archive-category",
+ "category_id": 36,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2024-07-19T18:58:02Z",
+ "last_archived_post_at": "2024-07-19T18:58:02Z",
+ "captured_between": [
+  "2024-08-15T16:13:01Z",
+  "2024-08-15T16:13:01Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-07-19T18:58:02Z",
+   "updated_at": "2024-07-19T18:58:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>A repository for old or inactive threads and categories. This helps keep the forum organized and makes it easier to find current and relevant discussions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815161301",
+    "url": "https://forum.tecommons.org/t/about-the-archive-category/1390"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240815161301",
+   "url": "https://forum.tecommons.org/t/about-the-archive-category/1390"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815161301",
+   "url": "https://forum.tecommons.org/t/about-the-archive-category/1390"
+  }
+ ]
+}

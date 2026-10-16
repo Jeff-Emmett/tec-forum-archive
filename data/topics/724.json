@@ -1,0 +1,63 @@
+{
+ "id": 724,
+ "title": "Reward System Working Group",
+ "slug": "reward-system-working-group",
+ "category_id": 13,
+ "posts_count": 1,
+ "created_at": "2021-12-08T18:59:14.401Z",
+ "last_posted_at": "2021-12-31T00:49:23.978Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-12-31T00:49:23Z",
+ "captured_between": [
+  "2022-01-24T04:36:07Z",
+  "2022-01-24T04:36:07Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-12-08T18:59:14Z",
+   "updated_at": "2021-12-08T18:59:14Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#rewards-working-group-manifesto-1\" name=\"rewards-working-group-manifesto-1\"></a>Rewards Working Group Manifesto</h1>\n<p>Redesigning the TEC Reward System</p>\n<p><strong>Weekly meeting:</strong> Wednesday 8 PM CET / 2 PM EST</p>\n<p><strong>You can find us on Discord Channel:</strong> <a href=\"https://discord.gg/9Cz5EsTbBV\"> Reward System discord chat</a>.</p>\n<p><strong>Doc owner/OWG Community Stewards:</strong> Kristofer + Livia</p>\n<p><strong>Discord handles</strong>: kristofer#1475 + liviade#1387</p>\n<p><strong>Note:</strong> The Working Group Manifesto is a live document, as the working group evolves (e.g. people join the working group) this document should be updated to reflect these changes. This is important so that there is an updated single source of truth for onboarding new working group members.</p>\n<h3>\n<a class=\"anchor\" href=\"#mission-2\" name=\"mission-2\"></a>Mission</h3>\n<p>The intention of this Working Group is to design, implement, maintain and continuously improve the TEC reward system.</p>\n<p>The models from this <a href=\"https://miro.com/app/board/o9J_lyTkWjY=/\">Miro board</a> are being developed into a dashboard.</p>\n<p><strong>The dashboard will:</strong></p>\n<ul>\n<li>Host quantifiers</li>\n<li>Randomly pair them with praise sets</li>\n<li>Quantifications will be performed there</li>\n<li>Quantified sets will be analysed after every quantification round.</li>\n</ul>\n<p>The <a href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">TEC Reward System</a> is composed of Praise and SourceCred.<br/>\nPraise takes care of the qualitative and subjective contributions. <a href=\"https://forum.tecommons.org/t/rules-of-praise-and-quantification/667\">See Rules of Praise and Quantification</a></p>\n<p>SourceCred captures more objective contributions and is linked to Discourse, Github, Twitter and Discord only for meeting attendance.</p>\n<p><strong>The configuration and maintenance of these two systems requires a team to be involved in it.</strong></p>\n<p>We currently have the technical team working on the development of the dashboard, identity solution and analysis development and the Reward Board which will focus on operations and be responsible for:</p>\n<ul>\n<li>Submitting proposals to the DAO to cover the rewards distribution.</li>\n<li>Sending the wxDAI received from the proposal to the bonding curve to get TEC tokens; send TEC tokens to the Reward DAO.</li>\n<li>Set up SourceCred parameters and describe them to the community</li>\n<li>Recruit quantifiers and add them to the dashboard</li>\n<li>Onboard quantifiers</li>\n<li>Distribute funds to contributors via Reward DAO.</li>\n<li>Pay close attention to analysis reports and propose changes to the reward system when needed.</li>\n<li>Evaluate the metrics being used in the analysis and how well they are measuring the system’s health.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-will-this-working-group-benefit-the-tec-community-according-to-its-mission-3\" name=\"how-will-this-working-group-benefit-the-tec-community-according-to-its-mission-3\"></a>How will this working group benefit the TEC community according to its mission</h3>\n<p>A comprehensive reward system provides insights on the values being produced in the community. This information is essential for the maintenance of the TEC’s long term mission alignment and economic sustainability.</p>\n<p>The TEC is a pro-social community, it is fundamental that contributors feel rewarded and have degrees of their needs being met. Reward systems are also at the core of token engineering and the experiments from this process are relevant for this field and discipline.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-would-be-considered-a-success-vs-failure-4\" name=\"what-would-be-considered-a-success-vs-failure-4\"></a>What would be considered a success vs. failure?</h3>\n<p>Success:</p>\n<ul>\n<li>The dashboard works as expected</li>\n<li>We have engaged quantifiers</li>\n<li>SourceCred and Praise integrate well</li>\n<li>Analysis are automated</li>\n<li>The community feels fairly rewarded</li>\n<li>The metrics for analysis provide good feedback about the ecosystem health</li>\n<li>The reward board is active and attentive to what needs improvement</li>\n<li>Quantifications and distributions happen at a regular pace</li>\n</ul>\n<p>Failure:</p>\n<ul>\n<li>The system is gamed.</li>\n<li>Quantifiers don’t show up</li>\n<li>The TEC refuses to send funds to the rewards proposals</li>\n<li>The Reward System cannot deliver Quants punctually</li>\n<li>The Reward Board cannot review and distribute rewards punctually</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#please-break-down-the-goals-into-a-roadmap-with-clear-milestones-5\" name=\"please-break-down-the-goals-into-a-roadmap-with-clear-milestones-5\"></a>Please break down the goals into a roadmap with clear milestones</h3>\n<ul>\n<li><a href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">The full process is detailed in this blog post </a></li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#what-is-the-deadline-6\" name=\"what-is-the-deadline-6\"></a>What is the deadline?</h3>\n<ul>\n<li>\n<p>The deadline for the dashboard is paired with the Commons Upgrade</p>\n</li>\n<li>\n<p>The Rewards WG can initiate a first rewards quantification before Christmas</p>\n</li>\n<li>\n<p>Most of the Reward Board’s work is continuous</p>\n</li>\n<li>\n<p>Working Style</p>\n</li>\n<li>\n<p>Working Group members take responsibility for different issues that are available on Github and part of our sprint planning process.</p>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#what-is-the-pace-of-the-work-7\" name=\"what-is-the-pace-of-the-work-7\"></a>What is the pace of the work?</h3>\n<h2>\n<a class=\"anchor\" href=\"#members-8\" name=\"members-8\"></a>Members</h2>\n<p>Who are the members and what are their roles inside of the TEC?</p>\n<ul>\n<li>For the moment the following members are participating:</li>\n</ul>\n<p>Ryeder:</p>\n<ul>\n<li>Treasury</li>\n<li>Sourcecred parameters / instance maintenance</li>\n<li>Conversations / discussions about creating healthy culture using rewards systems</li>\n<li>Collectively analysing data</li>\n<li>Sourcecred steward/ delegate</li>\n</ul>\n<p>Mateo</p>\n<ul>\n<li>onboarding /offboarding identities in sourcecred to make the distributions</li>\n<li>Support the DAO management/ create agents/ submit proposals</li>\n<li>Parameters setting</li>\n</ul>\n<p>Kristofer</p>\n<ul>\n<li>Praise system delegate</li>\n<li>Manage praise parameters</li>\n<li>Reward system update project manager</li>\n<li>Help to build a clear process for the committee</li>\n<li>diagraming</li>\n</ul>\n<p>Nuggan</p>\n<ul>\n<li>Data analysis</li>\n<li>Comms</li>\n<li>Onboarding</li>\n</ul>\n<p>Mitch</p>\n<ul>\n<li>Review the quants</li>\n<li>Analytics for the mvp progress/ wireframes</li>\n<li>Aragon DAO support</li>\n</ul>\n<p>Vyvy-vi</p>\n<ul>\n<li>Platform support</li>\n<li>Backup system support</li>\n<li>Bot creation</li>\n<li>integrations/ cross platform</li>\n<li>onboarding</li>\n</ul>\n<p>Chuy</p>\n<ul>\n<li>Support comms</li>\n<li>Promotion</li>\n<li>Onboarding</li>\n<li>Post analysis report</li>\n</ul>\n<p>Livia</p>\n<ul>\n<li>Metrics</li>\n<li>Data analysis</li>\n<li>Support the cultural insights sessions with the quantifiers</li>\n<li>Onboarding</li>\n<li>Sourcecred params</li>\n</ul>\n<p>Zeptimus</p>\n<ul>\n<li>Data analysis</li>\n<li>Cultural insights</li>\n<li>Funds distribution set up</li>\n</ul>\n<p>MS</p>\n<ul>\n<li>Data analysis</li>\n<li>Onboarding and follow-up process</li>\n</ul>\n<p>Working Groups progress should be shared in the Thursday community calls.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220124043607",
+    "url": "https://forum.tecommons.org/t/reward-system-working-group/724"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-12-31T00:49:23Z",
+   "updated_at": "2021-12-31T00:49:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c\" href=\"https://forum.tecommons.org/uploads/default/original/1X/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c.jpeg\" title=\"TEC Rewards System Slide\"><img alt=\"TEC Rewards System Slide\" data-base62-sha1=\"1TcvfGCukvDZgSph4c3CpKslhy4\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c_2_10x10.png\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c_2_690x388.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c_2_690x388.jpeg, https://forum.tecommons.org/uploads/default/original/1X/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/0d3f9dbbc61fdff2717a2bf5eb1702ea82a2c01c.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">TEC Rewards System Slide</span><span class=\"informations\">960×540 56.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220124043607",
+    "url": "https://forum.tecommons.org/t/reward-system-working-group/724"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124043607",
+   "url": "https://forum.tecommons.org/t/reward-system-working-group/724"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124043607",
+   "url": "https://forum.tecommons.org/t/reward-system-working-group/724"
+  }
+ ]
+}

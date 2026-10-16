@@ -1,0 +1,62 @@
+{
+ "id": 1362,
+ "title": "Amicus Curia in support of certified \"engineer\"",
+ "slug": "amicus-curia-in-support-of-certified-engineer",
+ "category_id": 34,
+ "tags": [
+  "cultural-proposal",
+  "strategy",
+  "advice-process"
+ ],
+ "posts_count": 0,
+ "created_at": "2024-04-18T01:49:02.578Z",
+ "last_posted_at": "2024-04-18T01:49:02.816Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2024-04-18T01:49:02Z",
+ "captured_between": [
+  "2024-05-21T19:01:50Z",
+  "2024-08-15T14:40:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2024-04-18T01:49:02Z",
+   "updated_at": "2024-07-19T20:16:44Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#lexdao-is-appealing-to-the-uspto-1\" name=\"lexdao-is-appealing-to-the-uspto-1\"></a>LexDAO is appealing to the USPTO</h3>\n<p>LexDAO is the guild for <a href=\"https://github.com/lexDAO/Legal-Engineers\" rel=\"noopener nofollow ugc\">legal engineers</a>, we are appealling a decision by USPTO over the wordmark. As part of the submission we attempt to claim</p>\n<ol>\n<li>LexDAO is a collective whose members aspire to atain <a href=\"https://yourtrademarkattorney.com/collective-membership-mark/\" rel=\"noopener nofollow ugc\">professional certification</a>\n</li>\n<li>The crux of the matter is the implied <strong>engineering</strong> word within \"legal engineering\"<img alt=\":crossed_swords:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/crossed_swords.png?v=12\" title=\":crossed_swords:\" width=\"20\"/> DAO == Le​:crossed_swords:DAO where we replace the sword with a specific symbol of compentency (eg wand for cryptowizard smart contract developer).</li>\n<li>as the leading global authority on token engineering, we <em>request TEC to supply a supporting document</em> that emphasises the professional engineering requisites for being <strong>certified</strong>\n</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#would-like-support-as-to-protected-status-of-certified-engineer-2\" name=\"would-like-support-as-to-protected-status-of-certified-engineer-2\"></a>Would like support as to protected status of certified <strong>“engineer”</strong>\n</h3>\n<p>Collective marks are used by professional bodies (eg chartered practicing accountant = CPA) and by law, you cannot casually put (CPA) next to ones name (ditto certain titles). Engineering is controlled by <a href=\"https://www.professionalengineers.org.au/RPENG\" rel=\"noopener nofollow ugc\">professional bodies</a> requiring: (there’s more details but this is gist)</p>\n<ul>\n<li>registration,</li>\n<li>recordat of achievements (often project based) and</li>\n<li>peer assessment</li>\n</ul>\n<p>What LexDAO is trying to do is convince USPTO to assign the <strong>secondary registry</strong> to our control. Looking at ERC-6551<br/>\n<a class=\"onebox\" href=\"https://cdn.discordapp.com/attachments/1027810054113611799/1230313707083534446/diagram.png?ex=6632dded&amp;is=662068ed&amp;hm=36f70244b16c971186cfe8cb306fecf2381dc6380de3dfb3cbf141f415475c6e&amp;\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://cdn.discordapp.com/attachments/1027810054113611799/1230313707083534446/diagram.png?ex=6632dded&amp;is=662068ed&amp;hm=36f70244b16c971186cfe8cb306fecf2381dc6380de3dfb3cbf141f415475c6e&amp;</a></p>\n<p>we wish to put in place a pathway where TEC certifications from its courses (0xABC) eventually end up on a soul-bond token which accumulates competencies (0x123 0x456} , which references the protected secondary registry (refactor 0xDEF to be compliant with legal rules).</p>\n<p>This acts as a global source of “truth” on projects (0x321, 0x654, etc) that the <strong>certified engineer</strong> has put up for peer assessment</p>\n<h3>\n<a class=\"anchor\" href=\"#future-token-engineers-graduating-from-tec-vs-elsewhere-3\" name=\"future-token-engineers-graduating-from-tec-vs-elsewhere-3\"></a>Future Token Engineers graduating from TEC vs elsewhere</h3>\n<p>Whilst TE academy has a sterling reputation for its instructional content, a legal engineer is a <strong>practioner</strong> which means we need to demonstrate real-life projects and field-tested tokenomic systems. Given the human interface, these are 5+ years in the making compared with internet speed for token <a href=\"https://hackernoon.com/token-engineeringa-blueprint-for-building-sustainable-decentralized-economies\" rel=\"noopener nofollow ugc\">deployment</a>. Hence we need to maintain oversight as to the projects (named “quests” a-la metagame style) and if necessary revoke or even censure poor/bad actors. In otherwords, to up hold the reputation of <strong>legal engineer</strong> we need to police our own. We would like to extend this courtesy to TEC, after field testing our own <a href=\"https://medium.com/@NickJRishwain/legal-engineering-certification-via-nft-by-lexdao-891350abdc2d\" rel=\"noopener nofollow ugc\">LEETH</a> certification process, so its graduands and working professionals can enjoy the reputation of known skills and base competencies as evidenced by the registry.</p>\n<h3>\n<a class=\"anchor\" href=\"#we-are-crowd-sourcing-material-for-an-amicus-curia-friend-of-court-brief-4\" name=\"we-are-crowd-sourcing-material-for-an-amicus-curia-friend-of-court-brief-4\"></a>We are crowd-sourcing material for an Amicus Curia (friend of court) brief</h3>\n<p>Because the 1st step is to convince USPTO to delegate the authority and permit co-regulation, the initial refusal on concurrent use of the trademark means we may need to file with the PatentTrademark Appeal Board. In recognitions that this may be time consuming (our deadline is 6th June) I request TEC to consider a <a href=\"https://en.wikipedia.org/wiki/Amicus_curiae\" rel=\"noopener nofollow ugc\">amicus curia brief</a> in support of such a global registry of certified token engineers (of which legal is an adjunct subset).</p>\n<p>This brief will be on public record (all trademark applications are open) and thus establish TEC official opinion pathway towards NFT credentials + fieldwork + peer assessment as the <strong>gold standard</strong> for token engineering. As LexDAO is doing the heavy lifting at this point, only a <strong>brief</strong> on the professionalism of token engineering is needed at this point (mid Apr) but if successful, will engage in discussions to implement such secondary registries.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-5\" name=\"what-type-of-proposal-is-this-5\"></a>What type of proposal is this?</h3>\n<ol>\n<li><span class=\"bbcode-s\">Conviction Voting (funding)</span></li>\n<li><span class=\"bbcode-s\">Snapshot (cultural) </span></li>\n<li><span class=\"bbcode-s\">Tao Voting (change the DAO DNA) </span></li>\n<li>This is an idea or something I just need advice to proceed with.</li>\n<li>Broad engagement  to come to consensus on <strong>professional</strong> standard of legal engineer as <em>adjunct subset of token engineer</em>.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815144016",
+    "url": "https://forum.tecommons.org/t/amicus-curia-in-support-of-certified-engineer/1362"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240521190150",
+   "url": "https://forum.tecommons.org/t/amicus-curia-in-support-of-certified-engineer/1362"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521190150",
+   "url": "https://forum.tecommons.org/t/amicus-curia-in-support-of-certified-engineer/1362"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815144016",
+   "url": "https://forum.tecommons.org/t/amicus-curia-in-support-of-certified-engineer/1362"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815144016",
+   "url": "https://forum.tecommons.org/t/amicus-curia-in-support-of-certified-engineer/1362"
+  }
+ ]
+}

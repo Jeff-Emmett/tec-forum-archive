@@ -1,0 +1,82 @@
+{
+ "id": 191,
+ "title": "TEC Funding Proposals: What kinds of projects should apply?",
+ "slug": "tec-funding-proposals-what-kinds-of-projects-should-apply",
+ "category_id": 5,
+ "posts_count": 1,
+ "created_at": "2020-12-30T17:31:27.298Z",
+ "views": 5,
+ "last_posted_at": "2021-02-04T18:44:08.621Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-02-04T18:44:08Z",
+ "captured_between": [
+  "2020-12-30T17:42:59Z",
+  "2021-06-24T15:06:12Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-30T17:31:27Z",
+   "updated_at": "2021-03-16T15:01:46Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<h1>TEC Funding Proposals: What kinds of projects should apply?</h1>\n<h1></h1>\n<p><strong><img alt=\":hammer_and_wrench:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hammer_and_wrench.png?v=9\" title=\":hammer_and_wrench:\"/><img alt=\":microscope:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=9\" title=\":microscope:\"/></strong> <strong>OPEN SOURCE TOOLS &amp; RESEARCH</strong><br/>\n<strong><img alt=\":apple:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/apple.png?v=9\" title=\":apple:\"/><img alt=\":books:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=9\" title=\":books:\"/></strong> <strong>EDUCATION</strong><br/>\n<strong><img alt=\":newspaper:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/newspaper.png?v=9\" title=\":newspaper:\"/><img alt=\":satellite:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/satellite.png?v=9\" title=\":satellite:\"/></strong> <strong>TOKEN ENGINEERING NARRATIVES &amp; OUTREACH</strong></p>\n<p>The TEC has opened funding proposal submissions for token engineering and related open source projects focused on TE public goods. After gathering feedback from the community, projects will submit these proposals to the DAO (Commons) for voting to receive funds.</p>\n<p>So what kind of projects qualify or have a likelihood of getting funded by the community? Let’s first take a look at the TEC mission to see what work could be aligned:</p>\n<h2><strong>The Mission</strong></h2>\n<p>One of the TE Commons missions is to gather and steward the efficient distribution of funds to projects in the emerging field of <a href=\"https://forum.tecommons.org/t/what-is-the-tec/97\">token engineering</a>, to encourage the robust and ethical design of tokenized infrastructures.</p>\n<h2><strong>The Path</strong></h2>\n<p>While the goal is clear and the community is aligned around a shared focus, there are many potential paths to take for allocating resources, and deciding which projects and work would be the highest leverage for developing Token Engineering public goods.</p>\n<p>Ultimately, these decisions will be up to the community through proposals and voting, however interviews of several TEC stakeholders have supported identifying what projects and development the community would like to fund.</p>\n<p>There are three main areas identified, along with corresponding work and examples:</p>\n<h2>\n<strong><img alt=\":hammer_and_wrench:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hammer_and_wrench.png?v=9\" title=\":hammer_and_wrench:\"/><img alt=\":microscope:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=9\" title=\":microscope:\"/></strong> <strong>OPEN SOURCE TOOLS &amp; RESEARCH</strong>\n</h2>\n<ul>\n<li>cadCAD development: Core Tech, Models &amp; Analysis</li>\n<li>DAO/Commons Modules</li>\n<li>Governance Tools &amp; Models</li>\n<li>Iterations on Market Mechanisms &amp; Components: Bonding Curve Innovation</li>\n<li>Crypto economic Building Blocks for Web 3.0</li>\n<li>Legal Research or Academic Papers</li>\n</ul>\n<h2>\n<strong><img alt=\":apple:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/apple.png?v=9\" title=\":apple:\"/><img alt=\":books:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=9\" title=\":books:\"/></strong> <strong>EDUCATION</strong>\n</h2>\n<ul>\n<li>Developing TE Standards</li>\n<li>Creating Articles, Courses or Working on Books</li>\n<li>Adding to, or Organizing the Knowledge Base of Token Engineering</li>\n</ul>\n<h2>\n<strong><img alt=\":newspaper:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/newspaper.png?v=9\" title=\":newspaper:\"/><img alt=\":satellite:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/satellite.png?v=9\" title=\":satellite:\"/></strong> <strong>TOKEN ENGINEERING NARRATIVES &amp; PUBLICITY</strong>\n</h2>\n<ul>\n<li>Conferences or Events / Presentations &amp; Talks</li>\n<li>Ambassadors &amp; Academic Influencers</li>\n<li>Media or Public Relations Work Spreading TE Visibility</li>\n<li>Open Source / Unpaid Non-Profit Project Advisory &amp; Consulting</li>\n</ul>\n<h1></h1>\n<p><strong>Here are some responses from community members who were interviewed about their preferences for what the TEC would fund, and not fund:</strong></p>\n<p><em><strong>WANTS TO FUND:</strong></em></p>\n<p><em>“I would prioritize funding which generates the largest possible value, either because it is of extreme value to some, or some value for many. Ideally we can take care of fundamental needs in time, so that we enjoy the luxury to emphasize effort towards development of general purpose technology and fundamental research, once the basics are covered.”</em></p>\n<p><em>“Willing to fund: creative open-source crypto economic mechanisms (models, simulations) and respective education, even if funded proposals not tied to a common goods use case, because great mechanisms should be applicable to many areas.”</em></p>\n<p><em>“Fund: applications for resource management.”</em></p>\n<p><em><strong>DOES NOT WANT TO FUND:</strong></em></p>\n<p><em>“I would not want to enable efforts that are not calibrated by some sort of feedback mechanism, regardless how well intended. We always need to be ready for the unforeseeable, spontaneous innovation and random events, as well as the chance that some of our assumptions might be wrong, so I do believe there is an ethical need for our solutions to be self-regulating by design, as it otherwise we might not exhibit the wisdom to navigate the power at hand (even if that is inadvertently enabling an agenda we didn’t even consider ourselves…”</em></p>\n<p><em>“A startup (“to launch this, we need x for the next 12 months”), covers much more than token engineering, I expect proposals to be tied to specific token engineering challenges.”</em></p>\n<p><em>“Making economic profit.”</em></p>\n<h1></h1>\n<p><img alt=\":mag_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mag_right.png?v=9\" title=\":mag_right:\"/> Looking at these responses, there is a lot of alignment around open source development, but there is still some discussion and dialogue around where the lines would be drawn, and the community could decide to extend the boundaries around public goods.</p>\n<p><img alt=\":question:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/question.png?v=9\" title=\":question:\"/> <strong>What projects or work would you like to see funded that are not on this list? What kinds of projects, that have not been mentioned, fall outside of the mission and would you not want to see funded?</strong></p>\n<p>Reply to this thread and share your thoughts with the community - thank you for reading and we look forward to continuing to engage in these discussions! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=9\" title=\":pray:\"/></p>\n<p>To read more about Token Engineering, check out <a href=\"https://forum.tecommons.org/t/what-is-the-tec/97\">this post</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210624150612",
+    "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-02-04T18:44:08Z",
+   "updated_at": "2021-02-04T18:44:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210624150612",
+    "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20201230174259",
+   "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210306013802",
+   "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306013802",
+   "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624150612",
+   "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624150612",
+   "url": "https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191"
+  }
+ ]
+}

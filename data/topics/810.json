@@ -1,0 +1,125 @@
+{
+ "id": 810,
+ "title": "The Commons Upgrade is LIVE!",
+ "slug": "the-commons-upgrade-is-live",
+ "category_id": 18,
+ "posts_count": 4,
+ "created_at": "2022-01-13T18:52:10.749Z",
+ "views": 25,
+ "last_posted_at": "2022-01-14T01:10:51.064Z",
+ "highest_post_number": 4,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2022-01-20T04:22:12Z",
+ "captured_between": [
+  "2022-01-14T01:27:50Z",
+  "2022-07-06T01:41:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2022-01-13T18:52:11Z",
+   "updated_at": "2022-01-14T01:08:19Z",
+   "reply_to_post_number": null,
+   "like_count": 13,
+   "cooked": "<p>Great news everybody,</p>\n<p>Today the Commons Upgrade was set in motion by deploying our shiny new TEC gardens!</p>\n<p>Check out the new home of the TEC at:<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/</a></p>\n<p>The vote for the next step in the process is also live in the Hatch DAO. <strong>If you hold TECH tokens, make sure to vote!</strong></p>\n<p>Go here <img alt=\":point_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_right.png?v=10\" title=\":point_right:\"/> <a class=\"inline-onebox\" href=\"https://aragon.1hive.org/#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/4/\" rel=\"noopener nofollow ugc\">Aragon</a></p>\n<p>The vote will be live for <s>2</s> <strong>4</strong> days, and we need the community to support it. It will move the hatch funds following this distribution:</p>\n<ul>\n<li>250k wxDAI will be set apart to perform the initial buy.</li>\n<li>69% of the resulting funds will go to the Common Pool, which will be available to be requested as soon as the hatch vote is executed.</li>\n<li>The rest will go to the reserve agent, and will sit still there until we open the bonding curve.</li>\n</ul>\n<p>The new TEC token will be able to be claimed 1:1 by TECH holders. The initial minting price will be set near to 1 wxDAI / TEC.</p>\n<p><em>Remember that we will need to pass another vote for the actual launch of the ABC next week, so keep an eye on this thread!</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014118",
+    "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "farty",
+   "name": null,
+   "created_at": "2022-01-14T00:55:20Z",
+   "updated_at": "2022-01-14T00:55:20Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Where can we claim the TEC from TECH conversion?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014118",
+    "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-01-14T01:07:05Z",
+   "updated_at": "2022-01-14T01:07:05Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>You won’t have to claim, it will be sent to you <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014118",
+    "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-01-14T01:10:51Z",
+   "updated_at": "2022-01-14T01:10:51Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"810\" data-username=\"0xNuggan\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/0xnuggan/40/363_2.png\" width=\"20\"/> 0xNuggan:</div>\n<blockquote>\n<p>69% of the resulting funds will go to the Common Pool, which will be available to be requested as soon as the hatch vote is executed.</p>\n</blockquote>\n</aside>\n<p>Small oversight… there will be no TEC for the Proposal Deposit that is needed to make a Proposal.</p>\n<p>So even though wxDai will be in the Common Pool, and the Hatchers have Tokens to Vote; we will have to wait for the ABC to open so proposers can get liquid TEC to pay the Proposal Deposit.</p>\n<p><img alt=\":man_facepalming:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/man_facepalming.png?v=10\" title=\":man_facepalming:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014118",
+    "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-01-20T04:22:12Z",
+   "updated_at": "2022-01-20T04:22:12Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>This vote has passed, and now the hatch funds are stored in the new TEC gardens. TEC tokens have been minted to all TECH tokenholders at a ratio of 1:1.</p>\n<p>The <a href=\"https://forum.tecommons.org/t/bonding-curve-opening/820\">second vote to complete the Commons Upgrade</a> is up.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706014118",
+    "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220114012750",
+   "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124030906",
+   "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014118",
+   "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014118",
+   "url": "https://forum.tecommons.org/t/the-commons-upgrade-is-live/810/5"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": 208,
+ "title": "Upgrade Impact Hours App",
+ "slug": "upgrade-impact-hours-app",
+ "category_id": 7,
+ "posts_count": 2,
+ "created_at": "2021-01-08T01:01:17.682Z",
+ "last_posted_at": "2021-01-08T15:31:21.020Z",
+ "tags": [
+  "hatch-dao-voting"
+ ],
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-01-08T15:31:21Z",
+ "captured_between": [
+  "2021-03-06T02:07:33Z",
+  "2023-05-30T08:22:01Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-01-08T01:01:17Z",
+   "updated_at": "2021-11-09T05:02:28Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>The demo hatch of this week has been finished successfully but we had a problem on the impact hours conversion. To solve it, all the community has to vote on a dandelion vote in order to upgrade the impact hours contract and fix the problem.</p>\n<p>That’s the fix in the code:</p>\n<aside class=\"onebox githubcommit\" data-onebox-src=\"https://github.com/CommonsSwarm/impact-hours-app/commit/4bc09c7ea16e725d4df1870dde1ab7eb3d3dbd9e\">\n<header class=\"source\">\n<a href=\"https://github.com/CommonsSwarm/impact-hours-app/commit/4bc09c7ea16e725d4df1870dde1ab7eb3d3dbd9e\" rel=\"noopener\" target=\"_blank\">github.com/CommonsSwarm/impact-hours-app</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"github-row\">\n<div class=\"github-icon-container\" title=\"Commit\">\n<svg aria-hidden=\"true\" class=\"github-icon\" height=\"60\" viewbox=\"0 0 14 16\" width=\"60\"><path d=\"M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z\"></path></svg>\n</div>\n<div class=\"github-info-container\">\n<h4>\n<a href=\"https://github.com/CommonsSwarm/impact-hours-app/commit/4bc09c7ea16e725d4df1870dde1ab7eb3d3dbd9e\" rel=\"noopener\" target=\"_blank\">Fix GOAL_REACHED constant</a>\n</h4>\n<div class=\"github-info\">\n<div class=\"date\">\n        committed <span class=\"discourse-local-date\" data-date=\"2021-01-07\" data-format=\"ll\" data-time=\"23:13:03\" data-timezone=\"UTC\">11:13PM - 07 Jan 21 UTC</span>\n</div>\n<div class=\"user\">\n<a href=\"https://github.com/sembrestels\" rel=\"noopener\" target=\"_blank\">\n<img alt=\"sembrestels\" class=\"onebox-avatar-inline\" height=\"20\" src=\"https://forum.tecommons.org/uploads/default/original/1X/19fd8e8360acf06428daed1e0ecceb93b40ce0a3.jpeg\" width=\"20\"/>\n          sembrestels\n        </a>\n</div>\n<div class=\"lines\" title=\"changed 1 files with 1 additions and 1 deletions\">\n<a href=\"https://github.com/CommonsSwarm/impact-hours-app/commit/4bc09c7ea16e725d4df1870dde1ab7eb3d3dbd9e\" rel=\"noopener\" target=\"_blank\">\n<span class=\"added\">+1</span>\n<span class=\"removed\">-1</span>\n</a>\n</div>\n</div>\n</div>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>And that’s the dandelion vote that uploads the app:</p>\n<p><a class=\"onebox\" href=\"https://aragon.1hive.org/#/0x83b60d521da97431bb4464fd16ea1bc6ad8ad02e/0xaae2ba9a1a53ea5d508846f6e4aa3d594ff527c1/vote/1/\" rel=\"noopener\" target=\"_blank\">https://aragon.1hive.org/#/0x83b60d521da97431bb4464fd16ea1bc6ad8ad02e/0xaae2ba9a1a53ea5d508846f6e4aa3d594ff527c1/vote/1/</a></p>\n<p><strong>Fun facts:</strong> In order to create the vote, 3 wxdai were needed because of the <a href=\"https://forum.tecommons.org/t/tollgate-fee-deep-dive/128\">tollgate fee</a> (only applied in dandelion vote creation). At least 2% of all token holders are needed to support the proposal (<a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">min quorum</a>), and they need 60% of votes in favor (<a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108\">support required</a>). The vote should be open during 3 days (<a href=\"https://forum.tecommons.org/t/vote-duration-deep-dive/134\">vote duration</a>).</p>\n<p>Note that because block time is shorter in xdai, the aragon frontend may mislead you telling that the vote duration is shorter than what it really is.</p>\n<p>Did you already vote?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530082201",
+    "url": "https://forum.tecommons.org/t/upgrade-impact-hours-app/208"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2021-01-08T07:14:37Z",
+   "updated_at": "2021-01-08T07:14:37Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Voted with my TESTTEC tokens <img alt=\":+1:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/+1.png?v=9\" title=\":+1:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530082201",
+    "url": "https://forum.tecommons.org/t/upgrade-impact-hours-app/208"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "cranders1",
+   "name": null,
+   "created_at": "2021-01-08T15:31:21Z",
+   "updated_at": "2021-01-08T15:31:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>thnx for that. voted.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530082201",
+    "url": "https://forum.tecommons.org/t/upgrade-impact-hours-app/208"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306020733",
+   "url": "https://forum.tecommons.org/t/upgrade-impact-hours-app/208"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306020733",
+   "url": "https://forum.tecommons.org/t/upgrade-impact-hours-app/208"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530082201",
+   "url": "https://forum.tecommons.org/t/upgrade-impact-hours-app/208"
+  }
+ ]
+}

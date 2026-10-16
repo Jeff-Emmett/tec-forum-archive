@@ -1,0 +1,86 @@
+{
+ "id": 672,
+ "title": "Technical fix allowing HatchDAO to execute payment",
+ "slug": "technical-fix-allowing-hatchdao-to-execute-payment",
+ "category_id": 7,
+ "posts_count": 2,
+ "created_at": "2021-10-21T09:49:12.513Z",
+ "views": 42,
+ "last_posted_at": "2021-11-03T02:07:47.916Z",
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "tags": [
+  "hatch-dao-voting"
+ ],
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-11-03T02:07:47Z",
+ "captured_between": [
+  "2021-10-26T02:45:22Z",
+  "2021-12-07T11:20:17Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-21T09:49:12Z",
+   "updated_at": "2021-11-09T05:00:02Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#new-vote-technical-fix-allowing-hatchdao-to-execute-payment-for-requested-reimbursement-of-tollgate-fee-1\" name=\"new-vote-technical-fix-allowing-hatchdao-to-execute-payment-for-requested-reimbursement-of-tollgate-fee-1\"></a>New vote: Technical fix allowing HatchDAO to execute payment for requested reimbursement of tollgate fee</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>TL;DR</strong></p>\n<p>A second technical detail has surfaced during the execution of the <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/15\">One Time Change of TECH Addresses</a>. We will submit a new vote to fix this issue. It will allow the HatchDAO to pay the tollgate fee reimbursement requested in the vote.</p>\n<p><strong>Background:</strong></p>\n<p>Additional permissions will be required for the HatchDAO to execute the <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/15\">One Time Change of TECH Addresses</a>.The HatchDAO requires the permission to pay (in this case the tollgate fee), you can read more about it on this <a href=\"https://forum.tecommons.org/t/tec-hatch-rehearsal-implementation-specification/448\">thread</a>.</p>\n<p><strong>Proposal Details:</strong></p>\n<p>We will be taking these actions:</p>\n<ul>\n<li>Pay the Tollgate fee of 1000 wxDai</li>\n<li>Reimburse the Tollgate fee, sending 1000 wxDai</li>\n<li>Grant permission to dandelion voting to transfer funds from the non-redeemable pool</li>\n</ul>\n<p><strong>Expected duration or delivery date (if applicable):</strong></p>\n<p>Thursday(21-10-21) - Friday(22-10-21) as soon as the vote is active will announce it here</p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong></p>\n<p>The intention to pass this proposal is to be able to execute<a href=\"https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr\"> One time change of TECH addresses</a> that has already <a href=\"https://aragon.1hive.org/?#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/1/\">passed</a></p>\n<p><strong>Team Information (For Funding Proposals)</strong></p>\n<p>These are the community members that will support and provide the initial funding for the tollgate fee for the Hatch DAO proposal.</p>\n<p>Zeptimus</p>\n<p>Tam</p>\n<p>Sem</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-3\" name=\"funding-information-for-funding-proposals-3\"></a>Funding Information (For Funding Proposals)</h2>\n<p>Amount of tokens requested:</p>\n<p>1000 wxDAI from the non-redeemable pool in order to cover the tollgate fee</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207112017",
+    "url": "https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-10-25T19:48:41Z",
+   "updated_at": "2021-10-25T19:48:41Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The vote is live: <strong><a href=\"https://xdai.aragon.blossom.software/#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/3/\">&gt;&gt; Vote #3 &lt;&lt;</a></strong>. It was launched on Monday at 21:40 CEST and it will be open until Friday 21:40 CEST. Sorry for the inconvenience, we have made sure that this is the last vote for this particular issue.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207112017",
+    "url": "https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-11-03T02:07:47Z",
+   "updated_at": "2021-11-03T02:07:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This vote has been executed on November 3rd 2021.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207112017",
+    "url": "https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211026024522",
+   "url": "https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207112017",
+   "url": "https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672"
+  }
+ ]
+}

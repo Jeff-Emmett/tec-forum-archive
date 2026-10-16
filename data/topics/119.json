@@ -1,0 +1,104 @@
+{
+ "id": 119,
+ "title": "❓ Proposal Questions",
+ "slug": "proposal-questions",
+ "category_id": 8,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2020-12-03T21:50:08Z",
+ "last_archived_post_at": "2020-12-16T16:20:27Z",
+ "captured_between": [
+  "2021-03-01T23:29:45Z",
+  "2025-08-05T14:53:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-03T21:50:08Z",
+   "updated_at": "2020-12-03T21:50:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>You can reply to this thread with questions about submitting proposals</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145359",
+    "url": "https://forum.tecommons.org/t/proposal-questions/119"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2020-12-10T21:36:06Z",
+   "updated_at": "2020-12-10T21:36:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>What is the “thesis” of TEC ?  I.e. what type of proposals does it want to see realized? What value add is currently needed most, what mid-term, long-term? i.e. A gist of TEC vision would be helpful.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145359",
+    "url": "https://forum.tecommons.org/t/proposal-questions/119"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-15T23:56:41Z",
+   "updated_at": "2020-12-15T23:56:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey Sebnem, thank you so much for this and perfect timing, I am actually just working on a post for this to gather more feedback on this topic!! I will share the link here and in the channels when I finish - thank you so much for bringing this up! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=9\" title=\":pray:\"/> <img alt=\":heart_decoration:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart_decoration.png?v=9\" title=\":heart_decoration:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145359",
+    "url": "https://forum.tecommons.org/t/proposal-questions/119"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-12-16T16:20:27Z",
+   "updated_at": "2020-12-16T16:20:27Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>we also have the vision, mission and values we collectively iterated on as guidance which should serve as a north star until changes or new ones are proposed <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<h3>TEC Vision</h3>\n<p>The TEC envisions a world with safe digital socio-economic public infrastructures that are diversely designed and aligned with collective needs.</p>\n<h3>Values</h3>\n<p>The TEC operates from a prosocial human centered perspective.</p>\n<p>We hold ourselves to high standards of safety, resilience, and integrity.</p>\n<p>We encourage our members to be radically open source, non-hierarchical, creative, transparent in their intentions and accountable for their actions.</p>\n<p>We are value driven, (not profit driven) and will strive to support token engineering projects that appreciate the value of public goods and ethical, inclusive economic systems.</p>\n<p>See also, the <a href=\"https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit#\">TEC Code of Conduct </a></p>\n<h3>Near Term Mission</h3>\n<p>Our primary goal in the near term is to get the Token Engineering Commons (TEC) launched, and operating, with a resilient culture. Once launched, the TEC (smart contracts and culture built around it) will align incentives around advancing the token engineering discipline.</p>\n<p>There are a many requirements to fulfill, these are just some of the most important:</p>\n<ul>\n<li>The TEC will be launched by a Trusted Seed, a critical mass of token engineering, decentralized governance, and commons management “experts.”</li>\n<li>The TEC will consist of an Augmented Bonding Curve (or similar bonding curve) feeding into a community pool of funds that can be disbursed using Conviction Funding.</li>\n<li>The Token Engineering Commons will be able to be upgradable so that it can improve upon its initial design.</li>\n</ul>\n<p>The cultural and technical build are currently happening to ensure a successful launch of the TEC and are the focus until they are completed and the TEC is allocating funding to support TE Public Goods.</p>\n<h3>Long Term Mission</h3>\n<p>The TE Commons mission is to gather and steward the efficient distribution of funds to projects in the emerging field of token engineering to encourage the robust and ethical design of tokenized infrastructures. The TE Commons will curate and connect projects to the resources they need, while also evolving and maintaining our own healthy culture &amp; regenerative infrastructure where capital supports contributions, contributions create value, value empowers token engineers, and people who appreciate token engineers being empowered contribute capital of all sorts.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805145359",
+    "url": "https://forum.tecommons.org/t/proposal-questions/119"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210301232945",
+   "url": "https://forum.tecommons.org/t/proposal-questions/119"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210301232945",
+   "url": "https://forum.tecommons.org/t/proposal-questions/119"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805145359",
+   "url": "https://forum.tecommons.org/t/proposal-questions/119"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805145359",
+   "url": "https://forum.tecommons.org/t/proposal-questions/119"
+  }
+ ]
+}

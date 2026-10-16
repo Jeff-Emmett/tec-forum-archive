@@ -1,0 +1,109 @@
+{
+ "id": 125,
+ "title": "Invite Vitalik Buterin to join our group calls",
+ "slug": "invite-vitalik-buterin-to-join-our-group-calls",
+ "category_id": 10,
+ "posts_count": 3,
+ "created_at": "2020-12-04T22:29:00.771Z",
+ "views": 7,
+ "last_posted_at": "2020-12-04T22:29:00.888Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2020-12-06T19:14:29Z",
+ "captured_between": [
+  "2020-12-04T23:01:16Z",
+  "2026-09-05T01:36:28Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-04T22:29:00Z",
+   "updated_at": "2020-12-04T22:29:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>If he joined it would be so amazing <img alt=\":sunglasses:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunglasses.png?v=9\" title=\":sunglasses:\"/> <img alt=\":sunglasses:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunglasses.png?v=9\" title=\":sunglasses:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905013628",
+    "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-04T23:47:48Z",
+   "updated_at": "2020-12-04T23:47:48Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Or Lex Fridman, or both! Who else can you think of?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905013628",
+    "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-06T01:38:12Z",
+   "updated_at": "2020-12-06T01:38:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>YES THIS HAS MY VOTE. I’m sure someone in our ranks knows him personally, **cough**<a class=\"mention\" href=\"/u/griff\">@Griff</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905013628",
+    "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-06T19:14:29Z",
+   "updated_at": "2020-12-06T19:14:29Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"onebox twitterstatus\">\n<header class=\"source\">\n<a href=\"https://twitter.com/tecmns/status/1334996147207729154\" rel=\"noopener nofollow ugc\" target=\"_blank\">twitter.com</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/1ca6653faeb66caceaa87866b1b8a6e88dfb6db2_2_10x10.png\" height=\"349\" src=\"https://forum.tecommons.org/uploads/default/original/1X/1ca6653faeb66caceaa87866b1b8a6e88dfb6db2.jpeg\" width=\"690\"/>\n<h4><a href=\"https://twitter.com/tecmns/status/1334996147207729154\" rel=\"noopener nofollow ugc\" target=\"_blank\">Token Engineering Commons (tecmns)</a></h4>\n<div class=\"tweet\"> The #TokenEngineering Commons community has an open invite for @VitalikButerin - we warmly welcome you to join our next community call 😁\nhttps://t.co/N02ytdBYuI</div>\n<div class=\"date\">\n<a href=\"https://twitter.com/tecmns/status/1334996147207729154\" rel=\"noopener nofollow ugc\" target=\"_blank\">15:00 - 4. Dez. 2020</a>\n<span class=\"like\">\n<svg aria-hidden=\"true\" height=\"16px\" viewbox=\"0 0 512 512\" width=\"14px\">\n<path d=\"M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z\"></path>\n</svg> 7\n    </span>\n<span class=\"retweet\">\n<svg aria-hidden=\"true\" height=\"16px\" viewbox=\"0 0 640 512\" width=\"14px\">\n<path d=\"M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z\"></path>\n</svg> 2\n    </span>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905013628",
+    "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20201204230116",
+   "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210303014110",
+   "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303014110",
+   "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260905013628",
+   "url": "https://forum.tecommons.org/t/invite-vitalik-buterin-to-join-our-group-calls/125"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": 226,
+ "title": "TEC TEST Hatch Implementation Specification",
+ "slug": "tec-test-hatch-implementation-specification",
+ "posts_count": 7,
+ "category_id": 19,
+ "created_at": "2021-01-21T16:03:25.135Z",
+ "last_posted_at": "2021-05-03T01:05:23.354Z",
+ "views": 4304,
+ "highest_post_number": 8,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-05-03T01:05:23Z",
+ "captured_between": [
+  "2021-04-20T12:57:12Z",
+  "2026-03-05T13:53:28Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-01-21T16:03:25Z",
+   "updated_at": "2021-03-29T18:46:28Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h1>TEC TEST Hatch Implementation Specification</h1>\n<h2>Introduction</h2>\n<p>The Token Engineering Commons hopes to advance the field of token engineering by creating a purpose driven economy that will curate and fund TE projects with an aligned focus.</p>\n<p>The intention is to launch first as the TEC Hatch DAO and potentially upgrade to a Commons which will include an Augmented Bonding Curve and Conviction Voting. However, this is up to the will of the TEC Hatch DAO and the Commons upgrade is not in the scope of this document. This specification is solely for the initial deployment of the TEC Hatch DAO.</p>\n<p>The TEC Hatch DAO will have two main phases. First the Hatch where funds will be sent into the TEC Hatch DAO and TECH tokens will be minted. After the Hatch, the TEC Hatch DAO will be live and have the ability to vote on how to use these funds to best execute on their mission.</p>\n<p>This implementation spec is for the TEC TEST Hatch DAO, while real money was used, there is no expectation of anything happening with this DAO. This is simply a test.</p>\n<h2>Implementation</h2>\n<h3>Governance structure</h3>\n<h4>Token holders</h4>\n<p>Holders of Token Engineering Commons TEST Hatch DAO Tokens control the funds sent to the Hatch collectively and individually and can take part in key governance decisions of the project.</p>\n<h4>Rights and privileges</h4>\n<p>The initial privileges:</p>\n<ul>\n<li>Using Dandelion Voting to control the funds in both the Redeemable and the Non-redeemable Agent applications.</li>\n<li>Using Dandelion Voting to upgrade the smart contract system that underlies the DAO.</li>\n<li>As long as they have not voted yes on a proposal yet to be executed, TESTTECH token holders can redeem their tokens and withdraw their proportional share of funds held by the Redeemable Agent application.</li>\n</ul>\n<h2>Application Configurations</h2>\n<h3>Token and Hooked Token Manager</h3>\n<p><a href=\"https://github.com/1Hive/token-manager-app/\">Hooked Token Manager</a> controls the TESTTECH token.</p>\n<ul>\n<li><strong>Token symbol: TESTTECH</strong></li>\n<li><strong>Token name: Token Engineering Commons Hatch TEST Token</strong></li>\n<li>\n<strong>Decimals: 18</strong>\n<ul>\n<li>How divisible the base unit of the token can be. If the Decimals is 18, then you can divide 1 token by 10^18</li>\n</ul>\n</li>\n<li><strong>Transferable: No</strong></li>\n</ul>\n<h3>Dandelion Voting</h3>\n<p><a href=\"https://github.com/1Hive/dandelion-voting-app/\">Dandelion Voting</a> is “god-mode” within the TEC Hatch DAO. It controls almost everything in the DAO. TESTTECH Token holders use this application to collectively decide how to use the funds within the DAO and can control the smart contract system that makes up the DAO.</p>\n<ul>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108\">Support Required</a>: 60%</strong>\n<ul>\n<li>Percentage of tokens need to vote yes (of the tokens that were used to vote) for a proposal to Pass</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">Minimum Quorum</a>: 2%</strong>\n<ul>\n<li>The percent of the total supply of the token that needs to vote yes in a vote in order for it to be able to be passed.</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/vote-duration-deep-dive/134\">Vote Duration</a>: 3 days</strong>\n<ul>\n<li>This is the period of time it takes for a vote to pass or fail</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/vote-proposal-buffer/132\">Vote Proposal Buffer</a>: 8 hours</strong>\n<ul>\n<li>The amount of time that must pass between the start of subsequent votes.</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130/2\">Rage Quit Period</a>: 24 hours</strong>\n<ul>\n<li>The period of time after a vote passes before the vote can be executed. This gives hatchers that don’t approve of the vote an opportunity to leave the hatch before vote execution.</li>\n</ul>\n</li>\n</ul>\n<h3>Tollgate</h3>\n<p><a href=\"https://github.com/1Hive/tollgate-app/\">Tollgate</a> controls the cost of creating a dandelion voting proposal.</p>\n<ul>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/tollgate-fee-deep-dive/128\">Tollgate Fee</a>: 3 wxDAI</strong>\n<ul>\n<li>Requires a user to deposit this amount before creating a vote, this fee goes to the funding pool vault.</li>\n</ul>\n</li>\n</ul>\n<h3>Hatch</h3>\n<p><a href=\"https://github.com/TECommons/hatch-app/\">Hatch</a> controls the initial funds of the DAO, it receives funds and mints TEC Hatch DAO Tokens (TECH).</p>\n<ul>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-goals-deep-dive/62\">Minimum Goal</a>: 5 wxDAI</strong>\n<ul>\n<li>The minimum amount that needs to be collected during the Hatch to create the TEC HatchDAO, if less than this is collected, the funds will be sent back to the addresses that sent it.</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-goals-deep-dive/62\">Maximum Goal</a>: 1000 wxDAI</strong>\n<ul>\n<li>The maximum amount of wxDai that can be sent to the Hatch</li>\n</ul>\n</li>\n<li>\n<strong>Target Goal</strong>: Total amount of funds raised or expected amount of funds raised. Theoretical number for the purpose of running the simulation.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-time-limit-deep-dive/63\">Hatch period</a>: 15 days</strong>\n<ul>\n<li>How long the Hatch is open to collect funds</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-exchange-rate/190\">Hatch Minting Rate</a>: 10,000 TESTTECH/wxDAI</strong>\n<ul>\n<li>The amount of TESTTECH that are obtained for 1 wxDAI (wrapped xDAI).</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-tribute-deep-dive/65\">Hatch Tribute</a>: 5%</strong>\n<ul>\n<li>Specifies what percentage of the funds raised by the Hatch go to the Non-redeemable Pool</li>\n</ul>\n</li>\n</ul>\n<h3>Hatch Oracle</h3>\n<p><a href=\"https://github.com/TECommons/hatch-oracle/\">Hatch oracle</a> controls how much funds the hatch can receive from a specific address. The sending address needs to have a minimum amount of membership score tokens in order to send to the Hatch.</p>\n<ul>\n<li>\n<strong>Score token address: <code>0xc4fbe68522ba81a28879763c3ee33e08b13c499e</code> (CSTK)</strong>\n<ul>\n<li>The Hatchers have to hold these tokens to send wxDAI to the Hatch</li>\n</ul>\n</li>\n<li>\n<strong>Score token decimals: 0</strong>\n<ul>\n<li>How divisible the base unit of the Score token can be. If the Decimals is 0, then the token is not divisible.</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/cstk-ratio-deep-dive/141\">Membership Ratio</a>: 0.005 wxDAI/CSTK</strong>\n<ul>\n<li>The amount of wxDAI (wrapped xDAI) each CSTK Token holder is able to send to the Hatch per CSTK they have. If the ratio is .005 wxDAI/CSTK then the user has to have 200 CSTK to send 1 wxDAI</li>\n</ul>\n</li>\n</ul>\n<h3>Impact Hours</h3>\n<p><a href=\"https://github.com/TECommons/impact-hours-app/\">Impact Hours</a> determines how to distribute TECH tokens to the TEC Community that earned Impact Hours. Impact Hours are rewarded via the “Cultural Build Tribute” which is designed to mint TECH tokens to reward everyone inside the community that worked to build the culture and tech that made the TEC Hatch DAO possible.</p>\n<ul>\n<li>\n<strong>Impact Hours Token: <code>0xdf2c3c8764a92eb43d2eea0a4c2d77c2306b0835</code> (IHT)</strong>\n<ul>\n<li>The token that controls the Impact Hours distribution.</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/impact-hour-rewards-deep-dive/90/10\">Maximum Impact Hour Rate</a>: 0.01 wxDAI/IH</strong>\n<ul>\n<li>The theoretical maximum rate that Impact Hour token holders would be able to receive</li>\n</ul>\n</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/impact-hour-rewards-deep-dive/90/10\">Impact Hour Slope</a>: 0.012 wxDAI/IH</strong>\n<ul>\n<li>The parameter that effects the curvature of the Impact Hour graph, also the amount needed to be collected to reach 1/2 of the Max IH Rate divided by total IH.</li>\n</ul>\n</li>\n</ul>\n<h3>Agent 1: Non-redeemable Pool</h3>\n<p><a href=\"https://github.com/aragon/aragon-apps/blob/master/apps/agent/\">Agent</a> 1 can interact with smart contracts and controls the funds set aside to advance the field of Token Engineering. It is controlled by the Dandelion Voting App.</p>\n<h3>Agent 2: Redeemable Pool</h3>\n<p><a href=\"https://github.com/aragon/aragon-apps/blob/master/apps/agent/\">Agent</a> 2 can interact with smart contracts and controls the funds set aside to create the economy of TE Commons. It is controlled by the Dandelion Voting App. The funds here can also be redeemed by the individual TESTTECH token holders on a pro rata basis.</p>\n<h3>Redemptions</h3>\n<p><a href=\"https://github.com/1Hive/redemptions-app/\">Redemptions</a> enables TESTTECH token holders to redeem their tokens for the tokens in Agent 2 (the Redeemable Pool) on a pro rata basis. These are the funds set aside to create the economy of TE Commons.</p>\n<h2>Permissons</h2>\n<p>The permissions that will be set are (click to magnify):<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/435917f83112d50130bf60e6338f6db1a2d0fe0b\" href=\"https://forum.tecommons.org/uploads/default/original/1X/435917f83112d50130bf60e6338f6db1a2d0fe0b.png\" title=\"dao\"><img alt=\"dao\" data-base62-sha1=\"9BMS6PipZLa7nfRojZPj4LvFxy3\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/435917f83112d50130bf60e6338f6db1a2d0fe0b_2_10x10.png\" height=\"415\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/435917f83112d50130bf60e6338f6db1a2d0fe0b_2_690x415.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/435917f83112d50130bf60e6338f6db1a2d0fe0b_2_690x415.png, https://forum.tecommons.org/uploads/default/optimized/1X/435917f83112d50130bf60e6338f6db1a2d0fe0b_2_1035x622.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/435917f83112d50130bf60e6338f6db1a2d0fe0b_2_1380x830.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">dao</span><span class=\"informations\">1793×1079 135 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">App</th>\n<th style=\"text-align:center\">Permission</th>\n<th style=\"text-align:center\">Grantee</th>\n<th style=\"text-align:center\">Manager</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">Kernel</td>\n<td style=\"text-align:center\">APP_MANAGER</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">ACL</td>\n<td style=\"text-align:center\">CREATE_PERMISSIONS</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">EVMScriptRegistry</td>\n<td style=\"text-align:center\">REGISTRY_MANAGER</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">EVMScriptRegistry</td>\n<td style=\"text-align:center\">REGISTRY_ADD_EXECUTOR</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">TRANSFER</td>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">EXECUTE</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">RUN_SCRIPT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 2</td>\n<td style=\"text-align:center\">EXECUTE</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 2</td>\n<td style=\"text-align:center\">RUN_SCRIPT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">OPEN</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">CLOSE<sup>(1)</sup>\n</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">CONTRIBUTE<sup>(2)</sup>\n</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Impact Hours</td>\n<td style=\"text-align:center\">CLAIM</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">REDEEM<sup>(3)</sup>\n</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">ADD_TOKEN</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">REMOVE_TOKEN</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">MINT</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">BURN</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">ISSUE</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">ASSIGN</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">REVOKE_VESTINGS</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tollgate</td>\n<td style=\"text-align:center\">CHANGE_DESTINATION</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tollgate</td>\n<td style=\"text-align:center\">CHANGE_AMOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">CREATE_VOTES</td>\n<td style=\"text-align:center\">Tollgate</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_SUPPORT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_QUORUM</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_BUFFER_BLOCKS</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_EXECUTION_DELAY</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n</tbody>\n</table>\n</div><p><sup>(1)</sup> CLOSE role is behind the Impact Hours ACL Oracle. This prevents closing the hatch before all impact hours have been claimed and transformed into TESTTECH.<br/>\n<sup>(2)</sup> CONTRIBUTE role is behind the Hatch Oracle ACL Oracle. This prevents anyone from contributing more funds that what they are allowed based on their membership score.<br/>\n<sup>(3)</sup> REDEEM role is behind the Dandelion Voting (DV) ACL Oracle. This prevents redeeming tokens that are blocked in a vote.</p>\n<hr/>\n<p><strong>EDITED February 2nd, 2021:</strong> Changed to reflect <a href=\"https://github.com/TECommons/impact-hours-app/commit/d705b9f35ea1e15a165c69406230ad8e306623fc\">reimplementation</a> of Impact Hours app, and added <a href=\"https://github.com/TECommons/tec-template/commit/e326206f18d0576d79949082e3ca6c8cd48305a2#diff-b094db7ce2f99cbcbde7ec178a6754bac666e2192f076807acbd70d49ddd0559\">transfer</a> permission on Agent 1 for Redemptions.</p>\n<p><strong>EDITED March 4th, 2021:</strong> Changed to reflect updated Parameter names following <a href=\"https://docs.google.com/spreadsheets/d/1NBizA4mbj4iFuTkcfg3M1Q7v-9exhMcja8u2BshV5V8/edit?usp=sharing\">this spreadsheet</a>.</p>\n<p><strong>EDITED March 29:</strong> Added description of <em>Target Goal</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-01-25T20:05:45Z",
+   "updated_at": "2021-01-25T20:05:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>There is a missing Permission around Redemptions and agent 1 <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-02-02T00:29:04Z",
+   "updated_at": "2021-02-02T00:29:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I updated the original post in order to reflect that <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-02-19T15:43:06Z",
+   "updated_at": "2021-02-19T15:43:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/sem\">@sem</a> to propose to the Dandelion Voting App… do you have to have TECH tokens?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-02-19T16:38:22Z",
+   "updated_at": "2021-02-19T16:38:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>No, because the <code>CREATE_VOTE_ROLE</code> is given to the Tollgate app, and it only requires a payment to forward the actions. We can add it if you think it should be a requirement.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-03-04T04:29:06Z",
+   "updated_at": "2021-03-04T04:29:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>No need to change it. It’s great that DAOtoshi Nakomoto will be able to propose if they want.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-05-01T18:59:47Z",
+   "updated_at": "2021-05-26T06:51:09Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The original TEC TEST Hatch DAO had some bugs that have been corrected in successive deployments, and we also included the Migration Tools app. Here is the final spec.</p>\n<h2>Permissons</h2>\n<p>The permissions that will be set are (click to magnify):</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/18235b18a2c50e2a0cfd286021991084c2bc3897\" href=\"https://forum.tecommons.org/uploads/default/original/1X/18235b18a2c50e2a0cfd286021991084c2bc3897.png\" title=\"dao\"><img alt=\"dao\" data-base62-sha1=\"3rxcWM5wXhPyfkjNfXQlo1zLGIL\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/18235b18a2c50e2a0cfd286021991084c2bc3897_2_10x10.png\" height=\"298\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/18235b18a2c50e2a0cfd286021991084c2bc3897_2_690x298.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/18235b18a2c50e2a0cfd286021991084c2bc3897_2_690x298.png, https://forum.tecommons.org/uploads/default/optimized/1X/18235b18a2c50e2a0cfd286021991084c2bc3897_2_1035x447.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/18235b18a2c50e2a0cfd286021991084c2bc3897_2_1380x596.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">dao</span><span class=\"informations\">2460×1063 174 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">App</th>\n<th style=\"text-align:center\">Permission</th>\n<th style=\"text-align:center\">Grantee</th>\n<th style=\"text-align:center\">Manager</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">Kernel</td>\n<td style=\"text-align:center\">APP_MANAGER</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">ACL</td>\n<td style=\"text-align:center\">CREATE_PERMISSIONS</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">EVMScriptRegistry</td>\n<td style=\"text-align:center\">REGISTRY_MANAGER</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">EVMScriptRegistry</td>\n<td style=\"text-align:center\">REGISTRY_ADD_EXECUTOR</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">TRANSFER</td>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">TRANSFER</td>\n<td style=\"text-align:center\">Migration Tools</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">EXECUTE</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 1</td>\n<td style=\"text-align:center\">RUN_SCRIPT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 2</td>\n<td style=\"text-align:center\">TRANSFER</td>\n<td style=\"text-align:center\">Migration Tools</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 2</td>\n<td style=\"text-align:center\">EXECUTE</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Agent 2</td>\n<td style=\"text-align:center\">RUN_SCRIPT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">OPEN</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">CLOSE</td>\n<td style=\"text-align:center\">Impact Hours</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">CONTRIBUTE<sup>(1)</sup>\n</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Impact Hours</td>\n<td style=\"text-align:center\">CLOSE_HATCH</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Migration Tools</td>\n<td style=\"text-align:center\">MIGRATE</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">REDEEM<sup>(2)</sup>\n</td>\n<td style=\"text-align:center\">ANY ACCOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">ADD_TOKEN</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">REMOVE_TOKEN</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">MINT</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">BURN</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">BURN</td>\n<td style=\"text-align:center\">Redemptions</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">ISSUE</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">ASSIGN</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tokens</td>\n<td style=\"text-align:center\">REVOKE_VESTINGS</td>\n<td style=\"text-align:center\">Hatch</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tollgate</td>\n<td style=\"text-align:center\">CHANGE_DESTINATION</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">Tollgate</td>\n<td style=\"text-align:center\">CHANGE_AMOUNT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">CREATE_VOTES<sup>(3)</sup>\n</td>\n<td style=\"text-align:center\">Tollgate</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_SUPPORT</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_QUORUM</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_BUFFER_BLOCKS</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">MODIFY_EXECUTION_DELAY</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n<td style=\"text-align:center\">DV (TESTTECH)</td>\n</tr>\n</tbody>\n</table>\n</div><p><sup>(1)</sup> CONTRIBUTE role is behind the Hatch Oracle ACL Oracle. This prevents anyone from contributing more funds that what they are allowed based on their membership score.<br/>\n<sup>(2)</sup> REDEEM role is behind the Dandelion Voting (DV) ACL Oracle. This prevents redeeming tokens that are blocked in a vote.<br/>\n<sup>(3)</sup> CREATE_VOTES role is behind the Hatch ACL Oracle. This prevents creating new votes before the hatch token vesting complete period has passed, so anyone can redeem during the first vote.</p>\n<p><strong>EDIT May 26th, 2021</strong>: CREATE_VOTES role was previously restricted with a TIMESTAMP parameter, but it was not working well when we don’t know the open date on the DAO creation, so it has been changed to an ACL oracle <a href=\"https://github.com/CommonsSwarm/hatch-template/commit/a9bca1d79f97f7bab3fbec1da0f619c1c10917d0\">in this commit</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-05-03T01:05:23Z",
+   "updated_at": "2021-05-03T01:05:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Wow Sem, this is fantastic documentation</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305135328",
+    "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420125712",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420125712",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624145043",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624145043",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520064506",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226/7"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520064506",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226/7"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250828125705",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260305135328",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260305135328",
+   "url": "https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226"
+  }
+ ]
+}

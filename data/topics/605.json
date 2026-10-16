@@ -1,0 +1,259 @@
+{
+ "id": 605,
+ "title": "Swap TEC tokens for AGAVE tokens - TEC x AGAVE",
+ "slug": "swap-tec-tokens-for-agave-tokens-tec-x-agave",
+ "posts_count": 12,
+ "category_id": 28,
+ "created_at": "2021-09-06T18:47:51.646Z",
+ "last_posted_at": "2021-09-18T02:00:15.220Z",
+ "total_known": true,
+ "archived_posts": 13,
+ "archived_numbers": 13,
+ "last_archived_post_at": "2022-02-23T01:33:40Z",
+ "captured_between": [
+  "2021-09-28T01:29:56Z",
+  "2022-07-06T00:53:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-06T18:47:51Z",
+   "updated_at": "2021-12-02T14:55:17Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#context-1\" name=\"context-1\"></a>Context</h2>\n<p>The <a href=\"https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574\">Tam-Zepti proposal</a> for making an initial buy into our own bonding curve ignited further explorations into possible economic and inter-DAO opportunities for the TEC. Coincidentally, after much anticipation, the AGAVE platform launched shortly thereafter. AGAVE, an offshoot from 1hive, is a protocol built on xDAI for Borrowing and Lending various types of token assets. I saw this as a perfect opportunity to seize the momentum and build on the soft-conensus we found around exploring all the possibilities laid out before us, given the success of the Hatch.</p>\n<p><strong>We arranged a meeting on September 6, 2021</strong> with representatives of the TEC and AGAVE and after fruitful discussion I can come forward with three opportunities for us to collaborate with AGAVE and provide economic benefit for the TEC. I will draft three different posts to allow us to accurately discuss and iterate on each proposal.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-2-swap-tec-for-agave-2\" name=\"proposal-2-swap-tec-for-agave-2\"></a>Proposal <span class=\"hashtag\">#2</span> - Swap TEC for AGAVE</h2>\n<p>In the aforementioned buy-in forum post we mentioned a unique opportunity to buy into our own Augmented Bonding Curve at the moment it launches, thus acquiring TEC at the best possible rate (perhaps until the Token Thaw begins). What we do with this intial buy-in is where the discussion gets interesting. I will add however we have only reached soft-consensus on doing a buy in at all, but perhaps with stronger proposals we can strengthen the argument in favour.</p>\n<p>The basis of this proposal is to use all or a portion of the TEC we bought in to exchange for AGAVE tokens. The AGAVE token, similar to TEC, will be the base token used in their Gardens for community-driven Conviction Voting.  Another proposal would be to use all or part of this acquired AGAVE to be locked away in a liquidity pool, creating a permanent economic bridge between our two tokens.</p>\n<p>What to consider:</p>\n<ul>\n<li>Do we buy into the Bonding Curve? How much? With what funds?</li>\n<li>How much AGAVE do we want to acquire?</li>\n<li>The exchange rate for TEC/AGAVE</li>\n<li>If we use it for Governance, who controls the tokens? (A sub-DAO was suggested)</li>\n<li>If we create a liquidity pool, who gets the swap fees?</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#opening-the-discussion-3\" name=\"opening-the-discussion-3\"></a>Opening the Discussion</h2>\n<p>This is a great way to create strong ties with other DAOs. In the case of holding Governance tokens it can keep DAOs value-aligned in that each can have a say in the other’s governance process. The LP token route has lots of potential as well and deserves further exploration.  I’d like to open up the discussion here and I would love to hear from a token engineering perspective any further ideas or perspectives around this proposal!</p>\n<p>I’d like to give a shout-out to <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a> <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> and <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> for the initial ideation and exploration of this concept!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-08T14:28:16Z",
+   "updated_at": "2021-09-08T14:28:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I think we could take the funds from our Hatch DAO before upgrading to a common, so we can build the params knowing that in advance.</p>\n<p>On all the proposals this is my favorite one, I would feel comfortable with something between 100k-200k by each community locked (no governance between communities imo). And regarding the fees should be shared between AGAVE and TEC ideally 50% of the pool  send the funds to our common pool and the other 50% to AGAVE common pool or where they decide. I think the biggest benefit would be have liquidity for both communities. And for us have some value that is not 100% pegged to a USD it’s always good to spread out our resources</p>\n<p>After this kind of proposals probably the community would feel a transferable token, but that still something we still have to decide (if we take funds from the hatch and right after we decide not to make our token transferable we would find ourselves on a weird spot)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-08T14:54:18Z",
+   "updated_at": "2021-09-08T14:54:18Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I don’t think we can take any funds from the Hatch DAO, that would create a lot of economic discrepancies. considering anyone can ragequit before the commons upgrade taking funds out of the Hatch DAO would create a serious issue in the event of the not having enough funds in the Hatch DAO to reimburse ragequitters. It would feel very shady to me to change the composition of the Hatch after Hatchers have made donations.</p>\n<p>The other technical issue is that before the Commons Upgrade we don’t actually have a TEC token to swap…</p>\n<p>I would suggest if we can agree on an amount to soft commit from all proposals of hatch funds we can peg what the minimum commons tribute should be in order to fulfill these soft commits and how much of a surplus from that we want in order to fund TE projects. Then as a community we have to vote through a commons design with the commons tribute value we need.</p>\n<p>Just as an example, putting 200k aside to swap for AGAVE. Even at the optimistic end of we set a Commons Tribute of 50%, (and nobody ragequits) we would have 750,000 wxDAI in our Common Pool, 200k just on this one proposal is over 25% of Common Pool funds.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-08T16:16:56Z",
+   "updated_at": "2021-09-08T16:16:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I think differently if we propose it to the Hatch DAO and someone wants to ragequit he/she can do it before the proposals passes, and if the community do not agree with the proposal it will simply not pass. And if it passes then the ragequit % would be lower than before since we take money from that pool (I might be wrong on this last one but that’s how should it work in my opinion). For me the ragequit feature as I see  it’s to allow Hatcher to leave if they disagree with the path the  community might take  (88% of support with 8% of quorum).</p>\n<p>Regarding the 200k  on just one proposal at the beginning I agree with you that might be to greedy and my thinking behind was to have a good amount of liquidity but we have our bonding curve for that. But still right now the fees that the pair HNY-AGAVE it’s generating it’s 5.63% in a year which in the case of having 100k it would be 5630 (if our pair perform like this one) and if we add 50k would be half of it which it’s to low to accomplish our mission.</p>\n<p>My conclusion it’s since we have our bonding curve this proposal might not be beneficial for us at all. But I think it’s good to start throwing numbers and discuss them to reach some common goal. How much money would you put on that proposal? Is it worth for us?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-08T20:50:14Z",
+   "updated_at": "2021-09-08T20:50:14Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’d like to to provide my opinion to these topics with the will to clarify some of the aspects mentioned above.</p>\n<blockquote>\n<ul>\n<li>Do we buy into the Bonding Curve? How much? With what funds?</li>\n</ul>\n</blockquote>\n<p>This swap can only be done after the Commons Upgrade (TEC token does not exists before it). If there is an initial buy, it will be done in the same vote that opens the bonding curve. At this stage the Hatch DAO will be empty and I would suggest to use the funds in the Common Pool to buy into the Augmented Bonding Curve (those funds ending up into the Reserve). The Commons Tribute probably has to be adjusted to have this in mind.</p>\n<p>It is interesting to note that Common Pool funds are the ones that can be used by the DAO (like the National Budget that is controlled by the government) and the Reserve funds are the ones that back the TEC token (like the gold that sits on the Federal Reserve).</p>\n<blockquote>\n<ul>\n<li>How much AGAVE do we want to acquire?</li>\n</ul>\n</blockquote>\n<p>This question can actually be divided in three (held by community votes):</p>\n<ol>\n<li>Commons Tribute percentage. To define Commons Tribute (done within the Commons Upgrade vote).</li>\n<li>Initial buy amount. To open the bonding curve with an initial buy.</li>\n<li>TEC allocation to Agave. To effectively swap the tokens with Agave.</li>\n</ol>\n<blockquote>\n<ul>\n<li>The exchange rate for TEC/AGAVE</li>\n</ul>\n</blockquote>\n<p>If both communities agree on providing a liquidity pool together, holding TEC-AGVE LP tokens in their Common Pools without doing anything special, I would suggest it should be provided a few days after the bonding curve is opened to set it up as the principal secondary market. TEC will need a substantial LP position with another token (WXDAI, HNY, or AGVE) in order to be traded in Honeyswap, which will be useful to get TEC listed in sites like Coingecko.</p>\n<p>The price I would offer to AGAVE is the bonding curve price after buying TEC for TECommons. I think <a class=\"mention\" href=\"/u/griff\">@griff</a> was advocating for waiting some weeks to see the TEC price grow, but maybe he can reconsider this initial thought. This is going to be a long-term collaboration and the price after the initial buy is already be an inflated price with many hatchers being able to sell after some months, and TECommons itself being able to distribute TEC rewards immediately. I think the price after the initial buy will be the fair market price, although it still has to be seen, as we don’t know which parameters will choose the hatchers for the economy.</p>\n<blockquote>\n<ul>\n<li>If we use it for Governance, who controls the tokens? (A sub-DAO was suggested)</li>\n</ul>\n</blockquote>\n<p>I would recommend as Zepti was suggesting to hold those funds in the Common Pool, so only a TAO voting can move them. I would not give those tokens more utility than bridging both communities in terms of token liquidity.</p>\n<blockquote>\n<ul>\n<li>If we create a liquidity pool, who gets the swap fees?</li>\n</ul>\n</blockquote>\n<p>The fees are accrued within the pool, so if those LP tokens are never touched, every time AGVE is swapped into TEC or viceversa those AGVE or TEC are “removed from circulation”, creating scarcity and benefiting every AGVE and TEC tokenholder as their tokens earn more value.</p>\n<p>These are the things that have more sense to me, trying to keep them simple.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "GreenHornet",
+   "name": null,
+   "created_at": "2021-09-09T16:04:45Z",
+   "updated_at": "2021-09-09T16:08:15Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Hi TEC <img alt=\":wave:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wave.png?v=9\" title=\":wave:\"/><br/>\nI am Green Hornet, one of the Agave seeds and a 1Hive contributor. I am very excited about this set of proposals, both our communities are aligned on values. Its also worth mentioning that Agave, like TEC is a DAO. so all my thoughts and comments are mine and do not necessarily reflect the thoughts/opinions of the other seeds or the wider community. disclaimer out of the way</p>\n<blockquote>\n<p>How much AGAVE do we want to acquire?</p>\n</blockquote>\n<p>$200k has been mentioned, personally I feel $100-200K is a good number.</p>\n<blockquote>\n<p>The exchange rate for TEC/AGAVE</p>\n</blockquote>\n<p>If we decide on a straight token swap, it may make sense to wait time for TEC to do a bit of price discovery. After a few days, we just swap equivalent amounts (in USD terms)</p>\n<blockquote>\n<p>If we create a liquidity pool, who gets the swap fees?<br/>\nIn my opinion, adding the tokens in liquidity is the most desirable outcome. we simply split the LP tokens and both earn the fees.</p>\n</blockquote>\n<p>whatever the outcome (straight swap or LP) I feel any deal should be bound by some form of Celeste agreement. in the liquidity bridge scenario. I would argue the LP tokens should not be moved without both parties agreeing. this would create a permanent liquidity bridge between our communities. I think this should be flexible enough such that TEC or Agave could realize the profits from the swap fees although i agree with <a class=\"mention\" href=\"/u/sem\">@sem</a> KISS is the best approach</p>\n<blockquote>\n<p>If we use it for Governance, who controls the tokens? (A sub-DAO was suggested)<br/>\nI dont have strong opinions on this, from the Agave side, If we use these tokens for governance, all AGVE holders should get a vote and thus the TEC should probably stay in the AGVE Agent.</p>\n</blockquote>\n<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"605\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>My conclusion it’s since we have our bonding curve this proposal might not be beneficial for us at all. But I think it’s good to start throwing numbers and discuss them to reach some common goal. How much money would you put on that proposal? Is it worth for us?</p>\n</blockquote>\n</aside>\n<p>From my perspective, added liquidity for TEC is not the only benefit. creating a liquidity bridge between our projects economically and social ties between our communities (which are already ideologically tied). Overall I think its a great idea for both communities</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-09-13T03:42:45Z",
+   "updated_at": "2021-09-13T03:42:45Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey, another seed from Agave here.</p>\n<p>Firstly, this is one of my favorite proposals. I love the idea of locking liquidity because it increases circulating supply and thus market cap without adding any sell pressure. I would love for us to draft a very basic agreement for celeste. This can be a very strong commitment to each other but it shouldn’t mandate that it be permanent.</p>\n<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"605\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>Regarding the 200k on just one proposal at the beginning I agree with you that might be to greedy</p>\n</blockquote>\n</aside>\n<p>I don’t know enough about the TEC hatch mechanics. Although a TEC decision, 20% seems like a lot unless the goal is to be heavily vested in a select few. I personally would like to see Agave be ‘partnered’ with more DAOs weith a few % ownership rather than one or two DAOs with 20% of the token supply. However, if a large partnership is still of interest to TEC we could do several smaller swaps which could be more comforting especially as price action is being determined. Downside is multiple votes would be needed. I lean towards a larger more meaningful LP. IMO $200k +/-$100k is very reasonable for Agave.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"605\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>The exchange rate for TEC/AGAVE</p>\n</blockquote>\n</aside>\n<p>Agave price has fluctuated from $5 upto $1480 down to $157 back up to $270 so to say Agave price is volatile is probably fairly accurate. TEC may not be as volatile but whenever the decision for an exchange rate is determined I’d request a small group to talk it out. we could do a moving average, upper bound lower bound average, we can keep it pretty simple but a single instantaneous point in time may not be best for a $200k swap. This should probably be negotiated further when/if it occurs.</p>\n<p>One way to perform the swap is to only swap $100k.</p>\n<ul>\n<li>Agave would have $100k TEC which they could pair with AGVE and Agave would control $200k in AGVE-TEC LP.</li>\n<li>Similarly TEC would have $100k AGVE and would pair that with $100k TEC and then control $200k in AGVE-TEC LP.</li>\n</ul>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"605\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>If we use it for Governance, who controls the tokens? (A sub-DAO was suggested)</p>\n</blockquote>\n</aside>\n<p>I lean to a no on allowing these tokens to be used for governance. I could be persuaded if it was a small percentage but not all.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-14T17:05:47Z",
+   "updated_at": "2021-09-14T17:05:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"605\" data-username=\"Monstrosity\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/monstrosity/40/180_2.png\" width=\"20\"/> Monstrosity:</div>\n<blockquote>\n<p>I lean to a no on allowing these tokens to be used for governance. I could be persuaded if it was a small percentage but not all.</p>\n</blockquote>\n</aside>\n<p>Another framing of the question would be is what do we value from this partnership? Do we want to make our tokens more valuable or do we want a way to align our cultural values via governance? It’s a two way street so by holding and using each other’s governance systems we can keep our communities aligned and accountable. It might be worth having some governance input if we’ve invested in each other’s platforms in more than one way.</p>\n<p>If according to the other proposal to deposit perhaps a sginificant sum of wxDAI into AGAVE wouldn’t it be useful for both parties to have some say in the other’s decision process?</p>\n<p>As an example if the TEC had a vote on whether to decrease our deposit percentage from 40% to 5% wouldn’t AGAVE like to have real sway in that decision? Conversely, if AGAVE decided to lower the TEC’s wxDAI interest rate to 0.5% wouldn’t the TEC like to be able to weigh-in with on-chain voting power?</p>\n<p>Touching on my original point which is a bit more abstract but the bigger question is what do we value from our Governance tokens? Is creating systems between DAOs explcitly to increase the value of their governance tokens creating a barrier for entry? At some point when governance tokens become so expensive only the wealthy and the earlybirds will have a seat at the table.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-14T20:16:42Z",
+   "updated_at": "2021-09-14T20:16:42Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"q6TdxnzRZR8\" data-youtube-title=\"Debate - Swap TEC tokens for AGAVE tokens - TEC x AGAVE\">\n<a href=\"https://www.youtube.com/watch?v=q6TdxnzRZR8\" rel=\"noopener\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/original/1X/c8b2c016b51aee33b8299c5686b08f6eb10f86d8.jpeg\" title=\"Debate - Swap TEC tokens for AGAVE tokens - TEC x AGAVE\" width=\"480\"/>\n</a>\n</div>\n<p>Debate from 14-09-2021</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-09-16T18:48:31Z",
+   "updated_at": "2021-09-16T18:48:31Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Joint ventures in D2D! Credits to YGG and Jeff for this proposed framework<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0\" href=\"https://forum.tecommons.org/uploads/default/original/1X/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0.jpeg\" title=\"01Qcsr1ImPmuV5Lum (2)\"><img alt=\"01Qcsr1ImPmuV5Lum (2)\" data-base62-sha1=\"1URLx7BaKjJR5Vep0tIvxyJRpAI\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0_2_648x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0_2_648x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0_2_972x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/0d6fd04913297fd28bcc7aaddbd5e36f3b883ef0_2_1296x1000.jpeg 2x\" width=\"648\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">01Qcsr1ImPmuV5Lum (2)</span><span class=\"informations\">1600×1233 80.5 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-09-18T02:00:15Z",
+   "updated_at": "2021-09-18T02:00:15Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group quote-modified\" data-post=\"8\" data-topic=\"605\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>If according to the other proposal to deposit perhaps a significant</p>\n<p>sum of wxDAI into AGAVE wouldn’t it be useful for both parties to have some say in the other’s decision process?</p>\n</blockquote>\n</aside>\n<p>I am not opposed to this entirely, I am just a little cautious about the DAO using all it’s tokens to fullest of its voting rights.</p>\n<p>I would prefer to see maybe 75% added to LP (if in LP it loses its voting ability). Then I would be okay with the other 25% used for voting but I would like the majority to be in LP vs used for voting if those are my two choices.</p>\n<aside class=\"quote no-group\" data-full=\"true\" data-post=\"9\" data-topic=\"605\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>Debate from 14-09-2021</p>\n</blockquote>\n</aside>\n<p>Thank you for sharing. In summary what it sounded like was:</p>\n<ul>\n<li>don’t rush it, we can do token swap a bit later after both projects mature</li>\n<li>when we do a token swap it doesn’t need to be a large amount</li>\n<li>If we decide to do a token swap we should develop a celeste agreement around expectations<br/>\nThere was probably some other things but I agree with the conversation.</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-22T21:08:00Z",
+   "updated_at": "2022-02-22T21:08:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Coming back to this issue! Now that we have the <a href=\"https://forum.tecommons.org/t/the-initial-buy-in/670#strategic-partnerships-secondary-market-liquity-9\">LASERTAG multisig</a> and successfully launched our Commons I belive we have the infrastructure and process to make a TEC &lt;&gt; AGAVE swap.</p>\n<p>I’m proposing to swap 20k DAI worth of TEC for 20k DAI worth of AGAVE. I would like to modify this proposal to use 100% of swapped tokens to create a TEC/AGAVE LP position on Honeyswap.</p>\n<p>What would be the process for getting the AGAVE community’s approval on this token swap <a class=\"mention\" href=\"/u/monstrosity\">@Monstrosity</a> ?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2022-02-23T01:33:40Z",
+   "updated_at": "2022-02-23T01:33:40Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>At the time this proposal was written I think there was stronger desire for an otc tokenswap but I don’t think the interest for that is there anymore especially with 1inch now on gnosis and the additional liquidity agave has added throughout gnosis chain you can do a market buy of $20k and only see ~5% price impact.</p>\n<p>I would really like to <a href=\"https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604\">revisit TEC depositing some of its reserves</a> into the agave protocol.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005306",
+    "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928012956",
+   "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928012956",
+   "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124033231",
+   "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124033231",
+   "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706005306",
+   "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005306",
+   "url": "https://forum.tecommons.org/t/swap-tec-tokens-for-agave-tokens-tec-x-agave/605"
+  }
+ ]
+}

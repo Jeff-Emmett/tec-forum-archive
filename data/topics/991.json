@@ -1,0 +1,210 @@
+{
+ "id": 991,
+ "title": "Measuring TEC’s ecosystem health",
+ "slug": "measuring-tec-s-ecosystem-health",
+ "category_id": 28,
+ "posts_count": 9,
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "created_at": "2022-04-25T21:16:31Z",
+ "last_archived_post_at": "2023-01-10T20:12:47Z",
+ "captured_between": [
+  "2022-05-20T08:10:42Z",
+  "2023-02-04T03:15:12Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-04-25T21:16:31Z",
+   "updated_at": "2022-04-26T18:31:13Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#measuring-tecs-ecosystem-health-1\" name=\"measuring-tecs-ecosystem-health-1\"></a>Measuring TEC’s ecosystem health</h2>\n<p>How to measure the health of a DAO ecosystem was a central question of the Governauts research group on reward systems. <a href=\"https://www.youtube.com/watch?v=DJH2O1LEGiI&amp;t=8263s\">The teams focused on TEC Praise</a> put a high emphasis on Ostrom’s Principles as an indicator of health in the first phase of the program. Inspired by their progress, soft gov working group has been mapping out Ostrom’s implementations in the TEC as well as possible metrics to track their success.</p>\n<p>This work evolved into the idea of a dashboard to track ecosystem health when <a class=\"mention\" href=\"/u/sidcode\">@sidcode</a> and <span class=\"mention\">@mmurthy</span> from Karma joined the conversation. The first step they suggested was for us to understand the data we have and what can be measured. <a class=\"mention\" href=\"/u/bends\">@bends</a>, <a class=\"mention\" href=\"/u/vyvy-vi\">@Vyvy-vi</a>, <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a>, <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> and myself have started to organize this <a href=\"https://miro.com/app/board/o9J_lYcRTik=/\">miro boar</a>d and <a href=\"https://docs.google.com/spreadsheets/d/1jAXe4MhOm6cdL-yjgpk_wUkEGZPCAvpJ-lyp1eLBX4o/edit#gid=1562537106\"> this spreadsheet</a> which are still work in progress.</p>\n<p>The idea is create metrics for each one of ostrom’s principles, these metrics are based on the implementations we have for each principle. From principle 1 to 8 we’ll have a collection of metrics that can be analyzed individually and also grouped by principle to give a broader perspective of how that principle is doing in the TEC. Let’s say we have 10 metrics to evaluate “clearly define boundaries” and we identify in each one what threshold indicates a desired level. If one or more of those 10 metrics are below a desired level, we can understand that “clearly defined boundaries” is suboptimal and how that might be affecting the health of the whole system.</p>\n<p>Metrics can’t be set in stone, but mapping them all out and having clarity of what is an optimal outcome and a suboptimal one will also help us understand which metrics aren’t working and what are the changes that need to be done along the way.</p>\n<p>The main challenge is to identify our measurement apparatus. So, what can be measured and how? Also, how is this going to be displayed? Could it be part of RAD dashboard, or should we use <a href=\"https://www.showkarma.xyz/dao/delegates/gitcoin\">Karma</a>, or another option? <a class=\"mention\" href=\"/u/zhiwei\">@zhiwei</a>, <a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a>, <a class=\"mention\" href=\"/u/mattyjee\">@mattyjee</a>, <a class=\"mention\" href=\"/u/octopus\">@octopus</a>, <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>, <a class=\"mention\" href=\"/u/kristoferlund\">@kristoferlund</a> <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> I would love to have your advice here.</p>\n<p>The benefits of having a complex analytics like this plus RAD (reward analysis dashborad) in the TEC could be:</p>\n<ul>\n<li>Comprehensive feedback loop of our activities</li>\n<li>granularity to identify problems and propose solutions</li>\n<li>The system could become more independent and fluid (if core collaborators have to leave, there is a structure where others can understand what’s happening, plug in and address issues)</li>\n<li>We would be the first Commons, as far as I know, to have analytics based on Ostrom’s principles</li>\n<li>We could have scores to individuals based on these metrics, sum with the reward system score and create a wholesome reputation system.</li>\n<li>We would have more insight on the health of individuals and the organization.</li>\n</ul>\n<p><a href=\"https://mirror.xyz/k3nn.eth/1rT8KGt6wHzC03UQphG-upuW8HqRX6bP9YfFTtijl0Y\">This article</a> from TalentDAO shared by <a class=\"mention\" href=\"/u/al0ysi0us\">@AL0YSI0US</a> is exploring similar things and I’m excited to try the questionary they developed as complimentary data input.</p>\n<h3>\n<a class=\"anchor\" href=\"#this-is-the-list-of-ostroms-8-principles-and-some-of-their-implementation-in-the-tec-2\" name=\"this-is-the-list-of-ostroms-8-principles-and-some-of-their-implementation-in-the-tec-2\"></a>This is the list of Ostrom’s 8 principles and some of their implementation in the TEC</h3>\n<p>the metrics we are exploring are in the <a href=\"https://miro.com/app/board/o9J_lYcRTik=/\">miro board</a> that was also shared above</p>\n<p><strong>1. Clearly defined boundaries</strong></p>\n<ul>\n<li>\n<p>TEC token governance</p>\n</li>\n<li>\n<p>Access rights for communication platforms</p>\n</li>\n<li>\n<p>Roles</p>\n</li>\n<li>\n<p>Community covenant and code of conduct</p>\n</li>\n<li>\n<p>Discord onboarding journey</p>\n</li>\n<li>\n<p>Polycentric governance</p>\n</li>\n<li>\n<p>Trusted Seed for economy initialization</p>\n</li>\n<li>\n<p>Reward system</p>\n</li>\n<li>\n<p>Token vesting period</p>\n</li>\n</ul>\n<p><strong>2. Congruence between provision and appropriation</strong></p>\n<ul>\n<li>\n<p>Entry and exit tribute</p>\n</li>\n<li>\n<p>Value provided by TE proposals</p>\n</li>\n<li>\n<p>TEC products</p>\n</li>\n<li>\n<p>Working group services</p>\n</li>\n<li>\n<p>Conviction Voting</p>\n</li>\n<li>\n<p>Reward system analysis</p>\n</li>\n<li>\n<p>Initial buy and LASERTAG</p>\n</li>\n<li>\n<p>MVV and community covenant</p>\n</li>\n<li>\n<p>TEC token liquidity</p>\n</li>\n</ul>\n<p><strong>3. Collective Choice Arrangements</strong></p>\n<ul>\n<li>\n<p>Do-ocracy</p>\n</li>\n<li>\n<p>Individual and wg agency</p>\n</li>\n<li>\n<p>Onboarding and education</p>\n</li>\n<li>\n<p>Collaborative economics/ params dashboard</p>\n</li>\n<li>\n<p>Polycentric governance framework</p>\n</li>\n<li>\n<p>MVV</p>\n</li>\n<li>\n<p>Sprint planning</p>\n</li>\n<li>\n<p>Sprint retrospective</p>\n</li>\n<li>\n<p>Praise quant</p>\n</li>\n<li>\n<p>Sourcecred params</p>\n</li>\n<li>\n<p>Inclusive culture</p>\n</li>\n<li>\n<p>Templates</p>\n</li>\n</ul>\n<p><strong>4. Monitoring</strong></p>\n<ul>\n<li>\n<p>Sprint planning</p>\n</li>\n<li>\n<p>Sprint retrospective</p>\n</li>\n<li>\n<p>Advice process</p>\n</li>\n<li>\n<p>Recording of meetings available on youtube</p>\n</li>\n<li>\n<p>Proposals on forum</p>\n</li>\n<li>\n<p>Public calendar</p>\n</li>\n<li>\n<p>Github issues</p>\n</li>\n<li>\n<p>Community and working group calls</p>\n</li>\n<li>\n<p>Praise and praise quants</p>\n</li>\n<li>\n<p>Reward system analysis</p>\n</li>\n<li>\n<p>Transparency audits</p>\n</li>\n</ul>\n<p><strong>5. Graduated sanctions (more work needed)</strong></p>\n<ul>\n<li>\n<p>Celeste collateral tokens</p>\n</li>\n<li>\n<p>Graduated bannings</p>\n</li>\n<li>\n<p>1 on 1 reach out</p>\n</li>\n<li>\n<p>Warning plus admin power to delete harmful content</p>\n</li>\n</ul>\n<p><strong>6. Conflict resolution mechanisms</strong></p>\n<ul>\n<li>\n<p>Accessibility to get in touch with Gravitons at no cost</p>\n</li>\n<li>\n<p>Gravity typeform</p>\n</li>\n<li>\n<p>Graviton trainings</p>\n</li>\n<li>\n<p>Graviton roles displayed on discord</p>\n</li>\n<li>\n<p>TE lounge</p>\n</li>\n<li>\n<p>NVC education</p>\n</li>\n<li>\n<p>Psychology initiative</p>\n</li>\n<li>\n<p>Community rituals</p>\n</li>\n<li>\n<p>Celeste</p>\n</li>\n</ul>\n<p><strong>7. Minimal recognition of rights to organize</strong></p>\n<ul>\n<li>\n<p>Trusted Seed legal entity</p>\n</li>\n<li>\n<p>Covenant</p>\n</li>\n<li>\n<p>Legal working group</p>\n</li>\n</ul>\n<p><strong>8. Nested enterprises</strong></p>\n<ul>\n<li>\n<p>Sourcecred integration</p>\n</li>\n<li>\n<p>Snapshot integration</p>\n</li>\n<li>\n<p>Param parties in other communities</p>\n</li>\n<li>\n<p>Tech build from 1hive</p>\n</li>\n<li>\n<p>TE Academy partnership</p>\n</li>\n<li>\n<p>Working groups becoming squad DAOs</p>\n</li>\n<li>\n<p>Proposal inverter in partnership with PrimeDAO</p>\n</li>\n<li>\n<p>Blockchain for good community</p>\n</li>\n<li>\n<p>Commons Stack partnership</p>\n</li>\n<li>\n<p>Block Science relationship</p>\n</li>\n<li>\n<p>General Magic partnership</p>\n</li>\n<li>\n<p>Longtail financial relationship</p>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "markop",
+   "name": null,
+   "created_at": "2022-04-27T10:42:12Z",
+   "updated_at": "2022-04-27T10:42:12Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Thanks for the writeup <a class=\"mention\" href=\"/u/liviade\">@liviade</a><br/>\nLooking at the spec and scope of this project I see it will require UX and UI design help.<br/>\nThere will be a lot of information and data shown and we should present it so it makes sense to the user balancing different use cases.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-04-27T13:05:33Z",
+   "updated_at": "2022-04-27T13:05:33Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thank you so much for putting this together <a class=\"mention\" href=\"/u/liviade\">@liviade</a>.</p>\n<p>It’s so nice to see the examples of the Ostrom’s principles. It looks, by itself, a product. Like a template of things DAO’s could have. I would love a visualization of that or a dashboard where you can point and click get data out of all this points.</p>\n<p>For example, Do-Cracy: a person clicks on that example of Ostrom’s principles, and immediately it gets shown how it works in the TEC, how we are accomplishing it and the data that backs it up.</p>\n<p>It would bring such a comprehensive way to understand the principles out of the conceptual phase. I would say we could, as a moving forward step (and I may be speaking nonsense, (since this probably has been agreed already) to identify who and which of this “examples” are easier to pick and build upon.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-04-28T14:45:17Z",
+   "updated_at": "2022-04-28T14:45:17Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This is amazing work.</p>\n<p>I see this work as eventually becoming an essential tool for the governance feedback loops of not just future commons but really any mission-driven and community-supported DAO. And I agree with <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> that this could be a product (software as service). With consulting services, there’s probably potential to generate some decent revenue streams too.</p>\n<p>Once the TEC gets this base-level tracking in place, I think there’s also room to build impact evaluation systems on top of it with tools for creating, tracking, and managing “theories of change” and “logic models.” These can be super helpful for measuring progress in effecting change in the world, and it’s an area where we can actually learn a lot from the non-profit and philanthropic sectors.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-04-28T14:59:59Z",
+   "updated_at": "2022-04-28T14:59:59Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi Marko! thanks for your feedback, yes that’s a good point. Would you like to stay in the loop for when that time comes? <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "markop",
+   "name": null,
+   "created_at": "2022-04-28T15:13:38Z",
+   "updated_at": "2022-04-28T15:13:38Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Yes, please <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> Thanks Livi.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "danielo",
+   "name": null,
+   "created_at": "2022-05-02T10:34:49Z",
+   "updated_at": "2022-05-02T10:34:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for sharing! Really interesting application of Ostrom’s principles.</p>\n<p>There are some parallels with the work we’re doing and it would be great to collaborate.</p>\n<p>With RnDAO, we have started a research project on Community Health Analytics, and we’re primarily leveraging Organisational Network Analysis (ONA) as a tool to derive insights into a community.</p>\n<p>ONA is a different approach than what’s being proposed here (less focused on custom metrics for each principle and more geared towards an overview of the network’s structure). So it would be really interesting to develop both views in parallel and then cross-check the data to explore whether a predictive model could be developed.</p>\n<p>Additionally, we’re also building pulse survey capabilities into the tool. (As a methodology, pulse surveys increase the response rate, enable continuous data collection, and reduce the burden on contributors and community managers alike), and we’re doing a research project to triangular the research of TalentDAO in the topic with other sources (less McKinsey driven and more oriented towards decentralised communities, networks, and self-management). This last research piece could also be something we collaborate on and then with some financial support, we’d have the tool ready to load them and requests the community to participate.</p>\n<p>We’re looking to apply for a few grants to get this going, so I’m wondering if the TEC could be one of the sponsors and a community for us to test the ONA and pulse survey tool.<br/>\nThat way, we can also explore the other bits (the research on the questions/metrics and the data crossing after both approaches are functioning).</p>\n<p>How does that sound?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "kristoferlund",
+   "name": null,
+   "created_at": "2022-05-23T09:01:10Z",
+   "updated_at": "2022-06-07T07:13:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Great initiative <a class=\"mention\" href=\"/u/liviade\">@liviade</a>! Adding to your ideas: I see our commons being comprised of four main domains:</p>\n<ul>\n<li>The community</li>\n<li>The common pool of funds</li>\n<li>The TEC token</li>\n<li>The subject matter - The emerging engineering discipline of “token engineering”</li>\n</ul>\n<p>If any of these domains are unhealthy the commons will likely fail to contribute to its intended outcome - the furthering of token engineering as an vital and vibrant engineering discipline.</p>\n<p>We should apply the lense of the Ostrom principles on each one of these domains separately as well as together.</p>\n<p>To clarify what I mean by the four domains, let’s make an analogy. What if the TEC was a commons managing a forest?</p>\n<ul>\n<li>The community - represents the people doing the actual work of tending to the forest as well as other “stakeholders” - residents nearby, perhaps even visitors and so on.</li>\n<li>The common pool of funds - The money we use to support the forest - to buy seedlings, axes, to build bird watching towers and whatnot.</li>\n<li>The TEC token - A forest commons perhaps don’t have an actual token. But, this could be said to represent the mechanism by which the common pool of funds is replenished. Could be government money, fees from visitors, etc. Ideally not project money but some sort of stable long term stream of funding.</li>\n<li>The subject matter - The forest!</li>\n</ul>\n<p>Looking at the forest example it becomes obvious that the first three domains need to be healthy to support the fourth. I have a sense that the TEC places way more emphasis on number one - TEC, <strong>the Community</strong>. The common pool, the TEC token and TEC, <strong>the Commons</strong> are less prioritised. Looking at each domain in isolation as well as together could more clearly highlight what parts of our commons that are healthy and what parts that need more love and attention.</p>\n<p>Some metrics to look at, some questions we should attempt to answer:</p>\n<ul>\n<li>The Community\n<ul>\n<li>Is the community growing or shrinking?</li>\n<li>What “churn rate” do we have for members, how long do they tend to stick around?</li>\n</ul>\n</li>\n<li>The common pool of funds\n<ul>\n<li>Do we manage the funds responsibly?</li>\n<li>How large percentage of the funds goes toward furthering the commons, how big percentage goes towards internal community work - the costs of running the community?</li>\n<li>How does the burn rate look? How long will the funds last?</li>\n</ul>\n</li>\n<li>The TEC token\n<ul>\n<li>Here we would like to present measures that attempt to answer the question: Have we succeeded in establishing this: Buying the TEC token is the premier way to support token engineering?</li>\n<li>Is the trade volume increasing or decreasing?</li>\n<li>How much does TEC trade contribute to the common pool?</li>\n</ul>\n</li>\n<li>The subject matter - The emerging engineering discipline of “token engineering”\n<ul>\n<li>Is the engineering discipline of token engineering gaining traction?</li>\n<li>Does the work we do contribute to that? How to measure and visualise this, I don’t know - this one is difficult.</li>\n</ul>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Letty",
+   "name": null,
+   "created_at": "2022-06-05T22:42:26Z",
+   "updated_at": "2022-06-05T22:42:26Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/kristoferlund\">@kristoferlund</a>! I find this reply very insightful and highly applicable to what Sampo WG proposal is currently doing, ie boosting financial health by “finding” TEC utility.</p>\n<p>TEC utility is and will be pegged to the points you raise above, especially under “the TEC token” and “the subject matter”. So I’m tagging <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>  here to make sure he has the chance to go over your contribution.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2023-01-10T20:12:47Z",
+   "updated_at": "2023-01-10T20:12:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Some time has passed since this post on Ecosystem Health was articulated and I’m curious to know how the resources in the image below, if at all,</strong> (screenshot from the miro board in this post) <strong>have influenced or informed the comprehension of Boundary work</strong> (technologically speaking and within the social layer) <strong>for the Token Engineering Commons ecosystem.</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/7a06fc1e92da37806afab8747a5e3fb7266c7c3d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/7a06fc1e92da37806afab8747a5e3fb7266c7c3d.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"hpvdpDXkk5jH1HjUJtB4wWjWsQl\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/7a06fc1e92da37806afab8747a5e3fb7266c7c3d_2_10x10.png\" height=\"242\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/7a06fc1e92da37806afab8747a5e3fb7266c7c3d_2_690x242.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/7a06fc1e92da37806afab8747a5e3fb7266c7c3d_2_690x242.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/7a06fc1e92da37806afab8747a5e3fb7266c7c3d_2_1035x363.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/7a06fc1e92da37806afab8747a5e3fb7266c7c3d.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1343×472 122 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031512",
+    "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520081042",
+   "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520081042",
+   "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006180437",
+   "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006180437",
+   "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204031512",
+   "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204031512",
+   "url": "https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991"
+  }
+ ]
+}

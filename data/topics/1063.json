@@ -1,0 +1,227 @@
+{
+ "id": 1063,
+ "title": "ABC advance page",
+ "slug": "abc-advance-page",
+ "category_id": 7,
+ "posts_count": 10,
+ "created_at": "2022-06-27T12:53:54.089Z",
+ "last_posted_at": "2022-11-29T12:12:45.906Z",
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2022-11-29T12:12:45Z",
+ "captured_between": [
+  "2022-08-15T09:49:41Z",
+  "2023-04-01T01:18:04Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-27T12:53:54Z",
+   "updated_at": "2022-06-27T13:00:03Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#abc-advance-page-1\" name=\"abc-advance-page-1\"></a><strong>ABC advance page</strong>\n</h3>\n<h3>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h3>\n<p><em>Create and advance page for the converter. Right now when users are interacting with the bonding curve it shows just like a swap equal to uniswap or any other DEX, if this proposal passes, we will explain with visuals how the commons and ABC work when interacting with the converter</em></p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h3>\n<p><em>This proposal aims to improve the user experience when interacting with the <a href=\"https://convert.tecommons.org/\">bonding curve</a>, creating an advanced page where users can see where we are at the bonding curve and the shape of this one. Will also include a swap feature which will be very clear with the money flows interacting with the curve.</em></p>\n<p><strong><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/20538c650603e8116e6c08607edc146d10137948\" href=\"https://forum.tecommons.org/uploads/default/original/1X/20538c650603e8116e6c08607edc146d10137948.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"4BYhp3kvyTiel0eqdJJbwIAhg1i\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/20538c650603e8116e6c08607edc146d10137948_2_10x10.png\" height=\"231\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/20538c650603e8116e6c08607edc146d10137948_2_602x231.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/20538c650603e8116e6c08607edc146d10137948_2_602x231.png, https://forum.tecommons.org/uploads/default/optimized/1X/20538c650603e8116e6c08607edc146d10137948_2_903x346.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/20538c650603e8116e6c08607edc146d10137948_2_1204x462.png 2x\" width=\"602\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1229×470 57.5 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div></strong></p>\n<p><em>And a historical price chart  with mint and burn price together with storage data in the Last transactions section that will include accounts, reserve value, total supply, amount in, price, tribute, amount out and new price.</em></p>\n<p><em>Will keep the simple converter page we already have because we think a simple way to interact with it is interesting for some users but we will create a button to go to the advanced page.</em></p>\n<p><em>The funds asked in this proposal will be exclusive to pay general magic who will provide design and development power 35 WXDAI/H which, according to market conditions is a good deal for the TEC. Management of this project is already included in the transparency proposal, because we were expecting to collaborate with Commons Stack to make this project happen, but given the market conditions Commons Stack is lacking financial power.</em></p>\n<p><em>The budget of this project designs and development will be 95 hours (3,325.00 WXDAI). We will be asking for 5,000.00 WXDAI because unexpected work will be raised, especially in the development side any carry over after the project is done will be sent back to the common pool.</em></p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p><em>Right now interacting with the bonding curve looks like a swap with little details to the user to understand what’s going on. It will create the option to have a visual representation when interacting with the bonding curve designs are already going on so we can have an idea of how it will look by looking at those <a href=\"https://www.figma.com/file/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps?node-id=8438%3A7522\">designs</a></em></p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p><em>5,000.00 WXDAI</em></p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-6\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-6\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p><em>Those funds will be to pay design and dev work to general magic, management will be paid by Transparency WG</em></p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-7\" name=\"what-does-success-look-like-7\"></a><strong>What does success look like?</strong>\n</h3>\n<p>Have the abc advance page in the TEC converter.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-8\" name=\"how-will-you-share-progress-8\"></a>How will you share progress?</h3>\n<p>*Progress will be share in the community call by the transparency WG and the payments to general pagic wich includes dev and design work (35 WXDAI/h) will be deplay in this proposal. Management work is included in the transparency budget *</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-9\" name=\"team-information-9\"></a>Team Information</h3>\n<p><em>Mateo - Developer</em><br/>\n<em>Nuggan - Developer</em><br/>\n<em>Rodri - Designer</em><br/>\n<em>Zeptimus - Project manager</em></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-27T15:21:09Z",
+   "updated_at": "2022-06-27T15:21:09Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Excellent idea. If we want people to really understand what is happening when they interact with the ABC, we could do a much better job articulating that process visually with a companion explainer and this sounds like it would accomplish that. Excited to see this accomplished asap.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2022-10-04T14:28:34Z",
+   "updated_at": "2022-10-04T14:28:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey GM!! Thanks <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> for leading this :))</p>\n<p>I’ve been working on this since late July and we finally have a version! <a href=\"https://tec-abc-dashboard.vercel.app/\">try it out</a></p>\n<p>I’ll be requesting 2800 WXDAI (80 hours of work at a 35WXDAI/hr rate) to this address 0x24792793bb40e66cb1c6e8897Ecb520FF1dc4181</p>\n<p>There are still many things we can improve and I’m eager to keep working on this for a second phase that includes</p>\n<ul>\n<li>Mobile support</li>\n<li>Build a Graph to optimize the queries to the bonding curve contract (we are using Dune Analytics API beta)</li>\n<li>Better state management for authenticated user (Keep logged in if you refresh the site)</li>\n<li>Whatever the community requests <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/>\n</li>\n</ul>\n<p>Thanks again <img alt=\":purple_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/purple_heart.png?v=10\" title=\":purple_heart:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-10-04T14:54:10Z",
+   "updated_at": "2022-10-04T14:54:10Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Amazing job <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a> such a pleasure to work with you!!</p>\n<p><a class=\"onebox\" href=\"https://blockscout.com/xdai/mainnet/tx/0x63e2e4d41a2c1cd63b9320be78e2ee4350bacc6d416830275934faa12fc9f6f9/\" rel=\"noopener\" target=\"_blank\">https://blockscout.com/xdai/mainnet/tx/0x63e2e4d41a2c1cd63b9320be78e2ee4350bacc6d416830275934faa12fc9f6f9/</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "freshelle",
+   "name": null,
+   "created_at": "2022-10-06T16:18:01Z",
+   "updated_at": "2022-10-06T16:18:01Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>GM! <img alt=\":sun_with_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sun_with_face.png?v=10\" title=\":sun_with_face:\"/> On behalf of Nuggan and Rodri from General Magic, I’ll be requesting for 1470 wxDAI with the following breakdown:</p>\n<ul>\n<li>Rodri - UI Design for advance page (36 hours at 35 wxDAI/hr = 1260 wxDAI)</li>\n<li>Nuggan - Backend development support (6 hours at 35 wxDAI/hr = 210 wxDAI)</li>\n</ul>\n<p>Kindly send to this address: 0xc8d65e1bd67f16522e3117b980e1c9d2caeb9dc3</p>\n<p>Thank you and looking forward to more collaboration!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-10-07T12:08:53Z",
+   "updated_at": "2022-10-07T12:08:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks YOU!and looking forward to keep making the ABC page better!</p>\n<p><a class=\"onebox\" href=\"https://blockscout.com/xdai/mainnet/tx/0x8cfb3c1c1f0036f67a82ea5eea2632db626d2b55288f51953e72cde2d66460f4/\" rel=\"noopener\" target=\"_blank\">https://blockscout.com/xdai/mainnet/tx/0x8cfb3c1c1f0036f67a82ea5eea2632db626d2b55288f51953e72cde2d66460f4/</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-10-15T17:24:28Z",
+   "updated_at": "2022-10-15T17:24:28Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>MATEO!</p>\n<p>THIS IS AMAZING!</p>\n<p>That makes it so much easier to understand everything.<br/>\nAll organizations should have this to understand how their mint/burn affects the overall.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2022-11-25T16:14:39Z",
+   "updated_at": "2022-11-25T16:14:39Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> so happy you liked it <img alt=\":purple_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/purple_heart.png?v=10\" title=\":purple_heart:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2022-11-25T16:29:33Z",
+   "updated_at": "2022-11-25T16:29:33Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hello guys!<br/>\nSO, we have a <a href=\"https://thegraph.com/hosted-service/subgraph/mateodaza/tec-abc-subgraph\">Graph instance for the TEC bonding curve</a>, this means we can drop Dune Analytics as a main source for our data.</p>\n<p>The <a href=\"https://tec-abc-dashboard.vercel.app/\">testing version</a> is up to date with the new designs also, thanks Rodri for the amazing work.</p>\n<p>I’m requesting 2100 WXDAI (60 hours at 32WXDAI/hr) to this address 0x24792793bb40e66cb1c6e8897Ecb520FF1dc4181</p>\n<p>Thanks a lot and I’m always available for feedback and improvement</p>\n<p>PS: <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> Wonderful work leading this!!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-11-28T09:31:57Z",
+   "updated_at": "2022-11-28T09:31:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>GM! <img alt=\":sun_with_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sun_with_face.png?v=10\" title=\":sun_with_face:\"/> On behalf Rodri from General Magic, I’ll be requesting for 210 wxDAI with the following breakdown:</p>\n<pre><code>Rodri - UI Design fixes for advance page (6 hours at 35 wxDAI/hr = 210 wxDAI)\n</code></pre>\n<p>Kindly send to this address: 0xc8d65e1bd67f16522e3117b980e1c9d2caeb9dc3</p>\n<p>Thank you and looking forward to more collaboration!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-11-29T12:12:45Z",
+   "updated_at": "2022-11-29T12:12:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Great work!</p>\n<p>Mateo: <a class=\"inline-onebox\" href=\"https://blockscout.com/xdai/mainnet/tx/0x3125182b345aa4ac03b5c62b0d6aa8fc2224f8a51d6241f56dbefd557930c51b/\" rel=\"noopener nofollow ugc\">Transaction 0x3125182b345aa4ac03b5c62b0d6aa8fc2224f8a51d6241f56dbefd557930c51b - Gnosis Chain Explorer</a></p>\n<p>General Magic (Rodri): <a class=\"inline-onebox\" href=\"https://blockscout.com/xdai/mainnet/tx/0xccdbce936e1d810127a753fa0b5618a93ecf688b0e75c381c502ea58149a3c58/\" rel=\"noopener nofollow ugc\">Transaction 0xccdbce936e1d810127a753fa0b5618a93ecf688b0e75c381c502ea58149a3c58 - Gnosis Chain Explorer</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401011804",
+    "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815094941",
+   "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815094941",
+   "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126223757",
+   "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126223757",
+   "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401011804",
+   "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401011804",
+   "url": "https://forum.tecommons.org/t/abc-advance-page/1063"
+  }
+ ]
+}

@@ -1,0 +1,524 @@
+{
+ "id": 571,
+ "title": "One time change of TECH addresses (as requested by owner because access was lost or another reason)",
+ "slug": "one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason",
+ "category_id": 7,
+ "posts_count": 24,
+ "created_at": "2021-08-24T18:37:29.269Z",
+ "views": 515,
+ "last_posted_at": "2021-11-03T02:07:20.860Z",
+ "highest_post_number": 23,
+ "closed": false,
+ "archived": false,
+ "tags": [
+  "hatch-dao-voting"
+ ],
+ "more_after": 21,
+ "total_known": true,
+ "archived_posts": 25,
+ "archived_numbers": 25,
+ "last_archived_post_at": "2021-11-03T02:07:20Z",
+ "captured_between": [
+  "2021-08-28T08:10:28Z",
+  "2022-08-15T09:27:02Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-08-24T18:37:30Z",
+   "updated_at": "2021-11-24T18:20:45Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>We are submitting this proposal to the Forum for advice process and to Snapshot for vote. This way we can capture the signalling from the Community without paying the 1000wxDAI tollgate fee. Please feel free to leave feedback on the Forum.</p>\n<p>If the vote passes on Snapshot, we will make this proposal on the Hatch DAO.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a>Proposal Title</h2>\n<p>One time change of TECH addresses (as requested by owner because access was lost or another reason)</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p>Several people have lost their keys or asked to switch their TECH address. As a human centered community we have a vested interest to ensure that our community members retain their voting rights by control of their wallets. We are a value aligned community, committed to nurture the TEC economy in its early stage, while focused on long term success. It is important that everyone in this group has a holding of their tokens and feels comfortable with their address to engage in upcoming decisions.</p>\n<p><strong>Note:</strong> We recognize that there may be future requests for address changes. Future requests are not covered within the scope of this proposal.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-details-3\" name=\"proposal-details-3\"></a>Proposal Details</h2>\n<ol>\n<li>Allow a period of time for requests for address changes</li>\n<li>Burn TECH in those addresses and remint to specified new addresses</li>\n<li>Make request to Commons Stack to burn CSTK in those addresses and remint to specified new addresses</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#expected-duration-or-delivery-date-if-applicable-4\" name=\"expected-duration-or-delivery-date-if-applicable-4\"></a>Expected duration or delivery date (if applicable):</h2>\n<h3>\n<a class=\"anchor\" href=\"#proposed-timeline-5\" name=\"proposed-timeline-5\"></a>Proposed timeline:</h3>\n<p><strong>Advice process:</strong> now until Sept 1<br/>\n<strong>Snapshot vote:</strong> Sept 2 (for 4 days)<br/>\n<strong>Accepting requests for address changes:</strong> now until Sept 15 12pm CET<br/>\n<strong>HatchDAO vote:</strong> Sept 16<br/>\n<strong>Burn and minting TECH (Commons Stack will determine timeline for CSTK):</strong> Sept 17</p>\n<p>To make this request, our community members should contact <span class=\"mention\">@zeptimus</span> or <span class=\"mention\">@tam2140</span> and (1) share the reason for the change, (2) the old address, and (3) the new address.</p>\n<p>If the community support this initiative on the snapshot vote we will propose to the Hatch DAO to burn and mint the TECH, and request that Commons Stack does the same for CSTK.</p>\n<h2>\n<a class=\"anchor\" href=\"#how-does-this-help-token-engineers-and-benefit-the-token-engineering-community-6\" name=\"how-does-this-help-token-engineers-and-benefit-the-token-engineering-community-6\"></a>How does this help Token Engineers and benefit the Token Engineering community?</h2>\n<p>It reinforce our cultural build as a human center DAO</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-7\" name=\"team-information-for-funding-proposals-7\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p>These are the community members that will support and provide the initial funding for the tollgate fee for the Hatch DAO proposal.</p>\n<p>Zeptimus<br/>\nTamara<br/>\nGriff<br/>\nDan</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-8\" name=\"funding-information-for-funding-proposals-8\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p>1000 wxDAI in order to cover the tollgate fee</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124024647",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-08-27T02:15:16Z",
+   "updated_at": "2021-08-27T02:15:16Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>My thoughts on this proposal:</p>\n<p>I support this proposal under the condition of implementation transparency.  I understand mistakes occur, but this does open the possibility for abuse.</p>\n<p>I will vote yes to this proposal as long as the number of wallets that have tokens being burned is equal to the number of wallets that are being minted new tokens.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124024647",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-08-27T18:29:26Z",
+   "updated_at": "2021-08-27T18:29:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>There is a feature where people who want change their addresses we can make them to sign with their old one (dont know the amount of work it would take but its possible). Regarding the people who lost their key we can’t do that, and we either have to choose make it transparent and their addresses with the name being public or trust our trusted seed curators that they will do a great job i personally dont have a strong opinion on which one we should go since there is good arguments on both sides. It would be cool if we have a debate here.</p>\n<p>And regarding the tokens yeah it would be exactly the same number of tokens 1:1 and it can all be done in one transaction and it’s going to be transparent on the Hatch DAO proposal.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124024647",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "KZFlyer",
+   "name": null,
+   "created_at": "2021-08-30T03:42:51Z",
+   "updated_at": "2021-08-30T03:42:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I support this, assuming there’s a process to ensure both wallets are owned by the same individual.<br/>\nShould the TECH burn/mint be done before or after the CSTK burn/mint? I almost think it should be done after.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124024647",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-31T09:46:31Z",
+   "updated_at": "2021-08-31T09:46:31Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I like leaning on a few trusted parties to certify that they all agree that the addresses being replaced really belong to the people who are supposed to get them.</p>\n<p>Dan, Tam and I all have access to the Trusted Seed list, the 3 of us can all double check the addresses and check with the people who want them to be changed and confirm the addresses are correct… that would be more than robust enough IMO. <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124024647",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "nic",
+   "name": null,
+   "created_at": "2021-08-31T17:54:45Z",
+   "updated_at": "2021-08-31T17:54:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>There might be people joining the TEC who have never even used a wallet. With the steep learning curve, there’s bound to be mistakes/accidents. This would help those people.</p>\n<p>There could be people who take advantage of the knowledge of someone’s lack of experience with wallets etc and convince them to transfer the tokens to them instead so they can ‘do the technical/confusing stuff’ for them. How can we make sure the person doing the address change is not being taken advantage of?</p>\n<p>What if the trusted parties end up being really busy? Does it affect anyone negatively to have to wait to change addresses?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-09-01T08:40:39Z",
+   "updated_at": "2021-09-01T08:40:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"571\" data-username=\"nic\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/45deac/40.png\" width=\"20\"/> nic:</div>\n<blockquote>\n<p>There might be people joining the TEC who have never even used a wallet. With the steep learning curve, there’s bound to be mistakes/accidents. This would help those people.</p>\n</blockquote>\n</aside>\n<p>I concur.</p>\n<p>When I was signing up to be a trusted seed I read somewhere (from a prompt) that some folx set up another wallet for this…I took that as a cue to make another. While I don’t need my address change I can imagine some folx may be wanting to transition back to thier original wallet address.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-09-01T20:31:23Z",
+   "updated_at": "2021-09-01T20:31:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I was waiting until further discussion from the community happened before expressing my opinion on this matter. I don’t really like the idea since as <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> says it could be open to abuse.<br/>\nI understand people might be newcomers, however web3 addresses are as delicate as identities themselves (even more in the future). I think all of us realize about this as we continue to grow in the space and we’re not exempted to make these mistakes.<br/>\nIdentity theft is a real threat to people both irl and web3 and I feel it shouldn’t be as easy as “yeah, here are your new TECH tokens”. These would have to be very specific cases if we’re willing to make such an exemption and it should be a one-time-only kind of thing.<br/>\nSorry if I’m being the serious, party-pooper guy to bring this up, but I feel some awareness should be brought up with these cases about taking care of private keys, since this could scale to more <a href=\"https://forum.1hive.org/t/dripp-farm-a-retrospective/3895?u=chuygarcia92\" rel=\"noopener nofollow ugc\">severe situations</a>.<br/>\nI trust the community will make the best decision on this, regardless of the outcome.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-01T23:04:26Z",
+   "updated_at": "2021-09-01T23:04:26Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I agree with you Chuy and remember in order to this, to happen 88% of the voters must support this proposal in order to pass, it would be pretty easy to block it by the community. I also agree hatchers should be more careful with that but at the end of the day we are all humans and things happen and personally I believe that the trusted seed gardeners are going to do a great job checking indentities and making sure everything its all right, they have a curated list and its going to be doble check for all 3. This will probably won’t happen again in the future when TEC addresses are spread around and there is not a curated list of all members.</p>\n<p>But in my opinion, if a Hatcher lost his key we can give a hand as a human center community, I personally would feel really bad losing my Hatcher address and if the community helps me with an +88% of voters I would feel so happy. And there are only 273 addresses I feel we can do it, but lets vote, this will be probably the first one!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-03T16:17:18Z",
+   "updated_at": "2021-09-03T16:17:18Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Vote will be ready in less than 2h! <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr\">Snapshot</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-09-03T19:50:28Z",
+   "updated_at": "2021-09-03T19:50:28Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I will be voting to support this.</p>\n<p>We are all Hatchers. We are all in this together. I would not have any single one of us lose out if we can avoid it. And we can avoid it.</p>\n<p>For the concerns raised about abuse, the points made are valid. I acknowledge that but also see that a fair and honest burn/mint can be performed and validated by trusted members of our Community. Specifically because we are all Trusted Seed members. After the Commons upgrade, when the public and enter and exit the TEC via the ABC, that’s a different story. But that is not our current situation. So let’s take care of each other.</p>\n<p>This is a Trust but Verify moment, not a Sorry For Your Loss.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-09-04T18:41:51Z",
+   "updated_at": "2021-09-04T18:41:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We should always put the community before the individual.  In this case general sentiment appears to be grant a second chance.  Wow, how amazing is it, to be in a community where this is even possible!!  Yet this feels ultra-serious.  A second chance in the immutable, irreversible world of blockchain is no small thing.  Accordingly, imo this should not be freely &amp; easily approved.</p>\n<p>But it CAN be approved</p>\n<p>They should need to pay a small-mod surcharge into the common pool, or even better, write a thousand word essay on why they want a change, why they believe changes should be allowed, and what they will do to avoid requesting changes in the future.  This piece of writing should be shared with the TEC members.</p>\n<p>Yes we need to take care of our community 100% I agree.  Giving them a second chance in the irreversible world of blockchain should not be taken lightly.  Adding a disincentive will reduce abuse of the system.  Someday it will be me requesting a reverse…or you…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-08T17:07:24Z",
+   "updated_at": "2021-09-14T17:54:28Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>(proposal with edits integrating feedback)</p>\n<p>We are submitting this proposal on Snapshot for signaling. This way we can capture the signalling from the Community without paying the 1000wxDAI tollgate fee. Please feel free to leave feedback on the <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571\">Forum thread.</a></p>\n<p>If the vote passes on Snapshot, we will make this proposal on the Hatch DAO.</p>\n<p><em><strong>Proposal Title:</strong></em></p>\n<p>One time change of TECH addresses (as requested by owner because access was lost or another reason)</p>\n<p><em><strong>Proposal Information:</strong></em></p>\n<p>Several people have lost their keys or asked to switch their TECH address. As a human centered community we have a vested interest to ensure that our community members retain their voting rights by control of their wallets. We are a value aligned community, committed to nurture the TEC economy in its early stage, while focused on long term success. It is important that everyone in this group has a holding of their tokens and feels comfortable with their address to engage in upcoming decisions.</p>\n<p>Note: We recognize that there may be future requests for address changes. Future requests are not covered within the scope of this proposal.</p>\n<p><em><strong>Proposal Details:</strong></em></p>\n<p>Allow a period of time for requests for address changes<br/>\nBurn TECH in those addresses and remint to specified new addresses<br/>\nMake request to Commons Stack to burn CSTK in those addresses and remint to specified new addresses<br/>\nExpected duration or delivery date (if applicable):</p>\n<p><em><strong>Proposed timeline:</strong></em></p>\n<p><em>Snapshot vote</em>: Sept 2 (for 4 days)<br/>\n<em>Accepting requests for address changes:</em> now until Sept 15 12pm CET<br/>\n<em>HatchDAO vote:</em> Sept 16<br/>\n<em>Burn and minting TECH (Commons Stack will determine timeline for CSTK):</em> Sept 21</p>\n<p>To make this request, our community members should contact griff#3281, Dan Knobelsdorf.eth#0326 and Tam2140#9361 for security reasons and (1) share the reason for the change, (2) the old address, and (3) the new address.</p>\n<p>Sep 15 griff#3281 will post on the forum thread all the addresses that are going to be burned and the addresses where all those tokens are going to be minted for transparency, if no one opposes the decision it’s going live as stated before on sep 16.</p>\n<p>If the community supports this initiative on the snapshot vote we will propose to the Hatch DAO to burn and mint the TECH, and request that Commons Stack does the same for CSTK.</p>\n<p>How does this help Token Engineers and benefit the Token Engineering community?</p>\n<p>It reinforce our cultural build as a human center DAO</p>\n<p><em><strong>Team Information (For Funding Proposals)</strong></em></p>\n<p>These are the community members that will support and provide the initial funding for the tollgate fee for the Hatch DAO proposal.</p>\n<p>Zeptimus<br/>\nTamara<br/>\nGriff<br/>\nDan</p>\n<p><em><strong>Funding Information (For Funding Proposals)</strong></em></p>\n<p>1000 wxDAI from the non-redeemable pool in order to cover the tollgate fee</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-10T20:40:25Z",
+   "updated_at": "2021-09-10T20:45:31Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><a href=\"https://imgflip.com/i/5mk9ju\"><img alt=\"\" data-base62-sha1=\"hVSQnFAV9KUmjdw8uva56MEreCJ\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7db009e4c28af0b0980f16ec5cc9afee165e7b41.jpeg\" title=\"made at imgflip.com\" width=\"458\"/></a></p><div><a href=\"https://imgflip.com/memegenerator\">from Imgflip Meme Generator</a></div><p></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-15T17:52:55Z",
+   "updated_at": "2021-09-15T17:52:55Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>We have THREE TECH holders that have reached out and asked for an address change</p>\n<h1>\n<a class=\"anchor\" href=\"#we-will-propose-1\" name=\"we-will-propose-1\"></a>We will propose</h1>\n<ol>\n<li>\n<p>to burn 2447.046 TECH from<br/>\n0xFBC56Be13C23c18B6864D062e413da3c7e0f74Fb<br/>\nAnd mint 2447.046 TECH to<br/>\n0xFB074ABA249F6a75edA10996c3EFa6d66465B8b3</p>\n</li>\n<li>\n<p>to burn 9256.453 TECH from<br/>\n0x8D70e8D63BfE565e0fe2CD338ebe05cC7256210c<br/>\nAnd mint 9256.453 TECH to<br/>\n0x2dD3d3B07BC822aa9bEF925f06FabaCD23E7022a</p>\n</li>\n<li>\n<p>We will burn 10572.022 TECH from<br/>\n0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7<br/>\nAnd mint 10572.022 TECH to<br/>\n0x5b0f8d8f47e3fdf7ee1c337abca19dbba98524e6</p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-15T17:59:23Z",
+   "updated_at": "2021-09-15T17:59:23Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>LAST CHANCE IF YOU WANT TO CHANGE YOUR ADDRESS!!!</p>\n<p>DM me, Tam, Dan or Zep on Discord, NOW!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-28T21:16:23Z",
+   "updated_at": "2021-09-28T21:16:23Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>There was a difference with 1 address that’s why we got delayed the final addresses are the ones posted before by Griff.</p>\n<ol>\n<li>to burn 2447.046 TECH from<br/>\n0xFBC56Be13C23c18B6864D062e413da3c7e0f74Fb<br/>\nAnd mint 2447.046 TECH to<br/>\n0xFB074ABA249F6a75edA10996c3EFa6d66465B8b3</li>\n<li>to burn 9256.453 TECH from<br/>\n0x8D70e8D63BfE565e0fe2CD338ebe05cC7256210c<br/>\nAnd mint 9256.453 TECH to<br/>\n0x2dD3d3B07BC822aa9bEF925f06FabaCD23E7022a</li>\n<li>We will burn 10572.022 TECH from<br/>\n0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7<br/>\nAnd mint 10572.022 TECH to<br/>\n0x5b0f8d8f47e3fdf7ee1c337abca19dbba98524e6</li>\n</ol>\n<p>Gardeners can confirm this is correct by giving a like to this post when all 3 aproves that sem will make the proposal (we dont have an interface on the hatch DAO )</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-09-28T21:22:49Z",
+   "updated_at": "2021-09-28T21:22:49Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Confirming these are correct.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-28T21:39:05Z",
+   "updated_at": "2021-09-28T21:39:05Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>This is the EVMcripr script we are using:</p>\n<pre><code class=\"lang-bash\">exec agent:0 transfer 0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d 0xc125218f4df091ee40624784caf7f47b9738086f 1000e18\nexec token-manager burn 0xFBC56Be13C23c18B6864D062e413da3c7e0f74Fb 2447.045542334842592122e18\nexec token-manager mint 0xFB074ABA249F6a75edA10996c3EFa6d66465B8b3 2447.045542334842592122e18\nexec token-manager burn 0x8D70e8D63BfE565e0fe2CD338ebe05cC7256210c 9256.453198232943864182e18\nexec token-manager mint 0x2dD3d3B07BC822aa9bEF925f06FabaCD23E7022a 9256.453198232943864182e18\nexec token-manager burn 0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7 10572.021866075814165263e18\nexec token-manager mint 0x5b0f8d8f47e3fdf7ee1c337abca19dbba98524e6 10572.021866075814165263e18\n</code></pre>\n<p>The vote gives back the 1000 wxDAI (<code>0xe9..7d</code>) to the vote proposer’s address (<code>0xc12..6f</code>) to pay for the tollgate fee. Then it burns and mints the same amount of TECH tokens, effectively “transferring” all the tokens from the old addresses to the new ones.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-28T22:34:59Z",
+   "updated_at": "2021-09-28T22:34:59Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>The vote is on in the Hatch DAO: <a class=\"inline-onebox\" href=\"https://gateway.pinata.cloud/ipfs/QmPV4NnmJEDA9fmh5VnqAdFCfNwZyY4yZgD5ECxpF5keMm/#/0x4625c2c3e1bc9323cc1a9dc312f3188e8de83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/1/\">Aragon</a></p>\n<p>In the description it says that it’s going to trasfer 1000 * 10^18 wxDAI to an address, but it’s because the parser is not processing the decimals, it’s just 1000 wxDAI.</p>\n<p>This is the first official vote of TEC, as well as the first one made with EVMcrispr! <img alt=\":tada:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=10\" title=\":tada:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-29T10:25:32Z",
+   "updated_at": "2021-09-29T10:25:32Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Interface it’s a bit buggy, if anyone trying to vote and it’s not loading try to press F5 (or shift-refresh, took myself 20 attempts, do not hesitate keep trying! <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/>  ). Make sure to get some xdai to be able to pay the gas (1 xdai should pay your gas like forever :D). And last but not least, do not check the clock it says the vote have 2 days from now, its because blocks are faster on xdai and it bugs the interface, the vote will end in 4 days since Sem posted it yesterday night CET.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "knobsDAO",
+   "name": null,
+   "created_at": "2021-09-29T10:57:18Z",
+   "updated_at": "2021-09-29T10:57:18Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><img alt=\":white_check_mark:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_check_mark.png?v=10\" title=\":white_check_mark:\"/> ¡Todo chévere! Good work y’all!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-10-12T10:18:50Z",
+   "updated_at": "2021-10-12T10:27:36Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>We forgot to add permissions to mint and burn tokens for the voting app, so <strong>we will need to do an extra vote</strong> with these commands:</p>\n<pre><code class=\"lang-bash\">connect 0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42 tollgate.1hive dandelion-voting.1hive\nexec agent transfer 0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d 0xc125218f4df091ee40624784caf7f47b9738086f 1000e18\ngrant dandelion-voting.1hive token-manager MINT_ROLE dandelion-voting.1hive\ngrant dandelion-voting.1hive token-manager BURN_ROLE dandelion-voting.1hive\n</code></pre>\n<p>The vote gives back 1000 wxDAI that are spend on the tollgate fee, and adds permissions to be able to execute the previous vote. The vote is planned for in a few hours, on <strong>Wednesday Oct 13th at 0:00 UTC</strong>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 25,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-10-12T16:19:30Z",
+   "updated_at": "2021-10-12T16:19:30Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The new vote has it’s own thread: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665\">Changing permissions on the HatchDAO</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  },
+  {
+   "post_number": 26,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-11-03T02:07:20Z",
+   "updated_at": "2021-11-03T02:07:20Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This vote has been executed on November 3rd 2021.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815092702",
+    "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210828081028",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928003519",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928003519",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210929183255",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/21"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211006153527",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124024647",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124024647",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520070441",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520070441",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520073735",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/24"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520073735",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/24"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706011627",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571?page=2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706011627",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571?page=2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014015",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/15"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014015",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/15"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014537",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/25"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014537",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/25"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815092702",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815092702",
+   "url": "https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23"
+  }
+ ]
+}

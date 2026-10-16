@@ -1,0 +1,66 @@
+{
+ "id": 1080,
+ "title": "Gravity DAO - Continuity Support",
+ "slug": "gravity-dao-continuity-support",
+ "category_id": 13,
+ "tags": [
+  "governance"
+ ],
+ "posts_count": 1,
+ "created_at": "2022-07-13T15:27:51.305Z",
+ "last_posted_at": "2022-07-15T04:04:25.994Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2022-07-15T04:04:25Z",
+ "captured_between": [
+  "2022-08-15T10:03:00Z",
+  "2022-08-15T10:03:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2022-07-13T15:27:51Z",
+   "updated_at": "2022-07-13T17:30:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>So as to relieve some pressure from leaders in the Gravity WG, I want to list key aspects the WG are working on at the moment, so that others can take turns leading in the group, and provide due and sufficient support to leaders.</p>\n<p>I will list the tasks here, and can update these as needed.</p>\n<p>RECRUITMENT, ROLES &amp; WIP PUBLICITY<br/>\nWe need some fresh talent coming into Gravity. I feel this is a TEC style problem, we need to be more public about our WIP, we need to list our work in Twitter, for example. Do we need to re-examine role structure, and split out or combine roles. Can we apply an Elinor Ostrom exercise to our group in Gravity?</p>\n<p>FINANCIAL HACK<br/>\nWe need Gravity to move from a point of receiving grant from TEC to self sustainability. We need to become revenue generators.</p>\n<p>PARTNER DAOPLOMATS<br/>\nThe first example we note here is with Aragon, and we need others to be present in other DAOs, able to represent Gravity. This will add to the 24 case studies so far.</p>\n<p>GRAVITON TRAINING<br/>\nWe need to capitalise on how many Gravitons made it through training, and empower them to act with Gravity in other DAOs. How can other work Gravity is doing provide some support for this training exercise? How does this all gel together? Perhaps we can incentivise Gravitons to bring in leads to Gravity, so that we get returns on the training provided. This could be on a commission basis, and again adding to the case study number.</p>\n<p>GRAVITY DAO<br/>\nLonger term, we want to become a DAO in our own right. Probably this depends on financial independence, the FINANCIAL HACK task above.</p>\n<p>CONFLICT RESOLUTION &amp; HEALING<br/>\nGravity have two aspects to service provision. As well as dispute resolution, applying the bandage, we also want to work on community health, the preventative or vitamin aspects of community working.</p>\n<p>LIBERATING STRUCTURES &amp; DEEP DEMOCRACY<br/>\nWe have two identifiable leadership courses here that can be advertised and can bring in revenue to Gravity. We can all provide mutual help with “marketing”, so that practitioners can benefit themselves and the WG.</p>\n<p>INDIVIDUAL PROJECTS AND CONSTRAINTS<br/>\nIf what Gravity are trying to do overlaps better with other work that interested folk are already doing, then it will be less of an ask on people to say is there a little bit more we can ask for, because it will fit better with their existing workload.</p>\n<p>MENTAL HEALTH SUPPORT<br/>\nCurrently being run by Bianca, this is something that fits well with the Gravity profile. As it’s a partnership with Bianca’s university, we need to adapt to partner needs, including that the survey is in Portugues.</p>\n<p>WEBSITE<br/>\nDiscussion is ongoing about the scope of what is on the website.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815100300",
+    "url": "https://forum.tecommons.org/t/gravity-dao-continuity-support/1080"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2022-07-15T04:04:25Z",
+   "updated_at": "2022-07-15T04:04:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>one thought I’ve had about this is that a bottle-neck for growing leadership in Gravity is completion of the training.</p>\n<p>it would be ideal if we can create an async - onramp for people interested becoming gravitons…</p>\n<p>I made an expanded resource for the first training:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/CommonsBuild/graviton-training\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsBuild/graviton-training\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f0a0af037f994f9df6567f4c46a83241121d9695_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f0a0af037f994f9df6567f4c46a83241121d9695_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f0a0af037f994f9df6567f4c46a83241121d9695_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/f0a0af037f994f9df6567f4c46a83241121d9695_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/f0a0af037f994f9df6567f4c46a83241121d9695.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/CommonsBuild/graviton-training\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - CommonsBuild/graviton-training: Graviton Training - Study Companion</a></h3>\n<p>Graviton Training - Study Companion. Contribute to CommonsBuild/graviton-training development by creating an account on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>that could, perhaps, be adapted into self-driven course material, opening up our ability to onboard leadership.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815100300",
+    "url": "https://forum.tecommons.org/t/gravity-dao-continuity-support/1080"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815100300",
+   "url": "https://forum.tecommons.org/t/gravity-dao-continuity-support/1080"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815100300",
+   "url": "https://forum.tecommons.org/t/gravity-dao-continuity-support/1080"
+  }
+ ]
+}

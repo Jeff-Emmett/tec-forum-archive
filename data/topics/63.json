@@ -1,0 +1,342 @@
+{
+ "id": 63,
+ "title": "Hatch Period - Deep Dive",
+ "slug": "hatch-period-deep-dive",
+ "category_id": 18,
+ "posts_count": 15,
+ "created_at": "2020-11-05T12:25:30.478Z",
+ "last_posted_at": "2021-05-07T18:31:21.625Z",
+ "total_known": true,
+ "archived_posts": 16,
+ "archived_numbers": 16,
+ "last_archived_post_at": "2021-05-07T18:31:21Z",
+ "captured_between": [
+  "2021-04-20T13:39:22Z",
+  "2025-08-05T14:10:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-05T12:25:30Z",
+   "updated_at": "2021-03-06T19:24:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h2>What is the Hatch Period?</h2>\n<p>This is pretty straight forward… This is how long the Hatch is open to collect funds.</p>\n<ul>\n<li>Before the Hatch starts, no one can join the TEC.</li>\n<li>During the Hatch, Hatchers can send xDAI to the Hatch and TEC will be Minted for them.</li>\n<li>After the Hatch ends, contributors that earned Impact Hours will recieve TEC and the Bonding Curve will be deployed so that anyone can send xDAI to it to mint TEC.</li>\n</ul>\n<h2>So what do we need to decide?</h2>\n<ol>\n<li>What information should we use to decide the Hatch Period?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-11-13T19:32:34Z",
+   "updated_at": "2020-11-13T19:32:34Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Does anyone have references to previous hatches and their lengths?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-11-15T21:54:30Z",
+   "updated_at": "2020-11-15T21:54:30Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>If we look at <a href=\"https://www.kickstarter.com/blog/shortening-the-maximum-project-length\">kickstarter crowdfundings</a>, we see that long periods don’t tend to go as well as shorter ones, and it’s better to concentrate the fundraising campaign in around 30 days. We learn also that people tend to donate at the beginning of the campaign or just before the deadline.</p>\n<p>Another thing to take into account is that we are promoting it within our community (we are focusing the trusted seed), so I think that 30 days is enough to catch people’s attention on the topic.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-17T23:48:10Z",
+   "updated_at": "2020-11-17T23:48:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>PrimeDAO is doing 2 weeks</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-11-28T15:42:25Z",
+   "updated_at": "2020-11-28T15:42:25Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I believe the FOMO effect has a big impact on any of these events. As potential hatchers find out they might be running out of time the ball starts to roll.  I prefer a short time but we need to make sure we have everything prepared to spread the info to all the potential groups we want to target, even before the hatching starts. Maybe having the site open with all the information and  a timer showing the starting date and time limit would also help.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-11-30T15:19:40Z",
+   "updated_at": "2020-11-30T15:19:40Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>i like 30 days but i think 45 can be a bit better, random thought in any case</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2020-12-03T08:34:22Z",
+   "updated_at": "2020-12-03T08:34:22Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>well we might just as well chose a random amount of days. In making decisions the importance is our assumptions:</p>\n<ul>\n<li>do we assume that those driven by FOMO will make the right decisions mid/long-term for Token Engineering C?</li>\n<li>do we assume that people who shall be stewards of Token Engineering C will be affected by FOMO triggering  design choices?</li>\n</ul>\n<p>And then as simple as <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> puts it do we have data about past decisions on ICOs their raise times (however lets face it - all of that was FOMO in the past) and the effects?</p>\n<p>Gnosis have for example more insight on these human reactions… but crypto being crypto, what people care for/about has not been embedded in those equations yet. So, we might as well throw some dice - OR do some simulations, no?</p>\n<p>But those simulations need to take into account some sort of sensible assumptions about the state of mind of supporters - and which type of supporters we want to attract: If they vest for 1 year, and all they can do is vote: you want value-aligned participants… and Fear is not a value TEC wants alignment with, I’m guessing.</p>\n<p>I would have thought that Conviction Voting or the same sentiment mechanics in CV could be used to model this, no?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-03T16:35:35Z",
+   "updated_at": "2020-12-03T16:35:35Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>It was a random thought but not a random number, i was saying 45 days, mostly because i think 30 is a bit too short, at least for me 30 days was not enough to get a grasp of the whole project, it is true also that some investors probably already know the project sooo idk <img alt=\":upside_down_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/upside_down_face.png?v=9\" title=\":upside_down_face:\"/>.<br/>\nI think <img alt=\":money_mouth_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/money_mouth_face.png?v=9\" title=\":money_mouth_face:\"/> value driven <img alt=\":money_mouth_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/money_mouth_face.png?v=9\" title=\":money_mouth_face:\"/> people are good enough to invest, then if there is more commitment, even better <img alt=\":muscle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/muscle.png?v=9\" title=\":muscle:\"/><img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=9\" title=\":fire:\"/><br/>\nHere i’m not sure about my reasoning, but i think if the investors are gonna have voting power but not much idea about what’s going on, they are still gonna try to vote based on intuition and perception about the people they follow or trust. I think the more investors the better obviously. I think missing investors for not being “value aligned” is not something we want, it should be our job to inform them properly to make conscious good decisions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-03T21:49:10Z",
+   "updated_at": "2020-12-03T21:49:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>It’s important to say only trusted people (people who has collaborated with us before and have CSTK tokens) can buy into the hatch. They are our public when we talk about the hatch.</p>\n<p>Investors that come later don’t have to be aligned with the project, they can buy when the bonding curve is open for everyone. On the other hand, on the hatch we have to be selective.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-03T22:32:21Z",
+   "updated_at": "2020-12-03T22:32:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for the thoughtful post. I agree with you on that building a community based on FOMO is not going to create the best culture.</p>\n<p>Although, we have to remember we are humans, lazy and fearful humans. If we don’t have a good reason, we don’t move. Luckily enough, fear is very effective <strong>against</strong> fear itself. Locking 32 ETH during two years in the phase 0 is fearful, but missing the opportunity to earn a NFT telling that you were there can balance the scales.</p>\n<p>That being said I don’t think it’s going to make a big difference if we keep it in the range of 20-40 days. The communication campaign regarding the hatch is going to be crucial to reach the goal, and it doesn’t have sense to last too much, because as humans we are limited and need rest (those humans… so imperfect). On the other hand, we need time for the communication campaign to be effective, for the message to resonate. For me we are working with those two trade-off variables.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-04T00:08:01Z",
+   "updated_at": "2020-12-04T00:08:01Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>thx for the clarification, is it so (that only trusted people can buy into the hatch) even if the max isn’t reached?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-06T02:12:54Z",
+   "updated_at": "2020-12-06T02:12:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"63\" data-username=\"Tonga\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/tonga/40/75_2.png\" width=\"20\"/> Tonga:</div>\n<blockquote>\n<p>is it so (that only trusted people can buy into the hatch) even if the m</p>\n</blockquote>\n</aside>\n<p>I don’t think so. I believe this is what differentiates the TEC Hatch from the CS Trusted Seed.</p>\n<p>I think that ANYONE can buy into the hatch, although we use the term ‘covester’ to imply that they have a non-monetary stake which is the benefit of a thriving token engineering commons.</p>\n<p>This leads me another point of discussion:<br/>\nI’ve noticed a mindset of “We do not want to raise funds from the wrong people, those who are not aligned.” But my intuition tells me that this isn’t necessary, and that we should be in the mindset of “Let’s raise as many funds as possible, even if it’s FOMO driven.” Because I have faith in the resilience of our community and stewards. The cultural infrastructure that we are laying is exactly that of resilience, and does not derive it’s influence from the monetary value of a token.</p>\n<p>This leads us into the Dandelion DAO parameters and mechanisms. By modelling that system we can determine just what is the fault tolerance of our network? And how many ‘bad-actor’ investors/‘apathetic’ investors could we handle and still have resilience towards our goals? Depending on those results we can hopefully, confidently say “Let’s raise as much funds as possible.”  Then blast marketing and shoot for the moon. <img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=9\" title=\":rocket:\"/> <img alt=\":crescent_moon:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crescent_moon.png?v=9\" title=\":crescent_moon:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-06T02:21:36Z",
+   "updated_at": "2020-12-06T02:21:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This is not what <a class=\"mention\" href=\"/u/sem\">@sem</a> said a few responses above, according to that response ONLY  CSTK token holders can buy into the hatch. I hope this gets clarified soon.<br/>\nI’m also in favor of maximizing investment</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-06T02:31:15Z",
+   "updated_at": "2020-12-06T02:31:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/tonga\">@Tonga</a> this is super  important to know.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-06T16:42:44Z",
+   "updated_at": "2020-12-06T16:42:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’ve clarified my understanding, so the Hatch Phase is the ‘co-vesting’ phase for members who are aligned with the community, and the Open Phase is where we can take on all investors. It’s clarified here: <a href=\"https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436\" rel=\"noopener nofollow ugc\">https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436</a> in the 7th paragraph.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-07T18:31:21Z",
+   "updated_at": "2021-05-07T18:31:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Hatch Period?</strong><br/>\nThe Hatch Period is the amount of time that Trusted Seed members will have to send funds (wxDai) to the Hatch.</p>\n<p><strong>Implications and Parameter Options</strong><br/>\nThe Hatch Period is measured in days, and will allow for an appropriate amount of time for Trusted Seed members to covest their funds.</p>\n<p>The amount of days you select for your Hatch Period parameter will impact how much wxDai the Hatch will be able to collect. It’s simple enough to think that if you set your Hatch Period parameter for one day, that this does not give enough time for Trusted Seed Members to organize their finances and send funds to the Hatch, limiting the amount of money the Hatch can raise.  On the other hand, setting your Hatch Period for 256 days will likely cause most Trusted Seed Members to lose interest in the Hatch altogether and deprioritize participation within Hatch events.</p>\n<p><strong>Suggested Range</strong><br/>\nWithin our community dialogue, we have suggested that a range between 14-45 days is an appropriate amount of time for the Hatch Period.</p>\n<p><strong>Related Parameters to consider when defining the Minimum Hatch Goal (wxDai):</strong><br/>\nMinimum Goal (wxDai).<br/>\nMinimum Goal (wxDai).<br/>\nTarget Goal (wxDai).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250805141050",
+    "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420133922",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420133922",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815100647",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815100647",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006162820",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530070614",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63/17"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530070614",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63/17"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616080726",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63/17"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724163947",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63/17"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724163947",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63/17"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805131238",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63/17"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805141050",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805141050",
+   "url": "https://forum.tecommons.org/t/hatch-period-deep-dive/63"
+  }
+ ]
+}

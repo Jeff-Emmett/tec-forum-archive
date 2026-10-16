@@ -1,0 +1,96 @@
+{
+ "id": 300,
+ "title": "How to requests time off from the organization 😃",
+ "slug": "how-to-requests-time-off-from-the-organization",
+ "category_id": 5,
+ "posts_count": 1,
+ "created_at": "2021-03-26T17:15:24.951Z",
+ "last_posted_at": "2021-06-19T00:12:21.989Z",
+ "tags": [
+  "governance"
+ ],
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-06-19T00:12:21Z",
+ "captured_between": [
+  "2021-04-20T12:29:10Z",
+  "2023-02-04T02:26:31Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-03-26T17:15:25Z",
+   "updated_at": "2022-07-21T14:51:09Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>You can inform any temporary or long-term offboarding to Gravity! → <a href=\"https://the-commons-stack.typeform.com/to/rCVsK5RK\">https://the-commons-stack.typeform.com/to/rCVsK5RK</a></p>\n<p><strong>Offboarding process in the TEC</strong></p>\n<p>Sometimes, we all need some time off to take care of other priorities. We comprehend the complexity of everyone’s life at this moment and we want people to feel there are safe ways to make rotations and transitions within the workflow of the organization.</p>\n<p>These are the steps we propose for this process to go smoothly as possible. And we suggest giving a lot of praise along the way!</p>\n<p><strong>1: Make notification (verbal or in writing).</strong></p>\n<p>Regardless of how it was first communicated, it’s important to inform via the gravity typeform or to any Community Steward or Graviton the intention to take some time off (for a short or long period). It’s preferable to have this notification with 1 or 2 weeks in advance, so that we can continue smoothly with the next steps of the process.</p>\n<p><strong>2: Confirm transition date with Stewards.</strong></p>\n<p>Once the offboarding process is communicated, in the next stewards call, the issue will be added to the agenda, to discuss which will be the members that will take care of the tasks that are rotated, and other relevant decisions for the coming changes.</p>\n<p><strong>3: Transition work and shift priorities</strong></p>\n<p>During the next sprint planning call, the stewards should communicate the offboarding contributors current projects, assess what’s high-priority, and try to assign 1 (or more) member(s) to them. If no member is delegated, the rotating projects are shuffled into the work queues of others in similar roles. The main thing to watch out for is not to dump a ton of extra work on the rest of the team. If something’s critical, the team can stretch for a short period. We want to get back to normal workloads as soon as possible.</p>\n<p>For Community Stewards. In a <strong>short term</strong> escenario, the stewards can search for another member in the organization to fill the role temporally. In a <strong>long term</strong> offboarding case, the stewards can decide to look for possible replacements in the broader ecosystem, or to make an official promotion to an interim delegate, after a testing period time if all parts agree.</p>\n<p>We want to involve the offboarding member to be available for a transition session with the delegate, useful to wrap up any critical projects or help with complex issues if needed.</p>\n<p><strong>4: Announce the departure</strong></p>\n<p>As we foster transparency and rotation in good terms, its suggested to announce the offboarding process in this order:</p>\n<p>First with the Stewards or Gravity, then to their working group, then if needed, to the whole community.</p>\n<p>Before breaking the news to anyone, Check with the offboarding contributor and ask them if there’s a way that they want to frame the news. Sometimes, people are happy to share that they’re joining another company or starting a new project. In other cases, they prefer to keep all the details to themselves. We recommend following each one’s respective wishes.</p>\n<p>If the offboarding member prefers to keep things private and anyone asks why it happened, any of the stewards can give a brief overview and express that it’s being managed privately.</p>\n<p><strong>5: Follow up</strong></p>\n<p>Gravitons or Community stewards can check and diagnose the reasons why the member offboarded and care for how they felt during the offboarding process and how they are doing in their new stages. Communicate that the doors are open for any contribution, and ask for insights to know how we can improve as an organization and our different processes.</p>\n<p>Adapted to the TEC from <a href=\"https://usefyi.com/offboarding/\">https://usefyi.com/offboarding/<br/>\n</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204022631",
+    "url": "https://forum.tecommons.org/t/how-to-requests-time-off-from-the-organization/300"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-06-19T00:12:21Z",
+   "updated_at": "2021-06-19T00:12:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Use this!!!</strong></p>\n<p>I have been trying to follow this step by step for the two week trip i decided to make to Perú, and think that its being really helpful for me and for the Working group.</p>\n<ol>\n<li>I communicated weeks in advance my intention to take some time, after months working with all my heart.</li>\n<li>During the next sprint planning I made an issue with the intention of empowering some Gravitons to lead the Wg calls for my off period.<br/>\n<a class=\"inline-onebox\" href=\"https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/728\" rel=\"noopener nofollow ugc\">Project Management and Software Development with GitHub | ZenHub</a>\n</li>\n<li>\n<a class=\"mention\" href=\"/u/durgadas\">@durgadas</a> and <a class=\"mention\" href=\"/u/ddan\">@ddan</a> are relevant contributors to the TEC, that can deep dive into some core topics of Gravity, like NVC, and decolonization/ unified thinking. This also helps to create new content for the next Graviton Training.</li>\n<li>I am happy to say that i love being part of the TEC and that I want to continue giving my best to this community and to Gravity, but i also wanted to recharge and take some time to have fun and connect with nature.</li>\n<li>Even though i haven’t been involved in all the activities i like participating, I continue being near the TEC and Gravity, i try to prioritize, schedule certain calls, collaborate async, and keep up with whats happening in the community.</li>\n</ol>\n<p>Thanks everyone for your help and understanding! I feel recharged and motivated.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204022631",
+    "url": "https://forum.tecommons.org/t/how-to-requests-time-off-from-the-organization/300"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420122910",
+   "url": "https://forum.tecommons.org/t/easy-offboarding-process-rotation/300"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420122910",
+   "url": "https://forum.tecommons.org/t/easy-offboarding-process-rotation/300"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210729012310",
+   "url": "https://forum.tecommons.org/t/easy-offboarding-process-rotation/300"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210729012310",
+   "url": "https://forum.tecommons.org/t/easy-offboarding-process-rotation/300"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928013159",
+   "url": "https://forum.tecommons.org/t/how-to-requests-time-off-from-the-organization/300"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928013159",
+   "url": "https://forum.tecommons.org/t/how-to-requests-time-off-from-the-organization/300"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204022631",
+   "url": "https://forum.tecommons.org/t/how-to-requests-time-off-from-the-organization/300"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204022631",
+   "url": "https://forum.tecommons.org/t/how-to-requests-time-off-from-the-organization/300"
+  }
+ ]
+}

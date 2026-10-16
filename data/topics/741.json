@@ -1,0 +1,50 @@
+{
+ "id": 741,
+ "title": "Have you heard about \"The Fledge\"? -- (A TEC Commons Config Proposal)",
+ "slug": "have-you-heard-about-the-fledge-a-tec-commons-config-proposal",
+ "category_id": 7,
+ "posts_count": 0,
+ "created_at": "2021-12-15T21:07:05.286Z",
+ "last_posted_at": "2021-12-15T21:07:06.158Z",
+ "tags": [
+  "conviction-voting"
+ ],
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-12-15T21:07:06Z",
+ "captured_between": [
+  "2022-01-24T03:07:04Z",
+  "2022-01-24T03:07:04Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-12-15T21:07:06Z",
+   "updated_at": "2021-12-15T21:07:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#first-we-hatch-then-we-fledge-1\" name=\"first-we-hatch-then-we-fledge-1\"></a><em>“First, we Hatch. Then, we Fledge.”</em>\n</h3>\n<h3>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h3>\n<p><em>We are now breaking through the protected shell, the commons initialization phase we know as “the Hatch.” This proposal basically pitches a second developmental phase for the TE Commons, an additional period of time, backed by impact investors, for our wings to fill before we take flight in the market. And yes, the bird <em>is</em> the word.</em></p>\n<h3>\n<a class=\"anchor\" href=\"#this-is-us-3\" name=\"this-is-us-3\"></a>This is us:</h3>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/7ae68461eb37381e8c823ad30cf1b949b08e0c51\" href=\"https://forum.tecommons.org/uploads/default/original/1X/7ae68461eb37381e8c823ad30cf1b949b08e0c51.jpeg\" title=\"The Fledge\"><img alt=\"The Fledge\" data-base62-sha1=\"hxe8bzXBVsN2oS0zGy0TwEj5M09\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/7ae68461eb37381e8c823ad30cf1b949b08e0c51_2_10x10.png\" height=\"455\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7ae68461eb37381e8c823ad30cf1b949b08e0c51.jpeg\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">The Fledge</span><span class=\"informations\">1068×705 75 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-4\" name=\"proposal-description-4\"></a>Proposal description</h3>\n<p>The key things to note in this proposal are the relatively long freeze and thaw, the relatively heavy commons tribute, and the very hefty entry tribute.</p>\n<p>There are a handful of core assumptions that this proposal makes:</p>\n<ol>\n<li>The TEC has been largely inward looking over this past year, just getting our house in order. (That’s what happens when you’re busy hatching in an egg, so it makes sense.)</li>\n<li>If we want to generate interest and demand for the TEC token, we are going to have to step up our investment in communication and outreach. That’s totally doable, but will take some time to build.</li>\n<li>Also, the impact of our investments as a commons won’t happen overnight. We need to leave ourselves a little breathing room by keeping price supports in place as the value of the TEC grows more obvious to the world.</li>\n<li>During this period (“the fledge”), we may not have the masses rushing to our door, but there will be a small but steady stream of knowledgeable, mission-driven people who already know and care about us, and who will be excited to invest in us.</li>\n<li>These investors are not driven by speculation. They are driven by the desire for impact. They are “impact investors” and they can be our bridge funding into the market. The can help us to fledge.</li>\n<li>For these investors, investing in a large reserve fund is not exciting, even if it helps reduce price volatility. They don’t care about that. They care about impact. They will also not be scared about a 30% tribute to fund projects that will have impact. That’s why they’re here! It’s not a tax – it’s an investment in the future of token engineering!</li>\n</ol>\n<p>This proposal assumes a couple of more nuanced things too:</p>\n<ul>\n<li>We take no tribute off the exit so that contributors are not forced to invest twice (once for their labor and once, again, with capital). It also assumes that we have sufficient funding from our initial buy-in to cover rewards without having to have contributors pay the entry tribute in order to receive compensation.</li>\n<li>The TEC token is not tradable, at least during the period of the Fledge. Why? Because a 30% entry tribute would create huge incentives for arbitrage in secondary markets. This assumes that we could switch the token back to tradable at the end of the Fledge (and that is an open question for me, TBH).</li>\n</ul>\n<p>If you agree with these premises, check out the parameters below, and if you like them, you can <strong><a href=\"https://tokenlog.xyz/CommonsBuild/commons-config-proposals\" rel=\"noopener nofollow ugc\">vote for “The Fledge” here</a></strong>.</p>\n<h2>\n<a class=\"anchor\" href=\"#table-summary-5\" name=\"table-summary-5\"></a>Table Summary:</h2>\n<h3>\n<a class=\"anchor\" href=\"#module-1-token-freeze-token-thaw-6\" name=\"module-1-token-freeze-token-thaw-6\"></a>Module 1: Token Freeze &amp; Token Thaw</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Token Freeze</td>\n<td>52 Weeks</td>\n</tr>\n<tr>\n<td>Token Thaw</td>\n<td>52 Weeks</td>\n</tr>\n<tr>\n<td>Opening Price</td>\n<td>1.5 wxDAI</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-2-augmented-bonding-curve-7\" name=\"module-2-augmented-bonding-curve-7\"></a>Module 2: Augmented Bonding Curve</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Tribute</td>\n<td>80.00%</td>\n</tr>\n<tr>\n<td>Entry Tribute</td>\n<td>30.00%</td>\n</tr>\n<tr>\n<td>Exit Tribute</td>\n<td>0.00%</td>\n</tr>\n<tr>\n<td>*<em>Reserve Ratio</em>\n</td>\n<td>8.6%</td>\n</tr>\n</tbody>\n</table>\n</div><p>*This is an output. <a href=\"https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516\">Learn more about the Reserve Ratio here</a>.</p>\n<h3>\n<a class=\"anchor\" href=\"#module-3-tao-voting-8\" name=\"module-3-tao-voting-8\"></a>Module 3: Tao Voting</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Support Required</td>\n<td>88%</td>\n</tr>\n<tr>\n<td>Minimum Quorum</td>\n<td>40%</td>\n</tr>\n<tr>\n<td>Vote Duration</td>\n<td>10 day(s)</td>\n</tr>\n<tr>\n<td>Delegated Voting Period</td>\n<td>5 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Period</td>\n<td>2 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Extension</td>\n<td>2 day(s)</td>\n</tr>\n<tr>\n<td>Execution Delay</td>\n<td>1 day(s)</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-4-conviction-voting-9\" name=\"module-4-conviction-voting-9\"></a>Module 4: Conviction Voting</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Conviction Growth</td>\n<td>14 day(s)</td>\n</tr>\n<tr>\n<td>Minimum Conviction</td>\n<td>3.0%</td>\n</tr>\n<tr>\n<td>Spending Limit</td>\n<td>4.0%</td>\n</tr>\n</tbody>\n</table>\n</div><p>For details, check out the full proposal <a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/113\" rel=\"noopener nofollow ugc\">on Github </a> or DM me!</p>\n<p>We’ve done so much together to get to this point. Let’s ensure this baby is ready to fly.</p>\n<p>Oh yeah, and here’s that number to vote again: <strong><a href=\"https://tokenlog.xyz/CommonsBuild/commons-config-proposals\" rel=\"noopener nofollow ugc\">1-800-vote-for-\"The Fledge\"</a></strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030704",
+    "url": "https://forum.tecommons.org/t/have-you-heard-about-the-fledge-a-tec-commons-config-proposal/741"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124030704",
+   "url": "https://forum.tecommons.org/t/have-you-heard-about-the-fledge-a-tec-commons-config-proposal/741"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124030704",
+   "url": "https://forum.tecommons.org/t/have-you-heard-about-the-fledge-a-tec-commons-config-proposal/741"
+  }
+ ]
+}

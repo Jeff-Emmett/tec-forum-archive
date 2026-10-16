@@ -1,0 +1,111 @@
+{
+ "id": 1052,
+ "title": "Communitas WG - Second term funding proposal",
+ "slug": "communitas-wg-second-term-funding-proposal",
+ "category_id": 28,
+ "posts_count": 4,
+ "created_at": "2022-06-14T16:44:43.788Z",
+ "last_posted_at": "2022-06-24T16:31:21.343Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2022-06-24T16:31:21Z",
+ "captured_between": [
+  "2022-07-06T01:39:12Z",
+  "2022-07-06T01:39:12Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-06-14T16:44:44Z",
+   "updated_at": "2022-06-24T14:11:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Term:</strong> July to September 2022.<br/>\n<strong>Contact:</strong> <span class=\"mention\">@Tam2140</span> or <span class=\"mention\">@Eduardovegap</span><br/>\n<a href=\"https://forum.tecommons.org/t/communitas-wg-3-month-funding-proposal/706/5\">We have provided an accountability post, regarding the previous proposal, you can check it here.</a></p>\n<p><strong>Key information</strong></p>\n<p><strong>Proposal title</strong><br/>\nCommunitas WG 3-month funding</p>\n<p><strong>TL;DR</strong><br/>\nEven with tight budgets and a bear market, we need to keep investing in ensuring a strong sense of TEC community and culture and on onboarding newcomers. These Communitas capacity building investments strengthen our cultural and social capital. It is important that we maintain our momentum here. This proposal funds investments in clarifying, streamlining and improving the process of becoming a member of the TEC. It also funds improved data tracking and assessment of community engagement, simple but fun socializing opportunities, improved handoffs of newcomers to working groups, and new processes for communicating important information to various segments of the community.</p>\n<p><strong>Proposal description</strong></p>\n<p>For the next three months, we plan to focus on clarifying what it means to be a “member” of the TEC and develop a set of processes for improving newcomers’ experience on that membership journey. This work includes educational components (with fun, lightweight quizzes), newcomer interest mapping, streamlining onboarding logistics (account set up, etc.). We plan to make a few low-cost investments aimed at boosting the social experience of being in this community. We also want to roll out new metrics tracking for assessing community engagement. We plan to partner with a few working groups to pilot some new processes for more effectively ushering new members onto these teams. Finally, we plan to develop some simple processes for better communicating with members, newcomers, and token holders (including Hatchers).</p>\n<p><strong>Updated services</strong></p>\n<p>Existing Communitas Operations (<a href=\"https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/issues/commonsbuild/coordination/1355\">these operations are represented on our zenhub board epic for this term, click here to view it</a>):</p>\n<ul>\n<li>\n<p>Onboarding:</p>\n<ul>\n<li>Human touch while welcoming in Discord</li>\n<li>Hosting 1-1 meetings with Communitas Guides</li>\n<li>Orientation calls</li>\n<li>TEC Lounge and weekly call</li>\n<li>Onboarding assistance to Token Engineering Academy</li>\n</ul>\n</li>\n<li>\n<p>Engagement &amp; Development:</p>\n<ul>\n<li>Follow up with Guides</li>\n</ul>\n</li>\n<li>\n<p>Professional development</p>\n<ul>\n<li>Clear tasks for new contributors</li>\n<li>Assistance completing beginner bounties</li>\n<li>Matching Areas of interest chosen with WGs and tasks</li>\n</ul>\n</li>\n<li>\n<p>Social development</p>\n<ul>\n<li>Improved TEC lounge as a space for conversation and holistic workshops</li>\n<li>Trivia Game</li>\n</ul>\n</li>\n<li>\n<p>Community building</p>\n<ul>\n<li>Continued Discord maintenance</li>\n<li>Outreach for important community wide decisions</li>\n<li>Awareness through communication: WG’s updates</li>\n</ul>\n</li>\n</ul>\n<p><strong>New Investments:</strong></p>\n<ul>\n<li>\n<p>Onboarding</p>\n<ul>\n<li>New “QuizBot” for Discord engages newcomers with new, fun way to learn about the TEC.</li>\n<li>Checklist for onboarding logistics like account set up, etc. (possibly interactive)</li>\n<li>Updated FAQ on Gitbook.</li>\n<li>Updated FAQ for Guides.</li>\n<li>Improved version of the Orientation deck.</li>\n<li>Ongoing poll on what information is most important to newcomers.</li>\n</ul>\n</li>\n<li>\n<p>Engagement &amp; Development:</p>\n<ul>\n<li>InterestBot automatically routes newcomers in Discord based on their interests.</li>\n<li>Metrics dashboard for member engagement and experience + spreadsheet.</li>\n<li>Improved integration with working groups through support for “Working Group Guides”</li>\n<li>Clear, easy-to-accomplish tasks for new contributors at community and working group level - possibly with beginner bounties.</li>\n<li>Increased integration with TEA in onboarding and engagement.</li>\n<li>Integration of “token engineering flower” into education processes for onboarding and engagement</li>\n<li>Matching Areas of interest chosen with WGs and tasks.</li>\n</ul>\n</li>\n<li>\n<p>Social development</p>\n<ul>\n<li>Initial Community Offering: stimulates initial contributions in a fun, low-key way with prompts aimed at encouraging newcomers to introduce themselves to the community.</li>\n<li>Improved TEC lounge as a space for conversation and holistic workshops.</li>\n<li>TEC Trivia Game</li>\n</ul>\n</li>\n<li>\n<p>Community building</p>\n<ul>\n<li>Improved community-wide communication processes to ease the outreach burden on Communitas Guides and improve our ability to engage:\n<ol>\n<li>Newcomers</li>\n<li>Members</li>\n<li>Token Holders (include Hatchers)</li>\n</ol>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>The Communitas WG will compensate these key roles:</strong></p>\n<ul>\n<li>\n<p>Steward. Facilitate weekly call, Orientation call and the TEC lounge, provide guidance to old and new contributors, represent the WG, have a deep knowledge of the TEC and what is happening across multiple WGs, cross coordination with other WG and other communities. Quarterly review and update to the Manifesto.</p>\n</li>\n<li>\n<p>Community builder. Primarily focused on the Member’s experience and lifetime. Incorporates learnings from other communities and innovate new practices to facilitate and improve each step of the onboarding experience. Leading the pack in DAO onboarding.</p>\n</li>\n<li>\n<p>Guides. Keep track of the newcomers, update the spreadsheet assigned, welcome them through private or public messages and do the required follow up via calls. Keep track of the updates and the required documentation for newcomers.</p>\n</li>\n<li>\n<p>Community Ops. Continuous improvements require someone savvy in the way of discord bots, APIs and other interfaces and connections that allow for customizing the tools we use for more productive community management and smoother onboarding journey. We are budgeting 10 hours a week for this.</p>\n</li>\n<li>\n<p>Special projects. This is a budget set aside for special projects that do not fall under other specific roles. Some examples were listed above. Special projects will be requested and approved by the WG and will be calculated in a number of hours. We are including the Writer’s guild: editing and writing – some on documentation, some on education content, some on copy for bots, and maybe a little bit for a few articles on TEC Medium aimed at bringing in new people.</p>\n</li>\n</ul>\n<p>The compensation will be distributed on a monthly basis, prorated by the number of days of the month. In this proposal, all roles are compensated equally. A tiered compensation structure could be considered for future proposals.</p>\n<p><strong>How does this proposal benefit the community or the field of Token Engineering?</strong></p>\n<p>Communitas WG is nurturing and growing the TEC community while also developing processes, practices and tools that can be reused for other TE communities and other DAOs.</p>\n<p><strong>Amount requested (Only for conviction voting)</strong></p>\n<p>13,149 wxDAI</p>\n<p><strong>Address (multisig):</strong> gno:0x0Fe03A31c0Ab491C287414585d77b15D06547675</p>\n<p><strong>How will these funds be used? (Only for conviction voting)</strong></p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Role</th>\n<th>Expected <span class=\"hashtag\">#hrs</span>\n</th>\n<th>Weekly rate</th>\n<th># ppl</th>\n<th>Weekly rate</th>\n<th>Approx monthly</th>\n<th>Approx 3-month</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Steward</td>\n<td>15</td>\n<td>315</td>\n<td>1</td>\n<td>315</td>\n<td>1365</td>\n<td>4095</td>\n</tr>\n<tr>\n<td>WGCL</td>\n<td></td>\n<td></td>\n<td></td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n</tr>\n<tr>\n<td>Community builder</td>\n<td>10</td>\n<td>210</td>\n<td>1</td>\n<td>210</td>\n<td>910</td>\n<td>2730</td>\n</tr>\n<tr>\n<td>Guides</td>\n<td>20</td>\n<td>420</td>\n<td>1</td>\n<td>420</td>\n<td>1820</td>\n<td>5460</td>\n</tr>\n<tr>\n<td>Community Ops</td>\n<td>10</td>\n<td>210</td>\n<td>1</td>\n<td>210</td>\n<td>910</td>\n<td>2520</td>\n</tr>\n<tr>\n<td>Special projects budget</td>\n<td>N/A</td>\n<td>840</td>\n<td>0.5</td>\n<td>420</td>\n<td>1820</td>\n<td>5460</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Total</td>\n<td>1575</td>\n<td>6825</td>\n<td>20265</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Previous estimated Balance</td>\n<td></td>\n<td></td>\n<td>-7116</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td>Final request</td>\n<td></td>\n<td>13149</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div><p>How will you share progress?</p>\n<p>We seek to keep this process simple and transparent. During the first week of each month, each compensated contributor will post their compensation request on the <span class=\"hashtag\">#Communitas</span> discord tchannel. The post will include their role and work performed and associated github issues. If no objection is raised, the amount will be transferred. If an objection is raised, it will be mediated internally in the WG. If it is not able to be mediated within the WG, a Gravity form will be opened for assistance in mediation.</p>\n<p><strong>Complementary information</strong></p>\n<p><strong>Project information</strong></p>\n<p>Communitas WG <a href=\"https://docs.google.com/document/d/1g9vycoqIZkg83KyRM-7wMeCN-QxZTSfO-Ofq8o7U9pQ/edit\">Manifesto</a></p>\n<p><strong>Team Information</strong></p>\n<p>There will be between 6 compensated roles in the Communitas WG during this 3-month period.</p>\n<ul>\n<li>Eduardo - Steward &amp; Guide</li>\n<li>Vyvy - Community Ops</li>\n<li>Costa - Guide</li>\n<li>Gideon - Community builder</li>\n<li>Writer’s guild members.</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013912",
+    "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-15T17:06:57Z",
+   "updated_at": "2022-06-15T17:06:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The budget to run this proposal is 20.265,00 WXDAI  and the communitas multisig already holds 12.453,00 WXDAI. I Feel the requested amount should consider the carryovers and ask for  what’s needed in the budget. According to those numbers this proposal should request 7.812,00. Wich will also make it easier to pass <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013912",
+    "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-06-15T17:31:02Z",
+   "updated_at": "2022-06-15T17:31:02Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hello there!</p>\n<p>Yes, there will be a remanent, but this proposal is from <strong>July onward</strong>. (The 12k will cover June). We don’t know for sure how much will be left, but most likely whatever is left will be taken off from the final request.</p>\n<p>Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013912",
+    "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-06-24T14:13:34Z",
+   "updated_at": "2022-06-24T14:13:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>We have use your feedback and narrow it down with what we believe is the balance left from the previous funding proposal.</p>\n<p><strong>We are currently requesting: 13,149</strong> (The previous requested amount was of 20k).</p>\n<p>Thanks for your feedback <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013912",
+    "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-06-24T16:31:21Z",
+   "updated_at": "2022-06-24T16:31:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The proposal is on Gardens now: <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/27\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013912",
+    "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220706013912",
+   "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706013912",
+   "url": "https://forum.tecommons.org/t/communitas-wg-second-term-funding-proposal/1052"
+  }
+ ]
+}

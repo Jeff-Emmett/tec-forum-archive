@@ -1,0 +1,66 @@
+{
+ "id": 1316,
+ "title": "Token Census before the TEC Migration to Optimism",
+ "slug": "token-census-before-the-tec-migration-to-optimism",
+ "category_id": 9,
+ "tags": [
+  "optimism"
+ ],
+ "posts_count": 1,
+ "created_at": "2023-11-25T13:54:18.750Z",
+ "last_posted_at": "2023-12-13T02:52:41.969Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2023-12-13T02:52:41Z",
+ "captured_between": [
+  "2024-02-29T11:37:02Z",
+  "2024-02-29T11:37:02Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-11-25T13:54:18Z",
+   "updated_at": "2023-11-25T15:03:31Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>As of November 23, 2023, there are 735 addresses holding TEC tokens. Among these, only nine are contract addresses containing more than 0.15 TEC. Below is a detailed list as of the specified date, with an expectation of changes in the coming days due to individuals moving their TEC away from contracts.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Address</th>\n<th>TEC amount</th>\n<th>Type</th>\n<th>Comments</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0xF41dEFf41016216346270e302DC0a5Dd4913DAdA</td>\n<td>57,797</td>\n<td>Safe Multisig</td>\n<td>\n<a href=\"https://app.safe.global/settings/setup?safe=gno:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA\">Lasertag</a>. 4 of 7 multisig.</td>\n</tr>\n<tr>\n<td>0x71641d6656Ffb673F471EA292Ea09ac528CC4df2</td>\n<td>43,579</td>\n<td>HoneySwap LP</td>\n<td>\n<a href=\"https://info.honeyswap.org/#/pair/0x71641d6656Ffb673F471EA292Ea09ac528CC4df2\">TEC/WATER</a>. 3 holders</td>\n</tr>\n<tr>\n<td>0x98F6A05F0cf0a07c9Cb988ee152F346b34D6B8dA</td>\n<td>30,506</td>\n<td>HoneySwap LP</td>\n<td>\n<a href=\"https://info.honeyswap.org/#/pair/0x98F6A05F0cf0a07c9Cb988ee152F346b34D6B8dA\">TEC/GIV</a>. 6 holders.</td>\n</tr>\n<tr>\n<td>0xfDA4271CdFe69f8f8DF7f39B2248E775166ff632</td>\n<td>6,816</td>\n<td>Gardens Deposit Manager</td>\n<td><a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/collateral\">TEC Deposit Manager</a></td>\n</tr>\n<tr>\n<td>0x5041A1C1DCC760337e99B03DB60FeAF5f6f6c802</td>\n<td>5,196</td>\n<td>Safe Multisig</td>\n<td>\n<a href=\"https://app.safe.global/settings/setup?safe=gno:0x5041A1C1DCC760337e99B03DB60FeAF5f6f6c802\">Blockscience</a>. 2 of 4 multisig.</td>\n</tr>\n<tr>\n<td>0x29567BdBcC92aCF37AC6B56B69180857bB69f7D1</td>\n<td>3,196</td>\n<td>Safe Multisig</td>\n<td>\n<a href=\"https://app.safe.global/settings/setup?safe=gno:0x29567BdBcC92aCF37AC6B56B69180857bB69f7D1\">BCRG</a>. 2 of 6 multisig.</td>\n</tr>\n<tr>\n<td>0x4c8692CC08B14fA8B74B6f313394B8997aAd721d</td>\n<td>1,311</td>\n<td>HoneySwap LP</td>\n<td>\n<a href=\"https://info.honeyswap.org/#/pair/0x4c8692CC08B14fA8B74B6f313394B8997aAd721d\">TEC/HNY</a>. 5 holders</td>\n</tr>\n<tr>\n<td>0x596CE423627AeE56aa73DF29a8d86c2D65C8bf04</td>\n<td>350</td>\n<td>Safe Multisig</td>\n<td>\n<a href=\"https://app.safe.global/settings/setup?safe=gno:0x596CE423627AeE56aa73DF29a8d86c2D65C8bf04\">TEC KYC</a>. 1 of 1 multisig.</td>\n</tr>\n<tr>\n<td>0x2769E63Ebc6cF6E9803eD87aEA125eB596a38f95</td>\n<td>176</td>\n<td>HoneySwap LP</td>\n<td>\n<a href=\"https://info.honeyswap.org/#/pair/0x2769e63ebc6cf6e9803ed87aea125eb596a38f95\">TEC/WXDAI</a>. 7 holders</td>\n</tr>\n</tbody>\n</table>\n</div><p>Analysis of this list reveals three distinct types of contracts:</p>\n<ul>\n<li>\n<strong>Safe Multisigs:</strong> The owners of these multisigs have been contacted to move their TEC or redeploy their safes on the Optimism network, ensuring they receive the migrated TEC there.</li>\n<li>\n<strong>HoneySwap LPs:</strong> The number of tokenholders for these LP tokens is limited, as indicated in the table. We plan to reach out to them individually.</li>\n<li>\n<strong>Garden Deposit Manager:</strong> The deposited amounts will be automatically returned to the respective owners; no further action is required on their part.</li>\n</ul>\n<p>We will overlook 12 contracts that collectively hold less than $0.20 worth of TEC for simplicity’s sake. However, these negligible amounts will still be minted on Optimism to maintain the overall token supply consistency.</p>\n<h2>\n<a class=\"anchor\" href=\"#current-deposit-manager-holders-1\" name=\"current-deposit-manager-holders-1\"></a>Current Deposit Manager holders</h2>\n<p>These addresses will receive their TEC back automatically.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Address</th>\n<th>Amount</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0x2E96053C70a92D9771c076E11fe4dDa87A989fDD</td>\n<td>600</td>\n</tr>\n<tr>\n<td>0xf632Ce27Ea72deA30d30C1A9700B6b3bCeAA05cF</td>\n<td>600</td>\n</tr>\n<tr>\n<td>0x3b067Af83F540cB827825a6Ee5480441a4237E77</td>\n<td>420</td>\n</tr>\n<tr>\n<td>0xaa79B87DC8B046A5E4f7D03F1562D7fe5BF98737</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0xdec0DED0606B7d0560ADEBD6C3a919a671dB4D66</td>\n<td>5</td>\n</tr>\n<tr>\n<td>0x99272DB5353e13c18b711D99d3a8F36ba459f747</td>\n<td>500</td>\n</tr>\n<tr>\n<td>0xcf79C7EaEC5BDC1A9e32D099C5D6BdF67E4cF6e8</td>\n<td>1</td>\n</tr>\n<tr>\n<td>0x91b7377A3Dd7931Ad4757B60d7E859954B939E85</td>\n<td>100</td>\n</tr>\n<tr>\n<td>0x7d547666209755FB833f9B37EebEa38eBF513Abb</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0x0a1f2e1a4585bbf5E54a894FffA74133654BfaDC</td>\n<td>0.01</td>\n</tr>\n<tr>\n<td>0xb760FE1bbC4A2752aBCBb28291a57Cb0cA99fF44</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0x839395e20bbB182fa440d08F850E6c7A8f6F0780</td>\n<td>400</td>\n</tr>\n<tr>\n<td>0x826976d7C600d45FB8287CA1d7c76FC8eb732030</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0xE73a198e7C07c418D7dcFd42f5E953074aBbD125</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0x9690a9E92edadd9a4ff64da25eb6AD60791C37ff</td>\n<td>240</td>\n</tr>\n<tr>\n<td>0xDF290293C4A4d6eBe38Fd7085d7721041f927E0a</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0x2171F0655712Bf4B5B1BcB7Fcb46c1D3386683eA</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0x38f80f8f76B1C44B2beeFB63bb561F570fb6ddB6</td>\n<td>400</td>\n</tr>\n<tr>\n<td>0xB08F0ca73E8A59a1b7970e22B8ed2F9142c3fA53</td>\n<td>300</td>\n</tr>\n<tr>\n<td>0x6897aBe0fD62B589260784B21F4ca3F78A0D8017</td>\n<td>600</td>\n</tr>\n<tr>\n<td>0xA26d6AEB775a9528c012B748ACe66E3B0FD574cE</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0xF8D1d34956cEa24718cf8687588D6FeDbc6d9AA6</td>\n<td>200</td>\n</tr>\n<tr>\n<td>0x763d7D362B59aeA3858a92a302e18cd41b1252d4</td>\n<td>450</td>\n</tr>\n<tr>\n<td>0x47a5BA5BE900fC22AD31BEC4c1ff54Df8e67cd70</td>\n<td>400</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>6816.01</td>\n</tr>\n</tbody>\n</table>\n</div><p>This document constitutes the first deliverable of the technical migration to Optimism</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1296\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/funding-proposal-for-technical-migration-of-tec-to-optimism/1296\">Funding proposal for technical migration of TEC to Optimism</a> <a class=\"badge-wrapper bullet\" href=\"/c/tao-voting/29\"><span class=\"badge-category-bg\" style=\"background-color: #ED207B;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Tao Voting is the voting process by which the Commons can modify its economic and governance settings. It is a very powerful voting application that is capable of performing many high-impact functions like mint and burn TEC tokens, install and remove applications (Modules) in the Commons, modify the parameters of all existing applications (Modules).\">🔐 Tao Voting</span></a>\n</div>\n<blockquote>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR\nThis proposal aims to migrate the TECommons from Gnosis Chain to Optimism. The migration is suggested due to the benefits like reduced friction in buying $TEC, increased access to capital, and potential retroactive public goods funding. As Gardens (currently used by TEC) isn’t available on Optimism, the DAO will transition to Tao Voting DAO on Optimism, which will still be based on the Aragon OS framework and will feature similar functionalities with some adjustments. \n\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal descripti…\n  </blockquote>\n</aside>\n<p>You can find the source code used for gathering this data at:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/CommonsBuild/tec-census/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsBuild/tec-census/\" rel=\"noopener\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" height=\"345\" src=\"https://opengraph.githubassets.com/654b92afc6148df8ee906d5e80d72031c9009af2f4421f92dd55815ad434c694/CommonsBuild/tec-census\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/CommonsBuild/tec-census/\" rel=\"noopener\" target=\"_blank\">GitHub - CommonsBuild/tec-census: This project makes a CSV file of all TEC...</a></h3>\n<p>This project makes a CSV file of all TEC holders, their balances, and if they are a contract or not - GitHub - CommonsBuild/tec-census: This project makes a CSV file of all TEC holders, their balan...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229113702",
+    "url": "https://forum.tecommons.org/t/token-census-before-the-tec-migration-to-optimism/1316"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-12-13T02:52:41Z",
+   "updated_at": "2023-12-13T03:01:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’d like to update the list of contracts holding &gt;0.15 TEC at 12th of December 2023 here:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Address</th>\n<th>Amount</th>\n<th>Type</th>\n<th>Observations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0xF41dEFf41016216346270e302DC0a5Dd4913DAdA</td>\n<td>57797.945682530541299014</td>\n<td>Multisig</td>\n<td>Lasertag</td>\n</tr>\n<tr>\n<td>0x71641d6656Ffb673F471EA292Ea09ac528CC4df2</td>\n<td>48195.399491819372339857</td>\n<td>Honeyswap LP</td>\n<td>TEC/WATER</td>\n</tr>\n<tr>\n<td>0x98F6A05F0cf0a07c9Cb988ee152F346b34D6B8dA</td>\n<td>32951.263735112791243754</td>\n<td>Honeyswap LP</td>\n<td>TEC/GIV</td>\n</tr>\n<tr>\n<td>0xfDA4271CdFe69f8f8DF7f39B2248E775166ff632</td>\n<td>7216.01</td>\n<td>Gardens contract</td>\n<td>Deposit Manager</td>\n</tr>\n<tr>\n<td>0x29567BdBcC92aCF37AC6B56B69180857bB69f7D1</td>\n<td>5668.581087</td>\n<td>Multisig</td>\n<td>BCRG</td>\n</tr>\n<tr>\n<td>0x5041A1C1DCC760337e99B03DB60FeAF5f6f6c802</td>\n<td>5196.811482</td>\n<td>Multisig</td>\n<td>Blockscience</td>\n</tr>\n<tr>\n<td>0xF2130236412b8f6Ed7B19fb9cE6f3F4B8dc12867</td>\n<td>2948.801255237</td>\n<td>Multisig</td>\n<td>Reward Board TEC</td>\n</tr>\n<tr>\n<td>0x4c8692CC08B14fA8B74B6f313394B8997aAd721d</td>\n<td>1516.574726725663674599</td>\n<td>Honeyswap LP</td>\n<td>TEC/HNY</td>\n</tr>\n<tr>\n<td>0x2769E63Ebc6cF6E9803eD87aEA125eB596a38f95</td>\n<td>184.219364679044334172</td>\n<td>Honeyswap LP</td>\n<td>TEC/WXDAI</td>\n</tr>\n</tbody>\n</table>\n</div><p>The previous list didn’t include the <a href=\"https://app.safe.global/?safe=gno:0xF2130236412b8f6Ed7B19fb9cE6f3F4B8dc12867\">Reward Board TEC multisig</a> by an error that happened when we imported the CSV into Google Spreadsheets. We are sorry for the inconvenience.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229113702",
+    "url": "https://forum.tecommons.org/t/token-census-before-the-tec-migration-to-optimism/1316"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229113702",
+   "url": "https://forum.tecommons.org/t/token-census-before-the-tec-migration-to-optimism/1316"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229113702",
+   "url": "https://forum.tecommons.org/t/token-census-before-the-tec-migration-to-optimism/1316"
+  }
+ ]
+}

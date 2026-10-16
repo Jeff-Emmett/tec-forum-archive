@@ -1,0 +1,249 @@
+{
+ "id": 60,
+ "title": "Have a github-activity channel on discord",
+ "slug": "have-a-github-activity-channel-on-discord",
+ "category_id": 10,
+ "posts_count": 12,
+ "created_at": "2020-11-04T16:41:18.810Z",
+ "last_posted_at": "2020-11-15T00:24:01.055Z",
+ "total_known": true,
+ "archived_posts": 13,
+ "archived_numbers": 13,
+ "last_archived_post_at": "2021-07-25T20:57:47Z",
+ "captured_between": [
+  "2021-03-03T02:45:09Z",
+  "2026-01-21T13:30:36Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-11-04T16:41:18Z",
+   "updated_at": "2020-11-04T16:41:18Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I was looking at aragon’s discord and i like this channel they have where they see all pull requests, it’s really easy to do, but you have to have permissions on github i think.<br/>\n</p><aside class=\"onebox stackexchange\">\n<header class=\"source\">\n<a href=\"https://superuser.com/questions/1189901/can-i-integrate-a-discord-channel-with-github-pull-requests\" rel=\"noopener nofollow ugc\" target=\"_blank\">superuser.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://superuser.com/users/358766/stevoisiak\" rel=\"noopener nofollow ugc\" target=\"_blank\">\n<img alt=\"Stevoisiak\" class=\"thumbnail onebox-avatar\" height=\"128\" src=\"https://forum.tecommons.org/uploads/default/original/1X/b24309b681a501185afc64dc0a26385e59c41cb7.png\" width=\"128\"/>\n</a>\n<h4>\n<a href=\"https://superuser.com/questions/1189901/can-i-integrate-a-discord-channel-with-github-pull-requests\" rel=\"noopener nofollow ugc\" target=\"_blank\">Can I integrate a Discord channel with GitHub pull requests?</a>\n</h4>\n<div class=\"tags\">\n<strong>github, discord</strong>\n</div>\n<div class=\"date\">\n  asked by\n  \n  <a href=\"https://superuser.com/users/358766/stevoisiak\" rel=\"noopener nofollow ugc\" target=\"_blank\">\n    Stevoisiak\n  </a>\n  on <a href=\"https://superuser.com/questions/1189901/can-i-integrate-a-discord-channel-with-github-pull-requests\" rel=\"noopener nofollow ugc\" target=\"_blank\">04:36AM - 18 Mar 17 UTC</a>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<br/>\nand here’s a pic of how it looks<br/>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e54b4f6478a0efa2e088fe3b5def736876aa9e50\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e54b4f6478a0efa2e088fe3b5def736876aa9e50.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"wIqGTNzWz6d7Y3ptQlcsU0klVQY\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e54b4f6478a0efa2e088fe3b5def736876aa9e50_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e54b4f6478a0efa2e088fe3b5def736876aa9e50_2_345x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e54b4f6478a0efa2e088fe3b5def736876aa9e50_2_345x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/e54b4f6478a0efa2e088fe3b5def736876aa9e50_2_517x750.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/e54b4f6478a0efa2e088fe3b5def736876aa9e50.png 2x\" width=\"345\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">548×793 74.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-05T11:13:43Z",
+   "updated_at": "2020-11-05T11:13:43Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Love it!</p>\n<p>We should check on a couple things…</p>\n<p><span class=\"hashtag\">#1</span> We will eventually move to our own discord</p>\n<p><span class=\"hashtag\">#2</span> How easy is it to add new repos to the party</p>\n<p><span class=\"hashtag\">#3</span> We might want to have 2 channels, one for all the github activity, and another for Project Management, as we are using this repo to organize work in general: <a href=\"https://github.com/TECommons/Coordination\" rel=\"noopener nofollow ugc\">https://github.com/TECommons/Coordination</a>…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-11-06T18:55:47Z",
+   "updated_at": "2020-11-06T18:55:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Seems like there is no way to add a whole github account, so it is manual, repo by repo, adding a webhook to each repo with an endpoint to the discord channel</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-11-13T19:08:40Z",
+   "updated_at": "2020-11-13T19:08:40Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><span class=\"hashtag\">#1</span> Moving to our own discord</p>\n<p>Separating from the general token engineering community? Personally I’m hesitant on that, I love the comprehensive community that is TE, I think it’s so cool that the commons and the academy are in one place. Is there a forum post or other resource dedicated to this discussion?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-11-15T00:24:01Z",
+   "updated_at": "2020-11-15T00:24:01Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yeah I didn’t understand that, I was thinking since discord is open source maybe <a class=\"mention\" href=\"/u/griff\">@Griff</a> wanted to program “our own discord” ^^</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-14T18:47:40Z",
+   "updated_at": "2020-12-14T18:47:40Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I don’t think Discord is open source.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-15T12:20:38Z",
+   "updated_at": "2020-12-15T12:20:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>yeah, they love open-source but they are not open source, my bad</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-07-12T15:37:07Z",
+   "updated_at": "2021-07-12T15:37:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>That’s true for the outgoing webhook from Github, <em>however</em> there are indeed other ways to integrate something like this to connect Github and Discord. (these are all triggers)</p>\n<p>A relatively straight-forward one would be a github action that runs on <code>issue</code>, <code>pull_request</code>  (which are all events thrown by github, and can be set as triggers on the action) and <code>push</code> and sends a message to github via a webhook.<br/>\nThis should be easily configurable by adding one file in the github repo(in the <code>.github/workflows</code> folder)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-07-12T18:36:28Z",
+   "updated_at": "2021-07-12T18:36:28Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><span class=\"hashtag\">#1</span> Welp we moved ; )</p>\n<p><span class=\"hashtag\">#2</span> If we set up a github action to do this, we’d only need to like add one <code>YAML</code> file in the <code>.github/workflows</code> folder, and that should do it : ) (Other methods might be more or less complex)</p>\n<p><span class=\"hashtag\">#3</span> We could maybe set up two channels. Having one channel logging all the <code>coordination</code> repo stuff would be really cool. It would be like a “keep track of zenhub, while using discord” channel</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-07-13T14:49:13Z",
+   "updated_at": "2021-07-13T14:49:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’m on board with trying this out!</p>\n<p><a class=\"mention\" href=\"/u/krisj\">@KrisJ</a> has looked at zappier as a solution to have github notifications (mentions specifically) sent to Discord DMs though it was too pricey to implement. But this could be really useful too.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-07-13T15:51:36Z",
+   "updated_at": "2021-07-13T15:51:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=9\" title=\":thinking:\"/> The notifications from mentions would be slightly trickier to implement… but should be do-able</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-07-25T20:31:34Z",
+   "updated_at": "2021-07-25T20:31:34Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I set up the channel to keep track of the <code>coordination</code> repo. (It doesn’t track <em>mentions</em>, but just sends event updates via a Webhook whenever something happens in the <code>coordination</code> repo).</p>\n<p>For tracking the mentions etc. we might need to customise and make our own integration on github-actions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-07-25T20:57:47Z",
+   "updated_at": "2021-07-25T20:57:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>AMAZING!! That is great!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260121133036",
+    "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303024509",
+   "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303024509",
+   "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260121133036",
+   "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260121133036",
+   "url": "https://forum.tecommons.org/t/have-a-github-activity-channel-on-discord/60"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": 1157,
+ "title": "Commons Swarm Software Minimal Maintenance",
+ "slug": "commons-swarm-software-minimal-maintenance",
+ "category_id": 7,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2022-10-14T16:02:30Z",
+ "last_archived_post_at": "2022-10-17T15:21:25Z",
+ "captured_between": [
+  "2022-11-26T23:17:02Z",
+  "2022-11-26T23:17:02Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-10-14T16:02:30Z",
+   "updated_at": "2022-10-14T16:02:30Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h3>\n<ul>\n<li>Blossom Labs has been informally maintaining the software made by the dismantled Commons Swarm WG.</li>\n<li>This proposal formalizes and funds Blossom Labs for overtaking the essential maintenance of the software that keeps the TEC decentralized infrastructure running.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h3>\n<p>Commons Swarm, the working group that was in charge of building the decentralized technology that supports TEC, was dismantled after the launch of the Garden and the opening of the Augmented Bonding Curve.</p>\n<p>Since then, there has not been a clear role on who should take care of the deployed infrastructure when it needs to be fixed, and the tasks of maintaining it have been dealt with informally.</p>\n<p>This proposal formalizes the provision of services of the Blossom Labs development team to overtake the tasks of maintenance of the TEC Garden and the Augmented Bonding Curve.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-3\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-3\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>This proposal maintains the basic infrastructure over the one TEC community operates.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-4\" name=\"amount-requested-only-for-conviction-voting-4\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>4,000 WXDAI/year paid to <code>blossomlabs.eth</code>.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-5\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-5\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>The funds will be used to cover work on the TEC garden and ABC software during the following year.</p>\n<p>These are examples of the work made informally until now, without getting retribution:</p>\n<ul>\n<li>Fixing the bonding curve frontend when it stopped working due to an outdated RPC, and fixing the add network modal in Metamask.</li>\n<li>Applying <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/14\">security fixes</a> to the Garden.</li>\n<li>Providing technical advice on how to build the advanced page for the bonding curve.</li>\n<li>Providing the EVMcrispr scripts on changing the vesting for a compromised address.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-6\" name=\"what-does-success-look-like-6\"></a><strong>What does success look like?</strong>\n</h3>\n<p>The described infrastructure should keep working for most users without significant disruption for at least one year or more.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-7\" name=\"how-will-you-share-progress-7\"></a>How will you share progress?</h3>\n<p>Ideally, our job should not cause any big headings because we aim to prevent any significant disruption, but we will post in this same thread of any intervention we do to the software.</p>\n<p>We will also wrap up all the maintenance tasks every 6 months and post a small report here.</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-8\" name=\"project-information-if-applies-8\"></a>Project information (if applies)</h3>\n<p><a href=\"https://github.com/blossomlabs\">Blossom Labs</a> is a developer team specializing in building DAO infrastructure. Its main product is <a href=\"https://evmcrispr.eth.limo\">EVMcrispr</a>, primarily used to modify and operate Aragon DAOs such as TECommons.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-9\" name=\"team-information-9\"></a>Team Information</h3>\n<p>Sem, co-founder of Blossom Labs, and previous tech lead of Commons Swarm, will be responsible for maintaining the Commons Swarm software.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126231702",
+    "url": "https://forum.tecommons.org/t/commons-swarm-software-minimal-maintenance/1157"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-10-17T15:21:25Z",
+   "updated_at": "2022-10-17T15:21:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This proposal is now <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/37\">in the garden</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126231702",
+    "url": "https://forum.tecommons.org/t/commons-swarm-software-minimal-maintenance/1157"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221126231702",
+   "url": "https://forum.tecommons.org/t/commons-swarm-software-minimal-maintenance/1157"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126231702",
+   "url": "https://forum.tecommons.org/t/commons-swarm-software-minimal-maintenance/1157"
+  }
+ ]
+}

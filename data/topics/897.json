@@ -1,0 +1,95 @@
+{
+ "id": 897,
+ "title": "Retroactive Funding for TEC Spotlight Video",
+ "slug": "retroactive-funding-for-tec-spotlight-video",
+ "category_id": 7,
+ "posts_count": 4,
+ "created_at": "2022-02-24T15:06:16.577Z",
+ "last_posted_at": "2022-02-28T00:49:40.408Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2022-02-28T00:49:40Z",
+ "captured_between": [
+  "2022-05-20T08:23:46Z",
+  "2022-05-20T08:23:46Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "twells",
+   "name": null,
+   "created_at": "2022-02-24T15:06:17Z",
+   "updated_at": "2022-02-24T15:06:17Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#retroactive-funding-for-tec-spotlight-video-1\" name=\"retroactive-funding-for-tec-spotlight-video-1\"></a><strong>Retroactive funding for TEC Spotlight Video</strong>\n</h3>\n<p>Hello friends,<br/>\nWe are submitting this proposal to the Forum for Advice Process and look forward to hearing the community’s thoughts.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h3>\n<p>The 1HTV team worked with members of the TEC to create a ~20 min video intended to communicate the central work and values of the DAO. Work on the video production began last December and was completed at the beginning of February.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-3\" name=\"team-information-3\"></a>Team Information</h3>\n<p>(Apologies as I can only @ two ppl/post rn)<br/>\nTEC Team:: <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> @ iviangita @ vegayp<br/>\n1HTV Team: @ twells @ itsyaboi</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<ul>\n<li>\n<em>Tam</em>: overview of the TEC, its values, evolution, and arrival at the commons upgrade.</li>\n<li>\n<em>Mitch</em>: Parameters WG, Dashboard and insights on collaborative economics.</li>\n<li>\n<em>Ivy</em>: Transparency Working Group and its role in fostering trust and accountability.</li>\n<li>\n<em>Edu</em>: Communitas Working group and its focus on DAO culture, onboarding, and retention.</li>\n</ul>\n<p>Final Draft can be viewed here; we have also provided the premiere file in case the TEC T.E.A.M.s would like to make additional edits:<br/>\n<a class=\"onebox\" href=\"https://drive.google.com/file/d/12ZjytXsIoslqRW-BpweJl__NdxGCfc-8/view\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://drive.google.com/file/d/12ZjytXsIoslqRW-BpweJl__NdxGCfc-8/view</a></p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>1000 xDai</p>\n<h3>\n<a class=\"anchor\" href=\"#complementary-information-6\" name=\"complementary-information-6\"></a>Complementary information</h3>\n<p>The original expense was submitted via Giveth Trace as it started in December and was expected to be released in January, prior to the launch of TEC Gardens.  Now that Conviction Voting is live, we would like to request funding retroactively in order to save the estimated $80-$250 gas fees that would be lost using Giveth Trace.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082346",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-spotlight-video/897"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-24T15:49:52Z",
+   "updated_at": "2022-02-24T15:49:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>hey Twells! can you provide a link the to the Giveth TRACE Trace?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082346",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-spotlight-video/897"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "twells",
+   "name": null,
+   "created_at": "2022-02-24T18:00:02Z",
+   "updated_at": "2022-02-24T18:00:02Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>heya <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> , sure thing <img alt=\":+1:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/+1.png?v=10\" title=\":+1:\"/><br/>\n<a class=\"onebox\" href=\"https://trace.giveth.io/trace/tec-spotlight-video-february-2022\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://trace.giveth.io/trace/tec-spotlight-video-february-2022</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082346",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-spotlight-video/897"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-28T00:49:40Z",
+   "updated_at": "2022-02-28T00:49:40Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I fully support (and am pushing for) this solution as it seems unnecessary to use trace to fund things like this since now we can use our Garden and save everyone from the gas fees on mainnet ;-D</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082346",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-spotlight-video/897"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520082346",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-spotlight-video/897"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520082346",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-tec-spotlight-video/897"
+  }
+ ]
+}

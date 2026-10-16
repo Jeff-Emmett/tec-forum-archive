@@ -1,0 +1,100 @@
+{
+ "id": 800,
+ "title": "How should we adjust the ABC to deal with the unknowns presented by Ragequitting?",
+ "slug": "how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting",
+ "category_id": 7,
+ "posts_count": 4,
+ "created_at": "2022-01-08T00:08:14.578Z",
+ "last_posted_at": "2022-01-10T21:22:31.862Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2022-01-10T21:22:31Z",
+ "captured_between": [
+  "2022-01-24T03:13:55Z",
+  "2026-09-05T02:03:45Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-01-08T00:08:14Z",
+   "updated_at": "2022-01-08T05:26:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h3>\n<p><strong>The Facts:</strong></p>\n<ul>\n<li>When making the parameters, we had to make an assumption of how much wxDai and TECH will Ragequit from the HatchDAO.</li>\n<li>We assumed 60,000 wxDai would be rage quit from the HatchDAO</li>\n<li>So far 35,794.758 wxDai has been Ragequit (this also means 47,426.42 TECH tokens were burned)</li>\n<li>We won’t know the final amount of wxDai and TECH tokens until 6 days after the parameter set is chosen.</li>\n<li>This will primarily effect the ABC configuration.</li>\n</ul>\n<p>We have to decide how to adjust the configuration so that the discrepancies made by the unknown amount of Hatcher Tokens and wxDai in the HatchDAO and we have 4 options:</p>\n<p><span class=\"hashtag\">#1</span> - Keep the Reserve Ratio constant, adjust the Opening Price, Initial Buy &amp; Commons Tribute</p>\n<p><span class=\"hashtag\">#2</span> - Keep the Opening Price constant, adjust the Reserve Ratio, Initial Buy &amp; Commons Tribute</p>\n<p><span class=\"hashtag\">#3</span> - Keep the Initial Buy and Commons Tribute constant, adjust the Reserve Ratio &amp; Opening Price</p>\n<p><span class=\"hashtag\">#4</span> - Vary all parameters to get as close to the spirit of the winning proposal as possible</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h3>\n<p>There is one big unknown and that is cause by the ability to ragequit. We assumed 60,000 wxDai and 79,497.26 TECH would be ragequit from the HatchDAO and that’s the number that is represented in all 5 proposals but the chances of guessing it right are very unlikely. We can either have more wxDai and TEC or less of both and this variance will affect the ABC Configuration. In the most recent test deployment the developers held the Reserve Ratio, the Initial Buy, Commons Tribute and Reserve all constant and that made the Opening price 10% higher than expected… this is NOT how we would do it for the launch, we can hold one parameter constant and adjust the other ones to mitigate the drastic change. The developers need community feedback on what is the most important aspects to consider. That’s why we are proposing these four different options for adjusting the actual configuration settings.</p>\n<h2>\n<a class=\"anchor\" href=\"#h-1-keep-the-reserve-ratio-constant-3\" name=\"h-1-keep-the-reserve-ratio-constant-3\"></a><span class=\"hashtag\">#1</span> Keep the Reserve Ratio constant</h2>\n<p>In this approach the focus will be to keep the shape of the curve that means the ABC Overview table will stay the same. We will move along the bonding curve line that was predicted, but the Opening Price, Initial Buy and Commons Tribute will be adjusted to slightly to best follow the spirit of the proposal.</p>\n<h2>\n<a class=\"anchor\" href=\"#h-2-keep-the-opening-price-constant-4\" name=\"h-2-keep-the-opening-price-constant-4\"></a><span class=\"hashtag\">#2</span> Keep the Opening Price constant</h2>\n<p>In this approach the focus will be to make Opening Price match the chosen configuration, and in effect would try to minimize the change to the Reserve Ratio, Initial Buy and Commons Tribute this approach will ensure the Market cap at launch and the number of TEC that are created by the Initial Buy for the Reward Board and the Lasertag Multisig will be as pretty much what the winning configuration proposed.</p>\n<h2>\n<a class=\"anchor\" href=\"#h-3-keep-the-initial-buy-and-commons-tribute-constant-5\" name=\"h-3-keep-the-initial-buy-and-commons-tribute-constant-5\"></a><span class=\"hashtag\">#3</span> Keep the Initial Buy and Commons Tribute constant</h2>\n<p>In this approach the focus will be to keep Initial Buy &amp; Commons Tribute constant, and in effect would try to minimize the change to the Opening Price and Reserve Ratio as little as possible to keep with the Spirit of the proposal. In this case, the ratio between the ABC’s Reserve and the CV’s Common pool would remain the same, and the Reward Board and Laser Tag Multisig would get exactly 250k worth of TEC, but the number of TEC they would get would be different.</p>\n<h2>\n<a class=\"anchor\" href=\"#h-4-vary-all-these-parameters-to-get-as-close-to-the-winning-proposal-as-possible-6\" name=\"h-4-vary-all-these-parameters-to-get-as-close-to-the-winning-proposal-as-possible-6\"></a><span class=\"hashtag\">#4</span> Vary all these parameters to get as close to the winning proposal as possible</h2>\n<p>Just trust the developers to do the best that they can. The devs are going to take the winning proposal and tweak all the above parameters to make the results as close to what was expected by the voters as possible. All the parameters will change a little bit but the outcomes will follow the spirit of the proposal to the best of their abilities.</p>\n<h2>\n<a class=\"anchor\" href=\"#snapshot-vote-is-up-httpssnapshotorgtecommonseth-7\" name=\"snapshot-vote-is-up-httpssnapshotorgtecommonseth-7\"></a>Snapshot vote is up: <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/\">Snapshot</a>\n</h2>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905020345",
+    "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "metaverde",
+   "name": null,
+   "created_at": "2022-01-08T03:43:41Z",
+   "updated_at": "2022-01-08T03:43:41Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> I’m sorry I am not better apprised as to how the different factors work and what the current numbers are in the various proposals.</p>\n<p>The 60k can’t possibly be the number of <em>ragequitters</em>. To what does the 60k refer?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905020345",
+    "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-01-08T05:26:43Z",
+   "updated_at": "2022-01-08T05:26:43Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I edited it to make it a bit clearer.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905020345",
+    "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-01-10T21:22:31Z",
+   "updated_at": "2022-01-10T21:22:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I voted for the devs to choose the best possible route, but I really appreciate the education opportunity and the sharing of this options! Everyday more proud of the TEC &lt;3</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905020345",
+    "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124031355",
+   "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124031355",
+   "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260905020345",
+   "url": "https://forum.tecommons.org/t/how-should-we-adjust-the-abc-to-deal-with-the-unknowns-presented-by-ragequitting/800"
+  }
+ ]
+}

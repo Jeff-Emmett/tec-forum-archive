@@ -1,0 +1,264 @@
+{
+ "id": 146,
+ "title": "Pictosis - NFTs for the Common Good",
+ "slug": "pictosis-nfts-for-the-common-good",
+ "category_id": 7,
+ "posts_count": 9,
+ "created_at": "2020-12-10T16:13:59.833Z",
+ "last_posted_at": "2020-12-29T20:58:13.605Z",
+ "tags": [
+  "funding-proposal"
+ ],
+ "views": 2359,
+ "highest_post_number": 11,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2020-12-29T20:58:13Z",
+ "captured_between": [
+  "2021-01-24T13:04:00Z",
+  "2024-07-24T15:09:07Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-10T16:14:00Z",
+   "updated_at": "2021-11-12T21:40:32Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#pictosis-nfts-for-the-common-good-1\" name=\"pictosis-nfts-for-the-common-good-1\"></a>Pictosis: NFTs for the Common Good</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Proposal Description:</strong><br/>\nBuild supporting infrastructure, toolkits and dApps to enable the collaborative, p2p creation, distribution, and automatic impact-based funding of tokenized digital works.</p>\n<p><strong>Proposal Details:</strong></p>\n<p>Website: <a href=\"https://www.pictosis.org\" rel=\"noopener nofollow ugc\">https://www.pictosis.org</a></p>\n<p>This funding will support Pictosis in building the initial version of the platform, which will be focused on solving problems that arise from creating digital content.</p>\n<h3>\n<a class=\"anchor\" href=\"#the-big-question-should-i-create-3\" name=\"the-big-question-should-i-create-3\"></a>The big question: <em>Should I create?</em>\n</h3>\n<p>The economic problems of the production &amp; distribution of digital goods produce lose-lose dynamics. Digital content is easy to reproduce, the fact of which is a downward force on the willingness of consumers to purchase it. Without access controls and intellectual property protection, all digital goods would reach a zero or near-zero cost. This reduces value creation by hindering both quality and quantity of digital common goods. The fact is that the output of digital production is a digital good which is infinitely inflationary, while the input - time - are inherently scarce. Why does anyone create &amp; distribute in a digital world? Other motivations exist besides money, of course. Many people are intrinsically motivated by the satisfaction of creative action, while others may do it for the reputation or social capital, credibility, the possibility of feedback, or the pleasure of being part of a group. Clearly, creative activity is worthwhile for many people as both leisure &amp; labor (done for non-monetary, yet valuable, future returns).</p>\n<p>If this were the whole story, intellectual property laws &amp; increasingly sophisticated DRM methods would not exist. The situation is far too complicated to fully elucidate in a forum-based proposal. The fact is that digital content, like the people who produce it, is highly diverse and difficult to discuss as a homogeneous collection of fungible items. All of the motivations listed in the above paragraph - and countless others - exist; many do even within the same person.</p>\n<p>While protection of digital content through access controls, law, and DRM can make it easier for the producers to generate revenue, thereby furthering their ability to produce, it is in many ways a self-defeating system. It either hurts the producer directly by introducing additional costs (time &amp; money towards enforcement) or indirectly by reducing the possible impact, exposure, and subjective quality delivered to consumers. It invites ulterior motivations into the processes by enabling profitable behavior at the expense of, rather than for the benefit for, creators. It is costly, so many individual or non-profit creative entities may end up even worse than they were before in the event of a dispute with a far wealthier entity. It produces extra hoops for consumers to jump through and limits the ways in which they can use this content as input into their own production processes. In many cases, the mechanisms used to implement these protective policies, as well as the constraints specified by the policies themselves, produce large enough pressures that ultimately result in a “tragedy of the anti-commons” . In short, we trade one tragedy for another.</p>\n<p>Whether works of authorship (journals, papers, books, magazines, newsletters, etc) of various media (art, music, animations, videos) or interactive applications (some games &amp; software) are, digital goods &amp; creations are by their very nature trivially reproducible. In fact, the very act of granting access is inherently an act of inflation, since access to the content is granted via transmission of the content from the server to the client. When the content is interactive, such as with online games or many SaaS platforms, this problem is somewhat circumvented due to the fact that the content is separate from the intellectual property. In these cases, the intellectual property is not the content delivered to the end-user over time: the intellectual property is the <em>engine</em> that produces the content in the first place. Other forms of work, however, including self-hosted, offline-first-capable software, face the risk of digital reproduction &amp; re-distribution. One solution to this is DRM, the effectiveness of which is not guaranteed and establishes an arms-race style dynamic between the producers &amp; consumers, wherein both sides must continuously advance and out-do the other. This is a sub-optimal solution in the sense that inherently scarce resources, such as time, labor, and capital, must be continually dedicated towards an unnecessary &amp; unproductive competition. It certainly raises the <em>cost</em> of unauthorized reproduction, but, by virtue of this, it also decreases its availability &amp; therefore the scarcity… until it’s bypassed even once. While the producers must succeed every day in fending off unauthorized access to DRM protected content delivered to end users’ devices, those trying to break the DRM need only succeed once in order to completely undermine the DRM’s effectiveness.</p>\n<p>The problem is that no matter the details of the laws, the nature of the DRM or access controls, etc., the fundamental fact that digital goods are not inherently scarce, yet the inputs to their production are, introduces sub-optimal, less-than-ideal dynamics. Pictosis is designed to solve this.</p>\n<p>SaaS businesses work because they can deliver value over the wire without delivering the value-producing machinery. They decouple access and ownership. This is not possible with all forms of digital goods, however. Pictosis works by adding a missing link in the digital creation process, turning it into a sustainable cycle wherein the value that flows from creators to consumers also <em>necessarily</em> flows back to the creators.</p>\n<h3>\n<a class=\"anchor\" href=\"#attribution-4\" name=\"attribution-4\"></a><em>Attribution</em>\n</h3>\n<p>In many open source models, where contributors come and go and where their contributions are more publicly visible, they are better able to take their “credit” with them. Open source models also rely on undetermined revenue-mechanisms that are not <em>necessarily</em> proportional to the value of the product. The attribution problem is greater in private organizations, wherein credit external to the organization is primarily attributed to the organization itself &amp; where contributors only receive credit internal to the organization. This credit is not as visible or portable; when contributors leave, it is more difficult to prove the value of their contributions and it is more difficult to communicate them specifically.</p>\n<p>Open source contribution platforms do make positive steps towards improving the digital commons by providing visible &amp; portable attribution mechanisms. But the attribution is somewhat primitive and based on metrics that are not always accurate proxies towards the value-added. Pictosis NFTs provide granular, portable and verifiable attribution accounting.</p>\n<h3>\n<a class=\"anchor\" href=\"#revenue-5\" name=\"revenue-5\"></a><em>Revenue</em>\n</h3>\n<p>Since digital goods are trivial to replicate, especially those in the digital commons, we must rely on a method other DRM, copyright, or simply “putting it on the blockchain”. While there is a market for cryptoart because members of the community care about the ownership &amp; possession of the <em>NFT as a license</em>. Some have argued against the value of NFTs since it is trivial to copy the digital artwork. Fans have of course responded with the observation that the copy of the artwork does not copy its history, the consensus around it; NFTs maintain provenance.</p>\n<p>While this may be true for cryptoart right now, as NFT capabilities grow more sophisticated and as the need to solve the tragedies &amp; anti-tragedies of the digital commons for other forms of content grow in urgency, provenance alone is not enough. Creators, innovators, knowledge sharer, inventors, all need a way to sustain themselves.</p>\n<p>Pictosis provides NFTs that:</p>\n<ol>\n<li>Can exist off-chain with self-enforcing configurable policies.</li>\n<li>Automatically generate revenue for their creators based on sophisticated and non-homogeneous metrics of impact on and off chain.</li>\n<li>Support governance &amp; collaboration methods from simple to sophisticated, with attribution and distributed issuance capabilities built in. <em>This enables a single platform for all creative needs.</em>\n</li>\n<li>External integration points where independent NFTs can connect to one another to build more sophisticated digital systems and interoperability. This is how Pictosis NFTs evolve into <strong>Non Fungible Systems</strong>.</li>\n</ol>\n<p>With this grant, we will specifically build out the above capabilities necessary for the web 3 publishing house, such that authors will be able to use this to create, collaborate, and collectively earn for their contributions. With this, the first book we will publish on Pictosis is the Hitchiker’s Guide to Token Engineering.</p>\n<h2>\n<a class=\"anchor\" href=\"#for-the-te-commons-6\" name=\"for-the-te-commons-6\"></a>For the TE Commons</h2>\n<p>With Pictosis’s MVP functionality, TEC members can curate books and signal those be published as “TE Commons”. Such a TEC publishing house then could define the rules around how revenue from content engagement can e.g. flow back to the reserve of TEC. The initial rules are always defined by creators.</p>\n<p>With decentralized communities like TEC, knowledge management is a big challenge. Pictosis can provide a collaboration-centric, incentivize knowledge sharing &amp; production platform for the TEC.</p>\n<p>Further, the technical design of the NFTs/ Non-Fungible Systems contribute to the collection of applicable cryptoeconomic patterns that can be applied in other projects.</p>\n<p>Pictosis can support the release of interactive, sophisticated content including courses &amp; applications, smart books, and even inter-NFT networks within the larger Pictosis network.</p>\n<p><strong>Expected duration or delivery date (if applicable):</strong></p>\n<p>We expect this MVP to take 4 months to complete.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-7\" name=\"team-information-for-funding-proposals-7\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<ul>\n<li>\n<p>Myself (Tannr) for technical development</p>\n</li>\n<li>\n<p>The other two founders are Lalo &amp; Xavier (more on their experience below).</p>\n</li>\n<li>\n<p>Sebnem, who leads the Hitchhiker’s Guide to Token Engineering work, for book customization functionality.</p>\n</li>\n<li>\n<p>Shermin Voshmgir for defining &amp; designing the publishing house functionality.</p>\n</li>\n</ul>\n<p><strong>Skills and previous experience in related or similar work:</strong></p>\n<p>I have worked on NFT standards design &amp; protocol development in the Blockchain space. I have experience with formal verification and have gone through the TMG1 as well. I have also used cadCAD already for preliminary models of portions of this system.</p>\n<p>Our cofounders are veterans in the blockchain space as well; Lalo has led community operations for projects for years &amp; Xavier is a well known cryptoartist who is a cofounder of Aavegotchi and the wildly popular Crypto Drinks art campaign that recently launched.</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-8\" name=\"funding-information-for-funding-proposals-8\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p>140,000 (in stable coin)</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong></p>\n<p>0x1A64215D60Ecb90dC4a3466F4B54Ee89B0D25838</p>\n<p><strong>More detailed description of how funds will be handled and used:</strong></p>\n<p>80,000: Development of the MVP, which will be spaced out over milestones.</p>\n<p>20,000: Integrating with cyber-physical publishing &amp; distribution channels</p>\n<p>20,000: Customization features (book chapters, bundles, special editions)</p>\n<p>20,000: Advanced customization ( early adopters who want to publish video, audio, and other text-based content)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-10T20:01:13Z",
+   "updated_at": "2020-12-10T20:01:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Here is the link to the slide deck. Sorry I had to skip so many parts due to time constraints!! <img alt=\":open_mouth:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/open_mouth.png?v=9\" title=\":open_mouth:\"/></p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/presentation/d/1LAKtAJT2Lk47zoVw9mdvK3QJUIzOZxVmYBwjbwH0vrQ/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/presentation/d/1LAKtAJT2Lk47zoVw9mdvK3QJUIzOZxVmYBwjbwH0vrQ/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-slides-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/presentation/d/1LAKtAJT2Lk47zoVw9mdvK3QJUIzOZxVmYBwjbwH0vrQ/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">Pictosis TEC Proposal</a></h3>\n<p>Pictosis MVP Proposal NFTs for the Common Good NFTs for the Common Good</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "HBesso31",
+   "name": null,
+   "created_at": "2020-12-24T11:07:15Z",
+   "updated_at": "2020-12-24T11:07:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Tannr. I like very much the idea of turning IP into NFTs in general. I’ve been working on something similar to Molecule for the past 2 years, but paused it. I’ve done quite some research that might become useful.</p>\n<p>I’ll check the slides during the weekend and come back with other commentaries. Meanwhile, the only thing that gives me noise is the amount of the grant… 140,000 (xUSD?) is a lot of money.<br/>\nDon’t take me wrong, I want that this proposal to pass, could you provide a benchmark of what other similar projects have costed in the past?</p>\n<p>Best wishes and happy holidays!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-26T15:27:07Z",
+   "updated_at": "2020-12-26T15:27:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey thank you for the feedback.</p>\n<p>Just to note, the NFTs on Pictosis are more an <em>alternative</em> to IP rather than another form of <em>IP</em> themselves, with the idea being that IP has become detrimental in general.</p>\n<p>140,000 USD is a small amount given our goals. Pictosis has multiple engineers that will require compensation over the span of months. We also need further &amp; involved assistance from legal engineers which will need to be hired. The integration with other publishing routes will be very costly, and the 20k there is merely to develop the most minimal proof of concept possible with a small fund.</p>\n<p>There aren’t too many similar projects because it’s a really different approach intellectual property. Most blockchain projects approach IP from the angle of providing better provenance and making it easier to enforce, or providing on-platform rent / flexible ownership models. Pictosis instead integrates with the rest of the web, not only provides provenance &amp; novel ownership &amp; monetization models, but is a platform where people &amp; digital “lab” where people can invent entirely new classes of digital goods, microeconomies, distribution methods, etc. From first-order goods like content &amp; art to higher order goods like curation services, publishing houses, games, websites, blogs, communities, and applications. Pictosis is an initial set of applications + the Pictosis protocol, where the latter forms the necessary scaffolding to reduce the friction &amp; risk of open distribution &amp; continuous collaboration on digital goods &amp; content between potentially unknown parties with mechanisms to improve revenue &amp; value-added in more predictable &amp; stable ways than donation-based &amp; traditional open source models.</p>\n<p>Having said that, it is a project operating in the NFT space, intersecting with creative economies &amp; ecosystems, as well as IP (though in a very different way). Similar projects (ones that exist in similar verticals) would be Zora, Molecule, Dada art, etc., the funding of which range from a few hundred thousand to a couple million.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "HBesso31",
+   "name": null,
+   "created_at": "2020-12-26T17:08:28Z",
+   "updated_at": "2020-12-26T17:08:28Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Tannr, thanks for taking the time to answer. I understand the importance of the project, but it still is not clear to me the use of funding. As a reference this detail of <a href=\"https://docs.google.com/spreadsheets/d/13puNG9--yeqi-Kr3Y-OFcgq8tftgzEKma1YNOT6GINM/edit#gid=0\" rel=\"noopener nofollow ugc\">budget</a> from GovBase is a nice example that clarifies very well how will the money be used, as well as on what the calculations are based on.</p>\n<p>I know you are very active in the TEC and the CS, even more than I, so you will understand that the first projects need to set the standard on how funding is being allocated for the ones coming. I truly believe the importance of what you are doing, and that it will be a great public infrastructure to benefit more, therefore the effort on clarifying the budget will provide fruits for the entire team.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-27T02:34:21Z",
+   "updated_at": "2020-12-27T02:34:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Really good idea &amp; you make a great point about setting the standard. I could not agree more!</p>\n<p>I also love the template of the Govbase budget you linked to, so I’ve ported our budget break-down to that format.</p>\n<p>Thanks for bringing that up! Here’s the link: <a href=\"https://docs.google.com/spreadsheets/d/1FeWgIXP7B2XUt5fAlQBrdpChAw3CD-QJLkbMNLp7qVE/edit?usp=sharing\" rel=\"noopener nofollow ugc\">https://docs.google.com/spreadsheets/d/1FeWgIXP7B2XUt5fAlQBrdpChAw3CD-QJLkbMNLp7qVE/edit?usp=sharing</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-29T00:26:53Z",
+   "updated_at": "2020-12-29T00:26:53Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi.  Speaking from previous experience with proposals and budgets, nothing ever goes according to plan.  I really like your budget but I don’t see anything about extra cost and unforeseeable events?  What happens if you lose a dev?  What happens if a bug sets you back?  What can you allocate to this?  Can you rework your budget or should you actually ask for some more?  The devil needs no advocate, you never see him cry…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210301221122",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-29T00:56:08Z",
+   "updated_at": "2020-12-29T00:56:08Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yeah it’s pretty probable unforeseen circumstances will arise. This is the case with, well, any project. My experience is that the buffers help some, but usually more goes wrong than predicted and in unpredictable ways.</p>\n<p>That’s why it’s important to look at the team as well and ask: are these people smart and are they hard workers? Because in the end we will inevitably hit challenges we didn’t specifically prepare for, at which point we have to rely on our own decision making skills and pure grit. I believe our team is strong with both <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<p>Further, we hope that working within a community whose interests are aligned with ours and opening discussions about important decisions with other people in this community will help calibrate our progress toward the vision we have in the most beneficial way for the TE commons</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-29T01:15:04Z",
+   "updated_at": "2020-12-29T01:15:04Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Also, some of the more complex and challenging items in our above-posted budget do include very small over estimations to provide buffers for possible (or likely) complications</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "HBesso31",
+   "name": null,
+   "created_at": "2020-12-29T10:02:41Z",
+   "updated_at": "2020-12-29T10:02:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Great!! Thanks for taking my suggestion in consideration.<br/>\nPlease paste the link of the CV proposal in this section, so everyone can directly go to the TEC and vote <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Tannr",
+   "name": null,
+   "created_at": "2020-12-29T20:58:13Z",
+   "updated_at": "2020-12-29T20:58:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>For sure, here’s the link: <a href=\"https://cv.commonsstack.org/#/proposal/14\" rel=\"noopener nofollow ugc\">https://cv.commonsstack.org/#/proposal/14</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724150907",
+    "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210124130400",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210124130400",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210301221122",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006165448",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006165448",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221017160114",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126232818",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126232818",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240521192532",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521192532",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724150907",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724150907",
+   "url": "https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146/2"
+  }
+ ]
+}

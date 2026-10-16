@@ -1,0 +1,50 @@
+{
+ "id": 909,
+ "title": "Proposal Inverter Dogfood model (Shared PrimeDAO-TEC Proposal)",
+ "slug": "proposal-inverter-dogfood-model-shared-primedao-tec-proposal",
+ "category_id": 7,
+ "tags": [
+  "advice-process"
+ ],
+ "posts_count": 0,
+ "created_at": "2022-03-02T05:01:05.912Z",
+ "last_posted_at": "2022-03-02T05:01:06.213Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2022-03-02T05:01:06Z",
+ "captured_between": [
+  "2022-05-20T07:27:16Z",
+  "2022-05-20T07:27:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Taz",
+   "name": null,
+   "created_at": "2022-03-02T05:01:06Z",
+   "updated_at": "2022-03-02T05:01:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The ‘Proposal Inverter’ (PI) is a high-demand DeFi component since the inception of the DAO ecosystem. The proposal inverter inverts the DAO-proposal relationship. Such that, instead of having many proposals for a single DAO, we will have many DAOs for a single proposal. This enables the collaborative funding of proposals that benefit multiple DAOs throughout the ecosystem. The Proposal Inverter is a collaborated effort by Longtail Financial, PrimeDAO and the Token Engineering Commons. After months of development and weekly iterated feedback, the Proposal Inverter is nearing completion. The remaining work to be done include UI development/testing, smart contract deployment, the recommendation engine and further promotion of the product. The team has been working on a dogfood model, where the team uses the product itself to ensure efficient usability for the client. One can find more details to the dogfood model here:</p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"804\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/ygg_anderson/40/29_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804\">Dogfooding the Proposal Inverter - TEC as a payer(funder/sponsor)</a> <a class=\"badge-wrapper bullet\" href=\"/c/proposals/7\"><span class=\"badge-category-bg\" style=\"background-color: #3AB54A;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"This category is for projects to request feedback through Advice Process and submit proposals to Conviction Voting, Dandelion Voting and Forum Voting. Find the sub-categories descriptions bellow.\">🌱 Proposals</span></a>\n</div>\n<blockquote>\n<a class=\"anchor\" href=\"#dogfooding-the-proposal-inverter-1\" name=\"dogfooding-the-proposal-inverter-1\"></a>Dogfooding the Proposal Inverter\nA joint effort has been underway towards the development of the proposal inverter. Block Science, Longtail Financial, TEC, and PrimeDAO have all contributed resources and talent towards the spec and modelling of the PI. A development series was hosted in the TEC labs, which transformed into a workshop series hosted by PrimeDAO. LTF has been contributing developers, Blockscience produced the initial mathematical spec and model, and PrimeDAO has been pouring gasol…\n  </blockquote>\n</aside>\n<p>\nA joint proposal for the stakeholders of the Proposal Inverter has been under development as well, one can access it through this link:</p><aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/document/d/1zfMhlX53zPoe3u6P9zf8DMnvrG_2O_wmGb1XXo0ZIbA/edit\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/document/d/1zfMhlX53zPoe3u6P9zf8DMnvrG_2O_wmGb1XXo0ZIbA/edit\" rel=\"noopener nofollow ugc\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/document/d/1zfMhlX53zPoe3u6P9zf8DMnvrG_2O_wmGb1XXo0ZIbA/edit\" rel=\"noopener nofollow ugc\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-docs-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/document/d/1zfMhlX53zPoe3u6P9zf8DMnvrG_2O_wmGb1XXo0ZIbA/edit\" rel=\"noopener nofollow ugc\" target=\"_blank\">PrimeDAO Proposal 🤖</a></h3>\n<p>This is a template proposal with guidelines on key aspects you might want to include when writing your proposal. Keep in mind it’s ok to bend or break guidelines — if your proposal doesn’t fit this template, don’t feel the need to follow the...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072716",
+    "url": "https://forum.tecommons.org/t/proposal-inverter-dogfood-model-shared-primedao-tec-proposal/909"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520072716",
+   "url": "https://forum.tecommons.org/t/proposal-inverter-dogfood-model-shared-primedao-tec-proposal/909"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520072716",
+   "url": "https://forum.tecommons.org/t/proposal-inverter-dogfood-model-shared-primedao-tec-proposal/909"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": 1293,
+ "title": "Introducing the TEC Advisory Network (TECAN)",
+ "slug": "introducing-the-tec-advisory-network-tecan",
+ "category_id": 5,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2023-09-22T14:57:34Z",
+ "last_archived_post_at": "2023-09-22T14:57:34Z",
+ "captured_between": [
+  "2023-12-10T23:01:26Z",
+  "2023-12-10T23:01:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-09-22T14:57:34Z",
+   "updated_at": "2023-09-22T14:57:34Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h3>\n<p>Formalizing our ad-hoc, organically grown advisory group into an advisory network with groups and individuals advising on specific focus areas.</p>\n<p><a href=\"https://forum.tecommons.org/t/about-the-advice-process-category/707\">Advice process</a> is a core part of TEC culture. The TEC Advisory Network is a natural evolution of that process. It provides a feedback loop from committed subject matter experts across multiple domains. This structure opens the TEC to new perspective, experience and expertise.</p>\n<h3>\n<a class=\"anchor\" href=\"#background-context-2\" name=\"background-context-2\"></a>Background / Context</h3>\n<p>The Coordination Team is responsible for planning and executing the projects and day-to-day operations that keep the TEC moving forward. Their funding is approved every 4 months via Tao Voting. They are responsible for the success of the <a href=\"https://forum.tecommons.org/t/tec-coordination-team-impact-tracker-report-april-august-2023/1283\">Token Engineering QF matching rounds on Gitcoin Grants</a> recently as well as novel approach to <a href=\"https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23\">incorporate expertise into the QF model</a>.</p>\n<p>With no formal advisory group, the Coordination Team has been relying on an informal group of individuals for strategic advice and subject matter expertise. While it has proven helpful, it would behoove the TEC to extend the breadth and range of advisor accessible to the team.</p>\n<h3>\n<a class=\"anchor\" href=\"#first-introducing-tecan-3\" name=\"first-introducing-tecan-3\"></a>First, introducing TECAN</h3>\n<p>This is the first iteration of formalizing an advisory network for the TEC. It is our starting point.</p>\n<p>The purpose of TECAN is to create a scalable network of committed and trusted advisors to the TEC. The first group in this network is TECAN-Strategy, comprised primarily of the community members that have been active and present in providing advice and support to the Coordination team for the past year. Over time, we envision these group members will change as the TEC attracts new advisors.</p>\n<p>The Coordination Team will work closely with the TECAN-Strategy group to prioritize and plan projects on the 3-9 month horizon and serve as a sort of first line of advice process. Additionally advisors will serve as a bridge to other projects in the ecosystem, and advocates for the TEC and our mission.</p>\n<h3>\n<a class=\"anchor\" href=\"#next-introducing-tecan-strategy-4\" name=\"next-introducing-tecan-strategy-4\"></a>Next, introducing TECAN-Strategy</h3>\n<p>The dual purpose of the TECAN-Strategy group is to provide strategic direction for the TEC and collaborate closely with the Coordination Team on prioritization and planning. For example, an evaluation of TEC migrating to Optimism would be discussed as the first round of advice princess with this group, then move to the forum for community advice process.</p>\n<p>Commitments for TECAN-Strategy (this may differ from future TECAN groups)</p>\n<ul>\n<li>Commitment to serving as advisor 1-year</li>\n<li>Commitment to weekly 2-hour strategic meeting (duration will change as needed).</li>\n<li>Directly support Coordination Team and/or TE Commons initiatives such as TE Stakeholder Study, Bonding Curve Research Group, TE Study Groups</li>\n<li>Direct feedback loops with other advisory groups, as they emerge</li>\n<li>Monthly call open to extended advisors and SMEs.</li>\n</ul>\n<p>Compensation</p>\n<ul>\n<li>Advisory roles are not directly compensated. Their time and effort in giving back to the token engineering community is greatly appreciated. They may, however, still receive Praise, which is distributed in $TEC, by the community.</li>\n</ul>\n<p>TECAN-Strategy group members</p>\n<ul>\n<li>\n<a class=\"mention\" href=\"/u/bear100\">@bear100</a>, coordination team</li>\n<li>\n<a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>, coordination team</li>\n<li>\n<a class=\"mention\" href=\"/u/tamara\">@Tamara</a>, advisor and active collaborator with Coordination Team</li>\n<li>\n<a class=\"mention\" href=\"/u/liviade\">@liviade</a>, advisor</li>\n<li>\n<a class=\"mention\" href=\"/u/griff\">@Griff</a>, advisor</li>\n<li>\n<a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>, candidate for 4-month TE Data Science fellowship</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#lastly-possible-future-tecan-advisory-groups-5\" name=\"lastly-possible-future-tecan-advisory-groups-5\"></a>Lastly, possible future TECAN advisory groups</h3>\n<p>We expect new advisory groups will emerge as needs arise. The next one should be focused on more technical elements of Token Engineering. For example, a TECAN-TE group would provide ongoing subject matter expertise about TE to TECAN-Strategy and the Coordination Team. Some examples might look like: evaluating TE projects submitted to grants programs, evaluating making the ABC arbitrage benefit the Common Pool by closing the ABC to the public, and other topics they may themselves raise to bring onto the radar of the TEC.</p>\n<p>In the medium-to-longer term, we might expect an advisory group focused on governance, reputation or AI. The purpose being to build feedback loops between SMEs and the strategic and tactical groups present in the TEC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20231210230126",
+    "url": "https://forum.tecommons.org/t/introducing-the-tec-advisory-network-tecan/1293"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231210230126",
+   "url": "https://forum.tecommons.org/t/introducing-the-tec-advisory-network-tecan/1293"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210230126",
+   "url": "https://forum.tecommons.org/t/introducing-the-tec-advisory-network-tecan/1293"
+  }
+ ]
+}

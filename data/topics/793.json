@@ -1,0 +1,47 @@
+{
+ "id": 793,
+ "title": "Transparency WG Funding Proposal",
+ "slug": "transparency-wg-funding-proposal",
+ "category_id": 28,
+ "posts_count": 0,
+ "created_at": "2022-01-05T21:32:31.086Z",
+ "last_posted_at": "2022-01-05T21:32:31.378Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2022-01-05T21:32:31Z",
+ "captured_between": [
+  "2022-01-24T03:38:06Z",
+  "2022-01-24T03:38:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-01-05T21:32:31Z",
+   "updated_at": "2022-01-05T21:32:31Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>Proposal title:</strong> Transparency WG 3-month funding</p>\n<p><strong>Period covered:</strong> 3 months</p>\n<p><strong>Proposal description:</strong></p>\n<p>This proposal covers a three month period.</p>\n<p>In case a portion of the budget is unused, it will be carried over to the next proposal, thus the next proposal will be lower.</p>\n<p>The proposed budget will be divided among the contributors of the working group.</p>\n<p><strong>The Tasks and the Budget</strong><br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/6a8aaeaf703e4cce9e618dafda72c89b8d1b863b\" href=\"https://forum.tecommons.org/uploads/default/original/1X/6a8aaeaf703e4cce9e618dafda72c89b8d1b863b.png\" title=\"imagen\"><img alt=\"imagen\" data-base62-sha1=\"fcvJIO7wCvIykpwRstW5jpsSqaT\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a8aaeaf703e4cce9e618dafda72c89b8d1b863b_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/original/1X/6a8aaeaf703e4cce9e618dafda72c89b8d1b863b.png\" width=\"464\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">imagen</span><span class=\"informations\">635×683 29.6 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>How does this proposal benefit the community or the field of Token Engineering?</strong></p>\n<p>This will encourage and provide opportunities for the members to participate in upholding transparency and monitor the activities in the community. Providing equal access to information and involving agents to care for rules that apply to all eliminate the need for external agents and increase the commitment of participants to engage in the advice process. Trust comes when we can comprehend the behavior of other actors by using the same framework.</p>\n<p><strong>Amount requested (Only for conviction voting)</strong></p>\n<p>16956 XDAI</p>\n<p><strong>How will you share progress?</strong></p>\n<p>We will apply the best idea that comes from <a href=\"https://forum.tecommons.org/t/ways-to-keep-the-wg-funding-flows-transparent/788\">here</a></p>\n<p><strong>Team information</strong><br/>\nAcidlazzer<br/>\nFabio<br/>\nIvy<br/>\nJuan<br/>\nNate<br/>\nTam<br/>\nZeptimus</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220124033806",
+    "url": "https://forum.tecommons.org/t/transparency-wg-funding-proposal/793"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124033806",
+   "url": "https://forum.tecommons.org/t/transparency-wg-funding-proposal/793"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124033806",
+   "url": "https://forum.tecommons.org/t/transparency-wg-funding-proposal/793"
+  }
+ ]
+}

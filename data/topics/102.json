@@ -1,0 +1,103 @@
+{
+ "id": 102,
+ "title": "💸 Submit a Proposal for Funding",
+ "slug": "submit-a-proposal-for-funding",
+ "category_id": 12,
+ "posts_count": 3,
+ "created_at": "2020-12-28T23:00:00.000Z",
+ "last_posted_at": "2021-01-22T21:37:26.647Z",
+ "views": 3668,
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2020-12-28T23:00:00Z",
+ "captured_between": [
+  "2021-01-24T13:06:04Z",
+  "2025-05-14T16:08:14Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": "Jessica Zartler",
+   "created_at": "2020-12-28T23:00:00Z",
+   "updated_at": "2021-10-20T09:53:13Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>The Token Engineering Commons is now accepting funding proposal submissions from Token Engineering and related open source projects focusing on TE public goods.</strong> TE project leaders can submit a proposal, get feedback from the TEC community and once the Commons is hatched, submit that proposal to the Commons for a vote to receive the requested funding.</p>\n<p><strong>How to submit a proposal:</strong></p>\n<ol>\n<li>Go to <a href=\"https://forum.tecommons.org/c/proposals/7\" class=\"inline-onebox\">🌱 Proposals - Token Engineering Commons</a>\n</li>\n<li>Click <em>+New Topic</em> and fill out the information in the template</li>\n<li>Join our <a href=\"https://discord.gg/trEBaY5\">Discord</a> and post a link to your proposal in the <strong>Community Hall text</strong> channel</li>\n</ol>\n<p>The submission to the forum enters the Advice Process, collect feedback on the proposal and to provide transparency to the community that can comment and ask questions about your proposal.</p>\n<p>After the Commons Upgrade, proposal authors/project leaders can revise their proposal and submit their final proposal for Conviction Voting by the token holders. (To learn more about Conviction Voting, or see how the process will work watch this <a href=\"https://www.youtube.com/watch?v=6ohUOlBwhek&amp;list=PLusWL9gf0FITLhObprqjHSEnngieil6Kx\">demo from our test app</a>.)</p>\n<p><em>Any questions, contact Communitas Working Group Steward <span class=\"mention\">@eduardovegap</span> (<a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> on Telegram) or ask in the Orientation Discord channel and we’ll be happy to respond <img src=\"https://forum.tecommons.org/images/emoji/win10/grin.png?v=10\" title=\":grin:\" class=\"emoji\" alt=\":grin:\"></em></p>\n<p><strong>Check out the proposals that have been submitted so far:</strong><br>\n<a href=\"https://forum.tecommons.org/t/central-database-django-rest-framework/109\">Central Database — Django Rest Framework<br>\n</a><a href=\"https://forum.tecommons.org/t/govbase-a-database-for-daos-and-other-online-communities/161\">Govbase — A Database for DAOs and Other Online Communities<br>\n</a><a href=\"https://forum.tecommons.org/t/pictosis-nfts-for-the-common-good/146\">Pictosis — NFTs for the Common Good</a><br>\n<a href=\"https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188/4\">Tokenlog–Token-Weighted Backlog</a><br>\n<a href=\"https://forum.tecommons.org/t/tec-labs-production-team-funding/201/10\">TEC Labs–Production Team Funding</a></p>\n<p><em>Projects that submit a proposal also have an opportunity to share their project and give an “elevator pitch” to the community during our weekly</em> <a href=\"https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba\"><em>community call</em> </a><em>on Thursday at 11am PST / 2pm EST / 8pm CET. Contact the Discord Onboarding channel or reach out to <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> to discuss this opportunity.</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250514160814",
+    "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "vegayp",
+   "name": "Eduardo Vega-Patiño",
+   "created_at": "2020-12-08T19:34:55Z",
+   "updated_at": "2020-12-08T19:34:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "visible.disabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250514160814",
+    "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": "Eduardo Vega-Patiño",
+   "created_at": "2020-12-21T16:27:21Z",
+   "updated_at": "2020-12-21T16:27:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "visible.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250514160814",
+    "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210124130604",
+   "url": "https://forum.tecommons.org/t/4-submit-a-proposal-for-funding/102"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210124130604",
+   "url": "https://forum.tecommons.org/t/4-submit-a-proposal-for-funding/102"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207112155",
+   "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207112155",
+   "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319122022",
+   "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250514160814",
+   "url": "https://forum.tecommons.org/t/submit-a-proposal-for-funding/102"
+  }
+ ]
+}

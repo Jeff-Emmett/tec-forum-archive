@@ -1,0 +1,381 @@
+{
+ "id": 1148,
+ "title": "Experiment with a $TEC distribution mechanism to incentivize value creation in TE public good",
+ "slug": "experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good",
+ "category_id": 10,
+ "posts_count": 19,
+ "created_at": "2022-09-30T18:21:52.364Z",
+ "last_posted_at": "2022-11-04T18:16:29.908Z",
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "last_archived_post_at": "2023-03-03T16:49:22Z",
+ "captured_between": [
+  "2022-11-26T23:23:52Z",
+  "2023-05-30T08:47:40Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-09-30T18:21:53Z",
+   "updated_at": "2022-09-30T18:21:53Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<p>Hey <img alt=\":sparkles:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sparkles.png?v=10\" title=\":sparkles:\"/><br/>\nI’m a die hard “token engineer” , I care deeply for TE Commons and especially the TE Community since its very beginning, yet I did not buy into $TEC because I disagreed with a fundamental assumption; and was foreign to TEC (Commonsstack’s) fundamental mindset.</p>\n<p>The differences in mindset from where I originally came from (automate all the things) and Commonsstack which is both about automation (ABC+CV) as well as soft governance (praise and party - educational mostly) helped me to grow personally and as a “token engineer”. Hence even more now, I believe, as is currently, TEC focuses too much on running the TEC (which was needed in the beginning to build it from the ground up) and not sufficiently on <strong>nurturing Token Engineering Commons - the public good</strong>, which is not only what is represented by ABC+CV and its operations.</p>\n<p>I served as a Steward in TEC#0mega, because that is a space that intrinsically motivated and rewarded me as a token engineer: exchanges on figuring out the transdisciplinary art of token engineering, TE Ethics and Ethos. That open and safe space for exchange provides potential for practitioners to learn to live what we value: The intangible public good of TE “Ethical Design for Token Ecosystems”. However, it is near impossible for practicing token engineers to make time to serve for the common - and the common pool cannot possibly measure up to market rates for TEs. So intrinsic motivation, “scratching a TE itch”, is the only economically viable incentive we can provide for TEs.</p>\n<p>To live what we value <strong>fully “Sustainable and Ethical Design for Token Ecosystems”</strong> we also need</p>\n<ul>\n<li>Token Engineering Resources for practitioners</li>\n<li>Learning Resources (and practice spaces) for learners and practitioners</li>\n</ul>\n<p>and people who build these resources. This is where most OG TEs are active, practitioners start their own DAOs and services etc. Which is not only not for profit. So for them part of the motivation is to get support in disseminating these resources. By the way this is where TEC WGs have done a much better job than most TEs if left to their own (engineering) devices! This is an area where I see how some TEC WGs can nurture TE Commons and Community directly through their working on TEC. This is an aspect this can be improved through WG Comms, WG Sampo etc. by collaborating more directly with more of the Builders. If a proposal is CV’ed (and staked on), we should also disseminate the word - that’s a positive sum game.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/daea1818ef5a535da3003aadbe4a08a5c6e5c43e\" href=\"https://forum.tecommons.org/uploads/default/original/1X/daea1818ef5a535da3003aadbe4a08a5c6e5c43e.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"veBDeWoSOCwzqR7kex37ztLOKey\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/daea1818ef5a535da3003aadbe4a08a5c6e5c43e_2_10x10.png\" height=\"403\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/daea1818ef5a535da3003aadbe4a08a5c6e5c43e_2_690x403.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/daea1818ef5a535da3003aadbe4a08a5c6e5c43e_2_690x403.png, https://forum.tecommons.org/uploads/default/optimized/1X/daea1818ef5a535da3003aadbe4a08a5c6e5c43e_2_1035x604.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/daea1818ef5a535da3003aadbe4a08a5c6e5c43e_2_1380x806.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1849×1080 201 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>What works perfectly well as is that builders and TEC ops through stewards and WGs are paid through the Common Pool via signalling Conviction on the proposals.</p>\n<p>What is <strong>missing is a distribution mechanism for $TEC that directly incentivized and increases skin in the game of creating and adding value to the Token Engineering Public Good</strong> - which is not only $TEC and wxDAI in the Common Pool, but also harder to quantify yet obvious values both tangible such as the resources and mindshare of TE as well as the intangible and ultimate public good of “sustainable, ethical Design for Token Ecosystems”</p>\n<p>Since the beginning there was this assumption that there is continuous and sufficient exchange with the ABC that fills the Common Pool through the tributes.</p>\n<blockquote>\n<p>The assumption is “there will be demand”</p>\n</blockquote>\n<p>Now that that assumption is not sufficiently holding due to micro and macro perceptions, there’s an almost automatic reaction to</p>\n<ul>\n<li>find sources of revenue to fill the common pool,  which would risk closing off TE public goods</li>\n</ul>\n<p>I propose something that $TEC holders, builders, TEC WGs can test without the need for costly or time consuming upgrades:</p>\n<ul>\n<li>When you CV with your $TEC on any proposal (TE builders and/or TEC WGs) pledge to share all or a portion of your CV $TEC to stake on the proposal. Then Builders and TEC WGs can decide how to share that $TEC within their groups and on learners/practitioners of Token Engineering.<br/>\nWe will aleviate the issues</li>\n<li>that the wxDAI in common pool is not sufficient, if builders and working groups are into TEC then they will appreciate $TEC</li>\n<li>$TEC will have a wider and more meaningful distribution mechanism; which is more effective in increasing tangible and intangible values of TE (currently we have reward mechanism that only uses praise* which only picks on work on TEC, not on TE public goods)</li>\n</ul>\n<p>If you are convinced you are supporting the right proposals, sharing portion of your $TEC with builders will create value added distribution of $TEC which will increase both tangible and intangible value stocks of TE Public Goods, and that should reflect in the price and demand for $TEC.</p>\n<p>Additional utility can be created by offering for profit services entirely or discounted for $TEC, especially if those services make use of public goods of TE.</p>\n<p>with <img alt=\":blue_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/blue_heart.png?v=10\" title=\":blue_heart:\"/>,<br/>\nsolsista.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2022-10-01T20:31:26Z",
+   "updated_at": "2022-10-01T20:39:22Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>I concur with <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> (but for different reasons), (TL;DR I support a few <strong>simple</strong> rules in combo …)</p>\n<details>\n<summary>\nSummary of past but not relevant to issues now</summary>\n<p>… via behavioural economics, not multiple chicken-shit human regulations. I appreciate what the gravity group is trying to do and without tech, if 20 years ago, it seems appropriate. However, we now have bots, predictive AI and less need for thought police.  <img alt=\":grinning_face_with_smiling_eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grinning_face_with_smiling_eyes.png?v=10\" title=\":grinning_face_with_smiling_eyes:\"/> Example is social signalling, we have praise but if the counterpart is a <img alt=\":-1:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/-1.png?v=10\" title=\":-1:\"/> with SourceCred detecting enough social disapproval, a person can be muted or shunned (from a channel) automagically with only a human judging panel to appeal a permanent ban. Yes, we want a safe place … but too safe and the robust debates (backed by evidence and not ad homien attacks) means stasis. Every Catholic church needs its Luther (or Solstice) … I may be in minority here, but given gravity is already getting outside attention for their training, it may be time to spin them out as a service, leaving space for apprentices to practice community skills in conjunction with say Cvria for  ADR. Then move the legal WG (pretty quiet) to say <a href=\"https://discord.gg/8jHXcHW7\" rel=\"noopener nofollow ugc\">KaliDAO</a> where they can build up <strong>experiential capital</strong> leaving the $10k TEC contingency fund as emergency to get help from Cvria (legal clinic for non-profits). This allows more focus on TEacademy.</p>\n</details>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1148\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>I believe, as is currently, TEC focuses too much on running the TEC</p>\n</blockquote>\n</aside>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1148\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>However, it is near impossible for practicing token engineers to make time to serve for the common - and the common pool cannot possibly measure up to market rates for TEs.</p>\n</blockquote>\n</aside>\n<p>so the perceived <strong>existential threat</strong> of exhausting funds during a crypto-winter is a chance to focus resources on where the <strong>maths tells us</strong> (not our feelings/ego-stroking) is the best parameters to tweak for sustainable growth. I think we can do a bit better than scratching “itch”. If we look how volunteer orgs, how do they <a href=\"https://hbr.org/1989/07/what-business-can-learn-from-nonprofits\" rel=\"noopener nofollow ugc\">motivate volunteers</a> who … frankly … can pick any for-purpose that tickles their fancy? So why come to TEC and not SmartContract Research Forum or stay in TEacademy machintronics  playpen. I put forward the behaviour economics of why we work:</p>\n<ol>\n<li>\n<p><strong>Salary</strong> - need enough to survive, but since TEC is not a tax-funded institution, this is off the table</p>\n</li>\n<li>\n<p><strong>Success</strong>/Satisfaction - personally defined but its related to cultural capital … approval of peers. Perhaps with the new Hall of Fame proposed by magiCaudron (Sampo) this will stem the bleeding.<br/>\n<img alt=\"image\" data-base62-sha1=\"nESPNGXgNqZuRqqL0Yb5dL8fGVR\" height=\"372\" src=\"https://forum.tecommons.org/uploads/default/original/1X/a5d1208ddd4cfa7d0d92a6896dc3a1d9ae5ef393.png\" width=\"677\"/></p>\n</li>\n<li>\n<p><strong>Significance</strong> - this is harder … why climb Mt. Everest (besides its there)? A practitioner of tokenomic design can pick any chain to observe. What can TEC offer as self-declared lab-rats? Admittedly we don’t have permission of the students for ethical reasons but we can do A/B testing on offering the same TEAcademy content in 2 different formats and compare long-term success. The key question now facing DAOs is voter apathy and coupling this with maintaining participation in online classes is a practical outcome – maximise the teacher’s efforts which is not insignificant even if subsidised.</p>\n</li>\n</ol>\n<p>Much praise for a succinct high-level view of $TEC. In maths we trust, all else need validation. As IP broker, I focus on fixed works which come under copyright law (and hence enforceable). Learning materials come under “club goods” which are non-rival but excludable whereas buidlers are more likely to treat tools as private goods (software). We need to compensate those “owners” for putting them into <a href=\"https://www.investopedia.com/terms/r/rival_good.asp#:~:text=Excludable%20goods%20are%20private%20goods,a%20future%20lack%20of%20availability.\" rel=\"noopener nofollow ugc\">commons</a> (rival but non-excludable). It may be $TEC, but it could also be other ceremonial tokens (xref Hall of Fame)</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/462b833014770df18b80f1920b91b6116a515cac\" href=\"https://forum.tecommons.org/uploads/default/original/1X/462b833014770df18b80f1920b91b6116a515cac.jpeg\" title=\"path9\"><img alt=\"path9\" data-base62-sha1=\"a0KEaE2e6oOaruk27ZdGc6vzwp6\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/462b833014770df18b80f1920b91b6116a515cac_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/462b833014770df18b80f1920b91b6116a515cac_2_554x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/462b833014770df18b80f1920b91b6116a515cac_2_554x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/462b833014770df18b80f1920b91b6116a515cac_2_831x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/462b833014770df18b80f1920b91b6116a515cac_2_1108x1000.jpeg 2x\" width=\"554\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">path9</span><span class=\"informations\">1633×1472 230 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div><br/>\nAfter studying <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> masterpiece, I conclude the red flow is where greatest leverage with scarce resources gives the best return (this is a testable hypothesis).\n<ol>\n<li>buidler - learning/resources, we already have CadCad, tokenSpice, etc more R&amp;D doesn’t help in promoting them</li>\n<li>learning_resources - learners … as TEacademy is heavily subsidised AFAIK, this will only accelerate TEC outflow in short-term</li>\n<li>wxDAI - Hodler - with crypto-winter and current <a href=\"https://nomics.com/assets/tec3-token-engineering-commons\" rel=\"noopener nofollow ugc\">price trends</a> I don’t have confidence in raising external funds.</li>\n</ol>\n<aside class=\"quote no-group quote-modified\" data-post=\"1\" data-topic=\"1148\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>Now that that assumption is not sufficiently holding due to micro and macro perceptions, there’s an almost automatic reaction to …</p>\n</blockquote>\n</aside>\n<details>\n<summary>\n... Summary of Steward reactions (been there done that, next)</summary>\n<p>a) panic and think of radical cost-cutting (fortunately suppressed) which is short-termism<br/>\nb) impose a financial diet which is likely to affect the buidler → learner resources → long-term knowledge decay → fewer learners … this works short-term but long-term cost<br/>\nc) revert to convention thinking and possible not being open to <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> alternative logic.</p>\n<blockquote>\n<p>If you are convinced you are supporting the right proposals, sharing portion of your $TEC with builders will create value added distribution of $TEC which will increase both tangible and intangible value stocks of TE Public Goods, and that should reflect in the price and demand for $TEC.</p>\n</blockquote>\n</details>\n<p>So we open the floor for data-driven disputation… Double <img alt=\":gift_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/gift_heart.png?v=10\" title=\":gift_heart:\"/> for <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> in taking the courage to step forward and show us the mirror. <em>If you want to focus-invest something apart from the red line, give me your reasoning.</em> And help brain-storm what deferred compensation might mean in context of $TEC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-10-10T18:59:44Z",
+   "updated_at": "2022-10-10T18:59:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’m still absorbing this, <a class=\"mention\" href=\"/u/solsista\">@Solsista</a>. I think there is something very important about what you’re talking about here.</p>\n<p>At the heart of this question is whether we got it “right” with the current approach we’re taking to raising funds for TE public goods. There is a model that seems to working really well right now and that’s the approach that Gitcoin has taken. The experiment you’re proposing seems to get us closer to what is working there.</p>\n<p>By moving “conviction” from staking to actual donations, we might then be able to explore using the CP xdai could act as a kind of matching fund for augmenting community members’ donations.<br/>\nThese common pool funds would be supported by tributes (like today) as well as (eventual) increases in utility of the $TEC. If we thought big by collaborating with partners, we might even design it in such a way that it’s easy for Gitcoin and others (Ethereum Foundation?) to double, triple, and even quadruple match.</p>\n<p>None of this would be easy, of course. But it does seem that there is something very interesting along the lines of what you are suggesting. The Common Pool is our most important service, and we need to be thinking about how to continually improve it. This is especially true as we assess the state of support for ongoing development of the Gardens code base.</p>\n<p>Thank you for thinking outside the box.</p>\n<p><img alt=\":pray:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-10-10T19:01:09Z",
+   "updated_at": "2022-10-10T19:01:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Pinging <a class=\"mention\" href=\"/u/mertozdal\">@mertozdal</a> - see the original post above by <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> and my comment above. I’m wondering if there is some way of making the proposal inverter serve this use case.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-10-11T08:52:11Z",
+   "updated_at": "2022-10-11T08:52:11Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"1148\" data-username=\"drllau\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/drllau/40/69_2.png\" width=\"20\"/> drllau:</div>\n<blockquote>\n<p><em>If you want to focus-invest something apart from the red line, give me your reasoning.</em> And help brain-storm what deferred compensation might mean in context of $TEC.</p>\n</blockquote>\n</aside>\n<p>so that’s where the ABC works: it helps people signal their preferences without having to run political campaigns and debate their reasoning (but if you want her’s my reasoning: some TEC WGs and their Stewards, especially SoftGov and Stewards, brought in human-centric perspective, which engineering-heavy TEs were missing  (“automate all the things”); 0mega is gravitating now towards nature-based systems, and most networks out there are missing out on; there are diamonds in the rough within TEC experience, if we can christallize the learning and add to TE Public Good… now that will be a game changer towards more Ethical Design of Token Ecosystems).<br/>\nAnd learners &lt;&gt; practitioners - seriously it’s sad: most orgs runway goes towards educating people to think and deploy in complex adaptive networks. This has not changed one bit in the past years for Regens. You can find ppl who can fix up a financial model (staking etc.) but you don’t find people who do not despair at the complex left over problems of global capitalism. Again, here TE/TEC must not do themselves the simple “number go up”- engineering when it comes to learners and practitioners, if we are not only valuing economically sustainable, but ethically sustainable ecosystem design.</p>\n<p>However, I concur with you wrt prioritization:<br/>\n<span class=\"hashtag\">#1</span> (now that the TEC is up and running) : TE Resources for Practitioners<br/>\n<span class=\"hashtag\">#2</span> TEC WGs we want to add the TEC wisdom/experience into the TE public goods, i.e. this imv is TE Resource for practitioners<br/>\n<span class=\"hashtag\">#3</span> learners conditional on becoming practitioners with positive impact on sustainable ethical design</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-10-11T09:30:18Z",
+   "updated_at": "2022-10-11T09:30:18Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1148\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>staking to actual donations,</p>\n</blockquote>\n</aside>\n<p>I don’t see it as donation - unless a $TEC holder gives away all their holdings; or a lot more such that any appreciation due to utility didn’t make up for their staking. And maybe to clarify, I don’t think current CV is staking, you don’t really loose out on anything when you park your $TEC temporarily (there’s nothing else you could do with it atm) - but you also do not participate in the proposal moving forward. So here $TEC can benefit from participants having more skin in the game, and if $TEC benefits, $TEC holders benefit.</p>\n<p>If this was a possibility, an example strategy would be to buy some - hold some - share some; I would also promote good projects that will add value to the TE space to propose here to become $TEC holders - which makes them also have more skin in the game etc.</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1148\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>ongoing development of the Gardens code base.</p>\n</blockquote>\n</aside>\n<p>yes definitely</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1148\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>easy for Gitcoin and others (Ethereum Foundation?) to double, triple, and even quadruple match.</p>\n</blockquote>\n</aside>\n<p>Liquidity pools with their tokens [but that likely won’t work on Gnosis Chain].<br/>\nLiquidity pools with similar partners on Gnosis Chain - is like ecosystem staking. To do that they would need to see the benefits of supporting TE Public Goods (which Gitcoin in/directly has, if I remember correctly).</p>\n<p>So yes:</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1148\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>At the heart of this question is whether we got it “right” with the current approach we’re taking to raising funds for TE public goods.</p>\n</blockquote>\n</aside>\n<p>And all of us should be in this experimentation mindset: we know when we get there, but until then we need to keep experimenting, and we need $TEC holders active and participating if we’re all in this assumption:</p>\n<p><em>There is a way to fund public goods that does not depend on the wealthy making donations, but the wealth of the network.</em></p>\n<p>The TE network: Commons &amp; Community, and its ecosystem (networks and orgs that value token engineering and benefit from) is a very wealthy network, incl. some of the 8 forms of wealth:</p>\n<ol>\n<li>Circle of Geniuos: creative polymath index through the roof</li>\n<li>Craft: loving what you do</li>\n<li>Service: open sourcing what you do</li>\n<li>Adventure: like figuring out a way to fund public goods that increases ownership and participation</li>\n<li>Self Mastery: know thyself, natural side effect of incentive mechanism design if you’re curious and courageous<br/>\n(+ the basics: health, family, money, where individuals are their own wealth managers)</li>\n</ol>\n<p>As always you are very good at pointing to the essence <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>:</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1148\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>These common pool funds would be supported by tributes (like today) as well as (eventual) increases in utility of the $TEC.</p>\n</blockquote>\n</aside>\n<p>We would need to identify 1-3 proposals and $TEC holders ready to experiment, to re/de/fine the experiment; without disrupting what is working well.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-10-11T20:49:12Z",
+   "updated_at": "2022-10-11T20:49:12Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>From a practical standpoint, the request for someone to sacrifice a portion of their TEC holdings as a requirement for supporting the funding of a TE Project will reduce an already abysmal voter turnout to almost nothing.  If this was a voluntary activity, I would not mind.  However, the ability to implement this is not an insignificant undertaking, coupled with the codebase concerns brought up by <span class=\"mention\">@Gideon</span>.</p>\n<p>The underlying intent of the distribution mechanism proposed by <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> is to “incentivize and increase skin in the game” for adding value to TE Public Goods.  I really like the idea that Gideon proposed with Gitcoin (imagine a matching mechanism on Gitcoin, where a set of proposed TE Projects can receive a 3x wxDai (Common Pool) match based upon the amount of TEC donations they receive).  This would incentivize supporters of these projects to purchase TEC, and donate them to these projects as a method of sponsored funding.</p>\n<p>At the heart of this proposal, the goal is to continuously place TEC in the hands of projects that create value for the Commons, while simultaneously providing funding for their cause.  The current CV mechanism is unable to accommodate this proposal imo.  I think there are other avenues that we can explore that capture this intent without imposing restrictions on signaling mechanisms such as CV.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-10-12T06:55:10Z",
+   "updated_at": "2022-10-12T06:55:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1148\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>If this was a voluntary activity</p>\n</blockquote>\n</aside>\n<p>It is. The experiment - as mentioned - without disrupting the current process piggy backs on CV; with proposal and supporting participants committing to this experiment, and e.g. depositing portion of their CV’d $TEC directly onto proposals’ account. Of course the experiment would be accompanied by participants and others analyzing the process, and specifying what changes if any need to be made.</p>\n<p>We can also test the avenue with the Gitcoin - however, I do not see how $TEC distribution will work through Gitcoin. Again, in the Gitcoin proposal, the proposer can offer wallet address to receive $TEC.<br/>\nThe distribution mechanism needs to distribute $TEC meaningfully, not only pay for expenses - but actually issue a receipt of provision to the Commons by sharing $TEC that represents co-ownership in the TE Commons. That is a crucial part of the intention behind proposing this experiment - which can in any case be run over the top of current infrastructure, at first. But with the insights gained, a technical specification can be made to <em>improve</em> ABC+CV together with participants and software engineers.</p>\n<p>Here is the original <a href=\"https://medium.com/giveth/deep-dive-augmented-bonding-curves-3f1f7c1fa751\">writeup of ABC from 2019</a>. In the meantime the space experienced with effects of staking.</p>\n<p>A potential reason for the low voter turnout could be due to the current “nothing at stake” implementation of CV. People participate if they see meaningful distribution possibility, and ability to shape direction and cohesion of the effort. Which is the reason, for example, I did not buy into $TEC yet.</p>\n<p>Again, voluntary over the top experiments like this always need a group of people on proposal and on $TEC holder side committing to this for the sake of gaining more insights - else it will remain an idea.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-10-12T07:08:58Z",
+   "updated_at": "2022-10-12T07:08:58Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1148\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>The current CV mechanism is unable to accommodate this proposal imo.</p>\n</blockquote>\n</aside>\n<p>if we found that this (or an entirely different idea or insight that may come along) actually is an <em>improvement</em> then the infrastructure needs to be able to accommodate it. “<a href=\"https://docs.google.com/presentation/d/1eBXcfNhu4wEAHed4VR8_4z58qjOGYN2wzhPOIgM8n7w/edit#slide=id.gd5349a5b2a_0_312\">Avoiding change</a>” is one of the no-gos, it doesn’t fit into the Ethos nore Ethics of Token Engineering (coming from CompSci &amp; software engineering). Of course, change costs, but change for the better is always an investment that pays off.</p>\n<p>I can imagine that reluctance is related to “but how are we going to pay for all of this?!” -again, that precisely is what needs solving. This is still a hypothesis after 2 years, but one I’m not willing to give up:</p>\n<p><em>if TE Commons reaches a point where it provides (many forms of wealth) for Token Engineers, then those practitioners will put their skills and resources in service of the Commons</em> and gain continuous co-ownership represented by $TEC - rather than 1wxDAI, because that represents only 1USD.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-10-13T00:35:20Z",
+   "updated_at": "2022-10-13T00:35:20Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I am so very glad that you are catalyzing this conversation, <a class=\"mention\" href=\"/u/solsista\">@Solsista</a>.</p>\n<p>Sometimes, I describe the curation service as our first TEC service, but that is really not true. The ABC and the Gardens were our first services - and like any service with any real utility, they will need to adjust to the signals we’re getting from their users. We’re getting some strong signals, and we need to start listening.</p>\n<p>One thing I think we should all be really clear on revolves around this:</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"1148\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>There is a way to fund public goods that does not depend on the wealthy making donations, but the wealth of the network.</p>\n</blockquote>\n</aside>\n<p>From the perspective of funding public and common goods, the greatest resource that the TEC could one day bring to bear is a network of really smart people with a well-balanced set of expertise around token engineering. With that, the TEC’s Common Pool and the protocols we develop around it will be a very attractive mechanism for large funders to use in making sure their funds get to the most impactful projects. This is how we become a powerful re-granting service for the field.</p>\n<p>But for that to happen, we need to be able to attract and engage people with that kind of expertise much better than we are doing today. Having wealthy token holders calling the shots does not serve that kind of wisdom of the commons. That also means really prioritizing things like quadratic funding and sybil resistance.</p>\n<p>I’ve got a feeling that this is a longer-term project, but we need to start thinking about these things now and putting some plans together to ensure that our first two services remains healthy and capable of fulfilling the full impact of our mission, vision, and values.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "mertozdal",
+   "name": null,
+   "created_at": "2022-10-19T19:10:25Z",
+   "updated_at": "2022-10-19T19:10:25Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1148\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>funds would be supported by tributes (like today) as well as (eventual) increases in utility of the $TEC. If</p>\n</blockquote>\n</aside>\n<p>Hey <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>, thank you for the message !</p>\n<p>I believe the matching among organizations can be conducted through Inverter. As the whole idea of Inverter is easier co-funding/working, it is a very nice way to utilize it.</p>\n<p>When I see the post, I got super happy because in our backlog we are planning to automize an investment model which we call a convincing model that is very similar to what you describe !! The conviction model can be defined as investing in a project based on who previously invested in that project. The more trusted funders a project has, the more you “signal conviction” for your funder. Imagine TEC had an agreement with ETH Foundation stating that ETH Foundation will grant projects that got funds from TEC.</p>\n<p>I would love to sync whenever you want on that matter !!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-10-31T21:29:21Z",
+   "updated_at": "2022-10-31T21:36:12Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I took some time to read over this proposal - At first I didn’t like it but then I started doing the TE fundamentals course and I got a look at the big picture that is missing in the system - places where users need to spend $TEC to complete an action that aligns with their interests.</p>\n<p>Rereading this proposal I actually like it a lot. I could envision a feasible system working like this:</p>\n<ol>\n<li>$TEC holders vote on TE proposals they care about in CV</li>\n<li>Proposal passes - 3% of the $TEC that each user staked is taken and burned on the ABC - wxDAI is minted</li>\n<li>The minted wxDAI goes to the Common Pool along with the exit tribute levied on burning $TEC - this is a double whammy for our common pool.</li>\n<li>Rewards budget is allocated in wxDAI from common pool</li>\n<li>Rewards WG converts wxDAI into $TEC, the entry tribute is levied and sent to the common pool.</li>\n<li>Praise is dished and active contributors are rewarded with $TEC.</li>\n<li>Rinse and repeat.</li>\n</ol>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/b475c097720f8e995a9570674daf810f590b0116\" href=\"https://forum.tecommons.org/uploads/default/original/1X/b475c097720f8e995a9570674daf810f590b0116.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"pKqe7Ps5Ct2NpPGoMflM1b1oxyC\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/b475c097720f8e995a9570674daf810f590b0116_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/b475c097720f8e995a9570674daf810f590b0116_2_577x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/b475c097720f8e995a9570674daf810f590b0116_2_577x500.png, https://forum.tecommons.org/uploads/default/original/1X/b475c097720f8e995a9570674daf810f590b0116.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/b475c097720f8e995a9570674daf810f590b0116.png 2x\" width=\"577\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">828×717 47.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>This provides a few interesting features:</strong></p>\n<ol>\n<li>$TEC whales don’t forever remain whales. By participating you gradually reduce your holdings - you gain more by creating value for TE or TEC and getting praised (or any future reward mechanisms).</li>\n<li>You create a place where holders can “spend” their tokens that is not the open market. Where people have to spend then this creates a demand for more.</li>\n<li>We create more points in the system where we are levying the ABC for tributes - highlighting our unique system.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-11-01T16:36:05Z",
+   "updated_at": "2022-11-01T16:36:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’d be on board to trial something like this.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-11-03T23:41:32Z",
+   "updated_at": "2022-11-04T00:22:47Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I appreciate everyone’s ideas, but I’m on the same camp as <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> on this one. In my eyes, though the proposal is cool in theory, its biggest pain point is the transactions tax placed on expressing conviction. I’m not sure whether it’s a pill worth swallowing. The following problems came to mind:</p>\n<ul>\n<li>\n<p>Just like a sales tax, it will also compound on the whole of the stock used in every proposal - disproportionately impacting smaller proposals, as it’s less burdensome tax-wise to do one big one rather than small ones. Is this desirable?</p>\n</li>\n<li>\n<p>Our conviction is already decreasing over time, and people have the right to just refuse to vote. Imo the mechanisms proposed do not take this enough into consideration. In fact, such a proposal is extremely distortive, as it promotes becoming disinterested with our mission and not voting at all. He who benefits most is the speculator, over and above the active participant.</p>\n</li>\n<li>\n<p>I see the incentive structure proposed here could even have the drastic impact of freezing our common pool, as it’d engender strong NIMBYism in the Commons, where “it’s cool but I wouldn’t lose my money for it”.</p>\n</li>\n</ul>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/1c0cdbc38607904ddd37aec594acd629cde0e0b1\" href=\"https://forum.tecommons.org/uploads/default/original/1X/1c0cdbc38607904ddd37aec594acd629cde0e0b1.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"408UVRGoYjEu3r8DrdUGkKKi4xj\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/1c0cdbc38607904ddd37aec594acd629cde0e0b1_2_10x10.png\" height=\"224\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/1c0cdbc38607904ddd37aec594acd629cde0e0b1_2_690x224.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/1c0cdbc38607904ddd37aec594acd629cde0e0b1_2_690x224.png, https://forum.tecommons.org/uploads/default/optimized/1X/1c0cdbc38607904ddd37aec594acd629cde0e0b1_2_1035x336.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/1c0cdbc38607904ddd37aec594acd629cde0e0b1_2_1380x448.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1599×520 55.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<ul>\n<li>On the percentage chosen - Just so we’re aware of volumes, in order to pass a $21,000 WXDAI proposal, we need 8.02% of the TEC to vote. If we’d be asking to burn 3% of that, at $1.06 per TEC, that’d be currently 5,360 TEC, so we’re talking ~5,700 XDAI, i.e. 27% of the volume coming out of token holder’s hands and into the common pool. I think with smaller proposals the percentage would be larger still. Has there been much analysis on playing around with this percentage, e.g. going down to 1, or 0.3%? Or is this deemed a good amount by all?</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-11-04T14:07:06Z",
+   "updated_at": "2022-11-04T14:07:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I think another way to look at it, is that over 25% of the funding burden would be alleviated by the vote. It would also force people to consider how much support they throw behind a proposal, as that would affect how much is taxed. This might have a chilling effect on proposals, but that is a good signal to understand as well, right? That’s why we would trial something, and maybe as you said with a lower percentage, but the intent is to engage with more meaningful support of proposals right?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-04T14:09:53Z",
+   "updated_at": "2022-11-04T14:09:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think the $TEC is an unfortunate case where most of the whales who bought in at the Hatch are not active in voting or commons governance. This has lead to bad voter apathy. We have a solid 28-30% of the voting supply sitting in the abstain proposal and a large majority in there has not budged for quite a while!</p>\n<p>Also I think the tough part is getting people to value the governance aspect over the monetary aspect. How might under different conditions a system like this might actually work? Maybe if the $TEC had no monetary value it could work, or perhaps if praise rewards wasn’t one’s only means of compensation. Or perhaps if we had more TE focused proposals.</p>\n<p>Also on the other end of the system we do have the ability to modify our CV parameters to make proposals easier to pass.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-11-04T18:09:23Z",
+   "updated_at": "2022-11-04T18:09:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"14\" data-topic=\"1148\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/rex/40/864_2.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>eed 8.02</p>\n</blockquote>\n</aside>\n<p>thanks <a class=\"mention\" href=\"/u/rex\">@rex</a> for this! yes, I have not taken into account the current implementation of CV at all - if you could point me to its current implementation, you gave me finally enough motivation to peak into it <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> Again, this isn’t a proposal to change anything drastic yet at all - but an idea to experiment with “over the top” distribution of $TEC. We can do the experiment with the TE Consilience Library, just to learn about all the inhibitors + test whether more skin in the game is at all making a difference to the supporter as well as the proposal('s outcome).</p>\n<p>Only if sth. considerably is moving (motivating higher quality outcomes for the commons) more proposals and supporters could experiment with over the top $TEC distribution, and in parallel we can analyze what it means with the current implementation of ABC+CV. Layout the trade-offs and invite OG designers &amp; engineers to evaluate and improve.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-11-04T18:15:19Z",
+   "updated_at": "2022-11-04T18:15:19Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"16\" data-topic=\"1148\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>s if we had more TE focused proposals.</p>\n</blockquote>\n</aside>\n<p>this is where this idea of an experiment is getting at - and bases it on the assumption that “apathy” (non-participation) may be directly related to our initial focus on getting the infra up and running (ABC+CV and culture/ops thereof), but now we need more production into the TE public good, which are “knowledge products.” … Like you want to be known as having supported e.g. the next cadCAD or TokenSPICE release, the next round of TE Fundamentals, or the TE Consilience Lib etc. and that some of your initial $TEC is now circulating through the use of those public knowledge infra goods.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-11-04T18:16:29Z",
+   "updated_at": "2022-11-04T18:16:29Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"18\" data-topic=\"1148\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>some of your initial $TEC is now circulating through the use of those public knowledge infra goods.</p>\n</blockquote>\n</aside>\n<p>note: this is a nice mech, UX/environment-wise</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-03T16:49:22Z",
+   "updated_at": "2023-03-03T16:49:22Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>here is a concrete proposal that can be augmented with this experiment idea: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/token-engineering-stakeholder-study/1207/2\">Token Engineering Stakeholder Study - #2 by Solsista</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530084740",
+    "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221126232352",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126232352",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401015744",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401015744",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530072041",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530072041",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530084740",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530084740",
+   "url": "https://forum.tecommons.org/t/experiment-with-a-tec-distribution-mechanism-to-incentivize-value-creation-in-te-public-good/1148/20"
+  }
+ ]
+}

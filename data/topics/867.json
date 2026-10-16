@@ -1,0 +1,47 @@
+{
+ "id": 867,
+ "title": "PSA: TEC Meeting Protocols, Terms, and Disclaimers",
+ "slug": "psa-tec-meeting-protocols-terms-and-disclaimers",
+ "category_id": 1,
+ "posts_count": 1,
+ "created_at": "2022-02-07T16:27:39.420Z",
+ "last_posted_at": "2022-02-07T16:27:39.780Z",
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2022-02-07T16:27:39Z",
+ "captured_between": [
+  "2022-05-20T06:29:26Z",
+  "2022-05-20T06:29:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-07T16:27:39Z",
+   "updated_at": "2022-02-14T16:28:56Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>This forum post is just a reminder that the calls are being recorded and these are the meeting protocols, terms and disclaimers.</strong></p>\n<p>TEC Meeting Protocols, Terms, and Disclaimers</p>\n<p>The Token Engineering Commons or TEC (“we”, “us”, “our”), a blockchain-based entity on the Ethereum/xDai network, encourages proactive transparency. Our online meetings may be live streamed/recorded and/or published on any of our official communication channels or materials for transparency and/or social engagement purposes.</p>\n<p>By attending a TEC Meeting and/or utilizing the platform in which such meetings are being held, the participant agrees to be recorded and allows the use of the recorded material and its content as described in this document, as well as the General TEC Engineering Commons Terms of Use, which can be consulted at anytime in this <a href=\"https://docs.google.com/document/u/0/d/1voxAC_XZfbElTF8NRDTrB4Kaz3Js2J9ShvHx5FsUcdA/mobilebasic\">link</a>.</p>\n<p>Protocols</p>\n<p>The participants of the calls are expected to follow the <a href=\"https://forum.tecommons.org/t/protocol-for-tec-calls/186\">TEC call protocol</a>.</p>\n<p>Terms and disclaimers</p>\n<ul>\n<li>Participants may not receive a notification when recording is enabled,. If you do not consent to being recorded, you can choose to not attend or leave the meetings at any time.</li>\n<li>While we advocate transparency, we ensure that no sensitive/confidential information, such as contact details, will be shared publicly.</li>\n<li>The participants are expected to protect sensitive information when sharing their screens. The TEC will not be held liable for leaks of sensitive information.</li>\n<li>The participants are discouraged from recording the calls without the Transparency WG’s consent. The TEC will not be held liable for any videos recorded.</li>\n<li>Participants’ personal opinions and comments on matters of public interests do not represent the TEC as an organization.</li>\n<li>Published content should never be used for commercial purposes.</li>\n<li>The TEC mainly relies on Discord, Zoom, and other similar platforms for our online meetings, as well as different channels (such as but not limited to Youtube and Twitter) for our communications and community engagement. In case of cyber attacks on these platforms, the TEC shall not be held accountable. We will also not be responsible for any loss, misuse, or deletion of content or any failure of any content to be encrypted, stored or distributed.</li>\n<li>The TEC will not be held liable for stolen and misused content (e.g. memes). Once the meeting recordings are published, others may republish the content but we are not responsible or necessarily capable to respond to requests to censure this data.</li>\n</ul>\n<p>!praise <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> <a class=\"mention\" href=\"/u/santigs\">@santigs</a> for this doc</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062926",
+    "url": "https://forum.tecommons.org/t/psa-tec-meeting-protocols-terms-and-disclaimers/867"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520062926",
+   "url": "https://forum.tecommons.org/t/psa-tec-meeting-protocols-terms-and-disclaimers/867"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520062926",
+   "url": "https://forum.tecommons.org/t/psa-tec-meeting-protocols-terms-and-disclaimers/867"
+  }
+ ]
+}

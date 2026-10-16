@@ -1,0 +1,458 @@
+{
+ "id": 749,
+ "title": "TE Fundamentals (TE Academy)",
+ "slug": "te-fundamentals-te-academy",
+ "category_id": 7,
+ "posts_count": 25,
+ "created_at": "2021-12-17T19:25:10.738Z",
+ "views": 469,
+ "last_posted_at": "2026-06-24T00:41:53.321Z",
+ "tags": [
+  "funding-proposal"
+ ],
+ "highest_post_number": 15,
+ "closed": false,
+ "archived": false,
+ "more_after": 20,
+ "total_known": true,
+ "archived_posts": 24,
+ "archived_numbers": 24,
+ "last_archived_post_at": "2022-08-25T16:44:25Z",
+ "captured_between": [
+  "2021-12-18T12:26:56Z",
+  "2023-02-04T01:31:28Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2021-12-17T19:25:11Z",
+   "updated_at": "2021-12-17T19:25:11Z",
+   "reply_to_post_number": null,
+   "like_count": 22,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#token-engineering-fundamentals-1\" name=\"token-engineering-fundamentals-1\"></a>Token Engineering Fundamentals</h1>\n<h2>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h2>\n<p>TE Academy will build the first bachelor-level education program and NFT-based certification, open job-boards and matchmaking activities for projects seeking Token Engineering expertise. Via this offering, we’ll define standards for this new discipline. Additionally, NFT-based certification opens the door for new value flows in TE education and research.</p>\n<p><strong>The problem we solve</strong></p>\n<ul>\n<li>tokenomics is success-critical for any crypto project</li>\n<li>experts are  hard to find</li>\n<li>token engineering is a new field, difficult to determine if job candidates are a good fit</li>\n<li>this proposal is about bridging this gap with\n<ul>\n<li>education</li>\n<li>certification</li>\n<li>matchmaking</li>\n</ul>\n</li>\n</ul>\n<p><strong>Our ask</strong><br/>\nOur ask to TE Commons is to co-fund this major step for TE education with $100K.</p>\n<p>We see TE Commons as the key organisation to establish standards in Token Engineering, particularly for Token Engineering ethics and values. The impact of this program for defining these standards will be huge.</p>\n<p>The TE Fundamentals program will be free and open to any student in the world. To fund the development, TE Academy is currently reaching out to several DAOs and partners with a total funding target of $500K.<br/>\nOur goal is to have several ecosystems on board to support TE Fundamentals. Plus, we’ll create matchmaking activities with funding partners to provide a career perspective for graduates.</p>\n<p><strong>About TE Academy</strong><br/>\nOver the last two years, the Token Engineering community has managed to gather researchers and engineers from many disciplines to formulate the token engineering design process, validation methods and a body of knowledge. With TE Academy we’ve created the first educational institution in this field, which traditional academia hasn’t even picked up. Since its launch in July 2020, more than 800 students from 21 time zones have attended our courses.<br/>\nOur YouTube channel offers session recordings of most of our programs, publicly available and free.<br/>\nTE Academy has led various educational initiatives with partners like Balancer, Gitcoin, Boson Protocol of Ocean Protocol.<br/>\nWe’re glad that our proposals have been successful in various DAO votings, like for the DAO Rewards Systems Research Initiative with Ocean DAO, Near DAO and Gnosis DAO.</p>\n<h2>\n<a class=\"anchor\" href=\"#about-token-engineering-3\" name=\"about-token-engineering-3\"></a>About Token Engineering</h2>\n<h3>\n<a class=\"anchor\" href=\"#how-token-engineers-contribute-to-crypto-projects-4\" name=\"how-token-engineers-contribute-to-crypto-projects-4\"></a>How Token Engineers contribute to crypto projects</h3>\n<p>Token Engineers exercise various critical and supportive functions related to the Engineering Lifecycle of a token project. Some of the main tasks include:</p>\n<ul>\n<li>\n<strong>Systems Engineering:</strong><br/>\nDefine the strategic roadmap of a project, categorize subsystems, their boundaries and interrelations, and derive requirements for the system’s economic architecture and design</li>\n<li>\n<strong>Mechanism Design:</strong><br/>\nAnalyze stakeholder roles and define the structure of interactions in the system (like staking, bidding, buying and selling), design fundamental market mechanisms and find ways to incentivize behavior to ensure the expected outcome while addressing and eliminating attack vectors</li>\n<li>\n<strong>Software Implementation Oversight:</strong><br/>\nTranslate new designs into algorithms to be implemented in code</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#typical-tools-used-by-token-engineers-5\" name=\"typical-tools-used-by-token-engineers-5\"></a>Typical Tools used by Token Engineers</h3>\n<p>To perform solid recommendations and interventions, Token Engineers have to make use of a variety of interdisciplinary knowledge sets and tools, which can include:</p>\n<ul>\n<li>\n<strong>Cryptoeconomics:</strong><br/>\nAddress the alignment of individual incentives with community goals over time in digital decentralized tokenized economic systems accounting for the multilayered structure of the economy</li>\n<li>\n<strong>Control Theory</strong><br/>\nDesign feedback loops, monitor and automatically stabilize or optimize a system (like dynamic fees to balance supply and demand)</li>\n<li>\n<strong>Operations Research</strong><br/>\nApply graph theory and network analysis to monitor network healthiness and provide information on risk and vulnerabilities</li>\n<li>\n<strong>Data Science</strong><br/>\nGather, analyze, and make sense out of various forms of quantitative information</li>\n<li>\n<strong>Modeling &amp; Simulations</strong><br/>\nCreate simulations of the system to verify new designs, or make predictions on how the system evolves in specific scenarios (“What if we offer single-sided exposure for liquidity providers”)</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#te-fundamentals-content-wip-6\" name=\"te-fundamentals-content-wip-6\"></a>TE Fundamentals Content (WIP)</h2>\n<p>TE Fundamentals will cover the following topics:</p>\n<p><strong>1) Crypto-economic systems</strong></p>\n<ul>\n<li>What are cryptoeconomic systems</li>\n<li>Why we decentralize</li>\n<li>Purpose-driven, political economies</li>\n<li>Cryptoeconomies as complex systems</li>\n<li>Engineering Ethics based on TE Commons mission, vision and values</li>\n</ul>\n<p><strong>2) The Engineering Design Process</strong></p>\n<ul>\n<li>TE Process Overview</li>\n<li>Discovery:\n<ul>\n<li>System requirements and context</li>\n<li>Metrics</li>\n<li>Agents and their goals</li>\n</ul>\n</li>\n<li>Design:\n<ul>\n<li>Stock and Flow Diagram</li>\n<li>Mathematical Specification and formal description</li>\n<li>Mechanisms</li>\n</ul>\n</li>\n<li>Deployment:\n<ul>\n<li>cadCAD implementation, digital twin</li>\n<li>cadCAD experiments &amp; simulations</li>\n</ul>\n</li>\n<li>System Identification</li>\n<li>System Governance</li>\n</ul>\n<p><strong>3) Introductions (incl. exercises)</strong></p>\n<ul>\n<li>Economics for Token Engineers</li>\n<li>Mathematics for Token Engineers</li>\n<li>Systems Theory for Token Engineers</li>\n<li>Simulations, Scientific Computing for Token Engineers (Python)</li>\n</ul>\n<p><strong>4) Partner Content</strong></p>\n<ul>\n<li>tbd with partners, based on existing documentation, whitepapers etc.</li>\n<li>incl. examination questions</li>\n</ul>\n<p><strong>5) Computer-aided, token-based governance</strong></p>\n<ul>\n<li>DAOs</li>\n<li>Governance surface</li>\n<li>Algorithms as policy</li>\n<li>Computer-Aided Governance Process</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#deliverablesmilestones-7\" name=\"deliverablesmilestones-7\"></a>Deliverables/Milestones</h2>\n<p><em>all timelines refer to the grant approval date.</em></p>\n<p><strong>Milestone 1 / 6 weeks</strong> (of total grant amount)</p>\n<ul>\n<li>content outline (total course)</li>\n<li>chapter 4 content outline</li>\n<li>wireframes course platform</li>\n<li>min 50 pre-sign ups (students)</li>\n</ul>\n<p><strong>Milestone 2 / 4 months</strong></p>\n<ul>\n<li>TE Fundamentals content script</li>\n<li>examination questions</li>\n<li>UX/visual design course platform</li>\n<li>NFT certificates user flows</li>\n<li>+50 pre-sign ups (students)</li>\n<li>launch event scheduled</li>\n</ul>\n<p><strong>Milestone 3 / 5 months</strong></p>\n<ul>\n<li>content final incl. post production (= .mp4 file for students, incl. final videos, visuals, audio recording of speakers)</li>\n<li>course platform in beta</li>\n<li>NFT certificate implementation</li>\n<li>launch event final stage</li>\n<li>min 8 promotion/onboarding events scheduled (crypto/beyond crypto)</li>\n</ul>\n<p><strong>Milestone 4 / 7 months</strong></p>\n<ul>\n<li>TE Fundamentals online course live</li>\n<li>launch event delivered</li>\n<li>first students enrolled</li>\n<li>run study groups on a monthly base</li>\n</ul>\n<p><strong>Milestone 5 / 8 months</strong></p>\n<ul>\n<li>NFT certification in production</li>\n<li>deliver 4 events per month for student inflow (online or live)</li>\n<li>ramp up talent matchmaking activities</li>\n<li>min. 50 students enrolled</li>\n<li>run study groups on a monthly base</li>\n</ul>\n<p><strong>Milestone 6 / 10 months</strong></p>\n<ul>\n<li>deliver 4 events per month for student inflow and talent matchmaking (online or live)</li>\n<li>talent matchmaking activities</li>\n<li>min. 80 students enrolled</li>\n<li>run study groups on a monthly base</li>\n</ul>\n<p><strong>Milestone 7 / 12 months</strong></p>\n<ul>\n<li>deliver 4 events per month for student inflow and talent matchmaking (online or live)</li>\n<li>talent matchmaking activities</li>\n<li>min. 100 students enrolled</li>\n<li>min. 50 graduates</li>\n</ul>\n<p>Note: TE Fundamentals aims to establish new value flows for knowledge creators, while making content open and accessible for students. This is why none of the funding partners will hold any TE Fundamentals IP or copyright.</p>\n<h2>\n<a class=\"anchor\" href=\"#budget-and-payouts-8\" name=\"budget-and-payouts-8\"></a>Budget and payouts</h2>\n<p>We suggest to split the total amount of $100K into quarterly payouts of $25K each. For every completed milestone we’ll report progress to the community. This way we provide maximum transparency, accountability and a good basis for voting on the next payout.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-9\" name=\"team-9\"></a>Team</h2>\n<p><strong>Angela Kreitenweis</strong><br/>\nFounder TE Academy<br/>\nDiscord: akrtws (TE Academy)<span class=\"hashtag\">#4246</span></p>\n<ul>\n<li>background in early-stage startups (both at<br/>\nstartups and investors</li>\n<li>more than 10 years in digital product</li>\n<li>more than 8 years of experience as a trainer/mentor</li>\n<li>co-founded Token Engineering Community in 2018</li>\n</ul>\n<p><strong>Kris Paruch</strong><br/>\nContent Lead</p>\n<ul>\n<li>background in Economic Mathematics</li>\n<li>Token Engineer and Cryptoeconomist at Cryptoeconomics Institute, WU Vienna</li>\n<li>and for various crypto projects at BlockScience Complex Systems<br/>\nEngineering</li>\n</ul>\n<p><strong>Andrew Penland, PhD</strong><br/>\nEducational Formats</p>\n<ul>\n<li>background in Mathematics</li>\n<li>Associate Professor at Western Carolina University</li>\n<li>awarded with MAA Teaching Award 2021</li>\n</ul>\n<p><strong>Peter Hacker</strong><br/>\nTE Academy Educational Programming</p>\n<ul>\n<li>Bachelor degree in Economics and Mathematics</li>\n<li>four years in eCommerce data analytics and business strategy</li>\n<li>active TE community member (TEC, cadCAD, BlockScience, Commons Stack)</li>\n</ul>\n<p><strong>Patricia Gil de Brolezzi</strong><br/>\nTE Academy Community Team</p>\n<ul>\n<li>Bachelor degree in International Relations</li>\n<li>six years in board game design &amp; development</li>\n<li>TE Academy communications and facilitation</li>\n</ul>\n<p><strong>Ana Antunićević</strong><br/>\nLegal, NFT Certification</p>\n<ul>\n<li>Lawyer</li>\n<li>Consultant NFTs</li>\n<li>Crypto Assets Regulation</li>\n</ul>\n<p><strong>Raul Martinez</strong><br/>\nCertification, Smart Contracts</p>\n<ul>\n<li>Smart Contract Lead <span class=\"mention\">@Forta</span>\n</li>\n<li>Co-Founder &amp; Token Architect</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#advisors-10\" name=\"advisors-10\"></a>Advisors</h2>\n<p><strong>Michael Zargham, PhD</strong><br/>\nTE Academy Advisor</p>\n<ul>\n<li>Founder of BlockScience</li>\n<li>Inventor of cadCAD</li>\n<li>R&amp;D at <span class=\"mention\">@crypto3conomics</span>\n</li>\n</ul>\n<p><strong>Trent McConaghy, PhD</strong><br/>\nTE Academy Advisor</p>\n<ul>\n<li>Founder of Ocean Protocol</li>\n<li>Inventor of TokenSPICE</li>\n</ul>\n<p><strong>Jessica Zartler</strong><br/>\nTE Academy Advisor</p>\n<ul>\n<li>Governance Researcher at BlockScience</li>\n</ul>\n<p><strong>Danilo Lessa Bernardineli</strong><br/>\nTE Academy Advisor</p>\n<ul>\n<li>Cryptoeconomics Researcher</li>\n<li>Teaching Assistant at University of Sao Paolo</li>\n<li>“Professor of Hackology” at cadCAD.education</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005800",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2021-12-17T19:29:04Z",
+   "updated_at": "2021-12-17T19:59:48Z",
+   "reply_to_post_number": null,
+   "like_count": 14,
+   "cooked": "<p>Hi everyone,</p>\n<p>it’s time to publish the first TE Academy proposal at TEC!  <img alt=\":point_up_2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_up_2.png?v=10\" title=\":point_up_2:\"/> <img alt=\":hatching_chick:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hatching_chick.png?v=10\" title=\":hatching_chick:\"/><br/>\nAfter running first Token Engineering courses and research groups at TE Academy in our first 18 months of existence, it’s time to take another big leap in 2022: the first bachelor-level education program for this discipline - TE Fundamentals!</p>\n<p>Our roadmap covers 12 months and our ultimate goal is to not only to offer content. No! We aim to get as many active token engineers matched to crypto projects as possible.</p>\n<p>For more impact, for more sustainable token designs and for establishing engineering ethics in crypto!<br/>\nThis is why we ask TEC and a range of crypto projects to team up in funding. Let’s grow this discipline together! Read more about our roadmap in our proposal.</p>\n<p>Thanks in advance for your comments, questions &amp; support!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005800",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "nic",
+   "name": null,
+   "created_at": "2021-12-17T19:56:42Z",
+   "updated_at": "2021-12-17T19:56:42Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p><img alt=\":star_struck:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star_struck.png?v=10\" title=\":star_struck:\"/> 1000000000000% yes</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005800",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Phil",
+   "name": null,
+   "created_at": "2021-12-18T13:28:13Z",
+   "updated_at": "2021-12-18T13:28:13Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Sounds great! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/> ​It would be super cool if there would be some in-person meetings as part of the program.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005800",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2021-12-18T17:07:44Z",
+   "updated_at": "2021-12-18T17:07:44Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Oh yes, great idea! <img alt=\":boom:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/boom.png?v=10\" title=\":boom:\"/> <img alt=\":woman_cartwheeling:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/woman_cartwheeling.png?v=10\" title=\":woman_cartwheeling:\"/><br/>\nYou noticed that we plan study groups. Imagine we spin up local hubs, say in India <a class=\"mention\" href=\"/u/jose\">@Jose</a>!, in Europe, in the U.S., Canada, in Brazil… and people meet there for learning together!<br/>\nOr we meet along main conferences. Would be awesome!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-01-19T13:26:48Z",
+   "updated_at": "2022-01-19T15:40:46Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>First, congratulations everyone for the successful Commons Upgrade that happened last week!   <img alt=\":clap:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/clap.png?v=10\" title=\":clap:\"/> <img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/><br/>\nWith the winning proposal <a href=\"https://forum.tecommons.org/t/commons-upgrade-parameter-runoff-goldilocks-1-bet-for-1-mil-to-advance-token-engineering-127/778\">Goldilocks</a> the community voted to generally set high barriers for large lump-sum funding proposals.  Here, it’s technically not possible to receive enough conviction for $100K. Fair enough!<br/>\nAs a result, we’ll reduce our ask <strong>to $50K</strong> in this proposal and will come back with a second proposal later this year, sharing the results we’ve achieved until then.  All other details of our proposal remain unchanged.<br/>\nWe plan to put up this $50K proposal for voting on Feb 1st.</p>\n<p><strong>Come with your questions!</strong><br/>\n<strong>We invite all TE Commons members to join us for an AMA SESSION</strong><br/>\n<strong>on Friday, Feb 4th, at 4pm UTC.</strong></p>\n<p><a href=\"https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmEyYjRqcHJ1ODZiYzZlNW5yMHJuMjVjYWUgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&amp;tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com\" rel=\"noopener nofollow ugc\">Add this to your calendar</a></p>\n<p>Ask all your questions about this funding proposal and the TE Fundamentals education program!  Kris Paruch and <a class=\"mention\" href=\"/u/octopus\">@Octopus</a> will join from the content team, as well as Pati and <a class=\"mention\" href=\"/u/heater\">@Heater</a> to share what community activities we plan for TE Fundamentals!</p>\n<p><strong>See you there!</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-01-19T14:38:27Z",
+   "updated_at": "2022-01-19T14:38:27Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>So excited about this!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "danlessa",
+   "name": null,
+   "created_at": "2022-01-19T15:21:28Z",
+   "updated_at": "2022-01-19T15:21:28Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Looking forward to it! An huge leap for making the Token Engineering discipline more cohesive and mainstream</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "t-rossi",
+   "name": null,
+   "created_at": "2022-01-22T19:16:44Z",
+   "updated_at": "2022-01-22T19:16:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Can’t wait for this to become real! Looking forward to Feb 4th <img alt=\":grinning_face_with_smiling_eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grinning_face_with_smiling_eyes.png?v=10\" title=\":grinning_face_with_smiling_eyes:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-01-24T01:15:20Z",
+   "updated_at": "2022-01-24T01:15:20Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Finally it is coming together! Very much needed - excited to get TE Fundamentals accessible to <a href=\"https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d\">developers entering web3</a> and matched to token projects supporting the TEC</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2022-01-25T17:07:29Z",
+   "updated_at": "2022-01-25T17:07:29Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>This proposal is <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/3\">live in the TEC Garden!</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "cleanapp",
+   "name": null,
+   "created_at": "2022-01-26T01:32:27Z",
+   "updated_at": "2022-01-26T01:32:27Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>give ape token, ape eat 1 day</p>\n<p>teach ape tokenomics, ape eat many days</p>\n<p>teach ape mint token together, ape feed many ape many days</p>\n<p>ape together strong</p>\n<p><span class=\"hashtag\">#MintTEA</span></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Letty",
+   "name": null,
+   "created_at": "2022-01-26T10:03:17Z",
+   "updated_at": "2022-01-26T10:03:17Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>With this bachelor degree, I just want to get back to college!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "kant",
+   "name": null,
+   "created_at": "2022-01-26T12:00:28Z",
+   "updated_at": "2022-01-26T12:00:28Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>totally agree with TE Fundamentals</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-01-26T21:05:16Z",
+   "updated_at": "2022-01-26T21:05:16Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>OMG YES!</p>\n<p>This needs to be an NFT</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-01-27T13:20:43Z",
+   "updated_at": "2022-01-27T13:20:43Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>WOW  - MANY THANKS EVERYONE<br/>\nfor your trust in our team and the vision for TE Academy!! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/><br/>\nAround 35% of the current total supply of $TEC was thrown behind this proposal, really grateful for such strong support, this is so encouraging for all the work ahead!</p>\n<p>You are all amazing! <img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> <img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> <img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "sidcode",
+   "name": null,
+   "created_at": "2022-02-02T18:48:28Z",
+   "updated_at": "2022-02-02T18:48:28Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This is such a transformational moment in funding educational programs! Congrats to the entire team of TE Fundamentals, most of whom also made the rewards systems research initiative possible <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "Domik20",
+   "name": null,
+   "created_at": "2022-02-06T11:55:52Z",
+   "updated_at": "2022-02-06T11:55:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>great move, web3 space need this</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-02-06T14:59:27Z",
+   "updated_at": "2022-02-06T14:59:27Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>UPDATE:</p>\n<p>Great news!<br/>\nWe’ve openend up <a href=\"https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#token-engineering-fundamentals\" rel=\"noopener nofollow ugc\">pre-sign ups</a> for students last Friday Feb 4th!<br/>\n<strong>Only 4 hours later, we hit 100 registrations!</strong> In our first AMA session, people from Nigeria, Argentina, Nepal, Greece etc. attended, all excited to become a Token Engineer. Plus our next partner, 1kx.network confirmed.<br/>\nNice progress! <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "markop",
+   "name": null,
+   "created_at": "2022-03-03T16:16:53Z",
+   "updated_at": "2022-03-03T16:16:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Very, very good initiative. Looking forward supporting this.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-05-04T18:23:58Z",
+   "updated_at": "2022-05-04T18:23:58Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Hi everyone, here’s our first TE Fundamentals Milestone Report.<br/>\nPlease find more info about our achievements below, if you have any questions, just let us know!</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Key Achievements:</strong><br/>\n<img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> 1125 pre sign-ups so far!<br/>\n<img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> New partner on board: ConsenSys!<br/>\n<img alt=\":mag_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mag_right.png?v=10\" title=\":mag_right:\"/> Wanted: NFTs for education/certification, currently assessing projects/protocols, intros welcome. More below.</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Milestone report:</strong><br/>\nMilestone <span class=\"hashtag\">#1</span> completed, we are on schedule:<br/>\n✓ content outline (total course)<br/>\n<s>✓ chapter 4 content outline (partner content)</s><br/>\n✓ wireframes course platform<br/>\n✓ min 50 pre-sign ups (students) —&gt;1125 pre sign-ups so far = 20x!! However, it’s realistic to expect ~10% to graduate once the course is live</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Product Market Fit:</strong></p>\n<ul>\n<li>\n<p>we’ve learned that our partners are most interested in finding Token Engineers via TE Fundamentals, not publishing cryptoeconomics content</p>\n</li>\n<li>\n<p>that’s why we’ve removed chapter 4 (partner content), and instead focus on talent scouting and matchmaking</p>\n</li>\n</ul>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Statistics:</strong><br/>\nFrom all sign-up collected (total 1125)</p>\n<ul>\n<li>33.5% aim to take up a token engineering role</li>\n<li>fields of study: 36% with a background in Economics, 20% have a Math/Physics or Finance, 18% Data Science background</li>\n<li>28 PhDs or PhD candidates</li>\n</ul>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Building the student community:</strong><br/>\nWe started weekly sessions “TE 360 Around the Globe” for aspiring students. The program is aimed at engaging TE students from all over the world (eg. Brazil, India, UK and many more) and is run by community hosts. They are doing an amazing job in building up excitement and motivation for the main course launching in Q3 this year.<br/>\n<a href=\"https://te-academy.notion.site/Global-Overview-TE360-5d339406ebc1459384b609d460a87681\" rel=\"noopener nofollow ugc\">An overview of the sessions and recordings is available here</a>.</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>NFT Certificate:</strong><br/>\nTE Fundamentals graduates will earn a certificate as proof of their knowledge. This NFT-based certificate will be the first building block in NFT-based composable proof of skills for our discipline. Here, we are looking for NFT projects/platform/protocols in the education sector to partner with. <a href=\"mailto:angela@tokenengineering.net\">Recommendations and introductions welcome!</a></p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>TE Hard Skills feat. <a href=\"http://machinations.io/\" rel=\"noopener nofollow ugc\">Machinations.io</a>:</strong><br/>\nWe are expanding our program on Token Engineering Hard Skills: tools, cases and insights on Token Engineering Modelling and Simulations. In April, Machinations was our guest, thanks to our partners 1kx. Machinations is a platform to design and predict game economy modelling, forecasting and optimization.<br/>\n<a href=\"https://youtu.be/DNGvEWzGEQM\" rel=\"noopener nofollow ugc\">Find the recording here.</a></p>\n<p>We are really thrilled by the number of people attending our sessions and signing up to the course. Thank you for your support - and let us know if you have any questions!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-08-23T12:50:46Z",
+   "updated_at": "2022-08-23T12:50:46Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Hi everyone, here’s our brand new milestone report.<br/>\nWe are coming closer to the launch of TE Fundamentals, and made rrrreally great progress - read more below!<br/>\nHope to see you all at the launch event(s)! <img alt=\":heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=10\" title=\":heart:\"/> <img alt=\":muscle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/muscle.png?v=10\" title=\":muscle:\"/></p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Key Achievements:</strong><br/>\n<img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> &gt;2000 pre sign-ups so far!<br/>\n<img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> New partners on board:<a href=\"https://cryptoplaza.es/\" rel=\"noopener nofollow ugc\"> CryptoPlaza</a>, <a href=\"https://blog.ethereum.org/2021/07/15/r2d-meetup-and-event-grants/\" rel=\"noopener nofollow ugc\">Ethereum Foundation Road to Devcon</a>, <a href=\"https://www.smartcontractresearch.org/t/new-to-the-forum-start-here/1162\" rel=\"noopener nofollow ugc\">SCRF Smart Contract Research Forum</a><br/>\n<img alt=\":rocket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=10\" title=\":rocket:\"/> Launch Dates set!</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Milestones Report:</strong><br/>\nMilestone <span class=\"hashtag\">#3</span> completed, we are on schedule<br/>\n✓ course platform in beta-testing<br/>\n✓ NFT certificate implementation (see more below)<br/>\n✓ launch events in final stage preparation<br/>\n✓ &gt;8 promotion and onboarding events scheduled (like 20+ events with our local hosts, accelerators like <a href=\"https://www.openwebcollective.com/\" rel=\"noopener nofollow ugc\">Open Web Collective Blockchain Accelerator</a>, <a href=\"https://www.rmit.edu.au/news/podcasts/mint-and-burn\" rel=\"noopener nofollow ugc\">Mint&amp;Burn Podcast RMIT</a>, <a href=\"https://www.dappcon.io/\" rel=\"noopener nofollow ugc\">Dappcon 2022</a>, and more in the pipeline)</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>Statistics:</strong><br/>\nFrom all sign-ups collected (in total 2120, Aug 22)</p>\n<ul>\n<li>33.7% aim to take up a token engineering role as their main occupation.</li>\n<li>Fields of prior study: 41% economics, 37% computer science, 34% engineering, 18% data science, 15% Mathematics</li>\n<li>71 PhDs or PhD candidates</li>\n</ul>\n<p><strong><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> Our Community Grows:</strong><br/>\nWe’re currently onboarding local hosts who volunteer to provide P2P study groups for TE Fundamentals - in their local time zone and native language. This is part of our initiative<a href=\"https://medium.com/tokenengineering/save-the-planet-with-token-based-economies-1e5aafbc56bd\" rel=\"noopener nofollow ugc\"> “Save the Planet with token-based Economies\"</a> as a method to integrate a wide variety of local perspectives and creativity in building token-based economic systems.<br/>\nAll these hosts will start in September with offering TE Fundamentals study groups. Thus, we’ll be able to offer <strong>more than 10 study sessions every single week</strong>, in various time zones and languages.</p>\n<p><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> <strong>NFT Certificates:</strong><br/>\nTE Fundamentals graduates will earn a certificate as a proof of knowledge. This NFT-based certificate will be the first building block in NFT-based, composable proof of skills for our discipline. Here, we are integrating<a href=\"https://www.otterspace.xyz/\" rel=\"noopener nofollow ugc\"> Otterspace.xyz</a> to offer a super-smooth experience for students. Moreover, we provide input on the implementation of<a href=\"https://eips.ethereum.org/EIPS/eip-4973\" rel=\"noopener nofollow ugc\"> EIP-4973</a>, the new Ethereum standard for Account-bound Tokens. <img alt=\":clap:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/clap.png?v=10\" title=\":clap:\"/> Big shout out to General Magic <a class=\"mention\" href=\"/u/markop\">@markop</a> and team for building the course platform, certification process, and being an incredible partner in this journey!</p>\n<p><strong><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> TE Fundamentals Launch Dates:</strong></p>\n<p><img alt=\":calendar:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/calendar.png?v=10\" title=\":calendar:\"/> <strong>TE Fundamentals Launch October 2022 - during Devcon!</strong><br/>\nThe TE Fundamentals course will be live and available for everyone in October. We are currently discussing a Cryptoeconomics and Governance Community Hub at Devcon to celebrate and connect. We’ll keep you posted. <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/><br/>\n<img alt=\":calendar:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/calendar.png?v=10\" title=\":calendar:\"/> <strong>Sept 12: Early access for study groups!</strong><br/>\nAny TE Fundamentals student can either learn individually or join P2P learning sessions in their local time zones and languages. Study group members will get early access to the first TE Fundamentals module on Monday, September 12 during Berlin Blockchain Week.</p>\n<p><strong><img alt=\":arrow_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_right.png?v=10\" title=\":arrow_right:\"/> New Activities, Collaborate with TE Academy</strong><br/>\nTE Academy’s main goal is to make it easy for crypto projects to find experts in token engineering and leverage the full potential of token-based economies.<br/>\nOur activities in the next months:<br/>\n<img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/> The first <strong>TE Job Fair</strong> on Friday, December 09, 2022<br/>\n<img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/> <strong>TE Hackathons</strong> from January 2023</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-08-23T21:06:15Z",
+   "updated_at": "2022-08-23T21:06:15Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thank you so much for this update <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> ! I’m desperately looking forward to the launch, can’t wait! <img alt=\":raised_hands:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=10\" title=\":raised_hands:\"/> 2000+ signups is a staggering achievement. Congrats =)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-08-25T16:44:25Z",
+   "updated_at": "2022-08-25T16:44:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you for this Angela!</p>\n<p>Looking forward to support in any way it is needed to make our ecosystem go better!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013128",
+    "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211218122656",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124033537",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124033537",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220126211448",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/12?u=griff"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220126211546",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/12"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706005800",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005800",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204013128",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204013128",
+   "url": "https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22"
+  }
+ ]
+}

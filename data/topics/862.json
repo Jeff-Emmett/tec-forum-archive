@@ -1,0 +1,363 @@
+{
+ "id": 862,
+ "title": "Goldilocks' Proposed Tribute Adjustments",
+ "slug": "goldilocks-proposed-tribute-adjustments",
+ "category_id": 7,
+ "tags": [
+  "tao-voting"
+ ],
+ "posts_count": 19,
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "created_at": "2022-02-04T18:51:50Z",
+ "last_archived_post_at": "2022-07-24T13:57:45Z",
+ "captured_between": [
+  "2022-05-20T06:43:41Z",
+  "2022-10-06T16:26:15Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-04T18:51:50Z",
+   "updated_at": "2022-02-08T22:54:33Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/150\">Goldilocks’ Strategy</a> with Entry and Exit tributes was to reduce them on a regular basis, specifically:</p>\n<blockquote>\n<p>If we wanted less sharp changes, we can reduce the entry tribute 2% and raise the exit tribute 1% every 2 weeks.</p>\n</blockquote>\n<p><strong><img alt=\"|436px;x316px;\" data-base62-sha1=\"ugE1bTZ3lFOJJsQxsaMMDt6bhLV\" height=\"423\" src=\"https://forum.tecommons.org/uploads/default/original/1X/d422e91940731af1f99cee1a38259c9fc42f4207.png\" width=\"583\"/></strong></p>\n<p><strong>So let’s do it!</strong></p>\n<p>Every 2 weeks, as proposed, let’s decrease the entry tribute 2% and increase the exit tribute 1% bi-weekly (right now being 22% entry and 2% exit).</p>\n<p>Goldilocks’ plan was to invert the Tributes before the Hatchers can sell tokens so the intention is to reduce the entry tribute 2% and raise the exit tribute 1% bi-weekly until the tributes end up as 2% entry and 12% exit.</p>\n<p>Also in the proposal it was suggested to do this monthly with a 4% decrease and a 2% increase. If you prefer that, please mention in this post, or if you prefer another strategy, please discuss below.</p>\n<p>We (Zep and I) propose to run a bi-weekly vote until we meet those targets, OR we do an analysis on what the optimal Tributes should be.</p>\n<p>This will be a Tao Voting proposal so it will require 85% support required and 10% Minimum Quorum.</p>\n<p>We will make the vote on Tuesday (2 weeks after launch) after a 5 day advice process.</p>\n<p><em>h/t to <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> for helping to write this post!</em></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-04T19:16:33Z",
+   "updated_at": "2022-02-04T19:16:33Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/b2a9422872d4fa1ee76909840f993526ba088c63\" href=\"https://forum.tecommons.org/uploads/default/original/1X/b2a9422872d4fa1ee76909840f993526ba088c63.jpeg\" title=\"imagen\"><img alt=\"imagen\" data-base62-sha1=\"puvCHCZAYYcba32DYW2OxOzmQRZ\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/b2a9422872d4fa1ee76909840f993526ba088c63_2_10x10.png\" height=\"442\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/b2a9422872d4fa1ee76909840f993526ba088c63_2_690x442.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/b2a9422872d4fa1ee76909840f993526ba088c63_2_690x442.jpeg, https://forum.tecommons.org/uploads/default/original/1X/b2a9422872d4fa1ee76909840f993526ba088c63.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/b2a9422872d4fa1ee76909840f993526ba088c63.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">imagen</span><span class=\"informations\">780×500 86.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-08T23:22:07Z",
+   "updated_at": "2022-02-08T23:22:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Ok! Made the vote.</p>\n<p><a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/4\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/4</a></p>\n<p>This will adjust the Tributes to:</p>\n<p>Entry Tribute: 20%<br/>\nExit Tribute: 3%</p>\n<p>Mitch tested this on our Test DAO and it worked as expected see links to confirm:<br/>\n<a class=\"onebox\" href=\"https://gardens-staging.1hive.org/#/xdai/garden/0x854edac1f992f71a5f0eabbb016221064b6e4434/vote/3\" rel=\"noopener\" target=\"_blank\">https://gardens-staging.1hive.org/#/xdai/garden/0x854edac1f992f71a5f0eabbb016221064b6e4434/vote/3</a></p>\n<p><a class=\"onebox\" href=\"https://blockscout.com/xdai/mainnet/address/0x223c77E76d3CE81896641532658140A8bBFF8cA9/logs\" rel=\"noopener\" target=\"_blank\">https://blockscout.com/xdai/mainnet/address/0x223c77E76d3CE81896641532658140A8bBFF8cA9/logs</a></p>\n<p>Here is a screenshot of the settings that I used:<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/7594fcfadb2f5dea8212a6f851721f2679951f78\" href=\"https://forum.tecommons.org/uploads/default/original/1X/7594fcfadb2f5dea8212a6f851721f2679951f78.png\" title=\"Screen Shot 2022-02-08 at 4.51.52 PM\"><img alt=\"Screen Shot 2022-02-08 at 4.51.52 PM\" data-base62-sha1=\"gMb4ki3ldHH1c15VXOUgHD9Vpig\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/7594fcfadb2f5dea8212a6f851721f2679951f78_2_10x10.png\" height=\"422\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/7594fcfadb2f5dea8212a6f851721f2679951f78_2_690x422.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/7594fcfadb2f5dea8212a6f851721f2679951f78_2_690x422.png, https://forum.tecommons.org/uploads/default/optimized/1X/7594fcfadb2f5dea8212a6f851721f2679951f78_2_1035x633.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/7594fcfadb2f5dea8212a6f851721f2679951f78.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-02-08 at 4.51.52 PM</span><span class=\"informations\">1139×698 77.5 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-20T20:16:00Z",
+   "updated_at": "2022-02-20T20:16:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey guys! the Gardens was missing a permission in order to execute the tribute change - I added the vote here to allow decision voting to change the tribute fees</p>\n<p><a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/5\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/5</a></p>\n<p>There was also a problem with the subgraph that 1hive sorted but this resulted in the vote being active but unviewable so we lost a bit of voting time <img alt=\":confused:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/confused.png?v=10\" title=\":confused:\"/></p>\n<p>Please Vote so we can hit quorum!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-02-21T02:33:00Z",
+   "updated_at": "2022-02-21T02:33:00Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>So, I just wanted to engage on this topic.</p>\n<p>First, I believe that the Entry &amp; Exit Tributes are essential mechanisms for making this type of Continuous Funding economy work.  These tributes encourage different types of behavior, and assume different types of participants.</p>\n<p>One problem I see is that we are not united on who the target audience is regarding who will be contributing to the economic activity through the ABC.  At the moment, we are encouraging individuals to use convert.tec and pay a premium without telling them they are paying a premium – all while limiting the liquidity on secondary markets.</p>\n<p>If the most optimal functioning of this type of token-economic system is through arb. bots then perhaps we should reflect our tributes to encourage this type of participation, and fully support the liquidity on secondary markets.  But this may not be our true goal.</p>\n<p>Perhaps, we want to encourage new behaviors around the funding of public goods where everyone with a TEC token has pledged properly, knowingly paid 22%, and entering into our economy with purpose and alignment.  This is what the current setup was made for.  I think the issue is not that the tribute is too high, but we are trying to get people to come to us, rather than us going to them.</p>\n<p>I think our current 22% Entry Tribute could work if the large DEXs had a dedicated section for this type of token economy (a public-goods, ABC economy).  A section where we are not just one token in a list of 100 in a drop-down menu, but a dedicated section that allows users to interface with ABC economies – specifically ones that are creating Public Goods.</p>\n<p>Regardless of what direction we take, I don’t think that incremental changes are very beneficial for increasing interactions through the ABC. Adjusting the rates every 2 weeks seems like it will require a lot of unnecessary coordination and doesn’t provide us with much information to evaluate what is working and what doesn’t.</p>\n<p>I think if we set out a plan to evaluate different behaviors with different tribute combinations for a minimum of 6 months, we could gather a lot of information that will help inform our next moves.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-28T17:19:59Z",
+   "updated_at": "2022-02-28T17:19:59Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>One problem I see is that we are not united on who the target audience is regarding who will be contributing to the economic activity through the ABC. At the moment, we are encouraging individuals to use convert.tec and pay a premium without telling them they are paying a premium – all while limiting the liquidity on secondary markets.</p>\n</blockquote>\n</aside>\n<p>There are a variety of audiences, my guess is the 2 biggest are speculators &amp; Token Engineers. I think it makes sense that we link people to the ABC to mint or burn tokens as it is our baby… especially because if they go to coingecko, they only see secondary market options.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Perhaps, we want to encourage new behaviors around the funding of public goods where everyone with a TEC token has pledged properly, knowingly paid 22%, and entering into our economy with purpose and alignment. This is what the current setup was made for. I think the issue is not that the tribute is too high, but we are trying to get people to come to us, rather than us going to them.</p>\n</blockquote>\n</aside>\n<p>That said, the original proposal to adjust tributes was made for a few reasons.</p>\n<p><span class=\"hashtag\">#1</span> Initially we are in a supply discovery phase and it makes sense to have a large entry tribute to raise funds (This worked! We raised over 200k from this high tribute)</p>\n<p><span class=\"hashtag\">#2</span> In the long run we want to have a high-ish Exit Tribute to balance the negative market sentiment with funding for the Commons (i.e. when people sell, they are funding the Commons making a reason to buy.)</p>\n<p><span class=\"hashtag\">#3</span> In the long run we want to have a narrow-ish spread to encourage interactions with the ABC (we started with a 24% spread but the proposal was to end with a 14% spread)</p>\n<p><span class=\"hashtag\">#4</span> We don’t want to create sharp changes (which might create weird market incentives) so we do this gradually with many small votes.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Regardless of what direction we take, I don’t think that incremental changes are very beneficial for increasing interactions through the ABC. Adjusting the rates every 2 weeks seems like it will require a lot of unnecessary coordination and doesn’t provide us with much information to evaluate what is working and what doesn’t.</p>\n</blockquote>\n</aside>\n<p>Every vote will narrow the range that the market can float. Specifically, the range was 24% to start and now it is 23% after the first vote passed. So it will for sure encourage interactions with the ABC just on the float alone… Also as time goes on, there will be more selling… to start there was only buying, so balancing the Tributes seems prudent with the information we have.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>I think if we set out a plan to evaluate different behaviors with different tribute combinations for a minimum of 6 months, we could gather a lot of information that will help inform our next moves.</p>\n</blockquote>\n</aside>\n<p>While I agree we need to get more information on the best strategy for our tributes, I think that is a separate independent stream of thought from the current process of voting to reduce the tributes according to the original proposal. I would love to see some analysis done on the market data to figure out an optimal Tribute strategy… but while we wait for that, we should incrementally adjust the tributes to narrow the range that then markets can float before they trigger the ABC to start minting/burning.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-03-03T03:39:03Z",
+   "updated_at": "2022-03-03T03:39:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Now that the Permission is fixed, let’s get back into the sing of things and keep adjusting the tributes!</p>\n<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 20%<br/>\nExit Tribute: 3%</p>\n<p>**Let’s take the next step and make them: **</p>\n<p><strong>Entry Tribute: 18%</strong><br/>\n<strong>Exit Tribute: 4%</strong></p>\n<p>I made this proposal to make it happen:<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/6a80301b27c5b1fd9115a869e03550645f1da3a8\" href=\"https://forum.tecommons.org/uploads/default/original/1X/6a80301b27c5b1fd9115a869e03550645f1da3a8.png\" title=\"Screen Shot 2022-03-02 at 9.30.02 PM\"><img alt=\"Screen Shot 2022-03-02 at 9.30.02 PM\" data-base62-sha1=\"fc9fHkqMYvVCl5nmECTz2KWoDc4\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a80301b27c5b1fd9115a869e03550645f1da3a8_2_10x10.png\" height=\"434\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a80301b27c5b1fd9115a869e03550645f1da3a8_2_690x434.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a80301b27c5b1fd9115a869e03550645f1da3a8_2_690x434.png, https://forum.tecommons.org/uploads/default/optimized/1X/6a80301b27c5b1fd9115a869e03550645f1da3a8_2_1035x651.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/6a80301b27c5b1fd9115a869e03550645f1da3a8_2_1380x868.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-03-02 at 9.30.02 PM</span><span class=\"informations\">2410×1518 210 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>VOTE HERE:<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/6\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/6</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-03-16T18:42:54Z",
+   "updated_at": "2022-03-16T18:42:54Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 18%<br/>\nExit Tribute: 4%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 16%</strong><br/>\n<strong>Exit Tribute: 5%</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/2d1e03a1afd074f13fb2236065bfac3e978eb364\" href=\"https://forum.tecommons.org/uploads/default/original/1X/2d1e03a1afd074f13fb2236065bfac3e978eb364.png\" title=\"Screen Shot 2022-03-16 at 1.39.47 PM\"><img alt=\"Screen Shot 2022-03-16 at 1.39.47 PM\" data-base62-sha1=\"6r7N3D3MXeb4pfxpbwrF3dlV9NW\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/2d1e03a1afd074f13fb2236065bfac3e978eb364_2_10x10.png\" height=\"385\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/2d1e03a1afd074f13fb2236065bfac3e978eb364_2_690x385.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/2d1e03a1afd074f13fb2236065bfac3e978eb364_2_690x385.png, https://forum.tecommons.org/uploads/default/optimized/1X/2d1e03a1afd074f13fb2236065bfac3e978eb364_2_1035x577.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/2d1e03a1afd074f13fb2236065bfac3e978eb364_2_1380x770.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-03-16 at 1.39.47 PM</span><span class=\"informations\">2256×1260 174 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>I made this proposal to make it happen:<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/7\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/7</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Ratio",
+   "name": null,
+   "created_at": "2022-03-17T18:38:46Z",
+   "updated_at": "2022-03-17T18:38:46Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Out of curiosity, should this, Vote <span class=\"hashtag\">#7</span>, be a new post and not appended to an older post? Just looking at visibility. Unsure of the norms related to Tao proposals especially when they are an adjustment or continuation of a previous proposal. Still learning here. Thanks in advance.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-03-18T17:15:49Z",
+   "updated_at": "2022-03-18T17:15:49Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Worth considering… I like maintaining the previous context, but if making a new post makes it more visible that would probably be better.</p>\n<p>Not sure if it makes it more visible or not tho.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-03-30T12:52:28Z",
+   "updated_at": "2022-03-30T12:52:28Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 16%<br/>\nExit Tribute: 5%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 14%</strong><br/>\n<strong>Exit Tribute: 6%</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/d40e331da10b6261687dd3fa1007bf8c17b25286\" href=\"https://forum.tecommons.org/uploads/default/original/1X/d40e331da10b6261687dd3fa1007bf8c17b25286.png\" title=\"Screen Shot 2022-03-30 at 7.51.14 AM\"><img alt=\"Screen Shot 2022-03-30 at 7.51.14 AM\" data-base62-sha1=\"ufVE4ILkEut6iUfmibYhX90HwKq\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/d40e331da10b6261687dd3fa1007bf8c17b25286_2_10x10.png\" height=\"336\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/d40e331da10b6261687dd3fa1007bf8c17b25286_2_690x336.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/d40e331da10b6261687dd3fa1007bf8c17b25286_2_690x336.png, https://forum.tecommons.org/uploads/default/optimized/1X/d40e331da10b6261687dd3fa1007bf8c17b25286_2_1035x504.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/d40e331da10b6261687dd3fa1007bf8c17b25286_2_1380x672.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-03-30 at 7.51.14 AM</span><span class=\"informations\">2236×1090 159 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/8\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/8</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-04-19T21:27:55Z",
+   "updated_at": "2022-04-19T21:27:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 14%<br/>\nExit Tribute: 6%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 12%</strong><br/>\n<strong>Exit Tribute: 7%</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/449a95fe9ad89ebf210f188589707db728bbf6a6\" href=\"https://forum.tecommons.org/uploads/default/original/1X/449a95fe9ad89ebf210f188589707db728bbf6a6.png\" title=\"Screen Shot 2022-04-19 at 12.37.14 PM\"><img alt=\"Screen Shot 2022-04-19 at 12.37.14 PM\" data-base62-sha1=\"9MTFl8nCamJ0vTyM3oNLPBXl9fU\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/449a95fe9ad89ebf210f188589707db728bbf6a6_2_10x10.png\" height=\"386\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/449a95fe9ad89ebf210f188589707db728bbf6a6_2_690x386.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/449a95fe9ad89ebf210f188589707db728bbf6a6_2_690x386.png, https://forum.tecommons.org/uploads/default/optimized/1X/449a95fe9ad89ebf210f188589707db728bbf6a6_2_1035x579.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/449a95fe9ad89ebf210f188589707db728bbf6a6_2_1380x772.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-04-19 at 12.37.14 PM</span><span class=\"informations\">2278×1276 199 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/9\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/9</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-05-05T17:16:05Z",
+   "updated_at": "2022-05-05T17:16:05Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 12%<br/>\nExit Tribute: 7%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 10%</strong><br/>\n<strong>Exit Tribute: 8%</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/282842b7e4d539f9be424be9fbd27a30106b5a0a\" href=\"https://forum.tecommons.org/uploads/default/original/1X/282842b7e4d539f9be424be9fbd27a30106b5a0a.png\" title=\"Screen Shot 2022-05-05 at 11.13.40 AM\"><img alt=\"Screen Shot 2022-05-05 at 11.13.40 AM\" data-base62-sha1=\"5Jfm7wiSXVayU1xrQvxH2qwMMVY\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/282842b7e4d539f9be424be9fbd27a30106b5a0a_2_10x10.png\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/282842b7e4d539f9be424be9fbd27a30106b5a0a_2_690x388.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/282842b7e4d539f9be424be9fbd27a30106b5a0a_2_690x388.png, https://forum.tecommons.org/uploads/default/optimized/1X/282842b7e4d539f9be424be9fbd27a30106b5a0a_2_1035x582.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/282842b7e4d539f9be424be9fbd27a30106b5a0a.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-05-05 at 11.13.40 AM</span><span class=\"informations\">1137×641 76.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/10\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/10</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-05-17T17:35:54Z",
+   "updated_at": "2022-05-17T17:35:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 10%<br/>\nExit Tribute: 8%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 8%</strong><br/>\n<strong>Exit Tribute: 9%</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/4a4a27606de950fb1409343cb358ae0fa8fc4d4c\" href=\"https://forum.tecommons.org/uploads/default/original/1X/4a4a27606de950fb1409343cb358ae0fa8fc4d4c.png\" title=\"Screen Shot 2022-05-17 at 11.35.09 AM\"><img alt=\"Screen Shot 2022-05-17 at 11.35.09 AM\" data-base62-sha1=\"aBccOhAkeft75mNJRfDTMn6eXZa\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4a4a27606de950fb1409343cb358ae0fa8fc4d4c_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4a4a27606de950fb1409343cb358ae0fa8fc4d4c_2_549x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4a4a27606de950fb1409343cb358ae0fa8fc4d4c_2_549x500.png, https://forum.tecommons.org/uploads/default/original/1X/4a4a27606de950fb1409343cb358ae0fa8fc4d4c.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/4a4a27606de950fb1409343cb358ae0fa8fc4d4c.png 2x\" width=\"549\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-05-17 at 11.35.09 AM</span><span class=\"informations\">577×525 94.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/11\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/11</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-05-20T03:46:31Z",
+   "updated_at": "2022-05-20T03:46:31Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I wanted to bump this thread while returning to some of the points <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> and <a class=\"mention\" href=\"/u/ratio\">@Ratio</a> made previously. This latest iteration of the proposal marks a critical point of inflection for the tribute curve as within around 24 hours now, the proposal will pass and the “<strong>tribute flippening</strong>” <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/> will be upon us. To Ratio’s point, I think that warrants either a new thread, or an expanded update from the OP on the relative successes or failures of the model up to this point, albeit with a caveat of consideration for the less than ideal condition of the market from ITD (Initialization to Date). This <em>should</em> be given greater visibility. If it isn’t more visible through re-posting with a new thread and update, we need to do a better job of speaking louder about what we want people’s attention on. This topic deserves that attention.</p>\n<p>Concerning the issues <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> raised:</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>One problem I see is that we are not united on who the target audience is regarding who will be contributing to the economic activity through the ABC. At the moment, we are encouraging individuals to use convert.tec and pay a premium without telling them they are paying a premium – all while limiting the liquidity on secondary markets.</p>\n</blockquote>\n</aside>\n<p>I completely agree with this; time has borne this out, though I have had the benefit of hindsight and an analytics dashboard. If we look at the <a href=\"https://dune.com/tecommons/TECommons\" rel=\"noopener nofollow ugc\">Dune Dashboard</a>, <a href=\"https://dune.com/queries/391366/746672\" rel=\"noopener nofollow ugc\">the number of Unique Holders is essentially flat since the end of January</a>, and that’s not without reason, or surprising considering this now rather prophetic observation.</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"862\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>There are a variety of audiences, my guess is the 2 biggest are speculators &amp; Token Engineers. I think it makes sense that we link people to the ABC to mint or burn tokens as it is our baby… especially because if they go to coingecko, they only see secondary market options.</p>\n</blockquote>\n</aside>\n<p>As much as I respect OP’s opinion on every aspect of every topic in every way, I unfortunately must point out that this has proven to be wishful thinking, as painful as that might be to say. And I may be completely wrong or out of line for saying so, I am an amateur in everything, including life in general, comparatively, but in terms of a “variety of audiences” the two biggest appear to be just one. The only speculators here are us, and <a href=\"https://dune.com/queries/392060/747973\" rel=\"noopener nofollow ugc\">looking at the entry or exit tributes over the full time span</a>, nobody found their way to the ABC with any degree of regularity, if at all. Our baby is starving.<br/>\n<img alt=\"hungry-feed\" class=\"animated\" data-base62-sha1=\"g1pX8hTOTgyKeqkRHd4STq2DTMw\" height=\"212\" src=\"https://forum.tecommons.org/uploads/default/original/1X/704bd5eb921767d724530872950d6e1d8e26ff04.gif\" width=\"244\"/></p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>If the most optimal functioning of this type of token-economic system is through arb. bots then perhaps we should reflect our tributes to encourage this type of participation, and fully support the liquidity on secondary markets. But this may not be our true goal.</p>\n</blockquote>\n</aside>\n<p>If this truly has been the intention, then we need to not only fully support the liquidity on secondary markets, but we need MORE markets, lots more. And we could be a lot more “transparent” about this being the intent. Arbitrage is not a dirty word. I’d been made to feel in the past, by my own lack of understanding, that this activity was considered to be unethical behavior, and perhaps within some contexts, it is when markets are being manipulated intentionally to skew the prices one way or another widening the spread, but if this market mechanism is something that can fund the commons, embracing it seems to be more prudent than quietly encouraging it here and there. Navy SEALs say “Embrace the Suck.” Let’s “Embrace the Arb.” Clearly somebody’s or some somebody’s bots are doing so with the buying patterns on the secondary market as evidenced on the <a href=\"https://dune.com/queries/392217/748308\" rel=\"noopener nofollow ugc\">dashboard</a>, but if we were to greatly multiply the number of markets, perhaps on different chains or through something gross like (<em>sigh</em>) paying to have the token listed on some CEXs ( <img alt=\":grimacing:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grimacing.png?v=10\" title=\":grimacing:\"/> <img alt=\":nauseated_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/nauseated_face.png?v=10\" title=\":nauseated_face:\"/>), we could potentially build something like an API for bots to interact directly with the ABC and charge a fee for doing so, drastically increasing the volume against the ABC, and tightening the market to burn prices. With a radically increased volume, we could theoretically thin the tributes down to something miniscule but still enjoy a much more healthy inbound revenue stream. Essentially nobody would notice they were funding the commons while making money from the natural speculation, yet the volatility would still be mitigated by the ABC. I have some other thoughts on volatility mitigation, but that’s coming in another topic. It’s just a thought but I’m just throwing it all out there. I’m happy to be called an idiot for overlooking some technicality, or misunderstanding our broader intentions or even sounding, not unethical, but perhaps untoward. If I can be told I’m wrong because I say something other’s might be thinking but are afraid to volunteer because of walking on eggshells, I’m delighted to have someone tell me I’m an idiot and have the collective look, and be, righteous as a result. I’m crazy stupid like that. <img alt=\":crazy_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crazy_face.png?v=10\" title=\":crazy_face:\"/></p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"862\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Perhaps, we want to encourage new behaviors around the funding of public goods where everyone with a TEC token has pledged properly, knowingly paid 22%, and entering into our economy with purpose and alignment. This is what the current setup was made for. I think the issue is not that the tribute is too high, but we are trying to get people to come to us, rather than us going to them.</p>\n<p>I think our current 22% Entry Tribute could work if the large DEXs had a dedicated section for this type of token economy (a public-goods, ABC economy). A section where we are not just one token in a list of 100 in a drop-down menu, but a dedicated section that allows users to interface with ABC economies – specifically ones that are creating Public Goods.</p>\n</blockquote>\n</aside>\n<p>Last point I’ll make in this thread is that I agree with this, and think that a directed “marketing” (another not dirty word) effort is wholly appropriate considering what is at stake, and the way that this token, and cryptoeconomic mechanism/model/ecosystem, is different than any other. What each of you has contributed to building here collectively represents a blended wonder of economics and culture that stands alone in this brave new world. It is awesomely beautiful and powerful. But let’s keep being brave. And keep being new. There are some things that I feel may be constraining us in a way that, while noble in the sense of erring on the side of caution, could ultimately prove folly from excessive fear. Our Trusted Seed has been planted, and is indeed alive, but if we hide our baby from the light for fear of the heat of the Sun… baby might not grow to be all it could have been.<br/>\n<img alt=\"feed-me-seymour\" data-base62-sha1=\"acQQN3BeNkFm5jMWFdHsPVqGW92\" height=\"183\" src=\"https://forum.tecommons.org/uploads/default/original/1X/4789aadb844edce0f2d2817954c98e3a9a9b7808.jpeg\" width=\"276\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-05-31T18:40:46Z",
+   "updated_at": "2022-05-31T18:40:46Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"15\" data-topic=\"862\" data-username=\"gene\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gene/40/446_2.png\" width=\"20\"/> gene:</div>\n<blockquote>\n<p>This <em>should</em> be given greater visibility. If it isn’t more visible through re-posting with a new thread and update, we need to do a better job of speaking louder about what we want people’s attention on. This topic deserves that attention.</p>\n</blockquote>\n</aside>\n<p>I strongly agree we should have a new thread for figuring out a new strategy for the Tributes!</p>\n<p>But I don’t think that while we are still doing the same vote over and over again to fulfill the original intent of this thread (to bring it to 2% entry and 12% exit), that making a new vote for slightly more visibility is worth losing the the context is really nice to be seen in the vote itself.</p>\n<p>On the rest of the post. Love the passion Gene and agree with pretty much all of it, I think most of these topics deserve their own forum post, and are in the scope of Comms or Sampo. They might get lost here.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-05-31T18:47:01Z",
+   "updated_at": "2022-05-31T18:47:01Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 8%<br/>\nExit Tribute: 9%</p>\n<p>We have had the Flippening!</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 6%</strong><br/>\n<strong>Exit Tribute: 10%</strong></p>\n<p>Now we enter, Divergence!</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/d376f4e829f289ece0d58682e3144697fb45c8bc\" href=\"https://forum.tecommons.org/uploads/default/original/1X/d376f4e829f289ece0d58682e3144697fb45c8bc.png\" title=\"Screen Shot 2022-05-31 at 12.46.10 PM\"><img alt=\"Screen Shot 2022-05-31 at 12.46.10 PM\" data-base62-sha1=\"uaHBNSo0EBQrMJOXcy4WnPXijgg\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/d376f4e829f289ece0d58682e3144697fb45c8bc_2_10x10.png\" height=\"374\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/d376f4e829f289ece0d58682e3144697fb45c8bc_2_690x374.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/d376f4e829f289ece0d58682e3144697fb45c8bc_2_690x374.png, https://forum.tecommons.org/uploads/default/optimized/1X/d376f4e829f289ece0d58682e3144697fb45c8bc_2_1035x561.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/d376f4e829f289ece0d58682e3144697fb45c8bc_2_1380x748.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-05-31 at 12.46.10 PM</span><span class=\"informations\">2262×1228 184 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/12\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/12</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-06-16T16:35:21Z",
+   "updated_at": "2022-06-16T16:35:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 6%<br/>\nExit Tribute: 10%</p>\n<p>We only have 2 more votes left before we reach parody with the suggested tributes!!</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-next-step-and-make-them-1\" name=\"lets-take-the-next-step-and-make-them-1\"></a>Let’s take the next step and make them:</h3>\n<p><strong>Entry Tribute: 4%</strong><br/>\n<strong>Exit Tribute: 11%</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/510de3967057fd9fd40ebe1899b1222d95f33fab\" href=\"https://forum.tecommons.org/uploads/default/original/1X/510de3967057fd9fd40ebe1899b1222d95f33fab.png\" title=\"Screen Shot 2022-06-16 at 9.33.34 AM\"><img alt=\"Screen Shot 2022-06-16 at 9.33.34 AM\" data-base62-sha1=\"bz2qNj7m2eeqkxmLeYVo39NzJ1x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/510de3967057fd9fd40ebe1899b1222d95f33fab_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/510de3967057fd9fd40ebe1899b1222d95f33fab_2_535x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/510de3967057fd9fd40ebe1899b1222d95f33fab_2_535x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/510de3967057fd9fd40ebe1899b1222d95f33fab_2_802x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/510de3967057fd9fd40ebe1899b1222d95f33fab_2_1070x1000.png 2x\" width=\"535\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-06-16 at 9.33.34 AM</span><span class=\"informations\">1352×1262 136 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/13\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/13</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-07-19T07:23:15Z",
+   "updated_at": "2022-07-19T07:23:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>LAST ONE!!! Goldilocks will be complete after this last vote <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>\n<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 4%<br/>\nExit Tribute: 11%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-last-step-and-make-them-1\" name=\"lets-take-the-last-step-and-make-them-1\"></a>Let’s take the LAST step and make them:</h3>\n<p><strong>Entry Tribute: 2%</strong><br/>\n<strong>Exit Tribute: 12%</strong></p>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/16\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/16</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-07-24T13:57:45Z",
+   "updated_at": "2022-07-24T13:57:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Oops! We all got distracted with Conferences and with no community call last week, we didnt rock the vote.</p>\n<p>LAST ONE!!! Goldilocks will be complete after this last vote <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>\n<p>Currently our Tributes are:</p>\n<p>Entry Tribute: 4%<br/>\nExit Tribute: 11%</p>\n<h3>\n<a class=\"anchor\" href=\"#lets-take-the-last-step-and-make-them-1\" name=\"lets-take-the-last-step-and-make-them-1\"></a>Let’s take the LAST step and make them:</h3>\n<p><strong>Entry Tribute: 2%</strong><br/>\n<strong>Exit Tribute: 12%</strong></p>\n<p>Vote is up!<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/17\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/17</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006162615",
+    "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520064341",
+   "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520064341",
+   "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006162615",
+   "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006162615",
+   "url": "https://forum.tecommons.org/t/goldilocks-proposed-tribute-adjustments/862"
+  }
+ ]
+}

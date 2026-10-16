@@ -1,0 +1,71 @@
+{
+ "id": 48,
+ "title": "Step by step guide to help you interact with the new TEC CV (Conviction Voting) platform",
+ "slug": "step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform",
+ "category_id": 20,
+ "posts_count": 0,
+ "created_at": "2020-10-30T09:40:14.223Z",
+ "views": 73,
+ "last_posted_at": "2020-10-30T09:40:14.348Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2020-10-30T09:40:14Z",
+ "captured_between": [
+  "2020-10-31T22:43:16Z",
+  "2023-05-30T08:48:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-10-30T09:40:14Z",
+   "updated_at": "2021-01-11T18:18:19Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Here’s a quick guide to help you interact with the new Test site.</p>\n<p><strong>1.- Download and Intal Metamask.</strong> You need this wallet to interact with TEC test interface. You can follow the instructions in this <a href=\"https://www.youtube.com/watch?v=Sc8J98m6SZE\">video</a> but just follow the instructions up to minute 3 as you may not need to deposit any funds.</p>\n<p><strong>2.- Setup xDai Chain in your Metamask wallet.</strong> The new TEC test version runs in <a href=\"https://www.xdaichain.com/\">xDai chain</a>. This is also an Ethereum architecture blockchain but with very low transaction fees. Metamask has Ethereum Mainnet as its default configuration, there are also other Ethereum based test chains, but you need to configure xDai Chain to be able to interact with it. Follow the steps described in this <a href=\"https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup\">link</a> to do so.</p>\n<p><strong>3.- Select the address you provided to get your TESTTEC token.</strong> You may need to import that address if you do not have it added to your wallet. You will need your private key and follow <a href=\"https://metamask.zendesk.com/hc/en-us/articles/360015489331-Importing-an-Account\">these instructions</a>.</p>\n<p><strong>4.- Add TESTTEC tokens to Metamask.</strong> This is an optional step, as you do not need to visualize your test tokens in your wallet, you will see them on TEC Test webpage, but it is nice to also see them in your wallet. As TESTTEC is a custom token, you need to add it to Metamask manually. Click the “Add Token” button at the bottom of your assets, select “custom token” and paste this address <strong>0x8FbeD5491438B81b2fCDBFd4A53e7eD8d5B4f1be</strong> in the Token Contract Address field. Wait a couple of seconds to get the symbol and decimal places filled and click Add. Your token will appear in the screen with your balance.</p>\n<p><strong>5.- Fund your wallet to be able to transact.</strong> xDai chain uses xdai as its native token. xDai is a stablecoin, and its value is pegged to the USD; 1xDai=1USD. Transaction fees in xDai chain are very small, but you need some amount of xDai to be able to interact. There are several ways you can fund your wallet with some xDai. The easiest way is to use <a href=\"https://xdai-faucet.top/\">xdai faucet</a> to get 0.01 xdai. It may seem a very small amount but it should be enough for 500 transactions so you are ready to go. If the faucet does not work get in touch with one of the community stewards to get some xdai.</p>\n<p><strong>6.- Enable your account in TEC interface webpage.</strong> Head over to the <a href=\"https://tec-interface.vercel.app/\">webpage</a> and click in the Enable button in the top right corner, make sure you have selected xDai chain in your Metamask wallet and also the account holding your TESTTEC tokens is selected.</p>\n<p><strong>7. Use your voting power to support a proposal.</strong> At this point, you should be able to see your voting power on the webpage. Just select any proposal and add some of your voting power to support it. You can add any amount up to your inactive balance, the webpage will show you your total voting power balance and how much is still inactive. You can add or withdraw any amount of voting power at any time.</p>\n<p><strong>8.- Submit a proposal.</strong> You add a new proposal using this <a href=\"https://forum.tecommons.org/t/test-2-conviction-voting-signaling-proposal/47\">template</a>. Post your proposal info in the forum and then add the link to the post when creating the proposal.</p>\n<p><strong>9. Whatch the Conviction Voting</strong> <a href=\"https://www.youtube.com/watch?v=6ohUOlBwhek&amp;feature=emb_logo\">video</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> recorded to get a better understanding how the system works.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084811",
+    "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20201031224316",
+   "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20201101024113",
+   "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025112225",
+   "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025112225",
+   "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530084811",
+   "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530084811",
+   "url": "https://forum.tecommons.org/t/step-by-step-guide-to-help-you-interact-with-the-new-tec-cv-conviction-voting-platform/48"
+  }
+ ]
+}

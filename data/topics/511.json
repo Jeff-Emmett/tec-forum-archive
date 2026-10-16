@@ -1,0 +1,158 @@
+{
+ "id": 511,
+ "title": "The Power of Defaults in the Commons Configuration Dashboard",
+ "slug": "the-power-of-defaults-in-the-commons-configuration-dashboard",
+ "category_id": 28,
+ "posts_count": 6,
+ "created_at": "2021-07-26T06:29:09.166Z",
+ "last_posted_at": "2021-09-12T20:41:46.582Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-09-12T20:41:46Z",
+ "captured_between": [
+  "2021-09-28T02:28:22Z",
+  "2023-05-30T08:06:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-07-26T06:29:09Z",
+   "updated_at": "2021-12-02T14:56:42Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>The Commons Config Dashboard is the next big product to come out of the Params Working Group. It is inspired greatly by the <a href=\"http://params.tecommons.org/hatch\">Hatch Config Dashboard</a> and the <a href=\"https://sim.commonsstack.org/\">Commons Simulator</a>.</p>\n<p>The scope is ambitious. We want to create an easy experience for the TE Commons (and other future Commons) to configure their Commons Upgrade. This will be a robust tool that encompasses configuring the Augmented Bonding Curve, Token Thaw, Disputable Conviction Voting, and Disputable Voting Aragon Apps.</p>\n<p>There are well over 30 parameter choices that can be configured. Creating a dashboard that educates our community about the impacts of every possible choice would make for an extremely complex user experience, and would take many many months to execute. Fortunately, not all parameters are created equal. They each have a varying impact on the organizational structure, varying ripple effects on the larger system, and varying complexity. In the case of some parameters, the effect of customization is very small in comparison to the effort required to make sense of the parameter.</p>\n<p>To reduce the scope, while still empowering our expert users to design the full Commons configuration, we will have a configurable “Advanced Area” with parameters that, in our opinion, have minimal impact, excessive complexity, or both!</p>\n<p>The parameters in the Advanced Area of the dashboard can still be changed, and their impacts will be visible in the Commons Config Dashboard, but these impacts will not be emphasized. Why do we do that?</p>\n<p>We have chosen, to some extent, to rely on the <strong>Power of Defaults</strong>. We do not take this decision lightly; the <a href=\"https://en.wikipedia.org/wiki/Default_effect\">Default Effect</a> is real and could be abused to influence our design in ways that contradict our intention to end the crypto technocracy. This is why we are explicitly stating this here and will have open discussions with various working groups to determine the defaults.</p>\n<h2>\n<a class=\"anchor\" href=\"#commons-config-dashboard-parameters-1\" name=\"commons-config-dashboard-parameters-1\"></a>Commons Config Dashboard Parameters</h2>\n<p>The parameters that we will focus on ensuring the community understands and can configure:</p>\n<h3>\n<a class=\"anchor\" href=\"#token-thaw-2\" name=\"token-thaw-2\"></a>Token Thaw</h3>\n<p>Opening Price: ___ wxDai</p>\n<p>Token Freeze: ___ weeks</p>\n<p>Token Thaw: ___ weeks</p>\n<h3>\n<a class=\"anchor\" href=\"#augmented-bonding-curve-3\" name=\"augmented-bonding-curve-3\"></a>Augmented Bonding Curve</h3>\n<p>Commons Tribute (formerly Hatch Tribute): ___ % of Hatch Funds</p>\n<p>Entry Tribute: ___ % of conversion</p>\n<p>Exit Tribute: ___ % of conversion</p>\n<h3>\n<a class=\"anchor\" href=\"#disputable-conviction-voting-4\" name=\"disputable-conviction-voting-4\"></a>Disputable Conviction Voting</h3>\n<p><a href=\"https://forum.tecommons.org/t/spending-limit-aka-max-ratio-beta/469\">Spending Limit</a> (formerly <a href=\"https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156\">Max Ratio</a>): ___ % of Common Pool</p>\n<p>Conviction Growth (formerly <a href=\"https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160\">Half-life</a>): ___ days to 50% voting power</p>\n<p>Minimum Conviction (formerly <a href=\"https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155\">Min Threshold</a>): ___ % of Conviction</p>\n<h3>\n<a class=\"anchor\" href=\"#disputable-voting-5\" name=\"disputable-voting-5\"></a>Disputable Voting</h3>\n<p>Support Required: ___ %</p>\n<p>Minimum Quorum: ___ %</p>\n<p>Vote Duration: ___ days</p>\n<p>Delegated Voting Period: ___ days</p>\n<p>Quiet Ending Period: ___ days</p>\n<p>Quiet Ending Extension: ___ hours</p>\n<p>Execution Delay: ___ days</p>\n<h2>\n<a class=\"anchor\" href=\"#parameters-left-out-6\" name=\"parameters-left-out-6\"></a>Parameters Left Out</h2>\n<p>There is still some engineering work being done to fully map the configuration parameters for this deployment, so not all the parameters are known at the time of writing this post. For now, the parameters slated for the Advanced Area are:</p>\n<h3>\n<a class=\"anchor\" href=\"#augmented-bonding-curve-7\" name=\"augmented-bonding-curve-7\"></a>Augmented Bonding Curve</h3>\n<p>Transferability: Yes/No</p>\n<p>Token Name: Token Engineering Commons</p>\n<p>Token Decimals: 18</p>\n<p><a href=\"https://forum.tecommons.org/t/virtual-supply-and-virtual-balance/467\">Virtual Supply:</a> ___ TEC</p>\n<p><a href=\"https://forum.tecommons.org/t/virtual-supply-and-virtual-balance/467\">Virtual Balance</a>: ___ wxDai</p>\n<h3>\n<a class=\"anchor\" href=\"#disputable-conviction-voting-8\" name=\"disputable-conviction-voting-8\"></a>Disputable Conviction Voting</h3>\n<p>Minimum Effective Supply: ___ % of Total Supply</p>\n<h3>\n<a class=\"anchor\" href=\"#disputable-voting-and-disputable-conviction-voting-9\" name=\"disputable-voting-and-disputable-conviction-voting-9\"></a>Disputable Voting and Disputable Conviction Voting</h3>\n<p><a href=\"https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468\">Proposal Deposit</a>: ___ xDai</p>\n<p><a href=\"https://forum.tecommons.org/t/settlement-period/470\">Settlement Period</a>: ___ days</p>\n<p><a href=\"https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468\">Challenge Deposit</a>: ___ xDai</p>\n<p>Permissions</p>\n<h3>\n<a class=\"anchor\" href=\"#migration-10\" name=\"migration-10\"></a>Migration</h3>\n<p>Hatchers that Ragequit: ____ wxDai</p>\n<p>Initial Buy: _____ wxDai</p>\n<p>TEC Minting Rate: 1 TEC/TECH</p>\n<h3>\n<a class=\"anchor\" href=\"#gardens-specific-params-11\" name=\"gardens-specific-params-11\"></a>Gardens Specific Params</h3>\n<p>Common Pool Amount: 0 wxDai</p>\n<p>Honey Token Liquidity In xDai: 100 xDai</p>\n<p>Garden Token Liquidity: 1 TEC</p>\n<h1>\n<a class=\"anchor\" href=\"#reasons-for-exclusion-proposal-for-who-will-pick-the-defaults-12\" name=\"reasons-for-exclusion-proposal-for-who-will-pick-the-defaults-12\"></a>Reasons for Exclusion &amp; Proposal for who will pick the Defaults</h1>\n<p>This is the working proposal for our direction for these parameters, please comment in this post if you have any suggestions</p>\n<h2>\n<a class=\"anchor\" href=\"#transferability-token-name-13\" name=\"transferability-token-name-13\"></a>Transferability, Token Name</h2>\n<ul>\n<li>The choices and their impacts can be easily understood and defined by social consensus in the forums so we removed them to cut scope and streamline the user experience.</li>\n<li>Will be configurable in the Advanced Area.</li>\n<li><strong>Defaults decided by the Stewards.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#virtual-supply-virtual-balance-14\" name=\"virtual-supply-virtual-balance-14\"></a>Virtual Supply &amp; Virtual Balance:</h2>\n<ul>\n<li>Have a very complicated impact on the ABC and should only be used in specific instances with a lot of consideration.</li>\n<li>Will be configurable in the Advanced Area.</li>\n<li><strong>Defaults decided by the Commons Swarm.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#min-effective-supply-15\" name=\"min-effective-supply-15\"></a>Min Effective Supply</h2>\n<ul>\n<li>Edge case protection for Conviction Voting, unlikely to be important after system initialization</li>\n<li>Will be configurable in the Advanced Area.</li>\n<li><strong>Default decided by the Commons Swarm.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#initital-buy-into-the-bonding-curve-16\" name=\"initital-buy-into-the-bonding-curve-16\"></a>Initital Buy into the Bonding Curve</h2>\n<ul>\n<li>It is still <a href=\"https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574\">a work in progress</a>, we will have to make an estimate.</li>\n<li>This Parameters and its impact can be easily understood and defined by social consensus in the forums so we removed it to cut scope and streamline the user experience.</li>\n<li>Will be configurable in the Advanced Area.</li>\n<li><strong>Default decided by the Stewards.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#proposal-deposit-challenge-deposit-settlement-period-17\" name=\"proposal-deposit-challenge-deposit-settlement-period-17\"></a>Proposal Deposit, Challenge Deposit &amp; Settlement Period</h2>\n<ul>\n<li>Gardens is set up to have the same settings for these for both Disputable Voting and Disputable Conviction Voting.</li>\n<li>Parameters and impacts can be easily understood and defined by social consensus in the forums so we removed them to cut scope and streamline the user experience.</li>\n<li>Will be configurable in the Advanced Area.</li>\n<li><strong>Default decided by the Stewards, potentially adjusted at the last minute if it changes.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#permissions-for-changing-all-parameters-and-general-dao-functionality-18\" name=\"permissions-for-changing-all-parameters-and-general-dao-functionality-18\"></a>Permissions for changing all Parameters and general DAO functionality</h2>\n<ul>\n<li>Originally there was a plan to have <a href=\"https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131\">multiple Disputable Voting instances</a>, but this customization complicates launching with Gardens so, if desired, it will need to be done after the Commons Upgrade is complete with a vote.</li>\n<li>With one Disputable Voting instance, the permissions that make sense for the community to choose are all the same, the one Disputable Voting instance will end up with the power to change all the relevant parameters via a vote, so there aren’t any choices to be made.</li>\n<li>Other Permissions are somewhat complicated and very much only configurable by the Commons Swarm, they mostly consist of different apps having special privileges to interact with each other, like the Disputable Conviction Voting app being able to spend funds out of the Common Pool Agent app.</li>\n<li><strong>Configured by the Commons Swarm. Permissions will not be shown in the Advanced Area for simplicity.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#hatchers-that-ragequit-19\" name=\"hatchers-that-ragequit-19\"></a>Hatchers that Ragequit</h2>\n<ul>\n<li>This is not actually a parameter for the Commons but an assumption that must be made for the dashboard to be accurate.</li>\n<li>It will have a very complicated impact on the dashboard outputs.</li>\n<li>Configuring this choice should be used cautiously and before submitting it should be set back to the original default value.</li>\n<li>It is important that its impacts can be easily understood and defined by social consensus in the forums so we removed it to cut scope and streamline the user experience.</li>\n<li>Will be configurable in the Advanced Area.</li>\n<li><strong>Default decided by Params based on the current value and an estimate.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#tec-minting-rate-token-decimals-20\" name=\"tec-minting-rate-token-decimals-20\"></a>TEC Minting Rate &amp; Token Decimals</h2>\n<ul>\n<li>The Hatch Minting rate was selected in the Hatch and is assumed to carry over for user experience reasons. People will send 1 wxDai to mint 1 TECH, so there is a natural expectation that 1 TECH = 1 TEC.</li>\n<li>The Decimals would change this ratio as well, but in a very non-intuitive way, which is inaccessible to us because it is configured in Gardens, so no-go.</li>\n<li>As the code to change will not be included in the scope of the Commons Upgrade so it will not be configurable.</li>\n<li><strong>Default decided by the Commons Swarm. Will not be shown in the Advanced Area.</strong></li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#common-pool-amount-honey-token-liquidity-in-xdai-garden-token-liquidity-existing-token-liquidity-21\" name=\"common-pool-amount-honey-token-liquidity-in-xdai-garden-token-liquidity-existing-token-liquidity-21\"></a>Common Pool Amount, Honey Token Liquidity In xDai, Garden Token Liquidity, Existing Token Liquidity</h2>\n<ul>\n<li>The Commons Swarm is using the Gardens Template to complete the Commons Upgrade. These parameters are latent to that template and are not needed as the liquidity requirements of our project are solved by our Augmented Bonding Curve.</li>\n<li>The Commons Swarm will work with the Gardens Swarm to better understand how these Parameters can be utilized by the TEC.</li>\n<li>Names are still a WIP.</li>\n<li><strong>Default decided by the Commons Swarm. May not even be shown in the Advanced Area, these impacts are still being researched and it’s inclusion will be determined during the Hatch.</strong></li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-07-26T06:30:34Z",
+   "updated_at": "2021-07-26T06:55:07Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I don’t really think we need to vote on this like a formal proposal unless there is contention some where… This is posted here more to get feedback if anyone has any and to bring awareness to some work this week and next on picking defaults!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-07-26T16:39:19Z",
+   "updated_at": "2021-07-26T16:39:19Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’m wondering… could we offer ‘default to so and so’ on the included dashboard parameters?</p>\n<p>That way, people can add their input for the params they have a good understanding of, and choose to relegate the params they’re uncertain of to defaults that have already been decided by the stewards or the commons swarm. We’d be encouraging the community to get educated but negating people feeling pressured to educate themselves on all params (maybe they don’t have time, or they just don’t understand that particular param).</p>\n<p>A kind of pick and choose: educate and give your input where you can/want to, choose the default option where you want to.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-07-27T21:17:19Z",
+   "updated_at": "2021-07-27T21:57:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Wow that is a serious concept laid-out very clearly.  Another rabbit hole to explore! The ‘default effect’ is so interesting.  I think most people are prone to use defaults very frequently.  Probably the less serious the decision the more likely defaults get used.  Reviewing these variables was good education for me.  Need to ruminate on this for a while so not many comments at this point however I do think <em>completeness is more important than clarity</em>.  So we should publish most variables on the interface.</p>\n<p>The advanced area is sufficient to protect the items from being mistakenly operated.  If something is extremely dangerous it can still be guarded with an extra click-to-confirm warning.</p>\n<p>We want to ensure the most information gets to the most people enabling them to have the most control over their own economy.  I usually speak from a position of increasing transparency and individual-control, and that is the case here too.  We should build the interface to provide maximum information.</p>\n<p>Great work on this doc Griff and I look forward to testing out the dashboard interface.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-07-28T17:10:57Z",
+   "updated_at": "2021-07-28T17:10:57Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Kind of! We will start with a full design, and whenever someone makes a proposal, you can fork it and change just the 1 or 2 params that you like!</p>\n<p>Most params are all very connected, so making a default for them would be really complicated…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-07-29T12:29:16Z",
+   "updated_at": "2021-07-29T12:29:16Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Ah, that’s a shame. But thanks for considering it as an idea <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-12T20:41:46Z",
+   "updated_at": "2021-09-12T20:52:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Edited to fix some units and names &amp; add initial buy from: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574\">Should we do the initial buy into the bonding curve?</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080648",
+    "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928022822",
+   "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928022822",
+   "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124042719",
+   "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124042719",
+   "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080648",
+   "url": "https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511/7"
+  }
+ ]
+}

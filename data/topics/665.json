@@ -1,0 +1,201 @@
+{
+ "id": 665,
+ "title": "Changing permissions on the HatchDAO",
+ "slug": "changing-permissions-on-the-hatchdao",
+ "category_id": 7,
+ "posts_count": 7,
+ "created_at": "2021-10-12T14:38:21.826Z",
+ "views": 20,
+ "last_posted_at": "2021-11-03T02:07:37.904Z",
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "tags": [
+  "hatch-dao-voting"
+ ],
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-11-03T02:07:37Z",
+ "captured_between": [
+  "2021-10-12T23:49:10Z",
+  "2022-07-06T01:30:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-12T14:38:22Z",
+   "updated_at": "2021-11-09T05:00:40Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#changing-permissions-on-the-hatchdao-so-we-can-pass-our-first-vote-1\" name=\"changing-permissions-on-the-hatchdao-so-we-can-pass-our-first-vote-1\"></a>Changing permissions on the HatchDAO so we can pass our first vote</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p>TL;DR</p>\n<p>There was a technical oversight and we need to give the HatchDAO permission to Mint and Burn Tokens before we can execute the <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/15\">One Time Change of TECH Addresses</a> Vote. This vote will do that.</p>\n<p>Background:</p>\n<p>As you can see on <a href=\"https://blockscout.com/xdai/mainnet/tokens/0x799844141C2627bD195c89c3A0c71341d0314c55/token-transfers\">blockscout</a> the burn and mint of the addresses from the last vote did not execute even though the <a href=\"https://aragon.1hive.org/?#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/1/\">vote passed</a>, the reason is because our HatchDAO lacks the permissions for burning and minting tokens, you can read more about it on this <a href=\"https://forum.tecommons.org/t/tec-hatch-rehearsal-implementation-specification/448\">thread</a>.</p>\n<p>But basically when anyone presses “execute” on the vote this is what we get:<img alt=\"\" data-base62-sha1=\"7PS3g9W3tfAZxZ8gu7bDSUbxeMp\" height=\"203\" src=\"https://forum.tecommons.org/uploads/default/original/1X/36ec4ca73ad973e7d389230df0b3d80383f7a099.png\" width=\"364\"/></p>\n<p>So if we want to execute this vote we have to change those permissions, and as any modification we want to do on the Hatch DAO we have to vote.</p>\n<p>Proposal Details:</p>\n<p>We will be taking these actions:</p>\n<ul>\n<li>Pay the Tollgate fee of 1000 wxDai</li>\n<li>Reimburse the Tollgate fee, sending 1000 wxDai</li>\n<li>Grant the Dandelion Voting app permissions to Mint TECH Tokens in the Token Manager</li>\n<li>Grant the Dandelion Voting app permissions to Burn TECH Tokens in the Token Manager</li>\n</ul>\n<p>Expected duration or delivery date (if applicable):</p>\n<p>Wednesday Oct 13th will start the vote and it will get done as soon as the proposal passes</p>\n<p>How does this help Token Engineers and benefit the Token Engineering community?</p>\n<p>The intention to pass this proposal is to be able to execute<a href=\"https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr\"> One time change of TECH addresses</a> that have already <a href=\"https://aragon.1hive.org/?#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/1/\">passed</a> and we will be able to execute if that proposal passes.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-3\" name=\"team-information-for-funding-proposals-3\"></a>Team Information (For Funding Proposals)</h2>\n<p>These are the community members that will support and provide the initial funding for the tollgate fee for the Hatch DAO proposal.</p>\n<p>Zeptimus</p>\n<p>Griff</p>\n<p>Sem</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-4\" name=\"funding-information-for-funding-proposals-4\"></a>Funding Information (For Funding Proposals)</h2>\n<p>Amount of tokens requested:</p>\n<p>1000 wxDAI from the non-redeemable pool in order to cover the tollgate fee</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-10-12T16:16:39Z",
+   "updated_at": "2021-10-12T16:16:39Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thx for the update on this Zepti!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-10-12T18:28:10Z",
+   "updated_at": "2021-10-12T18:28:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>In case of any questions, here is a few things worth mentioning/reiterating:</p>\n<ul>\n<li>This is a technical requirement in order to execute the vote that has already passed.</li>\n<li>This only impacts the voting app and only allows the right to mint and burn tokens.</li>\n<li>Without this vote passing, the previous vote to burn and mint new tokens cannot be executed.</li>\n</ul>\n<p>As <a class=\"mention\" href=\"/u/sem\">@sem</a>  mention in the <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/23\">TECH address change vote thread</a>, this vote should happen soon to fulfil the Community’s decision to burn and mint tokens for those that have lost access to their wallets.</p>\n<p><a class=\"mention\" href=\"/u/sem\">@sem</a>  is submitting it to the HatchDAO (tonight) Wednesday Oct 13th at 0:00 UTC.</p>\n<p>The vote will be live for 4 days. Please do support this proposal by voting yes.</p>\n<p>The URL for the vote will be posted here!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-10-12T22:39:29Z",
+   "updated_at": "2021-10-12T22:39:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Just to be even more clear. This vote only creates <strong>new mint and burn permissions for the voting app</strong>. This is needed to make the previous vote pass, and this is the only reason why it’s done. This permission change does not affect the Commons Upgrade at all.</p>\n<p>The vote has been created at October-13-2021 12:20 AM CEST (midnight) and will be live until October 17 12:20 AM CEST (midnight). <a href=\"https://xdai.aragon.blossom.software/#/0x4625c2c3E1Bc9323CC1A9dc312F3188e8dE83f42/0x9b54222e0e3d3a6352ff5184f848919591321159/vote/2/\">You can vote in Blossom Labs’ Aragon Client</a> (it should be way more reliable than the one used in the previous vote).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-10-12T23:07:09Z",
+   "updated_at": "2021-10-12T23:07:09Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>For more info, the vote was created in this <a href=\"https://blockscout.com/poa/xdai/tx/0x22950681cbffbff5390018c79ae3b6dee24dbf5d252c79d085c0e5ca55c10216\">transaction</a>, and the time that is shown in the dandelion app is not accurate (as it is doing the calculation with mainnet block times instead of xdai block times!). It will finish in 4 days.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-10-13T08:35:38Z",
+   "updated_at": "2021-10-13T08:35:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>That reached passing threshold quickly!<br/>\n<img alt=\"Screen Shot 2021-10-13 at 10.34.23 AM\" data-base62-sha1=\"tFlZhHJZEhZpd9bqSi3FFea1zu2\" height=\"337\" src=\"https://forum.tecommons.org/uploads/default/original/1X/cfebc72cce33fdf170e696c1c02a7dd5d3f16b6a.png\" width=\"286\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-10-25T19:12:12Z",
+   "updated_at": "2021-10-25T19:12:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>A third vote is going to be required unfortunately… <a href=\"https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672\">The voting app should be able to transfer funds from the non-redeemable pool</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-11-03T02:07:37Z",
+   "updated_at": "2021-11-03T02:07:37Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>This vote has been executed on November 3rd 2021.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706013016",
+    "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211012234910",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025111253",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025111253",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520081111",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520081111",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706003747",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665/3"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706003747",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706013016",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706013016",
+   "url": "https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665"
+  }
+ ]
+}

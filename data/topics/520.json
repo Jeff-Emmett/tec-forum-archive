@@ -1,0 +1,179 @@
+{
+ "id": 520,
+ "title": "A culture of self-organising small teams and sharing the responsibility",
+ "slug": "a-culture-of-self-organising-small-teams-and-sharing-the-responsibility",
+ "category_id": 5,
+ "posts_count": 8,
+ "created_at": "2021-08-01T13:59:01.256Z",
+ "last_posted_at": "2021-09-02T15:54:52.729Z",
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-09-02T15:54:52Z",
+ "captured_between": [
+  "2021-09-28T01:43:55Z",
+  "2023-05-30T08:08:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-08-01T13:59:01Z",
+   "updated_at": "2021-08-01T13:59:01Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<p>Tam asked me to share my thoughts on the TEC’s org. design, since this is something that I work with individuals and organisations on. I’d love to learn how this lands, where you might see similar things to me, or where you see things differently. It’s important to acknowledge that I have my particular biases and see things from my perspective.</p>\n<p><strong>My particular perspective</strong><br/>\nWhen I’m looking at organisational design (or community design), the aspects I’m looking for and taking notice of include:</p>\n<ol>\n<li>\n<p>What are the information pathways? And are they getting information where it needs to be?</p>\n</li>\n<li>\n<p>What are the invisible and visible systems? And how do they impact information flow, efficiency, and the human experience?</p>\n</li>\n<li>\n<p>Are there unintentional barriers and blocks arising from the systems, especially from the invisible systems?</p>\n</li>\n<li>\n<p>What are the needs of the community? And can we be tweaking the systems and structures so those needs are better met?</p>\n</li>\n<li>\n<p>Are there clear agreements, expectations, and guidelines? And are they being adhered to?</p>\n</li>\n<li>\n<p>Are there clear shared values, goal, direction, purpose (etc.) and are the impact of the systems and structures taking the community closer to or further from that?</p>\n</li>\n<li>\n<p>Are the systems and structures we’ve created and find ourselves in here helping the work be done efficiently and joyfully?</p>\n</li>\n<li>\n<p>And finally - what might be the small and manageable changes that can be made that are likely to have the largest positive impact overall?</p>\n</li>\n</ol>\n<p><strong>Notes on use of language here:</strong></p>\n<p>I see <strong>invisible systems</strong> as any repeated behaviour, agreement, or expectation that leads to repeated and similar outcomes. Invisible systems (as with visible systems) are neither positive nor negative. However, <em>the impact they have on a community</em> is usually positive or negative.</p>\n<p><img alt=\":point_down:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_down.png?v=9\" title=\":point_down:\"/></p>\n<p>I judge the <strong>impact on a community</strong> as negative or positive depending on whether its impact causes us to head closer towards a community or orgs’ purpose, agreements, and values - or in the TEC’s case, MVVs (Mission, Vision, and Values) and the agreements and values laid out in the Handbook - or further away from them.</p>\n<p>There can be <strong>numerous systems</strong> within a larger system, and <strong>numerous structures</strong> within a larger structure. A system will include the structures, but add to it information and feedback flows, effects, and behaviour. An example of a structure in the TEC is the 11 Working Groups. They form the backbone of the TEC organisational structure. They also have agreed structures within them, like the fact that each WG has a steward and each WG has a weekly or bi-weekly call. Working Groups are also part of a system of information flows, with information flows happening in various ways: out from the stewards to everyone else during the WG calls, in to the stewards at the stewards WG call, in to the stewards from individual contributors that suggest tasks that need to be done, etc.</p>\n<p><strong>My reflections and suggestions</strong><br/>\nBelow I offer some reflections on the current TEC organisational design and the ways that they might be bringing us closer or further away from our goals. These are, of course, just my reflections and I may not be seeing something outside of my view here at the TEC.</p>\n<p><strong>Stewards</strong> <img alt=\":green_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=9\" title=\":green_heart:\"/></p>\n<p>I love the framing of the visible leadership within the TEC as ‘stewards’. While stewardship is often defined <a href=\"https://www.merriam-webster.com/dictionary/ste\" rel=\"noopener nofollow ugc\">quite drily</a>, <a href=\"https://en.wikipedia.org/wiki/Stewardship\" rel=\"noopener nofollow ugc\">Wikipedia’s descriptio</a>n of stewardship as an ‘ethic’ and ‘the acceptance or assignment of responsibility to shepherd and safeguard the valuables of others.’ (though I would amend that to read ‘of us all’) is the one that I am drawn to. I always feel the love and care of the TEC’s stewards.</p>\n<p>Having one person that shepherds and safeguards each Working Group is crucial. However, I’ve been noticing that:</p>\n<ol>\n<li>\n<p>Stewards seem to be working beyond their capacity.</p>\n</li>\n<li>\n<p>Unintentionally, Stewards are acting as gatekeepers, especially of off-chain decisions that aren’t being put to a vote, which can cause them to sometimes become barriers or blocks to contributors. Currently, stewards are the main information source, especially about what’s happening throughout the TEC. They are the ones that during the WG calls ask for help in certain tasks, or gather information from the contributors attending. They also manage the WGs tasks and share their needs for specific tasks or projects with the wider community.</p>\n</li>\n<li>\n<p>Stewards are at times blocking the TEC from embedding autonomy (or agency) as a core cultural value, for the above reasons, and because (again, likely unintentionally) there seems to be a culture of needing approval from a steward before moving forwards with a new task or project;</p>\n</li>\n<li>\n<p>Due to working beyond their capacity, Stewards are not able to focus on shepherding and safeguarding, and instead are having to become overworked project managers.</p>\n</li>\n</ol>\n<p>The potential impact of the above includes:</p>\n<ol>\n<li>\n<p>Slow movement on contributor ideas if the steward isn’t responsive (or potentially a contributor withdrawing from the community).</p>\n</li>\n<li>\n<p>An unintentional hierarchy of information flow, which puts too much responsibility in the hands of one person (causing stress) and too little responsibility in the hands of contributors (causing disengagement).</p>\n</li>\n<li>\n<p>A lack of true autonomy (agency) when stewards are the ones looked to for giving a thumbs up or thumbs down to tasks suggested by the contributors. This unintentionally causes a mismatch between the statement in the handbook: <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/processes/how-do-we-work-together\" rel=\"noopener nofollow ugc\">‘The TEC is a do-ocracy, which means that anyone who sees a problem that needs to be solved or an opportunity for improvement and engagement has the agency to act.’</a></p>\n</li>\n<li>\n<p>A mismatch between the stated code of conduct of the TEC: ‘<a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/code-of-conduct\" rel=\"noopener nofollow ugc\">Non-hierarchical - Everyone is encouraged to exercise their autonomy, creativity and full agency when acting in the Commons.</a>’, and the reality, as shared above.</p>\n</li>\n<li>\n<p>A mismatch between the stated code of conduct of the TEC: ‘<a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/code-of-conduct\" rel=\"noopener nofollow ugc\">Community members are expected to be accountable for all their actions and commitments. Accountability brings trust, and trusting in each other is critical for our success.</a>’ When stewards are working beyond their capacity it’s easy for agreements about tasks or projects to slip through the cracks, which moves us away from trust and towards distrust.</p>\n</li>\n</ol>\n<p>Currently, the handbook shares the following about the Cultural Build: <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/the-cultural-build\" rel=\"noopener nofollow ugc\">In the TEC, we accomplish this principle by not establishing strict rules as a prerequisite for participation. Instead, we provide broad guidelines for members in the form of our agreements and allow each Working Group to decide the most optimal path forward. Scaling the organization horizontally and minimizing forms of hierarchy can only be accomplished by recognizing the rights of members to organize themselves in a manner that is not dictated by external authorities. </a></p>\n<p><strong>In summary</strong><br/>\nI can see the immense sense that each Working Group decides the most optimal path forward for their area of care and focus, and the assigned Steward to shepherd and safeguard the progress of said Working Group. However, I think we can make some changes to the org. design that will help stewards return to being the shepherds and safeguards, decrease their workloads, increase agency for contributors, improve information flows, create the systems that will help us to move back towards the TEC’s codes of conduct, and make the TEC more efficient: all with one change. And one that overlaps with my forum post on <a href=\"https://forum.tecommons.org/t/daos-a-good-fit-for-all/514\">how we can make DAOs a good fit for all</a>.</p>\n<p><strong>Suggestion 1: A norm of self-organising small teams <img alt=\":white_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_circle.png?v=9\" title=\":white_circle:\"/> <img alt=\":green_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/> <img alt=\":white_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_circle.png?v=9\" title=\":white_circle:\"/> <img alt=\":white_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_circle.png?v=9\" title=\":white_circle:\"/><img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=9\" title=\":yellow_circle:\"/> <img alt=\":white_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_circle.png?v=9\" title=\":white_circle:\"/> <img alt=\":white_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/white_circle.png?v=9\" title=\":white_circle:\"/>(alongside the norms of larger WGs and individual task ownership</strong>)</p>\n<p>The benefits of small teams to decentralised organisations are extensive. In Enspiral, we encourage everyone to be part of a small team, whether that’s an Enspiral WG (our WGs are normally 3 - 5 people working on a specific focus) or <a href=\"https://www.microsolidarity.cc/\" rel=\"noopener nofollow ugc\">pod</a>. And not only for newer members finding their fit.</p>\n<p><strong>Small teams allow us to build intimacy with a few other community members.</strong> This can be hard to do if you’re a TEC contributor that is only able to offer a few hours per week. Currently the suggestion is to join a WG call, but these can be large, and while the check-in questions engender a warm welcome and a sense of belonging, contributors aren’t able to get to know anyone very intimately by joining these weekly calls. It’s therefore easy for these people to fall through the cracks. When we know a few people in a community intimately, we’re part of a networked support system, and a sense of belonging is much deeper.</p>\n<p><strong>Small teams mean that people can dive deeply into a specific area of interest and, for a period of time, become the caretakers of that particular aspect of the community</strong>. Let’s imagine that under Soft Gov there are three small teams that have sprung up around specific needs for a pre-decided period of time, say three months each. One is a small team focusing on improving and owning all tasks related to onboarding. One is a small team focusing on exploring the changes the TEC could make to ensure that DAOs are a good fit for all. One is a small team focusing on researching and then presenting guidelines to the TEC on which voting tools best match different decision-making contexts. Each of these teams are (for example) between 3 and 5 people, meet twice a week, create a mandate which they share with the Soft Gov WG at the formation of their term, share updates regularly with the Soft Gov Steward and the wider community, and become the people that the community can turn to to ask questions or to get advice. This will likely not only boost the confidence of the contributors that are members of these teams, but they have the opportunity to know an aspect of the TEC well, they can share leadership and facilitation of that small team as they’d like, they get to intimately know 2 - 4 other TEC members really well, and when sparking a small team they’re getting to act with agency. Perhaps these teams could even receive TEC once we’ve hatched, through a proposal to the wider community, to work on their specific focus.</p>\n<p><strong>Time-bound small teams mean that we can be fluid and responsive.</strong> The fluid and responsive natures of time-bound small teams (unlike the solidity of the WGs unchanging nature) has a crossover with <a href=\"https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358\">this forum post</a> by <a class=\"mention\" href=\"/u/sbilbao\">@sbilbao</a> about the benefits of applying lessons learned from nature about information pathways and self-organisation (especially Holacracy/Holonic Stigmergy and Sociocracy). (Time-bound can be both short-term and longer-term.)</p>\n<p><strong>Small teams mean that Stewards can share the workload!</strong> While at times tasks will only require an individual to take ownership of them for a short period of time, small teams could easily take ownership of some of the Stewards longer-term responsibilities, communicating their findings and progress with the Stewards so they can still keep an overview of the bigger picture.</p>\n<p><strong>Small teams increase efficiency.</strong> Now, information can flow better. The unintentional barriers and blocks have been reduced. Work is likely to proceed at a better rate and, because they’re reducing the stress on one person, each individual involved is likely to give more undivided attention and care, so equally better done work.</p>\n<p><strong>Small teams can assemble and disassemble much more easily than static structures like WGs.</strong> This allows us to be much more responsive to changes within and without the TEC.</p>\n<p>The TEC calendar is already jam packed - more WGs will mean more events for the calendar. Also, where do we draw the line? 15 WGs? 20? Do we just keep creating new ones?</p>\n<p><strong>Small teams = more shared leadership</strong>. Currently, WG calls are (as far as my experience has been) always led by the WG Steward. There’s no opportunities for contributors to lead calls and practice group facilitation. Besides, it probably wouldn’t make sense to share the facilitation of WG calls, since many contributors don’t have the overall view of the progress of the WG and the key tasks or key conversations that need to be addressed or held.</p>\n<p><strong>Small teams help Stewards get to know people better.</strong> Currently Stewards are nominated by the following process: <a href=\"https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358\">when one steward nominates a community member to become a steward and has the approval of at least 2 other stewards and no blocks during a week.</a> However, if there are unintentional barriers or blocks to contributors being able to always find a way to be known by at least a few other TEC members or to deep-dive on a piece of work, they’re likely to not be seen as a Steward candidate. However, small teams allow Stewards to see the input of many contributors and for each contributor to be well-known and seen by at least 2 - 4 other TEC members.</p>\n<p><strong>Suggestion 2: Time-bound Stewards</strong> <img alt=\":timer_clock:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/timer_clock.png?v=9\" title=\":timer_clock:\"/> <img alt=\":couple:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/couple.png?v=9\" title=\":couple:\"/></p>\n<p>There is no information in the handbook about whether the Stewards is a time-bound role. In decentralised orgs I believe it’s incredibly important to have time-bound roles. This could be six months, or a year. Time-bound roles allow for newer members to have the opportunity to become a Steward, it helps mitigate role fatigue, engenders shared leadership, and stops a decentralised org. unintentionally recreating the hierarchies we find in centralised orgs.</p>\n<p><strong>A couple of steps towards a community where we all share the work</strong><br/>\nThese are the two changes that I think would help the TEC reach towards its MVVs better. Setting-up and nurturing a system of small teams won’t take a huge amount of time or energy, and I think we’ll see the benefits very quickly, especially with the Stewards. Making the Steward roles time-bound will facilitate a culture of shared leadership and mitigates an invisible system of hierarchy.</p>\n<p>I don’t think we would likely lose anything by experimenting with these. Instead, I think we could nurture a design that has various ways to contribute that will offer belonging within the TEC depending on how we each want to contribute - whether deep diving, dropping into large WG calls, joining or sparking a small team, taking on individual tasks from Stewards that we work through independently (or suggesting them). It also helps us better share the burdens (and joys!) of being part of this community.</p>\n<p><img alt=\":green_heart:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=9\" title=\":green_heart:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-08-11T19:23:30Z",
+   "updated_at": "2021-08-11T19:23:30Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’m still too new to everything to know what is and isn’t working, but I really like the idea of the small teams, <a class=\"mention\" href=\"/u/mrsbadgerface\">@MrsBadgerface</a>. Stewarding people in self-organizing around concrete problems seems like a great way to free up steward time and energy, while helping folks to build connections and contribute to the work that most resonates with them.</p>\n<p>I found this post, btw, because I was searching the forum to figure out what the “Acknowledged CC” role is. I know that’s not the purpose of this post, but can you shed any light?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-08-12T13:18:46Z",
+   "updated_at": "2021-08-12T13:18:46Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"520\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>Stewarding people in self-organizing around concrete problems seems like a great way to free up steward time and energy, while helping folks to build connections and contribute to the work that most resonates with them.</p>\n</blockquote>\n</aside>\n<p>You just summed up everything I was looking to say in one clear sentence <img alt=\":grin:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grin.png?v=9\" title=\":grin:\"/> <img alt=\":heart_eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart_eyes.png?v=9\" title=\":heart_eyes:\"/></p>\n<p>So, ‘Acknowledged CC’ is a Discord tag. Tags are assigned by those with tag-wielding powers so that we can identify who’s a trusted contributor (and I believe it might give people access to some Discord channels they wouldn’t have access into).</p>\n<p>If you click on people’s usernames, you’ll see others, like ‘stewards’ or ‘onboarding coordinators’ or ‘admins’ - it lets us know the different roles people hold, plus if you wanted to get all the admins attention at once you could type in @ admin (I’m not typing that here as I don’t want to grab the attention of all admins) and they’d all be notified.</p>\n<p>PS - I’m not sure how tag-wielding power is <em>really</em> afforded. I suspect it has something to do with chickens, but who knows! <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-08-12T18:09:07Z",
+   "updated_at": "2021-08-12T18:09:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Chicken-powered tags! Nice. Hope it’s free range.</p>\n<p>Thanks, yeah, I’m familiar with Discord tags (good to know it carries over here though, which I didn’t realize), but just didn’t know what the “Acknowledged CC” references. Like, what’s a “CC”? Some sort of contributor, I’m guessing? Thanks. Enjoying your thoughtful posts here, btw.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Suga",
+   "name": null,
+   "created_at": "2021-08-26T11:45:19Z",
+   "updated_at": "2021-08-26T11:45:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> ! “Ack CC” refers to acknowledging the “conditions of consent”, namely that calls are recorded, etc.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-08-26T16:45:44Z",
+   "updated_at": "2021-08-26T16:45:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a class=\"mention\" href=\"/u/mrsbadgerface\">@MrsBadgerface</a> Wow incredibly powerful post!! Thanks for taking the time to build this reflection and guide on how to utilize small groups. I overwhelmingly agree with A LOT of what you have documented above.</p>\n<p>Love the idea of Time-bound Stewards!! I would propose to put this forward as soon as possible.</p>\n<p>I hope that the community integrates this work and that <a class=\"mention\" href=\"/u/mrsbadgerface\">@MrsBadgerface</a> is compensated for such a comprehensive contribution, perhaps a collaboration with <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358\">An organic decision-making mechanism for DAOs</a> ?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-08-27T15:37:38Z",
+   "updated_at": "2021-08-27T15:37:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> Thank you for such a warm reading and super kind words. I’m immensely grateful <img alt=\":green_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=9\" title=\":green_heart:\"/> I had it in my head to pump the time-bound stewards idea forward into an advice process for proposal, so thank you for nudging me to get on that.</p>\n<p>And I agree, a collaboration would be amazing!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-09-02T15:54:52Z",
+   "updated_at": "2021-09-02T15:54:52Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>What a massive detailed write-up!  Thanks for taking the time to create such an informative piece.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530080851",
+    "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928014355",
+   "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014355",
+   "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706010102",
+   "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706010102",
+   "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530080851",
+   "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080851",
+   "url": "https://forum.tecommons.org/t/a-culture-of-self-organising-small-teams-and-sharing-the-responsibility/520"
+  }
+ ]
+}

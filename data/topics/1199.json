@@ -1,0 +1,471 @@
+{
+ "id": 1199,
+ "title": "One Stop Shop Bonding Curve Course",
+ "slug": "one-stop-shop-bonding-curve-course",
+ "category_id": 28,
+ "posts_count": 25,
+ "created_at": "2023-01-29T03:17:43.548Z",
+ "last_posted_at": "2023-03-23T20:31:34.462Z",
+ "tags": [
+  "advice-process"
+ ],
+ "more_after": 20,
+ "total_known": true,
+ "archived_posts": 26,
+ "archived_numbers": 26,
+ "last_archived_post_at": "2023-03-23T20:31:34Z",
+ "captured_between": [
+  "2023-04-01T00:32:31Z",
+  "2024-02-29T12:14:47Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-01-29T03:17:44Z",
+   "updated_at": "2023-01-29T15:51:28Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#proposal-bonding-curve-resource-manual-one-stop-shop-down-the-rabbithole-of-bcs-1\" name=\"proposal-bonding-curve-resource-manual-one-stop-shop-down-the-rabbithole-of-bcs-1\"></a>Proposal: Bonding Curve Resource Manual - One Stop Shop Down the Rabbithole of BCs</h1>\n<p><strong>Introduction:</strong></p>\n<p>Bonding curves revolutionize the way we think about token issuance, liquidity and offer a new design space for how we might pair assets to one another. Their potential has been mildly explored and they offer an exciting primitive with which to develop new market structures. The purpose of this proposal is to create a comprehensive resource for the Token Engineering Commons (TEC) community on bonding curves, including information on different types, structure, incentives, use cases, and learning materials. This comprehensive resource and tailored content would be able to be turned into a course that the TEA hosts if they so wish.</p>\n<h2>\n<a class=\"anchor\" href=\"#overview-of-bonding-curves-2\" name=\"overview-of-bonding-curves-2\"></a>Overview of Bonding Curves:</h2>\n<p>Bonding curves are a type of smart contract that automatically mint, burn, swap, price tokens based on the supply and demand of a particular token. They are designed to create liquidity and incentivize different behaviours. There are several different types of bonding curves, including but not limited to constant product, constant sum, and variable product. Each type has its own unique structure and incentivizes different behaviours. But this is just the beginning. Bonding Curves are a gateway for engineering controllers to enter into the economic management and value accrual systems of Web3.</p>\n<h2>\n<a class=\"anchor\" href=\"#relevance-to-tec-mission-vision-and-values-3\" name=\"relevance-to-tec-mission-vision-and-values-3\"></a>Relevance to TEC mission, vision and values:</h2>\n<ul>\n<li>The creation of a comprehensive resource on bonding curves aligns with the TEC’s mission to discover, develop and proliferate the best practices for engineering safe tokenized economies.</li>\n<li>It also aligns with the TEC’s vision to enable the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world. Bonding Curves allow us to create markets where no liquidity existed prior.</li>\n<li>By providing the Web3 community at large, with a deeper understanding of bonding curves, it will help to advance the ethical principles, standards, tools and methodologies that emerge as this nascent field advances.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#who-will-be-affected-by-this-proposal-4\" name=\"who-will-be-affected-by-this-proposal-4\"></a>Who will be affected by this proposal:</h2>\n<p>The TEC community will be the primary beneficiaries of this proposal, as they will have access to a comprehensive resource on bonding curves. This resource will be useful for anyone interested in understanding and implementing bonding curves, including developers, researchers, and practitioners in the token engineering field.</p>\n<p>I hope to clearly delineate the technical and non technical aspects of BCs, so non technical founders can follow along and understand how they may implement it in their Web3 business model.</p>\n<p>This course content will be able to be reformatted into an LMS and turned into an online course with or without a paywall, as the TEC desired. I wish to create the content and allow the TEC to integrate it into their teachings as they see fit.</p>\n<h2>\n<a class=\"anchor\" href=\"#who-has-expertise-in-this-topic-and-could-advise-your-process-5\" name=\"who-has-expertise-in-this-topic-and-could-advise-your-process-5\"></a>Who has expertise in this topic and could advise your process:</h2>\n<p>Experts in the field, include Simon de la Rouviere, Michael Zargham, Abbey Titcomb, Mr Octopus (TEA) and others. For the more technical aspects of bonding curves, I may enlist the help of those with the necessary mathematical, programming, and CadCAD skills.</p>\n<p>I wish to compensate those who contribute their time and expertise.</p>\n<h2>\n<a class=\"anchor\" href=\"#deliverable-6\" name=\"deliverable-6\"></a>Deliverable:</h2>\n<p>The deliverable of this proposal is a comprehensive resource on bonding curves that will be created in Notion. The resource will include information on:</p>\n<ol>\n<li>Different types &amp; structures,</li>\n<li>Incentives &amp; game theory</li>\n<li>Use cases &amp; mental models</li>\n<li>Controllers</li>\n<li>Case Studies (successes and failures)</li>\n<li>How to launch BC’s for your project</li>\n<li>Web3 Applications that enable BC’s</li>\n<li>Machination Simulations</li>\n<li>Considerations for areas of study, research and innovation of BC’s</li>\n</ol>\n<p><strong>The resource will be delivered in a 3-4 month period, with an 21k USD commitment. 6k upfront and the rest vested as progress and milestones are met.</strong></p>\n<p>Additionally i will host X amount of interest/working groups on bonding curves to go over the resource material.</p>\n<p>I will send out educational videos on my twitter and linked in, going over the material as well.</p>\n<p>I will not focus on selling the course, nor is promotion my main concern here. I wish to focus on creating a synthesized, digestible framework for BCs.</p>\n<p>The TEC may choose to turn it into an official course via the TEA or others, using an LMS or others or leave this as a free notion database.</p>\n<h2>\n<a class=\"anchor\" href=\"#milestones-7\" name=\"milestones-7\"></a>Milestones</h2>\n<p><em>Work would begin after receiving of first payment $6000</em></p>\n<p>Milestone 1 - payment of $5000 on completion</p>\n<ul>\n<li>Research and compile information on different types &amp; structures of bonding curves</li>\n<li>Create sections on incentives &amp; game theory and use cases &amp; mental models</li>\n<li>Research and compile information on Controllers x Bonding Curves</li>\n</ul>\n<p>Milestone 2 - payment of $5000 on completion</p>\n<ul>\n<li>Case studies research (successes and failures)</li>\n<li>How to launch bonding curves &amp; controllers for a project</li>\n<li>In-depth list of Add web3 applications that enable bonding curves</li>\n</ul>\n<p>Milestone 3 - payment of $5000 on completion</p>\n<ul>\n<li>Machination Simulations</li>\n<li>Complete final review and edits of the comprehensive resource on bonding curves</li>\n<li>Deliver the resource in Notion.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#personal-information-8\" name=\"personal-information-8\"></a>Personal Information</h3>\n<p>My name is Daniel Haboush, i have no problem Doxxing myself, i just like the rabbit persona for social media</p>\n<p>Website: <a href=\"https://www.curiousrabbit.xyz/\" rel=\"noopener nofollow ugc\">https://www.curiousrabbit.xyz/</a><br/>\nGithub: <a class=\"inline-onebox\" href=\"https://github.com/curiousrabbit-eth/TokenEngineering\" rel=\"noopener nofollow ugc\">GitHub - curiousrabbit-eth/TokenEngineering</a> (up too date ishhh)</p>\n<p><em>Thank you for taking the time to read and consider this proposal. I would like to raise this proposal for discussion and develop it further alongside the feedback of the community.</em></p>\n<h3>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-9\" name=\"what-type-of-proposal-is-this-9\"></a>What type of proposal is this?</h3>\n<ol>\n<li>Conviction Voting (funding)</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401003231",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2023-01-31T18:20:43Z",
+   "updated_at": "2023-01-31T18:20:43Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Great proposal!</p>\n<p>I am curious about a few things:</p>\n<ul>\n<li>\n<p>A lot of the things on the list of deliverables resembles of content that we have scattered around our community, have you sync with the folks of TE Academy? Maybe some of this content doesn’t need to be re-written but just added to this library of resources that you mention.</p>\n</li>\n<li>\n<p>Will it be possible to focus, probably due lack of funding, one a section rather than the whole stuff? Case studies seems to be the one that exemplify this better, as well as point 6.</p>\n</li>\n<li>\n<p>Can the deliverable be built on at least a public access webpage, a wiki maybe? Since the TEC is a public good, having this amazing resource being store on a private server (wether is notion or a personal account) seems a bit off.</p>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401003231",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-01-31T20:22:31Z",
+   "updated_at": "2023-01-31T20:26:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey Friend!</p>\n<p>First off thank you for giving this your attention. Let me address what you have mentioned.</p>\n<ol>\n<li>I agree, alot of this information is scattered. Part of the work i’d be doing is synthesizing the information into a framework that is easier to digest</li>\n</ol>\n<p>For example: if you simply brought all of these articles together, into a list, i believe it would not have close to the same effect as tailored content written in layman language.  Technical jargon is a barrier in my opinion to adoption and devs are notorious for being technical <img alt=\":joy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/joy.png?v=10\" title=\":joy:\"/></p>\n<p>I have not synced with the folks from TEA, Angela and i had a misunderstanding, we have not talked since and i hesitate to do so, because i tried after the event with no response.  I plan to create this content, in a manner that is readily usable by the TEA if the TEC so wished.</p>\n<ol start=\"2\">\n<li>\n<p>It’s possible but it is less appealing to me. I like the A-Z approach, so that anyone can go from zero to hero. I guess the work would be less fulfilling to me, therefore i would probably decide not to do the proposal, just to be straight forward about it. If i do do it, i guess id reduce this all down to a research paper on case studies and how to for bonding curves for about a 5k price with a 1 month deliverable. but as i mentioned… alot less appealing and value creating in my mind</p>\n</li>\n<li>\n<p>The TEC could do whatever it wished with it. I hear what you say about public access, i had thought of a public notion document and less so about the servers hosting it. I could do both. A notion document, which will be all pretty and well organized and the TEC can own that account, as well as a wiki of some kind, however the formatting and design will suffer).</p>\n</li>\n</ol>\n<p>I can imagine the TEC or TEA will use this and import it into their LMS to make it a part of their curriculum in they so desires, making it more dynamic than a wiki.</p>\n<p>Thanks again for commenting, hope this answers ur questions and keeps the conversation going</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401003231",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2023-02-01T13:54:09Z",
+   "updated_at": "2023-02-01T13:54:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I would be very skeptical to fund this proposal. It’s a pretty hefty pricetag to produce an extensive and lengthy comprehensive guide to BCs and my fear is that it may not ever get used.</p>\n<p>There is already a ton of very friendly documentation on Bonding Curves out there written by many excellent authors/protocols. I can’t say I see a demand, at least from my limited perspective, for this type of guide proposed above.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401003231",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-01T18:33:53Z",
+   "updated_at": "2023-02-01T18:33:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>okay, thanks for taking the time to go through it. Will see how the rest of the community responds</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401003231",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2023-02-03T23:33:09Z",
+   "updated_at": "2023-02-03T23:33:09Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a>, this looks like a very interesting proposal!</p>\n<p>I agree there is much more to explore on the subject of bonding curves, and I think you listed out some important angles from which to present the content.  I’d also appreciate the opportunity to lay out some of the alternative variations of bonding curves we’ve been working on at BlockScience lately. Perhaps it could be made extra pertinent to the TEC community if we also tie in some data analysis of the TEC ABC and see what kind of insights we can learn from its performance through the bear market. Perhaps <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> could lend a hand here?</p>\n<p>It also sounds like a great Machinations learning opportunity for the TEC community, in an exploration of the foundational tool of the TEC economy. I’m already learning from the <a href=\"https://twitter.com/curiousrabbit27/status/1579557064359448576\" rel=\"noopener nofollow ugc\">content you’ve put out previously on the ABC</a>.  The visualizations are very informative (for me at least!), and could perhaps help people understand better what is actually happening in an Augmented Bonding Curve (and other BC variations too).</p>\n<p>I’d be interested in collaborating with you on this with the time I have available, and perhaps there are a few other modelers &amp; data scientists around who might like to help out too.  We can discuss scope and costs further, or even chunk out the deliverables into smaller projects if that were more palatable.  There’s definitely a lot that could be done, but not all at once.  Let’s chat!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401003231",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-04T18:49:54Z",
+   "updated_at": "2023-02-04T18:49:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Jeff, thanks for the wonderful feedback.</p>\n<p>I’d love to work together and make this more robust and pertinent to the TEC by bringing in solid data analysis.</p>\n<p>I’m curious what the TEC community thinks of this.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-02-06T16:11:41Z",
+   "updated_at": "2023-02-06T16:11:41Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Just want to echo Jeff here. The TEC has a lot of data from a year’s worth of operating an ABC. There are interesting questions around things like the interaction between the ABC and liquidity pools on Honeyswap and $WATER. Also, how has the token freeze affected holding behavior? There are many interesting questions, some of which could be of real guidance to the commons. How do the liquidity pools affect tribute income right now and in the future once transactional volume grows?</p>\n<p>I personally don’t have a good sense for how a course on bonding curves fits in the overall stack of what the field needs right now. For something like this though, I’d want to see a lot more thought given to how to reach and engage students, which is why the Academy’s role feels very important for something like this. Without that additional work, this information just sits on a virtual shelf.</p>\n<p>Where I’m going with this is whether there is an opportunity to redirect your energy into collaborating with <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> and maybe <a class=\"mention\" href=\"/u/rex\">@rex</a> on doing some TEC ABC data analysis instead of the course. It might not be as big of a project, but I think it could be quite useful to the commons, and my sense is that you would probably get a lot out of it.</p>\n<p>Thanks for making this proposal and getting this conversation on ABCs going, <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-06T17:19:52Z",
+   "updated_at": "2023-02-06T17:19:52Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for taking the time Gideon. Those are fair points.</p>\n<p>I think a bonding curve course could help the space recognize and utilize their importance in designing new market structures.  I hear you loud and clear about the TEA, i would love for them to take my finished work and create the course on their LMS out of it.</p>\n<p>Im definitely open to working with Jeff &amp; Rex on the TEC ABC data analysis, although data analysis is not my strong suit, i can model it in machinations and assist them.  It would serve a different purpose then the BC course.</p>\n<p>I’m curious what i should do with this proposal? does it require more time or feedback before the next step or is the community asking for something different 🤷🏼</p>\n<p>Would love any guidance from the TEC</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-02-06T22:50:11Z",
+   "updated_at": "2023-02-07T00:22:26Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hello <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a>! Seems like you got some people interested <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/>! Definitely looking forward to see some work and analysis on our bonding curve.</p>\n<p>About the proposal, we usually leave proposals for ~1 week for advice process. Given that time has passed already, you can go ahead and post it for voting on our  <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8\" rel=\"noopener nofollow ugc\">Gardens</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-06T23:43:14Z",
+   "updated_at": "2023-02-06T23:43:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/enti\">@enti</a> i appreciate the direction. ill touch base with <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> &amp; <a class=\"mention\" href=\"/u/rex\">@rex</a>  see how we might spice this up to be more relevant to the TEC and ill post it afterwards.</p>\n<p>In the meantime, happy to have people continue to discuss or be explicit about what they’d like to see</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2023-02-07T18:03:16Z",
+   "updated_at": "2023-02-07T18:03:16Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for the feedback <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> and <a class=\"mention\" href=\"/u/enti\">@enti</a>!  Perhaps we will hear more from a few other TEC community members here on the forum, but in the meantime why don’t we plan a catch-up call sometime next week between <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a>, <a class=\"mention\" href=\"/u/rex\">@rex</a>, <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> and myself to discuss the opportunities of this proposal.</p>\n<p>What is our time zone spread looking like?  I believe ygg is in PST, I’m in EST, <a class=\"mention\" href=\"/u/rex\">@rex</a> and <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> how about you?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-09T18:39:27Z",
+   "updated_at": "2023-02-09T18:39:27Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>sounds good <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a>, shall we do the catch up call in the TEC discord, for anyone that wants to attend?</p>\n<p>would love to hear from more TEC members as well</p>\n<p>I’m EST…for now <img alt=\":smirk:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smirk.png?v=10\" title=\":smirk:\"/></p>\n<p>What day would be convenient for everyone?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "rex",
+   "name": null,
+   "created_at": "2023-02-09T22:11:51Z",
+   "updated_at": "2023-02-09T22:11:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey all! I’ve stayed quiet for this proposal. I certainly see the proposal being more useful to token engineers than quite a few we have passed in the recent past. I would love to see this idea be developed, in whichever shape and form it ends up being.</p>\n<p>Regarding data - we recently ported all the Dune queries over to V2, so we have somewhere to work from; that being said, we’ve only scratched the surface with what can be done there. There’s still a lot to do with recouping and making poignant visualisations and evaluation on how the bonding curve has behaved.</p>\n<p>My timezone’s GMT, by the way.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-10T01:48:06Z",
+   "updated_at": "2023-02-10T01:48:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>T <a class=\"mention\" href=\"/u/rex\">@rex</a> thanks for joining the party, lets arrange something for next week, perhaps coordination on telegram is easiest</p>\n<p>So for the meeting next week we have</p>\n<p><a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> EST<br/>\n<a class=\"mention\" href=\"/u/rex\">@rex</a> GMT<br/>\n<a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> PST<br/>\n<a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> EST</p>\n<p>we have an 8hour time diff between <a class=\"mention\" href=\"/u/rex\">@rex</a> &amp; <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> , so lets say our timeslot is to find a day, between<br/>\n9am-1pm PST,<br/>\nwhich is 5pm-9pm GMT<br/>\nwhich is 12-4pm EST</p>\n<p>let me know some times that work for yall, or maybe theres a better place to organize this meeting lol <img alt=\":joy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/joy.png?v=10\" title=\":joy:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2023-02-14T03:04:51Z",
+   "updated_at": "2023-02-15T00:14:37Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Since there is a reasonable amount of <strong>data</strong> on operating the ABC with the TEC, my suggestion would be to have an evaluation of its achievements against stated objectives or vision. So the first point would be what were the stated objectives? And how have they fallen short (or have they)? Can it be rectified?</p>\n<p>Teaching Bonding Curves at any level should be within the scope of the TE Academy and they have an excellent seed course along with a vibrant community discussing and beginning <strong>to apply ABCs at all levels of complexity.</strong></p>\n<p>IMO one flaw in the first implementation is there is no mechanism for benchmarking the intrinsic value of the $TEC against fundamentals: the way it happens in TradFi (quarterly earnings, EPS/PE estimation…). Which is ironical when the Blockchain ecosystem is known for its transparency, quality and  wealth of data it creates. See the <a href=\"https://messari.io/crypto-theses-for-2023\" rel=\"noopener nofollow ugc\">Messari Crypto 2023</a> report.  These metrics would be useful both for internal target setting and evaluation by external entities.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2023-02-15T00:22:01Z",
+   "updated_at": "2023-02-15T00:22:01Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>5 pm to 9 pm GMT is 10:30 pm-2:30 am for us in South Asia. Will be worse for folks from the Far East and Australasia - if you would want us to attend. But happy to watch/readthe recording/report.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-02-22T19:43:23Z",
+   "updated_at": "2023-02-22T19:43:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey Friends,</p>\n<p>We had a meeting today between <a class=\"mention\" href=\"/u/rex\">@rex</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a></p>\n<p>Please see the recording for your own entertainment (PG13): <a class=\"inline-onebox\" href=\"https://us06web.zoom.us/rec/share/CALtJhW9Q_kg8PtxrccsozXIc5KBhHonJA1dL4te8qlxaaNBx2TWVI6ugvTL2jzO.igtxnndGhfIPSZSk\" rel=\"noopener nofollow ugc\">curious rabbit's Zoom Meeting - Zoom</a></p>\n<p>We will be holding weekly meetings between us, and working a-synchronistically to create an updated proposal that integrates the feedback received and provides a new strategy forward that is easier to fund and potentially more useful to the TEC. Around bonding curves of course!</p>\n<p>Expected date for that new proposal is in 2-3 weeks time.</p>\n<p>Excited to see this evolve! <img alt=\":blue_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/blue_heart.png?v=10\" title=\":blue_heart:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-03-02T20:10:44Z",
+   "updated_at": "2023-03-02T20:10:44Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I think, in principle, that the course is a good idea. I have three comments that I would like to share:</p>\n<ol>\n<li>Courses are an extremely valuable part of a traditional engineering education, because they include not only (open loop) presentation of the concepts, but also (closed loop) feedback on how well someone understands the material. They include experiences which are objectively verifiable, as well as opportunities for open discussion and reflection, giving the learner a sense of embodied confidence and ownership in the material.</li>\n</ol>\n<p>A well-curated reading list can be part of a great course (I learned this from <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>), but it is not a substitute. It’s totally OK if this group ends up being a research focus (yay research!), but the practice of actually doing basic Calculus to calculate price needs to be addressed at some point as a crucial part of the TE skill stack. Courses like “Basics of Augmented Bonding Curves” are desperately needed, in my view.</p>\n<ol start=\"2\">\n<li>In terms of value, I think the quoted price is extremely generous to the TEC. If you look at the experience and credentials of the course authors, it is basically a dream team in terms of skills and diverse experience (including math, coding, data analysis,  writing, video production, social media promotion, etc.) Compare to something like 10K/seat for a one week Systems Dynamics Bootcamp at MIT. Offering this as a public and freely available good at the quoted price for labor is extremely benevolent of everyone involved.</li>\n</ol>\n<p>Of course, this depends on the exact deliverables. As with any other project, it will be important to have precise scope.</p>\n<ol start=\"3\">\n<li>I’m sad to think that Mr. Rabbit may have felt any need to dox himself for credibility in this space.  I also felt a need to dox myself for credibility, and there are times I regret doing so. Regardless of our personal decisions, I hope the TEC can create a culture where government names and primate faces are not expected, and newcomers understand that. Privacy is the ultimate public good, and many crypto people under thirty simply don’t have any interest in providing traditional identity data.</li>\n</ol>\n<p>Thanks for proposing this <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> and good luck to <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> <a class=\"mention\" href=\"/u/rex\">@rex</a>  I look forward to seeing what you come up with, and learning more about the topic! <img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=10\" title=\":slightly_smiling_face:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-03-02T22:08:43Z",
+   "updated_at": "2023-03-02T22:08:43Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you for your thoughtful words Mr Octopus</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-03-02T22:10:45Z",
+   "updated_at": "2023-03-02T22:10:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Recording from our group meeting yesterday: <a class=\"inline-onebox\" href=\"https://us06web.zoom.us/rec/share/IrdH5U_gy16WKrZf7mWux0IPywvywHvZWv44iSzn75WnYjnDRz057DslmFfeGhne.wCk91xcR0Sa8UDdU\" rel=\"noopener nofollow ugc\">curious rabbit's Zoom Meeting - Zoom</a></p>\n<p>TLDR: we will have an updated version of this proposal out soon (1-2 weeks)</p>\n<p>i believe it will do a great job integrating the comments, the needs/desires of the TEC and driving forward the original mission of the proposal.</p>\n<p>Warm regards everyone and thank you for the continued interest</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "curiousrabbit.eth",
+   "name": null,
+   "created_at": "2023-03-22T18:42:52Z",
+   "updated_at": "2023-03-22T18:42:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#hey-friends-here-is-the-updated-proposal-partying_face-1\" name=\"hey-friends-here-is-the-updated-proposal-partying_face-1\"></a>Hey Friends, Here is the updated proposal! <img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=10\" title=\":partying_face:\"/>\n</h1>\n<p><em>I was unable to edit the first post on the forum</em></p>\n<aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/document/d/1yh3vNRsLXH-ElDfvRIkX9dA9L4vtEFgZzMcG_395nz8/edit?usp=sharing\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/document/d/1yh3vNRsLXH-ElDfvRIkX9dA9L4vtEFgZzMcG_395nz8/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/document/d/1yh3vNRsLXH-ElDfvRIkX9dA9L4vtEFgZzMcG_395nz8/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-docs-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/document/d/1yh3vNRsLXH-ElDfvRIkX9dA9L4vtEFgZzMcG_395nz8/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">Updated Proposal on Bonding Curves</a></h3>\n<p>Establishing a Bonding Curve Research Group:  The Challenge:  Sustained bear markets have been a huge challenge for token valuations, with many DAOs and organizations seeing massive selloffs and price drops in the 90%+ range. When token price is a...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2023-03-23T10:22:23Z",
+   "updated_at": "2023-03-23T10:22:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>In principle this proposal has merit but I concur with TEC community members expressing skepticism as it is heavy on academic research and light on application that would optimize value creation for TEC.</p>\n<p>Applied research approach in my view should be prominent to justify the funds requested, replete with a hard commitment for innovative prototypes designed and developed, bonding curve models integrated into a value creating TEC offering to external parties wishing to deploy bonding curves in their tokenized ecosystems, and code and documentation available in a TEC community GitHub repository.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-03-23T16:18:24Z",
+   "updated_at": "2023-03-23T16:18:24Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a>, not sure if you had a chance to see the revised proposal that Rabbit linked above, but here are a couple relevant sections to the value creation topic that you are requesting.</p>\n<h2>\n<a class=\"anchor\" href=\"#planned-deliverables-outcomes-1\" name=\"planned-deliverables-outcomes-1\"></a>Planned Deliverables &amp; Outcomes:</h2>\n<ol>\n<li>We will create a series of digestible, shareable social media content on bonding curves, some of the topics including:</li>\n</ol>\n<ul>\n<li>Different types &amp; structures (Constant Product, First Order, Second Order, Primary, Secondary, ARMMs, Stableswap, Curve)</li>\n<li>Bonding Curve use cases &amp; benefits, how they solve problems</li>\n<li>Case Studies (Truebit, Aavegotchi DAO, TEC)</li>\n<li>The mathematics of different bonding curves</li>\n<li>Machination Simulations</li>\n<li>Python &amp; cadCAD simulations of bonding curves, &amp; benefits of simulation</li>\n</ul>\n<ol start=\"2\">\n<li>Provide deeper analysis of the TEC Augmented Bonding Curve, including suggestions for updated Dune Analytics dashboards and python integrations</li>\n<li>Aim to create a sustainable flywheel for further R&amp;D on Bonding Curves through attracting deal flow and new grant opportunities for this research group and the TEC in general</li>\n<li>Structuring future research questions and further lines of inquiry to continue this research &amp; education initiative.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#what-success-looks-like-2\" name=\"what-success-looks-like-2\"></a>What Success Looks Like:</h2>\n<ul>\n<li>6 social media content posts, digestible and thought provoking</li>\n<li>Posts have community traction, bringing in new leads and interest into the TEC</li>\n<li>Upgraded Dune analytics board for the TEC ABC</li>\n<li>Improved methodology for analyzing Bonding Curves on-chain data</li>\n<li>Other unanticipated positive externalities discovered through research</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 25,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2023-03-23T17:44:15Z",
+   "updated_at": "2023-03-23T17:44:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/linuxiscool\">@linuxiscool</a> I had reviewed the proposal and in my view the indicators of success listed need to be further fleshed with more concrete details as to the expected outcomes to justify the funds requested. For example, and to assist in your understanding of my view, the first two success indicators are communications related and subjective as there is no objective measurement of terms such as “digestible” and “thought provoking”. The third indicator to upgrade Dune analytics board for the TEC ABC is quite open ended and does not provide any technical specifications as to what this upgrade will exactly entail. The remaining two success indicators could also be further defined to avoid subjective terms such as “improved” without providing a firm baseline and goal upon which the anticipated “improvement” will be measured.</p>\n<p>Trust the foregoing clarifies my perspective and is helpful in bolstering the overall proposal.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  },
+  {
+   "post_number": 26,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-03-23T20:31:34Z",
+   "updated_at": "2023-03-23T20:31:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Two Comments:</p>\n<ol>\n<li>Upon posting to Gardens, our team realized that the gardens proposal description pulls from the forum post, and that forum posts are not editable after a set time period. Thus to avoid confusion, we had to create a new forum post and a new gardens proposal to update the proposal content body.</li>\n</ol>\n<ul>\n<li>The new forum post is here: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/bonding-curve-research-group/1227\">Bonding Curve Research Group</a>\n</li>\n<li>The new gardens proposal is here: <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/44\" rel=\"noopener nofollow ugc\">Gardens</a>\n</li>\n</ul>\n<ol start=\"2\">\n<li>I want to honour the comments that <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> have made above and carry the discussion into the new forum post. I’ll leave some time in case <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> wants to copy comments to the new post and reference to here, otherwise, I’ll go ahead an continue the discussion there and reference to the above. Apologies for any inconvenience. I appreciate the time taken to provide feedback.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229121447",
+    "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401003231",
+   "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401003231",
+   "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530074224",
+   "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199?page=2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530074224",
+   "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199?page=2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229121447",
+   "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229121447",
+   "url": "https://forum.tecommons.org/t/one-stop-shop-bonding-curve-course/1199/19"
+  }
+ ]
+}

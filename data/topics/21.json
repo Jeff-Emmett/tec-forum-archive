@@ -1,0 +1,109 @@
+{
+ "id": 21,
+ "title": "Welcome to 🌱 Conviction Voting!",
+ "slug": "welcome-to-conviction-voting",
+ "category_id": 7,
+ "posts_count": 3,
+ "created_at": "2020-10-24T00:44:49.104Z",
+ "views": 92,
+ "last_posted_at": "2020-12-07T10:51:14.555Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2022-03-29T17:53:03Z",
+ "captured_between": [
+  "2020-12-15T21:42:13Z",
+  "2023-05-30T07:57:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-10-24T00:44:49Z",
+   "updated_at": "2022-03-31T17:09:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>“Conviction Voting offers a novel decision making process that funds proposals based on the aggregated preference of community members, expressed continuously.”<br/>\n<a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">Deep dive here. </a></p>\n<p><strong>How to submit a funding proposal to the TEC?</strong></p>\n<p>1 - Post your proposal in Advice Process for a minimum of 5 days<br/>\n2 - Integrate relevant feedback, come to the Conviction Voting section and fill in the proposal template that will open when you click “new draft”<br/>\n3 - Conviction Voting is on-chain and <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/\">Gardens</a> proposals require a deposit of 200 liquid TEC (non vested). You can buy TEC directly from the Augmented Bonding Curve <a href=\"https://convert.tecommons.org/\">https://convert.tecommons.org/</a> or on Honey swap <a href=\"https://app.honeyswap.org/#/swap\">Honeyswap Interface</a><br/>\n4 - Go to the <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/\">TEC Gardens</a>, click in “create proposal” and follow the instructions. Post the link from your Conviction Voting forum post in the proposal.<br/>\n5 - Engage with the community, promote your proposal and be available to answer questions and comments <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/990b01819fc76f8476ecd7f4940f50fa944aca2d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d.jpeg\" title=\"tec5\"><img alt=\"tec5\" data-base62-sha1=\"lPSDfa5jYuv9B1NujVXkTa2Cn1z\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_10x10.png\" height=\"431\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_690x431.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_690x431.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_1035x646.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_1380x862.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">tec5</span><span class=\"informations\">1920×1202 98.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=10\" title=\":books:\"/> Learn more about what kind of projects the TEC wants to fund <a href=\"https://forum.tecommons.org/t/tec-funding-proposals-what-kinds-of-projects-should-apply/191\">here</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075718",
+    "url": "https://forum.tecommons.org/t/welcome-to-conviction-voting/21"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-03T21:28:38Z",
+   "updated_at": "2020-12-03T21:28:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075718",
+    "url": "https://forum.tecommons.org/t/welcome-to-conviction-voting/21"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2020-12-07T10:51:14Z",
+   "updated_at": "2020-12-07T10:51:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075718",
+    "url": "https://forum.tecommons.org/t/welcome-to-conviction-voting/21"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-03-29T17:53:03Z",
+   "updated_at": "2022-03-29T17:53:03Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075718",
+    "url": "https://forum.tecommons.org/t/welcome-to-conviction-voting/21"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20201215214213",
+   "url": "https://forum.tecommons.org/t/welcome-to-proposals-start-here/21/4"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306005504",
+   "url": "https://forum.tecommons.org/t/welcome-to-proposals-start-here/21"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210306005504",
+   "url": "https://forum.tecommons.org/t/welcome-to-proposals-start-here/21"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530075718",
+   "url": "https://forum.tecommons.org/t/welcome-to-conviction-voting/21"
+  }
+ ]
+}

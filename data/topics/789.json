@@ -1,0 +1,125 @@
+{
+ "id": 789,
+ "title": "TEC Community Covenant Proposal",
+ "slug": "tec-community-covenant-proposal",
+ "category_id": 7,
+ "posts_count": 5,
+ "created_at": "2022-01-04T18:13:19.538Z",
+ "last_posted_at": "2022-01-07T20:51:45.246Z",
+ "views": 865,
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2022-01-07T20:51:45Z",
+ "captured_between": [
+  "2022-01-24T02:50:39Z",
+  "2022-09-17T20:23:07Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": "Livia",
+   "created_at": "2022-01-04T18:13:19Z",
+   "updated_at": "2022-01-07T18:28:06Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h3>\n<a name=\"proposal-title-1\" class=\"anchor\" href=\"#proposal-title-1\"></a><strong>Proposal title</strong>\n</h3>\n<p><em>TEC Community Covenant</em></p>\n<h3>\n<a name=\"tldr-2\" class=\"anchor\" href=\"#tldr-2\"></a>TL;DR</h3>\n<p>*The Covenant is a manifesto for the TEC which includes our mission, vision, values, code of conduct, governance framework and the methods used to enforce our rules. The Covenant lives on chain and has to be signed by every TEC participant that interacts with the Commons. This is a signaling proposal that will also be submitted to the Hatch DAO if approved here. *</p>\n<p><a href=\"https://snapshot.org/#/tecommons.eth/proposal/0xbf290fb7cda4741af654a75f31f8efba71a604c68581e83dbacc7bda4e83d8a7\">This proposal is live on Snapshot until Friday, Jan 7th at 1:30pm EST</a></p>\n<h3>\n<a name=\"proposal-description-3\" class=\"anchor\" href=\"#proposal-description-3\"></a>Proposal description</h3>\n<p><em>Tell us about your proposal. Give as much detail as you can.</em></p>\n<h1>\n<a name=\"tec-community-covenant-4\" class=\"anchor\" href=\"#tec-community-covenant-4\"></a>TEC Community Covenant</h1>\n<p>The Token Engineering Commons is a self-governed organization with the purpose of advancing the field of token engineering. The TEC supports the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.</p>\n<p>The TEC’s mission is to become a<a href=\"https://nav.al/schelling-point\"> Schelling Point</a> for the token engineering community through economic and social layers. The economic layer funds projects that discover, develop and proliferate the best practices for engineering safe tokenized economies, while aligning our collective success with the individual benefit of TEC token holders. Our social layer is even more important, as it unites the token engineering field around the ethical principles, standards, tools and methodologies that emerge as this nascent field advances.</p>\n<p>The Token Engineering Commons cultural framework operates based on<a href=\"https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/what-is-the-tec/the-cultural-build\"> Elinor Ostrom’s principles</a> for governing the commons. It values a prosocial perspective and prioritizes the advancement of token engineering over short-term gain. ‌Integrity, curiosity, constructive inquiry, consistency, presence and gratitude are foundational for maintaining mutual respect within the growing community.‌</p>\n<p>The TEC encourages its members to be radically open source, non-hierarchical, transparent in their intentions and accountable for their actions.</p>\n<p>The growth of the TEC community is directly related to the community’s ability to foster an inclusive, welcoming, and healthy culture that people can feel proud of and delighted to adopt as their own. When people choose to participate in the TEC community, they are implicitly supporting the community’s mission, culture, values, and norms.</p>\n<p>Therefore, TEC rests on an ever-evolving social contract, which sets expectations for how members should engage both with the protocol and with one another. Organizationally, the Covenant first lays out our pledge to each other to make the TEC community a welcoming and safe environment for everyone. Second, it directs the reader to the polycentric governance framework used in the TEC and finally it covers the enforcement mechanisms. As a community driven DAO, the Covenant is subject to change via the community.</p>\n<h2>\n<a name=\"the-pledge-5\" class=\"anchor\" href=\"#the-pledge-5\"></a>The Pledge</h2>\n<p>We as members, contributors, and leaders declare to make participation in the TEC community a harassment-free experience for everyone, regardless of age, visible or invisible disability, ethnicity, sexual orientation, gender identity and/or expression, level of experience, education, socio-economic status, nationality, personal appearance or religion.</p>\n<p>We promise to act in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</p>\n<p><strong>Our Standards</strong></p>\n<p>Examples of behavior that contributes to a positive environment for our community include:</p>\n<ul>\n<li>Demonstrating empathy and kindness toward other people</li>\n<li>Being respectful of differing opinions, viewpoints, and experiences</li>\n<li>Giving and gracefully accepting constructive feedback</li>\n<li>Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience</li>\n<li>Focusing on what is best not just for us as individuals, but for the overall community</li>\n</ul>\n<p><strong>Examples of unacceptable behavior include:</strong></p>\n<ul>\n<li>The use of sexualized language or imagery, and sexual attention or advances of any kind</li>\n<li>Trolling, insulting or derogatory comments, and personal or political attacks</li>\n<li>Public or private harassment</li>\n<li>Publishing others’ private information, such as a physical or email address, without their explicit permission (commonly called doxing)</li>\n<li>Other conduct which could reasonably be considered inappropriate in a professional setting</li>\n</ul>\n<h3>\n<a name=\"decision-making-6\" class=\"anchor\" href=\"#decision-making-6\"></a>Decision Making</h3>\n<p>The Token Engineering Commons uses a polycentric governance framework that gives cultural, financial and technical decisions similar importance. The processes and parameters for each governance module are specified <a href=\"https://forum.tecommons.org/t/tec-polycentric-governance-framework/717\">in this living document</a> and might change based on the community’s decisions according to the governance process currently at the time of the change.</p>\n<h3>\n<a name=\"dao-enforcement-7\" class=\"anchor\" href=\"#dao-enforcement-7\"></a>DAO Enforcement</h3>\n<p>The on-chain mechanism for enforcement depends on <a href=\"https://celeste.1hive.org/#/dashboard\">Celeste</a> and is meant to be used within Conviction Voting and Tao Voting.</p>\n<p>The ability for the Token Engineering Commons protocol to enforce this covenant is limited to the direct interactions that community members have with the protocol, specifically the ability for community members to submit proposals to allocate funds or adjust protocol parameters.</p>\n<p>The proposer will be required to deposit TEC tokens when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with TEC’s social contract. A dispute can be created by another community member if they disagree with the proposer’s attestation by challenging the proposal and committing TEC tokens to support the dispute. If after being challenged, the proposal is not withdrawn, Celeste will be used to settle the dispute with the right to appeal that decision.</p>\n<p>Celeste keepers are expected to review the proposal, this covenant, evidence submitted by the proposer and challenger and related past disputes in order to provide a judgment that they feel best aligns with the established norms and intention of the TEC community.</p>\n<h3>\n<a name=\"cultural-enforcement-8\" class=\"anchor\" href=\"#cultural-enforcement-8\"></a>Cultural Enforcement</h3>\n<p>The cultural mechanism for enforcement will depend on Gravity. Actions that contradict the mission, vision, values and pledge of the TEC will be handled through Gravity, TEC’s trust creation and conflict management working group. The TEC has a system of<a href=\"https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234\"> graduated sanctions</a> to approach different types of behavioral issues.</p>\n<p>Gravity promotes methods for addressing conflict and counts with a trained group of facilitators called Gravitons. Every community member has the right to approach Gravity easily and with no costs.</p>\n<p>The Gravity group aims to support the TEC by:</p>\n<ol>\n<li>Actively promoting trust and managing conflict between individuals, groups, and the community as a whole.</li>\n<li>Recognizing boundaries and areas of potential dispute, as well as explicit violations of boundaries between individuals, groups, and the community as a whole.</li>\n<li>Supporting communication between community members and encouraging active participation.</li>\n<li>Promoting community resilience and long-lasting human relationships by proactively co-creating boundaries, discussion and exchange in a system of shared values.</li>\n<li>Promoting Advice Process regarding the implementation of <a href=\"https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234\">graduated sanctions</a> and commit to its use with respect to all individuals.</li>\n</ol>\n<h3>\n<a name=\"transparency-9\" class=\"anchor\" href=\"#transparency-9\"></a>Transparency</h3>\n<p>The TEC values transparency as a cultural practice as it helps to promote trust, mutual monitoring, accountability and inclusion. Most of the community calls are recorded and published on <a href=\"https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg\">TEC’s Youtube channel.</a> The <a href=\"https://forum.tecommons.org/t/transparency-working-group/197\">Transparency working group</a> promotes frequent audits to proposals and working groups. <a href=\"https://docs.google.com/spreadsheets/d/1wfPGwNP7pWUx6WRCdO7HRA_GGJG_5IUGFZQ21EsUrb0/edit#gid=0\">Credentials management</a> is visible and admins follow a particular <a href=\"https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit\">code of conduct.</a></p>\n<p>If this covenant has to be changed or updated, a proposal should be published in the forum following Community Advice Process, then sent to Tao Voting for approval.</p>\n<h3>\n<a name=\"additional-information-to-add-10\" class=\"anchor\" href=\"#additional-information-to-add-10\"></a>Additional information to add</h3>\n<p><em>more information about Celeste here <a href=\"https://celeste.1hive.org/#/dashboard\" class=\"inline-onebox\">Celeste Dashboard</a></em></p>\n<h3>\n<a name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-11\" class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-11\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>*It will set clear boundaries and common language around a unifying set of principles for the TEC participants. *</p>\n<h3>\n<a name=\"how-will-you-share-progress-12\" class=\"anchor\" href=\"#how-will-you-share-progress-12\"></a>How will you share progress?</h3>\n<p><em>Once this proposal is resolved we’ll communicate next steps in this forum thread. If it passes it will be proposed in the Hatch DAOm if it fails it will be reiterated for a new vote</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220917202307",
+    "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-01-05T12:37:05Z",
+   "updated_at": "2022-01-05T12:38:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi Livi, thanks for this proposal! I’m grateful that we take further steps to establish TE ethical principles.<br>\nOne question: what are the boundaries of “interacting with the Commons”. In other words, what activities require signing and complying to the Covenant?</p>\n<p>It reads like:</p>\n<ul>\n<li>proposing for funding</li>\n<li>bringing a proposal to vote</li>\n<li>propose a protocol change</li>\n</ul>\n<p>There are more activities, like,</p>\n<ul>\n<li>becoming a contributor</li>\n<li>becoming a steward</li>\n<li>being eligible to earn praise</li>\n<li>being eligible to distribute praise</li>\n<li>etc.</li>\n<li>maybe even being a member at our Discord(s)</li>\n</ul>\n<p>Sure this is also a matter of the implementation roadmap, maybe you can clarify what’s the plan here.<br>\nThanks!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220917202307",
+    "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": "Livia",
+   "created_at": "2022-01-06T15:53:35Z",
+   "updated_at": "2022-01-06T15:53:35Z",
+   "reply_to_post_number": 2,
+   "like_count": 1,
+   "cooked": "<p>Hi Angela, great question!</p>\n<p>The on chain signature of the covenant will happen whenever someone connects with the Garden (home to Conviction Voting and Tao Voting) <a href=\"https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98\">Giveth has a similar UI to the one we’ll use, you can see the covenant in the top left corner</a>.</p>\n<p>Besides that, we’ll have it in the Discord welcome message, so everyone who joins the server should also sign it.</p>\n<p>This covenant should be the main boundary to become a contributor, meaning that as long as someone is respectful and aligned with our mission they are welcome in.</p>\n<p>For becoming a steward we have a different process. It’s described in the <a href=\"https://docs.google.com/document/d/1cqdURiW7Qv50J_Ha9FLr9IvdqnZGuhlsffL6O1ivHnA/edit#heading=h.i8i7yypx0t4z\">“onboarding” section of the manifesto</a></p>\n<p>Anyone who is in our server is eligible to earn praise after the hatch - before it was only members of the Trusted Seed</p>\n<p>Anyone who asks for praise powers is granted it so far.</p>\n<p>Hope this addressed all your points <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220917202307",
+    "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-01-06T16:26:30Z",
+   "updated_at": "2022-01-06T16:26:30Z",
+   "reply_to_post_number": 3,
+   "like_count": 1,
+   "cooked": "<p>That’s great, thank you <a class=\"mention\" href=\"/u/liviade\">@liviade</a> !</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220917202307",
+    "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": "Livia",
+   "created_at": "2022-01-07T20:51:45Z",
+   "updated_at": "2022-01-07T20:51:45Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Approved<br>\n<a href=\"https://snapshot.org/#/tecommons.eth/proposal/0xbf290fb7cda4741af654a75f31f8efba71a604c68581e83dbacc7bda4e83d8a7\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">https://snapshot.org/#/tecommons.eth/proposal/0xbf290fb7cda4741af654a75f31f8efba71a604c68581e83dbacc7bda4e83d8a7</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220917202307",
+    "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124025039",
+   "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124025039",
+   "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220207175649",
+   "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220917202307",
+   "url": "https://forum.tecommons.org/t/tec-community-covenant-proposal/789"
+  }
+ ]
+}

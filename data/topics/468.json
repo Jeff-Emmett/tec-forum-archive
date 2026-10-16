@@ -1,0 +1,104 @@
+{
+ "id": 468,
+ "title": "Proposal Deposit and Challenge Deposit",
+ "slug": "proposal-deposit-and-challenge-deposit",
+ "category_id": 27,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2021-07-04T20:38:11Z",
+ "last_archived_post_at": "2021-10-03T19:46:11Z",
+ "captured_between": [
+  "2022-08-15T10:33:16Z",
+  "2022-10-06T17:38:15Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2021-07-04T20:38:11Z",
+   "updated_at": "2021-10-03T19:46:38Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#proposal-deposit-1\" name=\"proposal-deposit-1\"></a>Proposal Deposit</h1>\n<p>With <a href=\"https://forum.tecommons.org/t/disputable-voting-parameters-general-discussion/267\">Tao Voting</a> and <a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">Conviction Voting</a>, proposal creators must lock a set amount of funds (an xDai amount of TEC tokens) as the collateral required to create a proposal. This amount of funds is the parameter <strong>“Proposal Deposit”</strong> and is set during the design phase of the Commons in the advanced area of the Commons Config Dashboard. These funds are returned to the proposal creator when the proposal passes or fails. Note: proposals pass if they generate enough conviction to reach the conviction threshold.</p>\n<h3>\n<a class=\"anchor\" href=\"#design-considerations-2\" name=\"design-considerations-2\"></a>Design Considerations</h3>\n<p>A higher Proposal Deposit creates more friction for proposal creators, therefore increasing the likelihood of more “serious” proposals, but making proposal creation less accessible. A lower Proposal Deposit makes proposal creation more accessible, therefore likely increasing the number of proposals submitted but potentially congesting the voting process and/or creating more overhead for the DAO.</p>\n<h1>\n<a class=\"anchor\" href=\"#challenge-deposit-3\" name=\"challenge-deposit-3\"></a>Challenge Deposit</h1>\n<p>If an individual believes that a certain proposal is malicious, contains an error, or is not in alignment with the Community Covenant, they can challenge the proposal by staking (and locking) a set amount of funds (an xDai amount of TEC tokens). This amount of funds is the parameter <strong>“Challenge Deposit”</strong> and is set during the design phase of the Commons in the advanced area of the Commons Config Dashboard.</p>\n<h3>\n<a class=\"anchor\" href=\"#design-considerations-4\" name=\"design-considerations-4\"></a>Design Considerations</h3>\n<p>A higher Challenge Deposit decreases the likelihood of many proposals being challenged on minor or profit-seeking grounds. A lower Challenge Deposit makes proposal challenging more accessible, increasing the potential for community control over veto-ing proposals but potentially leading to voting process congestion or “griefing”* of proposals.</p>\n<p>*<em>The Griefing Attack in this case would look like somebody choosing to consistently challenge someone else’s proposals to harass them.</em></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006173815",
+    "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-07-29T09:57:07Z",
+   "updated_at": "2021-07-29T09:57:07Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>As mentioned above, the proposal deposits and challenge deposits (for Disputable V &amp; CV) will be denominated in xDai but will be submitted as TEC!</p>\n<p>So if the proposal deposit is 40 xdai and 1 TEC = 5 xDai then to submit a proposal a person needs to put down 8 TEC tokens to propose something</p>\n<p>If the proposal deposit is 40 xdai and 1 TEC = 10 xDai then to submit a proposal a person needs to put down 4 TEC tokens to propose something.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006173815",
+    "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-09-21T16:22:22Z",
+   "updated_at": "2021-09-21T16:22:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>really cool that the deposit needs to be paid in TEC!<br/>\n<a class=\"mention\" href=\"/u/laurenluz\">@laurenluz</a> should Disputable Voting and Disputable Conviction names be updated?<br/>\nthanks for this post!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006173815",
+    "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2021-10-03T19:46:11Z",
+   "updated_at": "2021-10-03T19:46:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>oh yes they should! Thanks Livia <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006173815",
+    "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815103316",
+   "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815103316",
+   "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006173815",
+   "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006173815",
+   "url": "https://forum.tecommons.org/t/proposal-deposit-and-challenge-deposit/468"
+  }
+ ]
+}

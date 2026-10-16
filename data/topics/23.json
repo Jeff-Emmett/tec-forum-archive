@@ -1,0 +1,45 @@
+{
+ "id": 23,
+ "title": "About the 🤖 TEC category",
+ "slug": "about-the-tec-category",
+ "category_id": 9,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2020-10-24T00:51:36Z",
+ "last_archived_post_at": "2020-10-24T00:51:36Z",
+ "captured_between": [
+  "2023-05-30T06:54:53Z",
+  "2023-05-30T06:54:53Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-10-24T00:51:36Z",
+   "updated_at": "2021-01-13T02:32:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Formal discussion for the various parameters and how they work within the TEC</p>\n<p>This is the nut’s and bolt’s of the TEC this is how are Lego’s fit together and work.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530065453",
+    "url": "https://forum.tecommons.org/t/about-the-tec-category/23"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230530065453",
+   "url": "https://forum.tecommons.org/t/about-the-tec-category/23"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530065453",
+   "url": "https://forum.tecommons.org/t/about-the-tec-category/23"
+  }
+ ]
+}

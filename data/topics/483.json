@@ -1,0 +1,284 @@
+{
+ "id": 483,
+ "title": "Open farewell letter",
+ "slug": "open-farewell-letter",
+ "category_id": 5,
+ "posts_count": 14,
+ "created_at": "2021-07-12T14:29:40.331Z",
+ "last_posted_at": "2021-08-12T13:34:09.306Z",
+ "views": 3957,
+ "highest_post_number": 14,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 14,
+ "archived_numbers": 14,
+ "last_archived_post_at": "2021-08-12T13:34:09Z",
+ "captured_between": [
+  "2021-09-28T01:34:08Z",
+  "2026-02-28T03:48:58Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": "Sem",
+   "created_at": "2021-07-12T14:29:40Z",
+   "updated_at": "2021-07-21T10:21:13Z",
+   "reply_to_post_number": null,
+   "like_count": 15,
+   "cooked": "<p>Due to the recent community decision on changing the way to reward contributors the week before the hatch, I’ve decided to step back from the TEC community stewarding.</p>\n<p>My motivation to write this letter is that I cared about this community along all this time, and I think that when someone leaves it is better to say goodbye and explain why they took the decision, even if the reasons are difficult to swallow.</p>\n<p>During the last weeks I’ve seen how an <a href=\"https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/\">unpopular idea</a> gained traction thanks to a small coordinated group of individuals, dividing the community by half, and finally being half-way accepted by the whole community, changing the previous agreements in a top-to-down manner.</p>\n<p>I didn’t confront the reasons of doing such a thing, but the way it was proposed to be done. We had a similar experience at 1hive and I think the following <a href=\"https://forum.1hive.org/t/how-much-hny-do-the-devs-have-in-total-its-at-least-30/758/12\">Luke’s argument</a> is very applicable to the TEC nowadays:</p>\n<blockquote>\n<p>I think its important that we don’t create the culture or future expectation that if you contribute and play by the rules and accumulate honey, that at some point in the future some mob of people will decide that you don’t deserve it and coordinate to punish you for it. If we create that sort of culture or set that sort of precedent, there will be no reason to value the Honey now or in the future.</p>\n<p><em>(Disclaimer: I didn’t talk with Luke about TEC’s particular conflict, these words do not correspond to his opinion on the matter.)</em></p>\n</blockquote>\n<p>So during the voting in which these ideas were considered, I <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/1\">oposed to change anything</a>, but didn’t end up gaining enough support. The <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/2\">other similar proposal</a> did better, but ended up with a similar amount of votes than an <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/5\">interventionist one</a>. You may ask why I was not present in the debates; I don’t think my presence would have changed anything, since other people was defending postures similar to mine, and I was busy doing the last tests and reviewing the smart contracts with an external developer to make sure it’s safe to launch the hatch. I don’t regret, I’m just a bad speaker, and I made a better use of my time.</p>\n<p>One of my major disapointments with the community is the lack of responses rejecting the mis-information used to discredit the token distribution we had at the moment. Many messages such as:</p>\n<blockquote>\n<p>5 people have over 50% of the current voting power (<a href=\"https://github.com/CommonsBuild/IH-intervention/issues/13#issuecomment-874852067\">link</a>)</p>\n</blockquote>\n<blockquote>\n<p>Should 4 people in our community have more weight than the rest of the community combined? It feels like the 1%. We are trying to create better systems here. This doesn’t feel like my economy, my choice. It feels like the choice of 4 or 5 people. (<a href=\"https://discord.com/channels/810180621930070088/810180622634844206/862734338062811166\">link</a>)</p>\n</blockquote>\n<p>They are just not true, but they were repeated over an over even when <a class=\"mention\" href=\"/u/griff\">@griff</a> and me already had refuted them (<a href=\"https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/79\">link</a>, <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/13#issuecomment-875820933\">link</a>).</p>\n<p>It’s unbelibable that I have to explain that again, but it seems like many people in this community didn’t understand it, so here I am explaining again. The voting had into account CSTK and IH tokenholders. The top 10 tokenholders of <a href=\"https://blockscout.com/xdai/mainnet/tokens/0xc4fbE68522ba81a28879763C3eE33e08b13c499E/token-holders\">CSTK</a> have <s>13,4967%</s> <em>38.61%</em> of CSTK. The top 10 tokenholders of <a href=\"https://blockscout.com/xdai/mainnet/tokens/0xDF2C3C8764a92Eb43d2eEA0A4C2d77c2306b0835/token-holders\">IH</a> have <s>11,03%</s> <em>36.00%</em> of IH. No matter how you combine them, the top 5 accounts holding those tokens can’t control the 50% of the DAO. Furthermore, the method used to count the votes was quadratic voting, which reduced the power of the whales in favour of the long tail. I think it’s important to recognize that the messages above were skewed, and they weren’t benefitial for the public debate. (<em>Note: the original numbers were wrong due to an error in blockscout. After <a href=\"https://forum.tecommons.org/t/open-farewell-letter/483/12\">some research</a> we found that the combining CSTK and IH tokenholders, the top 10 had <em>30.37%</em> of the total supply.</em>)</p>\n<p>Keeping previous agreements and tell the truth are important, as it is also <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/11#issuecomment-876518977\">to be able to trust others</a>. Trust is built day by day, and although I have had great interactions with many people of TEC during all this months, I can’t trust anymore the outcomes of the governance of this community.</p>\n<p>For all the reasons above, I’m steping back from the stewards group, and will not be directly involved in the community after the commons upgrade. I hope you can understand my decission, as it is a reflected one, and I think it’s for the best.</p>\n<p>Nevertheless, I still will finish the work I have been doing at Commons Swarm, because TEC still have great people that I love, admire, and want to support. This process has been hard for them, but I still see the determination in their eyes, recognizing that what TEC is building is much bigger than the results of these unsubstantial debates, and I think it’s honorable.</p>\n<p>So to finish and sum up, I may not come along all the road with TEC, but I hope we all can learn from this and I wish you the best.</p>\n<p>Sincerely,</p>\n<p><a class=\"mention\" href=\"/u/sem\">@sem</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "laurenluz",
+   "name": "Lauren Luz",
+   "created_at": "2021-07-12T17:34:09Z",
+   "updated_at": "2021-07-12T17:34:09Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Thank you so much for your heartfelt farewell letter <a class=\"mention\" href=\"/u/sem\">@sem</a>, for your honesty, thoughtfulness, and openness - it’s really moving.</p>\n<p>I resonate a lot with your hopefulness - that we may learn from this and move forward. I regret that we won’t have you as closely as we could have had, and wish in some way that I had put more attention on these debates and had full awareness of the impact.</p>\n<p>With a little feeling of heartbreak, I respect your decision and honour the way you’ve chosen to express yourself.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tamara",
+   "name": "Tamara",
+   "created_at": "2021-07-13T14:45:00Z",
+   "updated_at": "2021-07-13T14:45:00Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Thank you, <a class=\"mention\" href=\"/u/sem\">@sem</a>  <img src=\"https://forum.tecommons.org/images/emoji/win10/honeybee.png?v=9\" title=\":honeybee:\" class=\"emoji\" alt=\":honeybee:\">, for sharing your letter and perspective. You are, and have always been, a thoughtful and conscientious dev lead, architect and philosopher. Someone I very much admire. And while I may hold a different viewpoint, I respect your decision. I know it could not have been an easy one to make.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": "Livia",
+   "created_at": "2021-07-14T13:34:54Z",
+   "updated_at": "2021-07-14T13:34:54Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Thank you so much <a class=\"mention\" href=\"/u/sem\">@sem</a>. I feel very sad to see you leave, for me you’re in the core of this community and I’m grateful you took the time to write this letter and to eloquently share your thoughts.</p>\n<p>I looked up to you a lot in the Cultural Build, you broke the image I had in my head of developers being insensitive to culture. You supported the TEC in so many levels beyond your wizard dev skills. I really appreciate you.</p>\n<p>I hope I will understand and incorporate all the learnings from this process, which are still blurry to me. So many levels were moved and emotions were shaken. I apologize if I ever said something uncareful. I respect your opinion and your choices and wish you the absolute best <img src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=9\" title=\":pray:\" class=\"emoji\" alt=\":pray:\"> <img src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=9\" title=\":heart:\" class=\"emoji\" alt=\":heart:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Suga",
+   "name": "itny0u4gw4",
+   "created_at": "2021-07-14T17:38:49Z",
+   "updated_at": "2021-07-14T17:38:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you, Sem. We appreciate you. Sorry to see you go. x</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2021-07-14T18:24:19Z",
+   "updated_at": "2021-07-14T18:24:19Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p><a class=\"mention\" href=\"/u/sem\">@sem</a> even in your departure you are an example of courage and wisdom. You are a leader across the space of decentralization and I know that this is not the end of the journey, but the beginning of another chapter.</p>\n<p>I do think that how the IH intervention unfolded has been an example of educated democracy and a good exercise of participatory governance. The analysis regarding 5 people having 50% of the voting power was an alarm bell that was raised by attentive community members and driven by data analysis. This opened up dialogue and further analysis, shedding light on the details of the voting implementation used, leading to further introspection and refined analysis that showed 8-10 people having 50% of the voting power. I think the fact that this research was performed and communicated is worth more than the decision outcome altogether as I would not want to participate in a community that does not at least try to use data for informed decision making. In my perspective, the compromise IH intervention solution that the community landed on is better than any individual proposal, and all together, the experience is an incredible case study for decision space-time design, tooling, and methodology for future generations.</p>\n<p>I would also like to personally apologize for my personal biases and insensitivity that I have displayed. I know that I make a lot of mistakes (probably more than the average person). But everybody makes mistakes and has biases and fallacies. That is why I so passionately believe in the wisdom of the crowd and feel so strongly about the opportunity to have a more widely distributed governance surface. I want to see the TEC thrive for decades and I think that it has the full potential to do so and there will be growing pains along the way. I think that exercising voices and change is critical at early stages to avoid complacency. This is why I have so much respect for the letter that you have written here. You are also reminding people that they have a choice. At every moment, there is nothing binding us. In this new economy we are free to choose. Thank you for reminding us of that.</p>\n<p>Regardless of disagreements, <a class=\"mention\" href=\"/u/sem\">@sem</a>, I have utmost respect for you as a teacher, a wizard, and a brother. Whatever you are moving onto next, I want to know about it because it’s going to be amazing. All of our fates are intertwined and we have a long journey ahead. Thank you for such dedication and service to this community, I will be striving to uphold the level of sophistication and care that you have displayed in your time in the TEC.  <img src=\"https://forum.tecommons.org/images/emoji/win10/milky_way.png?v=9\" title=\":milky_way:\" class=\"emoji\" alt=\":milky_way:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "ZeptimusQ",
+   "name": "9i81ftctu4",
+   "created_at": "2021-07-15T10:30:18Z",
+   "updated_at": "2021-07-15T11:00:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-username=\"ygg_anderson\" data-post=\"6\" data-topic=\"483\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/ygg_anderson/40/29_2.png\" class=\"avatar\"> ygg_anderson:</div>\n<blockquote>\n<p>further introspection and refined analysis that showed 8-10 people having 50% of the voting power</p>\n</blockquote>\n</aside>\n<p>8-10 people determining 50% of the vote doesn’t mean they have 50% of voting power, it means that their votes count 50% because there is a lot of abstention.</p>\n<p>Let’s put it in another way. Imagine a voting in which only one person votes, is his/her voting power 100%? Is he/she a dictator that imposes his/her will to the community? Please read <a class=\"mention\" href=\"/u/sem\">@sem</a> again, it’s unvelibable that this discussion is happening on a community of token engineers.</p>\n<aside class=\"quote no-group\" data-username=\"sem\" data-post=\"1\" data-topic=\"483\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" class=\"avatar\"> sem:</div>\n<blockquote>\n<p>It’s unbelibable that I have to explain that again, but it seems like many people in this community didn’t understand it, so here I am explaining again. The voting had into account CSTK and IH tokenholders. The top 10 tokenholders of <a href=\"https://blockscout.com/xdai/mainnet/tokens/0xc4fbE68522ba81a28879763C3eE33e08b13c499E/token-holders\">CSTK</a> have 13,4967% of CSTK. The top 10 tokenholders of <a href=\"https://blockscout.com/xdai/mainnet/tokens/0xDF2C3C8764a92Eb43d2eEA0A4C2d77c2306b0835/token-holders\">IH</a> have 11,03% of IH.</p>\n</blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Suga",
+   "name": "itny0u4gw4",
+   "created_at": "2021-07-15T10:35:43Z",
+   "updated_at": "2021-07-15T10:36:54Z",
+   "reply_to_post_number": 6,
+   "like_count": 1,
+   "cooked": "<p>That’s a beautiful tribute, <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>. Wow.</p>\n<p>A heartfelt response to a heartfelt farewell.</p>\n<p>I am grateful to be part of this community where we are able to voice our disagreements and move on. The TEC will grow from it and be stronger.</p>\n<p>We all work very hard to do our best and do what is right and correct, but we are not perfect, and in fact we are mere children here, growing and learning how to develop this flawed-because-human, beautiful, paradigm-shifting system that is the TEC. When mistakes arise, we need more support not less!</p>\n<p>We put our trust in each other and anticipate mutual trust through that. As part of Ostrom’s principles, we are strategic actors who cooperate based on a collective objective. To that end, we trust each other in our diverse roles and with our different mechanisms. We listen and learn. The TEC makes mistakes, and we learn and move forward.</p>\n<p>So much love and respect to all of you. Thank you, <a class=\"mention\" href=\"/u/sem\">@sem</a>, for all that you’ve done and continue to do.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2021-07-15T18:04:33Z",
+   "updated_at": "2021-07-15T18:04:33Z",
+   "reply_to_post_number": 7,
+   "like_count": 1,
+   "cooked": "<p>Where are these numbers coming from? Because as of the current distribution, the top 10 IH tokenholders have 31.8% and I’m quite confident that prior to the last two praise quants it was over 50% or close to it.</p>\n<p>Current top 10 IH holders sum to 31.8% (Before praisemaggedon compromise)<br>\n<img src=\"https://forum.tecommons.org/uploads/default/original/1X/aa0b1532d1fb138955a52fea608bd878930cd5d7.png\" alt=\"image\" data-base62-sha1=\"oggUIpJwSxF6ovRKkCsF8SUzQZp\" width=\"99\" height=\"205\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": "Sem",
+   "created_at": "2021-07-15T20:15:10Z",
+   "updated_at": "2021-07-15T20:15:10Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I am sorry, I did a mistake providing those numbers. <a href=\"https://github.com/blockscout/blockscout/issues/4380\">Blockscout tokenholders data is wrong</a> and when I wrote the letter I didn’t double-checked using other sources. Using aragon’s token manager dapp which is gathering data directly from the blockchain (takes time to load, so be patient if you check), we can find the correct distribution for the top 10 addresses:</p>\n<ul>\n<li>\n<a href=\"https://aragon.1hive.org/#/csdao/0xa18effbceb3b6bfd914bac1c08103fc93b5d4b45/\">CSTK</a>: 526401/1347302 = 39.07%</li>\n<li>\n<a href=\"https://aragon.1hive.org/#/0x9705910935F0ecCF7d2A6eFbaaa4F68847430079/0x5cf4fe29f624ee9f1305762aa3eec2fe9737850b/\">IH</a> (used in the vote): 4041.65/10786.83 = 37.46%</li>\n</ul>\n<p>I am doing some more research and will do a proper response when I gather more data. I’m responsible from any misinformation I’ve given, and I apologize for it.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Solsista",
+   "name": "Sebnem",
+   "created_at": "2021-07-16T08:16:38Z",
+   "updated_at": "2021-07-16T10:15:35Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Dear Sam, TEC is the “first field trial of Commons Stack”. Token Engineering Community celebrates insights - as such we should celebrate the strong signals this process is generating. For this to work TEC should have a revolving door: voice &amp; exit, is the strongest signal a caring community member can contribute. But we could not nurture the experiment-driven development, if “exit” or farewells were forever. I hope we will all use this to improve a 100x and you remain connected and a caring critical voice, and consider re-entering the game when adapted the process.</p>\n<p>I agree with you that if an organization were to change course at every slightest concern. But the risk of this issue that now manifested was raised in “Proposal for Working Group 0” back in September 2020, which then turned into Working Group 0mega <a href=\"https://docs.google.com/document/d/1GZi7Cz0DlovZBRzocxfj-5A9Jp3lGX6kjFxoTH8v2G4/edit#heading=h.mfwf7l9lteyu\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Proposal Working Group 0mega: Towards Computer-aided Governance - Google Docs</a><br>\nIn this old proposal [*] you can see the edits/editions. The resolution back then was the common understanding that we are literally “dog fooding” the stack, and we need to generate data to be able to make model- and data-driven decisions.</p>\n<p>I did not involve myself further in the entire IH discourse - because for me back then, as you did now, the resolution was to “exit” this first round of experiment, as it did not compute for me to run into this obvious problem.  Now we’ve run into this problem, which was foreseen, we have generated - all of us valuable data - warm data: people making heartfelt decisions for a cause they care.</p>\n<p>As said in “my fork” of the process that already started 2020, the issue transformed into wg 0mega, a working group that questions the very source of decision making: ethics, who decides who decides?  We all - as <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> says in the entire space - care and are curious deeply about this question, and we want to generate useful answers, transformative answers that bring progress. I read somewhere it only becomes a crisis, if we resist the transformation. But this transformations needs to happen in ways that work globally - no simple feat. And I don’t buy that we can wing it with voting and proposals.</p>\n<p>I hope to meet you in the next level experimentation in TEC. There’s huge potential in this community, as you also acknowledge. It depends on transforming these signals into insights into better coordination mechanisms. We know we do not yet have these, and all of the feedbacks we are giving are golden.</p>\n<p>Your voice isn’t just heard, it’s analyzed. And “the door you exit is a revolving one.” A strong signal of 100x improvement on our decision making &amp; coordination mechanisms will be if members who “soft-fork” or “exit” are active in TEC main branch in future TEC versions. Experiment-driven-design &amp; development is part of <a href=\"https://docs.google.com/presentation/d/1lTC8z7KeUJKVLm4j2EejegKJdHjYZTF8GPQaaRNiq0Q/edit#slide=id.gdd94030a36_0_11\" rel=\"noopener nofollow ugc\">Token Model Generation</a> btw <img src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\" class=\"emoji\" alt=\":wink:\"></p>\n<p>[*] the comments also give an overview<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/4145331e559174a7f94c3ba0c066ef56de5b0667.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/4145331e559174a7f94c3ba0c066ef56de5b0667\" title=\"image\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4145331e559174a7f94c3ba0c066ef56de5b0667_2_239x499.png\" alt=\"image\" data-base62-sha1=\"9jpiiNACqvK9jEZIKLVm1Msw6Cr\" width=\"239\" height=\"499\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4145331e559174a7f94c3ba0c066ef56de5b0667_2_239x499.png, https://forum.tecommons.org/uploads/default/original/1X/4145331e559174a7f94c3ba0c066ef56de5b0667.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/4145331e559174a7f94c3ba0c066ef56de5b0667.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4145331e559174a7f94c3ba0c066ef56de5b0667_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">357×744 36.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div> leaving here for improvement efforts in next iterations</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "sem",
+   "name": "Sem",
+   "created_at": "2021-07-21T10:10:08Z",
+   "updated_at": "2021-07-21T10:10:08Z",
+   "reply_to_post_number": 10,
+   "like_count": 6,
+   "cooked": "<p>After doing some research, and having these as starting points:</p>\n<ul>\n<li>CSTK tokenholders and IH tokenholders had the <a href=\"https://github.com/CommonsBuild/IH-intervention/blob/main/tokenlog.json\">same voting power</a> (50%-50%).</li>\n<li>CSTK and IH were minted all the time, also during the last voting. I don’t think it affected the results, though the results I present in this post take as reference the block <span class=\"hashtag\">#16868082</span> (July-02-2021 06:50:35 AM UTC) as it was the last time that <a href=\"https://blockscout.com/xdai/mainnet/tx/0x8877e18aa615fefbe43212a0d01136b5e028b73f921ff40ae9c39ddc193d3618\">some CSTK were minted</a> before the proposals were closed.</li>\n</ul>\n<p>I’ve found that top 10 CSTK tokenholders voting power at the end of the voting was 38.61%, top 10 IH tokenholders voting power was 36.00%, and the <strong>top 10 CSTK+IH tokenholders voting power  was 30.37%</strong> (<a href=\"https://gist.github.com/sembrestels/e2639bfa07ab2425857678504355d1f1\">source code</a>).</p>\n<p>It does not correspon to the initial numbers I provided above, so I’m editing the post and apologize for not providing the correct information. I could not imagine that the block explorer could be wrong.</p>\n<p>The good thing is that after the research, we have the actual CSTK+IH voting power, and we do not have to guess based on CSTK and IH distributions .The algorithm I’ve used takes into account that the top 10 of each list are different, so it calculates the voting power for each address in each of the distributions, and then grabs the top 10.</p>\n<p>The CSTK+IH voting power at the end of the voting had this distribution:</p>\n<p><img src=\"https://forum.tecommons.org/uploads/default/original/1X/74c34afd787f92551abb3b8695f83e8a36491b48.png\" alt=\"Screenshot from 2021-07-21 11-28-28\" data-base62-sha1=\"gEVNAdGvbRhwwxSx45Me0oD19bi\" width=\"513\" height=\"431\"></p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>User</th>\n<th>Voting Power</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>5.39%</td>\n</tr>\n<tr>\n<td>2</td>\n<td>4.79%</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3.96%</td>\n</tr>\n<tr>\n<td>4</td>\n<td>3.45%</td>\n</tr>\n<tr>\n<td>5</td>\n<td>3.05%</td>\n</tr>\n<tr>\n<td>6</td>\n<td>2.44%</td>\n</tr>\n<tr>\n<td>7</td>\n<td>2.03%</td>\n</tr>\n<tr>\n<td>8</td>\n<td>1.77%</td>\n</tr>\n<tr>\n<td>9</td>\n<td>1.75%</td>\n</tr>\n<tr>\n<td>10</td>\n<td>1.74%</td>\n</tr>\n<tr>\n<td>11</td>\n<td>1.71%</td>\n</tr>\n<tr>\n<td>12</td>\n<td>1.69%</td>\n</tr>\n<tr>\n<td>13</td>\n<td>1.46%</td>\n</tr>\n<tr>\n<td>14</td>\n<td>1.39%</td>\n</tr>\n<tr>\n<td>15</td>\n<td>1.37%</td>\n</tr>\n<tr>\n<td>16</td>\n<td>1.36%</td>\n</tr>\n<tr>\n<td>17</td>\n<td>1.34%</td>\n</tr>\n<tr>\n<td>18</td>\n<td>1.26%</td>\n</tr>\n<tr>\n<td>19</td>\n<td>1.24%</td>\n</tr>\n<tr>\n<td>20</td>\n<td>1.24%</td>\n</tr>\n<tr>\n<td>21</td>\n<td>1.22%</td>\n</tr>\n<tr>\n<td>22</td>\n<td>1.21%</td>\n</tr>\n<tr>\n<td>23</td>\n<td>1.21%</td>\n</tr>\n<tr>\n<td>24</td>\n<td>1.19%</td>\n</tr>\n<tr>\n<td>25</td>\n<td>1.14%</td>\n</tr>\n<tr>\n<td><strong>TOTAL</strong></td>\n<td><strong>50.38%</strong></td>\n</tr>\n</tbody>\n</table>\n</div><p>As you can see, this do not correspond with the claims that some had spread telling that the top 5 tokenholders were controlling the 50% of the voting. It was the top 25 tokenholders who had 50% of the tokens, and <strong>on top of that, quadratic voting was used to reduce the votes that they could cast</strong>.</p>\n<p>Obviously, as in any voting, there are abstainers. This is why 7 addresses were executing 50% of the voting power, as <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a> <a href=\"https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/85\">was saying</a>. But this doesn’t mean that 7 people was controlling the result of the vote. Read <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> example, please:</p>\n<aside class=\"quote no-group\" data-username=\"ZeptimusQ\" data-post=\"7\" data-topic=\"483\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" class=\"avatar\"> ZeptimusQ:</div>\n<blockquote>\n<p>Imagine a voting in which only one person votes, is his/her voting power 100%? Is he/she a dictator that imposes his/her will to the community?</p>\n</blockquote>\n</aside>\n<p>Obviously not.</p>\n<p>And again, I apologize for providing wrong data. I did an extra effort to rectify and provide even better research to understand what happened in the voting and the reasons I’m leaving.</p>\n<p>I wish you well.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Gijsio",
+   "name": "Gijs Spoor",
+   "created_at": "2021-08-12T06:05:40Z",
+   "updated_at": "2021-08-12T06:05:40Z",
+   "reply_to_post_number": 11,
+   "like_count": 8,
+   "cooked": "<p>Dedicated members leaving a community are one of the most important advisors.<br>\nWe could use the community canvas to design exit procedures and rituals.</p>\n<p>Is there a space for “alumni”?<br>\nWhat does the “revolving door” actually look like?</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ed34d979e3dcf2f757b7f8c5f62e6f8920e6c227.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/ed34d979e3dcf2f757b7f8c5f62e6f8920e6c227\" title=\"images\"><img src=\"https://forum.tecommons.org/uploads/default/original/1X/ed34d979e3dcf2f757b7f8c5f62e6f8920e6c227.png\" alt=\"images\" data-base62-sha1=\"xQqoboPpnmZZhEYIunKOwtPzRMX\" width=\"582\" height=\"500\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ed34d979e3dcf2f757b7f8c5f62e6f8920e6c227_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">images</span><span class=\"informations\">598×513 18.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Besides conflict resolution (as per Ostrom) there’s a need for healing. Both the person leaving as well as those left behind go through grieving and processing experiences that are potentially traumatic</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "MrsBadgerface",
+   "name": "Anna-Marie Swan",
+   "created_at": "2021-08-12T13:34:09Z",
+   "updated_at": "2021-08-12T13:34:09Z",
+   "reply_to_post_number": 13,
+   "like_count": 5,
+   "cooked": "<p>Thank you for your post <a class=\"mention\" href=\"/u/gijsio\">@Gijsio</a> I’ve come across the community canvas before but haven’t applied it.</p>\n<p>I think the idea of a ritual of appreciation and honouring everything someone has shared is beautiful. And I think having some clear pathways back into the community for members that choose to withdraw, if they would like to return, would be key to ensuring that there’s clarity and care on both sides and we’re creating the kind of community that responds maturely to conflict.</p>\n<p>Personally, having withdrawn from communities due to painful experiences that I don’t think could be bridged without some huge changes within the community, I wouldn’t want the pressure of being asked or expected to be an advisor or some kind of alumni, but I think there’s a key conversation here about creating spirals - spiralling into roles with greater ownership and commitment, and then the spirals out of them in a way that is supported by the community.</p>\n<p>The Gravitons WG could be a great place to explore this in more detail:</p>\n<ol>\n<li>Rituals of honouring and appreciation.</li>\n<li>Ensuring that there are routes available that support members in sharing the seriousness of their distress without them feeling that the only option is to leave afterwards (not implying that this is what’s happened here).</li>\n<li>Creating spirals into holding positions of greater responsibility and spirals of removing from positions of greater responsibility.</li>\n<li>Ensuring that there is care and clarify around welcoming members back into the community, if they wish to come back.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228034858",
+    "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928013408",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928013408",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025092642",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483/12"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025092642",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483/12"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530075529",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530075529",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228034858",
+   "url": "https://forum.tecommons.org/t/open-farewell-letter/483"
+  }
+ ]
+}

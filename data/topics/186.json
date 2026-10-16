@@ -1,0 +1,88 @@
+{
+ "id": 186,
+ "title": "Protocol for TEC calls",
+ "slug": "protocol-for-tec-calls",
+ "category_id": 10,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2020-12-23T20:20:08Z",
+ "last_archived_post_at": "2022-02-11T15:08:57Z",
+ "captured_between": [
+  "2021-03-03T01:46:07Z",
+  "2026-05-15T22:31:09Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2020-12-23T20:20:08Z",
+   "updated_at": "2020-12-23T20:20:08Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><strong>Common rules for all calls:</strong></p>\n<p>Nonviolent communication is the common rule (assertive, careful language)<br/>\nHumbleness of knowledge (not trying to impose own perspective)<br/>\nRespect the moderation (The moderator can stop interventions if considered)<br/>\nRespect to the time and topics of the agenda<br/>\nRespect the others integrity<br/>\nSpamming/sabotage leads to retire from call<br/>\nOpen mics while presentations can be server muted<br/>\nParticipants can use different languages for comfortably expressing ideas.</p>\n<p><strong>Types of calls:</strong><br/>\nThere are 4 different types of calls we regularly have in the TEC.</p>\n<ul>\n<li>\n<p>Hack sessions/Labs:<br/>\nNo agenda needed<br/>\nCan be recorded and posted with consent from the participants (Transparency Wg)<br/>\nno moderation needed</p>\n</li>\n<li>\n<p>Working group sync calls:<br/>\nNeeds agenda if over 3 people<br/>\nCan be recorded and posted with consent from the participants (Transparency Wg)<br/>\nNeeds facilitator (Steward)<br/>\nNeeds moderator (a different person than the steward)</p>\n</li>\n<li>\n<p>Community calls<br/>\nNeeds agenda<br/>\nShould be recorded and posted with consent from the participants (Transparency Wg)<br/>\nNeeds facilitator (Steward)<br/>\nNeeds moderator (Steward or Gravity)</p>\n</li>\n<li>\n<p>Private calls<br/>\nNeeds agenda if over 3 people<br/>\nCannot be recorded and there should be confidentiality agreement<br/>\nNeeds facilitator (Steward or Gravity)<br/>\nNeeds moderator (Steward)</p>\n</li>\n</ul>\n<p><strong>Description:</strong></p>\n<ol>\n<li>Agenda: There should be a previous consideration about the content and the process of the meeting. Referring to what will be discussed and how is it going to be tackled.</li>\n<li>Recording and publishing: The TEC is proactive to transparency. Many of the calls can be recorded and published by consent of the Transparency Working group.</li>\n<li>Facilitator: Determines location, time and key attendees to the meeting, proposes the agenda, can assign responsibilities and action items, communicates conclusions and next steps, sets next meeting dates.</li>\n<li>Moderator: Ensures equal speaking opportunities, helps to develop the agenda, sets and manages times limits. If there are disturbances on the call, the moderator can temporarily mute mics or ban users.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260515223109",
+    "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2022-02-11T03:00:17Z",
+   "updated_at": "2022-02-11T03:00:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This is really cool <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a>. Thank you for compiling this.</p>\n<p>All points make sense, however there is one that I find particularly interesting, that is ‘Humbleness of Knowledge’. I’m curious if this conflicts with the concept of a communal discernment of truth. In other words, will we allow for the growth of a ‘shared knowing’ or ‘standard ontology’. Because a standard ontology can lay the foundation of collective understanding and knowledge. At the same time, these collective understandings should always be open to challenge, which makes the humbleness point a very important one. Alternatively, consider the opinions of domain experts of particular fields, or the presence of scientific evidence? These may be cases where knowledge could benefit from not being too humble, but rather actively attempting to illuminate understanding in others ie. ‘debate’.</p>\n<p>A thought experiment that can be derived from the above is the following: Are community members free to dispute the results of a decision made through celeste? Or should such a decision be accepted as truth by the community?</p>\n<p>My intention of this note is to simply invoke thought and discussion. The fact that we have this protocol is invaluable. I invite community members to challenge it and or propose ways of evolving it. I hope that others find this note useful or at least thought provoking. Thanks again to <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> and gravity for putting this together!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260515223109",
+    "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2022-02-11T15:08:57Z",
+   "updated_at": "2022-02-11T15:08:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey Ygg!  Love the comment. Knowledge can be seen as an idea structured on premises, and people can engage in a discussion with tautological perspectives. So humbleness about it would be understanding that the world is so complex that not one point of view is absolute and that multiple points of view can increase our understanding of the complexity. Thats why i love the transdisciplinarity behind the TE flower. The flower is something different from all of its petals, and that can be a standard ontology or shared knowing.</p>\n<p>About Celeste’s disputability, I think that would be a super interesting discussion to have with more people, maybe my first idea would be having other courts to review the arbitration.</p>\n<p>This is one of my favorite books and talks about how logic chains are based on tautologies. <a href=\"https://www.gutenberg.org/files/5740/5740-pdf.pdf\">https://www.gutenberg.org/files/5740/5740-pdf.pdf</a></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/bb434e2978986b56c689ad609ff02c6fb10d789f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/bb434e2978986b56c689ad609ff02c6fb10d789f.jpeg\" title=\"Captura de Pantalla 2022-02-10 a la(s) 2.12.06 p. m.\"><img alt=\"Captura de Pantalla 2022-02-10 a la(s) 2.12.06 p. m.\" data-base62-sha1=\"qIBufHYoYXuGcyTBBzAt10lXnJB\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/bb434e2978986b56c689ad609ff02c6fb10d789f_2_10x10.png\" height=\"244\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/bb434e2978986b56c689ad609ff02c6fb10d789f_2_345x244.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/bb434e2978986b56c689ad609ff02c6fb10d789f_2_345x244.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/bb434e2978986b56c689ad609ff02c6fb10d789f_2_517x366.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/bb434e2978986b56c689ad609ff02c6fb10d789f_2_690x488.jpeg 2x\" width=\"345\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Captura de Pantalla 2022-02-10 a la(s) 2.12.06 p. m.</span><span class=\"informations\">1228×872 73.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>6.44 Not how the world is, is the mystical, but that it is.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260515223109",
+    "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303014607",
+   "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303014607",
+   "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260515223109",
+   "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260515223109",
+   "url": "https://forum.tecommons.org/t/protocol-for-tec-calls/186"
+  }
+ ]
+}

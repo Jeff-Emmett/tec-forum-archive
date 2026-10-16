@@ -1,0 +1,162 @@
+{
+ "id": 132,
+ "title": "Vote Proposal Buffer",
+ "slug": "vote-proposal-buffer",
+ "posts_count": 6,
+ "category_id": 19,
+ "created_at": "2020-12-06T20:56:18.501Z",
+ "last_posted_at": "2021-05-07T18:36:58.608Z",
+ "views": 3335,
+ "highest_post_number": 7,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-05-07T18:36:58Z",
+ "captured_between": [
+  "2021-04-20T12:56:27Z",
+  "2026-02-28T03:05:35Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": "Tamara",
+   "created_at": "2020-12-06T20:56:18Z",
+   "updated_at": "2021-05-05T21:02:36Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>What is Vote Proposal Buffer</h1>\n<p>Vote Proposal Buffer is the amount of time that must pass between each subsequent vote. This parameter will determine the number of votes that can take place within a period of time and whether or not we can have votes run concurrently.</p>\n<h2>What is important to consider?</h2>\n<p>If we look at the edge cases, a very high setting would greatly limit the number of votes we can have over a period of time. For example, if set to 90 days, there would be a maximum of 4 votes allowed per 12-month period. Depending on the Vote Duration parameter, this may also prevent concurrent votes, if that is a desired outcome. A very low setting would allow for many votes over a period of time and, depending on the Vote Duration parameters, could allow votes to run concurrently. For example, if set to 1 day, a new vote may take place every day.</p>\n<h2>So what do we need to talk about in this forum post?</h2>\n<ol>\n<li>What are the advantages and disadvantages of having a very high Vote Proposal Buffer and a very low Vote Proposal Buffer.</li>\n<li>What considerations should we take into account in determining this parameter?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-01-11T02:58:39Z",
+   "updated_at": "2021-01-11T02:58:39Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>For background:</p>\n<p>In the function that creates new votes there are these lines:</p>\n<p>// Get the start block of the previous vote (if it’s the first vote will be 0)<br>\nuint64 previousVoteStartBlock = votes[voteId - 1].startBlock;<br>\n// Here we ensure that the next vote created starts at least <code>bufferBlocks</code> blocks after the previous vote start block<br>\nuint64 earliestStartBlock = previousVoteStartBlock == 0 ? 0 : previousVoteStartBlock.add(bufferBlocks);<br>\n// Get the actual start block of the next vote created (if the bufferBlocks duration has already passes then get the current block number)<br>\nuint64 startBlock = earliestStartBlock &lt; getBlockNumber64() ? getBlockNumber64() : earliestStartBlock;</p>\n<pre><code>  // Get the block from where the vote will be able to be executed in case it passes\n  uint64 executionBlock = startBlock.add(durationBlocks).add(executionDelayBlocks);\n</code></pre>\n<p>From<br>\n</p><aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://www.notion.so/images/favicon.ico\" class=\"site-icon\" width=\"64\" height=\"64\">\n      <a href=\"https://www.notion.so/Technical-Documentation-2dea29d0a3014e6db22d8f17cf93e7d1\" target=\"_blank\" rel=\"noopener\">Notion</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_690x362.png\" class=\"thumbnail\" width=\"690\" height=\"362\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_10x10.png\"></div>\n\n<h3><a href=\"https://www.notion.so/Technical-Documentation-2dea29d0a3014e6db22d8f17cf93e7d1\" target=\"_blank\" rel=\"noopener\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n\n<p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-02-15T12:40:32Z",
+   "updated_at": "2021-02-15T12:40:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>!dish praise to <span class=\"mention\">@lkngtn</span> for describing to me the real reason for the vote proposal buffer in Dandelion Voting:</p>\n<p>The vote proposal buffer’s main purpose is to make it so that the rage quit mechanism works well in a specific scenario…</p>\n<p>Imagine if a proposal comes out to send 100 wxDai to the Token Engineering Academy and I vote yes on it right after it comes out.</p>\n<p>Then a second proposal comes out 3 minutes later that asks for 10,000 wxDai to fire bomb a house… and for some crazy reason this gathers support.</p>\n<p>Well I voted yes on the first proposal, but i want to rageQuit before the second proposal passes.</p>\n<p>I cannot rage quit until that first vote is executed… and there was only 3 minutes between the vote proposals so there will be 3 minutes between the vote execution…</p>\n<p>As you can see… 3 minutes is not enough time really… so this variable was included to protect against this scenario.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": "Livia",
+   "created_at": "2021-02-16T16:41:19Z",
+   "updated_at": "2021-02-16T16:41:19Z",
+   "reply_to_post_number": 3,
+   "like_count": 0,
+   "cooked": "<p>this is a conviction voting scenario, do we have this parameter for CV too?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": "Sem",
+   "created_at": "2021-02-16T19:00:36Z",
+   "updated_at": "2021-02-16T19:00:36Z",
+   "reply_to_post_number": 4,
+   "like_count": 0,
+   "cooked": "<p>No, this is a particular feature of Dandelion Voting. In the case of Conviction Voting many proposals can be proposed at the same time.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-05-05T21:35:36Z",
+   "updated_at": "2021-05-05T21:35:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>There seems to be a lot of questions about this one… confusing Ragequit Delay with Vote Proposal Buffer</p>\n<p>The <strong>vote proposal buffer</strong> is a rate limiter for proposals… as in, it slows the number of newly created milestones. if that is set to 10 days, it means only 1 vote can happen every 10 days…</p>\n<p>For example… If:</p>\n<ul>\n<li>\n<strong>Vote Proposal Buffer</strong> is 10 days</li>\n<li>\n<strong>Vote Duration</strong> is 1 day</li>\n<li>\n<strong>Ragequit Delay</strong> is 1 hour</li>\n</ul>\n<p>Then if Vote A is proposed, the next vote cannot be <strong>PROPOSED</strong> for 10 days</p>\n<p>BUT!</p>\n<p>Every vote will pass or fail within 24 hours and be executable 1 hour later.</p>\n<p>The 2 params that address the ability for people to Ragequit before a proposal is executed are:<br>\n**- Vote Duration  **<br>\n<strong>- Ragequit Delay</strong></p>\n<p><strong>Ragequit Delay</strong> being the primary one, targeted exactly for that purpose.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2021-05-07T18:36:58Z",
+   "updated_at": "2021-05-07T18:36:58Z",
+   "reply_to_post_number": 5,
+   "like_count": 0,
+   "cooked": "<p><strong>What is the Vote Proposal Buffer (hours)?</strong><br>\nThe Vote Proposal Buffer is the amount of time that must pass between the start of subsequent votes.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br>\nThe Vote Proposal Buffer is measured in hours, and you will have the option to set this parameter between 0 and ∞.</p>\n<p>The Vote Proposal Buffer is being implemented in order to limit rapid proposal creation within the DAO which delays the execution of prior proposals.  The Vote Proposal Buffer also allows token holders adequate time to exercise their ragequit rights for a specific proposal before the voting period ends.  If we set a high Vote Proposal Buffer, we can limit the number of votes we can have over a period of time.  If we set a low Vote Proposal Buffer we would allow for many votes to occur over a period of time and, depending on the Vote Duration parameters, could allow votes to run concurrently.</p>\n<p><strong>Suggested Range</strong><br>\nThe Vote Proposal Buffer is important for providing the community the ability to make proposals, and also to prevent spam from occurring that delays voting on proposals.  We suggest a range between 4-12 hours.</p>\n<p><strong>Related Parameters to consider when defining the Vote Proposal Buffer (hours):</strong><br>\nVote Duration (days)<br>\nTollgate Fee (wxDai)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228030535",
+    "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420125627",
+   "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210420125627",
+   "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928010323",
+   "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928010323",
+   "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228030535",
+   "url": "https://forum.tecommons.org/t/vote-proposal-buffer/132/7"
+  }
+ ]
+}

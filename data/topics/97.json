@@ -1,0 +1,135 @@
+{
+ "id": 97,
+ "title": "✨ What is the TEC?",
+ "slug": "what-is-the-tec",
+ "category_id": 12,
+ "posts_count": 5,
+ "created_at": "2020-12-31T23:00:00.000Z",
+ "views": 4500,
+ "last_posted_at": "2021-01-25T21:39:16.012Z",
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2020-12-31T23:00:00Z",
+ "captured_between": [
+  "2021-01-06T21:19:43Z",
+  "2025-03-22T00:02:19Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": "Jessica Zartler",
+   "created_at": "2020-12-31T23:00:00Z",
+   "updated_at": "2021-10-20T09:42:33Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>The Token Engineering Commons (TEC) is an <strong>open source</strong> and <strong>collectively governed</strong> project that aims to create a token economy that will accelerate the <strong>responsible &amp; ethical creation of public goods</strong> within the TE community.</p>\n<p><strong>To·ken En·gi·neer·ing <em>/ˈtōkən/ /enjəˈniriNG/</em></strong></p>\n<ol>\n<li>\n<p>An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems i.e. cyptoeconomic systems and their simulation using tools like <a href=\"https://cadcad.org/\">cadCAD</a>.</p>\n</li>\n<li>\n<p>A discipline of responsibility; adhering to the highest principles of ethical conduct <em>(from</em> <a href=\"https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca?gi=17281e8babc1\"><em>ethical engineering</em></a><em>)</em></p>\n</li>\n<li>\n<p>A community pushing forward the field of token engineering in theory and practice. <em>(See more</em> <a href=\"https://thegraph.com/blog/modeling-cryptoeconomic-protocols-as-complex-systems-part-1\"><em>Modeling Crypto Protocols as Complex Systems</em></a><em>,</em> <a href=\"https://syoung.org/2019/10/18/a-token-engineering-process/\"><em>TE Process</em></a><em>)</em></p>\n</li>\n</ol>\n<p><strong>Com·mons/ˈkämənz/</strong></p>\n<ol>\n<li>Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately <em>(see</em> <a href=\"https://medium.com/freeelio-studios/fractal-ownership-part-2-implementing-value-based-ownership-d329405f8ea0\"><em>Fractal Ownership</em></a><em>,</em> <a href=\"https://en.wikipedia.org/wiki/Commons\"><em>Wiki</em></a> <em>and</em> <a href=\"https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138\"><em>Automating Ostrom</em></a><em>)</em>\n</li>\n</ol>\n<h3>\n<a name=\"vision-1\" class=\"anchor\" href=\"#vision-1\"></a>Vision</h3>\n<p>Enable the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.</p>\n<h3>\n<a name=\"mission-2\" class=\"anchor\" href=\"#mission-2\"></a>Mission</h3>\n<p>Our goal is to become a <a href=\"https://nav.al/schelling-point\">Schelling Point</a> for the token engineering community.</p>\n<p>Our economic layer will fund projects that discover, develop and proliferate the best practices for engineering safe tokenized economies, while aligning our collective success with the individual benefit of token holders.</p>\n<p>Our social layer is even more important, as it will unite the token engineering field around the ethical principles, standards, tools and methodologies that emerge as this nascent field advances.</p>\n<h3>\n<a name=\"values-3\" class=\"anchor\" href=\"#values-3\"></a>Values</h3>\n<p>Our Commons operates from a prosocial, human-centered perspective and prioritizes the advancement of token engineering over short-term profits.</p>\n<p>Integrity, curiosity, constructive inquiry, presence and gratitude are foundational for maintaining mutual respect within our growing community.</p>\n<p>We encourage our members to be radically open source, non-hierarchical, transparent in their intentions and accountable for their actions.</p>\n<p>Also, we encourage you to take a look at the <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/code-of-conduct\">Code of Conduct of the TEC</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322000219",
+    "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JessicaZartler",
+   "name": "Jessica Zartler",
+   "created_at": "2020-12-02T20:52:53Z",
+   "updated_at": "2020-12-02T20:52:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "pinned.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322000219",
+    "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "JessicaZartler",
+   "name": "Jessica Zartler",
+   "created_at": "2020-12-02T20:53:26Z",
+   "updated_at": "2020-12-02T20:53:26Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "pinned.disabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322000219",
+    "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "vegayp",
+   "name": "Eduardo Vega-Patiño",
+   "created_at": "2020-12-08T19:34:44Z",
+   "updated_at": "2020-12-08T19:34:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "visible.disabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322000219",
+    "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "vegayp",
+   "name": "Eduardo Vega-Patiño",
+   "created_at": "2020-12-21T16:23:50Z",
+   "updated_at": "2020-12-21T16:23:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "visible.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250322000219",
+    "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210106211943",
+   "url": "https://forum.tecommons.org/t/1-what-is-the-tec/97"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210303024802",
+   "url": "https://forum.tecommons.org/t/1-what-is-the-tec/97"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303024802",
+   "url": "https://forum.tecommons.org/t/1-what-is-the-tec/97"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207122445",
+   "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207122445",
+   "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250322000219",
+   "url": "https://forum.tecommons.org/t/what-is-the-tec/97"
+  }
+ ]
+}

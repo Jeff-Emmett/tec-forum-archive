@@ -1,0 +1,44 @@
+{
+ "id": 964,
+ "title": "Looking for the community's best token design theorist",
+ "slug": "looking-for-the-communitys-best-token-design-theorist",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2022-04-04T00:26:34Z",
+ "last_archived_post_at": "2022-04-04T00:26:34Z",
+ "captured_between": [
+  "2022-05-20T07:41:11Z",
+  "2022-05-20T07:41:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vessenes",
+   "name": null,
+   "created_at": "2022-04-04T00:26:34Z",
+   "updated_at": "2022-04-04T00:26:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi all,</p>\n<p>I’m pulling together a small group of people for work on a carbon sequestration project, and I am looking for a strong theorist to help poke at and improve my token economics design. Do you all at TEC have anyone you’d recommend?</p>\n<p>The next phase of our project is a two day symposium in California roughly 12 people. I am looking for someone who could ideally hash out and improve our current strawman proposal and then work well with other non-crypto folks to incorporate all of their real-world feedback on how the economics interact with physical and political reality.</p>\n<p>I don’t have a strong feel for TEC’s culture, except that I see there’s a lot of community work done on how you all wish to engage and interact with each-other, so I did want to highlight one thing that might not fit your general culture - the symposium will have some fairly private people at it, so someone willing to be under NDA is important. On the flip side, it’s a pretty amazing list that is coming together, and if the project looks viable will be put out to the public, but in the working phase it would all be confidential.</p>\n<p>At any rate, if you have someone you love who is brilliant at the design side and would like to meet with a variety of crypto and real-world OGs to discuss carbon sequestration, I would love to hear from them: I think my email is linked at my username here, but if not: <a href=\"mailto:peter@capital6.com\">peter@capital6.com</a>.</p>\n<p>Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520074111",
+    "url": "https://forum.tecommons.org/t/looking-for-the-communitys-best-token-design-theorist/964"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520074111",
+   "url": "https://forum.tecommons.org/t/looking-for-the-communitys-best-token-design-theorist/964"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520074111",
+   "url": "https://forum.tecommons.org/t/looking-for-the-communitys-best-token-design-theorist/964"
+  }
+ ]
+}

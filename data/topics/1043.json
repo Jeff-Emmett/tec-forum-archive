@@ -1,0 +1,123 @@
+{
+ "id": 1043,
+ "title": "Retroactive Funding for Servers",
+ "slug": "retroactive-funding-for-servers",
+ "category_id": 7,
+ "tags": [
+  "conviction-voting"
+ ],
+ "posts_count": 4,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "created_at": "2022-06-07T06:49:53Z",
+ "last_archived_post_at": "2022-10-26T00:23:46Z",
+ "captured_between": [
+  "2022-07-06T00:18:57Z",
+  "2022-11-26T21:54:57Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "freshelle",
+   "name": null,
+   "created_at": "2022-06-07T06:49:53Z",
+   "updated_at": "2022-06-07T06:49:53Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#retroactive-funding-for-servers-1\" name=\"retroactive-funding-for-servers-1\"></a><strong>Retroactive Funding for Servers</strong>\n</h3>\n<h3>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h3>\n<p>Server charges were credited from Griff’s personal credit card and this serves as a reimbursement for Griff.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h3>\n<p>We need servers to keep the TEC sites running smoothly.</p>\n<p>Period covered: October 2020 - May 2022</p>\n<p>Total: <strong>$142</strong></p>\n<p>Server: Digital Ocean</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Cost</th>\n<th>Active since</th>\n<th>Total Months as of 05/2022</th>\n<th>Total Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>tec-bots</td>\n<td>$6 / month</td>\n<td>12th Nov 2021</td>\n<td>7</td>\n<td>$42</td>\n</tr>\n<tr>\n<td>tec-discourse</td>\n<td>$5 / month</td>\n<td>19th Oct 2020</td>\n<td>20</td>\n<td>$100</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>We need servers for running our websites. This is a critical infrastructure. The discourse forum is the beating heart of TEC as it is the prime source of research and indispensable for government as gardens uses it. The bots may be debatable, but we think everyone loves praisebot and wants to see the experiments culminate in some token action.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-5\" name=\"amount-requested-5\"></a>Amount requested</h3>\n<p>142 wxDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-6\" name=\"team-information-6\"></a>Team Information</h3>\n<p>Griff</p>\n<hr/>\n<p>Praise <a class=\"mention\" href=\"/u/geleeroyale\">@geleeroyale</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> <span class=\"mention\">@missgene</span> for collaborating on this proposal</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126215457",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-07T14:26:29Z",
+   "updated_at": "2022-06-07T14:26:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I would hope that this could be approved with near immediacy. Is there no potential with the current org structure to have something like a prepaid business credit card ie BitPay, <a href=\"http://cryptopay.me\" rel=\"noopener nofollow ugc\">cryptopay.me</a>, etc etc and relieve Griff of the burden of using his own personal accounts like this?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126215457",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-06-23T00:31:04Z",
+   "updated_at": "2022-06-23T00:31:04Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>That would be so cool <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/> I haven’t seen too many reliable options for that… what I think is easier is finding a reliable hosting service that accepts crypto.</p>\n<p>Too bad AWS servers can’t be bought on</p>\n<p><a class=\"onebox\" href=\"https://purse.io\" rel=\"noopener\" target=\"_blank\">https://purse.io</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126215457",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "henrytano",
+   "name": null,
+   "created_at": "2022-09-20T02:35:50Z",
+   "updated_at": "2022-09-20T02:35:50Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Does that mean Griff will not be reimburse if this proposal doesn’t go through?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126215457",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-10-26T00:23:46Z",
+   "updated_at": "2022-10-26T00:23:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yep. But it went thru!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126215457",
+    "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706001857",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706001857",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126215457",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126215457",
+   "url": "https://forum.tecommons.org/t/retroactive-funding-for-servers/1043"
+  }
+ ]
+}

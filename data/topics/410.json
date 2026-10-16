@@ -1,0 +1,57 @@
+{
+ "id": 410,
+ "title": "🔬 Labs Working Group",
+ "slug": "labs-working-group",
+ "category_id": 13,
+ "posts_count": 0,
+ "created_at": "2021-06-04T00:41:59.911Z",
+ "last_posted_at": "2021-06-04T00:42:00.120Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-06-04T00:42:00Z",
+ "captured_between": [
+  "2021-06-24T14:56:08Z",
+  "2026-03-05T14:00:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-06-04T00:42:00Z",
+   "updated_at": "2021-06-04T00:42:00Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Central coordination sync point for the many TEC Labs events happening.</p>\n<p>Meetings: Weekly Fridays at 6pm CET</p>\n<p>WG Lead: <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a></p>\n<p><a href=\"https://discord.gg/wt8pJvMc5S\" rel=\"noopener nofollow ugc\">Discussions happen on tec-labs</a></p>\n<p><a href=\"https://forum.tecommons.org/t/tec-labs-production-team-funding/201\">Labs Manifesto </a></p>\n<p><a href=\"https://docs.google.com/document/d/1x6V7Faa3GZeAgv6fs4fM_P_5DFsGIE4pqnioxg1aMKE/edit?usp=sharing\" rel=\"noopener nofollow ugc\">Agenda</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260305140026",
+    "url": "https://forum.tecommons.org/t/labs-working-group/410"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624145608",
+   "url": "https://forum.tecommons.org/t/labs-working-group/410"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624145608",
+   "url": "https://forum.tecommons.org/t/labs-working-group/410"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260305140026",
+   "url": "https://forum.tecommons.org/t/labs-working-group/410"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260305140026",
+   "url": "https://forum.tecommons.org/t/labs-working-group/410"
+  }
+ ]
+}

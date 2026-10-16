@@ -1,0 +1,120 @@
+{
+ "id": 366,
+ "title": "Design your Economy; Make your Choice",
+ "slug": "design-your-economy-make-your-choice",
+ "category_id": 9,
+ "posts_count": 5,
+ "created_at": "2021-05-05T17:56:41.298Z",
+ "last_posted_at": "2021-05-22T05:49:25.577Z",
+ "views": 3044,
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2021-05-22T05:49:25Z",
+ "captured_between": [
+  "2021-06-24T14:36:44Z",
+  "2026-02-28T02:49:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": "mitch",
+   "created_at": "2021-05-05T17:56:41Z",
+   "updated_at": "2021-05-06T17:41:40Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Have you checked out the Hatch Dashboard yet!? It’s super exciting and your fellow TEC members have been working extremely hard on it! The Dashboard is the tool we’re using to decide our pre-hatch parameters and compare results. It is extremely important to battle-test our parameters so that we do not goof-up our fledgling commons (or create holes in the fabric of space and time). It’s a bit overwhelming at first but let’s take you through it. Prepare yourself for:</p>\n<h2>The Hatch Dashboard:</h2>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/80ab78514e96563d49ac094df1fea412c08f10bc.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/80ab78514e96563d49ac094df1fea412c08f10bc\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/80ab78514e96563d49ac094df1fea412c08f10bc_2_624x324.jpeg\" alt=\"\" data-base62-sha1=\"imgujDbbLVVU8H6d8ZiuTkKom04\" width=\"624\" height=\"324\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/80ab78514e96563d49ac094df1fea412c08f10bc_2_624x324.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/80ab78514e96563d49ac094df1fea412c08f10bc_2_936x486.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/80ab78514e96563d49ac094df1fea412c08f10bc_2_1248x648.jpeg 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/80ab78514e96563d49ac094df1fea412c08f10bc_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1600×831 344 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>We have Param Parties happening twice weekly if you want to jump in and jam with your fellow TEC members; and make some badass parameters. We will have a parameters expert on hand to help answer any questions you might have during the process. Stay abreast of when the next Param Party is on the <a href=\"https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&amp;ctz=Europe/Berlin\">TEC calendar</a>. You can also check the times for each Param Party in <a href=\"https://forum.tecommons.org/t/evolving-economics-via-hatch-param-parties/364\">this forum post</a>.<img src=\"https://forum.tecommons.org/images/emoji/win10/confetti_ball.png?v=9\" title=\":confetti_ball:\" class=\"emoji\" alt=\":confetti_ball:\"><img src=\"https://forum.tecommons.org/images/emoji/win10/confetti_ball.png?v=9\" title=\":confetti_ball:\" class=\"emoji\" alt=\":confetti_ball:\"></p>\n<p>The first thing you should do is to familiarize yourself with the parameters of the Hatch (there is an exhaustive list in the <a href=\"https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226\">Hatch Spec</a> on the forum). It’s important to read it so you understand what the parameters represent. For a quick up-to-date summary, here is what you need to know:</p>\n<h3>Section 1: Choosing Parameters for Impact Hours - Rewarding TEC Contributions -</h3>\n<ul>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-goals-deep-dive/62\">Minimum Goal</a></strong>: The minimum amount that needs to be collected during the Hatch to create the TEC HatchDAO. If less than this is collected, the funds will be sent back to the addresses that sent it.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-goals-deep-dive/62\">Maximum Goal</a></strong>: The maximum amount of wxDai that can be sent to the Hatch.</li>\n<li>\n<strong>Target Goal:</strong> Total amount of funds raised or expected amount of funds raised. Theoretical number for the purpose of running the simulation.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-time-limit-deep-dive/63\">Hatch period</a></strong>: How long the Hatch is open to collect funds.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-exchange-rate/190\">Hatch Minting Rate</a></strong>: The amount of TESTTECH that are obtained for 1 wxDAI (wrapped xDAI).</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/hatch-tribute-deep-dive/65\">Hatch Tribute</a></strong>: Specifies what percentage of the funds raised by the Hatch go to the Non-redeemable Pool.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/cstk-ratio-deep-dive/141\">Membership Ratio</a></strong>: The amount of wxDAI (wrapped xDAI) each CSTK Token holder is able to send to the Hatch per CSTK. If the ratio is .005 wxDAI/CSTK then the user has to have 200 CSTK to send 1 wxDAI</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/updated-impact-hour-rate/309\">Impact Hour Rate at Target Goal:</a></strong> Sets the Minting Rate for Builders at Target Goal. One Impact Hour is equivalent to sending this amount to the Hatch.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/updated-impact-hour-rate/309\">Impact Hour Rate at Infinity</a></strong>: The theoretical maximum impact hour rate that acts as the asymptote for the Impact Hour Rate curve.</li>\n</ul>\n<h3>Section 2: Dandelion Voting - Dandelion DAO Initialization</h3>\n<ul>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108\">Support Required</a></strong>: Percentage of tokens need to vote yes (of the tokens that were used to vote) for a proposal to Pass.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">Minimum Quorum</a></strong>: The percent of the total supply of the token that needs to vote yes in a vote in order for it to be passed.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/vote-duration-deep-dive/134\">Vote Duration </a></strong>: This is the period of time it takes for a vote to pass or fail.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/vote-proposal-buffer/132\">Vote Proposal Buffer </a></strong>: The amount of time that must pass between the start of subsequent votes.</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/tollgate-fee-deep-dive/128\">Tollgate Fee</a></strong>: Requires a user to deposit this amount before creating a vote(this fee goes to the Redeemable Pool).</li>\n<li>\n<strong><a href=\"https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130/2\">Rage Quit Delay</a></strong>: The period of time after a vote passes before the vote can be executed. This gives hatchers that don’t approve of the vote an opportunity to leave the hatch before vote execution.</li>\n</ul>\n<p>You can also hover over the <strong>(?)</strong> next to the inputs for the same information. If you’re caught up and feel confident then let us proceed!</p>\n<p>Wielding your Hatch knowledge begin setting parameters on the Hatch dashboard. Starting with <strong>Section 1</strong>, you can use the sliders and input fields to set your inputs and then click on <code>Run Simulation</code> to see the graphical simulations and also the Outputs Overview table.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c4ea939bb0f93331a8942ce3c3dc239f342ebab7.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/c4ea939bb0f93331a8942ce3c3dc239f342ebab7\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c4ea939bb0f93331a8942ce3c3dc239f342ebab7_2_624x137.png\" alt=\"\" data-base62-sha1=\"s60a3Fd2RglpQAiZw2eRY4mXVOL\" width=\"624\" height=\"137\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c4ea939bb0f93331a8942ce3c3dc239f342ebab7_2_624x137.png, https://forum.tecommons.org/uploads/default/optimized/1X/c4ea939bb0f93331a8942ce3c3dc239f342ebab7_2_936x205.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/c4ea939bb0f93331a8942ce3c3dc239f342ebab7.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/c4ea939bb0f93331a8942ce3c3dc239f342ebab7_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1126×248 11.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<h3>If you mess something up don’t worry, we have memes to let you know.</h3>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1_2_624x284.png\" alt=\"\" data-base62-sha1=\"f5jISns4JEfeJofAPXL0KhdYqWd\" width=\"624\" height=\"284\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1_2_624x284.png, https://forum.tecommons.org/uploads/default/optimized/1X/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1_2_936x426.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/69ba81cb6c391da3fa3b1c58b47a0b123163f1d1_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">996×453 289 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Check out the table displaying predicted Impact Hours, the TECH minted and the equivalent value in wxDAI to get a better idea of how your parameters will impact the value of tokens Builders will receive in the Hatch.</p>\n<hr>\n<p>Once you have those nailed down, move on to <strong>Section 2</strong> dealing with the Dandelion Voting Parameters. These parameters are a bit more intuitive and just like in Section 1, you can hit <code>Run Simulation</code> to produce the graphics that will help visualize the parameters you have chosen.</p>\n<p>Hopefully you have contemplated your parameters and you should thus have no problem adding explanations to your decisions in Section 1 and 2 in the text fields below. This will help other members understand your params and add more credibility to your proposal. When you have had a good look over everything and you’re confident in your Hatch Parameters then press the button <code>See Your Results!</code> This will bring up a table summarizing your parameters and a short text description explaining further your chosen settings.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/138c356860bdab26cb109e350d84b0d7f1ccc76b.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/138c356860bdab26cb109e350d84b0d7f1ccc76b\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/138c356860bdab26cb109e350d84b0d7f1ccc76b_2_624x312.png\" alt=\"\" data-base62-sha1=\"2MVsZbsMVjXsnQszhdirXNkazwf\" width=\"624\" height=\"312\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/138c356860bdab26cb109e350d84b0d7f1ccc76b_2_624x312.png, https://forum.tecommons.org/uploads/default/optimized/1X/138c356860bdab26cb109e350d84b0d7f1ccc76b_2_936x468.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/138c356860bdab26cb109e350d84b0d7f1ccc76b.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/138c356860bdab26cb109e350d84b0d7f1ccc76b_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1000×500 584 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>If you’re feeling really good about everything so far then you are ready to enter the final step, to share your genius amongst the TEC! The final button <code>Share Your Results on Github!</code> will create a github Issue in the TEC-Hatch-Vote repository that will contain all the details about your Hatch Proposal. Here you can leave any further comments or explanations and then submit your proposal. Your fellow TEC members will then be able to review, comment, critique, or perhaps iterate on your Hatch proposal. This creative process will eventually be taken to a vote on TokenLog.</p>\n<p>The Hatch is a holistic venture into the uncharted depths of Token Engineering and only by our continual process of critical thinking and technical analysis can we hope to absolutely crush the Hatch Phase and move forward to the boundless future of the TE Commons.</p>\n<p>If after going through this guide you still feel lost or want to make sure you get those parameters just right then GET IN ON THESE PARAM PARTIES. Find the next party on the <a href=\"https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&amp;ctz=Europe/Berlin\">TEC Calendar</a> and jump in.</p>\n<h3>The Hatch is nigh, it’s time to participate and show us what you got! <img src=\"https://forum.tecommons.org/images/emoji/win10/muscle.png?v=9\" title=\":muscle:\" class=\"emoji\" alt=\":muscle:\"><img src=\"https://forum.tecommons.org/images/emoji/win10/nerd_face.png?v=9\" title=\":nerd_face:\" class=\"emoji\" alt=\":nerd_face:\">\n</h3>\n<p><img src=\"https://forum.tecommons.org/uploads/default/original/1X/5a19897882d27f0c25fa6a6d936768db78e6f9ee.png\" alt=\"\" data-base62-sha1=\"cR3Gtwx6E2GSTY3LXCfYFbAoDAW\" width=\"624\" height=\"351\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228024933",
+    "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "system",
+   "name": "system",
+   "created_at": "2021-05-10T02:48:58Z",
+   "updated_at": "2021-05-10T02:48:58Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "autobumped",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228024933",
+    "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "system",
+   "name": "system",
+   "created_at": "2021-05-14T03:35:43Z",
+   "updated_at": "2021-05-14T03:35:43Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "autobumped",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228024933",
+    "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "system",
+   "name": "system",
+   "created_at": "2021-05-18T04:24:42Z",
+   "updated_at": "2021-05-18T04:24:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "autobumped",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228024933",
+    "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "system",
+   "name": "system",
+   "created_at": "2021-05-22T05:49:25Z",
+   "updated_at": "2021-05-22T05:49:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "autobumped",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228024933",
+    "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624143644",
+   "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624143644",
+   "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228024933",
+   "url": "https://forum.tecommons.org/t/design-your-economy-make-your-choice/366"
+  }
+ ]
+}

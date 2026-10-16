@@ -1,0 +1,89 @@
+{
+ "id": 269,
+ "title": "Disputable Conviction Voting and Celeste Demo",
+ "slug": "disputable-conviction-voting-and-celeste-demo",
+ "category_id": 20,
+ "posts_count": 2,
+ "created_at": "2021-03-04T19:07:07.980Z",
+ "last_posted_at": "2021-03-07T14:44:35.079Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-03-07T14:44:35Z",
+ "captured_between": [
+  "2021-04-20T12:28:11Z",
+  "2023-05-30T06:53:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-03-04T19:07:08Z",
+   "updated_at": "2021-03-04T19:07:08Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Fellow commoners of the TECommons, we have a new mission in our hands. Our friends need our help,.</p>\n<p>After some months of work, the <strong>1hive community</strong> is preparing one of the biggest launch and update they have had until now. <strong>Celeste</strong>, the subjective oracle, is <strong>ready for prime time</strong>, it’s going to be paired with a community covenant that will apply to all the DAO votes (conviction voting and yes/no votings).</p>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/d9df4f6da0d157e5be2a8d72fa040650c0f0174c.png\" width=\"32\"/>\n<a href=\"https://forum.1hive.org/t/celeste-and-honey-pot-qa/2631\" rel=\"noopener\" target=\"_blank\" title=\"11:30PM - 03 March 2021\">1Hive – 3 Mar 21</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/381;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/d19ab5b60142588c10d7bc2e98a3ae9fcb91d739_2_10x10.png\" height=\"381\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/d19ab5b60142588c10d7bc2e98a3ae9fcb91d739_2_690x381.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/d19ab5b60142588c10d7bc2e98a3ae9fcb91d739_2_690x381.jpeg, https://forum.tecommons.org/uploads/default/original/1X/d19ab5b60142588c10d7bc2e98a3ae9fcb91d739.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/d19ab5b60142588c10d7bc2e98a3ae9fcb91d739.jpeg 2x\" width=\"690\"/></div>\n<h3><a href=\"https://forum.1hive.org/t/celeste-and-honey-pot-qa/2631\" rel=\"noopener\" target=\"_blank\">Celeste and Honey-pot QA</a></h3>\n<p>We are launching the testing phase of the updated version of honey-pot and celeste site.  This is a major upgrade to the 1Hive DAO, that enables community members to stake Honey to participate in Celeste, our subjective dispute resolution oracle...</p>\n<p><span class=\"label1\">Reading time: 2 mins 🕑</span>\n<span class=\"label2\">Likes: 29 ❤</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>They are conducting a two week demo to find and fix the bugs that there may still be in the front-end. The launch consists in two apps, the <a href=\"https://celeste-dashboard.vercel.app/#/dashboard\">Celeste dashboard</a>, and the <a href=\"https://honey-pot-git-disputable-version-1hive.vercel.app/#/home\">Disputable Honeypot</a>, both of them in the rinkeby network for now.</p>\n<p><a href=\"https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225\">We plan to use celeste</a> in order to complete our Commons Upgrade, migrating the funds of the Hatch to a DAO governed by a Community Covenant, a diverse group of tokenholders that can come in and out of the community using the Augmented Bonding Curve, and where the funds are distributed using a modified version of Conviction Voting that can be disputed if anyone feel that a proposal is not following the principles of the DAO.</p>\n<p>From this demo we can learn multiple things that will be the great use for the future of TEC:</p>\n<ul>\n<li>What is Celeste and how it can be used to moderate DAOs in a decentralized way</li>\n<li>What is a Community Covenant agreement, and what is it used for in the context of Celeste and DAOs</li>\n<li>Which is the process to become a Celeste keeper, and earn rewards for the job of moderating content according to the different covenants.</li>\n</ul>\n<p><strong>All the TEC members have received an airdrop of 1 rinkeby HNY in order to perform this test.</strong> <img alt=\":honey_pot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/honey_pot.png?v=9\" title=\":honey_pot:\"/><img alt=\":honey_pot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/honey_pot.png?v=9\" title=\":honey_pot:\"/><img alt=\":honey_pot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/honey_pot.png?v=9\" title=\":honey_pot:\"/></p>\n<p>Use it wisely, and let’s have fun together!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530065333",
+    "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-03-07T14:33:00Z",
+   "updated_at": "2021-03-07T14:33:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>It’s really awesome! Check out the Disputable voting:<br/>\n</p><aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"16\" src=\"https://honey-pot-git-disputable-version-1hive.vercel.app/favicon.svg\" width=\"16\"/>\n<a href=\"https://honey-pot-git-disputable-version-1hive.vercel.app/\" rel=\"noopener\" target=\"_blank\">honey-pot-git-disputable-version-1hive.vercel.app</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail\" height=\"16\" src=\"\" width=\"16\"/>\n<h3><a href=\"https://honey-pot-git-disputable-version-1hive.vercel.app/\" rel=\"noopener\" target=\"_blank\">Honey Pot</a></h3>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/cc81865a7b27848ff36d2f9c3f8658173c80193d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/cc81865a7b27848ff36d2f9c3f8658173c80193d.png\" title=\"Screen Shot 2021-03-07 at 9.30.28 AM\"><img alt=\"Screen Shot 2021-03-07 at 9.30.28 AM\" data-base62-sha1=\"tb8UoyD7ZiJcLwxgHr5P1zoQWS1\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/cc81865a7b27848ff36d2f9c3f8658173c80193d_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/cc81865a7b27848ff36d2f9c3f8658173c80193d_2_390x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/cc81865a7b27848ff36d2f9c3f8658173c80193d_2_390x500.png, https://forum.tecommons.org/uploads/default/original/1X/cc81865a7b27848ff36d2f9c3f8658173c80193d.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/cc81865a7b27848ff36d2f9c3f8658173c80193d.png 2x\" width=\"390\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-03-07 at 9.30.28 AM</span><span class=\"informations\">578×740 32.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div> <div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/4e9f431824c9f34d2020be72c24d5ca6c6f072dd\" href=\"https://forum.tecommons.org/uploads/default/original/1X/4e9f431824c9f34d2020be72c24d5ca6c6f072dd.png\" title=\"Screen Shot 2021-03-07 at 9.30.22 AM\"><img alt=\"Screen Shot 2021-03-07 at 9.30.22 AM\" data-base62-sha1=\"bdwswMYGqa1G8ZsaEcBIKJJKXzT\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4e9f431824c9f34d2020be72c24d5ca6c6f072dd_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4e9f431824c9f34d2020be72c24d5ca6c6f072dd_2_373x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4e9f431824c9f34d2020be72c24d5ca6c6f072dd_2_373x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/4e9f431824c9f34d2020be72c24d5ca6c6f072dd_2_559x750.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/4e9f431824c9f34d2020be72c24d5ca6c6f072dd.png 2x\" width=\"373\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-03-07 at 9.30.22 AM</span><span class=\"informations\">658×882 39.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530065333",
+    "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-03-07T14:44:35Z",
+   "updated_at": "2021-03-07T14:44:35Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Holy crap! What is this?</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/a74bd5424f001eff33f36b5b97f84ff28dc089c8\" href=\"https://forum.tecommons.org/uploads/default/original/1X/a74bd5424f001eff33f36b5b97f84ff28dc089c8.png\" title=\"Screen Shot 2021-03-07 at 9.43.48 AM\"><img alt=\"Screen Shot 2021-03-07 at 9.43.48 AM\" data-base62-sha1=\"nRYcXORpwhlrJj66q1xeqnNxB6o\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a74bd5424f001eff33f36b5b97f84ff28dc089c8_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a74bd5424f001eff33f36b5b97f84ff28dc089c8_2_614x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a74bd5424f001eff33f36b5b97f84ff28dc089c8_2_614x500.png, https://forum.tecommons.org/uploads/default/original/1X/a74bd5424f001eff33f36b5b97f84ff28dc089c8.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/a74bd5424f001eff33f36b5b97f84ff28dc089c8.png 2x\" width=\"614\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-03-07 at 9.43.48 AM</span><span class=\"informations\">796×648 52.6 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530065333",
+    "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420122811",
+   "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420122811",
+   "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530065333",
+   "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530065333",
+   "url": "https://forum.tecommons.org/t/disputable-conviction-voting-and-celeste-demo/269"
+  }
+ ]
+}

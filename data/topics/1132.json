@@ -1,0 +1,220 @@
+{
+ "id": 1132,
+ "title": "Change compromised address' vesting",
+ "slug": "change-compromised-address-vesting",
+ "category_id": 29,
+ "tags": [
+  "tao-voting"
+ ],
+ "posts_count": 10,
+ "created_at": "2022-09-10T21:27:48.430Z",
+ "last_posted_at": "2022-10-18T18:36:41.073Z",
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2022-10-18T18:36:41Z",
+ "captured_between": [
+  "2022-10-06T18:07:32Z",
+  "2023-02-04T03:17:29Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-09-10T21:27:49Z",
+   "updated_at": "2022-09-10T21:27:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hello everyone,</p>\n<p>The address of a community member has been compromised, and he asked me to prepare a vote to revoke their TEC vesting and assign it to another address. To do so, the whole community has to vote through a Tao Voting in the garden <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/18\">here</a>.</p>\n<p>The vote will grant permission to revoke vestings to Tao Voting and then use Tao Voting to revoke the vesting for <code>0x5c44E8982fa3C3239C6E3C5be2cc6663c7C9387E</code>, returning the locked tokens to the token manager address. In a subsequent vote, we can assign those tokens again to a new address provided by this member, respecting the vesting schedule of the rest of the hatchers.</p>\n<p>I know that Tao votes should take more time and go through the advice process, but it looked to me that the sooner this vote passes, the fewer TEC tokens the attacker will have. Of course, if somebody thinks it is not enough justified reason, they can challenge the proposal, and I will gladly retire it and go through the standard procedure. Still, I think it should be fine to make an exception in a case where there is a compromised address and funds at risk.</p>\n<h3>\n<a class=\"anchor\" href=\"#evmcrispr-script-used-1\" name=\"evmcrispr-script-used-1\"></a>EVMcrispr script used</h3>\n<pre><code class=\"lang-auto\">load aragonos as dao\ndao:connect 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8 disputable-voting.open --context \"Revoke hacked account vesting\" (\n  grant disputable-voting.open wrappable-hooked-token-manager.open REVOKE_VESTINGS_ROLE disputable-voting.open\n  exec wrappable-hooked-token-manager.open revokeVesting 0x5c44E8982fa3C3239C6E3C5be2cc6663c7C9387E 0\n)\n</code></pre>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-09-12T04:04:47Z",
+   "updated_at": "2022-09-12T04:52:22Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey Sem!</p>\n<p>I understand that this is important, but we really need to go through the advice process on this one.  If you are unable to remove the proposal, I will challenge it in Celeste.</p>\n<p>I mean, in all honesty it does appear that the wallet has been compromised as of 23 days ago.  The exiting of positions, the use of relays, etc.</p>\n<p>However, I find it strange that the compromised wallet is the only one voting in favor of this proposal in the Gardens.  As you can see here:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://gnosisscan.io/tx/0xc3b0959cd89d3d3993de4a3dc9cae6c41c11944ab8176c791fd6ffc3d413b4bf\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://gnosisscan.io/images/favicon.ico?v=22.8.5.0\" width=\"48\"/>\n<a href=\"https://gnosisscan.io/tx/0xc3b0959cd89d3d3993de4a3dc9cae6c41c11944ab8176c791fd6ffc3d413b4bf\" rel=\"noopener\" target=\"_blank\">Gnosis Chain Blockchain Explorer</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:399/398;\"><img class=\"thumbnail\" height=\"398\" src=\"https://forum.tecommons.org/uploads/default/original/1X/d713a88b722e5a442479c136271168ca4c7b73e2.jpeg\" width=\"399\"/></div>\n<h3><a href=\"https://gnosisscan.io/tx/0xc3b0959cd89d3d3993de4a3dc9cae6c41c11944ab8176c791fd6ffc3d413b4bf\" rel=\"noopener\" target=\"_blank\">Gnosis Transaction Hash (Txhash) Details | GnosisScan</a></h3>\n<p>Gnosis (xDAI) detailed transaction info for txhash 0xc3b0959cd89d3d3993de4a3dc9cae6c41c11944ab8176c791fd6ffc3d413b4bf. The transaction status, block confirmation, gas fee, xDAI, and token transfer are shown.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>In order to assist in facilitating the advice process, perhaps you can explain the following:</p>\n<ol>\n<li>\n<p>Once the Revoke Vesting is removed from the compromised wallet and all unvested tokens are sent to the Token Manager, what happens next?  Is there anyway for the controller of the compromised wallet to front-run a transaction?</p>\n</li>\n<li>\n<p>The consequences of subjecting the role of Revoke Vesting to Disputable Voting is not clear to the community.  Perhaps this is something you can speak on!</p>\n</li>\n</ol>\n<p>Thanks!</p>\n<p>An additional note: I am currently at this time unable to challenge the proposal.  Failed transaction on both creating a proposal and challenging a proposal.  Perhaps its just on my end, but worthy of note.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-09-12T09:24:20Z",
+   "updated_at": "2022-09-12T09:24:20Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>It’s okay. I challenged my proposal to cancel it, leaving time for the advice process.</p>\n<p>We will make a new proposal when we finish the advice process.</p>\n<p>I will answer your concerns, <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>:</p>\n<blockquote>\n<p>However, I find it strange that the compromised wallet is the only one voting in favor of this proposal in the Gardens.</p>\n</blockquote>\n<p>It is the confirmation that the address that receives the vesting desires to revoke it. <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> and I have been talking with the address owner through telegram, and we will provide more proof when we do the second vote to reassign the vested tokens to a new address.</p>\n<blockquote>\n<p>Once the Revoke Vesting is removed from the compromised wallet and all unvested tokens are sent to the Token Manager, what happens next? Is there anyway for the controller of the compromised wallet to front-run a transaction?</p>\n</blockquote>\n<p>Once we know how many tokens are in the Token Manager (which depends on the time when the first vote is executed), we will create a <strong>second vote</strong> that will vest the tokens for a new address, such as:</p>\n<pre><code class=\"lang-auto\">load aragonos as dao\nset $newAddr 0x...\ndao:connect 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8 disputable-voting.open --context \"Reassign hacked account vesting\" (\n  grant disputable-voting.open wrappable-hooked-token-manager.open ASSIGN_ROLE disputable-voting.open\n  exec wrappable-hooked-token-manager.open assignVested $newAddr @token.balance(TEC,wrappable-hooked-token-manager.open) @date(now) @date(now) 1690261681 true\n)\n</code></pre>\n<p>As you can see, Tao Voting (disputable voting) also needs the <code>ASSIGN_ROLE</code> to perform this action. However, it does not affect the DAO permissions per se since Tao Voting always has had permission to manage app permissions, and you still will need a vote to assign tokens from now on.</p>\n<blockquote>\n<p>The consequences of subjecting the role of Revoke Vesting to Disputable Voting is unclear to the community. Perhaps this is something you can speak on!</p>\n</blockquote>\n<p>As in the previous answer, since Tao Voting can manage the DAO permissions, granting new permissions to Tao Voting has virtually no effect on what it can do. Tao Voting enables the god mode of the DAO, which is why the whole community has to vote. Adding this permission to Tao Voting is necessary for the vote to run, but since it’s Tao Voting who grants it to itself, we still need a tao vote to revoke vestings.</p>\n<p>It would be different if we granted these permissions to an address different from Tao Voting. Then it would require an explanation of why we do that.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Joel",
+   "name": null,
+   "created_at": "2022-09-20T13:00:57Z",
+   "updated_at": "2022-09-20T13:00:57Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Hi everyone. I’m the affected user. Wanted to highlight a few key points.</p>\n<ul>\n<li>As mentioned my account got compromized, I still have the private key, but the hacker does as well</li>\n<li>My primary motive is to get the tokens burned so that the hacker can’t sell the tokens on the bonding curve once they vest (burning value for the entire community)</li>\n<li>The hacker has <a href=\"https://blockscout.com/xdai/mainnet/tx/0xdb95010c597b972ab2997909ed76c09a61199951c27181b36c11fc17d09d9057\" rel=\"noopener nofollow ugc\">already sold some TEC</a> and will likely do so again once the tokens vest</li>\n<li>The total value held by this account currently is \t8,009.844 TEC</li>\n</ul>\n<p>If the community is willing then I’d ofc love to get the burned tokens into a secure account I control, but just making sure that the tokens don’t end up in the hackers control is a huge win imo.</p>\n<p>Happy to provide any sort of proof if anyone desires to see them!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-09-21T15:53:29Z",
+   "updated_at": "2022-09-21T15:53:29Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The is already a vote going, need 10% quorum to pass it. Vote here: <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/19\">Gardens</a> ( This vote is to unvest and send the tokens to the Token manager which is in control of the DAO )</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-09-24T20:19:12Z",
+   "updated_at": "2022-09-24T20:19:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<pre><code class=\"lang-auto\">load aragonos as dao\n\ndao:connect 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8 disputable-voting.open --context \"https://forum.tecommons.org/t/change-compromised-address-vesting/1132\" (\n  grant disputable-voting.open wrappable-hooked-token-manager.open ASSIGN_ROLE disputable-voting.open\n  exec wrappable-hooked-token-manager.open assignVested &lt;receiver&gt; wrappable-hooked-token-manager.open::token()::balanceOf(token-manager) @date(now) @date(now) 1690261681 true\n)\n</code></pre>\n<p>We are missing <a class=\"mention\" href=\"/u/joel\">@Joel</a>  address to add on the <code>&lt;receiver&gt;</code>.  Hatcher outreach crew will reach him and like Joel’s response to confirm the address posted is correct</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-09-27T17:28:49Z",
+   "updated_at": "2022-09-27T17:28:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<pre><code class=\"lang-auto\">load aragonos as dao\n\ndao:connect 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8 disputable-voting.open --context \"https://forum.tecommons.org/t/change-compromised-address-vesting/1132\" (\n  set $tm wrappable-hooked-token-manager.open\n  grant disputable-voting.open $tm ASSIGN_ROLE disputable-voting.open\n  exec $tm assignVested &lt;receiver&gt; $tm::token()::balanceOf($tm) @date(now) @date(now) 1690261681 true\n)\n</code></pre>\n<p><a class=\"mention\" href=\"/u/sem\">@sem</a>  was helping me with EVMcrispr and he said the code I shared above have a mistake and facilitate this one for the second vote, Praise!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Joel",
+   "name": null,
+   "created_at": "2022-10-12T13:14:48Z",
+   "updated_at": "2022-10-12T13:14:48Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> Sorry for my delayed response.</p>\n<p>My address is <code>0xAEE23b2c38732a191aa5CE33D2db5efCf51868Ae</code>. Let me know if you need something else to verify!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-10-14T15:59:13Z",
+   "updated_at": "2022-10-14T15:59:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The vote for resigning the tokens to the new address breaks the frontend due to a <a href=\"https://github.com/1Hive/token-manager-app/commit/9e8acb3f36db6118a0a51d7823be42dfce016283\">radspec description error</a>. We upgraded the app with the fix, but it looks it’s cached somewhere I am not identifying.</p>\n<p>So it may take a bit longer to vote for the return of the tokens, <a class=\"mention\" href=\"/u/joel\">@Joel</a>, but we are on it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-10-18T01:25:24Z",
+   "updated_at": "2022-10-18T01:25:24Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The vote has been fixed thanks to <a class=\"mention\" href=\"/u/gabi\">@gabi</a> for fixing the connector that was retrieving the bad description.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/612b78be011e2d654ee4e784394c7397c2d0defc\" href=\"https://forum.tecommons.org/uploads/default/original/1X/612b78be011e2d654ee4e784394c7397c2d0defc.png\" title=\"Screenshot from 2022-10-17 20-23-30\"><img alt=\"Screenshot from 2022-10-17 20-23-30\" data-base62-sha1=\"dRBs2iTRHlM20LetKccBsg7qAq0\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/612b78be011e2d654ee4e784394c7397c2d0defc_2_10x10.png\" height=\"332\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/612b78be011e2d654ee4e784394c7397c2d0defc_2_690x332.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/612b78be011e2d654ee4e784394c7397c2d0defc_2_690x332.png, https://forum.tecommons.org/uploads/default/optimized/1X/612b78be011e2d654ee4e784394c7397c2d0defc_2_1035x498.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/612b78be011e2d654ee4e784394c7397c2d0defc.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2022-10-17 20-23-30</span><span class=\"informations\">1368×660 103 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Unfortunately it appears now as no description, so a further explanation is required to show the vote is doing what this forum post is saying it is doing.</p>\n<p>The evmcrispr code used to create the vote is:</p>\n<pre><code class=\"lang-auto\">load aragonos as dao\ndao:connect 0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8 disputable-voting.open --context \"https://forum.tecommons.org/t/change-compromised-address-vesting/1132\" (\n  set $tm wrappable-hooked-token-manager.open\n  grant disputable-voting.open $tm ASSIGN_ROLE disputable-voting.open\n  set $token.tokenlist https://tokens.honeyswap.org/\n  exec $tm assignVested 0xAEE23b2c38732a191aa5CE33D2db5efCf51868Ae @token.balance(TEC,$tm) @date(now) @date(now) 1690261681 true\n)\n</code></pre>\n<p>Which generates the following data if you plug it into EVMcrispr:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/296e5f930dd2bfdc6377701be9227ec45c645103\" href=\"https://forum.tecommons.org/uploads/default/original/1X/296e5f930dd2bfdc6377701be9227ec45c645103.png\" title=\"Screenshot from 2022-10-17 20-15-36\"><img alt=\"Screenshot from 2022-10-17 20-15-36\" data-base62-sha1=\"5Uw36tX2Qsoqcu2KNUEHBihB2r9\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/296e5f930dd2bfdc6377701be9227ec45c645103_2_10x10.png\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/296e5f930dd2bfdc6377701be9227ec45c645103_2_690x388.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/296e5f930dd2bfdc6377701be9227ec45c645103_2_690x388.png, https://forum.tecommons.org/uploads/default/optimized/1X/296e5f930dd2bfdc6377701be9227ec45c645103_2_1035x582.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/296e5f930dd2bfdc6377701be9227ec45c645103_2_1380x776.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2022-10-17 20-15-36</span><span class=\"informations\">1920×1080 307 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Data generated:</p>\n<pre><code class=\"lang-auto\">0x5e754d55000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000001c0000000000000000000000000000000000000000000000000000000000000015c00000001ded166f3222bef8621b6cbce21b6ef95bed16442000000640a8ed3db0000000000000000000000009126f1e7e3ab7414b921fb09ac2c2eb9e8e27061000000000000000000000000080c696b7bd6d830bf5092fe7dfcb72b42bdd8b7f5a08927c847d7a29dc35e105208dbde5ce951392105d712761cc5d17440e2ff080c696b7bd6d830bf5092fe7dfcb72b42bdd8b7000000c421cb18cd000000000000000000000000aee23b2c38732a191aa5ce33d2db5efcf51868ae000000000000000000000000000000000000000000000190ed18f948fb7ad68300000000000000000000000000000000000000000000000000000000634dfd1800000000000000000000000000000000000000000000000000000000634dfd180000000000000000000000000000000000000000000000000000000064bf58b1000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000004568747470733a2f2f666f72756d2e7465636f6d6d6f6e732e6f72672f742f6368616e67652d636f6d70726f6d697365642d616464726573732d76657374696e672f31313332000000000000000000000000000000000000000000000000000000\n</code></pre>\n<p>Which is the same generated in the <a href=\"https://blockscout.com/poa/xdai/tx/0xe9185923853831f33a74dfbc03e6fd552a406903f868ab6d996e9cae10328d1b\">vote #22 creation transaction</a> (with some minor encoding differences that do not change the result of the vote).</p>\n<p>So the vote is safe to execute, and will return <a class=\"mention\" href=\"/u/joel\">@Joel</a> the tokens with the same vesting schedule as any other hatcher.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-10-18T18:36:41Z",
+   "updated_at": "2022-10-18T18:36:41Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a href=\"https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/22\">The message is now fixed</a> thanks to <a class=\"mention\" href=\"/u/gabi\">@gabi</a>.</p>\n<p><img alt=\"Screenshot from 2022-10-18 13-35-12\" data-base62-sha1=\"9ysaCNSwsp9ZNCt5BPcJTO338Tu\" height=\"203\" src=\"https://forum.tecommons.org/uploads/default/original/1X/42f89dd122826ca343522626286dc8610200b1a8.png\" width=\"583\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204031729",
+    "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221006180732",
+   "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006180732",
+   "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204031729",
+   "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204031729",
+   "url": "https://forum.tecommons.org/t/change-compromised-address-vesting/1132"
+  }
+ ]
+}

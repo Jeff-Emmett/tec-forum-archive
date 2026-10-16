@@ -1,0 +1,157 @@
+{
+ "id": 326,
+ "title": "Grant Request for Attracting Creative Writers",
+ "slug": "grant-request-for-attracting-creative-writers",
+ "category_id": 28,
+ "posts_count": 5,
+ "created_at": "2021-04-07T04:31:46.109Z",
+ "last_posted_at": "2021-04-07T15:04:13.928Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-08-28T22:15:10Z",
+ "captured_between": [
+  "2021-04-20T13:26:08Z",
+  "2023-05-30T07:58:30Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-04-07T04:31:46Z",
+   "updated_at": "2021-12-02T14:56:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>First and foremost, I want to thank <a class=\"mention\" href=\"/u/metaverde\">@metaverde</a> for reaching out to me. She said TEC was looking for grant ideas so I began to brainstorm. I am not exactly sure what the process is so I will just post it here and go from there.</p>\n<p>From my perspective, right or wrong, it appears to me many grants are very crypto specific, which obviously makes sense. We see grants for dev work, supporting infrastructure, even technical writers and media outlets used for getting the word out. These are all needed and great causes, but I thought about focusing on a slightly different area that maybe is underutilized, creative writing.</p>\n<p>The idea started while the agave team was getting everything ready for deployment. A small group has been working to launch some NFT’s around the time the product deploys. While this was happening, the idea came up that we should create a story and it would be great if the person writing the story doesn’t even know what an NFT is. We just want a cool story to tell about a treasure hunt that just so happens to be about hunting for NFT’s. I have very little writing skills, let alone creative writing skills and thought I bet there are tons of amazing writers out there that could make an amazing story if given the opportunity.</p>\n<p>The grant would be to request funding for not just this isolated project but to attract more people into this space contributing in a unique way. My connection is with buzz dao, 1hive, and the agave platform so for now I suspect most of the creative writing request will be focused around these communities and its projects such as; 1hive, celeste, honeycomb, agave, and maybe branch out a bit to connext, uncx, xgt, xdaichain, polygon and other various projects that we work with closely.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075830",
+    "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "metaverde",
+   "name": null,
+   "created_at": "2021-04-07T15:04:13Z",
+   "updated_at": "2021-04-07T15:04:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This is a very exciting idea.<br/>\nWhen I asked Monstrosity about writing a funding proposal for Agave I was thinking maybe money for server time or to pay devs, things along those lines, project specific and advancing token engineering by advancing Agave.</p>\n<p>Instead, Monstrosity has gone completely meta and is suggesting funding for <em>creative writing</em>  to introduce token engineering concepts and projects the general public through engaging fiction.<br/>\nI’m still head-exploding over this.</p>\n<p>Monstro, this is the most provocative proposal I’ve seen yet.<br/>\nThank-you for coming to play with us!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075830",
+    "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2021-08-07T05:04:11Z",
+   "updated_at": "2021-08-07T05:04:11Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"326\" data-username=\"Monstrosity\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/monstrosity/40/180_2.png\" width=\"20\"/> Monstrosity:</div>\n<blockquote>\n<p>The grant would be to request funding for not just this isolated project but to attract more people into this space contributing in a unique way.</p>\n</blockquote>\n</aside>\n<p><a class=\"mention\" href=\"/u/metaverde\">@metaverde</a> … onboarding (part of education &amp; training phase) are important … my question is whether grants is the most appropriate mechanism because it implicitly implies <strong>pre</strong>-selecting a creative direction. Instead I would put forward</p>\n<ol>\n<li>Grant to develop a reward mechanism … I suggest Street Performers Protocol (<a href=\"https://www.schneier.com/academic/archives/1998/11/the_street_performer.html\" rel=\"noopener nofollow ugc\">private funding of public goods</a>)</li>\n<li>Use something like source-cred to measure likes, emojis, or anything that points back to the creative work.</li>\n<li>Allocate praise, or a matching financial boost (if surplus exists) or something that captures the audience appreciation</li>\n</ol>\n<p>The point being that this is a self-perpetuating system rather than one-off grant that creates a cycle of dependency. Because it is an creative economy enablement platform, it should be indifferent towards the genre or story-telling medium, whether writing, gamification or 3D panoramic movies.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075830",
+    "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-08-12T13:46:38Z",
+   "updated_at": "2021-08-12T13:46:38Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I haven’t used it yet but I see that groups are joining Mirror and their Write Race. From what I understand, these groups can use Mirror to get funding for their writing. Could be a good opportunity if you did get a group together from different DAOs and projects and set up a Mirror profile together.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075830",
+    "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-08-26T16:50:36Z",
+   "updated_at": "2021-08-26T16:50:36Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I support using funds to attract creative writers. I think writing is one of the highest leverage outputs that we can be producing at this point to expand the mission vision and values.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075830",
+    "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-28T22:15:10Z",
+   "updated_at": "2021-08-28T22:15:10Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I would love to see us jump into other people’s systems and fuse with them! let’s start playing with Mirror!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530075830",
+    "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420132608",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420132608",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928013534",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928013534",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124033614",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124033614",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530075830",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530075830",
+   "url": "https://forum.tecommons.org/t/grant-request-for-attracting-creative-writers/326"
+  }
+ ]
+}

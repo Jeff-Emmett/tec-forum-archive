@@ -1,0 +1,72 @@
+{
+ "id": 182,
+ "title": "Scaling Decentralized Administrative Functions",
+ "slug": "scaling-decentralized-administrative-functions",
+ "category_id": 10,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2020-12-22T20:25:39Z",
+ "last_archived_post_at": "2021-04-12T13:47:42Z",
+ "captured_between": [
+  "2021-03-03T01:44:27Z",
+  "2021-06-24T14:39:13Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2020-12-22T20:25:39Z",
+   "updated_at": "2020-12-22T20:25:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><em>Note: I’m writing this to start a dialogue around the subject of Commons Administration within the TEC, and extending it to future instances of Cyber-Physcial Commons.  It’s an idea that I’ve been working on within my own project as a method for Local Community Administration through the use of DAOs.  I’m newly active to the CommonStack/TEC, so please forgive me for any misunderstandings I may present in illustrating my ideas and their application to the TEC.  A large part of this comes from my past writings on the subject.</em></p>\n<p>In evaluating the architecture of organizational design, we can assess an Administrative framework  from two internal structures: <strong>Differentiation</strong> and <strong>Integration.</strong></p>\n<p>‌Differentiation is the ability of a group to break down the functions of the organization and bundle them into effective units. Integration involves the ability of an organization to coordinate these units into collective, purposeful action.</p>\n<p>‌An administrative structure has allowed differentiation to occur within the TEC and is reflected in the creation of the TEC working groups.  Currently, the TEC has (I think) 7 different working groups, organizing our human capital around the necessary functions of the TEC.</p>\n<p>While differentiation can be embedded within the initial design of a Commons instance, the methods of integration are completely fabricated from a network of accessible coordination tools and the <strong>processes</strong> established for organizing the human capital that contributes to its success. Integration requires a conscious effort on ‘trusted seed’ members to set standards and processes on how we coordinate the use of administrative mechanics and transfer it into collective, purposeful action.</p>\n<p>For many projects, true decentralization will require large communities to be relied upon to coordinate and execute the collective functions necessary for the organization to operate efficiently.</p>\n<p>From this perspective, every community will dictate the success or failure of a project, and in our case, the management of a commons.  In our transition from a centralized world to a decentralized world, we should take careful notice of the rapidly changing environment of administrative governance as it pertains to the evolution of community membership.</p>\n<p>Good administration requires the management of <em>living</em> communities.  I use the term living because the nature of decentralization within a highly ‘mobile’ environment will result in communities whose demographics are constantly changing as new concentrations of unique individuals with different incentives begin contributing to the project;  this evolution of decentralized demographics within a community has the potential to create instability and limit the cohesion of a projects purpose, direction, and culture.</p>\n<p>The active management of these living communities will continue to be an extremely important function for all administrative frameworks.  Taking some notes from Ostrom, any long-lasting CPR must foresee these community changes, and contain technical infrastructures and operational rules that sustain the administrative functions of the commons, allowing them to persist not only across generational boundaries, but <em>also</em> during times of rapidly evolving community demographics.</p>\n<p>Ostrom carefully illustrates without fully acknowledging the necessity of bridging this gap between soft-governance (managing cohesive working groups) and hard-governance (technical tools that standardize operational rules and processes). Bridging the gap between these forms of governance is difficult but can be accomplished by developing an administrative framework that enables adaptability to the threats of organizational change.  Ostrom clearly states that our efforts to remove uncertainty from this setting will naturally increase the complexity of managing the system.</p>\n<p>It is really important to consider the trade-off between Complexity and Uncertainty, because too much complexity can hinder a groups willingness to participate as much as uncertainty can.  The benefit of complexity is that it can be mitigated through the use of technical tools via hard-governance, and the establishment of behavioral norms over time.</p>\n<p>Traditionally, within a CPR setting, a system of governance is inherited (a continual process of educating participants on the social norms and operational rules/tools associated with the commons – beginning from birth).  Many of us do not have the luxury of inheriting a lifetime worth of knowledge through a formal institution about these new methods being proposed to manage a CPR via CommonsStack.  We hope that what is being built here may one day itself become institutional, but in order to achieve this we will have to develop and participate in an Administrative System that standardizes a set of process and procedures until a cohesive system of \"Commons Management’ becomes ubiquitous within society.</p>\n<p>A Scalable System for Working Groups</p>\n<p>A process for the evolution of Working Groups is important.  An idea I have for this is to keep working groups to a manageable size (max 6-7 members).  By doing so, we maintain a cohesive WG throughout the lifetime of the TEC who are familiar with one another and educate themselves internally.  At the moment, it seems that each active member is serving in multiple WGs and while this is expected early on (as membership is limited), I think it would be beneficial to have each member commit themselves to one WG.</p>\n<p>As the work within each WG becomes impacted to the point where they need more human capital, our WGs can be further differentiated into sub-WGs as the administrative structure is forced to scale.  While the TEC may never run into this problem, future Cyber-Physical Commons will need to have a plan and process for these scenarios as it scales.</p>\n<p>In this case, a senior member of the original WG can break off and lead a new team within a sub-WG, transferring the cultural, institutional, and procedural knowledge to a new set of members as a natural process of onboarding procedures.</p>\n<p>As the number of sub-WGs expands, we can rotate these sub-WGs periodically (lets say every 4 mos.) to different function areas, providing each sub-WG a more holistic education of that particular WG.  Additionally, the use of “dishing-praise” could be maintained after the Hatch is over and applied as a quantitative metric of experience within a Specific WG.  If a member earns enough praise, they could be allowed to participate in certain actions (such as transferring to another sub-WG, leading a future sub-WG, or become a WG steward, etc.).</p>\n<p>While all of this is really not applicable at the moment, I wanted to start a conversation around the concept of scaling the administrative functions for future instances of Cyber-Physical Commons. If you have any ideas on this, please share!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210624143913",
+    "url": "https://forum.tecommons.org/t/scaling-decentralized-administrative-functions/182"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-04-12T13:47:42Z",
+   "updated_at": "2021-04-12T13:47:42Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"182\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p><strong>Differentiation</strong> and <strong>Integration.</strong></p>\n</blockquote>\n</aside>\n<p>love this- it’s a great mindset to start anything <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/><br/>\nI’ve been looking in to <a href=\"https://en.wikipedia.org/wiki/Viable_system_model\" rel=\"noopener nofollow ugc\">Viable Systems Model</a> and <a href=\"https://thesystemsthinker.com/the-nature-and-creation-of-chaordic-organizations/\" rel=\"noopener nofollow ugc\">Chaordic Organizations</a> for insights we could build on.</p>\n<p>Very much concerned with “cohesion”, random changes/steps lead to random results. Self-organizing needs time to find that cohesion in themselves, in the group, and in the organization in relation to the purpose and checking the direction. Kind of a compass.</p>\n<p>I changed my mind about !praise. With its simple Discord Integration, it can work well to capture qualitative value of contributions, within small groups, and their interaction among each other and as a group with others. (It still isn’t suitable as quantitative tool)</p>\n<p>I have the unpopular opinion that state of the art contribution quantification tools aren’t up to the challenge. We might make a proposal from Invisible Economy, about this sensing device and coordination, that shall servce the individual and the collective as a compass. Without the need of competitive artifacts such as leaderboards and scores.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210624143913",
+    "url": "https://forum.tecommons.org/t/scaling-decentralized-administrative-functions/182"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303014427",
+   "url": "https://forum.tecommons.org/t/scaling-decentralized-administrative-functions/182"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303014427",
+   "url": "https://forum.tecommons.org/t/scaling-decentralized-administrative-functions/182"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624143913",
+   "url": "https://forum.tecommons.org/t/scaling-decentralized-administrative-functions/182"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624143913",
+   "url": "https://forum.tecommons.org/t/scaling-decentralized-administrative-functions/182"
+  }
+ ]
+}

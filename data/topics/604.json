@@ -1,0 +1,265 @@
+{
+ "id": 604,
+ "title": "Earn Interest on wxDAI with Hatch Funds - TEC x AGAVE",
+ "slug": "earn-interest-on-wxdai-with-hatch-funds-tec-x-agave",
+ "category_id": 28,
+ "posts_count": 13,
+ "created_at": "2021-09-06T18:31:23.445Z",
+ "last_posted_at": "2021-09-18T02:22:59.828Z",
+ "total_known": true,
+ "archived_posts": 14,
+ "archived_numbers": 14,
+ "last_archived_post_at": "2021-10-21T17:55:09Z",
+ "captured_between": [
+  "2021-09-28T00:55:16Z",
+  "2022-01-24T03:00:03Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-06T18:31:23Z",
+   "updated_at": "2021-11-24T18:22:33Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#context-1\" name=\"context-1\"></a>Context</h2>\n<p>The <a href=\"https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574\">Tam-Zepti proposal</a> for making an initial buy into our own bonding curve ignited further explorations into possible economic and inter-DAO opportunities for the TEC. Coincidentally, after much anticipation, the AGAVE platform launched shortly thereafter. AGAVE, an offshoot from 1hive, is a protocol built on xDAI for Borrowing and Lending various types of token assets. I saw this as a perfect opportunity to seize the momentum and build on the soft-conensus we found around exploring all the possibilities laid out before us, given the success of the Hatch.</p>\n<p><strong>We arranged a meeting on September 6, 2021</strong> with representatives of the TEC and AGAVE and after fruitful discussion I can come forward with three opportunities for us to collaborate with AGAVE and provide economic benefit for the TEC. I will draft three different posts to allow us to accurately discuss and iterate on each proposal.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-1-deposit-a-portion-of-hatch-funds-in-wxdai-into-agave-2\" name=\"proposal-1-deposit-a-portion-of-hatch-funds-in-wxdai-into-agave-2\"></a>Proposal <span class=\"hashtag\">#1</span> -  Deposit a portion of Hatch funds in wxDAI into AGAVE</h2>\n<p>This was a great idea brought forth by <a class=\"mention\" href=\"/u/sem\">@sem</a>  where we could take a portion of funds from either the Common Pool (TEC initiative funding),  the Reserve Balance (the underlying collateral backing the ABC) or both and <strong>deposit it into AGAVE, earning passive, low-risk yield</strong>.</p>\n<p>Similar to other lending platforms when depositing collateral you receive a token that represents your deposit (with interest added) that you use to redeem the original asset whenever you choose to withdraw (and collect said interest). If we deposit xDAI into AGAVE we receive agxDAI which would be held in our Common Pool or be used as all or part of the base currency for the ABC.</p>\n<p>I’ll address using the Common Pool and the Reserve Balance separately since each carries unique risks and benefits.</p>\n<h3>\n<a class=\"anchor\" href=\"#common-pool-3\" name=\"common-pool-3\"></a>Common Pool</h3>\n<p>The most straightforward way to execute this proposal would be to use a portion of our Common Pool funds (based on the <a href=\"https://forum.tecommons.org/t/augmented-bonding-curve-commons-tribute/517\">Commons Tribute</a>) to earn some passive income. Our Commons Tribute probably will lie anywhere between 20-50% of Hatch funds and it is not likely (hopefully) that we will spend all of that in the near future and we will constantly be collecting more as our Augmented Bonding Curve provides us with a constant stream of additonal funding.  Putting in a sizeable chunk of wxDAI from this pool will allow us to get around 3-5% APY back that can be channeled back into our Common Pool and provide more funding for Token Engineering.</p>\n<p>The benefit for AGAVE is the TVL and liquidity on their platform allowing them to offer competitive borrowing rates. There was some initial discussion on AGAVE providing us with preferred interest rates for providing collateral, however they  have a DAO and a governance process so that needs to be investigated further on their side.</p>\n<p>Some questions to consider are:</p>\n<ul>\n<li>How much of the Common Pool funds should be deposited?</li>\n<li>How much should we be able to withdraw at a time?</li>\n<li>Can we trust the AGAVE contracts(which hold our wxDAI)?</li>\n<li>???</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#reserve-balance-4\" name=\"reserve-balance-4\"></a>Reserve Balance</h3>\n<p>This is where it gets a bit spicy, but basically the point is that there will be a huge amount of xDAI held in the Augmented Bonding Curve which will never see the light of day, very likely.  We can deposit this xDAI into AGAVE and earn passive yield, thus increasing slowly the value of the TEC token as interest accumulates. This could be implemented in three ways (please correct me if I’m wrong <a class=\"mention\" href=\"/u/sem\">@sem</a>):</p>\n<ul>\n<li>Changing the base currency of the ABC into agwxDAI (buying and selling TEC for agwxDAI).</li>\n<li>Having two ABC’s (one for wxDAI, one for agwxDAI) .</li>\n<li>A hybrid ABC that has two base tokens that accepts or returns a bit of both when transactions are made.</li>\n</ul>\n<p>This, while technically can be done, I feel there are significant cultural hurdles that would be needed to make this solution feasible. My personal opinion is we should focus on educating our community and launching our ABC as is without doing any spooky changes that could have technical bugs or unforeseen economic consequences, however I leave it here so we can open up the discussion.</p>\n<h2>\n<a class=\"anchor\" href=\"#opening-the-discussion-5\" name=\"opening-the-discussion-5\"></a>Opening the Discussion</h2>\n<p>This is a great opportunity for us to explore new platforms and support the protocols being built on xDAI. I think the best way to collaborate with other projects and protocols is to actually use the tools they are building. I’d like to open up the discussion here and I would love to hear from a token engineering perspective any further ideas or perspectives around this proposal!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-09-06T18:57:23Z",
+   "updated_at": "2021-09-06T18:57:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Well done <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> for reaching out to a similar community and developing possibilities for collaboration with shared-purpose. The DAO is a great organizational model, but it takes individual people to recognize each other and form connections. <img alt=\":ok_hand:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ok_hand.png?v=9\" title=\":ok_hand:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-08T22:18:44Z",
+   "updated_at": "2021-09-08T22:18:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>These are fantastic posts <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>, thank you for bringing them up.</p>\n<p>I think this proposal can have a HUGE good impact in both communities if TEC staked most of it’s wxDAI into Agave:</p>\n<ul>\n<li>With only with a modest 3% APY (to be conservative), TECommons would earn 40k every year that could be used to fund an extra Token Engineering project.</li>\n<li>It would bootstrap Agave’s wxDAI lending pool allowing people to borrow money at a very competitive price during the first months, possibly entering a virtuous circle in which even more collateral enters into the protocol, as it is required to borrow.</li>\n</ul>\n<p>These are some considerations we have to take into account:</p>\n<ul>\n<li>We should assess the risks before putting relevant parts or all TECommons treasury in another protocol. Being in the lenders part of the relation puts us in the low-risk area, as all Agave borrowings are over-collateralized (for each wxDAI you lend, you can only borrow 0.775 wxDAI). Although there are other smart contract or Agave governance risks that we will need to assess before we can make this decision.</li>\n<li>Another think we have to consider is the harm we can do to others. If it were the case in which TEC provided a huge proportion of WXDAI in Agave and it withdrew them all at once, it would cause a spike in the borrowing interests, potentially leaning to liquidations.\n<ul>\n<li>That would not limit TECommons day to day operations as agWXDAI can be used as any other token to be held in the Common Pool and the Reserve.</li>\n<li>It would only limit TECommons in the scenario that it wants to migrate their wxDAI to another protocol. In that case it should be done with care to not have excessive negative side effects on Agave.</li>\n<li>That being said, Agave may offer preferred interest to TECommons in the conditional tokens they are planing to launch next if TECommons agrees on leaving in an ordered way in the case it wants to withdraw the funds from the protocol, maybe by adding an anti-“bank run” clause in it’s Garden Agreement.</li>\n</ul>\n</li>\n</ul>\n<p>In relation to technical solutions, I’ve been researching a bit since the call on September 6, and it looks like it’s totally factible to have both wxDAI and agWXDAI in both Common Pool and Reserve in any desired ratio. We can start with 30%-70% agWXDAI-wxDAI and increase the lended token over time if TEC wants.</p>\n<p>This could be done with some Solidity work adapting an Aragon app for <a href=\"https://github.com/empowerthedao/compound-aragon-app\">Compound</a> (an Agave similar lending protocol) to manage the transformation of wxDAI and agWXDAI in the pools. This would be transparent for the Conviction Voting and Augmented Bonding Curve apps, which will interact with wxDAI all the time, and periodically call a function that returns wxDAI and agWXDAI to the desired ratio. This way TEC could earn interest having part or all of the funds in agWXDAI meanwhile the user only interacts with wxDAI. This app could also be used to withdraw progressively wxDAI from the protocol without causing the bad consequences of a “bank run”.</p>\n<p>In order to have an informed decision making on this proposal, I find this video particularly educative and recommend it to anyone in the community:</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"aTp9er6S73M\" data-youtube-title=\"Lending And Borrowing In DEFI Explained - Aave, Compound\">\n<a href=\"https://www.youtube.com/watch?v=aTp9er6S73M\" rel=\"noopener\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/original/1X/c7d632c15ec14d91360b78b2256f01915d680dbc.jpeg\" title=\"Lending And Borrowing In DEFI Explained - Aave, Compound\" width=\"480\"/>\n</a>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-10T15:35:29Z",
+   "updated_at": "2021-09-10T15:35:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"604\" data-username=\"sem\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" width=\"20\"/> sem:</div>\n<blockquote>\n<p>With only with a modest 3% APY (to be conservative), TECommons would earn 40k every year that could be used to fund an extra Token Engineering project.</p>\n</blockquote>\n</aside>\n<p>This is assuming we put in how much wxDAI into AGAVE? It would be unreasonable to assume that the TEC would put in anywhere near to all of the hatch funds into AGAVE.</p>\n<p>To your points regarding using agwxDAI as part of the reserve balance I have to re-state that I am hesitant to change any of the underlying structure of the ABC. While its cool to hear the technical validation, we have not been able to adequately introduce the basic Bonding Curve concept into the TEC and a vast number of people in the community probably don’t know how it works.</p>\n<p>Adding new layers like a second base currency has lots of token engineering potential but it would probably also confuse a lot of users using our ABC.  If this option (having part or all of our Reserve Balance in agwxDAI) gains traction I would propose two sub-solutions.</p>\n<ol>\n<li>\n<p>Build this dual-currency(or agwxDAI only) ABC post Commons Upgrade and deploy it alongside the initial ABC, having another market for TEC (and perhaps providing more arbitrage opportunities). Also testing our Tao Voting capabilities along the way.</p>\n</li>\n<li>\n<p>In the event of a dual-currency and singular ABC we could accept both in any quantity in BUY orders and return only wxDAI, using AGAVE to unstake agwxDAI and return it in the same transaction, we could also use a base ratio of agwxDAI we want to hold in the reserve balance using some sort of dynamic ratio to maintain a percentage.  This, while creating more technical overhead would streamline our user flow while leveraging AGAVE’s protocol and generating trade volume on their platform.</p>\n</li>\n</ol>\n<p>Otherwise, changing anything in the ABC user-flow this late in the game I think would become a big blocker for us launching, which in my opinion needs to happen ASAP given that we are right now somewhere in Hatch limbo.</p>\n<p>I would advocate for a simpler solution right now which would be to use only Common Pool funds to exchange and hold agwxDAI, perhaps using a base percentage that stakes and unstakes tokens as funds enter and leave the Common Pool. I would propose, based on some initial numbers, somewhere to the tune of 30-40% of Common Pool funds. Which  if we assume we have a Commons Tribute, at launch, between 20-50% would be between a deposit of 94k - 314k xDAI with an APY range at 3% would be 2.8k - 9.4k xDAI of passive funding income. Take into account that as our Commons Pool grows, and if we are offered a favourable interest rate these numbers could be higher.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-09-12T13:23:55Z",
+   "updated_at": "2021-09-12T13:23:55Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>To clarify, with the technical solution proposed in the previous post, we could have portions of the bonding curve reserve and conviction voting common pool with portions of agWXDAI and still have:</p>\n<ul>\n<li>Only one bonding curve / primary market. I think this is the desirable thing.</li>\n<li>Only one currency in the bonding curve (to choose between wxDAI or agWXDAI). We can leave it with wxDAI for simplicity. This means people would buy and sell with wxDAI only.</li>\n</ul>\n<p>The pre-fixed proportion of Reserve and Common Pool’s wxDAI staked into agWXDAI (it could be 30%) could be increased or decreased using Tao Voting.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-09-14T01:12:19Z",
+   "updated_at": "2021-09-14T01:12:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"604\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<ul>\n<li>Build this dual-currency(or agwxDAI only) ABC post Commons Upgrade and deploy it alongside the initial ABC, having another market for TEC (and perhaps providing more arbitrage opportunities). Also testing our Tao Voting capabilities along the way.</li>\n</ul>\n</blockquote>\n</aside>\n<p>This particular sub-solution is very interesting to me.</p>\n<p>I don’t like the idea of inserting a general financial product into the engine of our economy right before we design it.  Maintaining the ABC as it currently stands has a lot of benefits and minimizes risk. The main benefits being – its simple and allows for communities to witness an effective implementation of a ‘collectively’ designed (small-scale) economic system.  This isn’t trivial.</p>\n<p>The risks of implementing a dual-currency ABC right now involve many because we are creating our first dependency (Agave), whose oversight process and community…are honestly unknown to me…and while I believe they probably have a strong community with good governance around decision-making…I simply do not <em><strong>know</strong></em>.</p>\n<p>I think before this Proposition should ever be considered we should first have some type of information sharing between the communities – beyond the interactions and perspectives of a handful of community members…and while I appreciate the role of experts maintaining discretion over actions at this stage in our community…I believe we aren’t giving this issue the time that it deserves.</p>\n<p>I know this is just in the exploration stage, but in my opinion it has exposed a lot of risks associated with DAO-2-DAO interactions of any kind.</p>\n<p>If the success of their interest bearing financial product (and our ABC) is dependent on the decisions their community makes, then I believe it would be beneficial to understand how they make their decisions in the first place.</p>\n<p>I am always afraid to say that, because I know it is still a young industry and honestly we don’t have that many options to choose from, especially when we know they are value aligned or involve people that we trust. These interactions are not enough to ensure the security we want in the long-term, especially around the ABC.</p>\n<p>I’m all for getting creative and developing some badass bonding curve financial instrument…but I think keeping our ABC simple is more important.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-14T20:17:26Z",
+   "updated_at": "2021-09-14T20:17:26Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"UGnEHTbUsXU\" data-youtube-title=\"Debate - Earn Interest on wxDAI with Hatch Funds - TEC x AGAVE\">\n<a href=\"https://www.youtube.com/watch?v=UGnEHTbUsXU\" rel=\"noopener\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/original/1X/080d089f1f9e5b3e6f701fbf4bc48adb3a08bca2.jpeg\" title=\"Debate - Earn Interest on wxDAI with Hatch Funds - TEC x AGAVE\" width=\"480\"/>\n</a>\n</div>\n<p>Debate from 14-09-2021</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-15T01:16:56Z",
+   "updated_at": "2021-09-15T01:16:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I will third the concept of keeping the ABC simple for the first launch.</p>\n<p>I tend to lean towards keeping Conviction Voting Simple as well… I would rather launch without extra complications and edge cases in the base layer… if we want to diversify our holdings, agwxdai would be one of many assets we might want to hold… I don’t know how i feel about making a bunch of extra work to earn 3-10% APR with a protocol that launched last week…</p>\n<p>If we want to hold agwxdai let’s simply hold it in a subDAO that is outside the system and make it part of diversified Common Pool holdings, and then have clear rules about putting it back into the Common pool (like everytime we spend 50k, we top it up with 25k or something like that). This would be a simple system, that follows other working group models. This working group model could diversify our holdings</p>\n<p>Let’s keep things simple, minimize scope and minimize risk for launch and then when everything is working, we can start weaving the web of DAO-integrations.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-09-16T15:24:54Z",
+   "updated_at": "2021-09-16T15:24:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I definitely agree that messing with the ABC config before launch is inviting more headaches.</p>\n<p>I think the key take-away from the debate was that nothing needs to be done right away to implement any of these proposals. <a class=\"mention\" href=\"/u/tamara\">@Tamara</a>  made a good suggestion of starting small (5%-10% of the Common Pool) and going up from there if it works well. We can choose when that would start. <a class=\"mention\" href=\"/u/santigs\">@santigs</a> also echoed your point of having a sub-DAO in charge of managing these holdings.</p>\n<p>I think there’s more value in this collaboration than just the APY. It’s important to support other projects on xDAI and incentivize users and protocols to remain on the network. If we don’t support each others work and encourage growth via the protocols and dapps unique to xDAI then surely users and organizations will go to where there is more action happening.</p>\n<p>The TEC has a good position to leverage where it can meet the organizations goals by supporting other projects, and potentially generating funding for itself along the way.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-09-18T02:22:59Z",
+   "updated_at": "2021-09-18T02:22:59Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"604\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>If we want to hold agwxdai let’s simply hold it in a subDAO that is outside the system and make it part of diversified Common Pool holdings, and then have clear rules about putting it back into the Common pool (like everytime we spend 50k, we top it up with 25k or something like that). This would be a simple system, that follows other working group models. This working group model could diversify our holdings</p>\n</blockquote>\n</aside>\n<p>Of all the comments I have read here on TEC forum and in the recorded meeting I like this approach the most. It wouldn’t require a tremendous amount of work or really any commitment. Try it, if you don’t like it the subDAO moves liquidity elsewhere.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-10-02T17:16:43Z",
+   "updated_at": "2021-10-02T17:17:14Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Just wanted to updated everyone here. Agave was approved by xdai community for $500k in $STAKE rewards to help bootstrap agave TVL so shortly this discussion may become more attractive for TEC from at least an ROI perspective.</p>\n<p><a class=\"onebox\" href=\"https://snapshot.org/#/xdaistake.eth/proposal/QmRqNFqepncCrUjmvo6j4iPSDyewDAToXbBC6gveJQ81Cz\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://snapshot.org/#/xdaistake.eth/proposal/QmRqNFqepncCrUjmvo6j4iPSDyewDAToXbBC6gveJQ81Cz</a></p>\n<p><img alt=\"image\" data-base62-sha1=\"oKtA5Y37bTpImBYS7Bdk14cLQOp\" height=\"271\" src=\"https://forum.tecommons.org/uploads/default/original/1X/ad7524db955cc154620a0a674241b9da7ab08a0d.png\" width=\"312\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-04T17:10:55Z",
+   "updated_at": "2021-10-04T17:10:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Very Cool! I haven’t forgotten about these proposals. The TEC needs to figure out some important parameters before we can get a better estimate of funds we can commit towards an AGAVE collaboration.</p>\n<ol>\n<li>How much funds we’re going to spend buying TEC when our ABC opens.</li>\n<li>How much of the Hatch funds we’re allocating into our Common Pool</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-10-21T17:31:25Z",
+   "updated_at": "2021-10-21T17:31:25Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Just wanted to share to keep the team up to date. The protocol has a modest $144k TVL slowly and steadily increasing in at a fairly linear consistent rate since Septembers launch.<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/2ef38df03a2d4affc7851051b29cefe66f60c355\" href=\"https://forum.tecommons.org/uploads/default/original/1X/2ef38df03a2d4affc7851051b29cefe66f60c355.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"6HlM9ocvtQ4mtMOXwjGRWNcjjZX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_10x10.png\" height=\"250\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_195x250.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_195x250.png, https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_292x375.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_390x500.png 2x\" width=\"195\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">571×731 36.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>As you may already know next week begins the deploying of rewards on the protocol and we expect tvl to grow a bit more, <a href=\"https://www.youtube.com/watch?v=X9aZfiBItOY&amp;t=66s\" rel=\"noopener nofollow ugc\">watch video to learn more</a><br/>\n<img alt=\"image\" data-base62-sha1=\"54aX8mjojMxJAKWay2GELrM1jVe\" height=\"165\" src=\"https://forum.tecommons.org/uploads/default/original/1X/2383bc535c566a56dc8092cd1e80759db2844f80.jpeg\" width=\"299\"/></p>\n<p>I will keep the TEC community informed as the team continues to roll out updates. Please feel free to follow us on <a href=\"https://twitter.com/Agave_lending\" rel=\"noopener nofollow ugc\">twitter</a> for updates.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-21T17:55:09Z",
+   "updated_at": "2021-10-21T17:55:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/monstrosity\">@Monstrosity</a>, we are discussin how to manage TEC funds here: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/the-initial-buy-in/670/\">The Initial Buy-In</a></p>\n<p>To give an update</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124030003",
+    "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928005516",
+   "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928005516",
+   "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124030003",
+   "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124030003",
+   "url": "https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604"
+  }
+ ]
+}

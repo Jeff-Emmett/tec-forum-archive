@@ -1,0 +1,157 @@
+{
+ "id": 272,
+ "title": "The Hatch TL;DR",
+ "slug": "the-hatch-tl-dr",
+ "category_id": 18,
+ "posts_count": 6,
+ "created_at": "2021-03-05T17:28:58.194Z",
+ "last_posted_at": "2021-04-17T14:52:31.734Z",
+ "views": 3498,
+ "highest_post_number": 8,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-04-17T14:52:31Z",
+ "captured_between": [
+  "2021-06-05T16:28:53Z",
+  "2026-08-09T03:34:36Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-05T17:28:58Z",
+   "updated_at": "2021-04-17T14:50:00Z",
+   "reply_to_post_number": null,
+   "like_count": 18,
+   "cooked": "<h2>The Hatch Overview</h2>\n<p>The Hatch is the critical initial phase of the Token Engineering Commons (TEC). The purpose of this document is to guide you through the steps of the Hatch and what happens to the wxDai that is sent to the Hatch. There’s a couple key variables to be aware of in the Hatch, the actual numeric values of these variables will be chosen by the community (your economy, your choice) but the overarching principles are determined and are very important to understand.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/54d8acf649a7329a7daabcfe0d509a6bca7106fe\" href=\"https://forum.tecommons.org/uploads/default/original/1X/54d8acf649a7329a7daabcfe0d509a6bca7106fe.png\" title=\"TEC_Hatch_DAO_V8\"><img alt=\"TEC_Hatch_DAO_V8\" data-base62-sha1=\"c6AkDKhUrc2atw9ZpN2gFnu6eE6\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/54d8acf649a7329a7daabcfe0d509a6bca7106fe_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/54d8acf649a7329a7daabcfe0d509a6bca7106fe_2_360x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/54d8acf649a7329a7daabcfe0d509a6bca7106fe_2_360x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/54d8acf649a7329a7daabcfe0d509a6bca7106fe_2_540x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/54d8acf649a7329a7daabcfe0d509a6bca7106fe_2_720x1000.png 2x\" width=\"360\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">TEC_Hatch_DAO_V8</span><span class=\"informations\">805×1117 88.1 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>Phase 1 - Hatch Period.</strong> On the first day, the TEC created <em><strong>The Hatch</strong></em>, it remains open for a limited amount of time for legal members of the Trusted Seed (CSTK token holders) to send in wxDai to mint TECH tokens. There’s a Minimum Goal that needs to be reached in order for the TEC Hatch DAO to be created, if that amount of wxDai isn’t collected the Hatch fails and 100% of the funds are returned.</p>\n<p><strong>Phase 1.5 - Establishing Pools and Minting Tokens.</strong> Once the minimum funding goal is reached and the Hatch Period ends the wxDai is moved into two separate pools and TECH tokens are minted for those who earned Impact Hours. A brief breakdown of what happens is as follows:</p>\n<p><em>Pools</em></p>\n<ul>\n<li>The Redeemable Pool will hold the wxDai that can be accessed by burning your TECH tokens to redeem a proportionate amount of wxDai.</li>\n<li>The Non-redeemable Pool will hold wxDai that will be used to further the TEC Hatch DAO’s goals and can only be moved by a vote on the DAO. It is determined by the Hatch Tribute as a percentage of the total funds contributed and is non-redeemable.</li>\n</ul>\n<p><em>TECH Token Minting</em></p>\n<ul>\n<li>Hatchers will mint TECH tokens when they send wxDai to the Hatch.</li>\n<li>Community members that earned Impact Hours will receive TECH tokens at the end of the Hatch Period. The amount they receive will be determined by the amount collected during the Hatch.</li>\n</ul>\n<p><strong>Phase 2 - Commons Upgrade.</strong> The next phase of the Hatch is upgrading it from a DAO into a Commons with a bonding curve. As a TECH token holder, you can vote on the Commons Upgrade proposal and if it passes, all wxDai held by the TEC Hatch DAO will be transferred to the TE Commons and TEC tokens will be minted for you. If you vote no or did not vote on the Commons Upgrade proposal you will have the option to exit before the upgrade is executed. If you exit during this phase your TECH tokens will be burned and you will receive your share of the wxDai from the Redeemable Pool. <em><strong>The wxDai that were sent to the Non-Redeemable Pool will not be reimbursed.</strong></em> When the Commons Upgrade proposal is executed, engines fuel, and this baby takes off into outer space! The TE Commons is created and we will start to coordinate to fund proposals that advance Token Engineering.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-03-13T02:53:04Z",
+   "updated_at": "2021-03-13T02:53:04Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>This is so epic. We should encourage everyone to read this. Actually confirmation of reading should be required before becoming a hatcher.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-03-14T12:33:51Z",
+   "updated_at": "2021-03-14T12:33:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Agree, it’s a great post, thank you so much <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>!</p>\n<p>I updated it with the proper numbering of the phases, because we use to say that Phase 2 is the Commons Upgrade in other posts.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Phil",
+   "name": null,
+   "created_at": "2021-03-30T21:44:13Z",
+   "updated_at": "2021-03-30T21:44:13Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi guys,<br/>\nthanks for the post.<br/>\nSo the utility of TECH tokens is to<br/>\na) vote on proposals to allocate future funding<br/>\nb) redeem them for wxDai from the redeemable pool, right?</p>\n<p>What the plan to increase the value of TECH?<br/>\nShould proposals create revenue which can be used to buy and burn TECH?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-31T14:55:40Z",
+   "updated_at": "2021-03-31T14:55:40Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/phil\">@Phil</a>, so TECH tokens are specific to the intial Hatch Phase of the DAO. TEC tokens will be used once the Hatch upgrades into the Commons.</p>\n<p>TECH will have value relative to the amount of funds contributed to the Hatch during the Hatch Period.  You will burn your TECH tokens should you choose to Rage Quit during the hatch phase, before the Commons upgrade. You will receive wxDai in exchange for your burnt TECH tokens from the Redeemable pool. In the Initial hatch phase there isn’t the intention to create revenue streams, it’s more about setting up the Commons for sustainable success by choosing solid parameter values.</p>\n<p>Once the Commons is launched and with it TEC token distribution and the Augmented Bonding Curve (More info TBA) that is where things begin to get interesting.</p>\n<p>We don’t have all the answers yet but hope that helps!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Phil",
+   "name": null,
+   "created_at": "2021-04-01T19:49:31Z",
+   "updated_at": "2021-04-01T19:49:31Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>, sure that makes sense.<br/>\nThanks for your answer <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-04-17T14:52:31Z",
+   "updated_at": "2021-04-17T14:52:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Excellent write up <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>! Nice and clear.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033436",
+    "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210605162853",
+   "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624142657",
+   "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319140546",
+   "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260809033436",
+   "url": "https://forum.tecommons.org/t/the-hatch-tl-dr/272"
+  }
+ ]
+}

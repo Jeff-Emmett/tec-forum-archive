@@ -1,0 +1,41 @@
+{
+ "id": 1315,
+ "title": "Fiduciary Stewardship of the TEC Common Pool: A Comprehensive Approach",
+ "slug": "fiduciary-stewardship-of-the-tec-common-pool-a-comprehensive-approach",
+ "category_id": 28,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2023-11-23T18:29:29Z",
+ "last_archived_post_at": "2023-11-23T18:29:29Z",
+ "captured_between": [
+  "2024-02-29T13:02:11Z",
+  "2024-02-29T13:02:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-11-23T18:29:29Z",
+   "updated_at": "2023-11-23T18:29:29Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#introduction-1\" name=\"introduction-1\"></a>Introduction:</h1>\n<p>In our pursuit of sustained success for the TEC, we recognize the need to improve our financial framework. The absence of effective accountability mechanisms and established practices to track, report, and budget the use of funds has been part of the reason for the continual depletion of our Common Pool (CP). This situation creates a significant threat to the mission of the Commons. The strategic changes we’ve made, such as implementing predictable operating budgets, allocating funds specifically for public goods, and transitioning from CV to TV for funding proposals, highlight our commitment to achieving long-term sustainability. Now, we would like to propose the introduction of additional mechanisms to reinforce our objective of responsibly stewarding the remaining capital of our Commons.</p>\n<h1>\n<a class=\"anchor\" href=\"#proposed-solution-2\" name=\"proposed-solution-2\"></a>Proposed Solution:</h1>\n<p>To fortify the stewardship of our Common Pool resources and responsibly support our community’s goals, we propose a comprehensive solution:</p>\n<h2>\n<a class=\"anchor\" href=\"#analysis-of-current-state-3\" name=\"analysis-of-current-state-3\"></a>Analysis of Current State:</h2>\n<ul>\n<li>Conduct an analysis of the status of the TEC’s resources, including Common Pool/Reserve Pool funds, multisigs, unused funds, current LPs, and active governance models.</li>\n<li>Execute a SWOT analysis with a specific emphasis on fiduciary stewardship.</li>\n<li>Share this analysis with the community through a forum post.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#fiduciary-accountability-policies-4\" name=\"fiduciary-accountability-policies-4\"></a>Fiduciary Accountability Policies:</h2>\n<ul>\n<li>Develop a set of guidelines and principles outlining the fiduciary responsibilities of TEC tokenholders in managing CP resources.</li>\n<li>Make this recommendation public via the forum, and if necessary have a vote on it.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#commons-level-budgeting-and-reporting-practices-5\" name=\"commons-level-budgeting-and-reporting-practices-5\"></a>Commons-Level Budgeting and Reporting Practices:</h2>\n<ul>\n<li>Develop and recommend to the community a budget with well-defined spending limits to support the Commons’ initiatives on an annual basis.</li>\n<li>Define reporting practices and generate comprehensive recurring financial reports to track financial movements within the CP and TEC’s ecosystem.</li>\n<li>Ensure alignment with Fiduciary Accountability Policies.</li>\n</ul>\n<p>All of this work will be carried out in collaboration between the TEC’s Coordination Team and the Token Engineering Commons Advisory Network (TECAN), and will be continuously shared with the community for input and refinement.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229130211",
+    "url": "https://forum.tecommons.org/t/fiduciary-stewardship-of-the-tec-common-pool-a-comprehensive-approach/1315"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229130211",
+   "url": "https://forum.tecommons.org/t/fiduciary-stewardship-of-the-tec-common-pool-a-comprehensive-approach/1315"
+  }
+ ]
+}

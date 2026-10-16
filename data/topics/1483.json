@@ -1,0 +1,56 @@
+{
+ "id": 1483,
+ "title": "Article: Decentralized Science (DeSci): Knowledge Creation for the Age of Networks",
+ "slug": "article-decentralized-science-desci-knowledge-creation-for-the-age-of-networks",
+ "category_id": 34,
+ "posts_count": 0,
+ "created_at": "2025-06-23T18:11:08.485Z",
+ "views": 81,
+ "last_posted_at": "2025-06-23T18:11:08.626Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2025-06-23T18:11:08Z",
+ "captured_between": [
+  "2025-07-12T12:07:45Z",
+  "2025-07-15T13:36:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2025-06-23T18:11:08Z",
+   "updated_at": "2025-06-27T17:18:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/9f9b76ebf577778fc10859bac4cedb92393fdc84.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/9f9b76ebf577778fc10859bac4cedb92393fdc84\" title=\"image\"><img src=\"https://forum.tecommons.org/uploads/default/original/1X/9f9b76ebf577778fc10859bac4cedb92393fdc84.jpeg\" alt=\"image\" data-base62-sha1=\"mLWZWiG8JrnSijdEEv4wSLG2Hje\" width=\"690\" height=\"345\" data-dominant-color=\"446E55\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1080×540 45.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>We’ve just published a long-form exploration of Decentralized Science (DeSci), diving into its potential to reshape the way research is funded, published, and shared. At its core, DeSci asks whether the internet-native tools we’ve built through blockchains, DAOs, smart contracts, and tokenized incentives can be used to create a more transparent, collaborative, and equitable infrastructure for scientific discovery.</p>\n<p>The article walks through the current problems in academia: paywalled research, conservative grant systems, broken incentive structures, and data locked behind institutional silos. It also surveys the growing ecosystem of DeSci projects (like VitaDAO, LabDAO, Molecule, ResearchHub, and others) that are experimenting with new ways to do science. But as with any ambitious movement, there are big questions we still need to ask.</p>\n<p>So we’re opening this thread to explore those questions together:</p>\n<ul>\n<li>\n<strong>What aspects of the current scientific system feel most ripe for disruption, and which do you think DeSci can realistically improve?</strong> Are we building a viable complement to academia or creating parallel infrastructure with limited adoption?</li>\n<li>\n<strong>How should we handle the issue of legitimacy?</strong> For example, if a paper is published via a DAO or receives peer review onchain, what would it take for that work to be recognized by traditional institutions, journals, or grant bodies?</li>\n<li>\n<strong>Do tokenized incentives make sense for scientific contribution?</strong> Could they motivate open data sharing, reproducibility, or collaborative review?  Do they risk introducing speculation and gaming into academic work?</li>\n<li>\n<strong>What governance models make sense for decentralized scientific communities?</strong> Is there a need for elected boards, peer-selected reviewers, or reputation systems? What might scientific consensus look like in a DAO context?</li>\n<li>\n<strong>How can DeSci platforms avoid the mistakes of Web3 more broadly (e.g., hype cycles, regulatory overreach, extractive speculation)?</strong> Are there safeguards we should be building in from the beginning?</li>\n</ul>\n<p>We invite anyone from DeSci builders to skeptical researchers to chime in! What excites you most about the DeSci movement? What concerns you? And what do you think is missing from the conversation?</p>\n<p>Drop your thoughts below, share use cases, link other resources, or suggest your own experiments.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250715133618",
+    "url": "https://forum.tecommons.org/t/article-decentralized-science-desci-knowledge-creation-for-the-age-of-networks/1483"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20250712120745",
+   "url": "https://forum.tecommons.org/t/article-decentralized-science-desci-knowledge-creation-for-the-age-of-networks/1483"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250712120745",
+   "url": "https://forum.tecommons.org/t/article-decentralized-science-desci-knowledge-creation-for-the-age-of-networks/1483"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250715133618",
+   "url": "https://forum.tecommons.org/t/article-decentralized-science-desci-knowledge-creation-for-the-age-of-networks/1483"
+  }
+ ]
+}

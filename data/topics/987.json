@@ -1,0 +1,95 @@
+{
+ "id": 987,
+ "title": "Quantifier disagreement on duplication and dismissal -- analysis from round 6",
+ "slug": "quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6",
+ "category_id": 28,
+ "posts_count": 3,
+ "created_at": "2022-04-21T18:39:59.044Z",
+ "last_posted_at": "2022-04-27T20:59:57.630Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2022-04-27T20:59:57Z",
+ "captured_between": [
+  "2022-05-20T08:28:00Z",
+  "2022-05-20T08:28:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "zhiwei",
+   "name": null,
+   "created_at": "2022-04-21T18:39:59Z",
+   "updated_at": "2022-04-21T18:39:59Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#quantifier-disagreement-from-round-6-1\" name=\"quantifier-disagreement-from-round-6-1\"></a>Quantifier disagreement from round 6</h1>\n<p>Quantifiers need to determine if a praise is to be quantified, dismissed, or marked as duplicate of another praise. For many cases we seem to be lacking community agreement on how to decide the status of a praise. Here I summarize some example disagreements on dismissal and duplication from round 6 of quantification. I also propose some solutions for cases but of course this is meant to be an open discussion! Hopefully we can add some more specified quantifier guidance and in general praise ettiques for the community.</p>\n<p>The data collection process is described at the end of the post for those data-inclined readers.</p>\n<h2>\n<a class=\"anchor\" href=\"#dismissal-disagreement-2\" name=\"dismissal-disagreement-2\"></a>Dismissal disagreement</h2>\n<p>Right now the established rules for dismissal, according to this <a href=\"https://forum.tecommons.org/t/rules-of-praise-and-quantification/667\">“rules of quantification” post</a>, include:</p>\n<ol>\n<li>If it’s the same person giving the same praise, dismiss.</li>\n<li>If the praise is about forum posting or github contribution, dismiss (because sourcecred will be able to capture that).</li>\n</ol>\n<p>Below are the other cases that quantifiers have disagreement on whether they count as dismissal or not.</p>\n<ul>\n<li>\n<p>Twitter/ social media contribution:</p>\n<ul>\n<li>Example praise: “<em>for mentioning or retweeting TE Commons on socials the past week! Thank you for helping us grow the Token Engineering Commons community and spreading the message! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></em>🏼”</li>\n<li>Some people give it a low score or even 0, others dismiss it right away</li>\n<li>Suggestion: Clarify if we have a way to automatically capture this  – seems like it is not happening now. So probably should treat it as meeting attendence – a lower score below 5.</li>\n</ul>\n</li>\n<li>\n<p>Incomplete message with unclear meaning:</p>\n<ul>\n<li>Example praise: <em>“for ts”/“fot it”/“for”</em>\n</li>\n<li>Suggestion: Make it clear to quantifiers that should all dismiss that.</li>\n</ul>\n</li>\n<li>\n<p>General mention of the project but not the actual contribution:</p>\n<ul>\n<li>Example praise: <em>“for the analysis dashboard”/“for their work on the Rewards WG”</em>\n</li>\n<li>Most people would still give a score for this but some would dismiss. Yet for those who give a score, because of the vagueness of praise, the quantified score will vary a lot.</li>\n<li>Suggestion: First of all this roots from praise givers not specifying the action of praise, so more education/hints would be needed. Then there’s big difference of how much context a quantifier could have. We may suggest for quantifiers with less context to give less score, but don’t dismiss it, then the average will be bumped up by more knowledgeable quantifiers if the contribution is actually big.</li>\n</ul>\n</li>\n<li>\n<p>Action related to other TE related organizations but not TE:</p>\n<ul>\n<li>Example praise:“<em>for his work in Giveth and for supporting ETHColombia\"/\"for great participation at the TE Academy Team Sync meeting yesterday and  to guide us <img alt=\":raised_hands:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/3.png?v=10\" title=\":raised_hands:t3:\"/><img alt=\":raised_hands:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/3.png?v=10\" title=\":raised_hands:t3:\"/><img alt=\":raised_hands:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/3.png?v=10\" title=\":raised_hands:t3:\"/><img alt=\":raised_hands:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/3.png?v=10\" title=\":raised_hands:t3:\"/> very excited with this team to grow and grow</em>”</li>\n<li>Many quantifiers may not realize this is an event related with Giveth/TE Academy, not TE.</li>\n<li>Suggestion: emphasize this policy to quantifiers</li>\n</ul>\n</li>\n<li>\n<p>Action seems unrelated to TE (some personal interaction?):</p>\n<ul>\n<li>Example praise: “<em>for being man enough to know how to change a tire</em>”.</li>\n<li>Suggestion: needs discussion to agree on a policy?</li>\n</ul>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#duplication-disagreement-3\" name=\"duplication-disagreement-3\"></a>Duplication disagreement</h2>\n<p>Right now the agreed rule for duplication is: <em>different praise giver, same contribution praised and the same week = duplicate</em>.<br/>\nWhat’s vague is whether it’s the same contribution depending on the phrasing of a praise. This is definitely a tricky problem but let’s see if we can identify some typical categories of confusion.<br/>\nBelow are some examples where some quantifiers would mark one praise as a separate praise yet others see it as a duplicate.<br/>\nOne important thing I get from this data is that, this is not only a discussion for quantifiers, but really, for <strong>praise givers</strong>: how to phrase your praise so that <strong>the action has been done</strong> is clear, and <strong>the impact</strong> is understandable?</p>\n<ul>\n<li>Same event, more action description:\n<ul>\n<li>Example praise 1: <em>“for engaging and participating on the Orientation call! Amazing to have you here!” v.s. “for joining the orientation call”</em>\n</li>\n<li>Example praise 2: <em>“for recording ALL the calls <img alt=\":mechanical_arm:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mechanical_arm.png?v=10\" title=\":mechanical_arm:\"/>” v.s. “for recording and uploading all the calls behind the scenes”</em>\n</li>\n<li>Example praise 3: <em>“for joining the meeting that discussed extending the deadline to debate about proposals” v.s. for asking questions and participating in the Stewards debate call\"</em>\n</li>\n<li>Suggestion: additional action and quality of action should not be a duplicate, but a new praise but only evaluated with the additional part.</li>\n</ul>\n</li>\n<li>Praise the outcome v.s. the action:\n<ul>\n<li>Example praise: <em>“for a great AMA on bonding curves” v.s. “for hosting the ABC AMA”</em>\n</li>\n<li>Example praise: <em>“for his work on the params and parties” v.s. “for all the love you build at Param Parties”</em>\n</li>\n<li>Suggestion: for the praise giver side, encourage more praise giving with action description. for the quantifier, adding more description of action and effort should be counted as an additional part to evaluate the score. Vice versa: the additional praise for impact/outcome should be counted too.</li>\n</ul>\n</li>\n<li>Adding personal expression for the same action\n<ul>\n<li>Example praise: <em>“for the param parties poap. Such a pleasant surprise <img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=10\" title=\":slightly_smiling_face:\"/>” v.s. “for the param poap so cute​:smiling_face_with_three_hearts: im honored having it”</em>\n</li>\n<li>Suggestion: similiar as above – only evaluate the additional part.</li>\n</ul>\n</li>\n<li>Vague similiar expression:\n<ul>\n<li>Example praise 1: <em>“for all the work that they did on Commons Swarm this week” v.s. “for carrying the Commons Swarm forward”</em>\n</li>\n<li>Suggestion: i think it could be marked as duplicate…needs discussion?</li>\n</ul>\n</li>\n</ul>\n<h1>\n<a class=\"anchor\" href=\"#technical-part-data-processing-4\" name=\"technical-part-data-processing-4\"></a>Technical part: data processing</h1>\n<p>In the updated RAD dashboard analysis pipeline, we are able to generate 2 new tables: one table with all the praises that quantifiers have disagreement on whether to dismiss or not; another table with all the praises that quantifiers disagree on duplicate, with the “supposed duplication message” versus original message side by side so the reviewer can easily look at them.</p>\n<p>Then we need to figure out the categories of disagreement by our own judgment…if you have any thought on how to do more automated analysis on this, let us know!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082800",
+    "url": "https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-04-21T20:42:46Z",
+   "updated_at": "2022-04-21T20:42:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This is awesome analysis, Zhiwei. I was just thinking today about how we work you all to build praise training into the overall TEC community orientation process. This kind of analysis will be crucial in pointing us towards the clarity for good training. I can see this work playing a big role in a Praise FAQ too.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082800",
+    "url": "https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-04-24T15:32:27Z",
+   "updated_at": "2022-04-24T15:32:27Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"987\" data-username=\"zhiwei\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/z/bc79bd/40.png\" width=\"20\"/> zhiwei:</div>\n<blockquote>\n<p>If it’s the same person giving the same praise, dismiss.</p>\n</blockquote>\n</aside>\n<p>This is partially incorrect!</p>\n<p>We should dismiss praise only if it’s from the same person, on the same day and if the praise is written verbatim, exactly the same.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082800",
+    "url": "https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-04-27T20:59:57Z",
+   "updated_at": "2022-04-27T20:59:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Great breakdown! An additional suggestion/potential discussion point. If we’re unsure, let’s use the <a href=\"https://discord.com/channels/810180621930070088/932649711259766865\" rel=\"noopener nofollow ugc\">#quantifier-support</a> channel to ask/discuss. Better to get feedback and maybe consensus prior to the review call (which is usually pressed for time).</p>\n<p>Also, personally I would rather err on the side of giving more credit vs dismissing (or quantifying separately vs marking duplicate). I would like to be part of a community that risks giving people more credit than they deserve (via a higher quant), rather than risk taking away credit from valuable contributions (via giving a duplicate/dismissal).</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520082800",
+    "url": "https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520082800",
+   "url": "https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520082800",
+   "url": "https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987"
+  }
+ ]
+}

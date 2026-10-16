@@ -1,0 +1,108 @@
+{
+ "id": 175,
+ "title": "Gravity - Onboarding",
+ "slug": "gravity-onboarding",
+ "category_id": 10,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2020-12-18T20:14:46Z",
+ "last_archived_post_at": "2021-05-29T05:07:46Z",
+ "captured_between": [
+  "2021-03-03T02:14:40Z",
+  "2026-04-12T16:38:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2020-12-18T20:14:46Z",
+   "updated_at": "2021-08-06T15:21:34Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Conflict manager onboarding Epic: <a href=\"https://github.com/TECommons/coordination/issues/136\">https://github.com/TECommons/coordination/issues/136</a></p>\n<p>Gravity Onboarding process:</p>\n<p>An <a href=\"https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit?usp=sharing\">open and inclusive process</a> will be run Two times a year to include all the interested people in the training and selection of a group of mediators in the organization, who will also facilitate and train members of the collective in the various proactive and reactive participatory activities like practice groups, forum posts and Discord channels; giving feedback on policy and procedures for the relevant working groups as needed.</p>\n<p>What do we expect, and what is the training and selection process?</p>\n<p>Expectation: Improve the <a href=\"https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit#heading=h.c0rumpnarc97\">TEC code of conduct</a> Engage people in the Gravity <a href=\"https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit\">Working group</a>, relate them to its <a href=\"https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit#heading=h.4qr126s3qfr1\">manifesto</a>, the Soft Gov <a href=\"https://miro.com/welcomeonboard/WynOwXI4AgjZbN6wVRdUGfc6loa2lqEaYL4VMEg2ZBaqsiJD8T5lrkbw7Eq47bCz\">miro</a> board, and the application of rules and sanctions according to the Gravity process.</p>\n<p>Requirements: Assist at least to six sessions, agree to the code of conduct for mediators, show knowledge of ADR, NVC, the TEC and the Gravity processes.</p>\n<p>Postulation: All contributors in the TEC and related communities can apply to become mediators in their organization.</p>\n<p>Training: During 4-6 weeks</p>\n<p>Duration: 8-10 hours divided into 1 hour sessions:</p>\n<p>Study materials should be sent out before each session.</p>\n<p>Topics:</p>\n<p>Session 1: Theories of conflict, different perspectives</p>\n<p>Session 2: Spiral dynamics &amp; Nonviolent communication</p>\n<p>Session 3: Negotiation &amp; Alternative Dispute Resolution mechanisms</p>\n<p>Session 4: Practical case (individual conflicts)</p>\n<p>Session 5: Antifragility, Ostrom’s principles (CPRS)</p>\n<p>Session 6: Code of conduct for mediators, agreements of confidentiality</p>\n<p>Session 7: Gravity process deep dive (forms, graduated sanctions)</p>\n<p>Session 8: Practice case (group conflicts)</p>\n<p><strong> → If you know someone who you think would be a great facilitator on one of these topics, please reply, and also if you think there is something missing or that can be corrected.</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412163806",
+    "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Evo",
+   "name": null,
+   "created_at": "2021-05-15T09:20:44Z",
+   "updated_at": "2021-05-15T09:20:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Happy to see these competencies being actively developed in this community… Really great!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412163806",
+    "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "CurlyBracketEffect",
+   "name": null,
+   "created_at": "2021-05-29T05:07:46Z",
+   "updated_at": "2021-05-29T05:07:46Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I have felt a pull towards TEC for a few months now, after encountering some of the members on different occasions. Then I came across <a href=\"https://medium.com/token-engineering-commons/why-is-gravity-relevant-in-token-engineering-e28ae4a5b5a1\" rel=\"noopener nofollow ugc\">this article</a> which was linked by <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a> in the 1Hive forum, which then lead me here and I feel the Gravity pulling me even more now.</p>\n<p>I am going to snoop around in the forum and try and get up to speed, but this definitely sounds like something that I would be interested in taking. Only 3 sessions per year must mean I may have some time to get prepared, but also means there might be a backlog of people waiting to take it. <img alt=\":nerd_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/nerd_face.png?v=9\" title=\":nerd_face:\"/> …better get started then.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412163806",
+    "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303021440",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303021440",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624151947",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624151947",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928013902",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928013902",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260412163806",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260412163806",
+   "url": "https://forum.tecommons.org/t/gravity-onboarding/175"
+  }
+ ]
+}

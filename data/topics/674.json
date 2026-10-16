@@ -1,0 +1,127 @@
+{
+ "id": 674,
+ "title": "Snapshot Params",
+ "slug": "snapshot-params",
+ "category_id": 28,
+ "posts_count": 5,
+ "created_at": "2021-10-21T21:21:55.435Z",
+ "last_posted_at": "2021-11-01T18:31:28.221Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-11-01T18:31:28Z",
+ "captured_between": [
+  "2021-12-07T12:53:46Z",
+  "2021-12-07T12:53:46Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-21T21:21:55Z",
+   "updated_at": "2021-11-18T18:49:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#what-should-be-the-parameters-for-a-proposal-to-pass-on-snapshot-1\" name=\"what-should-be-the-parameters-for-a-proposal-to-pass-on-snapshot-1\"></a>What should be the parameters for a proposal to pass on Snapshot?</h3>\n<p><a href=\"https://snapshot.org/#/tecommons.eth\">Snapshot</a> is a token weighted voting tool going to be used for:</p>\n<ol>\n<li>Large impact cultural decisions</li>\n<li>Community signal</li>\n<li>Runoff votes (coming from crowd proposal making on Tokenlog)</li>\n</ol>\n<p>As of now, only TECH holders can submit proposals. We can’t program params into Snapshot (not that I know of), so the final results of each vote should be monitored by soft gov and transparency according to the params we choose.</p>\n<p>What do we need to know before submitting proposals?</p>\n<ul>\n<li>\n<p><strong>What is the support required? (the percentage of tokens that need to vote yes)</strong></p>\n</li>\n<li>\n<p><strong>What is the minimum quorum? (the percentage of all tokens from the total supply of TEC that must vote on a proposal in order for it to be valid <strong>OR</strong> The min number of individuals that need to vote)</strong></p>\n</li>\n<li>\n<p><strong>What is the vote duration? (How long the voting session stays open for? Is there a specific day of the week to submit proposals?)</strong></p>\n</li>\n</ul>\n<p>I’ll add a  few signal boxes below to help us start the conversation - Feel free comment other configs.</p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-max=\"2\" data-poll-min=\"1\" data-poll-name=\"poll\" data-poll-public=\"true\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"multiple\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"5b336c84db9237fa1f7b10ad76455c15\">88% like the hatch params</li>\n<li data-poll-option-id=\"53b47bf51949ed60bf17aa5a3c648542\">75% like we had in the early days of the Cultural Build</li>\n<li data-poll-option-id=\"b3b653f2d8263d6fa6040896bf0286e5\">51%</li>\n<li data-poll-option-id=\"d44ae8eadf1819301567b323d2ddf222\">something below 50 %</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll2\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"b62a56f73ea7783e18e1f34ef5d24095\">min quorum in % of the total token supply</li>\n<li data-poll-option-id=\"11254ae5990c8471d2cbdea8ec73ae90\">min quorum in an x number of individuals that must participate in voting</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll3\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"95912c0c2c6e01f3f2839ab39f99fc04\">4 days like the hatch params</li>\n<li data-poll-option-id=\"c476654d4c3cf395068e8654e8753197\">6 days</li>\n<li data-poll-option-id=\"6f98c8f5919019f53176cd375624d08f\">each proposer is free to select the vote duration of their proposal</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207125346",
+    "url": "https://forum.tecommons.org/t/snapshot-params/674"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-22T13:47:25Z",
+   "updated_at": "2021-10-22T13:47:25Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for doing that Livi! In my opinion regarding the treasury management, 51% with at least 10% quorum should be enough to execute a proposal to move funds I don’t think needs to be very high like TAO voting. I think it would be beneficial to see what kind of decisions are being made and may be on soft gov we could draft different types of parameters for different types of votes.</p>\n<p>Would that be a thing we should consider? <img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=10\" title=\":thinking:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207125346",
+    "url": "https://forum.tecommons.org/t/snapshot-params/674"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2021-10-22T16:05:47Z",
+   "updated_at": "2021-10-22T16:05:47Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks Livia! I voted for options that are similar with Hatch params because I think having consistent params across our different voting tools will make it easier for the community to get familiar with our voting process and avoid confusion (e.g. there’s the risk that they would miss some proposals if some voting periods are shorter than the others). After all, the decisions made around our cultural build are equally important as the decisions made related to funds IMO.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207125346",
+    "url": "https://forum.tecommons.org/t/snapshot-params/674"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-25T17:42:22Z",
+   "updated_at": "2021-10-25T17:42:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>having different params for different types of proposal on snapshot might be too confusing.</p>\n<p>What we can do is to have something specific for each use case - community signal/ cultural proposal/ runoff votes</p>\n<p>I like what Griff always says that having 49% of people unsatisfied and still pass a proposal it’s probably not a good idea.<br/>\nI don’t think this would happen often, but to give the chance for it to happen doesn’t feel like the best option for me. I would go for the 75% approval</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207125346",
+    "url": "https://forum.tecommons.org/t/snapshot-params/674"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "AshleyMaas",
+   "name": null,
+   "created_at": "2021-10-30T04:53:21Z",
+   "updated_at": "2021-10-30T04:53:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Interesting survey!)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207125346",
+    "url": "https://forum.tecommons.org/t/snapshot-params/674"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-11-01T18:31:28Z",
+   "updated_at": "2021-11-01T18:31:28Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>My rationale for my vote:<br/>\nI picked both 88% and 75% because I feel like it’s someplace in between there (like maybe 80%). Setting it high because I don’t want whales weighing in too heavily on cultural issues. But not too high so that we become blocked in making important decisions as a community.</p>\n<p>I think allowing proposal makers to determine the vote duration could be dangerous (example “1 day!”). I picked 6 because I think it’s hard to expect people to be tracking proposals all the time and we need to ensure enough time for folks to weigh in.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207125346",
+    "url": "https://forum.tecommons.org/t/snapshot-params/674"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211207125346",
+   "url": "https://forum.tecommons.org/t/snapshot-params/674"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207125346",
+   "url": "https://forum.tecommons.org/t/snapshot-params/674"
+  }
+ ]
+}

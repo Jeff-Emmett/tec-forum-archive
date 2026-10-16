@@ -1,0 +1,361 @@
+{
+ "id": 70,
+ "title": "Contribution Reward ⭐️",
+ "slug": "contribution-reward",
+ "category_id": 5,
+ "posts_count": 19,
+ "created_at": "2020-11-10T04:00:42.724Z",
+ "last_posted_at": "2021-02-16T16:28:09.620Z",
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "last_archived_post_at": "2021-02-16T16:28:09Z",
+ "captured_between": [
+  "2021-03-03T02:55:58Z",
+  "2023-05-30T09:00:07Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-11-10T04:00:42Z",
+   "updated_at": "2020-11-10T04:00:42Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Last week in <a href=\"https://discord.gg/fCudcBF\" rel=\"noopener nofollow ugc\">soft gov</a> we started to look at alternative contribution reward systems.</p>\n<p><strong>Praise has been working great</strong> (!) and I haven’t seen a more encompassing reward method so far (praise to <a class=\"mention\" href=\"/u/griff\">@Griff</a> for that). The problem is that every week, more and more work happens, more enthusiastic collaborators join and more praise is dished, what an awesome problem to have!</p>\n<p>Here we face a few challenges:</p>\n<p><strong>1- Scalability</strong>: Every two weeks, praise is manually quantified by Griff and I, this process currently takes around 2 hours.</p>\n<p><strong>2- Automation:</strong> The cultural build impact hours will turn into vested TEC tokens right after the Hatch, but we don’t have a process for how the impact hours would be distributed as tokens once the Commons is running.</p>\n<p><strong>3- Centralization:</strong> Praise is subjectively quantified and there are a few barriers for this role to be easily rotative. The 2 or more people quantifying should be aware of mostly everyone participating and of everything happening in the system - otherwise we would need a barrier for who is allowed to dish to maximize trust, which may end on less important things being praised and we don’t want that.</p>\n<p><a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> started a document called <a href=\"https://docs.google.com/document/d/16fZG4QJycKDTGrJAKWT-caflBE3g53o1L2k64ztIlZM/edit?userstoinvite=liviaieaou%40gmail.com&amp;ts=5f9a0367&amp;actionButton=1\" rel=\"noopener nofollow ugc\">Contributions, Rewards System &amp; Roles Research &amp; Ideas</a> - We went over it on the last <a href=\"https://lbry.tv/@TokenEngineeringCommons:8/soft-gov-wg-automated-reward-system:6\" rel=\"noopener nofollow ugc\">soft gov call</a> and decided to experiment with SourceCred following 1hive steps towards a more automated system to co-exist with Praise.</p>\n<p>In parallel to this investigation, Eli,Jonas and Dulce from the <a href=\"https://discord.gg/Dghhuer\" rel=\"noopener nofollow ugc\">onboarding working group</a>, started to think about <a href=\"https://docs.google.com/document/d/1jGJlLisb3ZcFz-4amkgjjnh5GobLJnGeHNZx7gqK8Zo/edit#\" rel=\"noopener nofollow ugc\">a praise 2.0 or a credit system</a>. They mapped an initial structure for how this would look like and left an open invitation for more brainstorming to happen!</p>\n<p><img alt=\":eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/eyes.png?v=9\" title=\":eyes:\"/> Jump into <a href=\"https://github.com/TECommons/coordination/issues/37\" rel=\"noopener nofollow ugc\">this issue</a> if you want to help the SourceCred implementation to move forward <img alt=\":dash:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dash.png?v=9\" title=\":dash:\"/></p>\n<p>And please <strong>add your thoughts to solutions</strong> for this praise dilemma <img alt=\":grin:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grin.png?v=9\" title=\":grin:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-11-10T04:03:07Z",
+   "updated_at": "2020-11-10T04:03:07Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>COMMENTS FROM FABIAN - from the “Contributions, Rewards System &amp; Roles Research &amp; Ideas” doc</p>\n<p>I believe to establish what is praiseworthy is problematic, as you can never get it right, no matter how much effort you put into it, and thus its liable to upset people and getting gamed. Plus put unreasonable pressure on the people who evaluate what is praiseworthy, or how much.</p>\n<p>1st: Use a Flattr based approach, where each individual has one voice, and can distribute points subjectively. a like universally for what is appreciated, or proportional distribution where one event may get 2 points and another 500. This is subjective among each individual, and it only matters about the final relative distribution. So if I distribute 10 single likes, everyone gets 10%, whereas if I put 500 points on a individual from a total of 1000, then that individual would enjoy 50% of my weight</p>\n<p>2nd: Use relative distribution among peers, where one assigns a weight among their peers, as to who’s voice should count more. People who are heavily involved will likely enjoy more weight, based on how the community experiences this. This is essentially page-rank, where the weight of one who is highly recognized will enjoy a heavier weight in recognizing others, which might be appropriate.</p>\n<p>3rd: to prevent sybill attacks, where one generates a 1000 accounts, there you can isolate clusters, if they aren’t valued by others and only ‘upvote’ or praise each other. This is more of a downstream concern, so for now its more of a placeholder, just so you know there is a way to deal with this, as things scale up and potentially distortion becomes more likely or possible, as it eventually is likely to attract more and more intention, and thus self-favouring behaviour needs to be immunized.</p>\n<p>Just some thoughts based on the parts that I caught, and such a, ‘plus’ scheme would be quite simple, as its only about giving on or multiple likes, so its fairly intuitive and manageable, that’s why I advocate it. Plus it puts the evaluation in the hand of each individual in a manner which is delegating authority and responsibility (sovereignty) down to the indvidual who has a nervous system and is actually able to experience value</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-11-13T23:34:53Z",
+   "updated_at": "2020-11-13T23:34:53Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Quick Update:<br/>\n<a class=\"mention\" href=\"/u/santigs\">@santigs</a> and Mateo are going full power on the SourceCred implementation issue!!<br/>\nComments about their process are being added to Github <a href=\"https://github.com/TECommons/coordination/issues/37\" rel=\"noopener nofollow ugc\">https://github.com/TECommons/coordination/issues/37</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-11-30T15:00:23Z",
+   "updated_at": "2020-11-30T15:14:28Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a> and <a class=\"mention\" href=\"/u/santigs\">@santigs</a> gifted us with a <a href=\"https://tecommons.github.io/tec-sourcecred/#/explorer\" rel=\"noopener nofollow ugc\">TEC SourceCred!</a></p>\n<p>We discussed the next steps in our last Soft Gov call and to move forward we need a focused work session to:</p>\n<ul>\n<li>Decide the parameters from the initial baseline.</li>\n</ul>\n<ul>\n<li>Decide how and how much we are rewarding from praise and from SourceCred so there is no double rewards.</li>\n</ul>\n<ul>\n<li>Think of sanctions for abuse of the system and draft a social contract/conditions notice for everyone who joins.</li>\n<li>Explore BrightID implementation.</li>\n</ul>\n<ul>\n<li>Explore best ways to mix praise+ SourceCred</li>\n<li>Have a minimum viable solution to experiment for a few weeks before launching.</li>\n</ul>\n<p>Are you reading this and feel the calling to schedule this worksession? <img alt=\":relaxed:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/relaxed.png?v=9\" title=\":relaxed:\"/> <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=9\" title=\":pray:\"/><br/>\nWe are coordinating in <a href=\"https://github.com/TECommons/coordination/issues/37\" rel=\"noopener nofollow ugc\">this issue.</a><br/>\nPlease add comments/suggestions about the topics above <img alt=\":sunny:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunny.png?v=9\" title=\":sunny:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-11-30T15:45:39Z",
+   "updated_at": "2020-11-30T15:45:39Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>i personally think sourcecred encourages a lot of “team play” for the rewards, and haven’t seen a clear solution to all possible scenarios, i like the praise system more evethough less people get to decide what’s worth and what’s not, i would like a system in which the people “dishing praise” can be voted on maybe, and also get rewarded just for deciding what’s worth a praise.<br/>\n(i’m sorry i could make this post more organized and will if i find the time, but prefer to say something at least instead of nothing)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-12-03T16:18:36Z",
+   "updated_at": "2020-12-03T16:18:36Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>We will start testing SourceCrec after we have deployed our own instance.<br/>\nWe will be fetching activity from Discord, this forum, and Github, so we need some user’s handles to consolidate all three services activity into one account for each user.<br/>\nWe encourage those wanting to see how we test with SourceCred to provide us with their account names filling the corresponding cells of this <a href=\"https://docs.google.com/spreadsheets/d/1DRSPA9RwuTM4UCtFLF7UYq-ORZxItmy9y7XROmiXpbM/edit#gid=0\" rel=\"noopener nofollow ugc\">spreadsheet</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "cranders1",
+   "name": null,
+   "created_at": "2020-12-04T01:38:00Z",
+   "updated_at": "2020-12-04T01:38:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>done <img alt=\":heart_eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart_eyes.png?v=9\" title=\":heart_eyes:\"/>thnx <a class=\"mention\" href=\"/u/santigs\">@santigs</a> <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "eeli",
+   "name": null,
+   "created_at": "2020-12-04T22:44:59Z",
+   "updated_at": "2020-12-04T22:47:48Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<ol>\n<li>\n<p>I think a hybrid approach has some advantages.  I think the biggest potential pitfall from SourceCred is to dilute contributions with a lot of cred being minted from Discord.  We already have a rich chat environment, and if we’re trying to use this to steer the community, I would say that this is certainly not a top priority.</p>\n</li>\n<li>\n<p>I envision transitioning praise such that it is maintained on SourceCred.  They themselves have a “props” system, which acts similar to praise.  With more reactions and emojis, that contribution  gets minted more cred.  <em>I feel <strong>strongly</strong> that our approach of having some rough measure of what contributions are worth is a better system for us</em>.  Upvotes or emojis should not scale the cred score, but scale the <strong>trust</strong> that it’s a legitimate contribution.</p>\n</li>\n</ol>\n<p>There’s a lot to unpack here, I just want to throw this out sooner than later.<br/>\nAs a quick example, Alice might be doing <strong>great</strong> work, but is shy and only connects with Bob.  The fact that only Bob would upvote her contribution certainly does not mean it’s less valuable than someone else’s work that got 30x the upvotes because they are more connected.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2020-12-07T21:03:40Z",
+   "updated_at": "2020-12-07T21:03:40Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Yes! There’s a lot of subjectivity so it’s really hard to automate the whole problem. I believe SourceCred will help a lot though, I love what you mention about scale the trust instead.</p>\n<p>I believe time will allow us to know the middle ground on how to measure value the proper way for our particular problem.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "eeli",
+   "name": null,
+   "created_at": "2020-12-10T14:32:43Z",
+   "updated_at": "2020-12-10T14:32:43Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><img alt=\":face_with_monocle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/face_with_monocle.png?v=9\" title=\":face_with_monocle:\"/> I had a very exciting idea this morning for bridging TE’s praise system onto SourceCred, but want to get feedback before progressing any further:</p>\n<p>The magic of TE’s praise system is that you can quantify the value (impact hours) of any contribution.  The magic of SC is that it’s automated/scalable and slightly more decentralized, but it currently lacks the ability for communities to specify what’s valuable to <strong>them</strong> outside of the plugins (and the props channel, which can fall into  popularity contest dynamics).</p>\n<p><strong>I was imagining a praise channel on discord where different emojis corresponded to different contribution types (impact hour tiers).  Rather than mint more cred for popularity (number of reactions), the emojis would signal trust that this contribution is of a certain tier.  To receive the cred of that tier, that post would need to receive some minimum trust.</strong></p>\n<p>In the example I gave previously, Alice’s great work only needs to be seen/praised by Bob, and then the rest of the community (if they trust Bob) can trust this.</p>\n<p>(P.S. Yes, Sybil attacks, I know, but let’s brainstorm before going into problem solving mode.)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2020-12-10T15:28:57Z",
+   "updated_at": "2020-12-10T15:28:57Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Love it! We could avoid sybil attacks by making a little human verification on the discord entrance, some other channels ask a simple math question for example. And after that I think we could use specific emojis for different kind of praise, no need to leave it only for a certain channel <img alt=\":eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/eyes.png?v=9\" title=\":eyes:\"/></p>\n<p>Let’s keep discussing it!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "eeli",
+   "name": null,
+   "created_at": "2020-12-10T15:59:58Z",
+   "updated_at": "2020-12-10T15:59:58Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Glad to hear that!  It hit me that TE’s praise (intentionally or not) has been operating out of a brilliant scheme.  Specifically, we can think of Liv and Griff as “super-trusted” community members.  Because of this, we don’t need any complication cryptoeconomics for voting or attacks.  I suggest that we set the trust threshold very low (2-3 votes) as long as they come from a select group of “super-trusted” users.  We can progressively decentralize with more trusted users.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-12-11T11:31:41Z",
+   "updated_at": "2020-12-11T11:31:41Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This is similar to the “Check In” channel 1hive had a couple of months ago. Basically every user who wanted was posting what they had done during the past day or days and the rest of the users if wanted added emojis. Initially is a good idea but I still see some potential issues:</p>\n<ul>\n<li>If a user forgets or just doesn’t post what he/she did in the channel, it will not get any reward.</li>\n<li>A user may post every single action and ask his/her friends to vote and get a lot of rewards</li>\n</ul>\n<p>We would need to add additional checks as max votes per user per message or use some machine learning to try to fight users gaming the system. SourceCred is a great tool but there are many easy ways to game it. I believe we will have to test the tool for quite a while before even distributing any cred, so we can analyze behavior and set the initial parameters the best way.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "eeli",
+   "name": null,
+   "created_at": "2020-12-11T14:41:45Z",
+   "updated_at": "2020-12-11T14:41:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Strongly agree that we certainly don’t want to follow in those footsteps.  From your feedback, I think there are some low hanging things we could tweak that could make a major improvement on their model:</p>\n<ol>\n<li>We could ditch self-reporting entirely and continue to only rely on praise (I think there’s utility in it’s ability to aggregate information across the system, but the concerns you brought up definitely outweigh missing a few contributions here and there).</li>\n<li>Only trust from “super-trusted” users like Livia, Angela, Griff, etc. could count towards that post’s cred.  (The SourceCred plugin has access to channel and user id’s, so we can know who reaction and with what emoji.)  I suggest we be <em>very</em> stingy with trust, and <em>very</em> slowly expand the circle of trust outwards.</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-01-14T18:56:44Z",
+   "updated_at": "2021-01-14T18:56:44Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Based on our last <a href=\"https://www.youtube.com/watch?v=8-8w5ZdQMtM\">Soft Gov call</a> where <a class=\"mention\" href=\"/u/santigs\">@santigs</a> shared Source Cred progress, two main questions came up to guide our next steps.</p>\n<ol>\n<li>How do we want to reward what is being tracked by Source Cred?</li>\n</ol>\n<ul>\n<li>Distributing TEC tokens through the Source Cred instance?</li>\n<li>dishing praise to each person according to their Source Cred Score?</li>\n<li>Creating a template for people to request Source Cred rewards in the Commons?</li>\n<li>Please share other ideas <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/>\n</li>\n</ul>\n<ol start=\"2\">\n<li>How can we understand as a collective what to use praise for and what is already being accounted by Source Cred?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2021-01-14T19:37:30Z",
+   "updated_at": "2021-01-14T19:37:30Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>One of the reasons to test SourceCred is to show up how the contribution is tracked in Github and this Forum. We are about to test the first distribution with fake tokens to see how contribution gets rewarded. I encourage you to check the data we will be sharing and post any questions you may have so everyone has a clear understanding of the way the system works before we all vote on when to implement it.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/4cec8df250a56a8970ba6a3dbc592e20457234fd\" href=\"https://forum.tecommons.org/uploads/default/original/1X/4cec8df250a56a8970ba6a3dbc592e20457234fd.png\" title=\"SourceCred\"><img alt=\"SourceCred\" data-base62-sha1=\"aYv6pq5tvtk8OPTyjrSsM26mWHX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4cec8df250a56a8970ba6a3dbc592e20457234fd_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4cec8df250a56a8970ba6a3dbc592e20457234fd_2_293x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4cec8df250a56a8970ba6a3dbc592e20457234fd_2_293x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/4cec8df250a56a8970ba6a3dbc592e20457234fd_2_439x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/4cec8df250a56a8970ba6a3dbc592e20457234fd_2_586x1000.png 2x\" width=\"293\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">SourceCred</span><span class=\"informations\">763×1298 52.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-01-30T18:27:03Z",
+   "updated_at": "2021-01-30T18:27:03Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I was thinking an interesting idea for the contributions acknowledged its to have an internal statistic of every WG and if it reflects the work done well, but if some WG is not dishing praise enough we would have that objective opinion</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-31T04:14:58Z",
+   "updated_at": "2021-01-31T04:14:58Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> -  I love this idea. It’s like the UN’s SDG’s. Each WG gets a metric to optimize. Correlation analysis becomes available between sourcecred instances and increase in this metric (with a time lag).</p>\n<p>Reference - SDG targets, metrics, and indicators:<br/>\n</p><aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/2437a3565d4af5e623f7357d924b8149fa216468.png\" width=\"32\"/>\n<a href=\"https://unstats.un.org/sdgapi/swagger/\" rel=\"noopener nofollow ugc\" target=\"_blank\">unstats.un.org</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail\" height=\"\" src=\"\" width=\"\"/>\n<h3><a href=\"https://unstats.un.org/sdgapi/swagger/\" rel=\"noopener nofollow ugc\" target=\"_blank\">UNSD SDGs API</a></h3>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-02-12T06:42:20Z",
+   "updated_at": "2021-02-12T23:53:42Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>So, I just wanted to throw my thoughts into the mix about the subject of SourceCred.</p>\n<p>Side-Note: <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>…You sent me down the UN path…and I am extremely glad you did…I am really impressed with the approach the UN has taken with their SDG’s and specifically with the <a href=\"https://unpan.un.org/home/members\" rel=\"noopener nofollow ugc\">Public Administration Network</a> structures. I cant believe I haven’t looked at the UN structure more closely.  (I am attempting to write on the similarities/differences between The Public Administration Network and the Token Engineering Commons as two distinct approaches toward the creation of an <em>Intellectual Commons</em>)</p>\n<p>Anyway, back to the subject of the Contribution Reward.</p>\n<p>In my opinion, the purpose of the Contribution Reward is to reward members for the execution of functions within the TEC.</p>\n<p>The use of SourceCred as an objective method for quantifying every individual contribution, big or small, is an extremely difficult task and one that has significant limitations as described by others above.  I also think that attempting to build a perfect SourceCred system from the get-go is not important.  It should be utilized in a way that works within our current setup, and achieves the functions it is designed to accomplish.</p>\n<p>While every one of us who has commented on this post has provided value to the overall discourse of how we implement SourceCred, such recognition makes very little difference to the motivations of why we are here.  Maybe one day in the future we will develop a system to quantify how much Cred is deserved between my post, and <span class=\"mention\">@ygganderson</span>’s post, and between our collective posts and Santi actually developing it.</p>\n<p>I had to ask myself, what is the difference between Cred and Praise, really?<br/>\nAnd perhaps there are no differences.  Except a language one.</p>\n<p><strong>Praise:</strong> There is a cultural value to the use of praise.  It’s become an unusual and effective method for the cultural build of the TEC.  I propose we maintain the use of of the term Praise even if we get rid of our current system of praise. (Cred=Praise)</p>\n<p>Honestly I really like how cavalier we are with our use of praise.  Praise Everything!!! I think this scales as well.  Naturally, larger contributions and more quality contributions will on average receive more praise, while small contributions and broad ideas will receive less.</p>\n<p>The act of praise should be universal and encouraged, and not restricted by excessive rules.  The ability to game the system becomes rather difficult if we can create a system around it that incentivizes the creation of intrinsic motivations (<em>around</em> access rights) rather than extrinsic motivations (distribution of Grain) through the categorization of individuals holding Cred.</p>\n<p>Example</p>\n<p>We can have a Community Grain Distribution, where only a small amount of the Grain Budget is committed for general distribution.</p>\n<p>Praise (Cred) Classes.<br/>\nHolders with 100 - 500 praises (Cred) each share 10% of General Grain distribution<br/>\nHolders with 500-1000 praises each share 20% of General Grain distribution<br/>\nHolders with 1000 - 3000 praises each share 30% of General Grain distribution<br/>\nHolders with 3000-6000 praises each share 40% of General Grain distribution</p>\n<p>When classes become impacted, they can be restructured.  As an additional benefit, we can integrate these classes of Cred earnings as a method for other forms of intrinsic motivation to be created.</p>\n<p>Perhaps granting individuals with praise in a certain range the title of Steward, or Fellow, or Lead, etc…and whose titles come with unique responsibilities, access, and roles within the administrative structure of the TEC.  Stewards can lead WG’s; Fellows can lead subWGs; Leads can participate in WG’s or serve on a Committee or a Task Force for example. (However the administrative structure is differentiated, you can grant special forms of authority/access over the work being executed within the TEC – all through a system of praise.  There is also very little incentive to game this system.</p>\n<p>Operating in parallel we can have a separate instance of SourceCred that rewards the execution of the goals and functions of the TEC.  Where each working group assigns Cred allocations for each type of task, and members can execute on them, receiving a proportional amount of Grain when distribution occurs.   This requires significant focus around planning/budgeting processes.</p>\n<p>The administrative costs for the system is in fact the problem.  Keeping track of praise via spreadsheet is troublesome.  Automating this system should be the priority.  The only solution I see is one that will require the integration of an identity system (I really like BrightID), but perhaps 3box may be a more pragmatic solution at the present – and of course the implementation of SourceCred itself.</p>\n<p>Integrating Identification, and tokenizing praise is a big task…but like the development of any CPR Setting, we must be willing to fund the required infrastructures necessary for these things to exist.  Is Praise worth maintaining…is it worth the cost of such development…I know it is.</p>\n<p>By maintaining a system of praise, we offer a method for intrinsic motivation to be created through the <strong>opportunities</strong> granted by earning praise.  The “objectiveness” of a single unit of praise is irrelevant in the aggregate if we establish norms and traditions around its use, and maintain the current attitude towards distributing it.</p>\n<p>Of course my thoughts on this system are obviously post-hatch.</p>\n<p>Annnnnywhoooo, those are me thoughts. <img alt=\":upside_down_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/upside_down_face.png?v=9\" title=\":upside_down_face:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-02-16T16:28:09Z",
+   "updated_at": "2021-02-16T16:28:09Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>awesome insights Nate! thanks for sharing your thoughts. Yesterday <a class=\"mention\" href=\"/u/santigs\">@santigs</a> <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a> and I had a great talk about the next steps for SourceCred and I also thought of how we could unite praise and cred. One of our biggest challenges now is the distribution post hatch. Many of the solutions we’ve come up with involve someone in charge of someone else’s rewards since one proposal can’t distribute to multiple addresses. This is a big fragility point. So I thought if we could use the SourceCred engine for distributing IH in the form of tokens it would be so great!</p>\n<p>Now reading your Praise (Cred) Classes you’re suggesting an automated praise quantification right? I’m afraid cutting the manual quantification would kill the qualitative weight at all. Which is hard to exist without the human touch for now and could be easily gamified. What we could do is substitute praise for Impact Hours in your chart and distribute TEC tokens accordingly. I agree scaling the praise quantification is a big issue, but perhaps we can fractalize it instead of automating.</p>\n<p>I’m curious how do you see the identity integration working?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090007",
+    "url": "https://forum.tecommons.org/t/contribution-reward/70"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303025558",
+   "url": "https://forum.tecommons.org/t/contribution-reward/70"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303025558",
+   "url": "https://forum.tecommons.org/t/contribution-reward/70"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530090007",
+   "url": "https://forum.tecommons.org/t/contribution-reward/70"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530090007",
+   "url": "https://forum.tecommons.org/t/contribution-reward/70"
+  }
+ ]
+}

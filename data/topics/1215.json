@@ -1,0 +1,231 @@
+{
+ "id": 1215,
+ "title": "Engineering Praise for Twitter",
+ "slug": "engineering-praise-for-twitter",
+ "category_id": 7,
+ "tags": [
+  "advice-process",
+  "rewards-wg"
+ ],
+ "posts_count": 11,
+ "total_known": true,
+ "archived_posts": 12,
+ "archived_numbers": 12,
+ "created_at": "2023-03-08T19:39:09Z",
+ "last_archived_post_at": "2023-03-27T22:06:13Z",
+ "captured_between": [
+  "2023-03-28T21:01:52Z",
+  "2023-04-01T00:34:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2023-03-08T19:39:09Z",
+   "updated_at": "2023-03-17T20:03:28Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>The TEC has benefited greatly from being the community that built, tested and launched the first iteration of the Praise rewards system. Since then we’ve seen it grow up all on its own - now with about 10 awesome communities using Praise. If you’re not sure what Praise is you can <a href=\"https://givepraise.xyz\">check out their website</a>. Building off our knowledge and expertise in the Rewards WG, I believe it’s time to take our reward system to the next level. <img alt=\":arrow_double_up:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_double_up.png?v=10\" title=\":arrow_double_up:\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#problem-1\" name=\"problem-1\"></a>Problem</h2>\n<p>While facilitating the last year and half’s worth of praise and praise rewards, the rewards team would like to address a few concerns:</p>\n<ul>\n<li>Gradual decline of praise activity/activity in general in the TEC discord server.</li>\n<li>Technical limitations of using praise in Discord to reward external TE value creation.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#proposed-solution-2\" name=\"proposed-solution-2\"></a>Proposed Solution</h2>\n<p>We are excited to propose a new project that will enhance the existing Praise system in the TEC community by building an open-source integration for Praise that allows it to be dished through Twitter. <img alt=\":bird:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/bird.png?v=10\" title=\":bird:\"/> <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>\n<p>For better or worse, the majority of the crypto community interacts through Twitter. Having observed the onboarding and reward distribution hurdles with having our praise powers limited to only our humble Discord server we set out for ways to make ourselves more outward facing rather than internal.</p>\n<p>This project aims to build a Twitter bot that the TEC can use to give praise to anyone on Twitter creating value for the TE field. The bot will handle parsing information from praise tweets and add it to the TEC’s existing praise database. From there it enters into our regular quantification process and turns into $TEC rewards for contributors not only in the TEC but a broader reach of TE pioneers.</p>\n<p>The Rewards WG is seeking funding to develop and launch this project to benefit the TEC community as well as enhance the Praise system as a whole with this open-source module.</p>\n<h2>\n<a class=\"anchor\" href=\"#goals-3\" name=\"goals-3\"></a>Goals</h2>\n<p>The primary goal of this project is to expand the influence of theTEC community by integrating the TEC Praise system with Twitter. The project aims to enable registered community members to give praise via Twitter to any Twitter user and ensure that this praise is captured in the community’s existing praise database. By doing so, the project will make the Praise system more accessible and inclusive to a wider range of TE contributors.</p>\n<p>In a dream world this might be the first of many platform integrations for Praise. What could be next? Reddit? Lens? EPNS? <img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=10\" title=\":thinking:\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#benefits-to-the-tec-4\" name=\"benefits-to-the-tec-4\"></a>Benefits to the TEC</h2>\n<p>As mentioned, we hope to cast a wider net in terms acknowledging and rewarding Token Engineering activity and contributions; allowing Praise to happen on Twitter effectively permits us to acknowledge and reward people without requiring them to be in a specific Discord server. It also allows praise to be much more visible to the wider TE community, inspiring others to join the discussion or Praise other work they want to acknowledge, generating a virtuous cycle of Praise and contributions.</p>\n<p>This is also a great chance to get back in the BUIDL saddle <img alt=\":cowboy_hat_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/cowboy_hat_face.png?v=10\" title=\":cowboy_hat_face:\"/>  and create a first-of-its-kind product that will bring back attention to the TEC and set eyes upon the work we are doing and the ingenuity of our Commons. We built a lot of great things back in 2021 (omg I’ve been here this long! <img alt=\":exploding_head:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/exploding_head.png?v=10\" title=\":exploding_head:\"/> ) and I think it’s time we take another crack at it.</p>\n<p>Lastly, this will also allow for a better distribution mechanism for the $TEC. By allowing us to reward Token Engineers all over the metaverse, not just those active in Discord, we can make them shareholders in the TEC and bring attention back to our token economy. <img alt=\":money_with_wings:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/money_with_wings.png?v=10\" title=\":money_with_wings:\"/></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"rROJPaIVvjy3eyrQcHQEm5MyfaX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3_2_10x10.png\" height=\"333\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3_2_517x333.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3_2_517x333.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3_2_775x499.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/c3501bdc6c716c2df1d79dc636c4e3ea0e1c5eb3.jpeg 2x\" width=\"517\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">775×500 68.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h2>\n<a class=\"anchor\" href=\"#funding-request-5\" name=\"funding-request-5\"></a>Funding Request</h2>\n<p>We are requesting a total of <strong>20,000 DAI</strong> in funding to develop and launch the TEC Twitter Praise Bot project. This funding will cover the costs of backend and frontend development, database engineering, QA testing, and DevOps. We estimate that the project will take <strong>~3 months</strong> to complete assuming certain workflows can be developed and tested concurrently.</p>\n<h2>\n<a class=\"anchor\" href=\"#project-timeline-6\" name=\"project-timeline-6\"></a>Project Timeline</h2>\n<p>The project timeline will consist of the following stages:</p>\n<ol>\n<li>Development Planning: 2 weeks</li>\n<li>Registration process for Praise givers and receivers: 3 weeks</li>\n<li>Bot Development: 5 weeks</li>\n<li>Integrating with an existing praise database: 2-3 weeks</li>\n<li>QA testing: 2 weeks</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#project-leadership-7\" name=\"project-leadership-7\"></a>Project Leadership</h2>\n<p>The TEC Twitter Praise Bot project will be led by myself, Mitch and <a class=\"mention\" href=\"/u/maxwe11\">@Maxwe11</a>, both of whom are on the Reward Board. I have led the Rewards WG for about a year and am fairly knowledgeable on the Praise system, having helped draft Praise’s initial spec and leading the testing and quantification process in the TEC since its inception. Maxwe11 has a development background, is a steadfast participant in the Rewards WG and initially raised the idea of expanding the Praise system to another platform.</p>\n<h2>\n<a class=\"anchor\" href=\"#conclusion-8\" name=\"conclusion-8\"></a>Conclusion</h2>\n<p>In summary, the TEC Twitter Praise Bot project aims to integrate the Praise system with Twitter by building a bot that captures praise dished on twitter and incorporates them into our reward system. The primary benefits for the TEC include expanding the Praise system’s reach and visibility beyond Discord, rewarding a broader range of TE contributors, and creating a valuable open-source integration that can be forked and used by any community that embraces Praise.</p>\n<p><strong>If you would like more info you can find a more <a href=\"https://giveth.notion.site/TEC-Twitter-Praise-Bot-e10b5f3b5e6542ab84f02a9d1427af04\">technical specification here</a>.</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-03-09T11:49:22Z",
+   "updated_at": "2023-03-09T11:49:22Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for this proposal Mitch!<br/>\nI love that this feature is finally about to take off and it’s very clear how impactful it can be.</p>\n<p>I have a question around funding. Since General Magic owns Praise as a for profit product and this feature will likely be used by other communities using Praise; could costs be split somehow? Or perhaps TEC could have a percentage of gain derived from Praise for x period of time?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2023-03-09T15:04:52Z",
+   "updated_at": "2023-03-09T19:19:52Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Good point on the funding - AFAIK while General Magic operates as a for-profit service DAO the Praise product in itself isn’t yet profitable.</p>\n<p>Currently they are not charging new communities to have their own praise deployment and with the recent push for reputation tokens among DAOs I’m not sure of their monetization strategy. Alas, I’m not here to criticize their biz-dev strategy but to say that it would be a tough sell I think to ask for a cut of Praise profits…</p>\n<p>BUT I think you have a valid point - I’ll take some time to investigate other communities currently using praise and maybe there is a way to collectively fund a Twitter Praise.</p>\n<p>Also, I did briefly touch on this, but depending on the success of this first integration I would envision we can tap into some grants programs for protocols like Lens and EPNS to build subsequent integrations .</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-09T20:15:48Z",
+   "updated_at": "2023-03-09T20:15:48Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The things I really like about this:</p>\n<ul>\n<li>Recognizing contributions to the field of TE rather than just work done for the TEC</li>\n<li>Shifting the focus outward beyond the TEC Discord</li>\n<li>Bringing more TE expertise into the governance of the commons</li>\n<li>Broadening engagement onto Twitter</li>\n</ul>\n<p>My concerns are:</p>\n<ol>\n<li>Using the commons to fund a for-profit firm’s product - even if it’s not profitable yet (Livia’s point)</li>\n<li>Quantifying contributions to the field of token engineering will be way more nuanced than contributions of work in the TEC. To be at all accurate/valuable, it requires seasoned quantifiers with practical expertise and these people are <em>extremely</em> busy. How will quantification actually work?</li>\n<li>Recognizing these contributions with money seems to miss the real motivations people have. I think peer recognition is a far more powerful driver - especially within this group of people.</li>\n<li>I’m assuming that the 20K DAI doesn’t include the ongoing cost of the rewards. How would that be funded and how do we ensure the amount isn’t laughably small - especially for TE practitioners who tend to make a fair amount of money.</li>\n</ol>\n<p>For these reasons, I think something like this would be much more interesting to implement something like this as some sort of non-transferable reputation token without monetary value. With some work, we could use that reputation to boost governance signals within the commons. It would probably resonate better with actual intrinsic motivations, and it wouldn’t be an ongoing drain on the Common Pool.</p>\n<p>Don’t get me wrong: I think there is something interesting here – I just think it has more to do with recognizing TE reputation. Is there a path to tweaking this for the new reputation capabilities of Praise?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2023-03-09T21:01:29Z",
+   "updated_at": "2023-03-09T21:01:29Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for reply,</p>\n<p>I’ll respond to your points in order:</p>\n<h3>\n<a class=\"anchor\" href=\"#point-1-1\" name=\"point-1-1\"></a>Point 1</h3>\n<p>I wouldn’t think of this as funding a for-profit firm’s product. I think that’s an overstatement and you’re missing some key points I made above.  We’re building our own open-source module that can fit into the Praise as a protocol.</p>\n<p>For example, would you say that paying to develop a Discord bot, is paying for the funding of Discord itself? Probably not, but you’re building something you see as valuable for your community on top of an existing product/app/protocol and making it open-source allows for other communities to tap into that innovation as well.</p>\n<h3>\n<a class=\"anchor\" href=\"#point-2-2\" name=\"point-2-2\"></a>Point 2</h3>\n<p>I would be interested in onboarding Quantifiers with better TE knowledge, however we have not had too much trouble with quantification in the last year and half. I think if TEC is the schelling point for TE then shouldn’t our community members be apt enough to handle the quantification process for TE contributions? To further your point, I also think it could be valuable to onboard TEA members into our quantification pool given our current progress towards a closer relationship with them.</p>\n<p>As a clarification the praise dished on Twitter is aggregated into our normal quantification process so there would be no overhead of having to setup a separate system apart from the one that is already functioning.</p>\n<h3>\n<a class=\"anchor\" href=\"#point-3-3\" name=\"point-3-3\"></a>Point 3</h3>\n<p>Calling the $TEC money is not quite accurate. It’s a token that can be sold for “money” but it is not money.</p>\n<p>To make a broader point, selling $TEC I think is a symptom of the perception of the Commons and the token’s utility. For a token holder, if the fiscal return of selling a token at a given moment is greater than their perceived future value and current/future utility of the token then the rational <em>economic</em> action is to sell.</p>\n<p><strong>That being said</strong> - whether we distribute rewards in $TEC or some other future reputation token can definitely be taken as a separate issue and can be abstracted from this proposal if it’s a barrier for moving forward.</p>\n<h3>\n<a class=\"anchor\" href=\"#point-4-4\" name=\"point-4-4\"></a>Point 4</h3>\n<p>We do have about $18k in xDAI still sitting in our Rewards treasury. Given the point I made relating to not comparing this to “paying Token Engineers” I’m not sure if this argument applies the same. However we do have some budget in Rewards that we can use to keep funding $TEC Rewards for well into the future according to our current parameters.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2023-03-10T19:23:54Z",
+   "updated_at": "2023-03-10T19:23:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Agree with Mitch’s points above. To expand on <span class=\"hashtag\">#3</span> (and touching on the others), I don’t think anyone’s primary driver with regards to Praise rewards is monetary. At this point, Praise rewards are often measured in Cents rather than Dollars, and might buy a coffee here and there. I think peer recognition is absolutely the point here, and whether we do that with $TEC or some other reputation token, the whole point is to make those recognitions public via Twitter. Our Discord engagement is down, and the instances of Praise that are happening are largely out of sight/out of mind in their own channel. I view this as much marketing for TEC as anything else. Every member of every community utilizing Praise will potentially see this effort (i.e. TEC building for the community), and every time an activity is praised in public, every follower of the target being Praised will potentially see it… the opportunity to expand the TEC influence and exposure is massive.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-10T20:15:26Z",
+   "updated_at": "2023-03-10T20:15:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for the responses <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> and <a class=\"mention\" href=\"/u/maxwe11\">@Maxwe11</a>. A few quick follow-up thoughts:</p>\n<blockquote>\n<p><strong>That being said</strong> - whether we distribute rewards in $TEC or some other future reputation token can definitely be taken as a separate issue and can be abstracted from this proposal if it’s a barrier for moving forward.</p>\n</blockquote>\n<p>Agreed. Actually, I think it would remove a lot of potential objections, and make this proposal a lot stronger, if you proactively included a reputation token as something you’re actively considering. There are still lots of questions about reputation, but there is momentum building in this area. Over the long-term, TE reputation will be a “common-pool resource” for the field of token engineering. It would be great to have the two of you and your creativity helping to tackle that for the TEC.</p>\n<p>On the question of funding, setting aside the for-profit question, I’m more just focusing on the fact that there needs to be some way to better share the load with other beneficiaries of Praise - which is what you’re saying here:</p>\n<blockquote>\n<p>I’ll take some time to investigate other communities currently using praise and maybe there is a way to collectively fund a Twitter Praise.</p>\n</blockquote>\n<p>Seems like a potential job for the proposal inverter. <a class=\"mention\" href=\"/u/mertozdal\">@mertozdal</a> - when do you guys think you’ll be up and running? It’s also worth thinking about whether there’s a way to build the TEC’s portion of that into a grant from the Gitcoin grant program that the TEC will soon be rolling out (April).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-03-11T21:23:01Z",
+   "updated_at": "2023-03-11T21:23:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1215\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>The TEC has benefited greatly from being the community that built, tested and launched the first iteration of the Praise rewards system. Since then we’ve seen it grow up all on its own - now with about 10 awesome communities using Praise.</p>\n</blockquote>\n</aside>\n<p>The !Praise Reward System is one of many great projects the TEC has adopted, and will continue to utilize.</p>\n<p>This proposal to expand the impact and use of Praise within the TE community is no doubt worthy of funding.  It’s open-source, distributes $TEC to the right audience, and sets up a method for growing the TE community.</p>\n<p>However, my reluctance to support this proposal is associated with our current financial state, and the <strong>priorities</strong> of the roadmap established within our Strategic Framework.  There are a lot of proposals, including this one, that are deserving of the public funds that exist in the Common Pool.</p>\n<p>It’s hard for me to resist this proposal because it aligns with our Mission, and is assists in achieving the stated <strong>goals</strong> of the TEC roadmap. (Not to mention the Praise team is a bunch of all-stars that are going to make this system massively successful for so many communities.)</p>\n<p>I would say that my biggest concern is that we are continuing to fail to set boundaries around Common Pool distributions.  A feeling of ought (moral obligation) is associated with these proposals, mainly because the TEC has pioneered the use of them (looking at things like Gravity, Praise, PI, etc.), and because the TEC is so closely intertwined with their histories – it becomes very difficult to establish these boundaries.</p>\n<p>I had the same feelings regarding the Stakeholder Research Proposal, which I was also in opposition of, but refrained from speaking out because I found it to be supportive to what I would consider to be the MAIN priority for the TEC at this moment in time: creating utility for $TEC among the TE Community.  I hope the money spent there will inform where utility can be created.</p>\n<p>I mention this because, without having avenues for $TEC utility, it makes little sense to scale the distribution of $TEC via praise at this moment.</p>\n<p>Integrating praise into many platforms that enables a wider distribution of $TEC among token engineers will be essential for the growth of the TE Community, but I unfortunately think that the timing of this proposal is the problem.</p>\n<p>The Praise team has a lot of interest and momentum, and I have no desire to kill that. I hate having to write this because I’m a huge supporter of Praise and I believe that it’s going to see mass adoption.</p>\n<p>My argument boils down to this:</p>\n<p>The funding priorities of the TEC need to be solely focused on creating utility for $TEC outside the function of governance.  Every distribution of funds not directed toward this goal reduces the runway we have to make that happen.</p>\n<p>I know that my articulation of this argument is insufficient, and many of you will probably have good points as to why this is the wrong way to think about TEC funding…But I believe that if we are unable to have this difficult conversation, a year from now we may see that we sacrificed the TEC economy for a handful of public goods.</p>\n<p>Its probably not as binary as i’ve described it, but I think it should be stated.</p>\n<p>Thanks <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> for submitting this proposal, and keep up the awesome work!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2023-03-17T18:51:54Z",
+   "updated_at": "2023-03-17T18:51:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Just to keep you folks updated, we are still looking to move forward with this proposal. Abstracting any notion of distributing twitter praise rewards in $TEC or some other token.</p>\n<p>We would like to focus on the main product  we’re trying to build, which is dishing praise on twitter for TE contributions and beyond.</p>\n<p>Also we are researching into other active praise communities we can tap into to alleviate the development costs of this project.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2023-03-22T00:03:39Z",
+   "updated_at": "2023-03-22T00:03:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks Nate for the feedback. A few thoughts on your points above.</p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"1215\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>my reluctance to support this proposal is associated with our current financial state</p>\n</blockquote>\n</aside>\n<p>A follow up to what Mitch mentioned above, there’s been some traction from Giveth to help supply some development resources for this effort. We plan on coming back with a reduced budget in conjunction with other Praise communities once those have been aligned.</p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"1215\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>I mention this because, without having avenues for $TEC utility, it makes little sense to scale the distribution of $TEC via praise at this moment.</p>\n</blockquote>\n</aside>\n<p>I have a slightly different take on this. I’m seeing a lot of focus on distribution of TEC rewards, but this proposal is all about increasing the exposure of TEC through the Praise mechanism. While an increase in rewards distribution is the logical outcome of that effort, I think it’s important to make the distinction because public Praise raises the visibility and broadens the reach of the TEC first and foremost.  That exposure is much more valuable than the TEC tokens we distribute. Or put another way, this allows us to essentially do targeted marketing with our own token.</p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"1215\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>The funding priorities of the TEC need to be solely focused on creating utility for $TEC outside the function of governance. Every distribution of funds not directed toward this goal reduces the runway we have to make that happen.</p>\n</blockquote>\n</aside>\n<p>I think this furthers utility creation by bringing in new thoughts and ideas to the TEC. Every contributor we can engage via public Praise is one more person thinking about how TEC could grow in utility.</p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"1215\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Its probably not as binary as i’ve described it, but I think it should be stated.</p>\n</blockquote>\n</aside>\n<p>I agree it’s not that binary, but it was a useful way to frame it to illustrate the argument. We appreciate the feedback!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Dani",
+   "name": null,
+   "created_at": "2023-03-24T17:37:07Z",
+   "updated_at": "2023-03-24T17:37:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"10\" data-topic=\"1215\" data-username=\"Maxwe11\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/maxwe11/40/860_2.png\" width=\"20\"/> Maxwe11:</div>\n<blockquote>\n<p>I have a slightly different take on this. I’m seeing a lot of focus on distribution of TEC rewards, but this proposal is all about increasing the exposure of TEC through the Praise mechanism. While an increase in rewards distribution is the logical outcome of that effort, I think it’s important to make the distinction because public Praise raises the visibility and broadens the reach of the TEC first and foremost. That exposure is much more valuable than the TEC tokens we distribute. Or put another way, this allows us to essentially do targeted marketing with our own token.</p>\n</blockquote>\n</aside>\n<p>Just arriving to this conversation from a Snapshot vote with Giveth, where we are closely aligned on the need to expand reach and exposure to gain traction toward great utility of both our token economies.</p>\n<p>FYI I voted “FOR” Giveth partnering on the Development needs for this integration.</p>\n<p>Perhaps I’m a bit biased for having been the Project Owner of RewardDAO on Giveth (TRACE) in 2018 onward and feeling quite invested in the value of Praise as a tool for incentivizing contributors.</p>\n<p>Or perhaps having overseen the praise process and evolution over these years, I have a strong sentiment toward making the Praise functionality available on multiple platforms because Discord has a lot of the same issues we had back then with Matrix/Riot… we are curtailing our scope of access and retention opportunity to potential contributors with this communication platform limitation.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2023-03-27T22:06:13Z",
+   "updated_at": "2023-03-27T22:06:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks for the input <a class=\"mention\" href=\"/u/dani\">@Dani</a>!</p>\n<p>The feedback/voting on the Giveth snapshot has been overwhelmingly positive as well. In light of this, we will be amending the budget down to $7k for the TEC proposal. This will be put towards Project Management, QA, and any ad-hoc design work that comes up as part of the project. As before, any unused funds will be returned to the common pool.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003450",
+    "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230328210152",
+   "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401003450",
+   "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401003450",
+   "url": "https://forum.tecommons.org/t/engineering-praise-for-twitter/1215"
+  }
+ ]
+}

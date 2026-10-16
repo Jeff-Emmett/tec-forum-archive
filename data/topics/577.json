@@ -1,0 +1,78 @@
+{
+ "id": 577,
+ "title": "TEC LABS Fall Semester",
+ "slug": "tec-labs-fall-semester",
+ "category_id": 28,
+ "posts_count": 1,
+ "created_at": "2021-08-27T04:33:55.189Z",
+ "last_posted_at": "2021-09-03T16:06:18.366Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-09-03T16:06:18Z",
+ "captured_between": [
+  "2021-09-28T01:01:36Z",
+  "2023-05-24T02:15:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-08-27T04:33:55Z",
+   "updated_at": null,
+   "reply_to_post_number": null,
+   "like_count": null,
+   "cooked": "<h2>\n<a name=\"tec-lab-for-the-fall-1\" class=\"anchor\" href=\"https://forum.tecommons.org#tec-lab-for-the-fall-1\"></a>TEC Lab for the Fall</h2>\n<p>There are two primary initiatives running through the TEC labs this fall.</p>\n<ol>\n<li>Proposal Inverter (August 6th - September 24th)</li>\n<li>Rewards Research (October 1st  - November 12th)</li>\n</ol>\n<p>And two special topics.</p>\n<ol>\n<li>Market Models and Networks (September 10th)</li>\n<li>NFT Economics (September 17th)</li>\n</ol>\n<p>Then two buffer spots towards the end of November, and then a semester review (November 26th), and then break for the winter solstice celebration.</p>\n<p>This proposal is requesting $8KWXDAI for the administration of the labs, and to cover the two special topic labs, NFT economics, and Market Network Models. The two primary research initiatives will have additional proposals for funding along with ecosystem partners like primeDAO and sourceCRED.</p>\n<h3>\n<a name=\"details-of-schedule-2\" class=\"anchor\" href=\"https://forum.tecommons.org#details-of-schedule-2\"></a>Details of Schedule:</h3>\n<p>Friday August 27th 2021 - Proposal Inverter Proposal and Parallelization</p>\n<ul>\n<li>Scopes of work - Specification, Models, Simulations, Documentation, Test</li>\n</ul>\n<p>Friday September 3rd 2021 - Proposal Inverter Parallel Development</p>\n<ul>\n<li>Scopes of work - Specification, Models, Simulations, Documentation, Test</li>\n</ul>\n<p>Friday September 10th 2021 - Market Models and Networks</p>\n<ul>\n<li>Scopes of work - Specification, Models, Simulations, Documentation, Test</li>\n</ul>\n<p>Friday September 17th 2021 - NFT Economics</p>\n<ul>\n<li>Scopes of work - Specification, Models, Simulations, Documentation, Test</li>\n</ul>\n<p>Friday September 24th 2021 - Proposal Inverter Progress Review</p>\n<ul>\n<li>Milestone Presentations</li>\n</ul>\n<p>Friday October 1st 2021 - Rewards research group</p>\n<ul>\n<li>Resource Indexing and Review</li>\n<li>Praise Data, SourceCred, Additional data sets</li>\n</ul>\n<p>Friday October 7st 2021 - Rewards research group</p>\n<ul>\n<li>Research Paths Identification</li>\n</ul>\n<p>Friday October 14th 2021 - Rewards research group</p>\n<ul>\n<li>Parallel Research and Development</li>\n</ul>\n<p>Friday October 21st 2021 - Rewards research group</p>\n<ul>\n<li>Parallel Research and Development</li>\n</ul>\n<p>Friday October 28th 2021 - Rewards research group</p>\n<ul>\n<li>Parallel Research and Development</li>\n</ul>\n<p>Friday November 5th 2021 - Rewards research group</p>\n<ul>\n<li>Parallel Research and Development</li>\n<li>Research Collaboration</li>\n</ul>\n<p>Friday November 12th 2021 - Open Slot</p>\n<p>Friday November 19th 2021 - Open Slot</p>\n<p>Friday November 26th 2021 - Lab Review</p>\n<ul>\n<li>Review of the results of the labs</li>\n</ul>\n<p>** Break **</p>\n          <p><a href=\"https://forum.tecommons.org/t/tec-labs-fall-semester/577/1\">Read full topic</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230524021550",
+    "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577.rss"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-09-03T16:06:18Z",
+   "updated_at": null,
+   "reply_to_post_number": null,
+   "like_count": null,
+   "cooked": "<p>We are going to move ‘Market Models’ on September 10 to be starting the rewards research instead. There is also a governauts panel on that day discussing this topic.</p>\n          <p><a href=\"https://forum.tecommons.org/t/tec-labs-fall-semester/577/2\">Read full topic</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230524021550",
+    "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577.rss"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928010136",
+   "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928010136",
+   "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124030744",
+   "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124030744",
+   "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230524021550",
+   "url": "https://forum.tecommons.org/t/tec-labs-fall-semester/577.rss"
+  }
+ ]
+}

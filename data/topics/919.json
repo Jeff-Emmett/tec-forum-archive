@@ -1,0 +1,95 @@
+{
+ "id": 919,
+ "title": "TE Academy update - Looking for program hosts",
+ "slug": "te-academy-update-looking-for-program-hosts",
+ "category_id": 11,
+ "posts_count": 3,
+ "created_at": "2022-03-07T13:22:52.872Z",
+ "last_posted_at": "2022-03-14T11:54:40.828Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2022-03-14T11:54:40Z",
+ "captured_between": [
+  "2022-05-20T08:31:36Z",
+  "2022-05-20T08:31:36Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Heater",
+   "name": null,
+   "created_at": "2022-03-07T13:22:53Z",
+   "updated_at": "2022-03-07T13:22:53Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Hey TEC - Wanted to share a quick update from the TE Academy!</p>\n<p>We are kicking off a new program to help folks dive one level deeper into the TE field - <strong>Token Engineering 360</strong> - and are looking for community members to contribute and help make it happen!</p>\n<p>After the successful collaboration with the TEC on our “Introduction to Token Engineering” sessions, we thought this program would be another great chance to collaborate.</p>\n<p>We are looking for 1-2 people interested in</p>\n<ul>\n<li>learning Token Engineering</li>\n<li>further developing this program</li>\n<li>taking over operational tasks</li>\n</ul>\n<p>and available around 2 hours per week.</p>\n<p><strong>Token Engineering 360</strong> will be a 6-session discussion series that provides a 360 degree overview of Token Engineering and crypto-economic systems. You can find more program details here <a class=\"inline-onebox\" href=\"https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#token-engineering-360\" rel=\"noopener nofollow ugc\">TokenEngineering Academy | Token Engineering</a>. It’s also part of our efforts to engage with future students of TE Fundamentals (we’ve collected &gt; 500 sign ups so far!), and onboard them into this community.</p>\n<p>If you are interested, send me a message on discord (<a class=\"mention\" href=\"/u/heater\">@heater</a>#9765) for more detail!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520083136",
+    "url": "https://forum.tecommons.org/t/te-academy-update-looking-for-program-hosts/919"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2022-03-09T09:02:56Z",
+   "updated_at": "2022-03-09T09:02:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you so much for sharing this!</p>\n<p>Do you think you could present this at the Community Call? So we amplify the message?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520083136",
+    "url": "https://forum.tecommons.org/t/te-academy-update-looking-for-program-hosts/919"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Heater",
+   "name": null,
+   "created_at": "2022-03-09T21:59:14Z",
+   "updated_at": "2022-03-09T21:59:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yes someone from TEA would be interested in joining, let’s connect on discord <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520083136",
+    "url": "https://forum.tecommons.org/t/te-academy-update-looking-for-program-hosts/919"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "GuccuKudo",
+   "name": null,
+   "created_at": "2022-03-14T11:54:40Z",
+   "updated_at": "2022-03-14T11:54:40Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’d be down as well. 2 hours sounds like a great commitment to get started</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520083136",
+    "url": "https://forum.tecommons.org/t/te-academy-update-looking-for-program-hosts/919"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520083136",
+   "url": "https://forum.tecommons.org/t/te-academy-update-looking-for-program-hosts/919"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520083136",
+   "url": "https://forum.tecommons.org/t/te-academy-update-looking-for-program-hosts/919"
+  }
+ ]
+}

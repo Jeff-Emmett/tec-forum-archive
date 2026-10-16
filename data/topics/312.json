@@ -1,0 +1,89 @@
+{
+ "id": 312,
+ "title": "How to Collaborate with You on an Open Source DAO for Climate",
+ "slug": "how-to-collaborate-with-you-on-an-open-source-dao-for-climate",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2021-03-29T20:57:15.049Z",
+ "last_posted_at": "2021-04-02T22:23:00.424Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-04-02T22:23:00Z",
+ "captured_between": [
+  "2021-04-20T12:54:11Z",
+  "2023-05-30T07:27:32Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sichen",
+   "name": null,
+   "created_at": "2021-03-29T20:57:15Z",
+   "updated_at": "2021-03-29T20:57:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hello,</p>\n<p>My first post here, I’m not sure which group it should belong to, so let me know what you think of this:</p>\n<p>I’m part of the Linux Foundation’s Hyperledger open source blockchain project.  We’ve been building a set of <a href=\"https://wiki.hyperledger.org/display/CASIG/Operating+System+for+Climate+Action\" rel=\"noopener nofollow ugc\">open source tools</a> for climate action that consists of a data ledger, a tokens network, and a DAO.</p>\n<p>We’ve made a lot of progress with the DAO, customizing the Compound Defi DAO to meet our needs.  You can take a look at what we’ve done so far in this <a href=\"https://opentaps.org/2021/03/24/tutorial-how-to-customize-and-deploy-compound-dao/\" rel=\"noopener nofollow ugc\">tutorial</a></p>\n<p>We’d be really interested in working with your group on governance of the DAO, as well as collaborating on the coding and technical aspects.</p>\n<p>How do you think we could do that?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530072732",
+    "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-04-01T08:41:00Z",
+   "updated_at": "2021-04-01T08:41:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi Sichen and welcome!</p>\n<p>I have briefly skimmed the links and it is very compelling work. Thanks for sharing them. This forum a good place to get more feedback from the community but I would also like to invite you to join our Discord channel. <a href=\"https://discord.gg/EQtXb9xQ\">https://discord.gg/EQtXb9xQ</a></p>\n<p>As well, there is a weekly meeting for our Soft Gov &amp; Culture working group that meets every Tuesday at 7pm CET. Perhaps you can join the next one as you express particular interest in governance.</p>\n<p>Here is a link to our calendar. All meetings are open and you are welcome to join any that are of interest to you.<br/>\n<a class=\"onebox\" href=\"https://calendar.google.com/calendar/u/1?cid=NW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\" rel=\"noopener\" target=\"_blank\">https://calendar.google.com/calendar/u/1?cid=NW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530072732",
+    "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sichen",
+   "name": null,
+   "created_at": "2021-04-02T22:23:00Z",
+   "updated_at": "2021-04-02T22:23:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks!  I’ve put together a <a href=\"https://wiki.hyperledger.org/display/CASIG/Climate+DAOs\" rel=\"noopener nofollow ugc\">wiki page</a> on the governance and some applications for it.  Would like to get your and the group’s feedback on them.</p>\n<p>I’m starting to read a book on Elinor Ostrom too.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530072732",
+    "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420125411",
+   "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420125411",
+   "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530072732",
+   "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530072732",
+   "url": "https://forum.tecommons.org/t/how-to-collaborate-with-you-on-an-open-source-dao-for-climate/312"
+  }
+ ]
+}

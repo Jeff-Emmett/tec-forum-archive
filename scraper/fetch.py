@@ -74,29 +74,36 @@ def warc_body(blob):
     return status, body
 
 
-def main(src, raw, shard=(0, 1)):
+def main(src, raw, shard=(0, 1), source=None):
     os.makedirs(os.path.join(raw, "bodies"), exist_ok=True)
     manifest_path = os.path.join(raw, "manifest.jsonl")
     done = set()
     if os.path.exists(manifest_path):
         for m in read_manifest(raw):
             done.add((m["source"], m["timestamp"], m["url"]))
-    jobs = [j for j in plan(src) if (j[0], j[1], j[2]) not in done]
-    jobs = jobs[shard[0]::shard[1]]
+    jobs = [j for j in plan(src) if source in (None, j[0])]
+    jobs.sort(key=lambda j: j[3] == "upload")  # posts before images
+    jobs = jobs[shard[0]::shard[1]]  # shard first, so a restarted shard gets the same jobs
+    jobs = [j for j in jobs if (j[0], j[1], j[2]) not in done]
     print(f"{len(jobs)} to fetch ({len(done)} already done)", flush=True)
     with open(manifest_path, "a") as man:
         for i, (source, ts, url, kind, cc) in enumerate(jobs, 1):
-            if source == "wayback":
-                status, headers, body = get(f"https://web.archive.org/web/{ts}id_/{url}", spacing=1.5)
-                ctype = headers.get("Content-Type", "")
-            else:
-                rng = f"bytes={cc['offset']}-{cc['offset'] + cc['length'] - 1}"
-                status, _, blob = get(f"https://data.commoncrawl.org/{cc['filename']}", spacing=0.5, headers={"Range": rng})
-                ctype = "text/html"
-                if status in (200, 206):
-                    status, body = warc_body(blob)
+            try:
+                if source == "wayback":
+                    status, headers, body = get(f"https://web.archive.org/web/{ts}id_/{url}", spacing=1.5)
+                    ctype = headers.get("Content-Type", "")
                 else:
-                    body = b""
+                    rng = f"bytes={cc['offset']}-{cc['offset'] + cc['length'] - 1}"
+                    status, _, blob = get(f"https://data.commoncrawl.org/{cc['filename']}", spacing=0.5,
+                                          headers={"Range": rng})
+                    ctype = "text/html"
+                    if status in (200, 206):
+                        status, body = warc_body(blob)
+                    else:
+                        body = b""
+            except RuntimeError as e:  # archive kept failing: note it and move on; a re-run retries it
+                print(f"  skip: {e}", flush=True)
+                continue
             sha = hashlib.sha256(body).hexdigest()
             fn = os.path.join(raw, "bodies", sha[:2], sha + ".gz")
             if body and not os.path.exists(fn):
@@ -114,4 +121,5 @@ def main(src, raw, shard=(0, 1)):
 if __name__ == "__main__":
     # optional "i/n": take every n-th job from i, so n processes can share one manifest
     i, n = map(int, sys.argv[3].split("/")) if len(sys.argv) > 3 else (0, 1)
-    main(sys.argv[1], sys.argv[2], (i, n))
+    # optional source filter: wayback | commoncrawl (different hosts, so they can run side by side)
+    main(sys.argv[1], sys.argv[2], (i, n), sys.argv[4] if len(sys.argv) > 4 else None)

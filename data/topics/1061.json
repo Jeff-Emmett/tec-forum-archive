@@ -1,0 +1,79 @@
+{
+ "id": 1061,
+ "title": "Feedback for Gardens and CV governance",
+ "slug": "feedback-for-gardens-and-cv-governance",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2022-06-23T17:54:57.535Z",
+ "last_posted_at": "2022-07-01T20:54:12.123Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2022-07-01T20:54:12Z",
+ "captured_between": [
+  "2022-07-06T00:46:04Z",
+  "2022-07-06T00:46:04Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-06-23T17:54:58Z",
+   "updated_at": "2022-06-23T17:54:58Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#how-has-your-experience-with-the-tec-gardenshttpsgardens1hiveorgxdaigarden0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8-been-1\" name=\"how-has-your-experience-with-the-tec-gardenshttpsgardens1hiveorgxdaigarden0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8-been-1\"></a>How has your experience with the <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/\">TEC Gardens</a> been?</h3>\n<p>The 1hive team is starting to <a href=\"https://discord.gg/cEzBYSW5\">collect feedback for Gardens V2</a> and it would be great to bring our experience into the mix.</p>\n<p>DO you have suggestions for UI improvements?<br/>\nDoes it feel intuitive to navigate the Gardens?<br/>\nWould you feel comfortable using Celeste?</p>\n<p><a class=\"mention\" href=\"/u/tamara\">@Tamara</a> had a suggestion to add a time limit for proposals as a parameter. So i.e proposals could stay up for voting for 6 months and disappear instead of staying up forever if they don’t accrue enough conviction or someone takes is down.</p>\n<p><a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> expressed the benefits of being ERC1155 compatible and having governance flexibility through a combination of tokens.</p>\n<p><a class=\"mention\" href=\"/u/bear100\">@bear100</a> suggested an easy to access FAQ.</p>\n<p>What are other examples of features to be considered? Consider also cultural improvements on the way we manage proposals and voting.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004604",
+    "url": "https://forum.tecommons.org/t/feedback-for-gardens-and-cv-governance/1061"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-26T00:15:50Z",
+   "updated_at": "2022-06-26T00:15:50Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Here is an idea that would essentially require a 2nd largely parallel token as a governance/reputation mechanism, wherein you would receive an equal number (or even better a slightly higher multiple) of gov/rep tokens whenever minting or trading for TEC, but would have the feature of degrading over time in a reverse stream to a “rep redistribution pool.” Call it a “Lack of Conviction” feature, where the ability to inject capital and governance is retained by investors, but if they cease engaging with the community, their governance rights slowly revert back to the active community. This would 1) preserve their investment 2) reduce their participation burden 3) keep forgetfulness or neglect of governance from impacting the active community 4) provide a non-monetary mechanism for rewarding active, particularly new member, participation 5) incentivize active participation by large holders. This would in effect be something of a psychology hack since it employs the loss aversion cognitive bias, where human beings nearly involuntarily prefer to avoid loss twice as much as gaining a given resource. It would also possibly represent a new dimension of utility for minting TEC, where the increased multiple of gov/rep token could be increased or decreased either over time, for events or marketing, for special quantities etc, incentivizing the advantage of investing capital versus purely participating for praise.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004604",
+    "url": "https://forum.tecommons.org/t/feedback-for-gardens-and-cv-governance/1061"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-07-01T20:54:12Z",
+   "updated_at": "2022-07-01T20:54:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Quadratic Voting:</strong><br/>\nI just can’t remember where the blockage is to quadratic voting, and whether it is inherent in Gardens itself. I know we have to solving the Sybil attack problem. Gitcoin’s Fraud Detection &amp; Defense Working Group (<a href=\"https://twitter.com/DisruptionJoe\" rel=\"noopener nofollow ugc\">@DisruptionJoe</a>) has offered to help us with this, btw. But if there are obstacles within Gardens itself, I think that addressing that is an important request.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004604",
+    "url": "https://forum.tecommons.org/t/feedback-for-gardens-and-cv-governance/1061"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220706004604",
+   "url": "https://forum.tecommons.org/t/feedback-for-gardens-and-cv-governance/1061"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706004604",
+   "url": "https://forum.tecommons.org/t/feedback-for-gardens-and-cv-governance/1061"
+  }
+ ]
+}

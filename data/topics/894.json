@@ -1,0 +1,191 @@
+{
+ "id": 894,
+ "title": "Token Swap TEC <> GIV and create LP",
+ "slug": "token-swap-tec-giv-and-create-lp",
+ "category_id": 7,
+ "posts_count": 10,
+ "created_at": "2022-02-22T21:02:51.828Z",
+ "last_posted_at": "2022-03-08T06:44:51.929Z",
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "last_archived_post_at": "2022-03-08T06:44:51Z",
+ "captured_between": [
+  "2022-05-20T07:21:08Z",
+  "2022-05-20T07:21:08Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-22T21:02:52Z",
+   "updated_at": "2022-02-22T21:24:35Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Hey everyone! I’m proposing to use a portion of funds currently in the LASERTAG Multisig to create a TEC/GIV LP pool on Honeyswap.</p>\n<p>I would like to see 20k DAI worth of TEC swapped for 20k DAI worth of GIV. We would subsequently use the GIV received with another 20k DAI worth of TEC to create a TEC/GIV LP position.  The LP tokens would be held in the LASERTAG multisig.  This would use up ~16% of the TEC currently in the multisig.</p>\n<p>Giveth is a strong supporter of public goods and crypto-philanthropy and both the TEC and Giveth share a staggering amount of regular contributors. I belive both organizations are very much value-aligned.</p>\n<p>We’ll need to approve a few transactions on the multisig if we decide to go through with this.</p>\n<ol>\n<li>Send TEC tokens to the Giveth multisig</li>\n<li>Approve spend GIV/TEC</li>\n<li>Create LP position</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-24T22:31:13Z",
+   "updated_at": "2022-02-24T22:31:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"c3b613833cbdc8e9644f0a4a693d2062\">This is a good idea! DAO it!</li>\n<li data-poll-option-id=\"da3ab051842f0fd9b3266aaafb4ce8bd\">This is a bad idea! NGMI</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-03-04T15:40:29Z",
+   "updated_at": "2022-03-04T15:40:29Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’ve taken a calculation from a 7 day price average for TEC and GIV from <a href=\"https://www.coingecko.com/en/api/documentation\">CoinGecko</a> to arrive at exact amounts that should be swapped.</p>\n<aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/1DUnvYy0zg6C7HrKVUOLu9hSg-7VcKjD7a_ASwj4WumI/edit?usp=sharing\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1DUnvYy0zg6C7HrKVUOLu9hSg-7VcKjD7a_ASwj4WumI/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1DUnvYy0zg6C7HrKVUOLu9hSg-7VcKjD7a_ASwj4WumI/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1DUnvYy0zg6C7HrKVUOLu9hSg-7VcKjD7a_ASwj4WumI/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">TEC / GIV Token Swap</a></h3>\n<p>Sheet1\n\nNODE,GIV\n2022-03-03 00:00:00 UTC,2.408322196,0.5053639111\n2022-03-02 01:00:00 UTC,2.433078379,0.5035293807\n2022-03-01 01:00:00 UTC,2.372702648,0.4941650487\n2022-02-28 01:00:00 UTC,2.205867711,0.4292283864\n2022-02-27 00:00:00...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>The TEC will request 43,762.69 GIV in exchange for 8,637.85 TEC, and provide a further 8,637.85 TEC to create a GIV/TEC LP on Honeyswap. LP tokens will be held by LASERTAG. All TEC funds will come from the LASERTAG multisig.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-03-04T16:03:44Z",
+   "updated_at": "2022-03-04T16:03:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I support the idea of GIV/TEC permanent liquidity, but I don’t think LASERTAG need to hold those funds. What would be the purpose of not doing just a vested permanent liquidity?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "philh",
+   "name": null,
+   "created_at": "2022-03-07T14:09:05Z",
+   "updated_at": "2022-03-07T14:09:05Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I just saw the call for voting on Snapshot, sorry to be late.</p>\n<p>Can you clarify the reasons for doing this pls? I miss the context.</p>\n<p>40k seems both to be very small as a liquidity pool (hence easily prone to big slippage) and significant in terms of capital allocation as 16% of the multisig’s assets.</p>\n<p>I get that tecmns is very aligned with Giveth, but I’d like to understand the positive reasons for the allocation. Thank you!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-03-07T17:52:42Z",
+   "updated_at": "2022-03-07T18:09:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>In my opinion, it would benefit TEC with more secondary market activity and more liquidity overall check out our dashboard <a class=\"inline-onebox\" href=\"https://dune.xyz/tecommons/TECommons\">Dune Analytics</a>.</p>\n<p>What I don’t like about this proposal is that is making LASERTAG a political force in the long run. What is the point of having this money on a multisig when we can perfectly have this money on the Agent controlled by the DAO.</p>\n<p>What is the value you see having this money on LASERTAG instead of having it on the Agent? <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "philh",
+   "name": null,
+   "created_at": "2022-03-07T18:10:57Z",
+   "updated_at": "2022-03-07T18:10:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Got it, thanks.<br/>\nStill, is there a demand for GIV &lt;&gt; TEC?<br/>\nI’d assume that going via XDAI would be enough, and reducing slippage with the native token would be more important, especially with low tx cost.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-03-07T18:22:15Z",
+   "updated_at": "2022-03-07T18:22:15Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>In order to get xDai we should sell TEC and in my opinion would be less effective (and if someone wants xDai then can use the ABC). Having liquidity with giveth would give TEC a route to alot of tokens.  Giveth liquidity on honeyswap is actually huge. <a class=\"inline-onebox\" href=\"https://info.honeyswap.org/#/home\">Honeyswap Analytics</a></p>\n<p>If you would like to trade TEC for xDai the route could be TEC–&gt;GIV–&gt;HNY–&gt;xDai right now our pool is very small<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4\" href=\"https://forum.tecommons.org/uploads/default/original/1X/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4.png\" title=\"imagen\"><img alt=\"imagen\" data-base62-sha1=\"kIC09ipFRTX8t2UxFwWcN6X896s\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4_2_10x10.png\" height=\"124\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4_2_690x124.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4_2_690x124.png, https://forum.tecommons.org/uploads/default/optimized/1X/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4_2_1035x186.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/9136806ad0ad6ea53f59d7bf490e86f6fd3cefa4_2_1380x248.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">imagen</span><span class=\"informations\">1448×261 40.6 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-03-08T01:40:29Z",
+   "updated_at": "2022-03-08T01:40:29Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Can you clarify what Agent you’re talking about?</p>\n<p>I’m not opposed to having somewhere else DAO owned but I don’t really see the narrative of LASERTAG becoming a political force.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-03-08T06:44:51Z",
+   "updated_at": "2022-03-08T06:44:51Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The dao have 3 agents common pool reserve and one for dao operations not being use</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520072108",
+    "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520072108",
+   "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520072108",
+   "url": "https://forum.tecommons.org/t/token-swap-tec-giv-and-create-lp/894"
+  }
+ ]
+}

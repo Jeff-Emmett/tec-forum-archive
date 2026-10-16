@@ -1,0 +1,171 @@
+{
+ "id": 348,
+ "title": "MVV Runoff! Results are up 📣",
+ "slug": "mvv-runoff-results-are-up",
+ "category_id": 5,
+ "posts_count": 5,
+ "created_at": "2021-04-20T19:51:56.338Z",
+ "views": 47,
+ "last_posted_at": "2021-05-03T20:58:32.768Z",
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-05-03T20:58:32Z",
+ "captured_between": [
+  "2021-04-23T16:36:11Z",
+  "2025-09-06T13:34:38Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-20T19:51:56Z",
+   "updated_at": "2021-05-03T23:01:07Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><strong><img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/> <a href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Vote on MVV Now! </a> <img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/></strong></p>\n<hr/>\n<p>The <strong>top 3 submissions</strong> of the first MVV round were collectively edited and are now available on <a href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Tokenlog</a>. <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> submitted the 3 proposals with numbers rather than titles so the writers are anonymous to not influence the votes. <strong>Deadline:</strong> Tuesday, April 27th during the Soft Gov call at 7pm CET.</p>\n<h3>Every CSTK and IH token holders can vote. Your economy, your choice <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/>\n</h3>\n<p><img alt=\":gear:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/gear.png?v=9\" title=\":gear:\"/> <strong>Step 1</strong> - Change your wallet network to xDAI</p>\n<ul>\n<li>if you don’t have xDAI added to your networks <a href=\"https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup\">click here</a> for simple instructions.</li>\n</ul>\n<p><img alt=\":mag_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mag_right.png?v=9\" title=\":mag_right:\"/> <strong>Step 2</strong> - Click the number on the right corner of the issue to open it.<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d.png\" title=\"Screen Shot 2021-04-20 at 4.02.16 PM\"><img alt=\"Screen Shot 2021-04-20 at 4.02.16 PM\" data-base62-sha1=\"wCKvFfOPGWcD2CaKlFIMWrielyd\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d_2_10x10.png\" height=\"145\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d_2_690x145.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d_2_690x145.png, https://forum.tecommons.org/uploads/default/optimized/1X/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d_2_1035x217.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/e4a6ee454042d30339b61b2c96ac3bda2e32ab6d_2_1380x290.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-04-20 at 4.02.16 PM</span><span class=\"informations\">1536×324 28.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><img alt=\":heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=9\" title=\":heart:\"/> <strong>Step 3</strong> - Pick your favorite one and vote!</p>\n<p><strong>Good to know:</strong></p>\n<ul>\n<li>\n<a href=\"https://tokenlog.xyz/CommonsBuild/TokenLog-SoftGov\">Tokenlog</a> uses quadradic voting - <a href=\"https://forum.tecommons.org/t/how-to-rock-the-vote-with-tokenlogs-quadratic-voting/317\">read more about it</a>\n</li>\n<li>It’s a soft gov tool, so despite the use of tokens, nothing happens on chain</li>\n<li>There is no way to change your votes once they’re submitted</li>\n<li>Vote as much as you want as long as you have a token balance.</li>\n<li>You can read more about the <a href=\"https://forum.tecommons.org/t/mission-vision-and-values-tokenlog-session/296\">previous sessions.</a>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906133438",
+    "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-21T14:04:09Z",
+   "updated_at": "2021-04-21T14:04:09Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Made a short video for it too:</p>\n<div class=\"youtube-onebox lazy-video-container\" data-provider-name=\"youtube\" data-video-id=\"2vQ1ZdBpv5U\" data-video-start-time=\"0\" data-video-title=\"How to vote on the MVV Run-off\">\n<a href=\"https://www.youtube.com/watch?v=2vQ1ZdBpv5U\" rel=\"noopener\" target=\"_blank\">\n<img class=\"youtube-thumbnail\" height=\"388\" src=\"https://img.youtube.com/vi/2vQ1ZdBpv5U/maxresdefault.jpg\" title=\"How to vote on the MVV Run-off\" width=\"690\"/>\n</a>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906133438",
+    "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "KZFlyer",
+   "name": null,
+   "created_at": "2021-04-22T00:44:31Z",
+   "updated_at": "2021-04-22T00:44:31Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>A super easy way to add a network to MetaMask is by heading over to <a href=\"https://Chainlist\" rel=\"noopener nofollow ugc\">https://chainlist.org/</a><br/>\nA few simple steps and you’ll have it set up:<br/>\n1 - Connect your wallet<br/>\n2 - Find the network<br/>\n3 - Click Add to MetaMask<br/>\n4 - Click Approve in MetaMask</p>\n<p>It will setup using <a href=\"https://rpc.xdaichain.com\" rel=\"noopener nofollow ugc\">https://rpc.xdaichain.com</a> however I find the 1hive rpc runs smoother. <a href=\"https://xdai.1hive.org\" rel=\"noopener nofollow ugc\">https://xdai.1hive.org</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906133438",
+    "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-25T15:33:26Z",
+   "updated_at": "2021-04-25T15:39:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><img alt=\"56wlyu (1)\" data-base62-sha1=\"8gTbxs5wHyRP0RJXeXS5zWFi0oC\" height=\"214\" src=\"https://forum.tecommons.org/uploads/default/original/1X/39fa298e09f3695eada1f6a19c3bd294b3f26cf6.gif\" width=\"360\"/></p>\n<p>h/t to <span class=\"mention\">@zeptimus</span> for the meme</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906133438",
+    "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-25T15:34:07Z",
+   "updated_at": "2021-04-25T15:39:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><img alt=\"Your_Choice (1)\" data-base62-sha1=\"vHRdJhpRUNVnPQiKDV6waq1Z8RL\" height=\"462\" src=\"https://forum.tecommons.org/uploads/default/original/1X/de38949737ef5f4753b8dfa934c4bb54911cc98d.png\" width=\"540\"/></p>\n<p>h/t to <a class=\"mention\" href=\"/u/krisj\">@krisj</a> for the meme</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906133438",
+    "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-05-03T20:58:32Z",
+   "updated_at": "2021-05-07T14:19:08Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We have a final and polished version of the top voted MVV submission! <img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=9\" title=\":partying_face:\"/></p>\n<p>This is the data from Tokenlog thanks to <a class=\"mention\" href=\"/u/wslyvh\">@wslyvh</a>! It captures the whole MVV process, including the first round:<br/>\n<img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> Amount of votes: 244<br/>\n<img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> From 55 unique addresses<br/>\n<img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> With a total amount of 7,491 votes<br/>\n<img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> and a cost of 793,529</p>\n<p>We want to use the mission, vision and values frequently, every time we need to explain what is the TEC, or to check and see if we are moving in the right direction. So don’t hesitate to share everywhere you want <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<h1><strong>Vision</strong></h1>\n<p>Enable the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.</p>\n<h1><strong>Mission</strong></h1>\n<p>Our goal is to become a <a href=\"https://nav.al/schelling-point\">Schelling Point</a> for the token engineering community.</p>\n<p>Our economic layer will fund projects that discover, develop and proliferate the best practices for engineering safe tokenized economies, while aligning our collective success with the individual benefit of token holders.</p>\n<p>Our social layer is even more important, as it will unite the token engineering field around the ethical principles, standards, tools and methodologies that emerge as this nascent field advances.</p>\n<h1><strong>Values</strong></h1>\n<p>Our Commons operates from a prosocial, human-centered perspective and prioritizes the advancement of token engineering over short-term profits.</p>\n<p>Integrity, curiosity, constructive inquiry, presence and gratitude are foundational for maintaining mutual respect within our growing community.</p>\n<p>We encourage our members to be radically open source, non-hierarchical, transparent in their intentions and accountable for their actions.</p>\n<hr/>\n<p>Thanks so much to everyone who participated. it’s so important to have this much attention to our cultural processes and decision making <img alt=\":heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=9\" title=\":heart:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250906133438",
+    "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210423163611",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-vote-now/348"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624152344",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624152344",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530080823",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530080823",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229124747",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250214215623",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250214215623",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250906133438",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250906133438",
+   "url": "https://forum.tecommons.org/t/mvv-runoff-results-are-up/348/6"
+  }
+ ]
+}

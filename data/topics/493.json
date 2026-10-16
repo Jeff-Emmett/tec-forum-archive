@@ -1,0 +1,66 @@
+{
+ "id": 493,
+ "title": "Conviction Voting - Minimum Conviction (aka Minimum Threshold)",
+ "slug": "conviction-voting-minimum-conviction-aka-minimum-threshold",
+ "category_id": 26,
+ "posts_count": 1,
+ "created_at": "2021-07-12T19:45:18.132Z",
+ "views": 3697,
+ "last_posted_at": "2021-07-12T19:45:18.389Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-07-12T19:45:18Z",
+ "captured_between": [
+  "2021-07-28T22:08:37Z",
+  "2026-05-05T19:38:46Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "laurenluz",
+   "name": "Lauren Luz",
+   "created_at": "2021-07-12T19:45:18Z",
+   "updated_at": "2021-08-29T15:35:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><em><strong>What is Conviction?</strong></em><br>\n<em><a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">Conviction Voting</a> is a token-weighted decision making protocol in which tokens are staked on proposals to indicate preference and voting power, aka “Conviction”, grows over time. Conviction is a combination of the number of tokens staked on a proposal and the length of time they are staked for.</em></p>\n<h3>\n<a name=\"minimum-conviction-1\" class=\"anchor\" href=\"#minimum-conviction-1\"></a>Minimum Conviction</h3>\n<p>The <strong>Minimum Conviction</strong> dictates how many TEC tokens are needed to pass a proposal, no matter how small the amount requested. On the Commons Config Dashboard (CCD), the Minimum Conviction is set as a percentage of the <a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">effective supply</a>, where effective supply is the number of tokens actively voting on proposals.</p>\n<p>Minimum Conviction makes it so that any requests for funding under a certain % of the Common Pool all take the same amount of conviction to pass. This protects the Commons against malicious attempts to steal funds by submitting many proposals requesting very small amounts of funds that may require very little conviction to pass.</p>\n<p>On the CCD, the Minimum Conviction is set using a slider and you can see the effect this parameter has on the Commons by analyzing the graph. The graph has a curve that represents the Conviction required for a proposal to pass. This curve is affected by the % of the effective supply voting on the proposal (y-axis) and the amount of time required to pass the proposal. The Minimum Conviction is represented by the explicit horizontal asymptote at the bottom of the curve.</p>\n<p>Minimum Conviction is an adaptation of the parameter <a href=\"https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155\">Minimum Threshold</a>, renamed to suit the CCD.</p>\n<h3>\n<a name=\"design-considerations-2\" class=\"anchor\" href=\"#design-considerations-2\"></a>Design Considerations</h3>\n<p>A low Minimum Conviction makes it possible for proposals to be passed and Commons initiatives to be funded even in times of voter apathy. However, it does make the Commons more vulnerable to the malicious attack described above. A higher Minimum Conviction ensures that proposals require serious engagement in order to be passed, but a very high Minimum Conviction would make it very difficult to pass proposals at all, slowing down the rate of progress.</p>\n<p>Keep in mind that the Conviction Growth rate directly impacts the rate at which proposals are able to be passed, and the ability for proposals to be passed at all is a function of multiple parameters including Minimum Conviction.</p>\n<h3>\n<a name=\"suggested-range-3\" class=\"anchor\" href=\"#suggested-range-3\"></a>Suggested Range</h3>\n<p>0.1% to 3%</p>\n<h3>\n<a name=\"related-parameters-4\" class=\"anchor\" href=\"#related-parameters-4\"></a>Related Parameters</h3>\n<p>Spending Limit<br>\nConviction Growth<br>\nMinimum Effective Supply</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260505193846",
+    "url": "https://forum.tecommons.org/t/conviction-voting-minimum-conviction-aka-minimum-threshold/493"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210728220837",
+   "url": "https://forum.tecommons.org/t/disputable-conviction-voting-minimum-conviction-aka-minimum-threshold/493"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210912134832",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-conviction-aka-minimum-threshold/493"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815092813",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-conviction-aka-minimum-threshold/493"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815092813",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-conviction-aka-minimum-threshold/493"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260505193846",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-conviction-aka-minimum-threshold/493"
+  }
+ ]
+}

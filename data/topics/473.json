@@ -1,0 +1,62 @@
+{
+ "id": 473,
+ "title": "Welcome to the Transparency Audit Index!",
+ "slug": "welcome-to-the-transparency-audit-index",
+ "category_id": 24,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 2,
+ "created_at": "2021-07-06T13:45:46Z",
+ "last_archived_post_at": "2021-07-06T13:46:22Z",
+ "captured_between": [
+  "2021-09-28T02:04:08Z",
+  "2021-09-28T02:04:08Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-07-06T13:45:46Z",
+   "updated_at": "2021-07-06T13:45:46Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Welcome to the Transparency Audit Index!</strong></p>\n<p>We gather all the audits in this index so the community members can easily access the transparency audits of the WGs in one place and enable mutual monitoring. The Transparency WG will update the links to the audits posted in the forum, as well as the transparency level every time WGs conduct a new audit.</p>\n<p>If you have suggestions or questions about this index, please reply to this post.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Working Group</th>\n<th>Date of audit</th>\n<th>Transparency Level</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Comms</td>\n<td><a href=\"https://forum.tecommons.org/t/communications-wg-audit/418\">June 10, 2021</a></td>\n<td><img alt=\":yellow_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=9\" title=\":yellow_circle:\"/></td>\n</tr>\n<tr>\n<td>Gravity</td>\n<td><a href=\"https://forum.tecommons.org/t/gravity-wg-audit/335\">April 8, 2021</a></td>\n<td><img alt=\":green_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/></td>\n</tr>\n<tr>\n<td>Legal</td>\n<td><a href=\"https://forum.tecommons.org/t/legal-working-group-audit/319\">March 23, 2021</a></td>\n<td><img alt=\":green_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/></td>\n</tr>\n<tr>\n<td>Hatch Outreach</td>\n<td><a href=\"https://forum.tecommons.org/t/hatch-outreach-audit/346\">April 20, 2021</a></td>\n<td><img alt=\":green_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/></td>\n</tr>\n<tr>\n<td>Parameters</td>\n<td><a href=\"https://forum.tecommons.org/t/params-working-group-audit/325\">March 24, 2021</a></td>\n<td><img alt=\":yellow_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=9\" title=\":yellow_circle:\"/></td>\n</tr>\n<tr>\n<td>Soft Gov</td>\n<td><a href=\"https://forum.tecommons.org/t/soft-gov-wg-audit/338\">April 14, 2021</a></td>\n<td><img alt=\":green_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/></td>\n</tr>\n<tr>\n<td>Stewards</td>\n<td><a href=\"https://forum.tecommons.org/t/community-stewards-audit/367\">May 7, 2021</a></td>\n<td><img alt=\":green_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/></td>\n</tr>\n<tr>\n<td>Transparency</td>\n<td><a href=\"https://forum.tecommons.org/t/transparency-wg-audit/290\">March 11, 2021</a></td>\n<td><img alt=\":yellow_circle:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=9\" title=\":yellow_circle:\"/></td>\n</tr>\n</tbody>\n</table>\n</div><p><img alt=\":green_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_circle.png?v=9\" title=\":green_circle:\"/> 80% to 100% of the criteria are met; the WG is very transparent<br/>\n<img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=9\" title=\":yellow_circle:\"/> 50% to 79% of the criteria are met; the WG is somehow transparent<br/>\n<img alt=\":red_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/red_circle.png?v=9\" title=\":red_circle:\"/> Less than 50% of the criteria are met; the WG is encouraged to be more transparent</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210928020408",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-transparency-audit-index/473"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-07-06T13:46:22Z",
+   "updated_at": "2021-07-06T13:46:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210928020408",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-transparency-audit-index/473"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928020408",
+   "url": "https://forum.tecommons.org/t/welcome-to-the-transparency-audit-index/473"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928020408",
+   "url": "https://forum.tecommons.org/t/welcome-to-the-transparency-audit-index/473"
+  }
+ ]
+}

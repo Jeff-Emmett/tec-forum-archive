@@ -1,0 +1,147 @@
+{
+ "id": 270,
+ "title": "SourceCred in the TEC",
+ "slug": "sourcecred-in-the-tec",
+ "category_id": 5,
+ "posts_count": 5,
+ "created_at": "2021-03-04T22:39:49.391Z",
+ "last_posted_at": "2021-06-15T17:54:53.136Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2022-03-14T20:08:34Z",
+ "captured_between": [
+  "2021-04-20T12:52:45Z",
+  "2022-05-20T06:55:19Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2021-03-04T22:39:49Z",
+   "updated_at": "2021-03-05T18:05:27Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<h1>SourceCred Informative Post</h1>\n<p><img alt=\"image\" data-base62-sha1=\"rIkXFmVoP9qR31joP4paXblB97b\" height=\"198\" src=\"https://forum.tecommons.org/uploads/default/original/1X/c23dc41a82e323cbd6c6830bddc4196a876a9169.png\" width=\"198\"/></p>\n<p>As a tool for communities to measure and reward value creation, SourceCred allows the TEC to gather reliable and objective contributions data from two of our main platforms, Github and Discourse.</p>\n<p>The main mechanics of SourceCred work as explained next:</p>\n<p>“SourceCred has two components Cred and Grain. Cred builds up when you do things for the community, and basically the more Cred you have, the wider the mouth of your bucket is. Cred is not considered an Asset, and all users automatically receive Cred. Grain on the other hand can be considered an Asset, and users need to opt in to receive Grain. Grain does not need to be used in a community if the community merely wants to keep track of who contributed what. Grain can be used to distribute funds within the community. Grain can be thought of as rain, and the wider your bucket is (due to you having more Cred), the more grain you can catch.” - <span class=\"mention\">@rogervs</span> at <a href=\"https://github.com/cadCAD-org/Working-Groups/issues/15#issuecomment-771223623\">github</a></p>\n<p>With SourceCred we want to start experimenting and add another layer to our current rewards system where we can measure real work from contributors in an automated way - this won’t replace praise, it will support it.</p>\n<p>So, one of the main decisions for our community to make is what actions and interactions provide more Cred to the collaborator, these are defined in the weight configuration <a href=\"https://tecommons.github.io/tec-sourcecred/#/explorer\">here</a>:</p>\n<p>If you take a look on the weight configuration inside the explorer you’ll see a couple of symbols, alpha (α) and beta (β). Alpha is the user or action (linked to an user) that will get the most amount configured in the distribution interacting in a specific way with Beta, where Beta could also be another user or action. These in general are nodes that will carry the weight of the cred.</p>\n<p>There’s a range between 0x to 32x to select the multiplied amount of Cred that should “flow” for an action. This number in particular is where we need to find consensus, so if you believe that something should get zero recognition for doing something, the value should be 0x, on the other hand if you believe that a certain action is really important and should be fully recognized it’s fine to consider assigning 4x to it - But hey you may ask, why 4x and not 32x? We probably want to keep the graph balanced, in other words, we may want to keep the flow of value very well distributed, 32x would rest importance to other actions, maybe we want that or maybe we’d like to keep our contributions to be equally recognized, this is our decision to make.</p>\n<p>In the first stages we would like to focus more on the node/action weights than the edges/interactions weights, so don’t put much thought into what’s going on with the alphas and betas and let’s find balance and get the right quantification from our graph with the value of our actions. There’s still many things to learn and not everything needs to be understood with 100% clarity, for now let’s experiment and find out what should generate more recognition and value inside our community by trying it out live!</p>\n<p>Let’s summarize the actions and interactions that are more important right now according to our collective hack sessions:</p>\n<h3>Github</h3>\n<h4>Main Actions</h4>\n<ul>\n<li>Make an Issue</li>\n<li>Make a comment</li>\n</ul>\n<h4>Interactions</h4>\n<p>In this case “something” can be an issue or a comment</p>\n<ul>\n<li>Something is being authored</li>\n<li>Something is being merged</li>\n<li>Something is being referenced</li>\n</ul>\n<h3>Discourse</h3>\n<h4>Main Actions</h4>\n<ul>\n<li>Make a topic</li>\n<li>Make a post</li>\n<li>Give a like</li>\n</ul>\n<h4>Interactions</h4>\n<ul>\n<li>You get a reply to your post</li>\n<li>You make a reply</li>\n<li>Someone makes something with your topic</li>\n<li>You make a topic</li>\n<li>Your topic is contained in a post</li>\n<li>Your topic is referenced</li>\n<li>Your post is liked</li>\n<li>Your post is referenced</li>\n<li>You are being mentioned</li>\n</ul>\n<p>Every update of the instance and grain distribution occurs manually and cred data is added every week automatically, following the current parameters regarding budget allocation and total grain to distribute. We can set how the current budget will be distributed between newcomers and old contributors setting a difference between immediate and previous cred generated, this allows for everybody to keep getting some recognition even though they are not very active at the moment, we can decide what percentage for this works the best. We are proposing that this and other decisions will be mostly done through a committee to ensure safety and agility to this process. <a href=\"https://forum.tecommons.org/t/sourcecred-committee/271\">See the proposal here.</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520065519",
+    "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-06-10T18:20:07Z",
+   "updated_at": "2021-06-10T18:20:07Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#starupdates-1\" name=\"starupdates-1\"></a><img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/>Updates:</h2>\n<p>We have deployed a DAO similar to 1hive’s Polen to distribute SourceCred rewards to the TEC community. <a href=\"https://aragon.1hive.org/#/tecdrops/\">TECDROPS</a></p>\n<p><img alt=\":space_invader:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/space_invader.png?v=9\" title=\":space_invader:\"/> <strong>How will this DAO work?</strong></p>\n<ul>\n<li>A proposal will be made to the TEC with this DAO’s address in the recipient to cover the distributions every once in a while.</li>\n<li>We’ll have a channel on Discord dedicated to collect people’s addresses and handle’s through a bot built by <a class=\"mention\" href=\"/u/vyvy-vi\">@Vyvy-vi</a>\n</li>\n<li>This bot will feed a spreadsheet that will be uploaded to the DAO by <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a>\n</li>\n<li>Members of the DAO (listed bellow) will check the information of this spreadsheet and vote if this distribution should happen as it is or not - this is a human layer protection in case people start gaming SourceCred.</li>\n<li>The DAO has 8 members and the vote duration is of 24h.</li>\n<li>Quorum is 41% - so at least 3 people have to vote on every round</li>\n<li>Support required is 81% - so 1 person can block a vote if up to 4 people are voting, and 2 people can block the vote in any scenario.</li>\n<li>Distribution will happen by the DAO once the proposal is approved.</li>\n<li>Inactive DAO participants will have their tokens burned so new people can jump in.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#next-steps-for-implementation-2\" name=\"next-steps-for-implementation-2\"></a>Next steps for implementation:</h3>\n<ul>\n<li>\n<a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a> is implementing this app where we’ll be able to list the addresses and amount to send and transfer it all. A much more elegant solution that <a href=\"https://aragon.1hive.org/#/pollen/0x14ead0d03aca4e8b8f61830b71adb35e3809eb92/\">will look like this</a>\n</li>\n<li>Once this is finished we’ll have our first test distribution, expected to happen next week.</li>\n</ul>\n<p><img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> Community members who were present in the last Soft Gov/ SourceCred hack call could opt in to be a part of the DAO and be responsible for voting on all the future distributions. They are:</p>\n<ul>\n<li>Mateo</li>\n<li>Livia</li>\n<li>Santi</li>\n<li>Zeptimus</li>\n<li>Nate</li>\n<li>Anna-Marie</li>\n<li>Chuy</li>\n<li>Escanore</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520065519",
+    "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2021-06-10T18:48:09Z",
+   "updated_at": "2021-06-10T18:48:09Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Yaaaaay!!!<br/>\nIn future, we could also have the entries from discord automatically added to the sourcecred instance, with help from <a href=\"https://github.com/hernandoagf\"><code>@hernandogf</code></a>(Hernando from 1hive), who has worked with automating the flow. (I won’t be of much help in automatically adding the values to SC, since their API is undocumented).<br/>\nI had a chat with hernando, and he would be interested in helping out with that <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520065519",
+    "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-06-15T16:27:46Z",
+   "updated_at": "2021-06-15T16:27:46Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>is this what you were mentioning <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a>?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520065519",
+    "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "mateodaza",
+   "name": null,
+   "created_at": "2021-06-15T17:54:53Z",
+   "updated_at": "2021-06-15T17:54:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yes exactly, so far I’m setting all that info on a spreadsheet like this one: <a class=\"inline-onebox\" href=\"https://docs.google.com/spreadsheets/d/1mpzYbCeN1cqnZwYALcagtfiNtCzUsePxJ7sWb_62FQ4/edit?usp=sharing\">TEC SourceCred - Google Tabellen</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520065519",
+    "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "bustavo",
+   "name": null,
+   "created_at": "2022-03-14T20:08:34Z",
+   "updated_at": "2022-03-14T20:08:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The link to: <a href=\"https://tecommons.github.io/tec-sourcecred/#/explorer\" rel=\"noopener nofollow ugc\">https://tecommons.github.io/tec-sourcecred/#/explorer</a> is broken. It should be this: <a class=\"inline-onebox\" href=\"https://github.com/CommonsBuild/tec-sourcecred\" rel=\"noopener nofollow ugc\">GitHub - CommonsBuild/tec-sourcecred: The TEC SourceCred instance</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220520065519",
+    "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420125245",
+   "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420125245",
+   "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210729015759",
+   "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210729015759",
+   "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520065519",
+   "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520065519",
+   "url": "https://forum.tecommons.org/t/sourcecred-in-the-tec/270"
+  }
+ ]
+}

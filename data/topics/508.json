@@ -1,0 +1,47 @@
+{
+ "id": 508,
+ "title": "Token Thaw - Token Release Cliff",
+ "slug": "token-thaw-token-release-cliff",
+ "category_id": 26,
+ "posts_count": 0,
+ "created_at": "2021-07-21T17:20:37.891Z",
+ "last_posted_at": "2021-07-21T17:20:38.119Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-07-21T17:20:38Z",
+ "captured_between": [
+  "2023-02-04T02:49:43Z",
+  "2023-02-04T02:49:43Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-07-21T17:20:38Z",
+   "updated_at": "2021-07-21T17:20:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The <strong>Token Thaw</strong> period is the amount of time from when the Token Freeze ends until 100% of the TEC tokens become liquid and available. As tokens begin to thaw the price floor descends, linearly, eventually reaching zero when 100% of the TEC tokens are rendered liquid. This constitutes the end of the Token Thaw period. Ideally, by this time the Commons should be well on its way, advancing token engineering, and the TEC token having firm value backing it.</p>\n<p><strong>Token Release Cliff</strong></p>\n<p>The <strong>Token Release Cliff</strong> graphs the relationship between time (i.e. weeks transpired) and its corresponding price floor (i.e. the minimum possible price of the TEC token at a certain point in time).</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230204024943",
+    "url": "https://forum.tecommons.org/t/token-thaw-token-release-cliff/508"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204024943",
+   "url": "https://forum.tecommons.org/t/token-thaw-token-release-cliff/508"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204024943",
+   "url": "https://forum.tecommons.org/t/token-thaw-token-release-cliff/508"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "id": 1097,
+ "title": "TE Academy Partnership with Mass Effect",
+ "slug": "te-academy-partnership-with-mass-effect",
+ "category_id": 11,
+ "posts_count": 2,
+ "created_at": "2022-07-25T16:29:31.412Z",
+ "views": 8,
+ "last_posted_at": "2022-07-25T16:29:32.799Z",
+ "tags": [
+  "advice-process"
+ ],
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2022-08-04T20:49:07Z",
+ "captured_between": [
+  "2022-07-25T16:39:47Z",
+  "2022-08-15T10:31:54Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ManuelMaccou",
+   "name": null,
+   "created_at": "2022-07-25T16:29:32Z",
+   "updated_at": "2022-07-25T16:29:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>TL;DR</strong></p>\n<p>This is a partnership proposal for an external, collaborative education project called Mass Effect. We would like to provide a space for students of TE Academy to graduate into, help others by sharing the knowledge they’ve obtained from the course, and receive compensation for sharing that knowledge with the wider community.</p>\n<p>Because this partnership proposal affects a large sub-community of TEC with long-term implications, I’m using the advice process for this draft. Following advice, I will move the final version to Snapshot if recommended during this advice process. Thank you all in advance for your input.</p>\n<p><strong>Background</strong></p>\n<p>Mass Effect is a knowledge transfer protocol that incentivizes the flow of information from subject matter experts to learners. In almost all methods of education, the flow of knowledge stops after the educator passes information to a learner. This may be efficient for that closed system, but we are not taking full advantage of cryptoeconomics and the coordination layers of Web3. Think of transferring knowledge as transferring heat, light, or other forms of energy. When energy moves from one body to another, it doesn’t just stop. It’s continuously moving through everything in its environment. Knowledge can and should be treated the same way. What happens when we incentivize learners to continue the flow of knowledge to a larger, more diverse population? When more people hold the necessary knowledge, more problems get solved, and humanity thrives.</p>\n<p><strong>Specification</strong></p>\n<p>Mass Effect is in the community development and beta phases. This entails building relationships with educational institutions and organizations like TEC that are teaching Web3 concepts and skills. Through these relationships, Mass Effect is creating a space where learners from around the world can come together to share information, increase the spread of knowledge, turn learners into educators, and create opportunities to earn an income. The beta version of Mass Effect will bring these communities together via Discord. TE Academy is playing an important role in creating more token engineers, and I would like to invite all graduates to this collective community.</p>\n<p>All graduates will receive an NFT issued by TE Academy or Mass Effect. This NFT grants them access to the private community on Discord. This community will be a collection of Web3-experienced minds eager to learn from each other. There will also be a learning-based economy where members can tip each other for teaching them new concepts.</p>\n<p>More details of this partnership, such as marketing, can be ironed out after a consensus is reached.</p>\n<p><strong>Financial implications</strong></p>\n<p>There is no financial ask for this partnership.</p>\n<p><strong>How is it relevant to the TEC mission, vision, and values?</strong></p>\n<p>TEC aims to be a Schelling Point for the token engineering community, as well as create more token engineers through programs like TE Academy. Mass Effect directly assists with that goal by:</p>\n<ul>\n<li>Creating a virtual space, an actual Schelling Point, for your students to cement these complex concepts in their minds by teaching and helping others.</li>\n<li>Creating more opportunities for Token Engineers to educate the public, increasing the impact of the TE Academy program.</li>\n</ul>\n<p><strong>Who is going to be affected by what you’re proposing?</strong></p>\n<ul>\n<li>The current and future students of TE Academy.</li>\n<li>The TEC community and brand will strengthen through this educational partnership. Mass Effect aims to have a significant impact on how people learn in Web3. TEC will benefit from being an early partner and supporter of that initiative.</li>\n<li>Future Mass Effect users will benefit from the early support from communities like TEC.</li>\n</ul>\n<p><strong>A long-term partnership</strong></p>\n<p>The details of this proposal represent my short-term vision for a TEC/Mass Effect partnership. When Mass Effect is built, it will be a permanent resource for your students to graduate into, continue learning, teach, earn an income, and build their credentials. <a href=\"https://docs.thisismasseffect.com/introduction/what-is-mass-effect\" rel=\"noopener nofollow ugc\">You can learn more about the future of Mass Effect here</a>.</p>\n<p>Please share your thoughts and feedback in the comments. I love what you all are doing and would love to work together.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815103154",
+    "url": "https://forum.tecommons.org/t/te-academy-partnership-with-mass-effect/1097"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2022-08-02T10:07:15Z",
+   "updated_at": "2022-08-02T10:07:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/manuelmaccou\">@ManuelMaccou</a> thanks for your proposal. I appreciate any protocol that is addressing learning and knowledge. We can’t have enough of it!</p>\n<p>Still, when reading through your documentation, I have some question marks on the financial mechanisms you propose:<br/>\n“Mass Effect is a knowledge transfer protocol aimed at giving equal access to information and education. Mass Effect connects people who have questions with those who have answers. Learners post a question or a topic they want to learn, and educators are financially incentivized to transfer that knowledge.”<br/>\n“You teach Mary about tokenomics → Mary teaches John about tokenomics for a fee of 200 MSE → You receive 2% of the fee (4 MSE). If Mary has learned tokenomics from multiple sources within the Mass Effect platform, the fee will be shared among the educators.”</p>\n<p>On one hand I find the model of cascading rewards back to original knowledge creators really exciting.  <img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/> On the other hand: the idea of having students pay per answer sounds weird. Is this in line with “equal access?” And what if a question is too complex to solve with a single answer?<br/>\nContradictory to our education philosophy at TE Academy.<br/>\nQuite some open question, still happy to start a conversation. <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815103154",
+    "url": "https://forum.tecommons.org/t/te-academy-partnership-with-mass-effect/1097"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ManuelMaccou",
+   "name": null,
+   "created_at": "2022-08-04T20:49:07Z",
+   "updated_at": "2022-08-04T20:49:07Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>. Thank you for taking a look at this. You ask a great question. I do feel like this is still equal access, but more explanation of the future product might be needed to realize it. The idea that Mass Effect is built around is, “everyone can be an educator”. We all hold knowledge that others can benefit from. And if we share that knowledge, we provide the necessary information to solve our biggest problems, and we move humanity forward.</p>\n<p>Today, there is little incentive for me to share the random bits of knowledge that I hold, let alone a good platform to do it on. This changes with the unlocks from Web3 principles and cryptocurrencies. Successful execution of Mass Effect results in an economy driven by intellectual capital where knowledge is currency. Today I have no access to an industry expert on economics. Either it’s very difficult to reach them or it’s prohibitively expensive. That is not equal access. Quora might be an exception but I can share why that’s inferior another time. With Mass Effect, I can help others by exchanging my knowledge for tokens that represent that transference of information, and use those tokens to “pay” for access to the industry expert. The time with the SME didn’t cost me $5,000. I just needed to help 25 people by sharing knowledge. That to me is equal access. There will be completely free education on the platform as well that is 100% open access education, but I’m just explaining the cryptoeconomic portion.</p>\n<p>That was a long answer, sorry about that. Concise answers are not my strength <img alt=\":innocent:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/innocent.png?v=10\" title=\":innocent:\"/>. I’ll also point out that the explanation in the docs I linked in the original post is for the fully released version which is still flexible. However, it is not the same as the beta version I’m creating, which is what I’m proposing TE Academy be involved with in the short term while the full version is being built.</p>\n<p>Lots of words…happy to talk more on a call.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815103154",
+    "url": "https://forum.tecommons.org/t/te-academy-partnership-with-mass-effect/1097"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220725163947",
+   "url": "https://forum.tecommons.org/t/te-academy-partnership-with-mass-effect/1097"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815103154",
+   "url": "https://forum.tecommons.org/t/te-academy-partnership-with-mass-effect/1097"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815103154",
+   "url": "https://forum.tecommons.org/t/te-academy-partnership-with-mass-effect/1097"
+  }
+ ]
+}

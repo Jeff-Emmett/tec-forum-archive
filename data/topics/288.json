@@ -1,0 +1,104 @@
+{
+ "id": 288,
+ "title": "State of the Hatch and Beyond",
+ "slug": "state-of-the-hatch-and-beyond",
+ "category_id": 18,
+ "posts_count": 2,
+ "created_at": "2021-03-14T06:50:01.586Z",
+ "views": 65,
+ "last_posted_at": "2021-03-15T15:17:25.076Z",
+ "highest_post_number": 4,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2021-03-15T15:17:25Z",
+ "captured_between": [
+  "2021-03-18T04:06:29Z",
+  "2021-06-24T16:22:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-03-14T06:50:01Z",
+   "updated_at": "2021-03-15T02:52:21Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<h1>State of the Hatch and Beyond</h1>\n<p>This forum post is a summary of the hatch sync between Sem and YGG that happened on March 12th 2021. The sync is recorded and is a great supplement to this summary:</p>\n<p>SEM REVEALS ALL <img alt=\":crystal_ball:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crystal_ball.png?v=9\" title=\":crystal_ball:\"/><img alt=\":crystal_ball:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crystal_ball.png?v=9\" title=\":crystal_ball:\"/><img alt=\":crystal_ball:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crystal_ball.png?v=9\" title=\":crystal_ball:\"/></p><div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"HKPkH-wbG8k\" data-youtube-title=\"SEM REVEALS ALL 🔮🔮🔮\">\n<a href=\"https://www.youtube.com/watch?v=HKPkH-wbG8k\" rel=\"noopener nofollow ugc\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/original/1X/464c00ccb1f8202f0b999b38b6fcf7ebc74d75af.jpeg\" title=\"SEM REVEALS ALL 🔮🔮🔮\" width=\"690\"/>\n</a>\n</div>\n<p>First off, make sure you have read <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/the-hatch-tl-dr/272\">The Hatch TL;DR</a> so you know what’s going on.</p>\n<p>Phase 1 of The Token Engineering Commons, The Hatch DAO is almost ready to launch.</p>\n<p><a class=\"onebox\" href=\"https://wiki.1hive.org/community/swarms/commons\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://wiki.1hive.org/community/swarms/commons</a></p>\n<p>For the past week, Sem and Paulo have been sharing an apartment, working around the clock to finalize the contracts.<br/>\n<a class=\"onebox\" href=\"https://media4.giphy.com/media/ls9xCyaVCP6ntJdfBg/giphy.gif\" rel=\"noopener nofollow ugc\" target=\"_blank\">\n<img height=\"480\" src=\"https://media4.giphy.com/media/ls9xCyaVCP6ntJdfBg/giphy.gif\" width=\"373\"/>\n</a>\n</p>\n<p>Before launching, <strong>we need to freeze the contracts</strong> so that they can be formally audited for security vulnerabilities. The commons swarm is now working on the final touches before freezing the contracts. As hatchers, we have the power to help them out! Read the docs, run the tests, ask the questions, or simply show your moral support to the dev team as they work around the clock to run the final checks and tests needed for blast off!</p>\n<p> </p><div class=\"large-image-placeholder\"><a href=\"https://media2.giphy.com/media/dut5x9NGlzl2Lj9y4d/giphy.gif\" rel=\"noopener nofollow ugc\" target=\"_blank\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"url\">https://media2.giphy.com/media/dut5x9NGlzl2Lj9y4d/giphy.gif</span><span class=\"help\">(image larger than 4096KB)</span></a></div>\n<h3>Needed for the freeze:</h3>\n<ol>\n<li>Test Migration Tools</li>\n<li>Documentation on the migration tools</li>\n<li>Tests on the hatch template</li>\n</ol>\n<h4>The Migration Tools</h4>\n<p>This is a custom contract written by commons swarm that will be used to upgrade from the Hatch DAO to the TEC DAO (Phase 1 to Phase 2). We need to get it right before launching phase 1. On Friday March 12th Shawn and Sem went through the logic carefully and it seems to make sense. The more eyeballs on this contract, the better. The more formal testing, the better. The more documentation, the better.</p>\n<aside class=\"onebox githubblob\">\n<header class=\"source\">\n<a href=\"https://github.com/CommonsSwarm/migration-tools/blob/master/contracts/MigrationTools.sol\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<h4><a href=\"https://github.com/CommonsSwarm/migration-tools/blob/master/contracts/MigrationTools.sol\" rel=\"noopener nofollow ugc\" target=\"_blank\">CommonsSwarm/migration-tools/blob/master/contracts/MigrationTools.sol</a></h4>\n<pre><code class=\"lang-sol\">pragma solidity ^0.4.24;\n\nimport \"@aragon/os/contracts/lib/math/SafeMath.sol\";\nimport \"@aragon/os/contracts/lib/math/SafeMath64.sol\";\nimport \"@aragon/apps-vault/contracts/Vault.sol\";\nimport \"@aragon/apps-token-manager/contracts/TokenManager.sol\";\n\n\ncontract MigrationTools is AragonApp {\n    using SafeMath for uint256;\n    using SafeMath64 for uint64;\n\n    uint256 public constant PCT_BASE = 10 ** 18; // 0% = 0; 1% = 10^16; 100% = 10^18\n\n    /// Events\n    event MigrateDao(address _openableApp, address vault1, address vault2);\n    event ConvertTokens(address indexed holder, uint256 amount, uint256 vestingId);\n\n    /// State\n\n</code></pre>\n\n  This file has been truncated. <a href=\"https://github.com/CommonsSwarm/migration-tools/blob/master/contracts/MigrationTools.sol\" rel=\"noopener nofollow ugc\" target=\"_blank\">show original</a>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>The Commons swarm team is currently developing tests for this file. Once they have a few good example tests, it will be easy for others in the community to expand them and consider the coverage.</p>\n<h4>Hatch Template Tests</h4>\n<p>This is the repository that will launch the Hatch DAO (Phase 1). Hatch params will be plugged into packages/hardhat/scripts/new-hatch.ts.</p><aside class=\"onebox githubfolder\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsSwarm/hatch-template\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:420/420;\"><img class=\"thumbnail\" height=\"420\" src=\"https://avatars.githubusercontent.com/u/80207643?s=400&amp;amp;v=4\" width=\"420\"/></div>\n<h3><a href=\"https://github.com/CommonsSwarm/hatch-template\" rel=\"noopener nofollow ugc\" target=\"_blank\">CommonsSwarm/hatch-template</a></h3>\n<p><span class=\"label1\">Contribute to CommonsSwarm/hatch-template development by creating an account on GitHub.</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>An example of such a test is the following:</p>\n<ol>\n<li>Open The Hatch</li>\n<li>Let’s Contribute</li>\n<li>Let’s Claim the impact hours</li>\n<li>Let’s close the hatch</li>\n<li>Now we all have TEC tokens and the funds are in the vaults.</li>\n<li>Now let’s migrate.</li>\n</ol>\n<h3>For the Commons Upgrade (Phase 2)</h3>\n<p>This is the base DAO template that will become commons-template</p>\n<aside class=\"onebox githubfolder\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/1Hive/honey-template\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:400/400;\"><img class=\"thumbnail\" height=\"400\" src=\"https://avatars.githubusercontent.com/u/29875830?s=400&amp;amp;v=4\" width=\"400\"/></div>\n<h3><a href=\"https://github.com/1Hive/honey-template\" rel=\"noopener nofollow ugc\" target=\"_blank\">1Hive/honey-template</a></h3>\n<p><span class=\"label1\">Contribute to 1Hive/honey-template development by creating an account on GitHub.</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>These contracts are the base of the commons swarm. The contracts will be modified in two primary ways:</p>\n<ol>\n<li>scripts/<strong>new-dao.js</strong> will be modified (<strong>Commons Upgrade Params!</strong>)</li>\n<li>External <strong>components</strong> will be swapped and added<br/>\na. <strong>Dynamic Issuance Policy</strong> (used for HNY) will be swapped by a <strong>Bonding Curve</strong><br/>\nb. <strong>BrightID Registry</strong> will be <strong>removed</strong><br/>\nc. <strong>Migration Tools</strong> will be <strong>added</strong>\n</li>\n</ol>\n<p>The template already includes a <strong>Disputable Voting</strong> and <strong>Disputable Conviction Voting</strong> that work altogether with Celeste.</p>\n<h4>Commons Upgrade Params - new-dao.js</h4>\n<p>Honey Template parameters</p><aside class=\"onebox githubblob\">\n<header class=\"source\">\n<a href=\"https://github.com/1Hive/honey-template/blob/master/scripts/new-dao.js\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<h4><a href=\"https://github.com/1Hive/honey-template/blob/master/scripts/new-dao.js\" rel=\"noopener nofollow ugc\" target=\"_blank\">1Hive/honey-template/blob/master/scripts/new-dao.js</a></h4>\n<pre><code class=\"lang-js\">const fs = require('fs')\nconst path = require(\"path\");\nconst HoneyPotTemplate = artifacts.require(\"HoneyPotTemplate\")\nconst MiniMeToken = artifacts.require(\"MiniMeToken\")\nconst HookedTokenManager = artifacts.require(\"IHookedTokenManager\")\n\nconst { pct16, bn, bigExp, getEventArgument, ONE_DAY } = require('@aragon/contract-helpers-test')\n\nconst FROM_ACCOUNT = \"0xdf456B614fE9FF1C7c0B380330Da29C96d40FB02\"\nconst DAO_ID = \"honey-pot\" + Math.random() // Note this must be unique for each deployment, change it for subsequent deployments\nconst NETWORK_ARG = \"--network\"\nconst DAO_ID_ARG = \"--daoid\"\n\nconst argValue = (arg, defaultValue) =&gt; process.argv.includes(arg) ? process.argv[process.argv.indexOf(arg) + 1] : defaultValue\nconst getLogParameter = (receipt, log, parameter) =&gt; receipt.logs.find(x =&gt; x.event === log).args[parameter]\n\nconst network = () =&gt; argValue(NETWORK_ARG, \"local\")\nconst daoId = () =&gt; argValue(DAO_ID_ARG, DAO_ID)\nconst configFilePath = () =&gt; network() === \"rinkeby\" ? '../output/rinkeby-config.json' : '../output/xdai-config.json'\n\n</code></pre>\n\n  This file has been truncated. <a href=\"https://github.com/1Hive/honey-template/blob/master/scripts/new-dao.js\" rel=\"noopener nofollow ugc\" target=\"_blank\">show original</a>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>\nThis repository will be forked into <strong>commons-template</strong> and the parameters will be updated.</p>\n<h4>Commons Swarm Components</h4>\n<p>This is the <strong>honey issuance</strong> component. We will turn this into a <strong>bonding curve</strong>.</p><aside class=\"onebox githubfolder\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/1Hive/honey-template\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:400/400;\"><img class=\"thumbnail\" height=\"400\" src=\"https://avatars.githubusercontent.com/u/29875830?s=400&amp;amp;v=4\" width=\"400\"/></div>\n<h3><a href=\"https://github.com/1Hive/honey-template\" rel=\"noopener nofollow ugc\" target=\"_blank\">1Hive/honey-template</a></h3>\n<p><span class=\"label1\">Contribute to 1Hive/honey-template development by creating an account on GitHub.</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>TECommons Marketplace App. This is the <strong>terribly named</strong> Aragon <strong>bonding curve</strong> application! We are going to combine the contracts from here into the honey-template above to form the commons-template.</p><aside class=\"onebox githubfolder\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/TECommons/marketplace-app\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:400/400;\"><img class=\"thumbnail\" height=\"400\" src=\"https://avatars.githubusercontent.com/u/72481541?s=400&amp;amp;v=4\" width=\"400\"/></div>\n<h3><a href=\"https://github.com/TECommons/marketplace-app\" rel=\"noopener nofollow ugc\" target=\"_blank\">TECommons/marketplace-app</a></h3>\n<p><span class=\"label1\">Contribute to TECommons/marketplace-app development by creating an account on GitHub.</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>\nThe marketplace-app has 4 components:</p>\n<ol>\n<li>bancor-formula<br/>\nThis is a (black box) formula that computes the minting and unminting amounts given the of the bonding curve. It works. It’s audited. We don’t have to worry about it. We will use it in phase 2 of the hatch.</li>\n<li>bancor market maker<br/>\nThis is the juicy bonding curve. Sweet sweet liquidity.</li>\n<li>marketplace-controller<br/>\nBecause we are not using the presale in the new-dao, we should be able to just use the market maker directly and forget about the controller.</li>\n<li>Presale<br/>\nWe are not doing a presale. Reserve funds from phase 1 will be sent directly to the reserve of phase 2.</li>\n</ol>\n<p>You can read more about the above mechanism in the Aragon Black docs.</p><aside class=\"onebox githubfolder\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/AragonBlack/fundraising\" rel=\"noopener nofollow ugc\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:400/400;\"><img class=\"thumbnail\" height=\"400\" src=\"https://avatars.githubusercontent.com/u/46165111?s=400&amp;amp;v=4\" width=\"400\"/></div>\n<h3><a href=\"https://github.com/AragonBlack/fundraising\" rel=\"noopener nofollow ugc\" target=\"_blank\">AragonBlack/fundraising</a></h3>\n<p><span class=\"label1\">Fundraising apps suite for Aragon organizations. Contribute to AragonBlack/fundraising development by creating an account on GitHub.</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>\nTo see the parameters in action at <a href=\"http://mainnet.aragon.org\" rel=\"noopener nofollow ugc\">mainnet.aragon.org</a> → New Organization → New Fundraising App.</p>\n<p>The commons swarm team is currently combining all of the components as mentioned above into a single repository called commons-swarm. After these components are combined, we need tests, tests, and more tests.</p>\n<h2>Summary: What needs to be done:</h2>\n<h3>For the Hatch</h3>\n<p>Migration Tools - Tests and Documentation<br/>\nHatch Template - Tests and Documentation</p>\n<h3>Post Hatch</h3>\n<ol>\n<li>Commons Template with the Bonding Curve<br/>\nMarketplace App → Honey Template</li>\n<li>Parameters from the bonding curve into params modelling<br/>\na. Entry Tribute<br/>\nb. Exit Tribute<br/>\nc. Reserve Ratio<br/>\nd. Virtual Supply<br/>\ne. Virtual Balance</li>\n</ol>\n<p>Thanks everyone for your hard work!</p>\n<p>If you are reading this and want to help, reach out to <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> <a class=\"mention\" href=\"/u/sem\">@sem</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/paulo\">@paulo</a> <a class=\"mention\" href=\"/u/freedumbs00\">@Freedumbs00</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210624162259",
+    "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-03-14T12:50:40Z",
+   "updated_at": "2021-03-14T12:50:40Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>That’s an awesome high-quality sum up of what is the state in which we are at the moment, thank you so much for doing this!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210624162259",
+    "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Freedumbs00",
+   "name": "Jake Cassani",
+   "created_at": "2021-03-14T17:36:36Z",
+   "updated_at": "2021-03-14T17:36:36Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Absolutely fantastic job on this!  Thank you</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210318040629",
+    "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-03-15T15:17:25Z",
+   "updated_at": "2021-03-15T15:17:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>“Sem reveals all” ← I love working with you guys!</p>\n<p>This was a really helpful sum-up. <img alt=\":pray:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray/3.png?v=9\" title=\":pray:t3:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210624162259",
+    "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210318040629",
+   "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624162259",
+   "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624162259",
+   "url": "https://forum.tecommons.org/t/state-of-the-hatch-and-beyond/288"
+  }
+ ]
+}

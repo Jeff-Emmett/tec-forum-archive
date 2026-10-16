@@ -1,0 +1,137 @@
+{
+ "id": 331,
+ "title": "Commons Upgrade Vote Demo",
+ "slug": "commons-upgrade-vote-demo",
+ "category_id": 18,
+ "posts_count": 5,
+ "created_at": "2021-04-09T03:17:01.153Z",
+ "last_posted_at": "2021-04-20T01:22:14.161Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-04-20T01:22:14Z",
+ "captured_between": [
+  "2022-05-20T07:51:49Z",
+  "2022-05-20T07:52:58Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-09T03:17:01Z",
+   "updated_at": "2021-04-09T20:15:03Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Last week’s <a href=\"https://hatch-demo.netlify.app/\">hatch demo</a> has ended with <a href=\"https://blockscout.com/poa/xdai/address/0xfe1bd38CEA1b9ed2fC8464d87d200D99e8f1B30f/token-transfers\">22 contributions</a> raising 19.07 WXDAI. An amount of 0.9535 WXDAI were sent to the non-redeemable vault (due to a <a href=\"https://github.com/CommonsSwarm/hatch-template/blob/hatch-template-test-cases/packages/hardhat/params-xdai.json#L20\">hatch tribute of 5%</a>), and the rest can be redeemed proportionally be TESTTECH holders.</p>\n<p>We minted <a href=\"https://github.com/CommonsSwarm/hatch-template/blob/hatch-template-test-cases/packages/hardhat/params-xdai.json#L18\">1 TESTTEC for each WXDAI</a> contributed, so <strong>19.07 TESTTEC</strong> were generated from donations. Appying the Impact Hours formula with the pre-selected parameters:</p>\n<ul>\n<li>max IH rate: 0.02 WXDAI/h</li>\n<li>IH slope: 0.01 WXDAI/h</li>\n<li>Total IH: 6630.243 h</li>\n</ul>\n<p>We obtain:</p>\n<ul>\n<li>\n<strong>IH rate:</strong> 0.02 * 19.07 / (19.07 + 0.01 * 6630.243) =  <strong>0.004467484 WXDAI/h</strong>\n</li>\n<li>Total <strong>TESTTECH coming from IH</strong>: 6630.243 * 0.004467484 = <strong>29.620507232 TESTTECH</strong>\n</li>\n<li>\n<strong>Cultural tribute</strong>: 29.620507232 / (29.620507232 + 19.07) = <strong>60.83%</strong>\n</li>\n</ul>\n<p>You can <strong>play with</strong> the original parameters in the <strong><a href=\"https://params.tecommons.org/test-hatch?ihminr=5&amp;hs=0.02&amp;maxihr=0.02&amp;ihtr=25&amp;ihmaxr=500&amp;hor=0.03&amp;hpd=6&amp;her=1&amp;ht=5&amp;sr=80&amp;maq=1&amp;vdd=3&amp;vbh=4&amp;rqh=1&amp;tfx=5\">hatch dashboard</a></strong>.</p>\n<p><strong>TESTTEC can be redeemed</strong> by WXDAI at a rate of 19.07 / 48.69 = <strong>0.39 WXDAI / TESTECH</strong>. There is no distinction between tokens that come from minting in the hatch or as reward for impact hours, both can be redeemed equally. You can do it in the <strong><a href=\"https://aragon.1hive.org/#/0x610f47ece09da2367f295950e5e4aea581bc7a23/0x8f3f386acb5aa0c191a9d8ff43534f0d4e1359af/\">Redemptions app</a></strong> before the migration.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e76486ae0c562308fcc6ef98b891635c21e061e9\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e76486ae0c562308fcc6ef98b891635c21e061e9.png\" title=\"Screenshot from 2021-04-09 03-52-38\"><img alt=\"Screenshot from 2021-04-09 03-52-38\" data-base62-sha1=\"x0ZFEx9kXcQEa2nBta8fh5z3MVz\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e76486ae0c562308fcc6ef98b891635c21e061e9_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e76486ae0c562308fcc6ef98b891635c21e061e9_2_357x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e76486ae0c562308fcc6ef98b891635c21e061e9_2_357x500.png, https://forum.tecommons.org/uploads/default/original/1X/e76486ae0c562308fcc6ef98b891635c21e061e9.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/e76486ae0c562308fcc6ef98b891635c21e061e9.png 2x\" width=\"357\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2021-04-09 03-52-38</span><span class=\"informations\">436×610 27.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>As you can see, you only obtain the 0.39 WXDAI for each WXDAI contributed to the hatch if you redeem at this stage. There is only two situations in which we recommend doing so:</p>\n<ul>\n<li>You are an impact hour holder that want to do some profit and prefers to have WXDAI now than locked TESTTEC when the DAO has been migrated (Commons Upgrade).</li>\n<li>You don’t agree on the result of the voting and want to rage quit before the migration is performed.</li>\n</ul>\n<p>We still don’t have Commons Template ready yet, so we will be migrating these funds to a <a href=\"https://aragon.1hive.org/#/tectest/organization/\">normal DAO</a> with two vaults and the TESTTEC token (note that the token obtained in the hatch is TESTTECH and the migration creates and locks the new TESTTEC token).</p>\n<p>The Commons Upgrade parameters will be decided by the TESTTECH tokenholders, but for the demo, the benevolent technocracy have decided some for you:</p>\n<ul>\n<li>Funding pool tribute: 10%</li>\n<li>Token locking cliff period: 0</li>\n<li>Token locking complete: 1 year</li>\n</ul>\n<p><strong><a href=\"https://aragon.1hive.org/#/0x610f47ece09da2367f295950e5e4aea581bc7a23/0x720809317f8c2d491d948d12cecc9eb3cf429ec6/vote/1/\">You can vote</a></strong> during the following <a href=\"https://github.com/CommonsSwarm/hatch-template/blob/hatch-template-test-cases/packages/hardhat/params-xdai.json#L9\">3 days</a>, so be quick! You can also rage quit at any moment before the migration (expected to happen in 4 days), except if you voted yes.</p>\n<p><img alt=\"Screenshot from 2021-04-09 05-08-32\" data-base62-sha1=\"xWBoZNnMdV7dB6arn93uOrKWQEp\" height=\"343\" src=\"https://forum.tecommons.org/uploads/default/original/1X/ede79e9d407af232e9cf2df4ba8507e8c7a4c0c9.png\" width=\"427\"/></p>\n<p>Some things to have into account:</p>\n<ul>\n<li>We know the date in the message is wrong. It’s only the message, the starting date is just after the migration, and the end is one year after. We will try to fix it in the next release.</li>\n<li>The remaining time to vote that appears in the interface is also wrong because it is not taking into account the different times per block on xDAI network. <strong>You have until Apr 12 at 3am UTC to vote.</strong>\n</li>\n</ul>\n<p>Happy testing!! <img alt=\":test_tube:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/test_tube.png?v=9\" title=\":test_tube:\"/><img alt=\":test_tube:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/test_tube.png?v=9\" title=\":test_tube:\"/><img alt=\":test_tube:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/test_tube.png?v=9\" title=\":test_tube:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520075258",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-09T20:23:34Z",
+   "updated_at": "2021-04-09T20:23:34Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>As <a class=\"mention\" href=\"/u/griff\">@griff</a> noted, we can not do a redemption (rague quit) yet. We have to wait one day after the hatch period.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520075258",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-14T15:17:46Z",
+   "updated_at": "2021-04-14T15:17:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>We had some issues with xDAI default node, Aragon IPFS default node and 1hive Redemptions <a href=\"https://hack.aragon.org/docs/forwarding-intro\">forwarding path</a>. We will be working on those problems during this week, please come forward if you have some ideas or progress on the matter.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520075258",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-15T16:56:49Z",
+   "updated_at": "2021-04-15T16:56:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The first vote did not have enough quorum. Here is the vote again:</p>\n<p><a class=\"onebox\" href=\"https://aragon.1hive.org/#/0x610f47ece09da2367f295950e5e4aea581bc7a23/0x720809317f8c2d491d948d12cecc9eb3cf429ec6/vote/2/\" rel=\"noopener\" target=\"_blank\">https://aragon.1hive.org/#/0x610f47ece09da2367f295950e5e4aea581bc7a23/0x720809317f8c2d491d948d12cecc9eb3cf429ec6/vote/2/</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520075258",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-15T18:46:32Z",
+   "updated_at": "2021-04-15T18:46:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>You can use these alternative xdai and ipfs nodes if you have problems with the vote (<a href=\"https://aragon.1hive.org/#/0x610f47ece09da2367f295950e5e4aea581bc7a23/0x720809317f8c2d491d948d12cecc9eb3cf429ec6/vote/2/?preferences=/network\">click here</a>):</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/7fffb153cb5fd52912a98d71a5e9057cf5b33801\" href=\"https://forum.tecommons.org/uploads/default/original/1X/7fffb153cb5fd52912a98d71a5e9057cf5b33801.png\" title=\"Screenshot from 2021-04-15 20-44-39\"><img alt=\"Screenshot from 2021-04-15 20-44-39\" data-base62-sha1=\"igksnM2fYPSUhrUyzH7sCmalhND\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/7fffb153cb5fd52912a98d71a5e9057cf5b33801_2_10x10.png\" height=\"276\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/7fffb153cb5fd52912a98d71a5e9057cf5b33801_2_690x276.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/7fffb153cb5fd52912a98d71a5e9057cf5b33801_2_690x276.png, https://forum.tecommons.org/uploads/default/original/1X/7fffb153cb5fd52912a98d71a5e9057cf5b33801.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/7fffb153cb5fd52912a98d71a5e9057cf5b33801.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot from 2021-04-15 20-44-39</span><span class=\"informations\">729×292 12.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520075258",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-20T01:22:14Z",
+   "updated_at": "2021-04-20T01:22:14Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The second vote has been executed and the migration has been performed. We originally had 19.07 wxDAI and created two votes with a cost of 5 wxDAI each paid as tollgate fees, being a total of 29.07 wxDAI between the redeemable and non-redeemable vaults. A 10% of these funds were sent to the <a href=\"https://blockscout.com/poa/xdai/address/0xA3Ba0eA7FedA7d5b833A72d40FE7b9F8E4716aCe/tokens\">funding pool</a> (2.907 wxDAI) and the rest went to the <a href=\"https://blockscout.com/poa/xdai/address/0x3F64A53eEB92803258D6638F0f10075a918157B7/tokens\">Reserve</a> (26.163 wxDAI).</p>\n<p>Old TESTTECH tokens got converted to new DAO’s TESTTEC based on the snapshot taken on the migration moment, the block 15627089. You can see the balances of TESTTEC in the <a href=\"https://aragon.1hive.org/#/0xDbaf5853723bc02d7325496589065959DC97A128/0xbe54dc233a78cb40eb0d895cd03fe3067bd4f282/\">new DAO’s token manager</a>. The migration also locked the tokens for 1 year, as specified in the migration vote.</p>\n<p>Nobody was able to redeem this time due to using an old contract that had a bug and had not enough permissions to burn tokens in the redemption. We redeployed a new contract with the bug already fixed and checked out <a href=\"https://aragon.1hive.org/#/0x759Bacd4eC25AA520AC61b19e5e21E4a0E5df6b3/permissions/\">all the permissions are in place</a>, so we hope everybody will be able to use this feature in the general rehearsal demo.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520075258",
+    "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520075149",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520075149",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520075258",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520075258",
+   "url": "https://forum.tecommons.org/t/commons-upgrade-vote-demo/331"
+  }
+ ]
+}

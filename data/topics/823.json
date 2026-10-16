@@ -1,0 +1,207 @@
+{
+ "id": 823,
+ "title": "Hatch Bot NFT in Metal 🤘",
+ "slug": "hatch-bot-nft-in-metal",
+ "category_id": 7,
+ "posts_count": 11,
+ "created_at": "2022-01-20T21:11:45.522Z",
+ "last_posted_at": "2022-03-30T16:17:39.814Z",
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2022-03-30T16:17:39Z",
+ "captured_between": [
+  "2022-05-20T07:22:17Z",
+  "2022-05-20T07:22:17Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-01-20T21:11:45Z",
+   "updated_at": "2022-01-20T21:16:53Z",
+   "reply_to_post_number": null,
+   "like_count": 11,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR</h3>\n<ul>\n<li>We will ship a physical version of the Hatch NFT to those who acquired it.</li>\n<li>We will pay retroactively the people who made possible the NFT in the first place, including the original artist.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description</h3>\n<p>We would like to bring the <strong><a href=\"https://nft.tecommons.org/\">Hatch Bot NFT</a></strong> into the real world, by printing it in aluminum and send it to their owners.</p>\n<p>We would also like to pay retroactively the organizations that helped creating the Hatch bot <a href=\"https://opensea.io/assets/0x2998d346c66259e3e73dd7410899948371a28e94/4873?ref=0xe3fac288a27fbdf947c234f39d6e45fb12807192\">NFT</a> and <a href=\"https://nft.tecommons.org/\">website</a> the same time we provide this extra perk to the top hatchers.</p>\n<p>This is how it would look like:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201\" href=\"https://forum.tecommons.org/uploads/default/original/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201.png\" title=\"Metal print of 40 x 57.1 cm\"><img alt=\"Metal print of 40 x 57.1 cm\" data-base62-sha1=\"l4JbzrOSTZ5HN54rpxnuBIy0QSZ\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201_2_501x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201_2_501x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201_2_751x750.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/93b67f49a4fcdbd1a0217b184a2c3c2accd1a201.png 2x\" width=\"501\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Metal print of 40 x 57.1 cm</span><span class=\"informations\">880×878 884 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h3>\n<a class=\"anchor\" href=\"#additional-information-to-add-3\" name=\"additional-information-to-add-3\"></a>Additional information to add</h3>\n<p>The NFT image will be directly printed on an aluminum backing will have a size of 16 x 22.8 inch (40 x 57,1 cm).</p>\n<p>We already did a test, and the physical NFT looks fantastic!</p>\n<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"EoargyA8c34\" data-youtube-title=\"Physical Hatch NFT shipping\">\n<a href=\"https://www.youtube.com/watch?v=EoargyA8c34\" rel=\"noopener\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/original/1X/9db7a3d33d3b20862dface4233abe1f2c58791fe.jpeg\" title=\"Physical Hatch NFT shipping\" width=\"480\"/>\n</a>\n</div>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<ul>\n<li>Firstly TEC will be shipping the physical NFTs as a token of gratitude to the top contributors of the hatch.</li>\n<li>Secondly it pays the incurred costs in the making of the Hatch Bot NFT and dApp by members and organizations of the community.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>5,500 wxDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-6\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-6\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<ul>\n<li>Retroactive payment of $1,000 to Funyverse for putting the good art.</li>\n<li>Retroactive payment of $1,000 to Blossom Labs for coordinating the website development and building the basic infrastructure for gathering the data from The Graph in real time.</li>\n<li>Retroactive payment of $1,000 to General Magic for putting the ether to pay gas fees for minting the NFT, and creating the website design and layout.</li>\n<li>$2,500 for ordering metal prints of the NFT and shipping them to their owners.</li>\n</ul>\n<p>If some of the hatchers do not want to receive the physical NFT, the unspent money will go directly to the original artist.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-7\" name=\"how-will-you-share-progress-7\"></a>How will you share progress?</h3>\n<p>We will write when all the NFTs are shipped in this same forum post.</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-8\" name=\"project-information-if-applies-8\"></a>Project information (if applies)</h3>\n<p>N/A</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-9\" name=\"team-information-9\"></a>Team Information</h3>\n<p>The hatch bot NFT and dApp was a collaborative work between Funyverse Crypto (<a class=\"mention\" href=\"/u/santigs\">@santigs</a> and <span class=\"mention\">@gagster</span>), Blossom Labs (<a class=\"mention\" href=\"/u/paulo\">@paulo</a> and <a class=\"mention\" href=\"/u/sem\">@sem</a>), and General Magic (<a class=\"mention\" href=\"/u/markop\">@markop</a>, <span class=\"mention\">@fabio</span>, <span class=\"mention\">@pkretzschmar</span>, and <a class=\"mention\" href=\"/u/griff\">@griff</a>).</p>\n<h3>\n<a class=\"anchor\" href=\"#complementary-information-10\" name=\"complementary-information-10\"></a>Complementary information</h3>\n<p>This was the first collaboration between Funnyverse Crypto, General Magic, an Blossom Labs, and after the result, we expect that it won’t be the last!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-01-20T23:19:33Z",
+   "updated_at": "2022-01-20T23:19:33Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>There is one on giveth and it looks so dam cool!<img alt=\":star_struck:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star_struck.png?v=10\" title=\":star_struck:\"/> Love the idea!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-01-25T11:09:29Z",
+   "updated_at": "2022-01-25T11:09:29Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I support this proposal… yes!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-01-25T19:33:53Z",
+   "updated_at": "2022-01-25T19:33:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Here is the proposal link:</p>\n<p><a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/2\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/2</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2022-01-26T20:57:37Z",
+   "updated_at": "2022-01-26T20:57:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>So epic!!! Of course I support this proposal. Major praise to the artist and everyone involved in organizing this!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2022-01-27T22:15:51Z",
+   "updated_at": "2022-01-27T22:15:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Love this!  My walls don’t have enough crypto art/memorabilia.  I am all about displaying/promoting/hyping this space so count me in for one!  Hmm wonder how the teenage daughters might like this art…</p>\n<p>Full support.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Rohekbenitez",
+   "name": null,
+   "created_at": "2022-02-02T19:11:49Z",
+   "updated_at": "2022-02-02T19:11:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>It looks really great, plus the material or surface it was made on would further guarantee durability in the real world, great job! <img alt=\":heart_eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart_eyes.png?v=10\" title=\":heart_eyes:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-02-08T10:56:42Z",
+   "updated_at": "2022-02-08T10:56:42Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>The proposal has passed successfully. We will start asking to the NFT owners where they would like to receive their physical (metal fully-fledged) versions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-09T18:56:10Z",
+   "updated_at": "2022-02-09T18:56:10Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>YAY!!!</p>\n<p>Thank you Sem!! Conviction Voting is working!!!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-03-30T15:45:24Z",
+   "updated_at": "2022-03-30T15:45:24Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Things took their time, but I can announce today that all physical NFTs have been shipped to all the NFT holders that gave the physical address.</p>\n<p>There were two hatchers who preferred not to receive the NFT, and one hatcher who Communitas WG tried to reach, but they could not find him. If he sees this message now, it’s not too late, he can still receive the physical piece of art.</p>\n<p>So this is the breakdown on what we spend the money. As we said in the proposal, the extra amount that was not used in printing the NFTs went as a bonus to the artist:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Amount</th>\n<th>Concept</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>$1,400</td>\n<td>($200 x 7) NFT piece + shipping</td>\n</tr>\n<tr>\n<td>$1,000</td>\n<td>Blossom Labs</td>\n</tr>\n<tr>\n<td>$1,000</td>\n<td>General Magic</td>\n</tr>\n<tr>\n<td>$1,000</td>\n<td>Funnyverse (artist)</td>\n</tr>\n<tr>\n<td>$800</td>\n<td>Bonus to the Artist</td>\n</tr>\n<tr>\n<td>$300</td>\n<td>Management (writting the proposal, collecting addresses, making payments…)</td>\n</tr>\n<tr>\n<td><strong>$5,500</strong></td>\n<td><strong>TOTAL</strong></td>\n</tr>\n</tbody>\n</table>\n</div><p>We hope you receive the package soon and like it a lot!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-03-30T16:17:39Z",
+   "updated_at": "2022-03-30T16:17:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>thanks for the updates Sem! <img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=10\" title=\":partying_face:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520072217",
+    "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520072217",
+   "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520072217",
+   "url": "https://forum.tecommons.org/t/hatch-bot-nft-in-metal/823"
+  }
+ ]
+}

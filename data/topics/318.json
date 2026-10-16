@@ -1,0 +1,163 @@
+{
+ "id": 318,
+ "title": "Onboarding: How can it get better?",
+ "slug": "onboarding-how-can-it-get-better",
+ "category_id": 5,
+ "posts_count": 6,
+ "created_at": "2021-04-01T17:59:13.982Z",
+ "last_posted_at": "2021-05-25T17:04:52.183Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-05-25T17:04:52Z",
+ "captured_between": [
+  "2021-04-20T13:42:36Z",
+  "2023-05-30T08:16:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-01T17:59:14Z",
+   "updated_at": "2021-04-08T17:51:01Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Please drop requests, insights and thoughts on how to make the onboarding journey better!<br/>\nEveryone in the community was a new member at some point <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e65d0192d0f864ed2efa5ca7fbeef5b4f33ab168\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e65d0192d0f864ed2efa5ca7fbeef5b4f33ab168.jpeg\" title=\"photo_2021-04-08_14-49-12\"><img alt=\"photo_2021-04-08_14-49-12\" data-base62-sha1=\"wRT58S3oISUPHVHXlwf1KGQhTBu\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e65d0192d0f864ed2efa5ca7fbeef5b4f33ab168_2_10x10.png\" height=\"386\" src=\"https://forum.tecommons.org/uploads/default/original/1X/e65d0192d0f864ed2efa5ca7fbeef5b4f33ab168.jpeg\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">photo_2021-04-08_14-49-12</span><span class=\"informations\">1024×574 52.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> What would you have loved to know since day one but it took you way longer to understand?</p>\n<p><img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=9\" title=\":star:\"/> What do you or anyone needs to feel comfortable and informed to jump into action?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2021-04-05T18:19:05Z",
+   "updated_at": "2021-04-05T20:46:28Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’ve been thinking about this a lot, going to use this space to brainstorm a bit and try to bring some substance to my thoughts.</p>\n<p>I think there’s a fairly steep learning curve when coming into this community, but that could be put to use.</p>\n<p>The education systems I was exposed to growing up treated learning as everyone doing the same repetitive tasks over and over throughout the years, to prove they’ve learned something.</p>\n<p>For me, I rather like the idea that learning can be productive.</p>\n<p>Along those lines, I would have a list of tasks that would be nice to get done, but are not necessarily a priority.</p>\n<p>These tasks can be iterative, their outputs improving with each new set of users who chip away at them.</p>\n<ul>\n<li>Transcribe session recordings \\ clean-up youtube auto-transcriptions</li>\n<li>Write about what you learned about that working group.</li>\n<li>Create content around whatever topics are most challenging for you to decipher at first</li>\n<li>Create the type of materials you wish were there for you when first joining</li>\n<li>Add some resource to a curated list surrounding Elinor Ostrom</li>\n</ul>\n<p>Eventually, there could be a discord bot that welcomes new users with the type of information that’s in <span class=\"hashtag\">#start-here</span> (on discord) and shares with them a list of tasks that they can accomplish right away to begin earning impact hours while orienting with the community.</p>\n<p>There could be even an onboarding working group that focuses on these issues and gives entrants a clear path of where to go first that could include them learning (and\\or creating content that elucidates) what all the working groups are about and give them a smooth segue to know if and how they are most inclined to participate.</p>\n<p>I would say that was one of the most challenging things for me was to even understand what each working group is about (not immediately apparent from the outside looking in). On that note, I like the names for the working groups, but they might benefit from having a few word description in plain language, as a sort of subtitle to the WG name.</p>\n<p>The recordings have been so valuable to me, because I can catch up on each group and its focus at any time I have available, to learn and kind of immerse in the spirit of the community, see how the sausage is made, and determine where I might best apply my energy.</p>\n<p>I don’t think new users are directed to the youtube channel (such as in the <span class=\"hashtag\">#start-here</span> of discord), that would be the first thing I suggest. Have people watch\\listen to the Book Club, TEC-AMA, and Gravity. That would be my first recommendation for orienting new users.</p>\n<p>Also, we could use a few infographics that map out the TEC ecosystem and make it easier for people to visually understand the relationship between all the orgs.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "KZFlyer",
+   "name": null,
+   "created_at": "2021-04-22T02:43:32Z",
+   "updated_at": "2021-04-22T02:43:32Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I want to echo what <a class=\"mention\" href=\"/u/ddan\">@ddan</a> said. I’m still new and trying to make my way though everything. It doesn’t help that I’ve got a lot going on at my day job. It consumes most of my bandwidth. So I try to spend some time learning, but my free time is limited to late nights and (some) weekends.</p>\n<p>I really liked the “Welcome to the TEC” section of the forum. I think if we expand on that it could become a self guided onboarding tool. Incorporate the tasks that <a class=\"mention\" href=\"/u/ddan\">@ddan</a> mentioned. It’s also a great way to dish out some praise.</p>\n<p>There’s a lot of information to take in when you first join and a lot of places to find that information. A cheat sheet with links and a line or two that tell you what’s there. We could make it fun! You can go on journey quest or discord scavenger hunt.</p>\n<p>I often want to help out, but maybe I’ve only got an hour or 2, or my free time doesn’t match with the calls. On the discord, there is a <span class=\"hashtag\">#job-board</span> - I think that would be a great spot for the working groups to post “Help Wanted” ads. I always see the requests in their channels, but usually it is days later.</p>\n<p>Last thing, maybe a mentor program? When someone joins, one of the mentors would reach out, introduce themselves, offer to guide them through, check in on them to make sure you didn’t overwhelmed, answer any questions you may have, etc.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2021-05-03T10:26:40Z",
+   "updated_at": "2021-05-03T10:26:40Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I started working something that may be helpful.</p>\n<p><a href=\"https://github.com/CommonsBuild/tec-info/tree/main/wg-digest\" rel=\"noopener nofollow ugc\">TEC Info – WG Digest</a></p>\n<p>I exported the chat history from our discord server and made a one-pager for each working group.</p>\n<p>There users can scan through a digest of our chat-logs, I’ve also kept a list of all links shared in each room at the top of the discussion, plus links to the youtube videos\\playlist of that group’s working sessions.</p>\n<p>It’s already useful, but a little clunky living on GitHub… could become part of the gitbook or the wiki, perhaps in some more polished\\condensed form.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ddan",
+   "name": null,
+   "created_at": "2021-05-04T20:12:00Z",
+   "updated_at": "2021-05-04T20:12:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>also, here is my attempt at adding a short descriptive to each WG name</p>\n<ul>\n<li>Omega - Incubation</li>\n<li>SoftGov - Culture</li>\n<li>TE Labs - Hands on TE</li>\n<li>Hatcher Outreach - Onboarding</li>\n<li>Legal - Laws of the Lands</li>\n<li>Transparency - Accounting</li>\n<li>Parameters - Governance</li>\n<li>Communications – Outreach \\ Media</li>\n<li>Stewards – Coordination</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Evo",
+   "name": null,
+   "created_at": "2021-05-25T17:03:42Z",
+   "updated_at": "2021-05-25T17:03:42Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I personally like the reading lists that are floating around in various places, many are a good TE 101, after some initial study, but it would be great if some list and a who’s who could be found… It’s quite an onboarding journey, especially for non-techies such as myself. I personally don’t mind steep learning curves, but equally, the day job problem can be a real barrier for some who can’t invest the same time that I can on the weekends…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Evo",
+   "name": null,
+   "created_at": "2021-05-25T17:04:52Z",
+   "updated_at": "2021-05-25T17:04:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>But I really am grateful for the onboarding call that <a class=\"mention\" href=\"/u/suga\">@Suga</a> has organised this week…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081633",
+    "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420134236",
+   "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420134236",
+   "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210729025033",
+   "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210729025033",
+   "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530081633",
+   "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530081633",
+   "url": "https://forum.tecommons.org/t/onboarding-how-can-it-get-better/318"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": 418,
+ "title": "Communications WG Audit",
+ "slug": "communications-wg-audit",
+ "category_id": 24,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2021-06-10T13:30:16Z",
+ "last_archived_post_at": "2021-06-10T13:30:16Z",
+ "captured_between": [
+  "2021-06-24T15:27:36Z",
+  "2023-05-30T08:12:28Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-06-10T13:30:16Z",
+   "updated_at": "2021-06-10T13:30:16Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I’d like to present to the TEC Community our latest audit in Comms, where we made significant improvements. Please help us by contacting us if you have any transparency concerns, we support this important role in our community so please help us be accountable to the TEC by submitting any feedback or concerns you may have.</p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1QSvk_ZGrnA-NTcknvxSxKGaKvIjrKLZwAFkVjVhQg-A/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1QSvk_ZGrnA-NTcknvxSxKGaKvIjrKLZwAFkVjVhQg-A/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1QSvk_ZGrnA-NTcknvxSxKGaKvIjrKLZwAFkVjVhQg-A/edit?usp=sharing\" rel=\"noopener nofollow ugc\" target=\"_blank\">Comms Audit</a></h3>\n<p>General Process\n\nGeneral Process\nFor the audit to be successful, the working groups will prepare the documentation needed to fulfill the audit criteria/checklist. The WG will then answer the audit criteria/checklist and get feedback from members...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530081228",
+    "url": "https://forum.tecommons.org/t/communications-wg-audit/418"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624152736",
+   "url": "https://forum.tecommons.org/t/communications-wg-audit/418"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624152736",
+   "url": "https://forum.tecommons.org/t/communications-wg-audit/418"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530081228",
+   "url": "https://forum.tecommons.org/t/communications-wg-audit/418"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530081228",
+   "url": "https://forum.tecommons.org/t/communications-wg-audit/418"
+  }
+ ]
+}

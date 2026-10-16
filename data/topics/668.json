@@ -1,0 +1,78 @@
+{
+ "id": 668,
+ "title": "Ethereum based forum accounts: good idea or...not so much?",
+ "slug": "ethereum-based-forum-accounts-good-idea-or-not-so-much",
+ "category_id": 10,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2021-10-14T19:39:13Z",
+ "last_archived_post_at": "2021-10-15T21:29:07Z",
+ "captured_between": [
+  "2021-12-07T11:00:49Z",
+  "2021-12-07T11:00:49Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-10-14T19:39:13Z",
+   "updated_at": "2021-10-14T19:39:13Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>While registering on the Gnosis forum, I saw the option to create an account using an Ethereum address. I decided to try it because, why not. <img alt=\":man_shrugging:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/man_shrugging/3.png?v=10\" title=\":man_shrugging:t3:\"/></p>\n<p>My “why not” reaction is not exactly a deep analysis so I wonder what the community thinks. Is that a feature we would consider for our forum? What might you consider are the advantages or disadvantages of doing so? Is it even possible with Discourse (I <em>think</em> that is what they are using too but have not confirmed).</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/724b04a647fb9a2825004df368a631e3e10e7b52\" href=\"https://forum.tecommons.org/uploads/default/original/1X/724b04a647fb9a2825004df368a631e3e10e7b52.png\" title=\"Screen Shot 2021-10-14 at 9.30.00 PM\"><img alt=\"Screen Shot 2021-10-14 at 9.30.00 PM\" data-base62-sha1=\"gj59KFBn6SS1gsK3kP8oZcEogn0\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/724b04a647fb9a2825004df368a631e3e10e7b52_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/724b04a647fb9a2825004df368a631e3e10e7b52_2_515x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/724b04a647fb9a2825004df368a631e3e10e7b52_2_515x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/724b04a647fb9a2825004df368a631e3e10e7b52_2_772x750.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/724b04a647fb9a2825004df368a631e3e10e7b52.png 2x\" width=\"515\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-10-14 at 9.30.00 PM</span><span class=\"informations\">775×752 70.9 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><img alt=\"Screen Shot 2021-10-14 at 9.30.07 PM\" data-base62-sha1=\"pzYKWLVYCGKPvXMF48QtgAqCzm4\" height=\"435\" src=\"https://forum.tecommons.org/uploads/default/original/1X/b3478c2f2a9a1890d3a9fca67ea85dec3dccb254.png\" width=\"460\"/></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c\" href=\"https://forum.tecommons.org/uploads/default/original/1X/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c.png\" title=\"Screen Shot 2021-10-14 at 9.30.17 PM\"><img alt=\"Screen Shot 2021-10-14 at 9.30.17 PM\" data-base62-sha1=\"jD8dR6FP3OVMPG7CZ07FlqgDgja\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c_2_601x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c_2_601x500.png, https://forum.tecommons.org/uploads/default/original/1X/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/8995bcabfde73e4bbc431dab4ae9ba05d357fa2c.png 2x\" width=\"601\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-10-14 at 9.30.17 PM</span><span class=\"informations\">771×641 78.6 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207110049",
+    "url": "https://forum.tecommons.org/t/ethereum-based-forum-accounts-good-idea-or-not-so-much/668"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-15T12:14:05Z",
+   "updated_at": "2021-10-15T12:14:05Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This is awesome tam! Get that feature would grant us the option to create an account without the need of Google or any similar company</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207110049",
+    "url": "https://forum.tecommons.org/t/ethereum-based-forum-accounts-good-idea-or-not-so-much/668"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-10-15T21:29:07Z",
+   "updated_at": "2021-10-15T21:29:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Interesting. It’s smart having Ethereum as an option to sign-in. That way we don’t block any curious explorers in the shorter-term, but actively bridge our community to where we want to be over time. I wonder how hard it’d be to start pressing all our toolmakers to make this possible.</p>\n<p>Here’s one possible implementation, with WalletConnect support. I can’t tell if this is what Gnosis used though:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://talk.fission.codes/t/ethereum-login-for-discourse/70\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/6c4e0242aa67606d0abd36f2ae167b3f9733a636.png\" width=\"32\"/>\n<a href=\"https://talk.fission.codes/t/ethereum-login-for-discourse/70\" rel=\"noopener nofollow ugc\" target=\"_blank\" title=\"07:08PM - 07 June 2019\">Fission Talk – 7 Jun 19</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"350\" src=\"https://forum.tecommons.org/uploads/default/original/1X/bede2bbfc0dd4c920b8b57ff7206d400773cc782.png\" width=\"350\"/>\n<h3><a href=\"https://talk.fission.codes/t/ethereum-login-for-discourse/70\" rel=\"noopener nofollow ugc\" target=\"_blank\">Ethereum Login for Discourse</a></h3>\n<p>Description Discourse forums can enable multiple forms of authentication for account creation and signup. Enabling an Ethereum login allows for native pseudonymous accounts in Discourse.  User Impact Who would want to use this and why?  Communities...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/fission-suite/discourse-web3-login\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/fission-suite/discourse-web3-login\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f044acab01aeafd5eba311043b53e5742c6663f1_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f044acab01aeafd5eba311043b53e5742c6663f1_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f044acab01aeafd5eba311043b53e5742c6663f1_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/f044acab01aeafd5eba311043b53e5742c6663f1_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/f044acab01aeafd5eba311043b53e5742c6663f1.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/fission-suite/discourse-web3-login\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - fission-suite/discourse-web3-login: Web3 Ethereum login plugin for...</a></h3>\n<p>Web3 Ethereum login plugin for Discourse. Contribute to fission-suite/discourse-web3-login development by creating an account on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20211207110049",
+    "url": "https://forum.tecommons.org/t/ethereum-based-forum-accounts-good-idea-or-not-so-much/668"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211207110049",
+   "url": "https://forum.tecommons.org/t/ethereum-based-forum-accounts-good-idea-or-not-so-much/668"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207110049",
+   "url": "https://forum.tecommons.org/t/ethereum-based-forum-accounts-good-idea-or-not-so-much/668"
+  }
+ ]
+}

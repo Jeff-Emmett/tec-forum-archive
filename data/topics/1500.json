@@ -1,0 +1,450 @@
+{
+ "id": 1500,
+ "title": "Sunsetting the $TEC: Proposal & Treasury Distribution Framework",
+ "slug": "sunsetting-the-tec-proposal-treasury-distribution-framework",
+ "category_id": 33,
+ "tags": [
+  "advice-process",
+  "governance"
+ ],
+ "more_after": 21,
+ "posts_count": 24,
+ "created_at": "2025-07-23T20:02:01.255Z",
+ "last_posted_at": "2025-08-26T11:41:38.851Z",
+ "total_known": true,
+ "archived_posts": 24,
+ "archived_numbers": 24,
+ "last_archived_post_at": "2025-08-26T11:41:38Z",
+ "captured_between": [
+  "2025-08-05T12:59:41Z",
+  "2025-09-06T14:06:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-23T20:02:01Z",
+   "updated_at": "2025-07-26T00:40:12Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#executive-summary-1\" name=\"executive-summary-1\"></a><img alt=\":compass:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/compass.png?v=12\" title=\":compass:\" width=\"20\"/> Executive Summary</h1>\n<p>This proposal initiates the structured shutdown of the Token Engineering Commons. Over the last eighteen months, the remaining stewards have attempted in multiple ways to reverse the course of the commons. Unfortunately, this has not borne fruit: the bleeding of the treasury continues through ongoing operations without highest impact—neither on the token, nor on token engineering activity itself. We propose instead a simple mechanism to distribute remaining funds and sunset TEC with integrity.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#background-2\" name=\"background-2\"></a><img alt=\":chart_with_downwards_trend:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/chart_with_downwards_trend.png?v=12\" title=\":chart_with_downwards_trend:\" width=\"20\"/> Background</h2>\n<p>TEC was created to support the emerging field of token engineering, funding early infrastructure, educational programs, and modeling tools. These projects have been successful in advancing the field: <strong>cadCAD</strong>, the <strong>Token Engineering Academy</strong>, the <strong>Bonding Curve Research Group</strong>, and many others have made significant contributions.</p>\n<p>In 2024, TEC briefly achieved financial equilibrium, breaking even on operating its ~$10K/month expenses. However, that stability has since reversed, as the grants lead was replaced and funding resumed—without clear sourcing plans. Treasury outflows picked up again.</p>\n<p>Today, <strong>governance participation is low</strong>, recent proposals lack novelty or measurable delivery, and there is no clear product or research horizon. The <strong>$TEC token trades at a discount to treasury</strong>, even during a favorable market cycle. The market, as of now, does not expect TEC to create future value.</p>\n<p>This is the moment to act.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#why-now-3\" name=\"why-now-3\"></a><img alt=\":mantelpiece_clock:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/mantelpiece_clock.png?v=12\" title=\":mantelpiece_clock:\" width=\"20\"/> Why Now?</h2>\n<ul>\n<li>\n<strong>~$300K</strong> remains across TEC’s treasury and reserve\n<ul>\n<li>Additional funds are dormant in <strong>inactive multisigs</strong> (TECAN, TEC GG, Lasertag, OP RPGF6) estimated at <strong>~$25K</strong>\n</li>\n<li>Common Pool holds <strong>$225K</strong>: <a href=\"https://debank.com/profile/0xb941365430a16659658bb23b88efaede1d839354\" rel=\"noopener nofollow ugc\">Debank</a>\n</li>\n<li>Reserve holds <strong>$54K</strong>: <a href=\"https://optimistic.etherscan.io/address/0xae34eb7c3163aAD32142fbBCf15EC234c9EF173f\" rel=\"noopener nofollow ugc\">Etherscan</a>\n</li>\n</ul>\n</li>\n<li>\n<strong>$TEC supply</strong> is 1.209M tokens<br/>\n→ At a spot price of $0.18, the <strong>fully diluted valuation is $217K</strong>, trading at a ~33% discount to treasury ($0.25)</li>\n</ul>\n<p>This signals a deep loss of market confidence.</p>\n<ul>\n<li>Capital is deteriorating: Each passing month reduces the ability to make meaningful allocations</li>\n<li>\n<strong>Signers are inactive</strong>: Execution complexity increases with time</li>\n<li>\n<strong>Legitimacy is fading</strong>: Community trust and perceived mandate are eroding</li>\n</ul>\n<p><strong>Sunsetting now protects TEC’s legacy.</strong> Waiting only narrows our options.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#software-lifecycle-analogy-4\" name=\"software-lifecycle-analogy-4\"></a><img alt=\":hammer_and_wrench:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/hammer_and_wrench.png?v=12\" title=\":hammer_and_wrench:\" width=\"20\"/> Software Lifecycle Analogy</h2>\n<p>This proposal treats TEC like any engineered system reaching end-of-life. In software, responsible shutdown follows clear steps:</p>\n<ul>\n<li>\n<strong>Deprecation Notices</strong> – Signaling the end of development</li>\n<li>\n<strong>End-of-Life Scheduling</strong> – Setting a formal shutdown date</li>\n<li>\n<strong>Archival &amp; Handoff</strong> – Capturing value and enabling reuse</li>\n<li>\n<strong>Final Resource Allocation</strong> – Releasing unused capacity</li>\n</ul>\n<p>DAO operations are no different. Governance for its own sake produces technical debt—bureaucratic drag, social burnout, and misaligned incentives. TEC should be <strong>released as a stable artifact</strong>, not kept alive as a zombie system.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#ostroms-commons-framework-5\" name=\"ostroms-commons-framework-5\"></a><img alt=\":earth_africa:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/earth_africa.png?v=12\" title=\":earth_africa:\" width=\"20\"/> Ostrom’s Commons Framework</h2>\n<p>Elinor Ostrom’s principles for sustainable commons governance highlight key indicators of institutional health. TEC no longer meets the bar:</p>\n<p><strong>2. Collective Choice Arrangements</strong></p>\n<p>→ Participation is low. Decision-making is hollow.</p>\n<p><strong>3. Monitoring</strong></p>\n<p>→ Projects are funded without validation or feedback.</p>\n<p><strong>4. Graduated Sanctions</strong></p>\n<p>→ No enforcement mechanisms exist. Performance goes unassessed.</p>\n<p>Ostrom teaches us: when these pillars collapse, the ethical move is not to preserve the institution—but to sunset it responsibly.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#proposed-treasury-distribution-model-6\" name=\"proposed-treasury-distribution-model-6\"></a><img alt=\":1234:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/1234.png?v=12\" title=\":1234:\" width=\"20\"/> Proposed Treasury Distribution Model</h2>\n<p>We propose a single disbursement framework based on <strong>two parameters</strong>:</p>\n<h3>\n<a class=\"anchor\" href=\"#h-1-alpha-7\" name=\"h-1-alpha-7\"></a>1. <code>α</code> (Alpha):</h3>\n<p>A scalar ∈ [0, 1] defining the split between tokenholders and retroactive public goods</p>\n<h3>\n<a class=\"anchor\" href=\"#h-2-w-8\" name=\"h-2-w-8\"></a>2. <code>W</code>:</h3>\n<p>A weight vector defining allocations across verified public goods contributors</p>\n<p><strong>Formula:</strong></p>\n<ul>\n<li>\n<code>α * T</code> → to tokenholders (via snapshot)</li>\n<li>\n<code>(1 - α) * T</code> → to multisigs representing public goods teams (per <code>W</code>)</li>\n</ul>\n<p><strong>Key properties:</strong></p>\n<ul>\n<li>No micro-grants, future proposals, or ongoing governance</li>\n<li>One-time execution by a steward multisig</li>\n<li>Capital routed only to <strong>project-level multisigs</strong>, not individuals</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#execution-process-9\" name=\"execution-process-9\"></a><img alt=\":scientist:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/scientist.png?v=12\" title=\":scientist:\" width=\"20\"/> Execution Process</h2>\n<h3>\n<a class=\"anchor\" href=\"#h-1-inventory-of-public-goods-dormant-multisigs-10\" name=\"h-1-inventory-of-public-goods-dormant-multisigs-10\"></a>1. Inventory of Public Goods &amp; Dormant Multisigs</h3>\n<ul>\n<li>All that’s missing is the list of addresses + signers from Bear (e.g., TECAN, GG, Lasertag, OP RPGF6).</li>\n<li>Once those are public, the working group can fully scope the distribution weights (<code>W</code>).</li>\n<li>\n<strong>Funds held in these multisigs should be returned to the Common Pool</strong>. These were scoped funds, not general-purpose—no vote should be needed to reclaim them.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-2-retroactive-contributors-discussion-11\" name=\"h-2-retroactive-contributors-discussion-11\"></a>2. Retroactive Contributors Discussion</h3>\n<ul>\n<li>The community should surface “readily identifiable labors”—e.g., Angela (TE Academy), Sebnem, Jess, cadCAD contributors, BCRG members, etc.</li>\n<li>This step invites nominations and public review to finalize the <code>W</code> vector transparently.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-3-snapshot-freezing-12\" name=\"h-3-snapshot-freezing-12\"></a>3. Snapshot Freezing</h3>\n<ul>\n<li>The $TEC token is based on a <strong>MiniMe contract</strong>, which allows freezing the snapshot via a <code>freeze()</code> call.</li>\n<li>After that, the proxy of the ABC containing funds could be upgraded to allow full withdrawal into the common pool.</li>\n<li>\n<strong>Sem</strong> has handled this before and can assist on the best steps here again.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-4-parameter-vote-13\" name=\"h-4-parameter-vote-13\"></a>4. Parameter Vote (<code>α</code>)</h3>\n<ul>\n<li>$TEC holders vote on:\n<ul>\n<li>\n<code>0</code> → All funds are spent for public goods</li>\n<li>\n<code>0.5</code> → Split 50/50</li>\n<li>\n<code>1</code> → All funds are returned to token holders</li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-5-execution-by-steward-multisig-14\" name=\"h-5-execution-by-steward-multisig-14\"></a>5. Execution by Steward Multisig</h3>\n<ul>\n<li>A trusted multisig (e.g. Rex + 2–3 others) carries out the distribution and asset transfers.</li>\n<li>Sem may be consulted for onchain implementation support.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-6-final-sunset-documentation-15\" name=\"h-6-final-sunset-documentation-15\"></a>6. Final Sunset &amp; Documentation</h3>\n<ul>\n<li>Credentials and handover materials already exist internally (thanks to recent consolidation in Credentials).</li>\n<li><strong>Bear currently holds the credentials doc and all active passwords.</strong></li>\n<li>The forum, GitHub, Gnosis, and other infra can be updated &amp; archived.</li>\n<li>Moratorium &amp; data analysis of TEC tooling</li>\n</ul>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#counterarguments-responses-16\" name=\"counterarguments-responses-16\"></a><img alt=\":brain:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/brain.png?v=12\" title=\":brain:\" width=\"20\"/> Counterarguments &amp; Responses</h2>\n<p><strong>“We still have ideas.”</strong></p>\n<p>Yes, but low participation and repeated proposals show poor execution velocity. This isn’t an idea problem—it’s a structure problem.</p>\n<p><strong>“Let’s scale down instead.”</strong></p>\n<p>Reduced funding still requires governance, operations, and legal risk. In software terms: don’t weakly deprecate. <strong>Hard sunset.</strong></p>\n<p><strong>“Let’s hold the funds just in case.”</strong></p>\n<p>That’s not stewardship—it’s entropy. Idle funds invite misuse and drift.</p>\n<p><strong>“Isn’t this unfair to contributors who stayed?”</strong></p>\n<p>That’s what <code>(1 - α)</code> retro-PGF is for. We can recognize meaningful labor <em>without committing to future rounds of bureaucracy</em>.</p>\n<hr/>\n<h2>\n<a class=\"anchor\" href=\"#legacy-17\" name=\"legacy-17\"></a><img alt=\":headstone:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/headstone.png?v=12\" title=\":headstone:\" width=\"20\"/> Legacy</h2>\n<p>TEC made lasting contributions to token engineering:</p>\n<p>cadCAD, TE Academy, conviction voting, research templates, the exploration of bonding curves, and more.</p>\n<p>But one final contribution remains: modeling how <strong>a DAO can shut down with clarity</strong>. Without politics and vague mission renewals. Just clean execution, meaningful closure, and liberated capital.</p>\n<p>Sunsetting TEC isn’t a failure—it’s <strong>completion</strong>.</p>\n<p>Let TEC be the first DAO that sunsets well. &lt;3</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250805140635",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "enti",
+   "name": null,
+   "created_at": "2025-07-23T20:33:13Z",
+   "updated_at": "2025-07-23T20:33:13Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi all, it’s been a while.</p>\n<p>I was involved with the TEC through critical years for both the project and myself. I must say that even from the start you could see early signs of a project that fought with passion, but failed to honor its mission.</p>\n<p>Other than distributing already-existing money, arguably little to no value has been created by the TEC to advance Token Engineering as a field (there’s of course a bunch of learnings on do’s and don’ts for projects).</p>\n<p>Prominent figures in the TE space sold and/or stopped engaging with the project on its early days, those for me were bad signs already, and in my 1-2 years contributing I wasn’t able to learn much about TE itself which was the reason why I joined in the first place.</p>\n<p>For some reason it was just hard to find, acquire and retain talent that really understood the field and could work towards something that looked more like traditional foundations for important sciences and engineerings.</p>\n<p>Just like sequels, one has to know when to finish them at a point where people can remind them with grace and this may be the time for the TEC. I don’t think it makes sense to deplete the treasury in grants programs that, because of the size and scope, hardly found any projects with significant impact or education on topics that are frankly already well covered and generally understood.</p>\n<p>I think what <a class=\"mention\" href=\"/u/rex\">@rex</a> proposes make sense, there’s nothing more aligned to the mission than handing over the funds to the projects and individuals that can carry out the torch of Token Engineering through innovative tools, education or services.</p>\n<p>Some of this ain’t even a problem of the TEC. The Token Engineering Academy stopped as well with no clear successor, maybe “Token Engineering” as a concept just didn’t find <em>PMF</em> and that’s fine.</p>\n<p>Note that none of this is a criticism to the work of <a class=\"mention\" href=\"/u/bear100\">@bear100</a> <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> and all the others still involved in the day to day. So in that same spirit, this proposal should guarantee some sort of severance package, and ideally help from adjacent teams to help them find a new home should they find fit.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250805140635",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-07-24T16:16:38Z",
+   "updated_at": "2025-07-24T16:21:39Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>I’ll be honest…</p>\n<p>This proposal reads less like a responsible sunsetting plan and more like an elegant attempt to raid the coffers under the banner of good governance.</p>\n<p>Let’s start with the most glaring issue…you propose reallocating community funds via a retroactive public goods process with undisclosed beneficiaries, determined by a working group that is effectively self-appointed and insulated from community oversight. That is not a “structured shutdown.” That is discretionary enrichment.</p>\n<p>If your goal was a clean sunset, you’d simply return 100% of remaining funds to token holders. Instead, you’ve constructed a convoluted “α-distribution” model and execution flow that gives a veneer of objectivity while enabling insiders to handpick their preferred recipients.</p>\n<p>Let’s be honest about what you’re doing…you’re asking for carte blanche to divvy up TEC’s remaining funds with a handpicked crew, and you’re calling it “legacy stewardship.”</p>\n<blockquote>\n<p>“Sunsetting TEC isn’t a failure—it’s completion.”</p>\n</blockquote>\n<p>TEC is not “complete.” It has struggled. It has been under resourced. But it is not without value, direction, or possibility. This sudden push for finality while simultaneously allocating funds without fully defined criteria, and with you as a proposed multisig signer should be deeply concerning.</p>\n<p>Your invocation of Ostrom to justify this is both disingenuous and offensive. Ostrom’s work was about <em>strengthening</em> commons through institutional design, so please don’t quote her here.</p>\n<blockquote>\n<p>“DAO operations are no different [than software].\"</p>\n</blockquote>\n<p>TEC is not a software repo…treating it like a codebase you’re tired of maintaining is a failure to understand the deeper social layer here.</p>\n<p>Lastly, your proposed vote on parameter α is not legitimate. You’ve presented only three pre-set options (ensuring a payout to a PGF group) for a 0-1 scalar, with no option for full tokenholder return…as if that’s not even on the table. That’s not governance. That’s framing the vote to rubber-stamp a predetermined outcome.</p>\n<p>Let me be absolutely clear:</p>\n<ul>\n<li>I do not support any process that allocates remaining TEC funds via retroactive selection with supporters at the helm.</li>\n<li>I do not accept your framing of this as a noble shutdown. This is a misappropriation attempt dressed in academic language.</li>\n<li>I do not endorse your involvement or role in managing any multisig associated with TEC’s remaining capital.</li>\n</ul>\n<p>This proposal is unacceptable, and the community should reject it outright.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250805140635",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-24T17:47:54Z",
+   "updated_at": "2025-07-24T17:47:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/enti\">@enti</a> – thank you for your response!</p>\n<p>Your comment captures the spirit in which this proposal was made: not as a teardown, but as a <strong>celebration of what was accomplished</strong>, and a call for closure with integrity. I fully agree with the idea of <strong>severance and support</strong> for the remaining contributors. TEC was never about blaming individuals—it’s about stewarding the treasury, the tools, and the trust we were given.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250805140635",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2025-07-24T17:52:08Z",
+   "updated_at": "2025-07-24T17:52:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I appreciate this proposal and I think it’s a fair consideration. I also think the TEC has had issues since its inception that it has not overcome to this day. I think that sunsetting the TEC could potentially open opportunities for new beginnings that are more in alignment with the original intention of the TEC.</p>\n<p>I think this proposal opens up valuable discussion points for the community such as how to gracefully sunset a DAO and how to best learn from the life of the TEC.</p>\n<p>I think it would be great to discuss this topic in a twitter space to open up to a broader set of voices.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-24T18:02:25Z",
+   "updated_at": "2025-07-24T18:02:25Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> thank you for your response! Let me address some of your objections <img alt=\":smiley:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=12\" title=\":smiley:\" width=\"20\"/></p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1500\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>If your goal was a clean sunset, you’d simply return 100% of remaining funds to token holders. Instead, you’ve constructed a convoluted “α-distribution” model and execution flow that gives a veneer of objectivity while enabling insiders to handpick their preferred recipients.</p>\n</blockquote>\n</aside>\n<p>Let’s be precise: the α-distribution model is a <strong>mechanism to give the entire community control</strong> over how treasury is allocated—between tokenholders and public goods contributors. The range was initially set to <strong>{0, 0.5, 1}</strong>, including 100% return to tokenholders. It was an amendment by <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>, the largest token holder in the commons, to remove the possibility of a full return to token holders, as <strong>continuing to fund TE projects is important.</strong></p>\n<p>I am open to change the parameter selection to reflect the views of the community.</p>\n<p>Also, note that the “working group” proposed has no autonomous authority. The proposal calls for:</p>\n<ul>\n<li>An open nomination process for contributors</li>\n<li>A public <code>W</code> vector review</li>\n<li>A community vote on final parameters</li>\n</ul>\n<p>This is not a cabal. It’s a structured end to an unstructured drift.</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1500\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>TEC is not “complete.”</p>\n</blockquote>\n</aside>\n<p>That’s fair. But TEC is also <strong>not delivering</strong>. The token trades at a 30%+ discount to treasury. Coordination has stalled. Forum engagement is minimal. We can argue “possibility,” but we owe tokenholders and contributors more than open-ended possibility—we owe them <strong>clarity</strong>.</p>\n<p>Calling for a vote on TEC’s end is not erasure. It’s the first real exercise in <strong>agency</strong> many of us have seen in a while.</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1500\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>I do not endorse your involvement or role in managing any multisig associated with TEC’s remaining capital.</p>\n</blockquote>\n</aside>\n<p>I’ve managed TEC credentials and infrastructure for the last three years without fail, and no one ever questioned my stewardship. If the community prefers others to lead final execution, I’m happy to step aside. I’m not here to extract—I’m here to help close this well. If people don’t trust me to hold keys, they should <strong>say who they do</strong>.</p>\n<hr/>\n<h3>\n<a class=\"anchor\" href=\"#closing-thought-1\" name=\"closing-thought-1\"></a><img alt=\":brain:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/brain.png?v=12\" title=\":brain:\" width=\"20\"/> Closing Thought</h3>\n<p>You say this is dressed in academic language—I say it’s a sober, methodical approach to facing reality with care. If the community votes to keep TEC alive, I’ll respect that. But <strong>let’s vote</strong>. Let’s not pretend delay is consensus.</p>\n<p>If we agree that doing nothing is worse than closure, then let’s shape a graceful end together. &lt;3</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2025-07-24T19:09:14Z",
+   "updated_at": "2025-07-24T19:09:14Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>There’s a lot that could be said, but I think the TEC (and the Academy) were simply ahead of their time. It’s quite possible this new engineering field could still eventually take root, but the amount of funds still left in the TEC’s coffers will not make that happen.</p>\n<p>My openness to setting aside a portion of the remaining funds was to acknowledge the people who’ve contributed sweat equity to the TEC over the years.</p>\n<p>However, using TEC’s remaining funds to pay for the pet projects of individual community members feels extractive. Those tokenholders still remaining are the very definition of patient, mission-aligned capital. We’ve lost a lot of money backing the TEC over the last 4+ years, and a last-minute siphoning of funds like this feels deeply unfair. It would also be a sad and ironic legacy to the TEC’s great work around governance aimed at guarding against precisely this kind of extraction.</p>\n<p>Assuming shutdown is the community consensus, I recommend that Rex and whoever else is interested in doing so work with Nate, Bear, and Mon to pull together a more detailed plan for doing so.</p>\n<p>There are complexities around retroactively recognizing people’s past contributions (Praisemageddon), but if the community is interested in this I think it’s worth trying to come up with a solution.</p>\n<p>If not, the fairest solution is to return the funds to the tokenholders.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "enti",
+   "name": null,
+   "created_at": "2025-07-24T19:51:05Z",
+   "updated_at": "2025-07-24T19:51:05Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I have to say this is the most sensible thing and makes a lot of sense, and I apologize for not being more sensible towards token holders in my first comment.</p>\n<p>The proposal should ideally guarantee the following:</p>\n<ol>\n<li>Making $TEC holders whole, as they carried over all the risk associated and the funds technically belong to them anyways.</li>\n<li>Ensuring this doesn’t put the current contributing team in a bad situation with a severance package.</li>\n</ol>\n<p>If, and only if, there’s still funds or creative ideas after guaranteeing those two points, there can be a discussion on retroactively funding other things.</p>\n<p>FWIW I do not hold $TEC anymore, and I’m in no way affiliated with any project that could benefit from this but from my 2 years contributing one was almost free essentially, so the TEC and the mission is and will always have a special spot in my heart.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2025-07-24T19:55:25Z",
+   "updated_at": "2025-07-24T20:07:19Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Hey all, lots to unpack in these convos, but I will do my best to stay brief!</p>\n<ol>\n<li>\n<p>First off, I think <strong>this is less about the end of the TEC <em>community</em>, and more about the end of the $TEC <em>economy</em>.</strong>  I wouldn’t tell anyone what they can or can’t do with their time, and if people want to talk Token Engineering in forums or chatrooms and costs are marginal for that infrastructure, I don’t see a reason to not have them as information sources and even pathways for future explorers to happen upon - who knows what kind of energy can flow through these channels?  When <a class=\"mention\" href=\"/u/curiousrabbit.eth\">@curiousrabbit.eth</a> was all hungry for bonding curves, he came to the TEC and that was the start of the Bonding Curve Research Group, as just one example!  So I would default towards minimal friction and maximum future opportunity when it comes to keeping platforms alive.</p>\n</li>\n<li>\n<p><strong>There are good social, technical, and economic reasons to consider sunsetting the $TEC token:</strong><br/>\na. Majority of trading activity is selling, with periodic buybacks<br/>\nb. Inadequate 2ndary market liquidity leading to pricing issues<br/>\nc. Price divergence between token &amp; underlying assets presents a signal of market disapproval, as well as opening up potential attack vectors (as happened with the RFVoooor craze to many larger DAOs)<br/>\nd. $TEC never really found PMF in a regenerative financial capacity to sustain itself</p>\n</li>\n</ol>\n<p>And that’s okay!  The TEC ended up being more like a funding organization, raising and allocating over $1 MILLION dollars for token engineering tools, courses, models &amp; simulations, educational materials, and a big community of caring stewards, many of whom now are busy with other projects or parts of their lives (but the impact is no less important!).  As responsible engineers, this is all the more reason to recognize the safe &amp; useful end of life strategy for the $TEC token, engage in a community discussion around the fair allocation of collective funds, and move towards a vote once stakeholders have had the time to become informed and engaged.</p>\n<ol start=\"3\">\n<li>\n<strong>As to my thoughts on potential TEC fund allocation,</strong> the current breakdown is ~$55k in Reserve vs $250k in Common Pool, which is 1/5 or 20% reserve ratio.  So as it stands today, the token price is implicitly backed by 20% of the total funds, with the rest of the funds in the Common Pool intended to go towards the production of Token Engineering public goods.  So I would say that a 100% liquidation to token holders feels like it goes against the originally agreed upon use of funds (unless there was a strong majority in favor, of course).  Something more like a 50/50 or 75/25 split in favor of public goods seems like an option more in line with the initial ethos of the $TEC as a public goods funding experiment.  It also strikes me that the people who are still holding tokens at this point are probably not doing it for the money!  So perhaps recouping 10% vs 25% of their initial investment is not that big of a difference to most holders?</li>\n</ol>\n<p><strong>I do think that some of those funds should go to TEC stewards for their plans that are in alignment with the needs of the TEC, but I don’t think the steward group is the only group continuing to push forward the field of Token Engineering</strong> - whether explicitly under that name or not.  I would like to see some of those funds go to other meaningful and impactful Token Engineering work that has been (or will be) carried out in the TEC ecosystem, such as the TEA/Fundamentals course from Angela, <a class=\"mention\" href=\"/u/octopus\">@octopus</a> &amp; <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>, cadCADGPT with <a class=\"mention\" href=\"/u/roro\">@roro</a>, cadCAD, the Bonding Curve Research Group, etc.  Of course we can source more TE projects that could be included, which can be accounted for in the ‘W’ parameter of the distribution model that Zargham, Rex and others have devised and given input on.</p>\n<ol start=\"4\">\n<li>\n<p><strong>I think the closure of the $TEC token could provide a great opportunity to do some in-depth data analysis &amp; reporting on the performance of the main TE mechanisms of the TEC:</strong>  The Augmented Bondintg Curve, Conviction Voting, and the Praise system.  I would love to work with <a class=\"mention\" href=\"/u/rex\">@rex</a>, <a class=\"mention\" href=\"/u/octopus\">@octopus</a>, and other interested folks (with <span class=\"mention\">@Zargham</span> as advisor) to pull some data and do a series of articles on the successes, failures, learnings, and iterations of each of these tools. (Nate, <a href=\"https://forum.tecommons.org/t/tec-token-infrastructure-utility-report/1487\">your report</a> provides great first steps into that area, thanks for your work on that, I was just reading with interest! Maybe we can tackle some of these together.) I would be happy to put together a proposal from the BCRG for a scope of work on this, if others thought that sounded like a good idea.  I’ve been meaning to write more on these topics for years now, and perhaps this presents the right occasion!</p>\n</li>\n<li>\n<p><strong>Finally, I don’t think anyone here is being malicious</strong>, although I understand the feeling that these kind of proposals can incur (I felt a similar misunderstanding towards my intent in the Praisemageddon discussions).  Proper engineering design does include end-of-lifecycle planning, and while this plan was not drawn up from the beginning, I believe it is better to plan for a graceful shutdown of the $TEC token experiment with active community engagement, than a slow bleed of remaining funds.</p>\n</li>\n<li>\n<p><strong>From a MycoFi🍄 perspective</strong>, composting legacy structures that no longer work towards their stated aims is a good thing!  I want to reiterate the first point of my message, that ending the $TEC token is not the same thing as ending the TEC community. While there has been a steady flow of community members through the TEC over the years, I would say (from my own perspective, at least!) that more members have left over the years <em>because of</em> the token in some way, rather than being incentivized by the token to do their engineering work within the TEC.  <strong>So from that viewpoint, perhaps we can see the ending of the $TEC token as just the closure of a chapter in a broader TEC movement, one that may still hold space for community experimentation, healthy disagreement, and dreams that we can continue to iterate towards a more just and equitable world.</strong></p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2025-07-24T20:45:40Z",
+   "updated_at": "2025-07-24T20:45:40Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Separating the token from the community is an intriguing idea. Perhaps the simplest and best approach would be to just allocate 25% of the remaining funds to sustain a very lightweight token engineering community. Not sure what that would look like, but it seems feasible and worth exploring – and way less complicated and controversial than funding a bunch of pet projects.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "enti",
+   "name": null,
+   "created_at": "2025-07-24T21:05:24Z",
+   "updated_at": "2025-07-24T21:05:24Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"10\" data-topic=\"1500\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>to sustain a very lightweight token engineering community</p>\n</blockquote>\n</aside>\n<p>If you ask me, this should be then handled to any of the active groups/companies that can commit to the use of funds only for education.</p>\n<p>In my experience contributing to Lido with ecosystem/educational stuff, these topics work best in person and in places with the correct audience. This may be in the form of using the funds to do side events in major conferences (e.g. a TE Gathering during Devconnect or supporting Angela’s efforts in ETHCC), or supporting smaller meetups in cities with TEs so probably Germany, Canada, US and idk where else.</p>\n<p>Supporting a small community as in operationally having online spaces won’t work unless there’s SMEs with a big desire to be in the front, and if that has not happened yet I’m not sure it ever will.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-24T22:56:31Z",
+   "updated_at": "2025-07-25T00:18:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"10\" data-topic=\"1500\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>Separating the token from the community is an intriguing idea. Perhaps the simplest and best approach would be to just allocate 25% of the remaining funds to sustain a very lightweight token engineering community. Not sure what that would look like, but it seems feasible and worth exploring – and way less complicated and controversial than funding a bunch of pet projects.</p>\n</blockquote>\n</aside>\n<p>I appreciate the creative thinking here, but I don’t believe it makes sense to spin up something new without first closing this chapter properly. If we skip true closure, we risk repeating the very issues that have plagued TEC from the start: blurred mandates, unclear ownership, and indefinite drift.</p>\n<p>I also don’t understand what the definition of “pet project” is here.</p>\n<ul>\n<li>\n<p>Sending some of our remaining funds to cadcad, for example, would bootsrap the continuation of our beloved library, which, I can say as a user remains in dire need of redevelopment. Making TE easier is one of the highest-value impacts in growing TE bottom-up.</p>\n</li>\n<li>\n<p>As part of a responsible shutdown, I personally would like to see a <strong>post-mortem of the commons</strong>. A reflective analysis of what went wrong, what we learned, and what others can take from our experience; carried out by token engineers.</p>\n</li>\n</ul>\n<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1500\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>Assuming shutdown is the community consensus, I recommend that Rex and whoever else is interested in doing so work with Nate, Bear, and Mon to pull together a more detailed plan for doing so.</p>\n</blockquote>\n</aside>\n<p>I’ve tried already. This conversation is not new: I brought a controlled sunset up with the Coordination Team in two separate conversations over the past two months and was met with firm resistance. Recent conversations in the last three Coordination Team posts (<a href=\"https://forum.tecommons.org/t/tec-h2-2025-strategic-proposal/1498\">link1</a>, <a href=\"https://forum.tecommons.org/t/tec-token-infrastructure-utility-report/1487\">link2</a>, <a href=\"https://forum.tecommons.org/t/tec-grant-program-analysis-framework-proposal/1488\">link3</a>) make public that difficulty in engagement.</p>\n<hr/>\n<p>At this point, I think the best use of everyone’s time is to bring the conversation directly to the forums, and build momentum around whatever direction the broader community truly can rally in favour of.</p>\n<p>If the community can only reach consensus for <code>α=0</code>, i.e. funds to be fully distributed to the token holders (less a severance for current employees, and potentially a post-mortem analysis), then that may be the cleanest way forward.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-07-25T16:21:17Z",
+   "updated_at": "2025-07-25T16:46:46Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"12\" data-topic=\"1500\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/rex/40/864_2.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>I’ve tried already. This conversation is not new: I brought a controlled sunset up with the Coordination Team in two separate conversations over the past two months and was met with firm resistance. Recent conversations in the last three Coordination Team posts (<a href=\"https://forum.tecommons.org/t/tec-h2-2025-strategic-proposal/1498\">link1 </a>, <a href=\"https://forum.tecommons.org/t/tec-token-infrastructure-utility-report/1487\">link2 </a>, <a href=\"https://forum.tecommons.org/t/tec-grant-program-analysis-framework-proposal/1488\">link3 </a>) make public that difficulty in engagement.</p>\n</blockquote>\n</aside>\n<p>I’m sorry, I have to call this out.  There has never been any meaningful conversation about any of this.  You mentioning your concerns about the token or that maybe it would be a good idea to shut the token down as we were busy transferring credentials over to the Coordination Team is not the same as having a conversation.  We brushed off those comments as fleeting thoughts or a response to your transition away from Credentials management.</p>\n<p>This proposal is a few days old, in which you shared it within the notion.</p>\n<p>If you were met with resistance, its because it feels rushed.  <em><strong>It is rushed</strong></em>.  We wouldn’t have bothered working on our proposals if we knew what your intentions were.  Its still unclear how you plan on doing the distribution/redemption process, or how you’re going to distribute funds in the RPGF process outside of “trust me, just send it to our multisig.”</p>\n<p>How are you going to process claims? Will there be a process, or are you just sending money to all wallets holding $TEC?  Are you going to send money to dead wallets? What about the $TEC that was drained from your wallet, or the numerous other wallets that we’ve addressed over the years as being inaccessible?  If there is a claims process, how long will you allow claims to be processed for?  Smart-contract automated, or manual?  How do you plan on reaching out to token-holders?  What will you do with unclaimed assets?</p>\n<p>THIS IS NOT A LEGITIMATE PROPOSAL until the details for <strong>how</strong> are firmly established.  How many token-holders have you reached out to besides the small group that gives you the best chance of passing this proposal? How much of an attempt have you given to notify the broader TE community to engage on this?</p>\n<p>I understand a desire to retire the $TEC token. I would actually back a sunsetting of the TEC…but it shouldn’t be done like this.  A last minute proposal with last second engagement in which a single person is driving the conversation, pushing others (those who you identify in the proposal as potential beneficiaries) to post support, and where any meaningful dialogue is happening in DM’s without the consideration for any other perspectives.</p>\n<p>You speak of celebration and praising the work of the TEC on one hand and then want to shut it down as quickly as possible on the other.</p>\n<p> <br/>\n <br/>\n </p>\n<p>I’m going to get this last thing off my chest before moving forward. Its in response to this and many other comments sprinkled throughout.</p>\n<p>There is a massive disconnect between those of you advocating for this sunsetting proposal and the actual work happening in the TEC, and nothing captures this disconnect more than your statement here.</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"1500\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/rex/40/864_2.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>That’s fair. But TEC is also <strong>not delivering</strong>. The token trades at a 30%+ discount to treasury. Coordination has stalled. Forum engagement is minimal. We can argue “possibility,” but we owe tokenholders and contributors more than open-ended possibility—we owe them <strong>clarity</strong>.</p>\n</blockquote>\n</aside>\n<p>You all speak as if the TEC was operating some DeFi protocol where our primary obligation was to deliver token price appreciation to holders…and you speak of product market fit as if there is some elusive token engineering product that we just couldn’t deliver on.</p>\n<p>You say the TEC isn’t “delivering”, but what exactly are you measuring? If you can step outside this narrow frame of token price and abstract TE advancement, you might see that the function of the TEC as it currently operates serves something far more important.  All of you have benefited from this space both as a financial stepping stone and as a network of relationships.</p>\n<p>We still have developers who drop into our weekly calls just to say hi, or to ask questions about where to find specific resources, or are looking to connect with other engineers or projects working in their same field.  We receive DM’s regularly from individuals and organizations who are directed to new opportunities, and we facilitate funding to developers who receive their very first grants for an idea they dreamed up years ago.</p>\n<p>The truth is, our mission has never been solely focused on bringing you financial returns and yet you base this decision on precisely that. You’d rather see the funds go to TE projects advancing the field of TE; cadCAD and TEA are great, but in reality, they are the products that have failed to find product market fit after all these years.</p>\n<p>So, no…we didn’t launch a shiny product or pump the token…but that was never the point. From day one, this Commons was clear about its purpose, and its never wavered.</p>\n<p>If your judgement is based solely on token performance, then yes, the TEC and this Coordination Team will never “deliver” in your eyes. But for us, we know the value we bring to the Commons day to day and week to week, and we continue to quietly execute on that mission.</p>\n<p>If you sense frustration from me, its nothing personal. Everyone seems to be pondering why the TEC failed in its mission, and I’m wondering if anyone was aligned with it in the first place.</p>\n<p>Either way, i’ll shut up now, and let the self-proclaimed arbiters of TE decide whats next.</p>\n<p>I won’t be engaging any further after this. I want to thank everyone in the TE community and especially <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> and <a class=\"mention\" href=\"/u/bear100\">@bear100</a> for their unwavering support of the TEC mission over these past 5 years.</p>\n<p><em>“Analysts who presume that individuals cannot themselves create effective governance arrangements unless coerced by the state or designed by external experts are simply ignoring a large body of evidence…”</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2025-07-25T19:39:44Z",
+   "updated_at": "2025-07-25T19:39:44Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>First and foremost, I want to acknowledge and express deep respect for Bear, Nate, and Mon for their long-standing dedication to the TEC. The TEC has accomplished a great deal - it has been fertile ground for experimentation, and many of the ideas and relationships seeded here have become foundational to successful projects across the ecosystem.</p>\n<p>That said, token holders have every right to vote to sunset the DAO and redistribute its assets. I’m no longer a token holder, so I won’t be voting - but for what it’s worth, the cleanest path I see is to return 100% of the remaining funds to token holders. The TEC would need a budget to plan and execute the sunset, and severance for those who’ve been active day-to-day seems more than fair.</p>\n<p>The main issue I see with retroactive rewards, as framed here, is that the process would likely be lengthy, complex, and highly subjective.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2025-07-25T19:53:07Z",
+   "updated_at": "2025-07-26T16:19:28Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’m strongly in favor of a postmortem. There just aren’t many blockchain-based economic commons in the world, and as quite possibly the first, the TEC has valuable experience to share.</p>\n<p><strong>Token Utility</strong><br/>\nThe biggest single lesson in my view is that the TEC positioned itself as a token economy despite having zero plans for generating the income and token utility that this would have required. People like me bought in anyway, thanks to a compelling vision (enable the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world), not to mention the excitement then brewing around DAOs.</p>\n<p>In the links you shared, Nate, Bear, and Mon were pitching a strategy to realign the TEC with that original excitement through a shift toward building awareness and credibility for the real-world positive impact that blockchain is already having and painting a picture of where that could go. Simply put, they were painting a more positive picture of cryptoeconomic systems to build on and support Ethereum’s growing mainstream adoption.</p>\n<p>The community should be able to agree or disagree with that direction and its feasibility. But instead, you’ve taken the focus away from that proposal, using the lack of $TEC utility to position the project as a failure and reason to shut it down. The irony is that most of the very people who could have helped build that token utility abandoned the project within a year of its launch. The remaining skeleton crew generally lacked that expertise (myself included), so it focused on slowing the burn rate and getting to breakeven. The team did that while simultaneously leveraging its Gitcoin Grants program to generate significant awareness for a new field of engineering that very few people had ever heard of outside of our tiny TE network.</p>\n<p><strong>Not a Foundation - a Token Economy</strong><br/>\nSomewhere along the line, the very premise of being a commons-centered token economy morphed into a glorified GoFundMe project. Now we’re even being told that most of the treasury should be simply given away. But actually the Common Pool was meant to be replenished, not simply drained to empty, leaving token holders footing the bill. That’s a fundamental misread: a revisioning of the TEC from token economy to something akin to a community foundation, and it’s not what was sold to Hatchers. Those of us who have held strong and not sold now hold tokens worth less than a quarter of their original value, and most of that erosion came from donating to a lot of TE public goods, some of which have since turned into revenue-generating entities. While most of us were in it for the mission, that mission is very clear about the role of this economic layer:</p>\n<blockquote>\n<p>“Our economic layer will fund projects that discover, develop and proliferate the best practices for engineering safe tokenized economies, while aligning our collective success with the individual benefit of token holders.”</p>\n</blockquote>\n<p>As a community, we have experienced collective successes, but now what’s being suggested is that token holders shouldn’t mind devaluing what’s left of their funding even further in order to fund a bunch of last-minute giveaways.</p>\n<p><strong>Conflicts of Interest</strong><br/>\nPerhaps “pet projects” isn’t exactly the right term for those giveaways, since a pet project is usually driven by passion rather than personal gain. My biggest problem with what’s being proposed is that it either directly or indirectly benefits those who are proposing it. That creates a fundamental conflict of interest—especially if you’re proposing that these very same people get to decide which projects to fund. If you’re organizing support for draining the treasury by luring people with the temptation of project funding, and you’re giving total control to an unaccountable, unspecified group of decision makers, that looks a lot like a treasury raid. It seems incredible to me that the community is having to guard against that kind of activity from its own members.</p>\n<p>That’s not the way to sunset this visionary project. People have spent countless hours trying to make this vision a reality and we need to recognize these successes for the wonderful innovation and hard work that made them possible. History is watching, and what you are proposing would be an ignoble end to the world’s first blockchain-based economic commons.</p>\n<p><strong>Recommendations:</strong><br/>\nI just had a call with Nate and Bear, and based on that, here are my recommendations:</p>\n<ol>\n<li>\n<p>Allow the community to weigh in on <a href=\"https://forum.tecommons.org/t/tec-h2-2025-strategic-proposal/1498\">the proposal</a> from the coordination team. They put a lot of effort into that, and it’s been in the works for months, so let’s let the token holders decide on the merits of this approach. It’s been in the forum for 5 days and goes to a vote today. I will abstain from voting on it.</p>\n</li>\n<li>\n<p>Once that proposal’s voting is complete (next Friday, Aug 1) and if it fails, you can either:<br/>\na) Submit your proposal for a vote as is; or<br/>\nb) Proactively modify it with the help of the Coordination team to incorporate a more detailed and transparent plan and budget with a 15-25% “α” that covers:<br/>\ni. A severance package for the existing Coordination Team<br/>\nii. Funds to cover a deliberate, transparent wind-down process<br/>\niii. Funds to pay for an objective postmortem for the TEC<br/>\niv. Whatever remains after these costs goes into a retroactive fund for recognizing community contributions (using a combination of Praise and Coordinape). Note that this would take some work and compromise to figure out.</p>\n</li>\n<li>\n<p>If you choose to proceed with 2a and it fails, the coordination team will pull together a detailed funding proposal for community review by the end of August for a straight yes/no vote that returns all funds to token holders after setting aside a detailed budget and plan to cover:<br/>\na. A severance package for the existing Coordination Team<br/>\nb. Funds to cover a deliberate, transparent wind-down process<br/>\nc. Funds to pay for an objective postmortem for the TEC</p>\n</li>\n</ol>\n<p><em><strong>Addendum:</strong></em><br/>\nFinally, the structure of this proposal is fundamentally flawed and should be rejected simply on those grounds alone. Breaking this governance process into two parts is overly convoluted, and more importantly it forces people to vote on a proposal in stage 1 without any real understanding of its true fiduciary impact. That’s just bad stewardship and bad governance – and the reason for the 2b/3 recommendations above.</p>\n<p>If we’re serious about giving the TEC a graceful sunset, let’s give people a concrete, fully informed choice to vote on.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-26T00:37:20Z",
+   "updated_at": "2025-07-26T01:02:04Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>; first off, I want to say it’s encouraging to see so many folks return from dormancy and re-engage with real dialogue. It’s been a long time since proposals drew <strong>active critique</strong> rather than silence mistaken for consensus, and this level of discussion is something the Commons has sorely needed.</p>\n<p>Yes, my counterproposal has come together quickly—because it was a <strong>direct response</strong> to what I believe is a deeply flawed proposal pushed by the Coordination Team. Given the urgency, I moved quickly to surface this discussion publicly. I wanted to work in public, and help bring critical attention back to TEC’s trajectory. I accept the critique that details above are missing; that’s why I actively, and multiple times, have been explicitly calling for <strong>collaboration</strong> here. I’ve been asking for community contributors, including Coordination Team members, to <strong>co-design the weights</strong>, and certainly not for unilateral control.</p>\n<p>Hey, thinking out loud here that it’s likely <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> or <a class=\"mention\" href=\"/u/bear100\">@bear100</a> should be part of that final multisig. Instead of that being proposed by another, it’s disheartening to see the dialogue was framed in villanization and distrust; and in deleted replies, especially in what should be a shared moment of closure.</p>\n<p>Now, let me address some comments:</p>\n<aside class=\"quote no-group\" data-post=\"16\" data-topic=\"1500\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>But instead, you’ve taken the focus away from that proposal, using the lack of $TEC utility to position the project as a failure and reason to shut it down.</p>\n</blockquote>\n</aside>\n<p>Signals of decay come in many forms—not just price, but participation. The lack of community review, <strong>Discord activity flatlining</strong> (we were even removed from the public server program for inactivity), the <strong>constant departure of key contributors</strong>… these are all strong <strong>social indicators</strong> that TEC is not operating as a live commons.</p>\n<aside class=\"quote no-group\" data-post=\"16\" data-topic=\"1500\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>My biggest problem with what’s being proposed is that it either directly or indirectly benefits those who are proposing it.</p>\n</blockquote>\n</aside>\n<p>This is a misreading. I have never claimed exclusive decision-making power over distributions. I’ve asked for nominations. I’ve for the time being <strong>restored the original parameter range</strong>, (0, 0.5, 1), precisely to accommodate views across the spectrum. If I wanted to push an outcome, I wouldn’t be asking for public suggestions.</p>\n<p>Let’s also be honest about conflict of interest: <strong>power and proximity can create bias too</strong>. The pushback faced trying to initiate this conversation reflects that same lack of a climate of openness.</p>\n<aside class=\"quote no-group\" data-post=\"16\" data-topic=\"1500\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<ol>\n<li>Allow the community to weigh in on <a href=\"https://forum.tecommons.org/t/tec-h2-2025-strategic-proposal/1498\">the proposal </a> from the coordination team. They put a lot of effort into that, and it’s been in the works for months, so let’s let the token holders decide on the merits of this approach. It’s been in the forum for 5 days and goes to a vote today. I will abstain from voting on it.</li>\n</ol>\n</blockquote>\n</aside>\n<p>Just as this proposal should not be rushed to a vote until as many voices are heard, I don’t think that of the Coordination Team should be either. Many token holders are still not aware of what’s happening, and their opinion be subdued via usual proposal timelines. Let’s hold everyone to the same standard, and engage this moment with the same standards of fairness, transparency, and integrity that we built the Commons to uphold.</p>\n<p>It has also become clear that many of our valued members don’t have tokens anymore, but should also have their voice heard. I believe this proposal and its counter may need more than the five days of discussion, and that’s okay.</p>\n<p>I am happy to continue amending the proposal taking all of our views into account. I call for other stakeholders to share their thoughts, and please bring them here, too.</p>\n<p><a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> <a class=\"mention\" href=\"/u/liviade\">@liviade</a> <a class=\"mention\" href=\"/u/0xjade\">@0xJade</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> … and hopefully many more!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-26T00:57:23Z",
+   "updated_at": "2025-07-26T00:57:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> — just as a further note, I think an alpha of ~0.15-0.25 also makes sense. That 45,000-75,000$; which may be the cost of wind-down, sufficient severance, and great post-mortems on conviction voting, the ABC, and the TEC.</p>\n<p>I am hopeful we continue to hear from more participants if there are more expenditures that should be considered as part of the proposal.</p>\n<p>It would be great that we continue reaching out to others. I would also love to hear from <a class=\"mention\" href=\"/u/griff\">@Griff</a> on this matter, too &lt;3</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "0xJade",
+   "name": null,
+   "created_at": "2025-07-26T05:16:14Z",
+   "updated_at": "2025-07-26T10:00:57Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thank you to everyone for the thoughtful discussion. After reviewing the arguments and reflecting on TEC’s trajectory, I believe the shutdown proposal presents the most responsible path forward.</p>\n<p>When I first joined the TEC, I was genuinely excited about the mission of establishing token engineering as a standard within the crypto industry. The vision was compelling and felt necessary for evolving the web3 space. However, over time, it became increasingly difficult to identify concrete, measurable progress toward these foundational goals.</p>\n<p>While the TEC has indeed funded valuable projects—including cadCAD, Block Science, Inverter, and the Bonding Curve Research Group—the connection between these grants and the organization’s stated mission of advancing token engineering as a field has oftentimes felt vague. This challenge is understandable given that the team has dwindled to 3 active participants, with only 1 full-time member (not sure if others have stepped into full time positions recently). Additionally, TEC’s recent pivot toward highlighting real-world impact projects, while worthwhile in direction, reveals a mismatch between this ambitious mission and the current organizational capacity to execute it effectively.</p>\n<p>While I deeply respect the coordination team’s dedication and the valuable work TEC has supported over the years, the fundamental challenges outlined by <a class=\"mention\" href=\"/u/rex\">@rex</a> and others are difficult to dismiss. <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> raises valid concerns about process and transparency, which should absolutely be addressed through collaborative refinement of the shutdown framework. However, the core premise remains sound: responsible stewardship sometimes means recognizing when an institution has served its purpose.</p>\n<p>The proposed retroactive recognition of contributors (with appropriate community input on the weighting) combined with token holder distribution offers a dignified conclusion that honors past contributions while freeing resources for more targeted impact. I’m also in strong favor of setting up a pool for continued token engineering events so that when the market is ready for token engineering we can grow and nurture the community. Rather than continuing to burn treasury on operations with uncertain outcomes, a structured sunset allows the community to preserve TEC’s legacy while ensuring remaining funds flow to proven contributors and token holders who supported the vision. This isn’t about failure—it’s about completing a chapter thoughtfully so that the valuable relationships and learnings can continue in new forms. I support moving forward with the shutdown proposal, with the collaborative refinements <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> and others have suggested.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "maxsemenchuk",
+   "name": null,
+   "created_at": "2025-07-26T08:32:00Z",
+   "updated_at": "2025-07-26T08:32:00Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey, just sharing my two cents.</p>\n<p>On one hand, I feel genuinely sad — this has meant a lot to me personally. From funding my research and projects to being close to the community since TEC’s inception, I’ve had the chance to work with many of you and witness the journey up close. On the other hand, I see similar shifts happening across other parts of the ecosystem — Gitcoin, Giveth Galaxy, Trusted Seed, Regen Network — which suggests a broader trend that’s hard to ignore.</p>\n<p>As for the distribution of remaining funds, I don’t have a strong stance. Supporting public goods would be great, but returning value to tokenholders is also fair. Perhaps there’s an opportunity to reinvest those funds into aligned initiatives — maybe something like Regen Commons?</p>\n<p>Overall, it makes sense to compost as much value as possible. That includes preserving knowledge — for example, migrating important resources like the forum to a more sustainable home that won’t disappear just because a domain wasn’t renewed.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-29T09:30:31Z",
+   "updated_at": "2025-07-29T09:30:31Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks everyone for your comments, advice and suggestions.</p>\n<p>The Coordination team and I are now working together to split this proposal up into three sections:</p>\n<ol>\n<li>a confirmation of $TEC winddown;</li>\n<li>a proposal on the winddown implementation;</li>\n<li>a third proposal for treasury distribution plan, to include also a severance for active contributors, and a postmortem.</li>\n</ol>\n<p>I will edit this post once these proposals become available on forums.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-07-31T15:05:31Z",
+   "updated_at": "2025-07-31T15:05:31Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Dear community, as someone who joined at hatch and has stayed the course despite numerous challenging moments I am a firm believer that neither the community nor the $TEC should unwound at this time, particularly given the onset of a new cryptocurrency boom cycle that is creating renewed attention and investment in the Web3 space.</p>\n<p>Historically, such cycles present prime opportunities for communities and DAOs with strong foundations to expand their impact and relevance. TEC has spent years cultivating a reputation at the intersection of systems engineering, tokenomics, and public goods,  precisely the areas gaining momentum with the resurgence of interest in decentralized coordination and various tokenized systems.</p>\n<p>Retroactive public goods funding, a mechanism pioneered and popularized by projects like Optimism, is now a fast-evolving domain where TEC’s mission-aligned tooling, community, and thought leadership position it uniquely to capture value and further its vision.</p>\n<p>Dissolving TEC now would mean abandoning this hard-won positioning just as the ecosystem is turning back toward the principles it has long advocated.</p>\n<p>Furthermore, the continued existence and growth of TEC should be centered on the revitalization of token utility, not merely preservation for its own sake.</p>\n<p>If the community chooses not to unwind, it should do so with a clear commitment to a roadmap for enhancing the utility of the TEC token, whether through curation of funding rounds, governance participation in emerging ReFi protocols, or providing infrastructure for evaluating and funding high-impact engineering work.</p>\n<p>Token utility should serve as the engine that drives engagement, aligns incentives, and attracts builders and funders alike. This moment presents a rare convergence of timing, relevance, and community expertise; unwinding now would be a strategic misstep when TEC has the potential to play a central role in shaping the next phase of the decentralized economy.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2025-08-04T11:19:04Z",
+   "updated_at": "2025-08-04T11:19:04Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I really don’t have a strong opinion on this.</p>\n<p>TEC gave me much more than what I could ever payback, that being said, I think the project sunsetting sounds right. I would make sure all the databases of knowledge would remain and as <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> mentioned, it feels more like that we are sunsetting the economic layer.</p>\n<p>What to do with the remaining funds? I’d give it back 100% back to the token holders, we never were great at distributing funds matching our mission (with exceptions) and I think it’s about time that we don’t repeat the same history again. Of course, I’d put that as a our last governance experiment: people should have the option to vote wether the sunsetting leads to the funds back to the token holders or does it go to public goods. The distribution mechanism, I’d just talk to Gitcoin and make one finale round sponsored with all the funds left.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2025-08-24T15:58:24Z",
+   "updated_at": "2025-08-24T15:58:24Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hi everyone, It’s honestly heartwarming to see this chat alive.</p>\n<p>After hearing from 41 token engineers in the TE Stakeholder Study, one thing became clear to me. this discipline is about ethics, safety, and rigor. These qualities swim directly against neoliberal design practices. Rigor costs more, ethics extract less. And a lack of safety is only tolerable for those who can afford to lose, while a lack of ethics puts losses on those who can’t.</p>\n<p>I agree with <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> that Token Engineering feels ahead of its time, or maybe even out of its time. The mainstream adoption of crypto has been slowly introducing these systems to mainstream behavioral patterns, which are still wired to centralized, hierarchical, enclosed, and extractive logics. There is a lot to be transformed to tap into the novel potential of token-based systems.</p>\n<p>Ostrom, at the beginning of Governing the Commons, speaks about how her case studies were all local and how she didn’t know how the principles would operate at scale. Further research was needed. In many ways, the TEC has touched that experimental ground. SO much value was produced here. The TEC was a fundamental funder of the TE Academy, which has educated thousands in the space. It funded research pieces and groups, tools, libraries, contributed to commons-based cultural education, welcomed and guided many to find their passion and agency, even if for a brief moment, and introduced many community members to impactful projects, each one carrying a seed of TE and commons wisdom.</p>\n<p>To this day, whenever I interact with DAOs, coops, research projects, or residencies, I refer to the TEC as the biggest organizational school I’ve experienced. Relational wisdom is a fundamental contribution to economics. Undermining the value TEC has built here shows just how much we still need to learn about sustainable economic design.</p>\n<p>If I were to name one of TEC’s biggest mistakes (and one I see across many crypto projects), it would be not having a robust income model baked into its token infrastructure. But this isn’t something to punish ourselves with. It’s something to learn from while observing the wider struggle across projects trying to fund public goods. For generations, economic design has been based on extracting natural resources. Now, faced with a polycrisis and environmental depletion, it’s no surprise we struggle as a society to understand regenerative mechanisms, especially because the results of experimentation are still being incorporated and analyzed.</p>\n<p>I could say much more, so many reflections surface. Ironically, I sold my TEC tokens just a few days before <a class=\"mention\" href=\"/u/rex\">@rex</a> told me about this proposal, because I hadn’t been involved in governance for some time and didn’t feel like the token represented my feelings for the community. The truth is, I am still involved in token engineering research, infused with the learnings from the TEC, and I feel very much part of it. Like <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> said, there’s an important distinction between community and token economy, and I believe there’s a rich layer of reflection to explore there.</p>\n<p>I know this is a late expression, and I’m not addressing practical points because I think they were stressed enough and I won’t be voting on them, but I just wanted to make myself present and available. My gratitude and admiration to everyone who has been involved and stewarding things here.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  },
+  {
+   "post_number": 25,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2025-08-26T11:41:38Z",
+   "updated_at": "2025-08-26T11:41:38Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hello friends:</p>\n<p>8_appreciate the people who made me aware of this proposal. For various reasons, 8_just_now feel right about adding my thoughts. Part of the delay: needing to take time to process and emotions about the event, and clarify my own thoughts.</p>\n<p>First and foremost::8m incredibly grateful to the people in the TEC for the experiences and conversations 8ve had here. Over the past four years, 8ve been able to engage in professional and personal work that 8_was_afraid would always remain unfulfilled dreams. 8m hopeful that there can be some kind of call where 8_can praise people, or some other venue to delve more deeply into the impact that y’all had on me over the years.</p>\n<p>8ve also seen where people have mentioned the possibility of <a class=\"mention\" href=\"/u/octopus\">@octopus</a> as being involved in potential retrospectives and postmortems on certain technical aspects of the TEC system design, such as Augmented Bonding Curves. This is flattering, and certainly something 8d be open to, in principle. 8m planning to write another post where we can discuss the details of retrospectives/reviews/postmortems can look like.</p>\n<p>8think the TEC as an organization has fulfilled its mission admirably. To name just one project with which 8 did work closely, the TE Fundamentals  course (created by TE Academy and funded by the TEC) was an immense success. 8 also enjoyed the invited talks 8 gave at the Bonding Curves Research Group, as well as the X/Twitter Spaces with <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. Will stop here for reasons of space.</p>\n<p>A huge <em>thank you</em> to all of y’all.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250906140650",
+    "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805125941",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500?page=2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805125941",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500?page=2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805140635",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805140635",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250906134035",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/16"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250906134035",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/16"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250906140650",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250906140650",
+   "url": "https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500/12"
+  }
+ ]
+}

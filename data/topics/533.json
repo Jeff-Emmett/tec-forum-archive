@@ -1,0 +1,89 @@
+{
+ "id": 533,
+ "title": "The Praise Debate Post-Action Summary",
+ "slug": "the-praise-debate-post-action-summary",
+ "category_id": 5,
+ "posts_count": 3,
+ "created_at": "2021-08-09T13:32:03.494Z",
+ "last_posted_at": "2021-09-21T11:57:12.816Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-09-21T11:57:12Z",
+ "captured_between": [
+  "2021-09-28T00:30:56Z",
+  "2023-05-30T06:50:45Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-08-09T13:32:03Z",
+   "updated_at": "2021-08-09T13:37:13Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p><em>The Praise Debate</em> took place during Q2 of 2021 and was a contentious issue in the TEC. This article aims to document where it came from, what went down, and how we moved forward. The Praise Debate was catalysed by a series of in depth explorations into the TEC praise system, held from a data science perspective.</p>\n<h2>\n<a class=\"anchor\" href=\"#wait-what-is-praise-1\" name=\"wait-what-is-praise-1\"></a><strong>Wait, What is Praise?</strong>\n</h2>\n<p>Praise is the primordial glue of positivity that is spread liberally across the Token Engineering Commons. It is at its core a verbal acknowledgment and celebration from a TEC member on actions or work done by other TEC member(s). Praise, however, represents so much more…</p>\n<p>Getting Praised meant earning <em>Impact Hours</em> (IH) which were used to calculate the TECH tokens minted for builders of the TE Commons. TECH tokens will translate to TEC tokens at the Commons Upgrade. TEC tokens have governance powers and will have real value on primary and secondary markets (assuming the token is voted to be transferable). By this process Praise is effectively monetized, and this lies at the heart of what made praise distribution a contentious issue.</p>\n<h2>\n<a class=\"anchor\" href=\"#how-did-it-start-2\" name=\"how-did-it-start-2\"></a><strong>How Did it Start?</strong>\n</h2>\n<p>Over the course of several deep dives into Praise analysis, exploring the act of Praising and Praise quantification, several irregularities were identified. One notable difference was the contrast in Praise given to those regularly attending meetings and being vocal members of the community, versus those who contribute greatly to Token Engineering and the Commons but do not show up consistently to meetings or engage on social channels frequently. The Praise analysis sessions led to a realization that perhaps the current Praise system needed to be revamped in order to address these growing disparities.</p>\n<p>Also involved in the debate was the distribution of IH to paid contributors. Some members have work agreements with the Commons Stack to provide critical roles within the TEC and as such have their IH earned reduced by up to 85% in exchange for regular payments. It was discussed to reassess these reductions potentially retroactively distributing more IH to these paid contributors.</p>\n<h2>\n<a class=\"anchor\" href=\"#the-debate-3\" name=\"the-debate-3\"></a><strong>The Debate</strong>\n</h2>\n<p>The Praise system was opened up to the Community to find solutions. Several proposals were made and among them two frontrunners emerged - <strong>No Abnormal Intervention</strong> and <strong>PRAISEMAGEDDON</strong>.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/fcf7043c152521914def60cecb9cd6b6195c94bd\" href=\"https://forum.tecommons.org/uploads/default/original/1X/fcf7043c152521914def60cecb9cd6b6195c94bd.jpeg\" title=\"\"><img alt=\"\" data-base62-sha1=\"A5PyhW3gzukyxfnWrr8bYrPlrnn\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/fcf7043c152521914def60cecb9cd6b6195c94bd_2_10x10.png\" height=\"359\" src=\"https://forum.tecommons.org/uploads/default/original/1X/fcf7043c152521914def60cecb9cd6b6195c94bd.jpeg\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">692×361 42.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>No Abnormal Intervention</strong> claimed no changes should be made to the Praise system and that two actions should take place to address the Praise disparity.</p>\n<p><strong>1.</strong> 75% of the tokens paid contributors would have normally received if not for the reduction stipulated in their work contracts would be reimbursed as non-transferrable tokens. These tokens would provide governance rights but can never be transferred or sold, removing the financial component from the mix.</p>\n<p><strong>2.</strong> A Praise Party would be held to acknowledge and Praise en masse all of the under-represented contributors, namely Token Engineers, whose work has been undervalued by the current praise system.</p>\n<p>If you want to check out the nitty gritty, the original proposal can be found here - <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/12\">https://github.com/CommonsBuild/IH-intervention/issues/12</a></p>\n<p><strong>PRAISEMAGEDDON</strong> stated that the Praise system is broken, and should be wiped out in favour of a totally new distribution method…<br/>\n<img alt=\"\" data-base62-sha1=\"lFlU3D7n61AY3gprwZvBH9NVyYV\" height=\"433\" src=\"https://forum.tecommons.org/uploads/default/original/1X/97da58d02d33c32312cb496e8d71a46001b6f9b1.jpeg\" width=\"577\"/></p>\n<p>This proposal made the case for all contributors to be categorized by their activity level with four tiers defined - high, middle, low and long tail. Each activity category would have an allocation cap of IH. Unpaid contributors should be compensated with more IH for the risk taken in not having regular compensation. The ordering for each person in each tier was based on a list of IH accumulations that ignores the paid contributor deductions. <a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQE0yIW15oKhz3S0_-3SC7_lNMXjI_-zktDHeTiBksR9-UQin4Pj49wqq7zrOHy32VbEWnlfEwmH4sg/pubhtml?gid=1931228570&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false%22%3E\">Follow this link to view IH accumulated for each contributor, ignoring deductions.</a></p>\n<p>The original proposal, with more details, can be found here - <a href=\"https://github.com/CommonsBuild/IH-intervention/issues/11\">https://github.com/CommonsBuild/IH-intervention/issues/11</a><br/>\n<a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQE0yIW15oKhz3S0_-3SC7_lNMXjI_-zktDHeTiBksR9-UQin4Pj49wqq7zrOHy32VbEWnlfEwmH4sg/pubhtml?gid=1931228570&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false%22%3E\"><br/>\n</a><br/>\nIt was a tight debate with lines being drawn between the interventionist and non-interventionist camps, in the final voting tally the two top proposals came within 4% of each other, thus invoking the <em><strong>Polarity Clause</strong></em>.</p>\n<p>In conventional politics, when there is a difficult decision and communities are torn, one side wins and the other side loses. But in the TEC, we value compromise. The <em><strong>Polarity Clause</strong></em> stipulates that in the event of a close vote, the top two proposals should come together to find a practical and balanced solution.</p>\n<h2>\n<a class=\"anchor\" href=\"#the-result-4\" name=\"the-result-4\"></a><strong>The Result</strong>\n</h2>\n<p>In relative voting terms <em><strong>No Abnormal Intervention</strong></em> garnered <em><strong>52%</strong></em> of the top vote and <em><strong>PRAISEMAGEDDON</strong></em> collected <em><strong>48%.</strong></em> Using these percentages the compromise leveraged 52% of the proposed IH distribution from No Abnormal Intervention in addition to 48% of the IH distribution outlined in PRAISEMAGEDDON. The calculations were onerous and unrelenting but a final Praise distribution was made that respected due process and each proposal's intentions. These calculations are divided into three tallies:</p>\n<ul>\n<li><a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQE0yIW15oKhz3S0_-3SC7_lNMXjI_-zktDHeTiBksR9-UQin4Pj49wqq7zrOHy32VbEWnlfEwmH4sg/pubhtml?gid=1359711512&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false%22%3E\">PRAISMAGEDDON IH Distribution</a></li>\n<li><a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQE0yIW15oKhz3S0_-3SC7_lNMXjI_-zktDHeTiBksR9-UQin4Pj49wqq7zrOHy32VbEWnlfEwmH4sg/pubhtml?gid=1176895475&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false%22%3E\">No Abnormal IH Distribution</a></li>\n<li><a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQE0yIW15oKhz3S0_-3SC7_lNMXjI_-zktDHeTiBksR9-UQin4Pj49wqq7zrOHy32VbEWnlfEwmH4sg/pubhtml?gid=704830902&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false%22%3E\">Final IH distribution compromise<br/>\n</a></li>\n</ul>\n<p>The Final IH distribution is the result of combining the two proposals and will be the binding resolution of the Praise Debate. The final IH token distribution has been scaled down to ensure that at minimum, target and maximum goals the builders got 25%, 20% and 10% of the total supply respectively as <a href=\"https://medium.com/token-engineering-commons/hatch-prep-and-what-you-can-do-to-help-42dd81ad183c\">voted on in the Param Debates.</a></p>\n<h2>\n<a class=\"anchor\" href=\"#what-now-5\" name=\"what-now-5\"></a><strong>What Now?</strong>\n</h2>\n<p>The process was painful and revealed deep divisions within the community. It is not a perfect solution but it respected the due process that was agreed upon by the community. Foraying into the uncharted depths of experimental governance, how could we expect to have had the perfect system? However, daring to try and iterate upon our lessons learned is where the true value of the TEC comes into play. The strength of our social fabric and our ability to adapt as we face issues, creating better systems along the way, will serve as the model for the Commons of the future.</p>\n<p><strong>Onwards and Upwards! To the Hatch and the Commons Upgrade!</strong></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530065045",
+    "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "MrsBadgerface",
+   "name": null,
+   "created_at": "2021-08-12T18:58:47Z",
+   "updated_at": "2021-08-12T18:58:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> That’s an incredibly in-depth but clear summary. Very helpful to read all that. Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530065045",
+    "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-09-21T11:57:12Z",
+   "updated_at": "2021-09-21T11:57:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Update: The vote to restore 75% of governance rights to those who had had theirs deducted will be voted on from Sept 24 -27. There will be a snapshot vote and this is the forum post with the latest information: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/75-governance-giveback/569/17\">75% Governance Giveback - #17 by Juankbell</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530065045",
+    "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928003056",
+   "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928003056",
+   "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530065045",
+   "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530065045",
+   "url": "https://forum.tecommons.org/t/the-praise-debate-post-action-summary/533"
+  }
+ ]
+}

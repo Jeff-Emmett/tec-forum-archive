@@ -1,0 +1,253 @@
+{
+ "id": 62,
+ "title": "Hatch Goals - Deep Dive",
+ "slug": "hatch-goals-deep-dive",
+ "category_id": 18,
+ "posts_count": 6,
+ "created_at": "2020-11-05T12:21:14.940Z",
+ "last_posted_at": "2021-05-07T18:21:43.997Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-05-07T18:21:43Z",
+ "captured_between": [
+  "2021-04-20T13:59:55Z",
+  "2025-10-14T17:01:32Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-05T12:21:15Z",
+   "updated_at": "2021-03-06T19:25:52Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>What are the Hatch Goals?</h2>\n<p>There are 2 Hatch Goals</p>\n<ul>\n<li>Minimum Goal: The amount that needs to be raised during the Hatch to initialize the bonding curve</li>\n<li>Maximum Goal: The maximum amount of funds that can be sent to the Hatch</li>\n</ul>\n<p>The default setting for the Rinkeby Test was that both Goals were set to the same value, 300 tDAI.</p>\n<p>This makes the math simple, and sets clear expectations for everyone. It removes all variables from the Hatch, most notably the Opening price and the Redeemable Pool Ratio.</p>\n<h2>Does this match the original Commons Stack Design?</h2>\n<p>No. The Commons Stack design had the desire of setting the Hatch Price and Open price as constants, but we only have a minimum raise (based on how much funding in the funding pool we think we need to make an impact) and did not have a cap on the Max that could be collected during the Hatch. To deal with the amount raised in the Hatch being variable we actually made the shape of the curve variable (in this case that would mean making the reserve ratio variable). You can see this in action on our website: <a href=\"https://commonsstack.org/abc\">https://commonsstack.org/abc</a></p>\n<h2>So what do we need to decide?</h2>\n<p>There are a few questions to discuss around the Hatch Goal…</p>\n<ol>\n<li>\n<p>[Technical Blocker] Can we still have the Hatch Price and Open Price constant if we don’t have the Hatch goal represent the Min and Max goal? There is a lot of value in keeping those two constant for the Hatchers to have clear expectations when joining.</p>\n</li>\n<li>\n<p>Based off that answer, should it be a Min and a Max all in one as it is currently? Or should there be a Min and a Max? Or only a Min? Or a Min with a very very high Max?</p>\n</li>\n<li>\n<p>Based off that answer, if applicable, how do we deal with a variable amount raised during the Hatch?</p>\n</li>\n<li>\n<p>What information should we use to decide that actual value of the Min and Max goals?</p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-11-15T22:18:03Z",
+   "updated_at": "2020-11-15T22:18:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Reserve ratio can be modified using Dandelion Voting after the hatch is complete and before the bonding curve is open, so we can still have this pre-determined Open Price.</p>\n<p>Maybe what we can begin determining is the hatch price and the open price. I think in the cadCAD models we have been testing with 0.10 DAI and 0.30 DAI respectively, and worked pretty well. Do them work well for us or we want something like 0.01 and 0.03 or even 0.001 and 0.003 to don’t have to deal with too much decimals in the future when the value of the token is higher? Is a 3x return on investment enough?</p>\n<p>Depending on the min goal and the hatch tribute, we will have the min reserve ratio and the min funding pool funds to start our commons. They are important to be high, because we don’t want to token to be very much undercollateralized, and we’ll need initial funds to begin commoning.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-17T23:45:34Z",
+   "updated_at": "2020-11-17T23:45:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"62\" data-username=\"sem\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/23_2.png\" width=\"20\"/> sem:</div>\n<blockquote>\n<p>Depending on the min goal and the hatch tribute, we will have the min reserve ratio and the min funding pool funds to start our commons.</p>\n</blockquote>\n</aside>\n<p>Yes! That is Huge!</p>\n<p>We will need to decide what the minimum amount of funding we want to have in the Funding Pool at launch is… This will be a critical number…</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-11-17T23:47:15Z",
+   "updated_at": "2020-11-17T23:47:15Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"62\" data-username=\"sem\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/23_2.png\" width=\"20\"/> sem:</div>\n<blockquote>\n<p>Reserve ratio can be modified using Dandelion Voting after the hatch is complete and before the bonding curve is open, so we can still have this pre-determined Open Price.</p>\n</blockquote>\n</aside>\n<p>This goes well with the direction of starting with a Moloch style DAO with a guaranteed donation (the Hatch Tribute) and then upgrading after the Hatch.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-07T18:18:57Z",
+   "updated_at": "2021-05-07T18:18:57Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Minimum Goal (wxDai)</strong><br/>\nThe Minimum Goal is the minimum amount of funds (wxDai) that needs to be collected during the Hatch Period in order to successfully deploy the HatchDAO.  If this goal is not reached, 100% of the wxDai will be refunded, the Hatch DAO will not be deployed and Impact Hours will have no value.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nThe Minimum Goal is measured in wxDai (≅1USD), and you will have the option to set this parameter between 0 and ∞.</p>\n<p>The amount of wxDai you select for your Minimum Goal (wxDai) will impact whether or not the HatchDAO is deployed. If you set your Minimum Goal to 1 wxDai, it is highly likely that the TEC Community will be able to deploy the HatchDAO, but may disincentivize the collection of additional funds.   If you set your Minimum Goal to 1,000,000,000 wxDai it is highly unlikely the HatchDAO will receive enough wxDai to deploy, and all funds received will be returned.</p>\n<p><strong>Suggested Range</strong><br/>\nWe collected over 400,000 wxDai in “soft-commits” from ~100 Trusted Seed members, based on that we suggest a range for the Minimum Goal (wxDai) parameter between 200,000 wxDai and 1,500,000 wxDai.</p>\n<p><strong>Related Parameters to consider when defining the Minimum Hatch Goal (wxDai):</strong><br/>\nHatch Period<br/>\nTarget Goal<br/>\nImpact Hour Rate at Target Goal<br/>\nImpact Hour Rate at Infinity</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-07T18:20:14Z",
+   "updated_at": "2021-05-07T18:20:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Maximum Goal (wxDai)?</strong><br/>\nThe Maximum Goal (wxDai) is the maximum amount of funds (wxDai) that can be collected during the Hatch Period.  Once this goal is reached, the Hatch Period will end and the HatchDAO will be deployed.</p>\n<p><strong>Implications &amp; Parameter options.</strong><br/>\nThe Maximum Goal is measured in wxDai (≅1USD), and you will have to option to set this parameter between 0 and ∞, and must be larger than your Minimum Goal (wxDai).</p>\n<p>The amount of wxDai you select for your Maximum Goal (wxDai) will create a limit to how much wxDai that can be covested into the HatchDAO. The upper limit has several implications that should be considered during parameter design, and although many concerns surrounding this parameter have been addressed, it is important to evaluate the implications of the Maximum Goal (wxDai).</p>\n<p>All wxDai sent to the HatchDAO during the Hatch Period will result with the minting of TECH tokens which serve as voting power within the HatchDAO.  If the Maximum Goal is set to ∞ , this has the potential to give a substantial amount of voting power (via TECH tokens) to “Whales” within the Trusted Seed.  The Trade-off is that the amount of funds provided will increase the value of covestments made by smaller contributors in exchange for voting power that set the parameters for the Commons Upgrade.</p>\n<p>Much of this trade-off has been mitigated through both the Trusted Seed (limiting Hatch contributors to those with value alignment with the Commons), and the 10% rule (which limits the amount of TECH tokens minted for any contributor to be no more than 10% of all TECH tokens minted.)</p>\n<p><strong>Suggested Range</strong><br/>\nBased upon our collection of “soft-commits” from Trusted Seed members, we suggest a range for the Maximum Goal (wxDai) between 2,000,000 wxDai and 20,000,000 wxDai.</p>\n<p><strong>Related Parameters to consider when defining the Maximum Goal (wxDai):</strong><br/>\nMinimum Goal (wxDai),<br/>\nTarget Goal (wxDai)<br/>\nHatch Period (days),<br/>\nMembership Ratio (wxDai/CSTK)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-07T18:21:43Z",
+   "updated_at": "2021-05-07T18:21:43Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Target Goal (wxDai)?</strong><br/>\nThe Target Goal (wxDai) is the amount of funds (wxDai) that the community expects to raise during the Hatch Period.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nThe Target Goal is measured in wxDai (≅1USD), and you will have the option to set this parameter anywhere between your Minimum Goal (wxDai) and your Maximum Goal (wxDai).</p>\n<p>This parameter is intended to help inform the design of your other parameters within the dashboard.  There are also community implications surrounding the establishment of this parameter. If this parameter is set just beyond our assumptions of how much money can be raised, we can motivate community members to really push for new outreach campaigns and create a highly motivated effort to seek more funding from Trusted Seed members in order to satisfy this collective goal.</p>\n<p><strong>Suggested Range</strong><br/>\nSince the Target Goal is a social parameter that allows the Community to rally around a particular funding goal, we suggest a range of 1,000,000 - 15,000,000 wxDai.</p>\n<p><strong>Related Parameters to consider when defining the Maximum Goal (wxDai):</strong><br/>\nMinimum Goal (wxDai)<br/>\nMaximum Goal (wxDai)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251014170132",
+    "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420135955",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420135955",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928014436",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014436",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928014640",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014640",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928014721",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/7"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928014721",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/7"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928020808",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928020808",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401013231",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401013231",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401013259",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401013259",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401013327",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/7"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401013327",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/7"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805140751",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805140751",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805140829",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805140829",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805140939",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/7"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805140939",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62/7"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251014170132",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251014170132",
+   "url": "https://forum.tecommons.org/t/hatch-goals-deep-dive/62"
+  }
+ ]
+}

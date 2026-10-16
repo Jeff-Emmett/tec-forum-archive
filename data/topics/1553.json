@@ -1,0 +1,42 @@
+{
+ "id": 1553,
+ "title": "Official TEC Archive",
+ "slug": "official-tec-archive",
+ "category_id": 33,
+ "posts_count": 1,
+ "created_at": "2026-07-14T00:28:20.605Z",
+ "last_posted_at": "2026-07-14T00:28:20.758Z",
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2026-07-14T00:28:20Z",
+ "captured_between": [
+  "2026-08-09T03:39:33Z",
+  "2026-08-09T03:39:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2026-07-14T00:28:20Z",
+   "updated_at": "2026-07-14T00:28:20Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<hr/>\n<p><strong>The Token Engineering Commons Archive</strong></p>\n<p>After six years, the Token Engineering Commons has concluded. We’ve published a permanent, public archive of the project that provides a record of what it was, what it attempted, and how it operated, across its governance, economics, technology, and culture. The archive takes no position on the TEC’s success or failure. It exists so that future builders, researchers, and critics can study the experiment on its own terms and draw their own conclusions.</p>\n<p><strong>How to use it</strong></p>\n<p>The site is organized into a few top-level sections. If you’re new, start at the <strong>Overview</strong>, as it lays out a guided reading order:</p>\n<ul>\n<li>\n<strong>History &amp; Timeline</strong> — how the TEC began, and its full 2020–2025 lifecycle.</li>\n<li>\n<strong>The mechanisms</strong> — deep dives on the Hatch, the Augmented Bonding Curve, and Praise, plus the Cultural Build (the TEC’s application of Elinor Ostrom’s commons principles).</li>\n<li>\n<strong>Economics, tokens &amp; funding</strong> — the economic system end to end, the several tokens of the TEC, the migration to Optimism, and the Grant Program (including everything the TEC funded).</li>\n<li>\n<strong>Research &amp; Dissolution</strong> — the research initiatives, and a full account of how and why the TEC deliberately wound itself down.</li>\n</ul>\n<p>From there, the other sections go deeper:</p>\n<ul>\n<li>\n<strong>Governance</strong> — the decision-making mechanisms, the rules and processes (Code of Conduct, Community Covenant, and more, each summarized), and a dedicated page for every <strong>Working Group</strong>, with the detailed forum timeline preserved alongside.</li>\n<li>\n<strong>Sources</strong> — references back to the platforms the record is sourced from, including the Discourse governance forum, Discord, the YouTube call archive, the verified smart-contract addresses on Gnosis Chain and Optimism, the bots that ran the community, and a Knowledge Base of the TEC’s published writing and talks.</li>\n<li>\n<strong>Definitions</strong> — a plain-language glossary of Web3 and TEC-specific terms, for readers new to the space.</li>\n<li>\n<strong>For Researchers</strong> — how to work with the companion <strong>data repository</strong>, which holds the de-identified datasets (forum, Discord, and onchain records) and downloadable document bundles,  including a <code>.zip</code> for each working group, or the entire archive at once.</li>\n</ul>\n<p><strong>On privacy.</strong> This is a curated record, and not a raw dump. Private messages and channels are excluded, and personal names in internal working documents have been redacted. Public, onchain, and already-public forum references remain intact so the record stays independently verifiable.</p>\n<p><strong>A note on finality.</strong> The TEC is retired. This archive is historical, not operational, so there is no active governance, no potential actions, and no further updates to expect. It exists solely as a public record.</p>\n<p><strong>Explore the archive:</strong> <a class=\"inline-onebox\" href=\"https://tecarchive.github.io/tec-archive/\">TEC Archive</a></p>\n<p><strong>Add your perspective.</strong> The archive is written in a neutral, third-person voice, so the one thing it can’t capture is what the experience was actually like for the people who lived it. If you were part of the TEC, in any role, you’re invited to contribute your own reflection, experience, or analysis. Submit a Pull Request to the <code>Perspectives/</code> folder, or email me at <a href=\"mailto:natesuits@pm.me\">natesuits@pm.me</a>. <strong>This open call will run for six months.</strong> The archive would benefit greatly from individual perspectives and research.</p>\n<p><strong>For researchers and analysts.</strong> All datasets and documents are free to download and cite from the data repository. If you build analysis on top of the record, we’d love to hear about it.</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://tecarchive.github.io/tec-archive/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"500\" src=\"https://tecarchive.github.io/tec-archive/static/icon.png\" width=\"500\"/>\n<a href=\"https://tecarchive.github.io/tec-archive/\" rel=\"noopener\" target=\"_blank\">TEC Archive</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" height=\"362\" src=\"https://TECArchive.github.io/tec-archive/static/og-image.png\" width=\"690\"/></div>\n<h3><a href=\"https://tecarchive.github.io/tec-archive/\" rel=\"noopener\" target=\"_blank\">TEC Archive</a></h3>\n<p>Token Engineering Commons — Public Archive This site is the public, curated archive of the Token Engineering Commons (TEC), an open experiment in commons development and onchain coordination that ran from 2019 to 2025.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260809033933",
+    "url": "https://forum.tecommons.org/t/official-tec-archive/1553"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260809033933",
+   "url": "https://forum.tecommons.org/t/official-tec-archive/1553"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "id": 945,
+ "title": "Legal WG Funding Proposal: Contingency Fund and Retroactive Bonus",
+ "slug": "legal-wg-funding-proposal-contingency-fund-and-retroactive-bonus",
+ "category_id": 7,
+ "tags": [
+  "conviction-voting"
+ ],
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2022-03-18T20:05:48Z",
+ "last_archived_post_at": "2022-04-18T16:53:18Z",
+ "captured_between": [
+  "2022-05-20T06:37:35Z",
+  "2022-05-20T06:37:35Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2022-03-18T20:05:48Z",
+   "updated_at": "2022-03-18T20:05:48Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a><strong>Proposal title</strong>\n</h3>\n<p>Legal WG Funding Proposal: Contingency Fund and Retroactive Bonus</p>\n<h3>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h3>\n<p>We understand Legal WG regular work has decreased after the Commons Upgrade. There may be minor requests and needs but most of the work will be done. However, potential legal conflicts may arise and we should be prepared for that.</p>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h3>\n<p>This is a one-time proposal to request 12,000 wxDAI.</p>\n<p>10,000 wxDAI will be held to have sufficient funds for a quick response in case the TEC encounters legal issues.</p>\n<p>We would like to request an additional 2,000 wxDAI to convert to TEC and distribute as a retroactive bonus among the Legal WG contributors who prepared the legal documents critical for the Hatch and the Commons Upgrade.</p>\n<p>This proposal doesn’t cover the funding for new legal documents that we might want to build in the future. For that purpose and in the event there are additional funding needs, we will post a new proposal to the TEC, or compensate the future contributors through the Reward System.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-4\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>While the Legal WG works hard to ensure that the TEC is legally sound, we still want to be prepared for potential legal issues that the TEC may encounter as a DAO. Funding proposals count days to get passed and executed in the Gardens through Conviction Voting, but legal matters are usually urgent. This proposal will help the TEC secure an emergency fund that is readily available anytime a legal issue comes up.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-5\" name=\"amount-requested-only-for-conviction-voting-5\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p><em>Contingency fund for external legal support:</em> 10,000 wxDAI</p>\n<p><em>Retroactive bonus:</em> 2,000 wxDai in TEC via the ABC</p>\n<p><em>Total:</em> 12,000 wxDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-6\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-6\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>The contingency legal fund should be released for legal external support <em>only when the need arises</em>. It will remain unused until then.</p>\n<p>Meanwhile, the retroactive bonus will be distributed through a Gnosis multisig wallet. Below is the list of the bonus recipients, their bonus percentage, and their valuable contributions to the TEC:</p>\n<ul>\n<li>Santi (42.50%) - for coordinating and stewarding the Legal WG</li>\n<li>Shawn (45%) - for sharing his legal expertise in writing and reviewing several TEC legal documents such as the <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/voting-templates-and-the-bonding-curve/hatch-proposal-tl-dr/full-hatch-terms\" rel=\"noopener nofollow ugc\">Hatch Terms</a>, <a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/covenant\" rel=\"noopener nofollow ugc\">The Covenant</a>, the <a href=\"https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing\" rel=\"noopener nofollow ugc\">CV Proposals T&amp;Cs</a>, and others</li>\n<li>Anja (5%) - for reviewing the Hatch Terms during the early phase of the TEC</li>\n<li>Marina (5%) - for reviewing the Hatch Terms during the early phase of the TEC</li>\n<li>Pablo (2.5%) - for contributing to the <a href=\"https://docs.google.com/document/d/1BltyTWMCkyJZktdEZu7o7hM1vI8v_JJmqhX74LNGNFM/edit?usp=sharing\" rel=\"noopener nofollow ugc\">CV Proposals T&amp;Cs</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-7\" name=\"how-will-you-share-progress-7\"></a>How will you share progress?</h3>\n<p>We conduct bi-weekly calls to share updates on the legal documents we work on. Every fund movement will be shared in the Comments section of this forum post and in the Legal WG calls as well.</p>\n<h3>\n<a class=\"anchor\" href=\"#complementary-information-8\" name=\"complementary-information-8\"></a>Complementary information</h3>\n<p>We will set up a Gnosis multisig wallet for holding and managing the legal fund. The following stewards and community members who actively participate in Legal WG will be our multisig heroes:</p>\n<p><em>Griff, Ivy, DecentralizeSDG, Zeptimus, Juanka</em></p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-9\" name=\"team-information-9\"></a>Team Information</h3>\n<p>Ivy - Steward and WGCL<br/>\nGriff - Co-steward</p>\n<p>Praise <a class=\"mention\" href=\"/u/griff\">@Griff</a> and <a class=\"mention\" href=\"/u/santigs\">@santigs</a> for collaborating on this proposal!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520063735",
+    "url": "https://forum.tecommons.org/t/legal-wg-funding-proposal-contingency-fund-and-retroactive-bonus/945"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2022-04-12T15:30:14Z",
+   "updated_at": "2022-04-12T16:46:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The Legal WG Funding Proposal is passed and executed! <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/16\" rel=\"noopener nofollow ugc\">Gardens</a></p>\n<p>We transferred 2000 wxDAI to my wallet and bought $TEC from the ABC. Here are the transactions:<br/>\n<a class=\"onebox\" href=\"https://blockscout.com/xdai/mainnet/tx/0xc743a917ff019495ceb02490a05b8e81c0b33038aff7dd04587cb55e546fb71a/\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://blockscout.com/xdai/mainnet/tx/0xc743a917ff019495ceb02490a05b8e81c0b33038aff7dd04587cb55e546fb71a/</a><br/>\n<a class=\"onebox\" href=\"https://blockscout.com/poa/xdai/tx/0x11cf86de733d76bcb3745c81c973ee1fc33bec052027f00d409d2a3e9b6c2587\" rel=\"noopener nofollow ugc\" target=\"_blank\">https://blockscout.com/poa/xdai/tx/0x11cf86de733d76bcb3745c81c973ee1fc33bec052027f00d409d2a3e9b6c2587</a></p>\n<p>Next step is to disperse the $TEC tokens to the previous contributors of the Legal WG as mentioned in this proposal. We’ll be also tracking the fund in this <a href=\"https://docs.google.com/spreadsheets/d/1j80PN8BFSM5lsE84cjSdqMkC4TtwMQoEsqZNxr9Bzws/edit?usp=sharing\" rel=\"noopener nofollow ugc\">spreadsheet</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520063735",
+    "url": "https://forum.tecommons.org/t/legal-wg-funding-proposal-contingency-fund-and-retroactive-bonus/945"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2022-04-18T16:53:18Z",
+   "updated_at": "2022-04-18T16:53:18Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The retroactive bonus has been distributed (in $TEC):</p>\n<p>Santi - <a class=\"inline-onebox\" href=\"https://blockscout.com/poa/xdai/tx/0x88b603cf85cb85d6c91b2ead9037190afaf4049f805d05b428f9d78f54a68248\" rel=\"noopener nofollow ugc\">Transaction 0x88b603cf85cb85d6c91b2ead9037190afaf4049f805d05b428f9d78f54a68248 - Gnosis Chain Explorer</a><br/>\nShawn (CaesarPST) - <a class=\"inline-onebox\" href=\"https://blockscout.com/poa/xdai/tx/0x777c7c1b69d0b4be78b13fb190d4b3d1f98268763bd4ef9dcca26654fd0c021c\" rel=\"noopener nofollow ugc\">Transaction 0x777c7c1b69d0b4be78b13fb190d4b3d1f98268763bd4ef9dcca26654fd0c021c - Gnosis Chain Explorer</a><br/>\nMarina - <a class=\"inline-onebox\" href=\"https://blockscout.com/poa/xdai/tx/0x4562e15417152625076694e2353fec7c885cd588266ed1aea3d0c5a6950a3d3d\" rel=\"noopener nofollow ugc\">Transaction 0x4562e15417152625076694e2353fec7c885cd588266ed1aea3d0c5a6950a3d3d - Gnosis Chain Explorer</a><br/>\nAnja - <a class=\"inline-onebox\" href=\"https://blockscout.com/poa/xdai/tx/0x6e9a18193acf25ac278fb80ef2a730bb51a3b24a6c6c3af24eb12ad871e782d2\" rel=\"noopener nofollow ugc\">Transaction 0x6e9a18193acf25ac278fb80ef2a730bb51a3b24a6c6c3af24eb12ad871e782d2 - Gnosis Chain Explorer</a><br/>\nPablo - <a class=\"inline-onebox\" href=\"https://blockscout.com/poa/xdai/tx/0x4c00c546eec8c95d5895d61d03bd921613473df299450df09e4261a43d610993\" rel=\"noopener nofollow ugc\">Transaction 0x4c00c546eec8c95d5895d61d03bd921613473df299450df09e4261a43d610993 - Gnosis Chain Explorer</a></p>\n<p>These transactions are documented <a href=\"https://docs.google.com/spreadsheets/d/1j80PN8BFSM5lsE84cjSdqMkC4TtwMQoEsqZNxr9Bzws/edit?usp=sharing\" rel=\"noopener nofollow ugc\">here</a>.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520063735",
+    "url": "https://forum.tecommons.org/t/legal-wg-funding-proposal-contingency-fund-and-retroactive-bonus/945"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520063735",
+   "url": "https://forum.tecommons.org/t/legal-wg-funding-proposal-contingency-fund-and-retroactive-bonus/945"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520063735",
+   "url": "https://forum.tecommons.org/t/legal-wg-funding-proposal-contingency-fund-and-retroactive-bonus/945"
+  }
+ ]
+}

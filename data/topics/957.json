@@ -1,0 +1,63 @@
+{
+ "id": 957,
+ "title": "TEC Simulator - can we change how conviction voting chart displays?",
+ "slug": "tec-simulator-can-we-change-how-conviction-voting-chart-displays",
+ "category_id": 10,
+ "posts_count": 1,
+ "created_at": "2022-03-30T22:40:28.052Z",
+ "last_posted_at": "2022-03-31T08:35:58.837Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2022-03-31T08:35:58Z",
+ "captured_between": [
+  "2022-05-20T08:00:33Z",
+  "2022-05-20T08:00:33Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "paul2",
+   "name": null,
+   "created_at": "2022-03-30T22:40:28Z",
+   "updated_at": "2022-03-30T22:40:28Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>When I show people who aren’t familiar with Conviction Voting the <a href=\"https://config.tecommons.org/config/4\" rel=\"noopener nofollow ugc\">Conviction Voting section of the TEC simulator</a>, I have a real hard time explaining what it means. Eventually they nod and say “I get it” but I’m pretty sure they still don’t get it, and they’re just saying that cuz they’re tired of hearing me struggle.</p>\n<p>A simple update that I think would make it a lot more intuitive would be to make the x-axis “days until proposal passes” and then instead of selecting a time frame, you select a funding amount and total amount in the common pool. The chart would then look something like this:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58\" href=\"https://forum.tecommons.org/uploads/default/original/1X/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58.png\" title=\"Screen Shot 2022-03-30 at 3.37.34 PM\"><img alt=\"Screen Shot 2022-03-30 at 3.37.34 PM\" data-base62-sha1=\"92UvOyCnVIxY1TflFL2yBumP8ZG\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58_2_10x10.png\" height=\"333\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58_2_690x333.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58_2_690x333.png, https://forum.tecommons.org/uploads/default/original/1X/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/3f67d1d2bf0e94f6f8278afcd3b4a67d8a5c3c58.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2022-03-30 at 3.37.34 PM</span><span class=\"informations\">771×373 123 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>You’d also be able to add a visualization of the conviction threshold for passing in this case too, which is prob the data point people care about most.</p>\n<p>Basically, I think “days until proposal passes” is a more intuitive chart axis to think about than “% of common pool,” and setting the funding request amount is more intuitive than an arbitrary time length.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080033",
+    "url": "https://forum.tecommons.org/t/tec-simulator-can-we-change-how-conviction-voting-chart-displays/957"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "markop",
+   "name": null,
+   "created_at": "2022-03-31T08:35:58Z",
+   "updated_at": "2022-03-31T08:35:58Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Interesting. Let me look into this and get back to you.</p>\n<p>Do we have any technical constraints for the suggested revisions <a class=\"mention\" href=\"/u/vitor\">@Vitor</a> <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> <a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a> ?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080033",
+    "url": "https://forum.tecommons.org/t/tec-simulator-can-we-change-how-conviction-voting-chart-displays/957"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520080033",
+   "url": "https://forum.tecommons.org/t/tec-simulator-can-we-change-how-conviction-voting-chart-displays/957"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520080033",
+   "url": "https://forum.tecommons.org/t/tec-simulator-can-we-change-how-conviction-voting-chart-displays/957"
+  }
+ ]
+}

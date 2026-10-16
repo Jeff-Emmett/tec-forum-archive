@@ -1,0 +1,108 @@
+{
+ "id": 114,
+ "title": "📚 Glossary of Terms",
+ "slug": "glossary-of-terms",
+ "category_id": 12,
+ "posts_count": 3,
+ "created_at": "2020-12-30T23:00:00.000Z",
+ "last_posted_at": "2021-01-18T19:02:33.860Z",
+ "views": 3867,
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2020-12-30T23:00:00Z",
+ "captured_between": [
+  "2021-03-03T01:37:36Z",
+  "2025-03-19T12:01:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": "Jessica Zartler",
+   "created_at": "2020-12-30T23:00:00Z",
+   "updated_at": "2021-10-20T09:42:45Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h1>\n<a name=\"glossary-1\" class=\"anchor\" href=\"#glossary-1\"></a><strong>GLOSSARY</strong>\n</h1>\n<p>IMPORTANT TERMS</p>\n<p><strong>Augmented Bonding Curve -</strong>  a modified token bonding curve that generates continuous funding for open organizations that produce and maintain public goods. It acts as a ‘value transfer interface’ between a particular Commons and the rest of the world, biomimetically similar to a cell wall. <a href=\"https://medium.com/giveth/deep-dive-augmented-bonding-curves-3f1f7c1fa751\">More Info</a></p>\n<p><strong>Bonding Curve -</strong> a mathematical formula used to set a relationship between a token’s price and its supply. <a href=\"https://blog.goodaudience.com/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8\">More Info</a></p>\n<p><strong>cadCAD (complex adaptive dynamics Computer-Aided Design) -</strong> a python based modeling framework for research, validation, and Computer Aided Design of complex systems. <a href=\"https://cadcad.org/\">More Info</a></p>\n<p><strong>Commons -</strong> Resources that groups of people (communities, organizations) create and manage for individual and collective benefit. These resources are held collectively, not owned privately. <a href=\"https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138\">More Info</a></p>\n<p><strong>Commons Stack -</strong> Building commons-based microeconomies to sustain public goods through incentive alignment, continuous funding and community governance. <a href=\"https://commonsstack.org/#ids\">More Info</a></p>\n<p><strong>Computer-Aided Governance -</strong> a decision-support process that leverages blockchain technology and cadCAD to simulate the potential results of governance policies, leading to better informed decision making. <a href=\"https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2\">More Info</a></p>\n<p><strong>Conviction Voting -</strong> a novel continuous decision making alternative to current governance mechanisms. Conviction Voting offers a novel decision making process that funds proposals based on the aggregated preference of community members, expressed continuously. It sidesteps sybil attacks, provides collusion resistance, and mitigates many of the attack vectors of time-boxed voting mechanisms. <a href=\"https://forum.tecommons.org/t/conviction-voting-parameters-general-disccusion/84\">Deep Dive</a></p>\n<p><strong>CSTK Ratio -</strong> The CSTK Ratio is the amount of wxDAI (wrapped xDAI) each CSTK Token holder is able to send to the Hatch. <a href=\"https://forum.tecommons.org/t/cstk-ratio-deep-dive/141\">Deep Dive</a></p>\n<p><strong>CSTK Token -</strong> The CSTK token represents the skin in the game that contributors have put towards accomplishing the Commons Stack mission. It can be seen as a “trust token” since it’s non-transferable and is rewarded objectively for financial donations and subjectively based on Praise for contributions. CSTK token holders are invited to participate in future Commons Hatches and certain governance decisions for the Commons Stack as members of the Trusted Seed. <a href=\"https://forum.tecommons.org/t/how-to-earn-cstk-tec-tokens/113\">Deep Dive</a></p>\n<p><strong>Cultural Build -</strong> A Commons is more than just a machine —it has a cultural dimension as well. For each component we develop, we will carry out a technical build phase, in which we write the software, and a <em>cultural build</em> phase when the community who will test the component in beta discusses and establishes their Commons’ goals and best practices. <a href=\"https://faq.commonsstack.org/\">More Info</a></p>\n<p><strong>Dandelion Voting -</strong> The Dandelion Voting app is a fork of the Original Aragon Voting app. It serves the same purpose as the original Voting app but also enables organizations to restrict actions to members who have expressed approval in recent votes. It basically means that by voting yes on a proposal you are committing to a decision in the Org. <a href=\"https://forum.tecommons.org/t/dandelion-voting-parameters-general-discussion/107\">Deep Dive</a></p>\n<p><strong>DAO -</strong> an internet-native entity with no central management which is regulated by a set of automatically enforceable rules on a public blockchain, and whose goal is to take on a life of its own and incentivize people to achieve a shared common mission. <a href=\"https://aragon.org/dao\">More Info</a></p>\n<p><strong>DeFi -</strong> Decentralized Finance. Digital assets and financial smart contracts, protocols, and decentralized applications (DApps) built on the blockchain that can be pieced together like Money Legos. <a href=\"https://defipulse.com/blog/what-is-defi/\">More Info</a></p>\n<p><strong>Exit Tribute (Tollgate Fee) -</strong> A simple Aragon App forwarder that requires a user to deposit fees before executing an action. Useful for when an organization wants to make actions public, but impose a customizable cost to prevent spam. <a href=\"https://forum.tecommons.org/t/tollgate-fee-deep-dive/128\">Deep Dive</a></p>\n<p><strong>Fractal Ownership -</strong> a tokenized implementation of that legal and economic concept within a digital ecosystem which consists of many organizations and individuals. <a href=\"https://medium.com/freeelio-studios/fractal-ownership-part-2-implementing-value-based-ownership-d329405f8ea0\">More Info</a></p>\n<p><strong>Half Life -</strong> determines the time it takes to accumulate or reduce voting power by 50%. Half life, defined in number of days, represents the number of days it takes to accumulate 50% voting power or to reduce by 50% voting power. <a href=\"https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160\">Deep Dive</a></p>\n<p><strong>Hatch</strong> - The Hatch phase can be considered the initialization of the HatchDAO. This is where a group of trusted community initiators come together and make the initial decisions on how the HatchDAO will be set up. <a href=\"https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85\">Deep Dive</a> and  <a href=\"https://medium.com/commonsstack/whats-in-a-hatch-3799a398243a?source=collection_home---5------2-----------------------\">What is a Hatch article</a></p>\n<p><strong>Hatch Maximum Goal -</strong> the maximum amount of funds that can be sent to the Hatch. <a href=\"https://forum.tecommons.org/t/hatch-goals-deep-dive/62\">Deep Dive</a></p>\n<p><strong>Hatch Minimum Goal -</strong> the amount of funds that needs to be raised during the Hatch to initialize the bonding curve. <a href=\"https://forum.tecommons.org/t/hatch-goals-deep-dive/62\">Deep Dive</a></p>\n<p><strong>Hatch Time Limit -</strong> the duration the Hatch is open to collect funds. <a href=\"https://forum.tecommons.org/t/hatch-time-limit-deep-dive/63\">Deep Dive</a></p>\n<p><strong>Hatch Tribute -</strong> specifies what % of the funds raised by the Hatch go to the Funding Pool. <a href=\"https://forum.tecommons.org/t/hatch-tribute-deep-dive/65\">Deep Dive</a></p>\n<p><strong>Impact Hours -</strong> rewards for community contributions to Cultural Build of the Hatch based on the Commons Stack’s <a href=\"https://docs.google.com/document/d/1P_W9u5Tk1xTRfP2_c3k7iN4whmb6JGP_LwRou_ZqN4E/edit#\">Praise</a> system. <a href=\"https://forum.tecommons.org/t/impact-hour-rewards-deep-dive/90\">Deep Dive</a></p>\n<p><strong>Max Ratio (β) -</strong>  is a value between 0 and 1 which represents the max % of total funds that can be discharged at any given moment. Max Ratio affects the threshold of a proposal. It can be thought of as an “upper ceiling” in asking funds proportional to the total holdings of the Commons. <a href=\"https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156\">Deep Dive</a></p>\n<p><strong>Metamask -</strong> a browser plugin that serves as an Ethereum wallet and is installed like any regular plugin. Once it’s installed, it allows users to store Ether and other ERC-20 tokens, enabling them to make transactions to any Ethereum address. <a href=\"https://metamask.io/index.html\">More Info</a></p>\n<p><strong>Minimum Quorum -</strong> the percent of the total supply of the token that needs to participate in a vote in order for it to be able to be passed. <a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">Deep Dive</a></p>\n<p><strong>Minimum Threshold -</strong> sets the minimum percent of tokens that are used for calculating the threshold to pass any proposal. <a href=\"https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155\">Deep Dive</a></p>\n<p><strong>Open-source Software -</strong> a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software to anyone and for any purpose. <a href=\"https://en.wikipedia.org/wiki/Open-source_software\">More Info</a></p>\n<p><strong>Ostrom’s Principles -</strong> Elinor Ostrom’s 8 principles for how commons can be governed sustainably and equitably in a community. <a href=\"https://medium.com/commonsstack/automating-ostrom-for-effective-dao-management-cfe7a7aea138\">More Info</a></p>\n<p><strong>Praise -</strong> The voices and contributions from the CSTK &amp; TEC communities fuel our project. As such we seek to reflect that contribution to our system. One way of doing this is awarding Praise and ultimately CSTK and/or TEC tokens. <a href=\"https://wiki.commonsstack.org/contributors-guide\">More Info</a></p>\n<p><strong>Public Good -</strong>  a good that is both non-excludable and non-rivalrous. For such utilities, users cannot be barred from accessing and/or using them for failing to pay for them. Also, use by one person neither prevents access of other people nor does it reduce availability to others. <a href=\"https://en.wikipedia.org/wiki/Public_good_(economics)\">More Info</a></p>\n<p><strong>Quadratic Funding -</strong> the mathematically optimal way to fund public goods in a democratic community. <a href=\"https://wtfisqf.com/?grant=&amp;grant=&amp;grant=&amp;grant=&amp;match=1000\">Deep Dive</a></p>\n<p><strong>Rinkeby Test Network -</strong> a proof-of-authority Ethereum test network. <a href=\"https://www.rinkeby.io/#stats\">More Info</a></p>\n<p><strong>Signaling Proposal -</strong> a proposal that allows community members to signal their sentiment, allowing for more effective project governance. <a href=\"https://aragon.org/blog/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5\">More info</a></p>\n<p><strong>Smart Contract -</strong> a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement. <a href=\"https://consensys.net/knowledge-base/a-blockchain-glossary-for-beginners/\">More Info</a></p>\n<p><strong>Staking -</strong> the act of locking digital assets to support the security and operations of a blockchain network and to receive staking rewards. <a href=\"https://consensys.net/knowledge-base/a-blockchain-glossary-for-beginners/\">More Info</a></p>\n<p><strong>Support Required -</strong> the percentage of tokens needed to vote yes (of the tokens that were used to vote) for a proposal to Pass in the Dandelion Voting App. <a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108\">Deep Dive</a></p>\n<p><strong>Token Engineering -</strong> An emerging engineering discipline focused on holistic systems design and the theory, practice and tools used to design and verify tokenized ecosystems.</p>\n<p><strong>Token Engineering Commons -</strong> an open source and collectively governed project that aims to create a token economy that will accelerate the responsible &amp; ethical creation of public goods within the TE community. <a href=\"https://medium.com/token-engineering-commons/kicking-off-the-token-engineering-commons-be6a253cba81\">Deep Dive</a></p>\n<p><strong>Tragedy of the Commons -</strong> a situation in a shared-resource system where individual users, acting independently according to their own self-interest, behave contrary to the common good of all users by depleting or spoiling the shared resource through their collective action. <a href=\"https://en.wikipedia.org/wiki/Tragedy_of_the_commons\">More Info</a></p>\n<p><strong>Trusted Seed -</strong>  a whitelist of people who have contributed to the development of the Commons Stack mission and who have reputation and expertise in areas related to the operation of a Commons. Trusted Seed members can also be invited to participate in a Commons Hatch, alongside the Commons’s project launching community. <a href=\"https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de\">Deep Dive</a></p>\n<p><strong>Vesting Cliff Period -</strong> The period of time in which the tokens minted during the hatch are 100% locked and can’t be converted into xDAI using the Bonding Curve. <a href=\"https://forum.tecommons.org/t/vesting-cliff-and-vesting-complete-periods-deep-dive/81\">Deep Dive</a></p>\n<p><strong>Vesting Complete Period -</strong> The period of time from the end of the Hatch in which the tokens minted during the Hatch become completely unlocked.<a href=\"https://forum.tecommons.org/t/vesting-cliff-and-vesting-complete-periods-deep-dive/81\">Deep Dive</a></p>\n<p><strong>Vote Duration -</strong> the maximum period of time it takes for a vote to pass or fail. <a href=\"https://forum.tecommons.org/t/vote-duration-deep-dive/134\">Deep Dive</a></p>\n<p><strong>Vote Proposal Buffer -</strong> the amount of time that must pass between each subsequent vote. This parameter will determine the number of votes that can take place within a period of time and whether or not we can have votes run concurrently. <a href=\"https://forum.tecommons.org/t/vote-proposal-buffer/132\">Deep Dive</a></p>\n<p><strong>Vote Execution Delay -</strong> the period of time after a vote passes before the vote can be executed. <a href=\"https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130\">Deep Dive</a></p>\n<p><strong>WalletConnect -</strong> an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking. A user can interact securely with any Dapp from their mobile phone. <a href=\"https://walletconnect.org/\">More Info</a></p>\n<p><strong>Web3 -</strong> a decentralized internet where users control their own data, identity and destiny. <a href=\"https://web3.foundation/\">More Info</a></p>\n<p><strong>Wiki -</strong> a hypertext publication collaboratively edited and managed by its own audience directly using a web browser. A typical wiki contains multiple pages for the subjects or scope of the project and may be either open to the public or limited to use within an organization for maintaining its internal knowledge base. <a href=\"https://en.wikipedia.org/wiki/Wiki\">More Info</a></p>\n<p><strong>xDai Chain -</strong> a stable payments blockchain designed for fast and inexpensive stable transactions. xDai is used for transactions, payments and fees, and STAKE is used to support Proof-of-Stake consensus. <a href=\"https://www.xdaichain.com/\">More Info</a></p>\n<h1>\n<a name=\"other-research-related-topics-2\" class=\"anchor\" href=\"#other-research-related-topics-2\"></a><strong>OTHER RESEARCH &amp; RELATED TOPICS</strong>\n</h1>\n<p><strong>BlockScience -</strong> an engineering, R&amp;D, and analytics firm specializing in complex systems. Their focus is to design and build data-driven decision systems for new and legacy businesses leveraging engineering methodologies and academic-grade tools. <a href=\"https://block.science/\">More Info</a></p>\n<p><strong>Ethereum -</strong> a global, open-source platform for decentralized applications and finance. <a href=\"https://ethereum.org/en/\">More Info</a></p>\n<p><strong>SourceCred -</strong> a technology that makes the labor of individuals more visible and rewardable as they work together in a project or community. The goal of SourceCred is to use this technology to make rewarding labor as nuanced as human contribution often is. <a href=\"https://sourcecred.io/docs\">More Info</a></p>\n<p><strong>Sybill Attack -</strong> an attack that subverts the reputation system of a network service by creating a large number of pseudonymous identities and uses them to gain a disproportionately large influence. <a href=\"https://en.wikipedia.org/wiki/Sybil_attack\">More Info</a></p>\n<p><strong>Token Curated Registry -</strong> an incentivized voting game that helps create trusted lists that are maintained by the very people that use them. Users collectively vote (using tokens) to decide which submissions are valid and should be included in the list. <a href=\"https://education.district0x.io/general-topics/understanding-ethereum/token-curated-registry/\">More Info</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250319120106",
+    "url": "https://forum.tecommons.org/t/glossary-of-terms/114"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "vegayp",
+   "name": "Eduardo Vega-Patiño",
+   "created_at": "2020-12-08T19:34:04Z",
+   "updated_at": "2020-12-08T19:34:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "visible.disabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250319120106",
+    "url": "https://forum.tecommons.org/t/glossary-of-terms/114"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": "Eduardo Vega-Patiño",
+   "created_at": "2020-12-21T16:34:38Z",
+   "updated_at": "2020-12-21T16:34:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "visible.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250319120106",
+    "url": "https://forum.tecommons.org/t/glossary-of-terms/114"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303013736",
+   "url": "https://forum.tecommons.org/t/2-glossary-of-terms/114"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303013736",
+   "url": "https://forum.tecommons.org/t/2-glossary-of-terms/114"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624143122",
+   "url": "https://forum.tecommons.org/t/2-glossary-of-terms/114"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624143122",
+   "url": "https://forum.tecommons.org/t/2-glossary-of-terms/114"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207120206",
+   "url": "https://forum.tecommons.org/t/glossary-of-terms/114"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207120206",
+   "url": "https://forum.tecommons.org/t/glossary-of-terms/114"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319120106",
+   "url": "https://forum.tecommons.org/t/glossary-of-terms/114"
+  }
+ ]
+}

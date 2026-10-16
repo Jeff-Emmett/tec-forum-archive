@@ -1,0 +1,82 @@
+{
+ "id": 1113,
+ "title": "Sampo Season 1 Impact: June & July 2022 Update",
+ "slug": "sampo-season-1-impact-june-july-2022-update",
+ "category_id": 5,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2022-08-05T19:06:07Z",
+ "last_archived_post_at": "2022-08-11T10:02:49Z",
+ "captured_between": [
+  "2022-08-15T10:02:06Z",
+  "2023-10-02T21:28:23Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2022-08-05T19:06:07Z",
+   "updated_at": "2022-09-03T22:10:39Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Progress has been made in the five goals set for this period. Two of them have been fully completed. Two more are well under way and soon to be finalized, or taken into a next phase. The last one, has been initiated, and although is behind in schedule, it will become a priority in the coming months.</p>\n<ol>\n<li>\n<p>Work with Transparency WG to build a <strong>real-time snapshot of all TEC treasuries</strong></p>\n<ul>\n<li>The collaboration between Transparency WG and Sampo WG have brought the creation of the first iteration of an accounting system for tracking all the transactions WGs have while operating, and centralizing data in a single document.</li>\n<li>This tool enhances transparency practices within the TEC, makes information more accessible to everyone, and will allow easier financial analysis for better decision making.</li>\n</ul>\n</li>\n<li>\n<p><strong>Communicate high-level plans to token holders</strong> to maintain their confidence</p>\n<ul>\n<li>On June 20, 2022, we shared the TEC’s first<a href=\"https://forum.tecommons.org/t/june-2022-update-to-tec-token-holders/1058\"> Update to Token Holders</a>. The Communitas working group did personal outreach to 57 of the TEC’s total 268 Hatchers to make them aware of the message.</li>\n</ul>\n</li>\n<li>\n<p>Develop a <strong>treasury policy and strategy</strong> and begin earning yield</p>\n<ul>\n<li>The <a href=\"https://forum.tecommons.org/t/community-review-of-12th-rune-group-treasury-formation-policy/1109\">treasury policy document</a> has been finalized and shared with the TEC community. It will be followed soon by the first investment strategy and proposal to be taken for further discussion in the forum and an eventual community vote. A roadmap has been created as part of the policy that will lead treasury efforts in the months to come.</li>\n</ul>\n</li>\n<li>\n<p>Roll out the TEC’s first <strong>“Minimum Viable Service”</strong></p>\n<ul>\n<li>Plans are complete and the infrastructure is almost ready for the first iteration of a Token Engineering Request Board. We are now going through advice process with partners and will roll the service out in a simple version once that is complete.</li>\n</ul>\n</li>\n<li>\n<p>Work with Comms WG to finalize plans for an <strong>initial fundraising campaign</strong></p>\n<ul>\n<li>Conversations have started between Comms WG and Sampo WG around a content curation service to assist the Comms team in building followers and engagement on the TEC’s Twitter account. This campaign will focus less on fundraising when it rolls out in late September, and more on building the TEC’s membership.</li>\n</ul>\n</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#in-addition-1\" name=\"in-addition-1\"></a>In Addition:</h2>\n<ul>\n<li>\n<p><strong>Sampo Strategy:</strong></p>\n<ul>\n<li>We developed a Sampo strategy, which was put out to<a href=\"https://forum.tecommons.org/t/your-advice-on-the-sampo-strategy/1019\"> community advice process</a> on the TEC forum, after receiving feedback from members of the Sampo working group.</li>\n</ul>\n</li>\n<li>\n<p><strong>Token Holder Relations - Token Holder Channel</strong></p>\n<ul>\n<li>To make ongoing communications with token holders easier and more effective, we have rolled out a token-gated communications channel on the TEC Discord server. This includes a content publishing plan for keeping token holders up-to-date on the most relevant happenings within the TEC.</li>\n</ul>\n</li>\n<li>\n<p><strong>Sampo Organizational Development</strong>:</p>\n<ul>\n<li>In May and June, we developed a Sampo mission statement as part of<a href=\"https://app.clarity.so/Sampo/pages/63d2b963-ddd0-40bf-aff1-878363c12444\" rel=\"noopener nofollow ugc\"> the manifesto that guides our work</a>.</li>\n<li>In June, we built out a robust collaboration and project management tool to organize our work and ensure we deliver on our commitments to the TEC mission and community. We use Clarity to do this.</li>\n<li>We submitted a proposal for Sampo funding to the<a href=\"https://forum.tecommons.org/t/sampo-wg-season-1-funding-proposal/1031\"> TEC community forum</a>. It received a good deal of attention and feedback. Slight modifications to include treasury management were made and the funding proposal was passed two weeks later<a href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/25\" rel=\"noopener nofollow ugc\"> via conviction voting</a>, and 24,424 xDAI was transferred to the<a href=\"https://gnosis-safe.io/app/gno:0x0c796f2394A0C8d0464a3EFcb42c1611Cf0eA7Fa/home\" rel=\"noopener nofollow ugc\"> Sampo Multisig Wallet on Gnosis Safe</a>.</li>\n<li>The development and definition of various processes and best practices in four main areas that include, organizational structure of the WG, tools used, compensation for contributors and people involvement and development within Sampo.</li>\n</ul>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002212823",
+    "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Kojak",
+   "name": null,
+   "created_at": "2022-08-11T10:02:49Z",
+   "updated_at": "2022-08-11T11:26:28Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>A <strong>utility token</strong> which also acts as a <strong>Community Inclusive Currency</strong> (CIC) could serve the TEC better than a Minimum Viable Service (MVS) offering. For one, it could be less subject to unneccessary protocol and bureaucracy, finding its own level within the ecosystem. It can also surface  the complete latent potential within TEC and both purposefully and naturally incentivise the emergence of new value. It could also exist alongside the MVS concept and allow for greater depth, breadth and dynamism in monetisation of TEC’s potential.</p>\n<p><a href=\"https://docs.google.com/presentation/d/1UwYJNvpF-UYQV4Obmnne8zVuAGwoN2BqVLSFf5Ig8bI/edit?disco=AAAAdTulfpI\" rel=\"noopener nofollow ugc\">THE COMMONERS STRATEGY</a> which proposed an untility token based on emanating from the <a href=\"https://www.figma.com/file/eOpw3TGdXfstzkYJdyassn/TEC-SWOT-Analysis\" rel=\"noopener nofollow ugc\">SWOT analysis</a> created by the Soft Gov group.</p>\n<p>Additionally, the robustness of <strong>The Commoners Strategy</strong> could be evaluated against the <strong><a href=\"https://miro.com/app/board/o9J_ko8MJkI=/\" rel=\"noopener nofollow ugc\">TEC Vision Board</a></strong> by (<a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> <a class=\"mention\" href=\"/u/shermin\">@Shermin</a> Simon de la Couviere lkngtn <a class=\"mention\" href=\"/u/randomshinichi\">@randomshinichi</a> DanielT <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> philh dawg <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> <a class=\"mention\" href=\"/u/trentmc0\">@trentmc0</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> )</p>\n<p><em>How the Commoners Strategy could be further tweaked to fully realise the TEC Vision and in the process bridge any chasms which have emerged between the top and the bottom levels of TEC.</em></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002212823",
+    "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815100206",
+   "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022/1113"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815100206",
+   "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022/1113"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006172049",
+   "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006172049",
+   "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002212823",
+   "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231002212823",
+   "url": "https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113"
+  }
+ ]
+}

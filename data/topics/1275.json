@@ -1,0 +1,70 @@
+{
+ "id": 1275,
+ "title": "Results of TE Grants Round 1",
+ "slug": "results-of-te-grants-round-1",
+ "category_id": 32,
+ "tags": [
+  "round-results"
+ ],
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2023-07-26T15:52:17Z",
+ "last_archived_post_at": "2023-07-27T22:11:24Z",
+ "captured_between": [
+  "2023-10-02T21:19:05Z",
+  "2025-01-25T04:51:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-07-26T15:52:17Z",
+   "updated_at": null,
+   "reply_to_post_number": null,
+   "like_count": null,
+   "cooked": "<p><strong>TLDR</strong>; The first round was a success, and here are the results.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/5b8e746b289b1263528b6ba5888a785922bc54a1.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/5b8e746b289b1263528b6ba5888a785922bc54a1\" title=\"GRANTS\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/5b8e746b289b1263528b6ba5888a785922bc54a1_2_690x388.jpeg\" alt=\"GRANTS\" data-base62-sha1=\"d3WEMiI9qrvjJdIa01m33IMnj9v\" width=\"690\" height=\"388\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/5b8e746b289b1263528b6ba5888a785922bc54a1_2_690x388.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/5b8e746b289b1263528b6ba5888a785922bc54a1_2_1035x582.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/5b8e746b289b1263528b6ba5888a785922bc54a1_2_1380x776.jpeg 2x\" data-dominant-color=\"A4D18D\"></a></div><p></p>\n<h2>\n<a name=\"about-the-round-1\" class=\"anchor\" href=\"https://forum.tecommons.org#about-the-round-1\"></a>About the Round</h2>\n<p>During the past Gitcoin Beta Round (Apr 25 - May 9) we had the first QF round of our new TE Grants Program as a Featured Round, funding came primarily from TEC’s Common Pool, but we were also awarded 1 ETH from one ENS small grant, which had a price of $1,580.00 at the moment.</p>\n<h3>\n<a name=\"round-configuration-2\" class=\"anchor\" href=\"https://forum.tecommons.org#round-configuration-2\"></a>Round Configuration:</h3>\n<ul>\n<li>$25k matching pool</li>\n<li>30% matching cap</li>\n<li>2x coefficient multiplier for the TE Matching Boost, more details below</li>\n</ul>\n<h3>\n<a name=\"round-stats-3\" class=\"anchor\" href=\"https://forum.tecommons.org#round-stats-3\"></a>Round Stats:</h3>\n<ul>\n<li>16 projects</li>\n<li>86 unique donors</li>\n<li>257 contributions in total</li>\n<li>$6,161.85 raised from donors</li>\n<li>$71.65 average contribution</li>\n</ul>\n<h2>\n<a name=\"introducing-the-te-matching-boost-4\" class=\"anchor\" href=\"https://forum.tecommons.org#introducing-the-te-matching-boost-4\"></a>Introducing the TE Matching Boost</h2>\n<p>We were, to our knowledge, the first and only round to experiment with benefits for donors that qualify based on certain criteria.</p>\n<p>For us it was important to recognize those who are betting in the field to help us allocate resources better; and that’s why donors holding at &gt;= 10 $TEC and/or a TE Academy Certificate were elegible for additional matching on their contributions.</p>\n<p><a href=\"https://media.discordapp.net/attachments/946533545965412453/1131619636455157880/Screenshot_2023-07-20_at_12.11.54.png?width=804&amp;height=356\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">https://media.discordapp.net/attachments/946533545965412453/1131619636455157880/Screenshot_2023-07-20_at_12.11.54.png?width=804&amp;height=356</a></p>\n<p>From the 86 unique donors, 19 were holding $TEC and 8 a TE Academy Certificatte.</p>\n<p>If you’re interested in the matching boost, <a class=\"mention\" href=\"https://forum.tecommons.org/u/gideonro\">@gideonro</a> put together a really neat article on the effects of injecting subject matter expertise into QF.</p>\n<p><a href=\"https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23</a></p>\n<h2>\n<a name=\"results-of-the-round-5\" class=\"anchor\" href=\"https://forum.tecommons.org#results-of-the-round-5\"></a>Results of the round</h2>\n<p>Here are the results of the round for the projects:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>TE GRANTS DISTRIBUTION TABLE</th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><strong>Project Name</strong></td>\n<td><strong>No. of Contributions</strong></td>\n<td><strong>Payout in $TEC</strong></td>\n</tr>\n<tr>\n<td>Oxcart Applied Research</td>\n<td>15</td>\n<td>7,978.8851606824200</td>\n</tr>\n<tr>\n<td>Commons Stack</td>\n<td>29</td>\n<td>8,761.3577879645700</td>\n</tr>\n<tr>\n<td>ITU Blockchain</td>\n<td>26</td>\n<td>4,530.2691869618400</td>\n</tr>\n<tr>\n<td>Towards an Industry Standard Python Library for Token Engineering</td>\n<td>24</td>\n<td>4,013.0864717427100</td>\n</tr>\n<tr>\n<td>Bonding Curves Research Group</td>\n<td>20</td>\n<td>3,624.8439865323300</td>\n</tr>\n<tr>\n<td>cadCAD: Computer Aided Design for Complex Systems</td>\n<td>24</td>\n<td>3,090.9696815151000</td>\n</tr>\n<tr>\n<td>TE Barcamp as a Side-Event of EthCC Paris 2023</td>\n<td>18</td>\n<td>3,749.7999101804000</td>\n</tr>\n<tr>\n<td>EVMcrispr</td>\n<td>19</td>\n<td>2,679.7532926003800</td>\n</tr>\n<tr>\n<td>Token Launch Simulator</td>\n<td>17</td>\n<td>1,755.8675020890700</td>\n</tr>\n<tr>\n<td>Token Engineering Knowledge Commons</td>\n<td>10</td>\n<td>1,789.9533796647900</td>\n</tr>\n<tr>\n<td>Index Wallets</td>\n<td>13</td>\n<td>935.4065106603660</td>\n</tr>\n<tr>\n<td>Research on a Utility Token for TE Ecosystem</td>\n<td>10</td>\n<td>544.1659649611980</td>\n</tr>\n<tr>\n<td>Tokenomics Design Space</td>\n<td>8</td>\n<td>284.5061008505300</td>\n</tr>\n<tr>\n<td>Token Research Collaborative</td>\n<td>7</td>\n<td>203.0902962266050</td>\n</tr>\n<tr>\n<td>DeFinomics Labs</td>\n<td>7</td>\n<td>113.6041331513110</td>\n</tr>\n<tr>\n<td>Burn-and-mint tokenomics</td>\n<td>5</td>\n<td>28.3796525776605</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td></td>\n<td><strong>44,083.9390183613</strong></td>\n</tr>\n</tbody>\n</table>\n</div><h2>\n<a name=\"next-round-6\" class=\"anchor\" href=\"https://forum.tecommons.org#next-round-6\"></a>Next Round</h2>\n<p>We have already announced the following round of grants, with a similar configuration and matching size.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0\" title=\"2023-07-24 14.17.14\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0_2_690x387.jpeg\" alt=\"2023-07-24 14.17.14\" data-base62-sha1=\"9Y1FRoFmGZdrwEjUdyEZF9xdMfC\" width=\"690\" height=\"387\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0_2_690x387.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0_2_1035x580.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/45dca51e5c6fa847d9b85b1c9b5582fdd8c1bbd0.jpeg 2x\" data-dominant-color=\"512E6E\"></a></div><p></p>\n<p>If you are a grantee interested in participating, or a project interested in sponsoring this or following rounds. Please reach out to us via discord or <a href=\"mailto:grants@tecommons.org\">grants@tecommons.org</a></p>\n<p>Any feedback on how can we improve is very much appreciated!</p>\n          <p><a href=\"https://forum.tecommons.org/t/results-of-te-grants-round-1/1275/1\">Read full topic</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250125045111",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-1/1275.rss"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-07-27T22:11:24Z",
+   "updated_at": null,
+   "reply_to_post_number": null,
+   "like_count": null,
+   "cooked": "<p>Just shorted the Medium write-up about this round and am pointing readers here for the analysis.<br>\n<a href=\"https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23</a></p>\n<p>One of the things that was in the article is this pie chart of total funding distribution, so I’m including it here:<br>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e99cfb652a06899f4c1d60d4b4fab6445fe592b3.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/e99cfb652a06899f4c1d60d4b4fab6445fe592b3\" title=\"Pie Chart copy\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e99cfb652a06899f4c1d60d4b4fab6445fe592b3_2_690x465.png\" alt=\"Pie Chart copy\" data-base62-sha1=\"xkDA99bLKilrkEMYN2n7xqSQlBF\" width=\"690\" height=\"465\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e99cfb652a06899f4c1d60d4b4fab6445fe592b3_2_690x465.png, https://forum.tecommons.org/uploads/default/optimized/1X/e99cfb652a06899f4c1d60d4b4fab6445fe592b3_2_1035x697.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/e99cfb652a06899f4c1d60d4b4fab6445fe592b3_2_1380x930.png 2x\" data-dominant-color=\"D5D1CB\"></a></div><p></p>\n          <p><a href=\"https://forum.tecommons.org/t/results-of-te-grants-round-1/1275/2\">Read full topic</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250125045111",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-1/1275.rss"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231002211905",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-1/1275"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002211905",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-1/1275"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250125045111",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-1/1275.rss"
+  }
+ ]
+}

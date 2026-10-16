@@ -1,0 +1,487 @@
+{
+ "id": 130,
+ "title": "Ragequitting, Ragequit Delay and How They Work",
+ "slug": "ragequitting-ragequit-delay-and-how-they-work",
+ "category_id": 9,
+ "posts_count": 3,
+ "created_at": "2020-12-06T20:22:00.575Z",
+ "last_posted_at": "2021-05-07T18:41:49.037Z",
+ "more_after": 20,
+ "views": 5825,
+ "highest_post_number": 41,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 21,
+ "last_archived_post_at": "2021-05-07T18:41:49Z",
+ "captured_between": [
+  "2021-04-20T12:35:13Z",
+  "2026-02-28T03:28:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Freedumbs00",
+   "name": "Jake Cassani",
+   "created_at": "2020-12-06T20:22:00Z",
+   "updated_at": "2021-05-23T12:39:02Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>What is “Ragequit Delay”?</h2>\n<p>The period of time after a vote passes before the vote can be executed.</p>\n<p>For instance, if there is a Ragequit Delay of 24 hours and a vote passes at 11:00 am on Monday, it cannot be executed until 11:00 am Tuesday.</p>\n<p>An important factor of Ragequit Delay is that the people who vote yes on a proposal have their tokens locked until the end of the execution delay.</p>\n<h3>Ragequit*</h3>\n<p>In Dandelion Voting Instances, and it gives people time to exit our TE Commons if they disagree with a decision to change parameters, before the Parameters are changed. Specific to Dandelion Voting this parameter is also referred to as the *\"<em>Ragequit Delay\"</em>.</p>\n<p>For instance, if a Dandelion Voting instance is used to vote to convert all the TEC Hatch DAO’s xDai to HNY, people may want to Ragequit before the proposal is executed. But the people that voted to convert the xDai to HNY would not be able to Ragequit, because their tokens would be locked until the Vote is executed.</p>\n<h3>Disputable Voting</h3>\n<p>In Disputable Voting there is no “Ragequit” Mechanism. This is because with the launch of the <a href=\"https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/abc/22\">Augmented Bonding Curve</a> (ABC) participants can leave at any point and tokens will be redeemed based on the “Sell Curve” of the ABC.</p>\n<h2>So what do we need to talk about in this post?</h2>\n<p>Why is this important? In the case of Disputable Voting should there be a delay even if the outcome cannot be changed? What information should we use to decide the Ragequit Delay?</p>\n<hr>\n<h3>Addendums - 20/05/2021</h3>\n<p><strong><a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> -</strong><br>\n<em>Relating to choosing parameters:</em><br>\n<strong>Implications &amp; Parameter Options</strong><br>\nThe Ragequit Delay is measured in hours, and you will have the option to set this parameter between 0 and ∞.</p>\n<p>The Ragequit delay is important because we want to give token holders enough time to evaluate the implications of a proposal, and to decide whether or not they want to maintain their financial position within the DAO, or to exercise their Ragequit capabilities.<br>\n<strong>Suggested Range</strong><br>\nSince the Ragequit Delay is important for Community Backers, we suggest a range of 1-6 hours for this parameter.</p>\n<p><strong>Related Parameters to consider when defining the Ragequit Delay (hours):</strong><br>\nVote Duration (days)<br>\nVote Proposal Buffer (hours)</p>\n<p><strong><a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> -</strong><br>\n<strong>In the Context of the Hatch DAO</strong><br>\nCertain parameters will affect how Ragequitting is handled in the process of the Hatch.<br>\nNotably <strong><a href=\"https://forum.tecommons.org/t/hatch-tribute-deep-dive/65\">Hatch Tribute (%</a>)</strong>, <strong><a href=\"https://forum.tecommons.org/t/updated-impact-hour-rate/309\">Impact Hour Rate</a></strong> and <strong>Target/Min Goal</strong> in the case of the <strong>Backer’s Rage Quit (%)</strong>.</p>\n<p>Backer’s Rage Quit is the percentage of a Backer’s original donation that they will be reimbursed in the event that they decide to Rage Quit during the Hatch process. By  setting a higher Hatch Tribute or Impact Hour Rate you’re decreasing the Backer’s Rage Quit percent. Alternatively, by lowering the Hatch Tribute and/or Impact Hour Rate and/or Increasing your Minimum or Target Goal you can increase the Backer’s Rage Quit percent.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228032818",
+    "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=natesuits"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Freedumbs00",
+   "name": "Jake Cassani",
+   "created_at": "2020-12-06T20:32:14Z",
+   "updated_at": "2020-12-06T20:32:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Smart contracts cannot verify human conditions.  The need for humans to verify illicit activity and or safe activity is always a process apart from computable agreements.  The responsibility to settle disputes or “catch” bad actions or actors has to be a process controlled by humans.  There are several steps in conflict resolution to solve the problem.  One method is to utilize vote execution delay as a tool.</p>\n<p>Conflict resolution is conceptualized as the methods and processes involved in facilitating the peaceful ending of conflict and retribution. The time involved from which a bad action was committed and solved and the amount of voters involved to settle the dispute can be delayed for due course to properly settle said dispute fairly and objectively.<br>\n<br>\n<strong>How long is too long?</strong><br>\nIf the problem is clearly resolved quickly does the problem still need to be subjected to due process</p>\n<p>Can there be a set minimum time for the delay mechanism?<br>\nWhat should that look like?</p>\n<p>This will also be based on how many blocks are confirmed by the network to represent the time not actual days or weeks. So the dependency on the network and its block approval time will always be a heavier hand in managing time allocated. Having a delay in general to properly resolve an issue through a voting process based on the token weight of said voter to execute resolution already creates unknown stipulation</p>\n<p><strong>How many tokens are a minimum for resolution or max needed?</strong></p>\n<p><strong>How many votes does the conflict need?</strong></p>\n<p><strong>Can a few token holders be responsible for settling disputes or does this create a hierarchy of conflict managers?</strong></p>\n<p><strong>A self appointed court of the few acting in stead governing outcomes.  Should the token holders voting constantly change?</strong></p>\n<p><strong>Should there be a voting carousel?</strong></p>\n<p>This is a ride by the way and everyone needs tokens to enjoy the trip.  It was always a challenge for myself at the carnival on what to use my tickets for.?  How to properly manage them so I could ride everything I wanted to and play carnie games.  I loved trying to out hustle the carnies but unfortunately I ended up just spending too much money trying to prove a point……  What should we do?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228032818",
+    "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=natesuits"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-13T10:12:49Z",
+   "updated_at": "2021-01-13T10:12:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-16T11:00:10Z",
+   "updated_at": "2021-01-16T11:00:10Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-19T11:52:21Z",
+   "updated_at": "2021-01-19T11:52:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-22T12:36:37Z",
+   "updated_at": "2021-01-22T12:36:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-25T13:03:33Z",
+   "updated_at": "2021-01-25T13:03:33Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-28T13:55:14Z",
+   "updated_at": "2021-01-28T13:55:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-01-31T14:29:50Z",
+   "updated_at": "2021-01-31T14:29:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-03T15:21:21Z",
+   "updated_at": "2021-02-03T15:21:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-06T15:52:27Z",
+   "updated_at": "2021-02-06T15:52:27Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-09T16:34:02Z",
+   "updated_at": "2021-02-09T16:34:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-12T17:23:51Z",
+   "updated_at": "2021-02-12T17:23:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-15T18:15:47Z",
+   "updated_at": "2021-02-15T18:15:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-18T19:04:57Z",
+   "updated_at": "2021-02-18T19:04:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-21T07:32:50Z",
+   "updated_at": "2021-02-21T07:32:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-23T20:05:45Z",
+   "updated_at": "2021-02-23T20:05:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-02-26T20:53:06Z",
+   "updated_at": "2021-02-26T20:53:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-03-01T21:39:38Z",
+   "updated_at": "2021-03-01T21:39:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-03-04T22:22:04Z",
+   "updated_at": "2021-03-04T22:22:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420123513",
+    "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+   }
+  },
+  {
+   "post_number": 41,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2021-05-07T18:41:49Z",
+   "updated_at": "2021-05-07T18:41:49Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>What is the Ragequit Delay?</strong><br>\nThe RageQuit Delay describes the required amount of time after a proposal passes for the proposal to be executed.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br>\nThe Ragequit Delay is measured in hours, and you will have the option to set this parameter between 0 and ∞.</p>\n<p>The Ragequit delay is important because we want to give token holders enough time to evaluate the implications of a proposal, and to decide whether or not they want to maintain their financial position within the DAO, or to exercise their Ragequit capabilities.</p>\n<p><strong>Suggested Range</strong><br>\nSince the Ragequit Delay is important for Community Backers, we suggest a range of 1-6 hours for this parameter.</p>\n<p><strong>Related Parameters to consider when defining the Ragequit Delay (hours):</strong><br>\nVote Duration (days)<br>\nVote Proposal Buffer (hours)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228032818",
+    "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=natesuits"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420123513",
+   "url": "https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624144513",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624144513",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025093917",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025093917",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025102641",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=chuygarcia92"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025102641",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=chuygarcia92"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706003407",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706003407",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006161955",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006161955",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126225335",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204024908",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204024908",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530072604",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530072604",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424182824",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250514063633",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250514165328",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=chuygarcia92"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250514211903",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250618105602",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250618105602",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805133333",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805133333",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228032818",
+   "url": "https://forum.tecommons.org/t/ragequitting-ragequit-delay-and-how-they-work/130/41?u=natesuits"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 745,
+ "title": "Ostrom’s $1,000,000 Hatch, Fledge & Fly! (Commons config proposal #126)",
+ "slug": "ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126",
+ "category_id": 7,
+ "posts_count": 6,
+ "created_at": "2021-12-16T12:20:08.117Z",
+ "last_posted_at": "2021-12-20T07:44:41.683Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-12-20T07:44:41Z",
+ "captured_between": [
+  "2022-01-24T04:08:50Z",
+  "2022-01-24T04:08:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-12-16T12:20:08Z",
+   "updated_at": "2021-12-16T12:20:08Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I’m sorry! I would have made this shorter but I ran out of time! (A phrase attributed to Blaise Pascal and Mark Twain and Benjamin Franklin and Woodrow Wilson and it never let me down.)</p>\n<p>Here are the pieces that matter most and describe best the choices made. Looking forward to feedback here or in an upcoming debate!</p>\n<p>DMs are open if you are feeling shy but still want to kick the tires on <a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/126\">proposal #126</a> together.</p>\n<p>Inspired and influenced by the following proposals:</p>\n<p><span class=\"hashtag\">#113</span> - “The Fledge”<br/>\n<span class=\"hashtag\">#74</span> - $1 Gambit for $1,000,000 Goldilocks Orogeny<br/>\n<span class=\"hashtag\">#109</span> - The Bolshevik’s Gambit fork with Revolutionary Opening Price and Iron Curtain Conviction Voting<br/>\n<span class=\"hashtag\">#124</span> - Montaña Rusa: The Communist Roller-Coaster</p>\n<hr/>\n<p>In large part, our Hatch was based on the premise that Hatchers are commitment the long term, mission driven goals over short term individual gains. So I’m advocating for a longish thaw. One that will give the TEC a floor above the Hatch price for the entire first year. Kudos to The Fledge (<span class=\"hashtag\">#113</span>) for the “hatch, fledge” analogy.  Hatch, fledge, fly!</p>\n<p>Did you know that from hatching to leaving the nest a bird can increase its weight by as much as 10 times?</p>\n<p>With the freeze/thaw at 39/65, Hatchers tokens begin to thaw at 9 months and by the end of the first year, 20% of Hatchers tokens will be unfrozen.</p>\n<p>We are not greedy. We envision a world where ethical and resilient economic systems benefit societies. We know it will take us time to make that happen and that having a secure floor for one full yer will provide needed security to take our next bold steps. This gives us a year to build our reputation, strategies and agility in whatever market conditions we face.</p>\n<hr/>\n<p>The psychological impact of 1M in the Commons pool is no small trifle. That’s 1M allocated directly to funding proposals that serve our mission. With a must-have of 1M in the Commons pool, I looked to find the right balance between the Commons Tribute (sourced from existing Hatchers) and Entry/Exit Tribute (to be sourced from future TEC token holders).</p>\n<p>Unless we are setting the entry/exit to near-zero we should expect that future TEC token holders are here for the impact to be made and a belief in what we are doing. Any non-zero tribute will be a deterrent to the average speculator.</p>\n<p>I see the wisdom of <span class=\"hashtag\">#74</span> with having the entry/exit adjust over a scheduled amount of time and will propose the same. Entry: 16 - 12 - 8 - 4 and Exit: 5 - 6 - 7 - 8, with and adjustment happening every 6 weeks.</p>\n<hr/>\n<p>There is a conversation about the TE Academy proposal that shapes my thinking here. Knowing their longer financial runway facilitates funding roles to execute their vision. So, for example, requesting a grant for 6 months out versus month-by-month would be the difference between only being able to assure someone’s role month-to-month versus offering a longer term assurance of compensation to a new hire. This is big for our bootstrapping projects!</p>\n<p>Low spending limits act as a sort of check-and-balance on projects as they will need to prove continuous delivery by requesting small amounts periodically. There is a real advantage to that but I feel that makes it administratively difficult for larger, more ambitious projects like the TE Academy to depend on funding from us. And for the voters, it will exhaust our attention to have a constant stream of smaller proposals.</p>\n<p>High spending limits here might pose a risk but as <span class=\"hashtag\">#124</span> points out, we have Celeste. We should be able to rely on Celeste to arbitrate anyone acting in bad faith. In the end, I believe it will better serve our goal of advancing Token Engineering than a low spending limit.</p>\n<p>Finally, that any proposal will require &gt; 24 hours to pass is a courtesy to the entire community.</p>\n<p>–</p>\n<h1>\n<a class=\"anchor\" href=\"#summary-1\" name=\"summary-1\"></a>Summary</h1>\n<h3>\n<a class=\"anchor\" href=\"#module-1-token-freeze-token-thaw-2\" name=\"module-1-token-freeze-token-thaw-2\"></a>Module 1: Token Freeze &amp; Token Thaw</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Token Freeze</td>\n<td>39 Weeks</td>\n</tr>\n<tr>\n<td>Token Thaw</td>\n<td>65 Weeks</td>\n</tr>\n<tr>\n<td>Opening Price</td>\n<td>1.5 wxDAI</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-2-augmented-bonding-curve-3\" name=\"module-2-augmented-bonding-curve-3\"></a>Module 2: Augmented Bonding Curve</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Tribute</td>\n<td>73.00%</td>\n</tr>\n<tr>\n<td>Entry Tribute</td>\n<td>16.00%</td>\n</tr>\n<tr>\n<td>Exit Tribute</td>\n<td>5.00%</td>\n</tr>\n<tr>\n<td>*<em>Reserve Ratio</em>\n</td>\n<td>11.60%</td>\n</tr>\n</tbody>\n</table>\n</div><p>*This is an output. <a href=\"https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516\">Learn more about the Reserve Ratio here</a>.</p>\n<h3>\n<a class=\"anchor\" href=\"#module-3-tao-voting-4\" name=\"module-3-tao-voting-4\"></a>Module 3: Tao Voting</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Support Required</td>\n<td>88%</td>\n</tr>\n<tr>\n<td>Minimum Quorum</td>\n<td>8%</td>\n</tr>\n<tr>\n<td>Vote Duration</td>\n<td>6 day(s)</td>\n</tr>\n<tr>\n<td>Delegated Voting Period</td>\n<td>3 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Period</td>\n<td>2 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Extension</td>\n<td>3 day(s)</td>\n</tr>\n<tr>\n<td>Execution Delay</td>\n<td>1 day(s)</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#module-4-conviction-voting-5\" name=\"module-4-conviction-voting-5\"></a>Module 4: Conviction Voting</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Conviction Growth</td>\n<td>14 day(s)</td>\n</tr>\n<tr>\n<td>Minimum Conviction</td>\n<td>5.0%</td>\n</tr>\n<tr>\n<td>Spending Limit</td>\n<td>20.0%</td>\n</tr>\n</tbody>\n</table>\n</div><hr/>\n<p>Link: <a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/126\">Ostrom’s $1,000,000 Hatch, Fledge &amp; Fly! #126</a></p>\n<p>I <img alt=\":green_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=10\" title=\":green_heart:\"/> you all.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124040850",
+    "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-12-17T18:28:16Z",
+   "updated_at": "2021-12-17T18:28:16Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I was just reflecting on the idea of starting with high tributes and having them drop over steady increments. The question is why wouldn’t someone just wait for the next tranche, with lower tribute.</p>\n<p>Well, one answer is if they were recognized for their willingness to invest in public good. For example, we could have a series of POAPs, with the first issue being the very bestest and named something cool and fun to mark that these folks went all in on the impact investing front. Then we could start with some really high tributes, like 50-60% - heck, maybe even 100%!</p>\n<p>From there, we’d move down in tribute with each stage, as this proposal states, and with each step there would be a new, just slightly less cool/fun POAP. <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/></p>\n<p>This is essentially <a href=\"https://www.investopedia.com/terms/p/priceskimming.asp\" rel=\"noopener nofollow ugc\">price skimming</a>, but in our context it’s actually more like a bonding curve that seamlessly and automatically moves from impact investing to regular investing. And it recognizes investors for their willingness to have impact.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124040850",
+    "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2021-12-17T19:56:23Z",
+   "updated_at": "2021-12-17T19:56:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for pointing out challenges in low spending limits <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> !<br/>\nIn fact, endeavors like TE Fundamentals (you can find our proposal <a href=\"https://forum.tecommons.org/t/te-fundamentals-te-academy/749\">here</a>) have a runtime of around 12 months, and need &gt;20 contributors. In such a case it is a challenge to have funding cycles below 3 months and provide all the necessary reporting and communications - to all funding partners involved.<br/>\nShould TE Commons aim for smaller initatives only? No. TE Commons has to think big because our goals are big.<br/>\nYes to ambitious projects and appropriate spending limits!<br/>\nAnd Yes to encouraging projects to acquire co-funding (as we do)! Can’t wait to see the <a href=\"https://app.boardroom.info/primedao/proposal/cHJvcG9zYWw6cHJpbWVkYW86ZGVmYXVsdDpxbWNuaHo0eWVkbTlzd2JweHpraGoyMnhyY3Fnaml6eGJ5ZGNseWRmdzl4YjJv\" rel=\"noopener nofollow ugc\">Proposal Inverter</a> live <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/><br/>\nAnd finally, yes to require reporting, accountability and challenging proposals via Celeste if needed.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124040850",
+    "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "philh",
+   "name": null,
+   "created_at": "2021-12-18T17:44:30Z",
+   "updated_at": "2021-12-18T17:44:30Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you Tamara for having not enough time to be short <img alt=\":blush:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/blush.png?v=10\" title=\":blush:\"/><br/>\nYour explanations are shedding light not only in your proposal but also on the whole system. Very useful for someone like me just starting to learn about the differences before voting.</p>\n<p>You support the ability to find big proposals so that ambitious initiatives can be funded, and voters’ fatigue is reduced. I understand that some might fear risks of bigger losses if a project fails for whatever reasons.</p>\n<p>I figure that the param debate is not the right context to discuss this, but I’m just curious: is it considered to fund voted proposals via payment streams, and use Celeste to suspend them in case of a major issue? It shouldn’t be super complicated technically and it may make people more supportive of ambitious programs.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124040850",
+    "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-12-19T23:47:38Z",
+   "updated_at": "2021-12-19T23:47:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Today’s debate left me with some new angles to consider. I revised the original to incorporate that thinking and would like to express gratitude to Paul H, Phil H, Simon de la Rouviere and Decentralized SDGs especially.</p>\n<p>If you like these ideas, please vote for <span class=\"hashtag\">#135</span>!</p>\n<p><a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/135\"># 4.20 Public Open Meets Ostrom’s $1M Hatch, Fledge &amp; Fly! #135</a></p>\n<p>Here are the main points:</p>\n<ul>\n<li>\n<p>Hatchers are in this for the long term. I am not changing the Freeze &amp; Thaw of 39 and 65. With the other changes, the floor will remain above the Hatcher price of 1wxdai for 1.5 years, so that floor was even extended.</p>\n</li>\n<li>\n<p>Opening price upped to 2.71. The challenge was to balance sufficiently funding the Common Pool without torpedoing the Reserve Ratio at a higher opening.</p>\n</li>\n<li>\n<p>The “public” opening price (after the TEC’s initial-buy) will be 4.20 and that is a meme everyone loves.</p>\n</li>\n<li>\n<p>Letting go of the 1M target for the Commons Pool. But we will have 927K available on day 1 so it is also not that far off.</p>\n</li>\n<li>\n<p>The Reserve Ratio is 7.14% but that’s the tradeoff I made for a higher opening price.</p>\n</li>\n<li>\n<p>I am removing the idea of step-changing tributes. First of all, there is no way to ensure it will happen. It is an unenforceable element in any proposal. Token holders will be different at the time the votes happen. That token holders will lower the entry tribute and RAISE the exit tribute (directly affecting their token holdings) is too wishful thinking even if it is has logical merit. If the community decided to do that, great, but we can’t bank on it.</p>\n</li>\n<li>\n<p>Setting the Entry and Exit to 12 and 8 which feels like the right balance to start with and the community can evaluate the results over the first months to determine whether or not we will want to change them.</p>\n</li>\n<li>\n<p>Changing the TAO voting after seeing the value of having a slightly lower support required and quorum. I also took 1 day off the vote duration. Let’s not hinder ourselves by making votes too hard to pass. At 77% support required, it would take 23% no votes to block a change to the DAO. Its not so much that it will divide the community and no so little that it could happen often.</p>\n</li>\n<li>\n<p>Standing by the params in CV. I’d like to see ambitious projects with proved leadership and teams get funded. With Hatcher tokens frozen we make up the lions share of voters. We know the reputation of those that will be proposing for funding. We know who delivers.</p>\n</li>\n<li>\n<p>Allowing funding votes to pass in less than one day is a terrible disservice to our global community. Every TEC token holder should have the chance to see a proposal in their daytime hours.</p>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124040850",
+    "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-12-20T07:44:41Z",
+   "updated_at": "2021-12-20T07:44:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I have started to think tribute step-changes in a proposal are a bad idea altogether. Proposal <span class=\"hashtag\">#135</span> is based on <span class=\"hashtag\">#126</span> but removes that part (and a few other changes).</p>\n<p>Why? First of all, there is no way to ensure that part of the proposal will be executed. First of all, token holders voting for the tribute changes over the coming months will be different than the ones voting right now. Even if we assume that Hatchers will retain majority control, it’s a long shot.</p>\n<p>The tribute step-change assumes that token holders will want to raise their own tax multiple times. This has potential to become quite contentious. Imagine the proposal to raise the exit tax from 4 to 8%, cutting into profits of the exact token holders voting on it. I don’t see this happening.</p>\n<p>I could image after 1 or 2 months we analyze empirical data and then make a proposal on changing the tributes in the context of what actually happened.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124040850",
+    "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124040850",
+   "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124040850",
+   "url": "https://forum.tecommons.org/t/ostrom-s-1-000-000-hatch-fledge-fly-commons-config-proposal-126/745"
+  }
+ ]
+}

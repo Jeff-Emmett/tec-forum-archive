@@ -1,0 +1,56 @@
+{
+ "id": 319,
+ "title": "Legal Working Group Audit",
+ "slug": "legal-working-group-audit",
+ "category_id": 24,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2021-04-02T08:42:50Z",
+ "last_archived_post_at": "2021-04-02T08:42:50Z",
+ "captured_between": [
+  "2021-04-20T14:24:12Z",
+  "2023-02-04T03:24:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2021-04-02T08:42:50Z",
+   "updated_at": "2021-04-09T01:45:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a href=\"https://docs.google.com/spreadsheets/d/17xu-YKq-2lW-0WIygxGKp45b8CRZ_GubnX5LHAH6Qsw/edit#gid=0\">Legal Audit doc</a></p>\n<p>This is the Legal Working group audit from last week led by the transparency working group. You can take a look at the document checklist with all the scores and share your feedback.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204032418",
+    "url": "https://forum.tecommons.org/t/legal-working-group-audit/319"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420142412",
+   "url": "https://forum.tecommons.org/t/legal-working-group-audit/319"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420142412",
+   "url": "https://forum.tecommons.org/t/legal-working-group-audit/319"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204032418",
+   "url": "https://forum.tecommons.org/t/legal-working-group-audit/319"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204032418",
+   "url": "https://forum.tecommons.org/t/legal-working-group-audit/319"
+  }
+ ]
+}

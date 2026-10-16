@@ -1,0 +1,290 @@
+[
+ {
+  "id": 32,
+  "name": "❇️ Grants Program",
+  "slug": "grants-program",
+  "parent_category_id": null,
+  "color": "9EB83B",
+  "description_text": "All aspects of our grants initiatives, including the development and evolution of the program itself. Learn about current and past grant rounds, read success stories from grant recipients, and discuss the impact of funded projects.",
+  "position": 1
+ },
+ {
+  "id": 5,
+  "name": "⚛ Community Updates",
+  "slug": "major-updates-and-innovations",
+  "parent_category_id": null,
+  "color": "12A89D",
+  "description_text": "Regular updates about the latest developments and important news within the TEC community, including, announcements, reports, and other important communications.",
+  "position": 2
+ },
+ {
+  "id": 34,
+  "name": "🌌 TE Discussion",
+  "slug": "te-discussion",
+  "parent_category_id": null,
+  "color": "0088CC",
+  "description_text": "A general discussion area for all topics related to Token Engineering. This is a place for members to share ideas, ask questions, and discuss trends in the field.",
+  "position": 3
+ },
+ {
+  "id": 14,
+  "name": "🐝 Advice Process",
+  "slug": "pre-proposal-phase",
+  "parent_category_id": 7,
+  "color": "F1592A",
+  "description_text": "This category’s purpose is solely requesting feedback!",
+  "position": 3
+ },
+ {
+  "id": 15,
+  "name": "📣 Forum Voting",
+  "slug": "use-this-type-of-voting-for-signaling-and-everything-related-to-culture",
+  "parent_category_id": 7,
+  "color": "0088CC",
+  "description_text": "Use this section for proposing cultural agreements and signaling using the forum poll. (off-chain)",
+  "position": 3
+ },
+ {
+  "id": 16,
+  "name": "💸 Conviction Voting",
+  "slug": "if-youre-requesting-funds-from-the-commons-post-your-proposal-here-using-the-proposal-template-then-post-your-forum-link-in-the-commons-page",
+  "parent_category_id": 7,
+  "color": "0088CC",
+  "description_text": "Use this category for financial proposals that will be sent to the Commons for approval (on chain)",
+  "position": 4
+ },
+ {
+  "id": 36,
+  "name": "🗃️ Archive",
+  "slug": "archive",
+  "parent_category_id": null,
+  "color": "B3B5B4",
+  "description_text": "A repository for old or inactive threads and categories. This helps keep the forum organized and makes it easier to find current and relevant discussions.",
+  "position": 4
+ },
+ {
+  "id": 24,
+  "name": "Audits",
+  "slug": "working-group-audits",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": null,
+  "position": 5
+ },
+ {
+  "id": 17,
+  "name": "🌼 Dandelion Voting",
+  "slug": "post-here-if-you-want-to-propose-changes-to-the-smart-contracts-then-use-this-link-to-submit-your-proposal-to-the-dv-module-of-thecommons",
+  "parent_category_id": 7,
+  "color": "0088CC",
+  "description_text": "Use this category for smart contract modifications that will be sent to the Commons for approval (on chain).",
+  "position": 5
+ },
+ {
+  "id": 12,
+  "name": "🌈 Welcome to the TEC",
+  "slug": "welcome-to-the-tec",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": "Welcome to the Token Engineering Commons - we are so happy you are here!",
+  "position": 6
+ },
+ {
+  "id": 28,
+  "name": "🗣 Advice Process",
+  "slug": "advice-process",
+  "parent_category_id": 36,
+  "color": "F1592A",
+  "description_text": "Advice Process is the first step to work on anything in the TEC. Our work is permissionless, so communication is key to sustain our mission, vision and values and avoid double work. Our Advice Process is divided in 3 sections: small, medium and large impact decisions.",
+  "position": 7
+ },
+ {
+  "id": 7,
+  "name": "🌱 Conviction Voting",
+  "slug": "funding",
+  "parent_category_id": 36,
+  "color": "3AB54A",
+  "description_text": "“Conviction Voting offers a novel decision making process that funds proposals based on the aggregated preference of community members, expressed continuously.”\nDeep dive here.",
+  "position": 8
+ },
+ {
+  "id": 29,
+  "name": "🔐 Tao Voting",
+  "slug": "tao-voting",
+  "parent_category_id": 36,
+  "color": "ED207B",
+  "description_text": "Tao Voting is the voting process by which the Commons can modify its economic and governance settings. It is a very powerful voting application that is capable of performing many high-impact functions like mint and burn TEC tokens, install and remove applications (Modules) in the Commons, modify the parameters of all existing applications (Modules).",
+  "position": 9
+ },
+ {
+  "id": 30,
+  "name": "⚡️ Snapshot",
+  "slug": "snapshot",
+  "parent_category_id": 36,
+  "color": "0E76BD",
+  "description_text": "Snapshot is an off-chain but token weighted governance tool used in the TEC for large impact cultural decisions, community signal and runoff votes.",
+  "position": 10
+ },
+ {
+  "id": 31,
+  "name": "✨ Rewards Distributions",
+  "slug": "rewards-distro",
+  "parent_category_id": 36,
+  "color": "d714d5",
+  "description_text": "Find the history of all Rewards Distributions in this category!",
+  "position": 11
+ },
+ {
+  "id": 13,
+  "name": "✍️ Working Groups",
+  "slug": "working-groups",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": "This category is where we list all of our Working Groups!",
+  "position": 12
+ },
+ {
+  "id": 25,
+  "name": "Params Updates",
+  "slug": "params-updates",
+  "parent_category_id": 36,
+  "color": "3AB54A",
+  "description_text": "Weekly Updates on the Params Working Group",
+  "position": 13
+ },
+ {
+  "id": 9,
+  "name": "🤖 TEC",
+  "slug": "defi-legos-and-how-they-work-together",
+  "parent_category_id": 36,
+  "color": "808281",
+  "description_text": "Formal discussion for the various parameters and how they work within the TEC",
+  "position": 14
+ },
+ {
+  "id": 26,
+  "name": "CCD Parameters",
+  "slug": "ccd-params",
+  "parent_category_id": 36,
+  "color": "25AAE2",
+  "description_text": "The Commons Configuration Dashboard (CCD) Parameters category is for posts explaining key parameters that you will set to design the economy for the Commons Upgrade. Your economy, Your Choice!",
+  "position": 15
+ },
+ {
+  "id": 18,
+  "name": "The Hatch",
+  "slug": "the-hatch",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": null,
+  "position": 16
+ },
+ {
+  "id": 19,
+  "name": "Dandelion Voting",
+  "slug": "dandelion-voting",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": null,
+  "position": 17
+ },
+ {
+  "id": 20,
+  "name": "Conviction Vote",
+  "slug": "conviction-vote",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": null,
+  "position": 18
+ },
+ {
+  "id": 21,
+  "name": "TK log Params",
+  "slug": "tk-log-params",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": "This is where the forked param choices posts will be collected and observed by the community",
+  "position": 19
+ },
+ {
+  "id": 22,
+  "name": "ABC",
+  "slug": "abc",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": "This is for everything ABC!!  Augmented Bonding Curves are a new and exciting catalyst of Defi.",
+  "position": 20
+ },
+ {
+  "id": 23,
+  "name": "Disputable Voting",
+  "slug": "disputable-voting",
+  "parent_category_id": 36,
+  "color": "0E76BD",
+  "description_text": null,
+  "position": 21
+ },
+ {
+  "id": 27,
+  "name": "Advanced CCD Parameters",
+  "slug": "adv-ccd-params",
+  "parent_category_id": 36,
+  "color": "0088CC",
+  "description_text": "The Advanced Commons Configuration Dashboard (CCD) Parameters category is for posts explaining the parameters in the advanced section of the CCD.",
+  "position": 22
+ },
+ {
+  "id": 10,
+  "name": "💡 Ideas",
+  "slug": "ideas",
+  "parent_category_id": 36,
+  "color": "F7941D",
+  "description_text": "Ideas for the TEC, such as new features or projects",
+  "position": 23
+ },
+ {
+  "id": 8,
+  "name": "💭 Feedback and Questions",
+  "slug": "feedback-questions-bug-reporting-and-insights",
+  "parent_category_id": 36,
+  "color": "E45735",
+  "description_text": "Feedback, questions, bug, reporting and insights",
+  "position": 24
+ },
+ {
+  "id": 6,
+  "name": "☕️ Cafe",
+  "slug": "questions-about-the-meaning-life-jokes-and-general-chat",
+  "parent_category_id": 36,
+  "color": "8C6238",
+  "description_text": "Questions about the meaning of life, jokes &amp; general chats",
+  "position": 25
+ },
+ {
+  "id": 11,
+  "name": "🍄 Ecosystem",
+  "slug": "ecosystem",
+  "parent_category_id": 36,
+  "color": "BF1E2E",
+  "description_text": "Discussions on news and related projects, ecosystem friends",
+  "position": 26
+ },
+ {
+  "id": 1,
+  "name": "✨ Off-topic",
+  "slug": "uncategorized",
+  "parent_category_id": null,
+  "color": "ED207B",
+  "description_text": "For topics that don’t belong anywhere else",
+  "position": 29
+ },
+ {
+  "id": 33,
+  "name": "🧭 TEC Strategy & Governance",
+  "slug": "tec-strategy-governance",
+  "parent_category_id": null,
+  "color": "F7941D",
+  "description_text": "A space for discussing the strategic direction and governance of the TEC. This includes objectives, budgets, proposals, and governance frameworks.",
+  "position": 0
+ }
+]

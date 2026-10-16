@@ -1,0 +1,46 @@
+{
+ "id": 929,
+ "title": "Questions about Augmented Bonding Curves",
+ "slug": "questions-about-augmented-bonding-curves",
+ "category_id": 22,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2022-03-11T01:36:31Z",
+ "last_archived_post_at": "2022-03-11T01:36:31Z",
+ "captured_between": [
+  "2023-02-04T01:56:41Z",
+  "2023-02-04T01:56:41Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "jeverettnichol",
+   "name": null,
+   "created_at": "2022-03-11T01:36:31Z",
+   "updated_at": "2022-03-11T01:36:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey all, new to Token Engineering and I have some questions I was hoping someone could answer for me.</p>\n<p>If my understanding is correct, all the money that goes into the contract of an ABC from supporters, comes back out at the same rate as people sell minus the commons tribute, so aside from anything to do with the hatch, doesn’t that basically mean that it’s a negative sum game where there will be winners but generally less money will come out to investors than is given. If this is the case, how is an ABC preferable to an organization over pure donations where there is no chance of speculative loss and competition? Am I misunderstanding how this works? I really want to develop incentive structures that doesn’t rely on there being losers.</p>\n<p>I could see this being alleviated if a DAO or org has revenues to share with holders, the sum of funds available to be drawn out by investors would then be greater than those put in, but it seems like there would be a lot of projects in the Commons and social impact arena where revenues would be rare or non-existent.</p>\n<p>What am I missing?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204015641",
+    "url": "https://forum.tecommons.org/t/questions-about-augmented-bonding-curves/929"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230204015641",
+   "url": "https://forum.tecommons.org/t/questions-about-augmented-bonding-curves/929"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204015641",
+   "url": "https://forum.tecommons.org/t/questions-about-augmented-bonding-curves/929"
+  }
+ ]
+}

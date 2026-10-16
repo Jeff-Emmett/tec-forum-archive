@@ -1,0 +1,68 @@
+{
+ "id": 601,
+ "title": "TEC Working Groups Weekly Update, Sept 6",
+ "slug": "tec-working-groups-weekly-update-sept-6",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2021-09-06T07:24:22.258Z",
+ "last_posted_at": "2021-09-06T08:44:49.590Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-09-06T08:44:49Z",
+ "captured_between": [
+  "2021-09-28T01:24:56Z",
+  "2026-07-17T02:08:47Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Suga",
+   "name": null,
+   "created_at": "2021-09-06T07:24:22Z",
+   "updated_at": "2021-09-06T07:24:22Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<hr/>\n<h2>\n<a class=\"anchor\" href=\"#monday-sept-6-2021-1\" name=\"monday-sept-6-2021-1\"></a><strong>Monday, Sept 6, 2021</strong>\n</h2>\n<p><strong><img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=9\" title=\":ballot_box:\"/> Governing the DAO:</strong> There are current discussions - and one call for ideation - happening on some decision that the DAO will vote on before the Commons upgrade. We bring these to your attention to be aware of and help shape these key impending votes:</p>\n<ul>\n<li><a href=\"https://forum.tecommons.org/t/reward-system-moving-forward/570/6\">Reward system moving forward<br/>\n</a></li>\n<li><a href=\"https://forum.tecommons.org/t/75-governance-giveback/569/7\">75% Governance giveback</a></li>\n<li><a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/12\">Accommodating requests for address change</a></li>\n<li><a href=\"https://forum.tecommons.org/t/should-we-do-the-initial-buy-into-the-bonding-curve/574/8\">Should we do an initial buy into the bonding curve?<br/>\n</a></li>\n</ul>\n<p><strong><img alt=\":point_right:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_right/4.png?v=9\" title=\":point_right:t4:\"/> Spotlight:</strong> For our Community Call Spotlight this week, the Comms WG Steward, Chuy, presented the Comms WG proposal for the <a href=\"https://docs.google.com/presentation/d/1NEL4iyTe28C71RwNiGwBmQ_8NI27eLvU1IO2_7JeDQI/edit\">CommsDAO</a> a price of forgery proof of personhood. Did you miss it? No problem! <a href=\"https://www.youtube.com/watch?v=G77UmujbYPY&amp;ab_channel=TokenEngineeringCommons\">Watch it now</a>.</p>\n<h3>\n<a class=\"anchor\" href=\"#comms-2\" name=\"comms-2\"></a><img alt=\":satellite:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/satellite.png?v=9\" title=\":satellite:\"/> Comms</h3>\n<ul>\n<li>\n<a href=\"https://docs.google.com/document/d/1foG4IaB-cczo35p5ndObnLp1FSoGRuE_2ULS-1iyMnk/edit\">Comms DAO</a> as a public good for Token Engineering</li>\n<li>New medium post: <a href=\"https://medium.com/token-engineering-commons/tec-hatch-whats-next-9b282fce1827\">What comes next</a> after the Hatch</li>\n<li>Launched the <a href=\"https://twitter.com/hashtag/TECparams?src=hashtag_click\">Params September</a> campaign</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#commons-swarm-3\" name=\"commons-swarm-3\"></a><img alt=\":globe_with_meridians:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/globe_with_meridians.png?v=9\" title=\":globe_with_meridians:\"/> Commons Swarm</h3>\n<ul>\n<li>A <a href=\"https://forum.1hive.org/t/commons-swarm-outcomes-1-3-a-plug-and-play-bonding-curve/4298\">plug-and-play bonding curve,</a> how to plug into any Aragon or Gardens DAO.</li>\n<li>Alpha release of <a href=\"https://commonsswarm.github.io/EVMcrispr/\">EVMcrispr,</a> a tool that allows DAO parameter changes.</li>\n<li>\n<strong>Forum Highlight</strong>: <a href=\"https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/16\">Commons Swarm update</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#gravity-4\" name=\"gravity-4\"></a><img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=9\" title=\":dove:\"/> Gravity</h3>\n<ul>\n<li>Upcoming Graviton training:\n<ul>\n<li>A 10 sessions course where you will learn to prevent and manage conflicts in DAOs.</li>\n<li>From Sept 21 to Nov 23 - <a href=\"https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit#gid=679275498\">Register here.</a>\n</li>\n<li>Collect 6 or more POAPs to become a Graviton.</li>\n</ul>\n</li>\n<li>The TEC Lounge: We are hosting an informal hang-out on Fridays to talk about whatever comes up and to nuture community and stimulate new ideas.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#labs-5\" name=\"labs-5\"></a><img alt=\":microscope:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=9\" title=\":microscope:\"/> Labs</h3>\n<ul>\n<li>Collaborating with <a href=\"https://www.curvelabs.eu/\">Curvelabs</a> on a final spec and model for the Proposal Inverter. Read about <a href=\"https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21\">DAO2DAO Collaboration Mecahnisms</a> to know more.</li>\n<li>Collaborating with the  <a href=\"https://twitter.com/GovernanceDAO\">Governauts</a> on Rewards research.</li>\n<li>CadCAD study groups led by Heater on Tues at 8am PST / 5pm CEST on the TEC Discord.</li>\n<li>\n<a href=\"https://github.com/tokenspice/tokenspice\">TokenSPICE</a> dev workshops every Mon 8am PST / 5pm CEST: seminar on software engineering and data analysis on the <a href=\"https://discord.gg/4Zs9D5PEFS\">Token Engineering Discord</a> <span class=\"hashtag\">#te-tokenspice</span> channel.\n<ul>\n<li>TokenSPICE - A next generation token simulation framework developed at Ocean Protocol.</li>\n</ul>\n</li>\n<li>\n<strong>Forum Highlights</strong>:\n<ul>\n<li>\n<a href=\"https://forum.tecommons.org/t/tec-labs-fall-semester/577\">TEC Labs Fall Semester</a> - researching the rewards system discussed in <a href=\"https://forum.tecommons.org/t/reward-system-moving-forward/570\">this proposal</a>.</li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#legal-6\" name=\"legal-6\"></a><img alt=\":classical_building:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/classical_building.png?v=9\" title=\":classical_building:\"/> Legal</h3>\n<ul>\n<li>Discussions about TEC treasury, sub-DAOs can diversify their treasury.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#0mega-7\" name=\"0mega-7\"></a><img alt=\":dizzy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dizzy.png?v=9\" title=\":dizzy:\"/> 0mega</h3>\n<ul>\n<li>On vacation!</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#params-8\" name=\"params-8\"></a><img alt=\":robot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=9\" title=\":robot:\"/> Params</h3>\n<ul>\n<li>The Params team is rocking!</li>\n<li>Last week, Fabio shared a demo of the <a href=\"https://commons-dashboard.netlify.app/\">Commons Upgrade dashboard</a> in our Community Sync. <a href=\"https://www.youtube.com/watch?v=u09Yq9zDNT8&amp;t=2234s\">Watch that demo here</a>. Want to help make this dashboard better? Drop your feedback in the Discord Params channel or create an issue in <a href=\"https://github.com/CommonsBuild/commons-config-frontend/issues\">Github</a>.</li>\n<li>Commons Configuration Dashboard\n<ul>\n<li><a href=\"https://www.figma.com/proto/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps?page-id=3370%3A14921&amp;node-id=3413%3A15145&amp;viewport=-1613%2C-87%2C0.1384066492319107&amp;scaling=min-zoom\">Design Validation</a></li>\n<li><a href=\"https://bondingcurve.herokuapp.com/app\">Python Backend</a></li>\n<li><a href=\"https://bondingcurve.herokuapp.com/app\">Frontend</a></li>\n</ul>\n</li>\n<li>\n<strong>Forum Highlight</strong>: <a href=\"https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/ccd-params/26\">Param Documentation</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#soft-gov-9\" name=\"soft-gov-9\"></a><img alt=\":raised_hands:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/4.png?v=9\" title=\":raised_hands:t4:\"/> Soft Gov</h3>\n<ul>\n<li>Lívia was on vacation! Guest host this week: Suga with JuanK’s support.</li>\n<li>\n<a href=\"https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr\">One time change of TECH addresses</a> is on Snapshot for community signal vote. If the signal is strongly in favor, it will be proposed on the Hatch DAO for official vote.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#stewards-10\" name=\"stewards-10\"></a><img alt=\":ear_of_rice:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ear_of_rice.png?v=9\" title=\":ear_of_rice:\"/> Stewards</h3>\n<ul>\n<li>Want to know what we are working on these next two weeks? We just planned <a href=\"https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?sprints=Z2lkOi8vcmFwdG9yL1NwcmludC84MDQ0NA&amp;filterLogic=any&amp;repos=306706322\">Sprint 17</a> (Sept 3 - 16)!</li>\n<li>Help needed: Devops for TEC swag shop (running Origin Protocol’s dshop).</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#transparency-11\" name=\"transparency-11\"></a><img alt=\":male_detective:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/male_detective.png?v=9\" title=\":male_detective:\"/> Transparency</h3>\n<ul>\n<li>Test driving <a href=\"https://snapshot.org/#/tecommons.eth/proposal/QmRXDFfSQoUzahxjuVGKspXD8NbwoR38CvUSU135vkNZEr\">Snapshot</a> for community signaling.</li>\n</ul>\n<p><img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=9\" title=\":books:\"/> Thanks for reading the update this week! Be sure to check out the <a>calendar</a> to join us on a call! <img alt=\":phone:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/phone.png?v=9\" title=\":phone:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717020847",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-sept-6/601"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-09-06T08:44:49Z",
+   "updated_at": "2021-09-06T08:44:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for the summaries! <a class=\"mention\" href=\"/u/suga\">@Suga</a><br/>\nThis really helps to begin to feel caught up! <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=9\" title=\":sweat_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717020847",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-sept-6/601"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928012456",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-sept-6/601"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928012456",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-sept-6/601"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260717020847",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-sept-6/601"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "id": 658,
+ "title": "TEC Go To Market - DAO to DAO",
+ "slug": "tec-go-to-market-dao-to-dao",
+ "category_id": 28,
+ "posts_count": 4,
+ "created_at": "2021-10-07T16:40:36.692Z",
+ "last_posted_at": "2021-12-13T12:32:21.152Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2021-12-13T12:32:21Z",
+ "captured_between": [
+  "2021-10-25T09:29:32Z",
+  "2022-05-20T06:23:01Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-10-07T16:40:37Z",
+   "updated_at": "2021-11-24T18:24:04Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Hey everyone!</p>\n<p>This <a href=\"https://snapshot.org/#/tecommons.eth/proposal/QmRDY8mUk3geTaKByTT5qvSe7pJtcmUTsLNafNxYRzCnUZ\">was posted</a> by a passionate hatcher and supporter here of both TEC and CS <img alt=\":green_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=10\" title=\":green_heart:\"/></p>\n<p>I’m reposting their proposal in the hopes to create a conversation and evaluation team around a potential high-impact go-to-market strategy.</p>\n<p>Hypothesis 1:<br/>\nTEC consists of the best token engineers in the web3 space. Other very wealthy DAOs are desperately craving counsel on their token and incentive structures… <img alt=\":bulb:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/bulb.png?v=10\" title=\":bulb:\"/> PraiseBots, hatch parameters, bonding curve issuance are incredible design parameters few DAOists know about.</p>\n<p>Hypothesis 2:<br/>\nIt feels to me sometimes a bit like the TEC community is over-engineering its own design params. Dogfooding the dogfood. The Hatch took a long time and in my opinion was in some aspects convoluted bc. we wanted to experiment with multiple designs - best intentions of course.</p>\n<p>– Idea:<br/>\nWhat if the TEC community began integrating its amazing ideas into the many DAOs that face big incentive problems and through that rapidly prototype the tool kit.</p>\n<ol>\n<li>This could create massive networks effects for TEC DAO via other DAOs</li>\n<li>Enable rapid prototyping of the core stack and toolset that TEC is trying to build. Good user feedback is the hardest thing to get. And desperate users are the best users.</li>\n<li>Also imagine how many token designers we might attract from those DAOs.</li>\n<li>Lastly, creating sustainable income/token swaps + helping others in need</li>\n</ol>\n<p>Dogfooding only works for so long <img alt=\":dog:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dog.png?v=10\" title=\":dog:\"/> and the opportunity here to help is incredible IMO. We can always revert to our own tooling and perfect that!</p>\n<p>– Proposal Ask: create a small 3-week project team to evaluate if, what and how TEC tooling could be serviced to another DAO for income. Requires time commitments.</p>\n<p>– Outcome: identify one DAO that will buy a solution (effectively the design-thinking to help implement a TEC module) for income &amp; integrating a TEC module into the wild. Why paid? Because that increases the stakes and expectations and good work deserves to be paid.</p>\n<p><a href=\"https://imgflip.com/i/3ceyw8\"><img alt=\"\" data-base62-sha1=\"1lYvYi7G4tkoqELBPdVOsgr9tzB\" height=\"387\" src=\"https://forum.tecommons.org/uploads/default/original/1X/097e1fa0b360c1639893aea1a73b0b1c8e525f7b.jpeg\" title=\"made at imgflip.com\" width=\"690\"/></a></p><div>\n<br/>\n– Team<br/>\nTBD Post here in the Forum if you are interested!!!<p></p>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062301",
+    "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "paulhaas",
+   "name": null,
+   "created_at": "2021-10-07T21:10:47Z",
+   "updated_at": "2021-10-07T21:10:47Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I approve this message.</p>\n<p>1000 TECH to the person who will build a team around this from me.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062301",
+    "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "randomshinichi",
+   "name": null,
+   "created_at": "2021-10-08T10:42:21Z",
+   "updated_at": "2021-10-08T10:42:21Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Sounds good, I also think the hatch took too long.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062301",
+    "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "markop",
+   "name": null,
+   "created_at": "2021-10-08T19:01:18Z",
+   "updated_at": "2021-10-08T19:01:18Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I support this idea.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062301",
+    "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gene",
+   "name": null,
+   "created_at": "2021-12-13T12:32:21Z",
+   "updated_at": "2021-12-13T12:32:21Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Bumping this. Did this initiative ever come to fruition or find an ideal D2D advocate?<br/>\nAlso would be really interesting to hear some current perspectives on the hypotheses now that we’re so close to the CU.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"658\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>Hypothesis 1:<br/>\nTEC consists of the best token engineers in the web3 space. Other very wealthy DAOs are desperately craving counsel on their token and incentive structures… <img alt=\":bulb:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/bulb.png?v=10\" title=\":bulb:\"/> PraiseBots, hatch parameters, bonding curve issuance are incredible design parameters few DAOists know about.</p>\n</blockquote>\n</aside>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"658\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>Hypothesis 2:<br/>\nIt feels to me sometimes a bit like the TEC community is over-engineering its own design params. Dogfooding the dogfood. The Hatch took a long time and in my opinion was in some aspects convoluted bc. we wanted to experiment with multiple designs - best intentions of course.</p>\n</blockquote>\n</aside>\n<p>This could be construed as optimism vs pessimism, but at least from my limited viewpoint, would disagree and say that holding both beliefs simultaneously is a perfectly valid stance, and likely even a more honest admission of the reality. But to what percentage split? I’d say probably 90/10 Hyp1/Hyp2. But again, that’s my own limited, uninformed snap hindsight hypothesis. Would particularly enjoy seeing how the big <img alt=\":brain:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/brain.png?v=10\" title=\":brain:\"/>s in here see the split between view 1 and 2. 50/50, 60/40, one vs the other? Are the tooling assets that have been developed really a potential source of revenue and exposure for TEC going forward? Or in hindsight should this have been advocated for more adamantly? and taken to the extreme, should we have actually subsidized other groups to take and try what was developed at the time, essentially soliciting paid reviews/trials in the hopes of producing the maximum quality outcomes for the CU?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062301",
+    "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211025092932",
+   "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025092932",
+   "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520062301",
+   "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520062301",
+   "url": "https://forum.tecommons.org/t/tec-go-to-market-dao-to-dao/658"
+  }
+ ]
+}

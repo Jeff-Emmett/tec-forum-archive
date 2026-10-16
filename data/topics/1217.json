@@ -1,0 +1,397 @@
+{
+ "id": 1217,
+ "title": "Token Engineering Grants Program v1 First Round Funding Proposal",
+ "slug": "token-engineering-grants-program-v1-first-round-funding-proposal",
+ "category_id": 29,
+ "posts_count": 15,
+ "created_at": "2023-03-16T21:08:17.385Z",
+ "last_posted_at": "2023-03-28T15:18:04.645Z",
+ "views": 217,
+ "highest_post_number": 15,
+ "closed": false,
+ "archived": false,
+ "more_after": 20,
+ "total_known": true,
+ "archived_posts": 21,
+ "archived_numbers": 21,
+ "last_archived_post_at": "2023-03-30T18:39:22Z",
+ "captured_between": [
+  "2023-03-29T16:45:39Z",
+  "2023-05-30T09:06:29Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-16T21:08:18Z",
+   "updated_at": "2023-03-21T16:28:17Z",
+   "reply_to_post_number": null,
+   "like_count": 12,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#token-engineering-grants-program-v1-first-round-funding-proposal-1\" name=\"token-engineering-grants-program-v1-first-round-funding-proposal-1\"></a>Token Engineering Grants Program v1 First Round Funding Proposal</h1>\n<h2>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TLDR:</h2>\n<p>A $25k grants round to distribute funding to TE projects using Quadratic Funding via Gitcoin’s Allo Protocol</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description:</h2>\n<h3>\n<a class=\"anchor\" href=\"#context-4\" name=\"context-4\"></a>Context</h3>\n<p>This proposal is part of a set of proposals aimed at boosting the TEC’s sustainability. Context for this package of proposals can be found in this roadmap <a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">A Proposals Roadmap for TEC/TEA Sustainability</a>.</p>\n<p>To provide some context, we’ve been in contact with Gitcoin over the last month to use their new allocation protocol (<a href=\"https://gov.gitcoin.co/t/introducing-gitcoin-grants-stack-allo-protocol-product-overviews-part-1-of-2/12664\" rel=\"noopener nofollow ugc\">Allo Protocol</a>) to set up a grants program with the goal of further increasing the dynamism of funding for token engineering projects. We’re hoping to see new projects emerge and support those who are doing a great job already.</p>\n<p>Initially, the Gitcoin team was planning some small test rounds in March, but this week they decided to scrap those plans and go straight to a set of full Partner Rounds in April. The TEC has been selected as one of just a handful of these featured partners. (Note that this means that we won’t be moving forward with the proposal for that test <a href=\"https://forum.tecommons.org/t/token-engineering-small-grants-pilot/1214\">posted last week</a>.) This means that the deadlines for this proposal are very tight.</p>\n<p><a href=\"https://docs.google.com/document/d/1IpHiqdFMuYYM7D3aNOkY_b-sYT7Xw33eOwRZqprD_GE/edit\" rel=\"noopener nofollow ugc\">There’s some criteria to qualify an ‘official’ Partner Round</a>, which include having at least a $50k matching pool, however, as they’re just getting started with this new format, and because they’re still tweaking the requirements, we’ll be setting up a $25k matching pool, which is what this proposal is for.</p>\n<h3>\n<a class=\"anchor\" href=\"#specifications-of-this-round-5\" name=\"specifications-of-this-round-5\"></a>Specifications of this round</h3>\n<p>This first round, which we’re still considering as <em><strong>the pilot</strong></em> (just a bigger one), will look as follows:</p>\n<ul>\n<li>This will be an open round, accepting any project in tooling and education that contributes to token engineering. Full details for grant acceptance are TBD (happy to hear thoughts in the comments!).</li>\n<li>Tentative dates are:\n<ul>\n<li>Criteria defined by March 28</li>\n<li>Grant applications open April 1 to 17</li>\n<li>Round starts April 25</li>\n</ul>\n</li>\n<li>Funding amount is $25k total — $23,420 coming from this proposal and $1,580 from the ENS Small Grant we won last month.</li>\n<li>For the chain we’ll be choosing the one where most of rounds will happen to ensure a better experience for donors and increase donations for grantees. Chain is yet to be determined, but we’re guessing that’s going to be Optimism.</li>\n<li>Payments are likely to be made in $TEC, though we’re still confirming a few details with the Gitcoin team to make sure making payments in another chain aren’t an issue.</li>\n<li>Seems likely that we’ll be able to apply a <em>‘$TEC matching boost’</em> , where those who hold $TEC can increase their matching amount, hopefully incentivising donors to buy the token and existing holders to donate. We are also investigating a similar boosting function for holders of NFT knowledge proofs from the Token Engineering Academy TE Fundamentals course.</li>\n</ul>\n<p>Note that some details here aren’t set in stone.</p>\n<p>We’ll make the best decisions we can as we see how the protocol actually works, asking the community for feedback if needed.</p>\n<h3>\n<a class=\"anchor\" href=\"#for-future-rounds-6\" name=\"for-future-rounds-6\"></a>For future rounds</h3>\n<p>The described above is very specific to the first round, where we’re trying to make the most out of the situation. Here are some things we’d like to get done in the future:</p>\n<ul>\n<li>Non-reliance on TEC’s Common Pool — we want this program to be BIG and sustainable over time, will be working to find funding partners/round sponsors with the goal that little to no money from the matching pool comes from the TEC.</li>\n<li>TEC Membership Boost — this is a very early concept, but the idea is to provide another benefit to TEC’s Membership (which may be composed of NFTs and $TEC, etc.).</li>\n<li>$TEC donations — we want to give people the option to donate using the currency of token engineers! However due to the state of the Gnosis Chain ecosystem, most of the rounds running on Optimism/Ethereum, etc. there’s some things we still have to think about and work through. The experience for grantees and donors is very important.</li>\n</ul>\n<p>You can see a full document with the different scenarios for these options <a href=\"https://hackmd.io/@enti/H16-BxR1n\" rel=\"noopener nofollow ugc\">here</a>.</p>\n<h2>\n<a class=\"anchor\" href=\"#additional-information-to-add-7\" name=\"additional-information-to-add-7\"></a>Additional information to add</h2>\n<p>NA</p>\n<h2>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-8\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-8\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h2>\n<ul>\n<li>A grants program injects dynamism into public goods funding for token engineering by helping to catalyze promising, early-stage projects.</li>\n<li>A grants program enables the TEC to stretch the remaining Common Pool funds by stimulating contributions from individual donors and matching funds partners.</li>\n<li>This pilot gives the TEC valuable, hands-on experience running a quadratic funding grant-making process.</li>\n<li>Being one of just a few early stage Gitcoin Allo partners will boost TEC visibility and grow awareness for the field of token engineering within the broader web3 community.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#funding-request-9\" name=\"funding-request-9\"></a>Funding request</h2>\n<p>$23,420.00 requested through Tao Voting (see discussion on turning off Conviction Voting <a href=\"https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221\">here</a>).</p>\n<h2>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-10\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-10\"></a>How will these funds be used? (Only for conviction voting)</h2>\n<p>All of the funds will be used as matching fund payouts to grant applicants. The costs of developing, launching and running the pilot are covered by the existing TEC Coordination Team operating budget.</p>\n<h2>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-11\" name=\"how-will-you-share-progress-11\"></a>How will you share progress?</h2>\n<p>Progress will be shared through the Coordination Team Roadmap, which is updated every month.</p>\n<h2>\n<a class=\"anchor\" href=\"#project-information-if-applies-12\" name=\"project-information-if-applies-12\"></a>Project information (if applies)</h2>\n<p>NA</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-13\" name=\"team-information-13\"></a>Team information</h2>\n<p>Core Coordination Team members:</p>\n<p>Isaac (enti)<br/>\nGideon</p>\n<p>Additional Contributors:</p>\n<p>Bear</p>\n<p>Advisors:</p>\n<p>Griff<br/>\nAngela</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "pat.zip",
+   "name": null,
+   "created_at": "2023-03-19T12:02:36Z",
+   "updated_at": "2023-03-19T12:02:36Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>YES for this! Congrats TEC community for being selected by Gitcoin!<br/>\nExcited to see the grants machinery working full time with this huge incentive.</p>\n<p><a class=\"mention\" href=\"/u/enti\">@enti</a> you said to drop comments about the grants and projects; some thoughts:</p>\n<ul>\n<li>min requirements that drive sustainable exchanges between TEC and the Proposal<br/>\n– projects w. a structured plan to become <em>useful</em> for the community<br/>\n– projects that have in mind to be <em>accessible</em> and <em>inclusive</em>\n</li>\n<li>\n<em>motivation</em> could be a key requirement factor. how coherent is the proposer’s motivation to the proposal and its values?</li>\n<li>looking forward to see projects that find <em>creative methods</em> to teach/ learn/ exchange knowledge</li>\n<li>would be great to see a <em>new TE tool</em> amongst the proposals!</li>\n</ul>\n<p>happy to discuss more (:</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-19T12:52:08Z",
+   "updated_at": "2023-03-19T12:52:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1217\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/e/5daacb/40.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>However due to the state of the Gnosis Chain ecosystem,</p>\n</blockquote>\n</aside>\n<p>Can you expand please? Is it not possible to use Gnosis Chain with Allo?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-19T12:53:55Z",
+   "updated_at": "2023-03-19T12:53:55Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1217\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/e/5daacb/40.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>with the goal that little to no money from the matching pool comes from the TEC.</p>\n</blockquote>\n</aside>\n<p>Can you add reasoning pls?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-19T12:54:43Z",
+   "updated_at": "2023-03-19T12:54:43Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1217\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/e/5daacb/40.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>see discussion on turning off Conviction Voting here</p>\n</blockquote>\n</aside>\n<p>Can you add the link pls?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-19T12:56:29Z",
+   "updated_at": "2023-03-19T12:56:29Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Great addition! All the best with integrating Allo, and looking forward to make $TEC flow through that protocol too!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-19T20:58:23Z",
+   "updated_at": "2023-03-19T20:58:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Loving this! Some of that is in line with what we’ve been discussing.</p>\n<p>As far as motivation, how can you imagine it being applied as a requirement, is there any signals you think may be useful to look after to pass our “motivation score”?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-19T21:20:02Z",
+   "updated_at": "2023-03-19T21:20:02Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Hello! Let me go through all these one by one.</p>\n<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"1217\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>Can you expand please? Is it not possible to use Gnosis Chain with Allo?</p>\n</blockquote>\n</aside>\n<p>Currently the smart contracts and other pieces of the Allo Protocol aren’t deployed to Gnosis Chain, though it’s on their roadmap. We could ask the Gitcoin team to get it deployed here, but here’s our reasoning not to do so right now:</p>\n<ul>\n<li>The Gnosis ecosystem is still very immature, from all native projects we’d probably be the only one running rounds in here. There’s also the chance that because of TVL/active addresses, grantees may not get as much donations, you can check some numbers here:\n<ul>\n<li><a class=\"inline-onebox\" href=\"https://gnosisscan.io/chart/address\" rel=\"noopener nofollow ugc\">Gnosis Chain Unique Addresses Chart | GnosisScan</a></li>\n<li><a href=\"https://optimistic.etherscan.io/chart/address\" rel=\"noopener nofollow ugc\">https://optimistic.etherscan.io/chart/address</a></li>\n<li><a class=\"inline-onebox\" href=\"https://llama.fi/chain/Gnosis\" rel=\"noopener nofollow ugc\">Gnosis TVL - Llama.Fi</a></li>\n<li><a class=\"inline-onebox\" href=\"https://llama.fi/chain/Optimism\" rel=\"noopener nofollow ugc\">Optimism TVL - Llama.Fi</a></li>\n</ul>\n</li>\n<li>We want to be Partners of the Gitcoin Rounds schedule, which would let us tap into all the exposure/marketing their rounds get. It’s a fairly bad user experience if from all the rounds on the “official” schedule, we’re the only ones on a different chain (asking people to bridge, etc.).</li>\n</ul>\n<p>We know Gnosis Chain is critical to get token utility into this program, but if we get this right we could end up running one of the largest rounds, which would certainly provide value too $TEC even if it’s not used directly. This doesn’t mean that we are not thinking throughly of how to make all this work, but for now our best bet is to focus on donor/grantee experience and round growth.</p>\n<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"1217\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>Can you add reasoning pls?</p>\n</blockquote>\n</aside>\n<p>TLDR; We just can’t afford having such program rely financially on us, and with the immense amount of money going towards public goods funding programs it makes sense that we try to capture it.</p>\n<p>With our common pool having just over $500k (which is used for multiple initiatives), and the $50k matching pool requirement to be a partner round, we wouldn’t be able to do this program for more than a year, or even less. Think of how Gitcoin has re-granted, iirc, more than $5M, without necessarily putting much or any at all themselves.</p>\n<p>If we can get fundraising right, we’ll be able to secure a long term source of funding for token engineering projects! This’ll come handy as we continue to burn money trying to find that thing that will make our economy generate enough to keep advancing TE.</p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"1217\" data-username=\"Solsista\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/solsista/40/74_2.png\" width=\"20\"/> Solsista:</div>\n<blockquote>\n<p>Can you add the link pls?</p>\n</blockquote>\n</aside>\n<p>Ah sorry, that was a placeholder, the forum post talking about that hasn’t come out yet. I’ll link it as soon as it’s posted.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-03-20T23:14:29Z",
+   "updated_at": "2023-03-20T23:14:29Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Very excited for this!! Thank you enti for putting it all together.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-21T16:20:13Z",
+   "updated_at": "2023-03-21T16:20:13Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1217\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/e/5daacb/40.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>here</p>\n</blockquote>\n</aside>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1221\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221\">Proposal to Sideline Conviction Voting</a> <a class=\"badge-wrapper bullet\" href=\"/c/tao-voting/29\"><span class=\"badge-category-bg\" style=\"background-color: #ED207B;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Tao Voting is the voting process by which the Commons can modify its economic and governance settings. It is a very powerful voting application that is capable of performing many high-impact functions like mint and burn TEC tokens, install and remove applications (Modules) in the Commons, modify the parameters of all existing applications (Modules).\">🔐 Tao Voting</span></a>\n</div>\n<blockquote>\n    Proposal to Sideline Conviction Voting in the TEC \nThis proposal has been developed in parallel with a larger set of proposals that are all part of a synchronized strategy to focus our mission and to create a path toward a more sustainable economic future. Please refer to the “<a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">Proposals Roadmap</a>” forum post which serves as a contextual outline for this broader strategy. \nContext \nThe TEC has performed a wide range of experiments within governance, funding, culture, and engineering. Each experimen…\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-24T14:31:16Z",
+   "updated_at": "2023-03-25T19:44:52Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This proposal is now up for voting on <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/24\" rel=\"noopener nofollow ugc\">Gardens</a> using Tao Voting. Consider supporting if you want to see this program become a reality!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-03-27T21:10:22Z",
+   "updated_at": "2023-03-27T21:10:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’m confused why this proposal is on Tao Voting if turning off CV wasn’t voted yet?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-27T22:14:23Z",
+   "updated_at": "2023-03-27T22:14:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This was part of the challenge of passing these proposals in the midst of making the CV change. As <a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216#the-proposals-road-map-3\">part of the plan</a>, we decided that this next cluster of proposals would be how we would test out Tao Voting for funding decisions - just to make sure we can actually make it work before turning off CV. It’s a tricky set of moves.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-03-28T13:06:17Z",
+   "updated_at": "2023-03-28T13:06:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>this is very much out of our governance process and it’s unfair with the bonding curve proposal too. I see there was a test proposal there for 1DAI to <a class=\"mention\" href=\"/u/enti\">@enti</a> which would be enough for a test. I hate to bring a blocker and this proposal is SO important, but I think if we open a hole like this in our process we lose legitimacy. Sorry but I’ll vote no for it and I think it should be removed.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-03-28T15:18:04Z",
+   "updated_at": "2023-03-28T15:18:04Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I understand now the time constraint with the Gitcoin round and I won’t challenge the proposal on Celeste. It’s really crucial for us to move forward with this great initiative. It will pass tomorrow because it already reached quorum, so I’ll still leave my no vote there and my comments here as a signal. We should be more careful to not create double standards for different projects and respect our process.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2023-03-29T18:31:39Z",
+   "updated_at": "2023-03-29T18:31:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I love the idea of using Allo to fund token engineering projects.</p>\n<p><a class=\"mention\" href=\"/u/enti\">@enti</a> - I have a couple of questions:</p>\n<p>Has there been any progress on the gtant application &amp; acceptance process? you could try using a typeform to vet applicants like we used to do for Giveth, or perhaps integrate with our existing giveth project verification system.</p>\n<p>Are we going to do have to an integration with gitcoin passport? I imagine so since this is using QF, but I’m not sure how that will look on our platforms. I’m working with Amin from Giveth to integration passport on <a href=\"http://giveth.io\" rel=\"noopener nofollow ugc\">giveth.io</a> - happy to work together with you guys as well, I bet there’s some crossover.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-29T19:58:02Z",
+   "updated_at": "2023-03-29T19:58:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hello <a class=\"mention\" href=\"/u/laurenluz\">@laurenluz</a> thanks for the questions!</p>\n<p>All the review process and Sybil protection is going to be done directly through Gitcoin’s platform.</p>\n<p>For applications/review, as far as I understand, the protocol let projects make a single grant project to apply to multiple rounds. On our side we’d see those who are applying, review them and give them access if it meets our criteria.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2023-03-29T20:26:55Z",
+   "updated_at": "2023-03-29T20:26:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"17\" data-topic=\"1217\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/e/5daacb/40.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>All the review process and Sybil protection is going to be done directly through Gitcoin’s platform.</p>\n</blockquote>\n</aside>\n<p>Right, but afaik, passport is a pretty critical part of gitcoin’s new sybil resistance flow, so I image you would need to integrate it on the donation UI. Is that wrong? Or you’re just using their UI with you criteria for selecting projects in the round?</p>\n<aside class=\"quote no-group\" data-post=\"17\" data-topic=\"1217\" data-username=\"enti\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/e/5daacb/40.png\" width=\"20\"/> enti:</div>\n<blockquote>\n<p>On our side we’d see those who are applying, review them and give them access if it meets our criteria.</p>\n</blockquote>\n</aside>\n<p>Did you already build out comprehensive requirements for this?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-29T21:27:14Z",
+   "updated_at": "2023-03-29T21:27:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"18\" data-topic=\"1217\" data-username=\"laurenluz\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/laurenluz/40/202_2.png\" width=\"20\"/> laurenluz:</div>\n<blockquote>\n<p>Or you’re just using their UI with you criteria for selecting projects in the round?</p>\n</blockquote>\n</aside>\n<p>Yes, the whole round will run on Gitcoin’s platform, from contracts to UI, will look just like theirs.</p>\n<aside class=\"quote no-group\" data-post=\"18\" data-topic=\"1217\" data-username=\"laurenluz\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/laurenluz/40/202_2.png\" width=\"20\"/> laurenluz:</div>\n<blockquote>\n<p>Did you already build out comprehensive requirements for this?</p>\n</blockquote>\n</aside>\n<p>Not formally yet, I hope to get that done early next week.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "laurenluz",
+   "name": null,
+   "created_at": "2023-03-30T17:11:21Z",
+   "updated_at": "2023-03-30T17:11:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Cool! I’m really interesting in staying in the loop on this. Will you be putting updates in the forum here? Or is there another thread to follow?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530090629",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-03-30T18:39:22Z",
+   "updated_at": "2023-03-30T18:39:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Sure, we’ll make sure to keep everyone updated on how this goes. I don’t think I’ll share like every minor detail, so if you’d like to be aware of everything on the background it’s probably best if you send me a dm <img alt=\":slight_smile:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=12\" title=\":slight_smile:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530090415",
+    "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217?page=2"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230329164539",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401011409",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530084530",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/13"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530084530",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/13"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530090415",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217?page=2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530090629",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530090629",
+   "url": "https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/"
+  }
+ ]
+}

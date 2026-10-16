@@ -1,0 +1,97 @@
+{
+ "id": 166,
+ "title": "(Retired WG) 🏄🏽‍♀️ Hatch Outreach Working Group",
+ "slug": "retired-wg-hatch-outreach-working-group",
+ "category_id": 13,
+ "posts_count": 1,
+ "created_at": "2020-12-16T16:49:53.722Z",
+ "last_posted_at": "2021-09-17T08:44:13.400Z",
+ "views": 3142,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-09-17T08:44:13Z",
+ "captured_between": [
+  "2021-03-03T02:43:46Z",
+  "2025-03-19T10:45:02Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": "Livia",
+   "created_at": "2020-12-16T16:49:53Z",
+   "updated_at": "2021-09-17T08:42:49Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The Hatch Outreach working group is responsible for reaching out to backers (Hatchers) and helping guide projects to submit proposals for funding. Find us on the <span class=\"hashtag\">#hatch-outreach</span> channel on our Discord.</p>\n<ul>\n<li>Meetings: Wednesdays at 6pm CET</li>\n<li>Where? <a href=\"https://discord.gg/E2sJXDBcnr\">Hatch Outreach Voice Channel on Discord</a>\n</li>\n<li>WG Lead: <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> and <a href=\"https://t.me/Tam2140\">@Tam2140</a>\n</li>\n<li>Discussions happen on <a href=\"https://discord.gg/8hR8rrhgFG\">Hatch Outreach channel</a>; join us!</li>\n<li><a href=\"https://docs.google.com/document/d/1P3Zp8VxVra1usaIwcf_p8F4berw_EezGkYQALmTz3Ng/edit#heading=h.yxpwzx470gkv\">Hatcher Outreach Manifesto: Updated on the 10th of March</a></li>\n<li><a href=\"https://docs.google.com/document/d/1DsaTuJ6s9CXfe-YT6Y0KmtKbAKHv6jPLEBdPKxNUSZs/edit\">Weekly Agenda Notes</a></li>\n<li><a href=\"https://github.com/TECommons/coordination/projects/7\">Github coordination</a></li>\n<li>TEC Curate: <a href=\"https://docs.google.com/spreadsheets/d/1RJK8gPqUoRfehX9e60sTCMAM_R1rI2CuiV1r-i3wAXQ/edit#gid=875503092\">Document that serves as a reference for keeping track of hatchers and potential proposals</a>\n</li>\n</ul>\n<hr>\n<p>Initial documents that served as a reference for this working group creation:</p>\n<ul>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1O7DsKdhU9TmW36lXH_pRNeUiawglry-_4BWFx2nKttE/edit\">Onboarding working document - last updated Oct 17</a></p>\n</li>\n<li>\n<p><a href=\"https://miro.com/app/board/o9J_kiNo1dQ=/\">Stakeholder and ecosystem mapping </a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1jGJlLisb3ZcFz-4amkgjjnh5GobLJnGeHNZx7gqK8Zo/edit#heading=h.3tjyz79z4wn9\">Crypto economics working doc</a></p>\n</li>\n<li>\n<p><a href=\"https://www.youtube.com/watch?v=k9sAlf2XitY\">TE Academy presentation of the onboarding research </a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1L2fbTEs6kBkwQhKLI9guUBu1hnXCAH6uTCTtaeJynLQ/edit#heading=h.4qr126s3qfr1\">Interviews initial working document </a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1ZawaNfDdkcsYleZMFqqCpVWHc5UhlLllIlsgfAGrJPQ/edit#heading=h.s1r0u34np0eh\">List of questions for interviews </a></p>\n</li>\n<li>\n<p><a href=\"https://ehanover21.typeform.com/to/z358PCBi\">Stakeholder interview in typeform </a></p>\n</li>\n</ul>\n<ul>\n<li>\n<a href=\"https://docs.google.com/spreadsheets/d/1-_fq-iYb22loBuj1iExNYtv0x2EKY36gz-lg1mMDboc/edit#gid=501943413\">8 typeform </a>responses</li>\n</ul>\n<ul>\n<li><a href=\"https://drive.google.com/drive/folders/16iXxRMzV4jqQNK0gZE5pXnHRV3AkJfNb\">Interviews folder </a></li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250319104502",
+    "url": "https://forum.tecommons.org/t/retired-wg-hatch-outreach-working-group/166"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tamara",
+   "name": "Tamara",
+   "created_at": "2021-09-17T08:44:13Z",
+   "updated_at": "2021-09-17T08:44:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This WG was retired at the close of the Hatch.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250319104502",
+    "url": "https://forum.tecommons.org/t/retired-wg-hatch-outreach-working-group/166"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303024346",
+   "url": "https://forum.tecommons.org/t/hatcher-outreach-working-group/166"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303024346",
+   "url": "https://forum.tecommons.org/t/hatcher-outreach-working-group/166"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624155241",
+   "url": "https://forum.tecommons.org/t/hatch-outreach-working-group/166"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624155241",
+   "url": "https://forum.tecommons.org/t/hatch-outreach-working-group/166"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928012334",
+   "url": "https://forum.tecommons.org/t/retired-wg-hatch-outreach-working-group/166"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928012334",
+   "url": "https://forum.tecommons.org/t/retired-wg-hatch-outreach-working-group/166"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025101630",
+   "url": "https://forum.tecommons.org/t/retired-wg-hatch-outreach-working-group/166"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319104502",
+   "url": "https://forum.tecommons.org/t/retired-wg-hatch-outreach-working-group/166"
+  }
+ ]
+}

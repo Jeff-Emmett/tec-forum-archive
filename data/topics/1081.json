@@ -1,0 +1,222 @@
+{
+ "id": 1081,
+ "title": "Discord Token Holder Channel and Token Gating Test",
+ "slug": "discord-token-holder-channel-and-token-gating-test",
+ "category_id": 28,
+ "posts_count": 12,
+ "total_known": true,
+ "archived_posts": 12,
+ "archived_numbers": 12,
+ "created_at": "2022-07-13T20:59:26Z",
+ "last_archived_post_at": "2022-07-26T20:45:48Z",
+ "captured_between": [
+  "2022-08-15T10:54:48Z",
+  "2022-08-15T10:54:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-07-13T20:59:26Z",
+   "updated_at": "2022-07-13T20:59:26Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#provide-as-much-information-as-possible-about-your-idea-1\" name=\"provide-as-much-information-as-possible-about-your-idea-1\"></a>Provide as much information as possible about your idea.</h3>\n<h2>\n<a class=\"anchor\" href=\"#description-2\" name=\"description-2\"></a>Description:</h2>\n<p>This proposal is to add a “Token Holder” text channel to the TEC’s Discord server. To access this channel, people will need to hold some minimum amount of $TEC in their wallet (1 $TEC initially). Once the tokens are confirmed, this “token gate” grants access to the new “Token Holder” Discord channel.</p>\n<p>The channel will initially have relatively little content, but this can grow over time, as warranted. Current considerations include:</p>\n<ul>\n<li>Weekly working group updates (like <a href=\"https://forum.tecommons.org/t/tec-wgs-weekly-update-june-27-july-03/1072\">this</a>)</li>\n<li>Updates on Conviction Voting and changes in the Common Pool</li>\n<li>Financial updates from Transparency Working Group</li>\n<li>Audit notifications</li>\n<li>New working group contribution opportunities (collected from DeWork, Clarity, and ZenHub “newcomer issues”)</li>\n<li>Feel free to comment below with ideas for additional content that would be useful to token holders</li>\n</ul>\n<p>Consider this proposal a test of token gating in the TEC. The idea emerged in a recent Soft-Gov call, as a safe way to test out token gating by restricting it to communications updates that would be useful to token holders. This pilot program will run until at least the end of 2022. If the test fails to make progress toward the goals outlined below, or if it has a marked negative impact on the TEC’s culture, we will either fix the problems or discontinue the channel.</p>\n<p>Feedback from this test will also help the TEC to determine whether to further invest in developing additional services to be placed behind a token gate. To answer this question, we will need to use both an economic sustainability and cultural impact lens.</p>\n<h2>\n<a class=\"anchor\" href=\"#goals-3\" name=\"goals-3\"></a>Goals:</h2>\n<ul>\n<li>Determine whether Discord token gating is a good fit for the TEC culture</li>\n<li>Improve and lower the cost of regular communications with TEC token holders</li>\n<li>Stimulate minting and holding $TEC by increasing its perceived value (at least a bit)</li>\n<li>Grow the percentage of people holding $TEC within the TEC community</li>\n<li>Figure out technical solutions to Discord token gating</li>\n<li>Understand the operational realities of token gating in a Discord community</li>\n</ul>\n<p>Note:<br/>\nThe TEC is also evaluating a TEC Membership NFT for those who meet baseline membership criteria. In future iterations of TEC token gating, we may consider requiring some combination of $TEC and these NFTs, but that is <em>not</em> an option being considered in this test.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-is-it-relevant-to-the-tec-mission-vision-and-values-4\" name=\"how-is-it-relevant-to-the-tec-mission-vision-and-values-4\"></a>How is it relevant to the TEC mission, vision and values?</h3>\n<p>These are capacity building steps to help us learn about token gating and ways of increasing the perceived value of holding $TEC. Thus, this proposal is largely aimed at strengthening the economic layer of the TEC mission. The cautious approach to testing through a pilot will help ensure it doesn’t significantly harm the cultural layer or TEC values.</p>\n<h3>\n<a class=\"anchor\" href=\"#who-is-going-to-be-affected-by-what-youre-proposing-5\" name=\"who-is-going-to-be-affected-by-what-youre-proposing-5\"></a>Who is going to be affected by what you’re proposing?</h3>\n<p>All TEC token holders will be affected positively by seeing some, minimal, increase in the perceived value of holding the token.</p>\n<p>Some community members who don’t hold $TEC may be negatively impacted by not having access to this channel. Note, however, that the $TEC token will be much more broadly held within the community as Praise catches up with the quantification process. At a basic level, any newcomer going through TEC orientation will receive Praise, which means they will hold $TEC within just a few weeks of joining the community.</p>\n<h3>\n<a class=\"anchor\" href=\"#who-has-expertise-in-this-topic-and-could-advise-your-process-6\" name=\"who-has-expertise-in-this-topic-and-could-advise-your-process-6\"></a>Who has expertise in this topic and could advise your process?</h3>\n<p><a class=\"mention\" href=\"/u/liviade\">@liviade</a> (cultural impact)<br/>\n<a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> (community engagement)<br/>\n<a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a> (for communications material for the channel)<br/>\n<a class=\"mention\" href=\"/u/tamara\">@Tamara</a> <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> (general guidance)<br/>\n<a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> (interaction with Praise rewards)</p>\n<h3>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-7\" name=\"what-type-of-proposal-is-this-7\"></a>What type of proposal is this?</h3>\n<p>This is an idea or something I just need advice to proceed with.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-07-13T21:00:44Z",
+   "updated_at": "2022-07-13T21:00:44Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>If you have ideas for content for the Token Holder channel, please add them as comments.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-07-14T18:51:21Z",
+   "updated_at": "2022-07-14T18:51:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I fully support this idea, thank you for writing such a great advice process <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>  - I think it’s nice to not have too much content in the channel so people feel more inclined to check it often, like a curated page for important information.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "philh",
+   "name": null,
+   "created_at": "2022-07-15T05:48:46Z",
+   "updated_at": "2022-07-15T05:48:46Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>, thank you for the proposal!</p>\n<p>I’m not part of the advice process here, but I figured I would share a feedback nevertheless <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>\n<p>I like the idea of experimenting with token gating and tying it with a gradual involvement in the community, captured by Praise.</p>\n<p>However, I’d refrain from explicitly associating such process with the economic layer of TE Commons, even if TEC token happens to be the instrument for token gating.</p>\n<blockquote>\n<p>ways of increasing the perceived value of holding $TEC. Thus, this proposal is largely aimed at strengthening the economic layer of the TEC mission</p>\n</blockquote>\n<p>Obviously, the requirement of holding only 1 TEC doesn’t instill such a perception of value. Raising the bar would be even worse, since it would signal an easier access to exclusive information for the wealthier members. Either the cost is negligible and there’s no perception of value, either it is not, and there’s a barrier based on money.</p>\n<p>You might say that using Praise will precisely enable any community member active enough to compensate a lack of financial means. I agree,  but the narrative is still around an economic barrier that one can lift off with their work, why the wealthy one has a few pass.</p>\n<p>IMHO this is just a common side effect of combining free market forces with governance bearing instruments.</p>\n<p>Anyhow, I’m totally supporting your proposal, I would just abstain to mention that it’s tied to the economic layer of the protocol. It’s just easier to use TEC.</p>\n<p>I hope this makes sense! <img alt=\":seedling:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/seedling.png?v=10\" title=\":seedling:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-07-16T15:57:01Z",
+   "updated_at": "2022-07-16T15:57:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for the feedback, <a class=\"mention\" href=\"/u/philh\">@philh</a>. Actually, as a community member, you <em>are</em> part of the advice process. <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>\n<p>In my view, we should not shy away from talking about the economic layer at all. In fact, I think we need to talk about it <em>a lot</em> more. And we need to talk about it in precisely this kind of conversation, which is why I so appreciate your comment.</p>\n<p>There are a number of governance questions related to the economic layer that this community has yet to wrestle with. Many relate to <a href=\"https://www.the-vital-edge.com/fairness/\" rel=\"noopener nofollow ugc\">differences over the basic notion of fairness</a>. We have a rare opportunity to define policies to bridge egalitarian and libertarian senses of fairness in this commons.</p>\n<p>One option that we could explore, either after or as a later part of this test, is the inclusion of a TEC Membership NFT as part of this token gate. This membership token is something that <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> will be proposing to the community soon on this forum and it essentially ensures that people agree to the cultural, governance, and economic layers of the commons, by requiring attending orientation, making an initial community offering, etc.</p>\n<p>There are no simple answers here, but I’m pretty confident that if there is the will, we will find some new economic patterns. They won’t be perfect but at least a lot better than the status quo. If this is something you’re interested in, we can definitely use the help in figuring it out.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "philh",
+   "name": null,
+   "created_at": "2022-07-17T14:27:57Z",
+   "updated_at": "2022-07-17T14:27:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you for your response!</p>\n<p>For the sake of clarity, and as a large holder of TEC myself, my point was <strong>NOT</strong> to push back on talking about the economic layer in general <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>\n<p>But I’d prefer to have value accrual for TEC based on education, consulting, or networking services provided to crypto and non-crypto firms and institutions, rather then creating crypto-economic incentives within TEC Community.</p>\n<p>Cheers!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-07-18T03:51:22Z",
+   "updated_at": "2022-07-18T03:51:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for clarifying. I think I’m following you. You mean create the token utility through services, and not through gating access to the community? Or is “incentives within the TEC community” broader than just that?</p>\n<p>Really seeking input on this. And thanks for engaging on this.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "philh",
+   "name": null,
+   "created_at": "2022-07-23T10:21:54Z",
+   "updated_at": "2022-07-23T10:21:54Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Sorry for the slow response. Happy to arrange a conversation if you feel like it.</p>\n<blockquote>\n<p>You mean create the token utility through services, and not through gating access to the community</p>\n</blockquote>\n<p>Yes, this is basically what I mean, with the caveat that distinguishing between service consumers vs. service contributors within the community might be tricky. There’s a clear line in traditional business organizations that gets blurred in commons-based peer production. That’s why stakeholder mapping is useful <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>\n<p>Did you guys already go through it? I’d be curious to see the result.<br/>\nBut maybe let’s take this off the thread, I’m afraid of generating noise here <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-07-25T20:24:12Z",
+   "updated_at": "2022-07-25T20:24:12Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Hey everyone! So after having done extensive testing and research on both of the most popular token-gating tools, collab.land and guild.xyz. I want to put my findings (and personal recommendation) down to the community. TLDR: We should use Guild.</p>\n<p>Note: this is an overview of the capabilities of each tool and feedback from other communities. I did not test all the features myself, I just reproduced the scenario where I’m granted access to a discord channel using the $TEC token and removed when I move it to another wallet.</p>\n<h2>\n<a class=\"anchor\" href=\"#collabland-1\" name=\"collabland-1\"></a>collab.land</h2>\n<p>Specs:</p>\n<ul>\n<li>Allows multiple contracts (ERC20, ERC721, ERC1155, POAP and a few others) with the possibility of specifying token ID, attributes and min/max amount of tokens.</li>\n<li>Integrated with discord and telegram</li>\n<li>Management access is done by granting a “collabland-admin” role in discord</li>\n<li>Role removal happens every 24 hours (1-2 hours for Ethereum mainnet and Flow)</li>\n<li>Free, although they are exploring a premium service</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#guild-2\" name=\"guild-2\"></a>guild</h2>\n<p>Specs:</p>\n<ul>\n<li>Dedicated and customizable user interface for each community (see <a class=\"inline-onebox\" href=\"https://guild.xyz/tec\" rel=\"noopener nofollow ugc\">TEC</a> for the one I’ve been testing on) and a hall where you can discover new guilds to join <a class=\"inline-onebox\" href=\"https://guild.xyz/explorer\" rel=\"noopener nofollow ugc\">Guildhall</a>\n</li>\n<li>Allows multiple contracts, the list isn’t descriptive as collab.lands’ but I’ve seen communities using different token contracts (ERC20, POAP, ERC721, ERC1155, etc.) so it’s safe to assume they do support pretty much all standards, or at least the most popular ones.</li>\n<li>Access by allowlist</li>\n<li>Requirements accept different logics (AND, OR, NAND, NOR)</li>\n<li>Integrated with discord and telegram - discourse, github and google docs are on the works</li>\n<li>Public roadmap <a class=\"inline-onebox\" href=\"https://roadmap.guild.xyz/?__force\" rel=\"noopener nofollow ugc\">guild.xyz</a>, everyone can request new features</li>\n<li>They said all current features are and will remain free (that probably implies there may be additional paid features in the future)</li>\n<li>Management is done with addresses, multisigs work too</li>\n<li>Role removal is almost instant**</li>\n</ul>\n<p>** Tested a few times but it did not work for me, I found a manual workaround and their support is looking into the issue</p>\n<p>Talking about other aspects, the Guild team seems to be more open and integrated within the community with an open discord server where they receive feedback, support requests and also put together a few activities for the community. On the other hand, my interactions with collab.land were limited to a more “classic” support via email.</p>\n<p>As per feedback, I reached out to a few of our closest peers that use collab.land (1Hive, Commons Stack) but they weren’t able to provide much as the folks who put that up weren’t around anymore, communities where I received feedback with Guild include DXdao and RabbitHole, they were happy with the product so far.</p>\n<p>Having all of this in mind, I believe Guild to be a better option, although I think it’s important to note that there’s one feature that doesn’t seem to work for us (yet). Happy to answer any questions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "richa",
+   "name": null,
+   "created_at": "2022-07-26T18:50:57Z",
+   "updated_at": "2022-07-26T18:50:57Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Guild looks great! The conditional logic feature seems like a nice to have for more advanced use cases later down the line and it’s awesome that they have a public roadmap. Are they currently able to aggregate a specific token holding across multiple wallets? Probably not as necessary right now but just curious!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-07-26T19:14:01Z",
+   "updated_at": "2022-07-26T19:14:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Though conditional logic and role removal are nice-to-haves, albeit not necessary (ultimately, in Discord you can always grant supermods access above bot roles, which’d then operate above botspace anyway), the fact the team is responsive and open to bug-fixing does shine a much brighter light on them.</p>\n<p>Once we’ve the demo fully working for guild, and we see our comments having been implemented and taken on board, I think we should go for it and use guild.</p>\n<p>great work <a class=\"mention\" href=\"/u/enti\">@enti</a></p>\n<p>PRAISEEEEEEEEEEE</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-07-26T20:45:48Z",
+   "updated_at": "2022-07-26T20:45:48Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"10\" data-topic=\"1081\" data-username=\"richa\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/4bbf92/40.png\" width=\"20\"/> richa:</div>\n<blockquote>\n<p>Are they currently able to aggregate a specific token holding across multiple wallets?</p>\n</blockquote>\n</aside>\n<p>Yes! You can link multiple wallets to a single discord account, that’s true for both guild and collab.land</p>\n<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"1081\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/f1d935/40.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>the fact the team is responsive and open to bug-fixing does shine a much brighter light on them.</p>\n</blockquote>\n</aside>\n<p>And totally agree! I felt quite engaged with them with just the way we were exchanging messages <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220815105448",
+    "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815105448",
+   "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815105448",
+   "url": "https://forum.tecommons.org/t/discord-token-holder-channel-and-token-gating-test/1081"
+  }
+ ]
+}

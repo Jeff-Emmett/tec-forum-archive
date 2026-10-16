@@ -1,0 +1,147 @@
+{
+ "id": 509,
+ "title": "Token Freeze & Token Thaw",
+ "slug": "token-freeze-token-thaw",
+ "category_id": 26,
+ "posts_count": 5,
+ "created_at": "2021-07-21T17:23:24.952Z",
+ "last_posted_at": "2021-09-20T22:53:29.041Z",
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-09-20T22:53:29Z",
+ "captured_between": [
+  "2022-08-15T05:01:24Z",
+  "2024-02-29T10:50:13Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-07-21T17:23:25Z",
+   "updated_at": "2021-08-20T17:36:40Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p><strong>Token Freeze &amp; Token Thaw</strong></p>\n<p>The Token Freeze and Token Thaw parameters describe a ‘vesting process’ for TEC token holders that is incorporated within the overall design strategy of the Augmented Bonding Curve.  The purpose of this vesting process is to provide stability for the TEC token during the early period of the ABCs existence.  This process permits enough time for economic activity to occur through the Bonding Curve before the tokens are released to the Backers and Builders of the community.</p>\n<p>With many token deployments, project Backers can sell their tokens immediately after liquidity becomes available and the Builders of those projects can sell their tokens after a certain deadline is reached. The Trusted Seed was designed to ensure that our Backers and Builders are value aligned with the mission of the TEC, and our vesting process is applied to all participants to ensure the long-term sustainability of the TEC economy.</p>\n<p>There are several benefits to this vesting process, and it’s important to understand as a value-aligned member what we are trying to accomplish with each of these parameters.<br/>\nWhen we combine the parameters of Opening Price, Token Freeze, and Token Thaw, we provide backers and builders a Price Floor value for our TEC token.  The Price Floor is the guaranteed minimum possible price at which TEC tokens may be priced at a specific point in time. Early buyers of TEC tokens benefit from the price floor in that their investment will never drop below a certain threshold amount, thus reducing the market risk inherent in the purchase of a digital asset.</p>\n<p>This type of information will inform Backers and Builders on the potential future value of their tokens, and incentivize economic activity to occur through the Bonding-Curve during the vesting process.</p>\n<p><img alt=\":arrow_down_small:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_down_small.png?v=9\" title=\":arrow_down_small:\"/></p>\n<p><strong>What is the Token Freeze?</strong></p>\n<p>The Token Freeze parameter is the amount of time in weeks that TEC tokens are locked within a smart-contract before they are released to token holders.  If you participated in the Hatch, or earned TEC tokens as a Builder of our community, your tokens will be locked for this period of time.</p>\n<p><strong>Implications &amp; Parameter Options</strong></p>\n<p>You will have the option to set the Token Freeze parameter to any number (of weeks) that you would like.</p>\n<p>The important implications to consider with this parameter concern the health and stability of the Augmented Bonding Curve.  If we allow enough time for the community to fund projects through the Common Pool and bring value to the TEC token through increased utility and speculation, we can provide a solid foundation for our economy to begin.  If we choose a small amount of time (4-16 weeks) we limit the amount of time for economic activity to occur through the Bonding Curve.  If we choose a large amount of time (208 weeks) we provide a significant amount of time for economic activity to occur through the Bonding Curve, but risk losing the interest and participation of our community Backers and limit that capital being available for use on secondary markets and other use-cases.</p>\n<p><strong>Related Parameters to consider when defining the Token Freeze parameter:</strong><br/>\nOpening Price, Token Thaw</p>\n<p><strong>Suggested Range:</strong><br/>\n24 - 76 weeks</p>\n<p><img alt=\":arrow_down_small:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_down_small.png?v=9\" title=\":arrow_down_small:\"/></p>\n<p><strong>What is the Token Thaw?</strong><br/>\nThe Token Thaw parameter is the amount of time it takes for 100% of the TEC tokens to be released to all token-holders.  The Token Thaw period begins at the end of the Token Freeze period, and continues to slowly release token-holders in a linear manner until all tokens are released from the Smart Contract.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nYou will have the option to set the Token Thaw parameter to any number (of weeks) you would like.</p>\n<p>The important implications of this parameter is that we are dictating the rate of release for TEC tokens to the community.  If we choose a small amount of time (2-16 weeks) we risk significant volatility for the price of the TEC token during that time period as more tokens are released and available to sell back into the Bonding Curve.  If we choose a large amount of time (208 weeks) we provide a slow and steady stream of tokens to be released, but limit that capital being available for use on secondary markets and other use-cases.</p>\n<p><strong>Related Parameters to consider when defining the Token Freeze parameter:</strong><br/>\nOpening Price, Token Thaw</p>\n<p><strong>Suggested Range:</strong><br/>\n24 - 76 weeks</p>\n<p><img alt=\":arrow_down_small:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_down_small.png?v=9\" title=\":arrow_down_small:\"/></p>\n<p>***As you can see – the Opening Price, Token Freeze, and Token Thaw parameters provide us with unique strategy combinations to incentivize participation, and establish the foundations for the long-term sustainability of the Augmented Bonding Curve.  Try different combinations of short token freeze, long token thaw, and vice-versa.  Having good variable options with this will allow us to have a good debate around these important parameters.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105013",
+    "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZER8",
+   "name": null,
+   "created_at": "2021-08-27T11:58:56Z",
+   "updated_at": "2021-08-27T11:58:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Great post <a class=\"mention\" href=\"/u/mount_manu\">@Mount_Manu</a>. It explains the processes involved in the Token Freeze and Token Thaw from A to Z and that’s very helpful for a newcomer like me.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105013",
+    "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-28T22:18:59Z",
+   "updated_at": "2021-08-28T22:18:59Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This was a dual effort, <a class=\"mention\" href=\"/u/mount_manu\">@Mount_Manu</a> set it up and <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> knocked it down. He deserves major praise for this post as well!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105013",
+    "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "mettodo",
+   "name": null,
+   "created_at": "2021-09-15T13:15:01Z",
+   "updated_at": "2021-09-15T13:15:01Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>During the Token Freeze period can Hatchers use TEC tokens for governance?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105013",
+    "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-09-15T13:52:32Z",
+   "updated_at": "2021-09-15T13:52:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Yes! If we vote on on any proposals, the voting power of your tokens will be taken into account, regardless if you cannot withdraw them yet.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105013",
+    "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-09-20T22:53:29Z",
+   "updated_at": "2021-09-20T22:53:29Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for this, write-up <a class=\"mention\" href=\"/u/mount_manu\">@Mount_Manu</a> and <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. To make smart decisions about freezing and thawing timelines and rates, I need a better understanding of how we expect “economic activity” from the ABC will eventually create demand for TEC tokens. I assume it basically: we invest in projects and that stake increases in value as the projects’ perceived utility grows.</p>\n<p>I haven’t seen any articulation about our assumptions about TEC’s economic value creation process. Is there a write-up somewhere? Understanding that more concretely will really help me in setting these parameters for long-term success.</p>\n<p>Got here from the link from <a href=\"https://commons-dashboard.netlify.app/\" rel=\"noopener nofollow ugc\">Commons Upgrade Dashboard</a>, which is awesome, BTW.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229105013",
+    "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220815050124",
+   "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204023344",
+   "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204023344",
+   "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530073438",
+   "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530073438",
+   "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229105013",
+   "url": "https://forum.tecommons.org/t/token-freeze-token-thaw/509/2"
+  }
+ ]
+}

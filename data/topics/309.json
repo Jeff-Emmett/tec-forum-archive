@@ -1,0 +1,175 @@
+{
+ "id": 309,
+ "title": "Updated Impact Hour Rate",
+ "slug": "updated-impact-hour-rate",
+ "category_id": 18,
+ "posts_count": 8,
+ "created_at": "2021-03-28T21:31:13.080Z",
+ "last_posted_at": "2021-06-11T10:06:17.743Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 9,
+ "last_archived_post_at": "2021-06-11T10:06:17Z",
+ "captured_between": [
+  "2022-11-26T23:40:42Z",
+  "2022-11-26T23:40:42Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-28T21:31:13Z",
+   "updated_at": "2021-03-30T12:33:30Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>It’s been a couple months since the original <a href=\"https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90\">Impact Hour Rate discussion</a> written by ygg. Since then there has been some signifcant changes to the formula and more clarity we can add to the relationship between funds raised, Impact Hours and the final Impact Hour Rate.</p>\n<p>In the current formula used to calculate the Impact Hour Rate(IHR) we have three variables:</p>\n<p><strong>x - Target Goal.</strong>  Total amount of funds raised or Expected amount of funds raised.</p>\n<p><strong>R - Max Impact Hour Rate.</strong> This is the hard cap on how much Impact Hours can be earned per wxDai contributed.</p>\n<p><strong>E - Impact Hour Slope.</strong> How much funds do we expect to raise per Impact Hour. A low number makes a more curved function, whereas a high number flattens the curve.</p>\n<p>In order to calculate our Impact Hour Rate we will plug these variables into this formula:</p>\n<p><img alt=\"impacthourRate\" data-base62-sha1=\"d7DuGGykFuxDhhjfNn6LmNPkjuf\" height=\"101\" src=\"https://forum.tecommons.org/uploads/default/original/1X/5bf94386727b89e439632c8383b861baae1aab0f.png\" width=\"312\"/></p>\n<p>The higher the Target Goal (x), the higher the hourly wage for Impact Hours(IHR) becomes. Additionally, the more funds that are raised, the lower the portion of tokens that go to pay for Impact Hours. These two properties mean working hatchers are incentivised to raise more funds, and funding hatchers are incentivised to invest more funds.</p>\n<p>EDIT March 30 - Formula error fixed, nice catch <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>  and <a class=\"mention\" href=\"/u/sem\">@sem</a> !</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-28T21:31:22Z",
+   "updated_at": "2021-03-28T21:31:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-29T18:42:49Z",
+   "updated_at": "2021-03-29T18:42:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-03-29T20:52:53Z",
+   "updated_at": "2021-03-29T20:52:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks for making this Mitch, this simple post is a major boost for simplicity and discoverability.</p>\n<p>I guess the denominator should be <code>x+E</code>. Also, just curious, why <code>E</code>?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-29T21:55:47Z",
+   "updated_at": "2021-03-29T21:55:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>great question! The latest info for the formula was extracted from this repo - <a class=\"inline-onebox\" href=\"https://github.com/TECommons/impact-hours-app\">GitHub - TECommons/impact-hours-app: Mints tokens for IH contributors at a rate dependent on amount of raised funds</a></p>\n<p>For the sake of continuity I did not change the placeholder variables.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-03-30T03:43:19Z",
+   "updated_at": "2021-03-30T03:43:19Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Excellent. For reference, I found the formal implentation here: <a class=\"inline-onebox\" href=\"https://github.com/TECommons/impact-hours-app/blob/6fc5a3578b1cd1f86bd369e50946450519d6dfc9/contracts/ImpactHours.sol#L75\" rel=\"noopener nofollow ugc\">impact-hours-app/ImpactHours.sol at 6fc5a3578b1cd1f86bd369e50946450519d6dfc9 · TECommons/impact-hours-app · GitHub</a></p>\n<p>I think it should be <code>x+E</code> in the denominator.</p>\n<p>I’m just thinking, it’s too bad that the impact hours are burned in exchange for the TEC tokens. Maybe we should mint NFT’s or something as well to represent the Impact Hour rankings. Or don’t burn the IHT.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-03-30T12:00:15Z",
+   "updated_at": "2021-03-30T12:00:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>You are right guys, the <code>+</code> sign disappeared when <a href=\"https://www.w3schools.com/tags/ref_urlencode.ASP\">URL encoding</a> the formula when transforming it to latex. I justfixed it with <a href=\"https://github.com/TECommons/impact-hours-app/commit/facb2334eab26e8fa78405f1e39c0695a0d0367d\">this commit</a>, thanks guys!</p>\n<p>The IHT are not really burned, what’s burned is a token snapshot, people keep the IH as a “souvenir”.</p>\n<p><strong>Be aware</strong>: <code>E</code> is what previously was <code>mH</code>. We can still derive <code>E</code> from <code>m</code> (expected raise per impact hour), but in order to introduce it into the contract we need to multiply it by all impact hours. We define <code>E</code> as:</p>\n<ul>\n<li>\n<code>E</code> : Expected raise, in which the rate is half the max rate. A low number makes a more curved function, whereas a high number flattens the curve.</li>\n</ul>\n<p>We were changing the name of the <code>m</code> parameter to “Impact Hour Slope”. For me we can use the previous formula and just obtain <code>E</code> from <code>E = mH</code>.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "markop",
+   "name": null,
+   "created_at": "2021-03-31T11:45:56Z",
+   "updated_at": "2021-03-31T11:45:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> Can you provide an example using the formula above?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-06-11T10:06:17Z",
+   "updated_at": "2021-06-11T10:06:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>is there a technical reason for IHT to be burnt?<br/>\nAs far as I’ve followed Trusted Seed &amp; Mandatory Membership in the Swiss Association is for Protecting Hatchers. Yet IHT are “intellectual investments”. There are many more reasons why TE IH were earnt other than building the technical infrastructure (of which the builders might also need legal protection).<br/>\nBut in no circumstances can one be legally pursued for eventually holding TEC tokens - hence there is no reason for burning them - other than wanting all to be members of the Association, which is not a necessity for having TE Impact.</p>\n<p>If anyone can point us to <em>why</em> the burn was devised would very much appreciate it</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126234042",
+    "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126234042",
+   "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126234042",
+   "url": "https://forum.tecommons.org/t/updated-impact-hour-rate/309"
+  }
+ ]
+}

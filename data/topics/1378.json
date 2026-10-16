@@ -1,0 +1,108 @@
+{
+ "id": 1378,
+ "title": "Results of TE Grants Round 4",
+ "slug": "results-of-te-grants-round-4",
+ "category_id": 32,
+ "tags": [
+  "round-results"
+ ],
+ "posts_count": 3,
+ "created_at": "2024-06-13T16:18:39.692Z",
+ "last_posted_at": "2024-08-14T12:32:07.771Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2024-08-14T12:32:07Z",
+ "captured_between": [
+  "2024-07-24T16:05:17Z",
+  "2024-11-10T18:38:29Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "iviangita",
+   "name": null,
+   "created_at": "2024-06-13T16:18:39Z",
+   "updated_at": "2024-06-13T16:18:39Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/ad3e3945782fbbe21d40b6697b37c553361cf84c\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ad3e3945782fbbe21d40b6697b37c553361cf84c.png\" title=\"TE Grants QF Round Spring 2024\"><img alt=\"TE Grants QF Round Spring 2024\" data-base62-sha1=\"oIzUNqH9yTzd98UJ2rtFiaCYRGc\" data-dominant-color=\"E1E6E2\" height=\"276\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/ad3e3945782fbbe21d40b6697b37c553361cf84c_2_690x276.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/ad3e3945782fbbe21d40b6697b37c553361cf84c_2_690x276.png, https://forum.tecommons.org/uploads/default/optimized/1X/ad3e3945782fbbe21d40b6697b37c553361cf84c_2_1035x414.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/ad3e3945782fbbe21d40b6697b37c553361cf84c_2_1380x552.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">TE Grants QF Round Spring 2024</span><span class=\"informations\">1500×600 241 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h2>\n<a class=\"anchor\" href=\"#about-the-round-1\" name=\"about-the-round-1\"></a>About the Round</h2>\n<p>During the past Gitcoin Grants Round 20 (Apri 23 to May 7), we had the fourth QF round of our TE Grants Program as a Gitcoin Community Round, funding came from TEC’s Common Pool and Gitcoin.</p>\n<h2>\n<a class=\"anchor\" href=\"#round-configuration-2\" name=\"round-configuration-2\"></a>Round Configuration</h2>\n<ul>\n<li>$50k matching pool</li>\n<li>15% matching cap</li>\n<li>2x coefficient multiplier for the TE Matching Boost, more details below</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#round-stats-3\" name=\"round-stats-3\"></a>Round Stats</h2>\n<ul>\n<li>32 projects</li>\n<li>554 unique donors</li>\n<li>1,619 contributions in total</li>\n<li>$9,365 raised from donors</li>\n<li>$16.90 average contribution</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#results-of-the-round-4\" name=\"results-of-the-round-4\"></a>Results of the Round</h2>\n<p>Here are the results of the round for the projects:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Project Name</th>\n<th>Payout in $TEC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Stack</td>\n<td>10,229.50</td>\n</tr>\n<tr>\n<td>The cadCAD Foundation</td>\n<td>7,634.60</td>\n</tr>\n<tr>\n<td>Trusted Seed: A value-driven community advancing Regen Economies</td>\n<td>7,391.80</td>\n</tr>\n<tr>\n<td>Bonding Curve Research Group (BCRG)</td>\n<td>7,201.90</td>\n</tr>\n<tr>\n<td>Super DCA: Innovating Decentralized Finance with Time-Weighted Average Market Making</td>\n<td>6,697.20</td>\n</tr>\n<tr>\n<td>Crypto Commons Association</td>\n<td>5,951.50</td>\n</tr>\n<tr>\n<td>Kairos Research</td>\n<td>5,085.50</td>\n</tr>\n<tr>\n<td>Streaming Quadratic Funding</td>\n<td>4,319.60</td>\n</tr>\n<tr>\n<td>Network of Trust</td>\n<td>3,120.80</td>\n</tr>\n<tr>\n<td>Gobying</td>\n<td>3,069.20</td>\n</tr>\n<tr>\n<td>DeFinomics Labs</td>\n<td>3,006.20</td>\n</tr>\n<tr>\n<td>Lived experience-based Weighted Voting Mechanism Design</td>\n<td>3,003.00</td>\n</tr>\n<tr>\n<td>Token Engineering Dialogues</td>\n<td>2,787.50</td>\n</tr>\n<tr>\n<td>Metrics Garden Labs</td>\n<td>2,744.10</td>\n</tr>\n<tr>\n<td>Change Code</td>\n<td>2,575.80</td>\n</tr>\n<tr>\n<td>$REGEN Tokenomics DAO</td>\n<td>2,550.10</td>\n</tr>\n<tr>\n<td>Breadchain Cooperative</td>\n<td>2,237.40</td>\n</tr>\n<tr>\n<td>Pairwise: Simplifying Choices, Amplifying Voices</td>\n<td>2,070.50</td>\n</tr>\n<tr>\n<td>CATTS, Composite Attestations</td>\n<td>1,846.50</td>\n</tr>\n<tr>\n<td>1Hive Gardens</td>\n<td>1,839.20</td>\n</tr>\n<tr>\n<td>EVMcrispr</td>\n<td>1,647.50</td>\n</tr>\n<tr>\n<td>Moos Modular Money Framework</td>\n<td>1,353.60</td>\n</tr>\n<tr>\n<td>Armitage</td>\n<td>1,133.30</td>\n</tr>\n<tr>\n<td>Turtleshell</td>\n<td>984.1</td>\n</tr>\n<tr>\n<td>Casually Looped</td>\n<td>892.5</td>\n</tr>\n<tr>\n<td>ProtocolGuardï¼šAI-Driven Exploring Potential Malicious Strategies in PAMMs &amp; SAMMs</td>\n<td>889.8</td>\n</tr>\n<tr>\n<td>Index Wallets</td>\n<td>804.9</td>\n</tr>\n<tr>\n<td>$EARTH - OSS</td>\n<td>598.6</td>\n</tr>\n<tr>\n<td>Tokenization for Inflation-Alleviation</td>\n<td>560</td>\n</tr>\n<tr>\n<td>SymVal</td>\n<td>440.8</td>\n</tr>\n<tr>\n<td>NERD DAO: Decentralized Science and Web3 Innovation</td>\n<td>348.2</td>\n</tr>\n<tr>\n<td>HonorCode</td>\n<td>212.9</td>\n</tr>\n</tbody>\n</table>\n</div><h1><a class=\"anchor\" href=\"#h-5\" name=\"h-5\"></a></h1>\n<p><strong><img alt=\":point_right:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/point_right.png?v=12\" title=\":point_right:\" width=\"20\"/> Read our <a href=\"https://gov.gitcoin.co/t/token-engineering-qf-grants-round-spring-2024-gg20-round-retro/18978\" rel=\"noopener nofollow ugc\">full round retro report</a> in the Gitcoin forum.</strong></p>\n<h2>\n<a class=\"anchor\" href=\"#next-round-6\" name=\"next-round-6\"></a>Next Round</h2>\n<p>Dates for the next round are still TBD, we’ll communicate them as soon as we finalise some details <img alt=\":robot:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=12\" title=\":robot:\" width=\"20\"/>.</p>\n<p>In the meantime, if you are a grantee interested in participating, or a project interested in sponsoring this or following rounds, please reach out to us via Discord or <a href=\"mailto:grants@tecommons.org\">grants@tecommons.org</a></p>\n<p>Any feedback on how can we improve is very much appreciated!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241110183829",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2024-06-14T01:05:52Z",
+   "updated_at": "2024-06-14T01:05:52Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>A H-U-G-E thank you to <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> for the excellent work she did as the Round Manager for this past TEC Gitcoin Round. (And a thanks to <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> for making space in the busy Commons Stack scheule so that Ivy could take this work on.) The TEC was in a crunch with Enti moving on and us really wanting to do this round. I just don’t think we could have done it without Ivy stepping in.</p>\n<p>Ivy not only did an excellent job in running the round itself (just look at the above stats - and check out that deeper report on the Gitcoin forum in the link above!), but she overhauled many of our processes to streamline them and set us up for smoother operations in all future rounds.</p>\n<p>Here’s to Ivy and this big contribution to the TEC! <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":fire:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=12\" title=\":fire:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":fire:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=12\" title=\":fire:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241110183829",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-06-20T19:10:39Z",
+   "updated_at": "2024-06-20T19:10:39Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’d also like to publicly thank <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> for the incredible work she did managing this round! Your dedication, care, initiative, and attention to detail have truly elevated the entire program and the TEC. As Gideon mentioned, this round wouldn’t have happened without you. These contributions have a lasting impact and will be felt for a long time.</p>\n<p>It has been such a joy collaborating with you, Ivy. Thank you for everything! <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":raised_hands:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=12\" title=\":raised_hands:\" width=\"20\"/> <img alt=\":orange_heart:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/orange_heart.png?v=12\" title=\":orange_heart:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241110183829",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "superdca",
+   "name": null,
+   "created_at": "2024-08-14T12:32:07Z",
+   "updated_at": "2024-08-14T12:32:07Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you, Team, for making this happen last quarter!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241110183829",
+    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724160517",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724160517",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20241110183829",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20241110183829",
+   "url": "https://forum.tecommons.org/t/results-of-te-grants-round-4/1378"
+  }
+ ]
+}

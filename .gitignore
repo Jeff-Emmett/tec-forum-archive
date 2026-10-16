@@ -1,5 +1,5 @@
-raw/
 __pycache__/
 site/
 *.pyc
 .venv/
+raw/*.log

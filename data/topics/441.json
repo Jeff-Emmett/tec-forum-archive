@@ -1,0 +1,143 @@
+{
+ "id": 441,
+ "title": "TEC Working Groups Weekly Update, June 18",
+ "slug": "tec-working-groups-weekly-update-june-18",
+ "category_id": 5,
+ "posts_count": 6,
+ "created_at": "2021-06-19T12:28:38.344Z",
+ "last_posted_at": "2021-06-27T22:01:55.032Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-06-27T22:01:55Z",
+ "captured_between": [
+  "2021-09-28T02:08:45Z",
+  "2021-09-28T02:08:45Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Suga",
+   "name": null,
+   "created_at": "2021-06-19T12:28:38Z",
+   "updated_at": "2021-06-28T07:34:18Z",
+   "reply_to_post_number": null,
+   "like_count": 12,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#friday-june-18-1\" name=\"friday-june-18-1\"></a><strong>Friday, June 18</strong>\n</h3>\n<p>Hi TEC. We’re excited to offer the first weekly update of Working Group highlights! Want to get updates in real time? Please join us for any Working Group call! <a href=\"https://https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&amp;ctz=Europe/Berlin\">Check out the calendar</a>.</p>\n<h3>\n<a class=\"anchor\" href=\"#comms-2\" name=\"comms-2\"></a><img alt=\":satellite:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/satellite.png?v=9\" title=\":satellite:\"/> Comms</h3>\n<ul>\n<li>NEW! Token Engineering Scouts (Wednesdays 7AM PST/4PM CET): just kicked off to be the liaison between the TEC community and other organizations in the ecosystem.</li>\n<li><a href=\"https://hackmd.io/8dt0fywVS9qmOswO-kOdIA?view\">Our C&amp;D Walkthrough</a></li>\n<li>We’re having a guest blog spot by Shermin Voshmgir!</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#commons-swarm-3\" name=\"commons-swarm-3\"></a><img alt=\":globe_with_meridians:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/globe_with_meridians.png?v=9\" title=\":globe_with_meridians:\"/> Commons Swarm</h3>\n<ul>\n<li>TEC is going to be a <a href=\"https://1hive.gitbook.io/gardens/\">1hive Garden</a> with one particularity: the Augmented Bonding Curve.</li>\n<li>Try the <a href=\"https://gardens-rinkeby.1hive.org/\">Gardens Demo</a> on Rinkeby.</li>\n<li>\n<strong>Forum Highlight</strong>: Check out <a href=\"https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327\">Commons Swarm Weekly Updates</a>.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#gravity-4\" name=\"gravity-4\"></a><img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=9\" title=\":dove:\"/> Gravity</h3>\n<ul>\n<li>Ddan hosted a session on NVC (non-violent communication) during last week’s Gravity call. <a href=\"https://docs.google.com/presentation/d/1rDKlZ7BGbsNxgspIJImmtP9t5aUCRW5hTZ-tl2W1ej8/edit#slide=id.gdf6144bc0d_0_14\">Check out the slides!</a>\n</li>\n<li>Durgadas is hosting a decolonization talk next for next Thursday’s Gravity call.</li>\n<li>Don’t be afraid to <a href=\"https://https://the-commons-stack.typeform.com/to/rCVsK5RK\">request support</a> to Gravity for prevention and management of conflicts.</li>\n<li>Help us to improve our processes by filling out the <a href=\"https://https://the-commons-stack.typeform.com/to/reUmcsJ6\">Gravity survey</a>!</li>\n<li>\n<strong>Forum Highlight</strong>: Follow <a href=\"https://https://forum.tecommons.org/t/easy-offboarding-process-rotation/300\">the easy rotation and offboarding</a> step by step if you need to  take some time for yourself.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#hatch-outreach-5\" name=\"hatch-outreach-5\"></a>🏄‍♂️ Hatch Outreach</h3>\n<ul>\n<li>\n<strong>Important!</strong> Impact Hours not associated with Trusted Seed membership will be irredeemable from the first day of the Hatch. (<a href=\"https://medium.com/commonsstack/trusted-seed-swiss-membership-scholarship-application-f2d07bc2fc90\">Scholarships for membership dues are available</a>.)</li>\n<li>Campaign to reach every individual with Impact Hours:\n<ul>\n<li>Outreach to every individual with &gt; 4 IH = done!</li>\n<li>Of those with &gt;10 IH, 75% have activated their Trusted Seed membership.</li>\n</ul>\n</li>\n<li>There was a kickoff meeting for the Token Engineering Scouts!</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#labs-6\" name=\"labs-6\"></a><img alt=\":microscope:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=9\" title=\":microscope:\"/> Labs</h3>\n<ul>\n<li>\n<strong>Modelpalooza with Sem:</strong> Sem has been modelling conviction voting, continuous issuance models for tokens and buy and sell impacts on a bonding curve, like in the diagram below.<br/>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/753703b1d5ad50fc6340b2095f545f4c29fbc151\" href=\"https://forum.tecommons.org/uploads/default/original/1X/753703b1d5ad50fc6340b2095f545f4c29fbc151.jpeg\" title=\"\"><img alt=\"\" data-base62-sha1=\"gIVJnv3FB2YX9I0J5e4p021VaHT\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/753703b1d5ad50fc6340b2095f545f4c29fbc151_2_10x10.png\" height=\"450\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/753703b1d5ad50fc6340b2095f545f4c29fbc151_2_690x450.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/753703b1d5ad50fc6340b2095f545f4c29fbc151_2_690x450.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/753703b1d5ad50fc6340b2095f545f4c29fbc151_2_1035x675.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/753703b1d5ad50fc6340b2095f545f4c29fbc151_2_1380x900.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">2020×1320 152 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n</li>\n<li>\n<strong>Ecosystem Value Flows and TEC Lab crossover episodes:</strong> the TEC Labs will offer a space for ecosystem value flows alumni to present their projects to mathematicians and systems modelers to form groups for future collaboration.</li>\n<li>\n<strong>Praise analysis:</strong> the Praise analysis continues. Mohammad has produced <a href=\"https://clusteringpraise.herokuapp.com/app\">an incredible interactive dashboard</a> to explore the praise data.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#legal-7\" name=\"legal-7\"></a><img alt=\":classical_building:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/classical_building.png?v=9\" title=\":classical_building:\"/> Legal</h3>\n<ul>\n<li>Added final params to all legal docs.</li>\n<li>Started working in the covenant.</li>\n<li>Looking into documentation for SourceCred and Celeste implementations.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#0mega-8\" name=\"0mega-8\"></a><img alt=\":dizzy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dizzy.png?v=9\" title=\":dizzy:\"/> 0mega</h3>\n<ul>\n<li>Our two current initiatives:\n<ul>\n<li><a>TE Consilience</a></li>\n<li><a>Ethos of Token Engineering</a></li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#params-9\" name=\"params-9\"></a><img alt=\":robot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=9\" title=\":robot:\"/> Params</h3>\n<ul>\n<li>Making great progress on the Commons Configuration Dashboard: <a href=\"https://docs.google.com/document/d/1fLqlfMyQgUr8U6zZogu9NyTFAU6GxrzrygZRrxVIg90/edit#heading=h.7auf81fxc1vg\">Design validataion</a> &amp; <a href=\"https://www.google.com/url?q=https://bondingcurve.herokuapp.com/app&amp;sa=D&amp;source=editors&amp;ust=1624018609156000&amp;usg=AOvVaw0Vbh4n7dhKxAtAwDRjKJMj\">Python backend</a>.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#soft-gov-10\" name=\"soft-gov-10\"></a><img alt=\":raised_hands:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/4.png?v=9\" title=\":raised_hands:t4:\"/> Soft Gov</h3>\n<ul>\n<li>Next steps to the praise analysis: meeting on Sunday at 8pm CET and on the next Soft Gov call on Tuesday at 7pm CET.</li>\n<li>\n<strong>Forum highlight</strong>: <a href=\"https://forum.tecommons.org/t/pre-hatch-impact-hours-distribution-analysis/376/39\">Lívia’s latest forum post on IH data analysis.</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#stewards-11\" name=\"stewards-11\"></a><img alt=\":ear_of_rice:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ear_of_rice.png?v=9\" title=\":ear_of_rice:\"/> Stewards</h3>\n<ul>\n<li>Countdown to hatch! As we near the Hatch, our Stewards are tracking each Working Group’s readiness. Once all Working Groups give the green light, we hatch!</li>\n</ul>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/f2a1b12729ea27f6d94392b1792e4c28c7717b75\" href=\"https://forum.tecommons.org/uploads/default/original/1X/f2a1b12729ea27f6d94392b1792e4c28c7717b75.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"yCpYdWtRgUWPPpvQO3b7KwW68Rf\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f2a1b12729ea27f6d94392b1792e4c28c7717b75_2_10x10.png\" height=\"449\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f2a1b12729ea27f6d94392b1792e4c28c7717b75_2_690x449.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f2a1b12729ea27f6d94392b1792e4c28c7717b75_2_690x449.png, https://forum.tecommons.org/uploads/default/original/1X/f2a1b12729ea27f6d94392b1792e4c28c7717b75.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/f2a1b12729ea27f6d94392b1792e4c28c7717b75.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">868×566 85.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<ul>\n<li>Some numbers on the TEC to date:\n<ul>\n<li>15 Stewards</li>\n<li>11 Working Groups</li>\n<li>400+ contributors</li>\n</ul>\n</li>\n<li>\n<strong>Forum highlight</strong>: TEC Visual explainers – check them out in our <a href=\"https://medium.com/token-engineering-commons/hatch-prep-and-what-you-can-do-to-help-42dd81ad183c?source=collection_home---4------0-----------------------\">last blog post</a>!</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#transparency-12\" name=\"transparency-12\"></a><img alt=\":male_detective:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/male_detective.png?v=9\" title=\":male_detective:\"/> Transparency</h3>\n<ul>\n<li>The <a href=\"https://docs.google.com/document/d/1hnwSQn4vxboxazraX2qPwa25bBBrvk3TpXsSDkXhqCM/edit\">TEC Code of Conduct for Different Platforms</a> is work in progress</li>\n<li>Pawa the record bot is available! To use the record bot on our Discord server:\n<ul>\n<li>!record in <span class=\"hashtag\">#recordings</span>\n</li>\n<li>!save afterwards</li>\n</ul>\n</li>\n<li>\n<strong>Forum highlight</strong>: <a href=\"https://forum.tecommons.org/t/credential-management/417\">Using JAM link as TEC credentials manager.</a>\n</li>\n</ul>\n<p>Thanks for reading! <img alt=\":blue_book:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/blue_book.png?v=9\" title=\":blue_book:\"/> Hope to see you on a call soon. <img alt=\":phone:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/phone.png?v=9\" title=\":phone:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "markop",
+   "name": null,
+   "created_at": "2021-06-19T13:02:54Z",
+   "updated_at": "2021-06-19T13:02:54Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/suga\">@Suga</a> great summary.</p>\n<p>The link for Mohammad praise analysis is broken, has one http:// to much I think.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Suga",
+   "name": null,
+   "created_at": "2021-06-19T15:31:39Z",
+   "updated_at": "2021-06-19T15:31:39Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks, <a class=\"mention\" href=\"/u/markop\">@markop</a> !</p>\n<p>And fixed. <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Suga",
+   "name": null,
+   "created_at": "2021-06-19T15:32:45Z",
+   "updated_at": "2021-06-19T15:32:45Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>(Truthfully though, the work was mostly Tam and the other stewards chiming in for their WGs. <img alt=\":stuck_out_tongue:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/stuck_out_tongue.png?v=9\" title=\":stuck_out_tongue:\"/> )</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Letty",
+   "name": null,
+   "created_at": "2021-06-19T17:02:52Z",
+   "updated_at": "2021-06-19T17:02:52Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for the summary <a class=\"mention\" href=\"/u/suga\">@Suga</a>! I was kind of  lost (in translation) this week <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-06-20T12:11:03Z",
+   "updated_at": "2021-06-20T12:11:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This is so nicee!<br/>\nLooking forward to have all the checks on the Hatch readiness &lt;3</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-06-27T22:01:55Z",
+   "updated_at": "2021-06-27T22:01:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Nice job peoples!!  Closer and closer to the Hatch.  Before you know it, the hatch will begin.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928020845",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928020845",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928020845",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-june-18/441"
+  }
+ ]
+}

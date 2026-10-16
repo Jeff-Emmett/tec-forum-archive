@@ -1,0 +1,207 @@
+{
+ "id": 887,
+ "title": "Create xDAI/TEC Secondary Market Liquidity - LASERTAG",
+ "slug": "create-xdai-tec-secondary-market-liquidity-lasertag",
+ "category_id": 7,
+ "posts_count": 11,
+ "created_at": "2022-02-17T18:08:09.050Z",
+ "last_posted_at": "2022-03-10T06:33:20.519Z",
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2022-03-10T06:33:20Z",
+ "captured_between": [
+  "2022-05-20T08:12:39Z",
+  "2022-05-20T08:12:39Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-17T18:08:09Z",
+   "updated_at": "2022-02-17T18:08:09Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey guys I don’t know if anyone noticed but our secondary market liquidity is bad, like really bad…</p>\n<p>we have somewhere around ~12k liquidity, mostly in the HNY/TEC pair but this is far from enough to have a healthy market.</p>\n<p>I would like to kickstart LASERTAG by using some of the TEC we have acquired to create an xDAI/TEC LP on honeyswap. Somewhere to the tune of 50k DAI worth of liquidity would be a good base I think for DAO owned liquidity.</p>\n<p>There’s a small issue however that LASERTAG currently does not have enough xDAI to create this LP on it’s own so we should swap our cheaply acquired TEC from the intial-buy, leveraging the tidy profit to create our LP.  This could use up a little over 20k TEC, about 16% of the TEC currently in <a href=\"https://gnosis-safe.io/app/gno:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA/balances\">LASERTAG</a></p>\n<p>If the community agrees with this move we’ll need to make three transactions on the multisig.</p>\n<ol>\n<li>Sell TEC for xDAI</li>\n<li>Approve TEC Spend</li>\n<li>Create TEC/xDAI LP</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-17T18:44:30Z",
+   "updated_at": "2022-02-17T18:51:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>After some rough simulations it would make the TEC price down around 2%, which is not that bad, but the question is why would we need more liquidity on honeyswap when we already have the bonding curve to offer liquidity I mean that’s the reason of the ABC and  actually is holding WDAI. How getting more stables would benefit the commons?</p>\n<p>I would rather explore a partnership with Gnosis, 1hive or Agave in that order that way we would benefit their liquidity and they would benefit our ABC. (We could reach and agreement and make that LP vested and with the same numbers we would have a 100k pool)</p>\n<p>*Just rumbling would love to have a deeper discussion</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-17T20:19:46Z",
+   "updated_at": "2022-02-17T20:19:46Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I think this proposal is pretty in line with what we set out with in the original initial buy-in proposal. I believe strongly that it is worthwhile to have some tethered secondary market liquidity to give the TEC a stake in the secondary market action</p>\n<p>I would be open in creating a pool in another token like TEC/WETH or TEC/WBTC or even TEC/HNY at any rate, we should get in there with a solid token pair! Even at 50k we still have a generous amount of TEC leftover to explore strategic partnerships.</p>\n<p>If you feel strongly about exploring these strategic partnerships I would invite you to take the initiative then.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-17T21:17:53Z",
+   "updated_at": "2022-02-17T21:17:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I don’t feel confident swaping wxdai for xdai at the cost of 2%~ on $TEC aiming to get liquidity on a secondary market  that being said  I would love to take wxdai from our reserve and convert it into WETH or WBTC to use it as liquidity.</p>\n<p>I definitely think it be cool to start conversations around strategic partnerships, but I feel those must start first on the TEC itself when we know what we want and what can we offer, we can go and negotiate <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/> I don’t mind hosting the space on a weekly call to discuss it if there is enough interest.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-02-17T21:34:20Z",
+   "updated_at": "2022-02-17T21:34:20Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yeah, I need to digest this a bit more. I think that the bigger issue here is that there just really isn’t much trading volume, period. We haven’t really focused on driving interest in $TEC, aside from the few days around the upgrade. Until there’s more awareness and interest, liquidity by itself isn’t going to do much. That’s my working hypothesis anyway.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-02-18T17:55:56Z",
+   "updated_at": "2022-02-18T17:55:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Instead of targeting $50k from Lasertag’s funds have you guys considered doing a DAO2DAO with 1Hive or any other TEC friend?</p>\n<p>Paul’s idea on a shared liquidity token may be worth exploring. <a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\" rel=\"noopener nofollow ugc\">Water💧 Shared Liquidity Proposal</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-19T20:14:50Z",
+   "updated_at": "2022-02-19T20:14:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I prefer a token swap with an aligned community or selling to a TE strategic partner for xDai. but I’d be down to sell some for xdai if those avenues don’t bear fruit.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-02-22T20:53:00Z",
+   "updated_at": "2022-02-22T20:53:00Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Are you referring to using the bonding curve’s collateral? what reserve are you referring to?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-23T09:50:16Z",
+   "updated_at": "2022-02-23T09:50:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>LASERTAG funds i didnt used the righ word <img alt=\":stuck_out_tongue:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/stuck_out_tongue.png?v=10\" title=\":stuck_out_tongue:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-03-09T17:11:30Z",
+   "updated_at": "2022-03-09T17:11:30Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey! <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> will be facilitating the Stewards’ Council tomorrow at 6PM CET on the subject of how to use LASERTAG funds. The agenda is here: <a href=\"https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit\">https://docs.google.com/document/d/1T1XxYQPHyAN6biQSlThLLeFO7Ihb8hidjJKd5MeKb7Y/edit</a> and it is open to all who care to join.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-03-10T06:33:20Z",
+   "updated_at": "2022-03-10T06:33:20Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Time change!</p>\n<p>The Stewards’ Council was moved. It will now happen on <strong>Friday the 11th at 7pm CET</strong>. All are, as always, still invited to join.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520081239",
+    "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520081239",
+   "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520081239",
+   "url": "https://forum.tecommons.org/t/create-xdai-tec-secondary-market-liquidity-lasertag/887"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 432,
+ "title": "The Hatch Live data",
+ "slug": "the-hatch-live-data",
+ "category_id": 10,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2021-06-17T05:48:10Z",
+ "last_archived_post_at": "2021-07-04T07:12:50Z",
+ "captured_between": [
+  "2021-09-28T01:57:36Z",
+  "2026-03-05T14:30:58Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2021-06-17T05:48:10Z",
+   "updated_at": "2021-06-17T05:48:10Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>Communication is key during The Hatch</strong></p>\n<p>As we approach the Hatch start, some memories from 2017/2018 come to my mind when I was involved in some ICO’s. I am proud of how things have been done and how they are evolving, all the work from the different WGs from the very beginning when we didn’t even have a webpage, a blog, or this forum to post have been great, but still, we need to be aware communication during the Hatch is critical.</p>\n<p>All of us believe in this project, it is clear that hatchers will be all known people who are either among the directly involved group or very close to it as only trusted seed members can join, but that doesn’t mean communicating how the Hatch phase is doing is not important.</p>\n<p>We all move by sensations and sentiments and momentum is an important part of those sentiments,   watching how the group effort keeps moving towards the initial goal (minimum goal) and grows beyond that towards the target goal to even exceed it is what we all want, and communicating that evolution in an easy, graphical and engaging way is also key to reach those goals.</p>\n<p>I propose we create a coms group to think about what, how, when, and where we communicate the data as it evolves during the hatch in a nice and engaging graphical way so everyone gets engaged, even those who can not invest as they are not part of the trusted seed, the success of our project also depends on those, who may have an influence towards the hatchers.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305143058",
+    "url": "https://forum.tecommons.org/t/the-hatch-live-data/432"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "markop",
+   "name": null,
+   "created_at": "2021-06-19T12:55:34Z",
+   "updated_at": "2021-06-19T12:55:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hmmm… thinking of a special page on our website “The Hatch” showing maybe:</p>\n<ul>\n<li>\n<span class=\"hashtag\">#of</span> hatchers x/y committed</li>\n<li>minimum goal % reached</li>\n<li>target goal % reached</li>\n<li>max goal</li>\n<li>time left till close</li>\n<li>transaction history?</li>\n<li>twitter feed pulling <span class=\"hashtag\">#techatch</span> tweets</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305143058",
+    "url": "https://forum.tecommons.org/t/the-hatch-live-data/432"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-07-04T07:12:50Z",
+   "updated_at": "2021-07-04T07:12:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/markop\">@markop</a>’s great list of criteria makes sense.  In addition to posting on the website we could probably  send out a summary on Telegram (and maybe Tweet?) each evening too.  It also makes sense to pin the latest posts I think.</p>\n<p>The community should have a clear notification where they can expect to find the latest update prior to the hatch starting.</p>\n<p>Great idea Santigs.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260305143058",
+    "url": "https://forum.tecommons.org/t/the-hatch-live-data/432"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928015736",
+   "url": "https://forum.tecommons.org/t/the-hatch-live-data/432"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260305143058",
+   "url": "https://forum.tecommons.org/t/the-hatch-live-data/432"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260305143058",
+   "url": "https://forum.tecommons.org/t/the-hatch-live-data/432"
+  }
+ ]
+}

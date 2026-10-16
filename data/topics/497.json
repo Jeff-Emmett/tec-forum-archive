@@ -1,0 +1,129 @@
+{
+ "id": 497,
+ "title": "Augmented Bonding Curve - An Introduction to the ABC",
+ "slug": "augmented-bonding-curve-an-introduction-to-the-abc",
+ "category_id": 26,
+ "posts_count": 3,
+ "created_at": "2021-07-13T02:11:00.052Z",
+ "views": 39,
+ "last_posted_at": "2021-09-05T21:18:07.711Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2021-09-05T21:18:07Z",
+ "captured_between": [
+  "2021-07-26T16:38:18Z",
+  "2025-06-18T11:24:20Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-07-13T02:11:00Z",
+   "updated_at": "2021-09-05T21:14:24Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#introduction-to-token-bonding-curves-1\" name=\"introduction-to-token-bonding-curves-1\"></a>Introduction to Token Bonding Curves</h2>\n<p>Token Bonding Curves are an emergent crypto-economic primitive that allow for tokens to be issued and destroyed on-demand following preset rules. The special mechanisms of this primitive allow a token to hold several important properties, the most important ones being:</p>\n<ol>\n<li>A dynamic supply: there is no limit to the amount of tokens that can be minted and every token can be burned to release collateral.</li>\n<li>A deterministic price: the price of tokens increase and decrease as tokens are minted and burned (respectively).</li>\n<li>Infinite liquidity: tokens can be bought or sold instantaneously at any time.</li>\n</ol>\n<p>Token Bonding Curves contain at least two distinct tokens: a reserve currency, and an asset token.</p>\n<p>The reserve currency can be anything but in our case, the Token Engineering Commons will be using wxDai (the ERC20 version of Dai on xDai worth ~ 1 USD) as our reserve currency, and the TEC token will be our asset token.</p>\n<p>These two tokens are mathematically linked and provide a relationship between the Token Supply of our asset token and the Token Price of our asset token.</p>\n<p>The asset token can be minted or burned (created or destroyed) by the bonding curve contract. When someone wants to purchase the asset token, they send the reserve currency to the contract and it mints the asset token. Likewise, when someone wants to sell the asset token back, the contract burns the token and returns the reserve currency.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/090182af723d76ae6a8474bd075691adcdc22688\" href=\"https://forum.tecommons.org/uploads/default/original/1X/090182af723d76ae6a8474bd075691adcdc22688.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"1hFx4yqae4y2qtuL7v1OypXD6n6\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/090182af723d76ae6a8474bd075691adcdc22688_2_10x10.png\" height=\"317\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/090182af723d76ae6a8474bd075691adcdc22688_2_624x317.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/090182af723d76ae6a8474bd075691adcdc22688_2_624x317.png, https://forum.tecommons.org/uploads/default/optimized/1X/090182af723d76ae6a8474bd075691adcdc22688_2_936x475.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/090182af723d76ae6a8474bd075691adcdc22688.png 2x\" width=\"624\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1213×617 57.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>A bonding curve contract acts as a counterparty of the transaction and always holds enough of the reserve currency to buy tokens back. As the number of minted tokens increase or decrease, so does the price of the token asset. The price moves along a mathematical curve which dictates each step up or down.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/6a2c824a2dee7e3cb909b9a47203509ba188511d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/6a2c824a2dee7e3cb909b9a47203509ba188511d.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"f9fYfKXsdo4Tqf5xrIlH9HRCUvX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a2c824a2dee7e3cb909b9a47203509ba188511d_2_10x10.png\" height=\"496\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a2c824a2dee7e3cb909b9a47203509ba188511d_2_624x496.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/6a2c824a2dee7e3cb909b9a47203509ba188511d_2_624x496.png, https://forum.tecommons.org/uploads/default/optimized/1X/6a2c824a2dee7e3cb909b9a47203509ba188511d_2_936x744.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/6a2c824a2dee7e3cb909b9a47203509ba188511d.png 2x\" width=\"624\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1200×954 37.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Curves can be built with several different function types. The mathematical curve that we select for our contract can provide us with many different curve shapes, each one altering the relationship between Reserve, Supply and Price.</p>\n<h2>\n<a class=\"anchor\" href=\"#our-token-bonding-curve-is-augmented-2\" name=\"our-token-bonding-curve-is-augmented-2\"></a>Our Token Bonding Curve is Augmented</h2>\n<p>Now that we have a good understanding of how bonding curves work, it is time to introduce the Augmented Bonding Curve (ABC) that will be implemented within the Token Engineering Commons. The ABC utilizes the early Bonding Curve designs and introduces additional mechanisms that will allow for us to create a method for raising funds for our organization and to align the incentives of all the stakeholders that participate within it!</p>\n<p>The ABC introduces three new components to the traditional bonding curve contract: a common pool, a token lockup mechanism, and inter-system feedback loops.</p>\n<p>The ABC is launched in two phases: the <em>Hatch Phase</em>, and the <em>Open Phase</em> with the <em>Commons Upgrade</em> acting as a transistion between the two.</p>\n<h3>\n<a class=\"anchor\" href=\"#hatch-phase-3\" name=\"hatch-phase-3\"></a>Hatch Phase</h3>\n<p>During the Hatch Phase, initial contributors (i.e. founding members of the organization, devoted contributors, initial investors or “Hatchers”) participate in a “Hatch” where the Hatchers pool their capital – in our deployment we use wxDai - to bootstrap our Commons by funding an initial goal.</p>\n<p>Their contribution goes into the Hatch DAO and the Hatchers receive non-transferable Hatch tokens which allow them to govern the DAO. After the Hatch is over the Hatchers, now that they know how much capital they have, will collaboratively design the Commons, including the ABC, and upgrade their DAO into a Commons.</p>\n<h3>\n<a class=\"anchor\" href=\"#commons-upgrade-4\" name=\"commons-upgrade-4\"></a>Commons Upgrade</h3>\n<p>In the Commons Upgrade, a portion of the funds collected in the Hatch is put into the Common pool to be used to fund the mission of the Commons, the rest is put into the Reserve and “bonded” to the curve (i.e. minting tokens and determining the Opening Price), effectively making one large buy to initialize the ABC. These tokens are then distributed pro-rata to the Hatch Token Holders, giving each Hatcher the same price.</p>\n<p>In a typical bonding curve system, these tokens could then be burned at any point or after an arbitrary temporal deadline. In an augmented bonding curve system, tokens minted during the Hatch Phase are frozen (burning and transfers are disabled).</p>\n<p>The purpose of the token freeze is to combat any harmful early speculation of the asset token before the Commons has time to initialize value creation. These tokens are frozen but can still be used in governance decisions. Early in the system, this token usage is critical to ensure the capital in the Common Pool is allocated to community initiatives that help grow the organization.</p>\n<h3>\n<a class=\"anchor\" href=\"#open-phase-5\" name=\"open-phase-5\"></a>Open Phase</h3>\n<p>In the Open Phase, anyone can mint tokens by sending wxDai to the ABC. Their contribution will go directly into the Reserve, minting transferable tokens that can be burned to release wxDai from the ABC or used to vote within the system.</p>\n<p>Whenever tokens are minted or burned, a tribute is applied. The tribute is a small percentage of the transaction sent to the Common Pool, funding of the commons. This means that even when token holders sell the system still benefits, even if speculators are just looking to make money.</p>\n<p>At some point during the Open Phase, the Hatcher’s frozen tokens slowly thaw until they are fully liquid and all tokens can be freely traded. Hopefully by this time, the value created by the Commons’ coordination will be clear and the economy will be stable.</p>\n<h2>\n<a class=\"anchor\" href=\"#collaborative-economics-choose-wisely-6\" name=\"collaborative-economics-choose-wisely-6\"></a>Collaborative Economics… Choose Wisely <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/>\n</h2>\n<p>Before the Commons Upgrade, you will be defining many different parameters that make this system possible.  It is important to evaluate those decisions against the broader goals illustrated within the design of the Augmented Bonding Curve system.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250618112420",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497/3"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "mettodo",
+   "name": null,
+   "created_at": "2021-09-01T13:07:04Z",
+   "updated_at": "2021-09-01T13:07:04Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for the explanation!</p>\n<ul>\n<li>Is there any other mechanism during the Open Phase other than the exit tribute to fund the Funding Pool ?</li>\n<li>Will asset Tokens be tradeable in exchanges?</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250618112420",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497/3"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-09-01T17:02:34Z",
+   "updated_at": "2021-09-01T17:02:34Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I will have some edits to this post, so please check back again.  To answer your questions:</p>\n<blockquote>\n<ul>\n<li>Is there any other mechanism during the Open Phase other than the exit tribute to fund the Funding Pool ?</li>\n</ul>\n</blockquote>\n<p>Along with the exit tribute, there is also an entry tribute to fund what we are now referring to as the Common Pool. Outside of direct donations and treasury management, the tributes are the only mechanisms that directly fund the Common Pool.</p>\n<blockquote>\n<ul>\n<li>Will asset Tokens be tradeable in exchanges?</li>\n</ul>\n</blockquote>\n<p>This will be decided by our community of TECH holders within the HatchDAO through the <a href=\"https://forum.tecommons.org/t/asset-token-transferability/495\">Transferability</a> parameter.  If the community decides that it will be transferrable, it will be available on secondary exchanges.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250618112420",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497/3"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-05T21:18:07Z",
+   "updated_at": "2021-09-05T21:18:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>It is very likely that the Commons will vote for projects that create other revenue streams… Maybe an NFT Factory that sells NFTs of research papers and a % of the funds go to the Common Pool and most goes to the Author of the Research.</p>\n<p>Or maybe we sell TE Scouts Cookies door to door <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20250618112420",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497/3"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210726163818",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497?u=satorid"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210726163931",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220327155135",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815050132",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204033458",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204033458",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250618112420",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497/3"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250618112420",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-an-introduction-to-the-abc/497/3"
+  }
+ ]
+}

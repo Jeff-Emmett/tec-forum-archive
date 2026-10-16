@@ -1,0 +1,621 @@
+{
+ "id": 327,
+ "title": "Commons Swarm - How are we doing?",
+ "slug": "commons-swarm-how-are-we-doing",
+ "category_id": 11,
+ "more_after": 20,
+ "posts_count": 24,
+ "created_at": "2021-04-07T19:23:32.336Z",
+ "views": 8411,
+ "last_posted_at": "2021-12-15T15:49:41.551Z",
+ "highest_post_number": 25,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 25,
+ "archived_numbers": 25,
+ "last_archived_post_at": "2021-12-15T15:49:41Z",
+ "captured_between": [
+  "2021-04-20T14:24:34Z",
+  "2024-12-13T14:28:21Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-04-07T19:23:32Z",
+   "updated_at": "2021-04-07T19:23:32Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - April 7th</h2>\n<p>Hi TEC! Through this thread we’ll be posting updates every Wednesday from how stuff is doing in the Commons Swarm. The main objective is to build a bridge between the TEC and 1Hive communities through the Commons Swarm, which is a united effort between both.</p>\n<p><strong>Some of this week’s advances:</strong></p>\n<ul>\n<li>\n<p>We announced an <a href=\"https://connect.aragon.org/\" rel=\"noopener nofollow ugc\">Aragon connector</a> for the <a href=\"https://github.com/TECommons/hatch-connector/tree/main/subgraph\" rel=\"noopener nofollow ugc\">hatch subgraph</a>. Our beloved <a class=\"mention\" href=\"/u/paulo\">@paulo</a> has put special attention in its documentation.</p>\n</li>\n<li>\n<p>1Hive is migrating!! Due to the implementation of Celeste, 1Hive has to be migrated to updated smart contracts. This is something very exciting because of what the process involves and we have a great learning opportunity in our sibling community. If you want to know more, check <a href=\"https://forum.1hive.org/t/deployment-of-honey-pot-and-celeste-contracts/2690?u=chuygarcia92\" rel=\"noopener nofollow ugc\">this thread</a> in 1Hive’s forum.</p>\n</li>\n<li>\n<p>We’re looking for publishers and distributors in TEC Comms! If you’re interested in contributing through content management please contact <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a>, <a class=\"mention\" href=\"/u/markop\">@markop</a> or <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>.</p>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Are you interested in boosting our Discord server? Discord offers better audio quality during calls when a certain boost level is reached, as well as custom emojis for the server. Check Discord Nitro out, you can contribute with a very accesible monthly membership to have more perks in our TEC server.</li>\n<li>\n<a href=\"https://medium.com/commonsstack/the-commons-simulator-game-is-live-e1986615a105\" rel=\"noopener nofollow ugc\">The Commons Simulator Game </a>: See if You Can Save the Future with cadCAD, RadicalxChange and the Commons Stack.</li>\n<li>\n<a class=\"mention\" href=\"/u/mzargham\">@mzargham</a>’s new post in the TEC Medium is mindblowing: <a href=\"https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018\" rel=\"noopener nofollow ugc\">Engineering Ethics in Web3</a>.</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting: 6:00 PM UTC @ <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-04-14T15:37:34Z",
+   "updated_at": "2021-04-14T15:37:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - April 14th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances:</p>\n<ul>\n<li>We closed the hatch and performed a <a href=\"https://forum.tecommons.org/t/commons-upgrade-vote-demo/331\">Commons Upgrade Vote</a>.</li>\n<li>We have advances on the <a href=\"https://params.tecommons.org/test-hatch?ihminr=5&amp;hs=0.02&amp;maxihr=0.02&amp;ihtr=25&amp;ihmaxr=500&amp;hor=0.03&amp;hpd=6&amp;her=1&amp;ht=5&amp;sr=80&amp;maq=1&amp;vdd=3&amp;vbh=4&amp;rqh=1&amp;tfx=5\" rel=\"noopener nofollow ugc\">Hatch Configuration Dashboard</a> (<a href=\"https://github.com/CommonsBuild/Token-Log-Hatch-Params\" rel=\"noopener nofollow ugc\">repo</a>). Make sure you check out our <a href=\"https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&amp;ctz=Europe/Berlin\" rel=\"noopener nofollow ugc\">Params Hack Sessions</a>, where we are working in modeling the 1Hive marketplace bonding curve.</li>\n<li>Working with 1Hive Gardens Swarm on the Gardens Template</li>\n<li>Adria Massanet’s Code Review is nearing completion, last step is to review the voting permissions.</li>\n<li>The Hatch Smart Contract will be used as an example of well written code for a college course!! Thank you Adria for this honor <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\">\n</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong> - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-04-21T16:57:23Z",
+   "updated_at": "2021-04-21T16:57:23Z",
+   "reply_to_post_number": 2,
+   "like_count": 1,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - April 21st</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have successfuly voted and migrated from a demo Hatch DAO to a <a href=\"https://forum.tecommons.org/t/commons-upgrade-vote-demo/331/6\">newer test DAO</a>. This is the mechanism we are going to use in the Hatch DAO to Commons DAO upgrade.</li>\n<li>Cultural build tribute is gone!!! This doesn’t exist in the hatch anymore, since ragequit was already giving that option to contributors.</li>\n<li>We added part of 1Hive redemptions app to the <a href=\"https://github.com/CommonsSwarm/tec-hatch/pull/83\" rel=\"noopener nofollow ugc\">hatch frontend</a> so people can redeem their tokens before the Commons Upgrade.</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>This <a href=\"https://forum.1hive.org/t/celeste-launch-and-next-steps/3446?u=chuygarcia92\" rel=\"noopener nofollow ugc\">1Hive forum post</a> talks about the future steps for Celeste, it’s a great post by <a class=\"mention\" href=\"/u/lkngtn\">@lkngtn</a> and an amazing achievement for the whole 1Hive community!</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-04-28T19:05:47Z",
+   "updated_at": "2021-04-28T19:10:53Z",
+   "reply_to_post_number": 3,
+   "like_count": 1,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - April 28th</h2>\n<ul>\n<li>Implementing the new front-design for the three types of <a href=\"https://www.figma.com/file/A1kXJxalyebWhNmREWcTVg/TEC-HoneyPot?node-id=213%3A2560\" rel=\"noopener nofollow ugc\">Hatch Goals</a><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/a9d3d712f5c31490e76022c747763d638670abc0.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/a9d3d712f5c31490e76022c747763d638670abc0\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a9d3d712f5c31490e76022c747763d638670abc0_2_690x379.jpeg\" alt=\"\" data-base62-sha1=\"oemyAyEKdgUDQ3Q39OLHM8hP236\" width=\"690\" height=\"379\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a9d3d712f5c31490e76022c747763d638670abc0_2_690x379.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/a9d3d712f5c31490e76022c747763d638670abc0_2_1035x568.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/a9d3d712f5c31490e76022c747763d638670abc0.jpeg 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a9d3d712f5c31490e76022c747763d638670abc0_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1164×640 44 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n</li>\n<li>We are doing a ragequit demo with the community, testing the integration of 1Hive redemptions app into the hatch frontend.</li>\n<li>We have an <a href=\"https://forum.tecommons.org/t/impact-hour-rate-deep-dive/90/17\">open discussion</a> to redefine the impact hour formula parameters, so they can be more user friendly while still remain mathematically simple and functional.</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>MVV Results!</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! (1Hive Discord Server)</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-05-05T17:42:10Z",
+   "updated_at": "2021-05-05T17:47:15Z",
+   "reply_to_post_number": 4,
+   "like_count": 0,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - May 5th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>Aragon Connect is fixed for xDai!\n<ul>\n<li>\n<a href=\"https://github.com/1Hive/connect/pull/11\" rel=\"noopener nofollow ugc\">Code readability improvements</a>.</li>\n<li>\n<a href=\"https://github.com/1Hive/connect/pull/12\" rel=\"noopener nofollow ugc\">Fixed normalizer function</a> for ethersProvider.</li>\n</ul>\n</li>\n<li>Play with our latest <a href=\"https://hatch-demo.netlify.app/\" rel=\"noopener nofollow ugc\">Hatch Demo</a>!\n<ul>\n<li>\n<a href=\"https://github.com/CommonsSwarm/tec-hatch/pull/92\" rel=\"noopener nofollow ugc\">Front-end polishing</a>: theme and style fixes and responsive view implementation.</li>\n<li>\n<a href=\"https://github.com/CommonsSwarm/hatch-connector/pull/19\" rel=\"noopener nofollow ugc\">Hatch connector</a> reliability improvements fixing some bugs that appeared when sending transactions.</li>\n<li>\n<a href=\"https://github.com/CommonsSwarm/tec-hatch/pull/89\" rel=\"noopener nofollow ugc\">Add support to EIP-3085</a>, allowing the addition of the xDAI network to the wallet with just one click.</li>\n<li>This is the timeline for this demo:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ed7ede794f309f5a9ac798b701d102420e0520de.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/ed7ede794f309f5a9ac798b701d102420e0520de\" title=\"demo timeline\"><img src=\"https://forum.tecommons.org/uploads/default/original/1X/ed7ede794f309f5a9ac798b701d102420e0520de.png\" alt=\"demo timeline\" data-base62-sha1=\"xSYYwlKS7iRvpoGmDv4utNgtN7M\" width=\"690\" height=\"302\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ed7ede794f309f5a9ac798b701d102420e0520de_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">demo timeline</span><span class=\"informations\">733×321 17.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n</li>\n</ul>\n</li>\n<li>\n<a href=\"https://github.com/CommonsSwarm/hatch-template/pull/7\" rel=\"noopener nofollow ugc\">Smart contract changes</a> to avoid creating votes during the hatch period or the closing/refund period.\n<ul>\n<li>It uses an AragonOS ACL <a href=\"https://hack.aragon.org/docs/aragonos-ref.html#parameter-interpretation\" rel=\"noopener nofollow ugc\">TIMESTAMP</a> parameter.</li>\n<li>We updated the <a href=\"https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226/7\">Implementation Specification</a> to reflect that change.</li>\n<li>All contracts have been <a href=\"https://forum.1hive.org/t/contract-verification-party/3369/8\" rel=\"noopener nofollow ugc\">validated</a> on blockscout and pinned to IPFS.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>\n<strong>DEMO THE <a href=\"https://hatch-demo.netlify.app/\" rel=\"noopener nofollow ugc\">HATCH</a>!!!</strong> Seriously, you can’t miss it!</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting <span class=\"mention\">@6</span>:00 PM UTC - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-05-12T20:22:43Z",
+   "updated_at": "2021-05-17T21:03:45Z",
+   "reply_to_post_number": 5,
+   "like_count": 0,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - May 12th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We’d like to give a warm welcome to <a href=\"https://github.com/marthendalnunes\" rel=\"noopener nofollow ugc\">Vitor</a>, <a href=\"https://github.com/mendesfabio\" rel=\"noopener nofollow ugc\">Fabio</a> and <a href=\"https://github.com/PabloCGL\" rel=\"noopener nofollow ugc\">Nuggan</a> who are joining the Commons Swarm team.\n<ul>\n<li>Vitor has been working really hard in the dashboard we’re currently using to pick our params. He’s a python wizard!</li>\n<li>Fabio has done magic on the <a href=\"https://github.com/commons-stack/commons-simulator\" rel=\"noopener nofollow ugc\">Commons Simulator</a> and is collaborting with Balancer.</li>\n<li>Nuggan is a junior dev that has recently joined efforts with the dashboard team. We’re looking forward to more of your valuable contributions!</li>\n</ul>\n</li>\n<li>Our new members will be working on the front-end for the Augmented Bonding Curve dApp!</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Join the Hatch Params DEBATES! And VOTE!</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-05-20T14:49:23Z",
+   "updated_at": "2021-05-20T14:56:27Z",
+   "reply_to_post_number": 6,
+   "like_count": 1,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - May 19th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have a date for the (hopefully😅) final Test Hatch:</li>\n</ul>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/169ac10ed1fda13f621300a5ba227841a4fc9498.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/169ac10ed1fda13f621300a5ba227841a4fc9498\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/169ac10ed1fda13f621300a5ba227841a4fc9498_2_608x500.jpeg\" alt=\"\" data-base62-sha1=\"3dY3WhB7HB1KH0WimNyAFVhyV6w\" width=\"608\" height=\"500\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/169ac10ed1fda13f621300a5ba227841a4fc9498_2_608x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/169ac10ed1fda13f621300a5ba227841a4fc9498_2_912x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/169ac10ed1fda13f621300a5ba227841a4fc9498_2_1216x1000.jpeg 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/169ac10ed1fda13f621300a5ba227841a4fc9498_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1280×1052 73.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<ul>\n<li>We at the Commons Swarm are prepared for this exciting stage and tweaking the final touches for our front ends.\n<ul>\n<li>Adding final text and video</li>\n<li>Testing built-in feedback form</li>\n<li>Adding FAQ trees</li>\n<li>More confetti tests, why not?</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>The Gardens MVP is almost ready! Fabi and <a class=\"mention\" href=\"/u/paulo\">@paulo</a> from our team have been contributing to this cause. We plan to build the Commons Template on top of Gardens, so this is a big achievment for the 1Hive community and we encourage you to follow this exciting progress in the 1Hive forum and the Discord server.</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-05-26T17:04:19Z",
+   "updated_at": "2021-05-26T17:09:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>Wednesday’s Weekly Commons Update - May 26th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have release candidates for all the hatch smart contracts. They are currently being reviewed and next week we’re planning a rehearsal with the parameters that end up winning the vote on June 1st.\n<ul>\n<li>\n<a href=\"https://hackmd.io/QijHpCIiR6uZXktbIfZI7g#Commons-Swarm-Apps\" rel=\"noopener nofollow ugc\">Contracts</a> are verified and the last versions of the apps have been pinned to IPFS.</li>\n</ul>\n</li>\n<li>We also have the last version of the <a href=\"https://blockscout.com/xdai/mainnet/address/0xe98e5EaA7c8707F9F55f6e1d5cF22166f2BeE0a3/transactions\" rel=\"noopener nofollow ugc\">Hatch Template</a>!</li>\n<li>We have new logos for our Commons Swarm apps! <span class=\"mention\">@fioreb</span> has contributed with these beautiful logos and we’d like to praise her a ton for it!</li>\n</ul>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/531d1c2b9f16d0a8b59c56bb8d659b298ed57604.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/531d1c2b9f16d0a8b59c56bb8d659b298ed57604\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/531d1c2b9f16d0a8b59c56bb8d659b298ed57604_2_690x194.jpeg\" alt=\"\" data-base62-sha1=\"bRfZSov6tkkEPlnIukOGHg80pyA\" width=\"690\" height=\"194\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/531d1c2b9f16d0a8b59c56bb8d659b298ed57604_2_690x194.jpeg, https://forum.tecommons.org/uploads/default/original/1X/531d1c2b9f16d0a8b59c56bb8d659b298ed57604.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/531d1c2b9f16d0a8b59c56bb8d659b298ed57604.jpeg 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/531d1c2b9f16d0a8b59c56bb8d659b298ed57604_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">926×261 27.7 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Come to the debates!! We’re almost there!</li>\n</ul>\n<h4>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-06-02T22:27:21Z",
+   "updated_at": "2021-06-02T22:32:29Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-june-2nd-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-june-2nd-1\"></a>Wednesday’s Weekly Commons Update - June 2nd</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We put together a dress rehearsal for the Hatch with the params from <span class=\"hashtag\">#83</span>. Go ahead and <a href=\"https://hatch.tecommons.org/\" rel=\"noopener nofollow ugc\">give it a try</a>!\n<ul>\n<li>If you are a CSTK token holder now you have some <a href=\"https://blockscout.com/xdai/mainnet/tokens/0x9556e84520978032B52b4ea6aF068d46B21252Ff/token-holders\" rel=\"noopener nofollow ugc\">test DAI</a> so you can participate in these final tests.</li>\n</ul>\n</li>\n<li>We have extracted and adapted 1hive’s marketplace bonding curve into the <a href=\"https://github.com/CommonsSwarm/bancor-market-maker\" rel=\"noopener nofollow ugc\">Bancor Market Maker repo</a> to be used independently, which is much easier to install.</li>\n<li>Adria is still reviewing our smart contracts, which brings us to <a class=\"mention\" href=\"/u/sem\">@sem</a>’s meme:</li>\n</ul>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/b76ca2119d6ff27bc64654ffb3b629e87483574e.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/b76ca2119d6ff27bc64654ffb3b629e87483574e\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/b76ca2119d6ff27bc64654ffb3b629e87483574e_2_486x500.png\" alt=\"\" data-base62-sha1=\"qaE7AufNAN350RnvIKrRGQudFrE\" width=\"486\" height=\"500\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/b76ca2119d6ff27bc64654ffb3b629e87483574e_2_486x500.png, https://forum.tecommons.org/uploads/default/original/1X/b76ca2119d6ff27bc64654ffb3b629e87483574e.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/b76ca2119d6ff27bc64654ffb3b629e87483574e.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/b76ca2119d6ff27bc64654ffb3b629e87483574e_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">500×514 170 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Proposal <span class=\"hashtag\">#83</span> will be our params officially! Make sure you try out the hatch dress rehearsal before we open the real hatch!</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-06-09T18:46:00Z",
+   "updated_at": "2021-06-09T18:55:24Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-june-9th-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-june-9th-1\"></a>Wednesday’s Weekly Commons Update - June 9th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>The dress rehearsal hatch reached 1M tDAI! <em>Drops confetti</em>. The new demo has a different video (the final one will be ready during the official hatch) and the final description with a FAQ section.</li>\n<li>We are working towards making the Commons (organizations using the <a href=\"https://medium.com/giveth/the-commons-stack-scaling-the-commons-to-re-prioritize-people-and-the-planet-fdc076aec4eb\" rel=\"noopener nofollow ugc\">Commons Stack pattern</a>) to be fully compatible with <a href=\"https://1hive.gitbook.io/gardens/\" rel=\"noopener nofollow ugc\">Gardens</a>.\n<ul>\n<li>The Commons Upgrade will be a vote that change a Garden internally.</li>\n<li>This means that TEC will be a fully-featured Garden appearing within <a href=\"https://gardens-rinkeby.1hive.org/\" rel=\"noopener nofollow ugc\">1hive’s future website</a>.</li>\n</ul>\n</li>\n<li>\n<a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a> <a href=\"https://github.com/CommonsSwarm/tec-convert/pull/24\" rel=\"noopener nofollow ugc\">has been working</a> on the frontend for <a href=\"http://convert.tecommons.org\" rel=\"noopener nofollow ugc\">convert.tecommons.org</a>:\n<ul>\n<li>It now takes into account the entry and exit tributes to calculate the price.</li>\n<li>It also protects users if the indicated price drops below an accepted slippage when converting.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Our <a href=\"https://colab.research.google.com/drive/159f6w8FhLz4zi0FROdamkUpUWCxye3Uu\" rel=\"noopener nofollow ugc\">conviction voting dashboard demo</a>. We’ll be sharing an improved version with its respective documentation next week.</li>\n<li>\n<a href=\"https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409\">Using Celeste as TE Commons arbitrator</a> (vote).</li>\n<li>\n<a href=\"https://forum.1hive.org/t/making-sense-of-the-threshold-formula-in-conviction-voting/3870\" rel=\"noopener nofollow ugc\">Making sense of the threshold formula in Conviction Voting</a>.</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>!</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-06-16T22:25:46Z",
+   "updated_at": "2021-06-16T22:30:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-june-16th-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-june-16th-1\"></a>Wednesday’s Weekly Commons Update - June 16th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>\n<p>It’s official! Our Commons (being TEC the first) are going to be <a href=\"https://1hive.gitbook.io/gardens/\" rel=\"noopener nofollow ugc\">1hive Gardens</a> with one particularity: the Augmented Bonding Curve.</p>\n</li>\n<li>\n<p>From the Gardens side there are two major upgrades that made it possible:</p>\n<ul>\n<li>\n<span class=\"mention\">@eduadiez</span> has upgraded the <a href=\"https://medium.com/giveth/the-minime-token-open-sourced-by-giveth-2710c0210787\" rel=\"noopener nofollow ugc\">MiniMe token</a> contract (<a href=\"https://github.com/1Hive/minime/pull/1\" rel=\"noopener nofollow ugc\">PR</a>). It now supports <code>permit</code> and <code>transferWithAuthorization</code>.</li>\n<li>\n<span class=\"mention\">@willjgriff</span> adapted the Gardens Template to use it. Also, from now on it is not mandatory to request the garden token on conviction voting proposals (<a href=\"https://github.com/1Hive/gardens/pull/167\" rel=\"noopener nofollow ugc\">PR</a>).</li>\n</ul>\n</li>\n<li>\n<p>From the ABC side we have advanced on the <a href=\"https://forum.tecommons.org/t/pseudo-code-and-permission-tables-for-the-commons-upgrade/431\">Commons Upgrade script</a>, having the first pseudo-code. We also have been adapting the <em>tec-convert</em> to use directly the <a href=\"https://github.com/CommonsSwarm/bancor-market-maker\" rel=\"noopener nofollow ugc\">bancor market maker app</a>.</p>\n</li>\n<li>\n<p>This is how TECommons garden looks like among the rest of the 1hive gardens <img src=\"https://forum.tecommons.org/images/emoji/win10/star_struck.png?v=9\" title=\":star_struck:\" class=\"emoji\" alt=\":star_struck:\">:</p>\n</li>\n</ul>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/979c187595314cf99d5f4462d8ed25d69a9ae637.jpeg\" data-download-href=\"https://forum.tecommons.org/uploads/default/979c187595314cf99d5f4462d8ed25d69a9ae637\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/979c187595314cf99d5f4462d8ed25d69a9ae637_2_690x348.jpeg\" alt=\"\" data-base62-sha1=\"lDcwVVy0BarqffIaDW64YAndGBh\" width=\"690\" height=\"348\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/979c187595314cf99d5f4462d8ed25d69a9ae637_2_690x348.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/979c187595314cf99d5f4462d8ed25d69a9ae637_2_1035x522.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/979c187595314cf99d5f4462d8ed25d69a9ae637_2_1380x696.jpeg 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/979c187595314cf99d5f4462d8ed25d69a9ae637_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1900×961 128 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Try the <a href=\"https://gardens-rinkeby.1hive.org\" rel=\"noopener nofollow ugc\">Gardens Demo on Rinkeby</a>\n</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "blazingthirdeye",
+   "name": "David Dyor",
+   "created_at": "2021-06-17T18:38:13Z",
+   "updated_at": "2021-06-17T18:38:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Wow this interface looks good folks!  Going to get a lot of fans once this drops.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-06-24T00:03:07Z",
+   "updated_at": "2021-06-24T00:03:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-june-23rd-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-june-23rd-1\"></a>Wednesday’s Weekly Commons Update - June 23rd</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have been working on improving <a href=\"https://colab.research.google.com/drive/1sT28zznQA_fMaQ_nIG6JhIVoOkV5Lx2a\" rel=\"noopener nofollow ugc\">Conviction Voting</a> and <a href=\"https://colab.research.google.com/drive/1scs5HH4bIAp43R_CskmkIKd2IZaWUImO\" rel=\"noopener nofollow ugc\">Augmented Bonding Curve</a> models.</li>\n<li>Regarding the Commons Upgrade, we’ve been developing a <em>work-in-progress</em> library to make the creation of EVMScript votes much easier. In <a href=\"https://forum.tecommons.org/t/pseudo-code-and-permission-tables-for-the-commons-upgrade/431/2\">this sneak peak of code</a> you can see how easy it will be to upgrade a Gardens into a Commons.</li>\n<li>We continued the work on <a href=\"http://convert.tecommons.org\" rel=\"noopener nofollow ugc\">TEC Convert</a> (Augmented Bonding Curve frontend) simplifying the interface even more.</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Parameters Working Group has been working on some specifications that will eventually become part of the <strong>Commons Dashboard</strong>, a new super-tool useful for picking parameters in the Commons Upgrade:\n<ul>\n<li>\n<a href=\"https://hackmd.io/Hj7pp7ZTQGmROC6zNDD1tg\" rel=\"noopener nofollow ugc\">Conviction Voting parameter selection</a>.</li>\n<li>\n<a href=\"https://hackmd.io/eUoBVMjcSzO_dynDEMpMUw\" rel=\"noopener nofollow ugc\">Price floor and token thaw parameter selection</a>.</li>\n<li>\n<a href=\"https://hackmd.io/Qey8zQxaRUyY_o4SLi-kBA\" rel=\"noopener nofollow ugc\">Augmented Bonding Curve parameter selection</a>.</li>\n</ul>\n</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-07-07T18:17:23Z",
+   "updated_at": "2021-07-07T18:59:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-june-30th-to-july-7th-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-june-30th-to-july-7th-1\"></a>Wednesday’s Weekly Commons Update - June 30th to July 7th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>The <a href=\"https://forum.tecommons.org/t/hatch-dress-rehearshal-recap/471\">dress rehearsal recap</a> summarizes the process of test tokens going through the smart contracts: mintings, impact hours, ragequitting, and the “commons” upgrade.</li>\n<li>We have a new version of <a href=\"https://convert-rinkeby.tecommons.org/\" rel=\"noopener nofollow ugc\">TEC Convert</a>.\n<ul>\n<li>Uses the new simplified <a href=\"https://github.com/commonsswarm/bancor-market-maker\" rel=\"noopener nofollow ugc\">contract</a>.</li>\n<li>Applies entry and exit tributes.</li>\n<li>Uses virtual supply and virtual balance in the calculations.</li>\n<li>Uses the minimum return amount, so the transaction fails if the slippage is excessive.</li>\n</ul>\n</li>\n<li>\n<a href=\"https://github.com/CommonsSwarm/EVMcrispr\" rel=\"noopener nofollow ugc\">EVMcrispr</a> is a library to generate EVMscripts for DAOs to modify themselves, changing their properties, or even their own code. <a class=\"mention\" href=\"/u/paulo\">@paulo</a> has been implementing it and it’s almost functional, so expect news soon <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\">\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>We’re almost done with IH quant votes, make your opinion matter! <a href=\"https://tokenlog.xyz/CommonsBuild/IH-intervention\" rel=\"noopener nofollow ugc\">VOTE</a>!</li>\n<li>Our hatch opens SOON! Stay in the loop <img src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\" class=\"emoji\" alt=\":wink:\">\n</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-08-05T13:22:39Z",
+   "updated_at": "2021-08-05T13:22:39Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-july-14th-to-august-4th-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-july-14th-to-august-4th-1\"></a>Wednesday’s Weekly Commons Update - July 14th to August 4th</h2>\n<p><strong>Hi TEC!</strong> These are some of this week’s advances in the Commons Swarm:</p>\n<ul>\n<li>\n<a href=\"https://hatch.tecommons.org\" rel=\"noopener nofollow ugc\">The hatch is finally released</a>. This is the first huge and harder milestone for the Commons Swarm, and we are proud that everything is working as expected.</li>\n<li>The team continue working towards the Commons Upgrade after the hatch. This includes the migration of the Hatch DAO into a 1hive Gardens and the replacement of a bonding curve instead of the dynamic issuance policy.</li>\n<li>We’re preparing a series of articles with the outcomes of work that has been done in the swarm for the last 10 months.</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Check our <a href=\"https://nft.tecommons.org/\" rel=\"noopener nofollow ugc\">Hatch Bot NFT</a>! The top 10 contributors will have access to this limited edition.</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-09-01T15:32:47Z",
+   "updated_at": "2021-09-01T15:32:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a name=\"wednesdays-monthly-commons-update-august-5th-to-september-1st-1\" class=\"anchor\" href=\"#wednesdays-monthly-commons-update-august-5th-to-september-1st-1\"></a>Wednesday’s Monthly* Commons Update - August 5th to September 1st</h2>\n<p><strong>Hi TEC!</strong> These are some of last month’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have released documentation on <a href=\"https://forum.1hive.org/t/commons-swarm-outcomes-1-3-a-plug-and-play-bonding-curve/4298\" rel=\"noopener nofollow ugc\">how to install the Augmented Bonding Curve</a> in any Aragon or Gardens DAO. It’s only available on Rinkeby for now, but we will publish it on xDAI mainnet as soon as the code is sufficiently reviewed.</li>\n<li>We also have released the alpha version of EVMcrispr. It’s still not completely functional and there are not so many examples, but we’re very excited for the potential its <a href=\"https://commonsswarm.github.io/EVMcrispr/\" rel=\"noopener nofollow ugc\">current version</a> shows. Praise to <a class=\"mention\" href=\"/u/paulo\">@paulo</a> for these updates!\n<ul>\n<li>EVMcrispr is a tool that allows a DAO’s DNA to be changed. It will be used to change parameters in DAOs if the community finds this convenient. It also can be used to completely reshape a DAO as we are going to do with the <a href=\"https://forum.tecommons.org/t/pseudo-code-and-permission-tables-for-the-commons-upgrade/431\">Commons Upgrade</a>.</li>\n<li>\n<a href=\"http://agave.finance\" rel=\"noopener nofollow ugc\">Agave</a> already adopted EVMCrispr to encode the votes they perform in their DAO. In a soon-to-be-published article we will expose some of these examples.</li>\n<li>\n<a href=\"http://gardens.1hive.org\" rel=\"noopener nofollow ugc\">Gardens</a> is also going to include an EVMcrispr command language (evmcl) console for each Garden in order to perform changes in the DAOs.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Are you a hatcher? We have <a href=\"https://poap.delivery/hatch-tech-holder\" rel=\"noopener nofollow ugc\">another POAP</a> for you <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\">\n</li>\n<li>It’s Params September! Stay in the loop in the TEC social media to learn more about the parameters we will be voting on for the Commons Upgrade.</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-09-08T21:03:43Z",
+   "updated_at": "2021-09-23T18:27:16Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-september-2-8-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-september-2-8-1\"></a>Wednesday’s Weekly Commons Update - September 2-8</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We presented a <a href=\"https://github.com/1Hive/voting-connectors/pull/2\" rel=\"noopener nofollow ugc\">design and some yet-to-be-tested code</a> for a Hooked Voting Aggregator that allows to have multi-token Commons/Gardens within the proper circumstances (all tokens must be hooked).</li>\n<li>We <a href=\"https://github.com/CommonsSwarm/EVMcrispr/blob/main/test/action-functions.test.ts\" rel=\"noopener nofollow ugc\">wrote tests</a> that cover all the functionalities of EVMcrispr, which helped to find some bugs!</li>\n<li>We are improving security the Hatch and Augmented Bonding Curve contracts. We are currently working on the feedback provided by a code review made by <a href=\"https://github.com/shokai\" rel=\"noopener nofollow ugc\">Shokai</a>, former Aragon One CTO.</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>The <a href=\"https://forum.tecommons.org/t/75-governance-giveback/569\">75% Governance Giveback</a> proposal is now viable thanks to the Hooked Voting Aggregator. Hatchers will soon be able to vote on it.</li>\n<li>Learn more about how the TEC and <a href=\"https://agave.finance/\" rel=\"noopener nofollow ugc\">Agave</a> are working in something <a href=\"https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604\">HUGE</a> for the near future <img src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\">\n</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-09-23T18:27:03Z",
+   "updated_at": "2021-09-23T18:27:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-september-9-22-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-september-9-22-1\"></a>Wednesday’s Weekly Commons Update - September 9-22</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We released a <a href=\"https://github.com/CommonsSwarm/EVMcrispr/releases/tag/v0.1.3\" rel=\"noopener nofollow ugc\">new EVMcripsr version</a>:\n<ul>\n<li>Now the DAO apps are ordered properly (<a href=\"https://github.com/CommonsSwarm/EVMcrispr/commit/494ae3dcff6f990b7663c11a9d02d9e73e344377\" rel=\"noopener nofollow ugc\">based on creation time</a>).</li>\n<li>We added the <code>act</code> function to EVMcrispr, so now we can call external contract functions from any DAO agent.\n<ul>\n<li>An example of how to use it can be found here: <a href=\"https://gist.github.com/sembrestels/f6181e6d44d0ea05b9f67034704c4104\" rel=\"noopener nofollow ugc\">Deposit Agent funds to Agave using EVMcrispr</a>.</li>\n</ul>\n</li>\n<li>We have implemented a set of utils to encode <a href=\"https://hack.aragon.org/docs/aragonos-ref#parameter-interpretation\" rel=\"noopener nofollow ugc\">parametic permissions</a>. They can be used to encode conditions to when certain actions can be performed in a DAO. You can find more <a href=\"https://github.com/CommonsSwarm/EVMcrispr#parametric-permission-utils\" rel=\"noopener nofollow ugc\">information here</a>.</li>\n</ul>\n</li>\n<li>Commons Upgrade has been implemented (finally!). The repo link is <a href=\"https://github.com/CommonsSwarm/commons-upgrade\" rel=\"noopener nofollow ugc\">here</a> and the demo with the votes are <a href=\"https://gardens-rinkeby.1hive.org/#/garden/0x5672542F00Db5db374c13944C249fE925Aa325A6/vote/2\" rel=\"noopener nofollow ugc\">here</a> (app installation) and <a href=\"https://gateway.pinata.cloud/ipfs/QmX9prg9ky4kFfqSfWGCGAbjNFnZea1pWPxAEmbenCFhh5/#/0x138dcAA5fb8c190eB7FaF37b1147dA45De9DeF33/0x6494c10782dd987ffabbb61811fd79ed1360e2d6/vote/4/\" rel=\"noopener nofollow ugc\">here</a> (funds and token migration).\n<ul>\n<li>The Aragon version used in xDAI network is the current blocker, as it gives problems with ACL oracles. Some time ago, <span class=\"mention\">@willjgriff</span> <a href=\"https://github.com/aragon/aragonOS/pull/565\" rel=\"noopener nofollow ugc\">fixed it for the AragonOS v4.4.0</a>. We are considering upgrading the Aragon version to fix this issue.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li><a href=\"https://forum.1hive.org/t/treasury-management-in-gardens/4411\" rel=\"noopener nofollow ugc\">Discussion on how to manage properly the treasury of a gardens.</a></li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-10-06T16:55:44Z",
+   "updated_at": "2021-10-06T16:55:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-sep-23-oct-6-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-sep-23-oct-6-1\"></a>Wednesday’s Weekly Commons Update - Sep 23 - Oct 6</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We added a new cool feature to EVMcrispr: it’s own <a href=\"https://en.wikipedia.org/wiki/Domain-specific_language\" rel=\"noopener nofollow ugc\">domain specific language</a>! It includes the following commands:\n<ul>\n<li><code>install ${app-repo} ${...params}</code></li>\n<li><code>grant ${entity} ${app} ${role} ${permissionManager}</code></li>\n<li><code>revoke ${entity} ${app} ${role}</code></li>\n<li><code>exec ${app} ${method} ${...params}</code></li>\n<li><code>act ${agent} ${target} ${method} ${...params}</code></li>\n</ul>\n</li>\n<li>Our <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/20\">first vote</a> using EVMcrispr has been succesfully executed. You can check out how it was coded in the forum post!</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>\n<a href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">Discussion</a> around the TEC rewards system.</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "chuygarcia92",
+   "name": "Chuy Garcia",
+   "created_at": "2021-10-13T23:25:23Z",
+   "updated_at": "2021-10-13T23:25:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a name=\"wednesdays-weekly-commons-update-oct-7-13-1\" class=\"anchor\" href=\"#wednesdays-weekly-commons-update-oct-7-13-1\"></a>Wednesday’s Weekly Commons Update - Oct 7-13</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have released an online tool to create votes using the evm-crispr library: the <a href=\"https://evm-crispr.blossom.software/\" rel=\"noopener nofollow ugc\">EVMcrispr Terminal</a>. It has already been used many times to create votes in different DAOs, although be aware that the software is in a beta version!</li>\n<li>You can find examples of how to write evmscripts seeing our <a href=\"https://forum.tecommons.org/t/one-time-change-of-tech-addresses-as-requested-by-owner-because-access-was-lost-or-another-reason/571/24\">latest votes in the Hatch DAO</a>.</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>\n<a href=\"https://showcase.ethglobal.com/ethonline2021/osmotic-funding\" rel=\"noopener nofollow ugc\">Osmotic Funding</a>, our latest hackathon project that combines Conviction Voting and Superfluid Finance to create funding streams to back proposals over time with a varying rate per month determined by the amount of conviction each proposal has.</li>\n<li>\n<a href=\"https://forum.tecommons.org/t/changing-permissions-on-the-hatchdao/665/6\">A vote in the Hatch DAO</a> is going on. It gives permission to the voting app to mint and burn permissions. You can vote until Saturday!</li>\n</ul>\n<h4>\n<a name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20241213142821",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-10-20T16:26:39Z",
+   "updated_at": "2021-10-20T16:26:39Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#wednesdays-weekly-commons-update-oct-14-20-1\" name=\"wednesdays-weekly-commons-update-oct-14-20-1\"></a>Wednesday’s Weekly Commons Update - Oct 14-20</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>The <a href=\"https://evm-crispr.blossom.software/\" rel=\"noopener nofollow ugc\">EVMCrispr Terminal</a> is a tool developed by the Commons Swarm that has been getting a lot of love <img alt=\":heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=10\" title=\":heart:\"/> from many members of the community:\n<ul>\n<li>Agave folks have contributed in improving the voting testing capabilities to be able to check the votes before sending them.</li>\n<li>\n<a class=\"mention\" href=\"/u/amin\">@amin</a> is using EVMcrispr to change the native Unipool of Gardens in the Giveth Garden to use their own implentation that uses GIVstream.</li>\n<li>Gardens has created a cool form interface to interact with EVMcrispr, kudos to <span class=\"mention\">@rperez89</span>.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>\n<a href=\"https://showcase.ethglobal.com/ethonline2021/osmotic-funding\" rel=\"noopener nofollow ugc\">Osmotic Funding</a> won the 1st Place prize from <a href=\"https://makerdao.com/en/\" rel=\"noopener nofollow ugc\">MakerDAO</a> and the Best Coordination Mechanics prize from <a href=\"https://www.superfluid.finance/\" rel=\"noopener nofollow ugc\">Superfluid</a>.</li>\n<li>We hosted a discussion on Osmotic Funding mathematical model with Michael Zargham from BlockScience and Didi from Superfluid on Luna Swarm. <a href=\"https://www.youtube.com/watch?v=8Y3Jq8gPmqg\" rel=\"noopener nofollow ugc\">Here is the recording</a>.</li>\n<li>We also had a call with Superfluid team to discuss how to calculate the realtime balance of an address that is sending and receiving different flows.\n<ul>\n<li>We think that <a href=\"https://en.wikipedia.org/wiki/Exponential_decay\" rel=\"noopener nofollow ugc\">exponential decay</a> has very good properties in order to combine different flows.</li>\n<li>We created <a href=\"https://www.desmos.com/calculator/2kb5fdgmml\" rel=\"noopener nofollow ugc\">an example</a> that has three flows, one decaying inflow from 100 tokens/s to 10 and the other growing inflow from 0 to 50 and an outflow that goes from 0 to -10. The result is an inflow that goes from 100 to 50 tokens/s.</li>\n</ul>\n</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724163018",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-10-27T21:41:52Z",
+   "updated_at": "2021-10-27T21:41:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#wednesdays-weekly-commons-update-oct-21-27-1\" name=\"wednesdays-weekly-commons-update-oct-21-27-1\"></a>Wednesday’s Weekly Commons Update - Oct 21-27</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have released a new article of the “Commons Swarm Outcomes” series: <a href=\"https://forum.1hive.org/t/commons-swarm-outcomes-2-3-a-fundraising-module-for-daos/4587\" rel=\"noopener nofollow ugc\">A fundraising module for DAOs</a>.\n<ul>\n<li>This second part is focused on describing the different pieces of the Hatch DAO that can be composed altogether in different options to be able to offer many kinds of fundraisings.</li>\n</ul>\n</li>\n<li>We used <a href=\"https://gist.github.com/sembrestels/ec0879bce06f02fa7a9e1ce4e5ae1cab\" rel=\"noopener nofollow ugc\">EVMcrispr and hardhat to test a vote</a>, specifically to check if the new <a href=\"https://forum.tecommons.org/t/technical-fix-allowing-hatchdao-to-execute-payment/672\">TEC Hatch DAO vote</a> was executable and which is going to be the outcome.</li>\n<li>We’re almost ready for the Commons Upgrade:\n<ul>\n<li>We’re working on the last details to have a stable version of the augmented bonding curve to be released with the TEC Garden.</li>\n<li>We also are working with the Gardens Swarm to adapt the frontend to support Conviction Voting distributing a different token other than the garden token.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>1Hive has joined the <a href=\"https://forum.1hive.org/t/1hive-has-joined-the-panvala-league/4578?u=chuygarcia92\" rel=\"noopener nofollow ugc\">Panvala League</a>!</li>\n<li>\n<a href=\"https://twitter.com/tecmns/status/1453091150357663747?s=20\" rel=\"noopener nofollow ugc\">Params Parties</a> are back!</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724163018",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-11-04T18:39:22Z",
+   "updated_at": "2021-11-04T18:39:22Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#wednesdays-weekly-commons-update-oct-28-nov-3-1\" name=\"wednesdays-weekly-commons-update-oct-28-nov-3-1\"></a>Wednesday’s Weekly Commons Update - Oct 28 - Nov 3</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have had great advances with the <a href=\"https://github.com/CommonsSwarm/augmented-bonding-curve\" rel=\"noopener nofollow ugc\">Augmented Bonding Curve</a>, making it more secure, simple, and efficient based on the <a>review of Shokai</a>.</li>\n</ul>\n<p><strong>Some cool stuff you  can check out:</strong></p>\n<ul>\n<li>There have been plenty of advances in the <a href=\"https://forum.brightid.org/t/brightid-gatekeeper-for-aragon-permissions/131\" rel=\"noopener nofollow ugc\">integration of BrightID and Gardens</a> (here are the pull requests: <a href=\"https://github.com/1Hive/conviction-voting-app/pull/156\" rel=\"noopener nofollow ugc\">1</a>, <a href=\"https://github.com/1Hive/disputable-voting/pull/1\" rel=\"noopener nofollow ugc\">2</a>, <a href=\"https://github.com/1Hive/token-manager-app/pull/18\" rel=\"noopener nofollow ugc\">3</a>, <a href=\"https://github.com/1Hive/gardens/pull/418\" rel=\"noopener nofollow ugc\">4</a>). In the near future a Garden will be able to limit the creation of votes or other actions to brightid-authenticated users only.</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h4>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724163018",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-11-24T20:28:17Z",
+   "updated_at": "2021-11-24T20:28:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#wednesdays-almost-monthly-commons-update-nov-4-24-1\" name=\"wednesdays-almost-monthly-commons-update-nov-4-24-1\"></a>Wednesday’s almost-Monthly Commons Update - Nov 4-24</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>We have the Augmented Bonding Curve contracts almost ready. A new version is deployed on <a href=\"https://rinkeby.etherscan.io/address/0x9ac140f489df1481c20feb318f09b29a4f744915#code\" rel=\"noopener nofollow ugc\">Rinkeby</a> and <a href=\"https://blockscout.com/xdai/mainnet/address/0xA4e28453b4F3fcB251EEbe1aC2798eEE55e2bE6a/contracts\" rel=\"noopener nofollow ugc\">xDai</a>, however a final revision by Shokai pointed out a few critical issues that we will fix shortly. It will be able to be installed using the instructions in the updated <a href=\"https://forum.1hive.org/t/commons-swarm-outcomes-1-3-a-plug-and-play-bonding-curve/4298\" rel=\"noopener nofollow ugc\">ABC thread in the 1Hive forum</a>.</li>\n<li>The <a href=\"https://github.com/commonsswarm/tec-convert\" rel=\"noopener nofollow ugc\">frontend</a> has been updated accordingly to keep track of the changes.</li>\n<li>You can test an ABC demo in <a href=\"http://convert.tecommons.org\" rel=\"noopener nofollow ugc\">convert.tecommons.org</a>.</li>\n</ul>\n<p><strong>Some cool stuff you  can check out:</strong></p>\n<ul>\n<li>The TEC Params Parties are coming up with proposals for the designs that will eventually be implemented in the TEC Garden. Here is the <a href=\"https://calendar.google.com/calendar/u/0?cid=ZHRpbnQzYmE2NnY0cDJqN25uZWdlZnB2dmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\" rel=\"noopener nofollow ugc\">calendar</a> if you’re interested in joining one (you should!).</li>\n<li>We also have debates for those of you who have joined a Party already <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h3>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724163018",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+   }
+  },
+  {
+   "post_number": 25,
+   "username": "chuygarcia92",
+   "name": null,
+   "created_at": "2021-12-15T15:49:41Z",
+   "updated_at": "2021-12-15T15:49:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#wednesdays-weekly-commons-update-nov-25-dec-15-1\" name=\"wednesdays-weekly-commons-update-nov-25-dec-15-1\"></a>Wednesday’s Weekly Commons Update - Nov 25 - Dec 15</h2>\n<p><strong>Hi TEC!</strong> These are some of last week’s advances in the Commons Swarm:</p>\n<ul>\n<li>The final revision of the bonding curve is already deployed, so <a href=\"https://forum.1hive.org/t/commons-swarm-outcomes-1-3-a-plug-and-play-bonding-curve/4298\" rel=\"noopener nofollow ugc\">the contract is ready to be used</a> by any DAO that wants to issue their token based on this mechanism.</li>\n<li>\n<a href=\"https://forum.tecommons.org/t/commons-upgrade-demo-part-2/723\">The Commons Upgrade demo is live</a> using the <a href=\"https://github.com/CommonsBuild/commons-config-proposals/issues/91\" rel=\"noopener nofollow ugc\">TEC Casino</a> template for test purposes only. It is divided in 2 votes:\n<ul>\n<li>\n<a href=\"https://xdai.aragon.blossom.software/#/0x7A06c1106908d952974Ca1dC2b66F8Cc7dF75DBb/0xbd4bcdbf1b075f79deaa7a860811c60c73040824/vote/1/\" rel=\"noopener nofollow ugc\">A first vote</a> transfered of funds from HatchDAO contract to the new <a href=\"https://gardens-staging.1hive.org/#/xdai/garden/0xf7ac40a5d0933e13b346ee611d9072b6095f43fc\" rel=\"noopener nofollow ugc\">TEC Demo Garden</a>.</li>\n<li>A second vote is going to be performed Thursday Dec 9th to Saturday 11th for opening the Augmented Bonding Curve.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Some cool stuff you can check out:</strong></p>\n<ul>\n<li>Our friends from <a href=\"https://forum.brightid.org/t/revisiting-the-brightdao-parameters-with-general-magic-support/355\" rel=\"noopener nofollow ugc\">General Magic are helping BrightID to revisit their DAO parameters</a> with the help of the <a href=\"https://config.tecommons.org/\" rel=\"noopener nofollow ugc\">Commons Config Dashboard</a> designed for TEC.</li>\n<li>Speaking of the dashboard! Don’t miss our last Params Parties and the beginning of our debates.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\" name=\"see-you-next-monday-in-the-commons-swarm-weekly-meeting-600-pm-utc-1hive-discord-serverhttpsdiscordgg2xbvzwd9-2\"></a>See you next Monday in the Commons Swarm weekly meeting @<strong>6:00 PM UTC</strong>! - <a href=\"https://discord.gg/2XBvZwd9\" rel=\"noopener nofollow ugc\">1Hive Discord Server</a>\n</h3>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724163018",
+    "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420142434",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420142434",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624154622",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624154622",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928020649",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928020649",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928023207",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928023207",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124040636",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124040636",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124043051",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124043051",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520062439",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327?page=2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520062439",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327?page=2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706005008",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/20"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005008",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/20"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706005416",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/14"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005416",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/14"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706005720",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005720",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706011045",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/13"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706011045",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/13"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706012903",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/19"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706012903",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/19"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014416",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014416",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220815102826",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/25"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220815102826",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/25"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006164651",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/4"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006164651",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/4"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724141553",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/10"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724141553",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/10"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724143743",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/16"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724143743",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/16"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724155348",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/13"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724155348",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/13"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724163018",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724163018",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327/11"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20241213142821",
+   "url": "https://forum.tecommons.org/t/commons-swarm-how-are-we-doing/327"
+  }
+ ]
+}

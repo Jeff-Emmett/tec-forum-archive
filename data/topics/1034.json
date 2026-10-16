@@ -1,0 +1,338 @@
+{
+ "id": 1034,
+ "title": "Open space for a discussion on the reward system in the TEC",
+ "slug": "open-space-for-a-discussion-on-the-reward-system-in-the-tec",
+ "category_id": 5,
+ "posts_count": 17,
+ "total_known": true,
+ "archived_posts": 18,
+ "archived_numbers": 18,
+ "created_at": "2022-06-02T15:01:18Z",
+ "last_archived_post_at": "2022-06-24T12:29:51Z",
+ "captured_between": [
+  "2022-07-06T01:08:24Z",
+  "2022-10-06T18:27:29Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-02T15:01:18Z",
+   "updated_at": "2022-06-02T15:01:18Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’d like to use this thread to open a discussion around the rewards in the TEC coming from the praise and future SourceCred.</p>\n<p>The topics i’d like to discuss and open to discuss other topics not considered in this first thread:</p>\n<p><strong>What would be a metric to say our contributions are accurate:</strong></p>\n<p>The quantification process is based on subjective data evaluation by a decentralized pool of quantifiers who may or may not be in the know of things happening in the TEC. I suggest we have a feature after the praise result on the praise dashboard where the reward board and quantifiers express their satisfaction with the result and if it passes a certain threshold we move on with the distribution. This would be a pain in the ass especially at the beginning would make things slow down but could enforce a solution faster since distributing rewards is a priority.</p>\n<p>In the same lines  a flag system would be nice where every community member can look at the final distribution and signal if they think themselves or someone was under or over valued. We could use this data to improve next quantifications. If the flagging is above a certain threshold, distributions could be paused for review and re-quantification.</p>\n<p><strong>What’s the ultimate goal of the reward system?:</strong></p>\n<p>Another discussion is what is the end goal of the reward system? Do we want to reward all contributions to the TEC and use the Gardens only for TE proposals and exclude working group funding?  Or do we want to use praise as a bonus on compensations? (compensations that have been already paid)</p>\n<p>This also leads to another question: should contributors receiving funds from the Gardens or will Working Group budgets also be rewarded by the reward system? In the past we were deducting people who had a salary so praise was rewarding people doing actual work in the DAO without any compensation and compensated people had a 75% deduction on its praise. This method had some conflicts but, if we keep rewarding everyone the same, the pie is eaten by the people who already have their piece from regular stipends or salaries, which means contributors  that are doing work and are not receiving a salary are getting a very small reward since majority of it is going to paid contributors as a bonus.</p>\n<p>For me the quick solution regarding that matter since the praise is not giving satisfying results based on what is praised, who is praised/praising, how much is allocated and by whom, for now would be to reward working groups by conviction voting, if the community thinks they are necessary will pass it and if not, not. The reason is because if some operations we think are important we shouldn’t take the risk of people leaving because the reward system is not paying for it but at the same time people being paid i feel it shouldn’t get any reward (10% max). It would create an interesting opportunity to go all in on rewards since the pie is not being eaten by a couple of full time contributors, that means praise could potentially be attractive again.</p>\n<p>!praise <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> &amp; <a class=\"mention\" href=\"/u/liviade\">@liviade</a> for helping to make this post more understandable!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-02T15:28:43Z",
+   "updated_at": "2022-06-02T15:28:43Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1034\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>In the past we were deducting people who had a salary so praise was rewarding people doing actual work in the DAO without any compensation and compensated people had a 75% deduction on its praise.</p>\n</blockquote>\n</aside>\n<p>I would definitely be in favour of having some sort of factor that would reduce praise rewards from contributors already receiving regular salaries/stipends and boosting rewards to those who are not. 75% is pretty steep but it would be a cool feature to implement. Perhaps a tag somewhere in the RAD that we can mark contributors in the database as a contributor</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2022-06-03T17:34:15Z",
+   "updated_at": "2022-06-03T17:34:15Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I just found this post from <a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a> about <a href=\"https://forum.tecommons.org/t/coordinape-an-overview/616/2\">Coordinape</a>. For what it seems its a great tool and maybe something can be learned from it. Or maybe even a collaboration. Just thought its a good time to revive this forum post.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-03T18:04:08Z",
+   "updated_at": "2022-06-03T18:04:08Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Definitely, the thing to Coordinape is that would make praise limited, and I heard from <a class=\"mention\" href=\"/u/liviade\">@liviade</a>  that is not intended to praise. That being said a talk to explore what works and what don’t with both projects would benefit both</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-05T10:38:19Z",
+   "updated_at": "2022-06-05T13:13:05Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Coordinape is actually a pretty excellent group funding tool. It works in rounds of time (termed “epochs”) and circles of people. The duration of a round is determined by the creator of the circle, and is an arbitrary unit of time &gt; 1 day. The circles of people could be the whole commons, a WG, a working team; also just an arbitrary group of people &gt; 1. You can also have an infinite number of circles for any perceivable delineation or further grouping. I had the opportunity to experiment with it for gitcoin under the direction of <a class=\"mention\" href=\"/u/wkarshat\">@wkarshat</a> and in my opinion it worked great. Although praise is a lovely system with a particularly lovely name and connotation, I’m not entirely certain why we have built into software a cultural practice from Burning Man as our Reward System. Then again, I’ve never attended Burning Man. Maybe you had to be there. Maybe it really is that good/great of a culture building lego block and it was inconceivable to leave it out, but at this point, I don’t think we should be prioritizing using our own building blocks versus any others that are equally functional for a given task, and perhaps better. That doesn’t mean we must then discard praise as a result. Quite the contrary, it is still a wonderful cultural innovation when used appropriately after a great deal of time spent learning the culture, and quantifying what everybody else says everybody else has done after a long period of time after gaining more context, and then of course, after ironing out a few bugs. Coordinape kinda works too. People quantify their own context directly between each other, each period. And then they do it again. It does take a little bit of time to get the hang of, as in 1 round, but after the first round, it’s pretty clear how it works, and then the funds awarded can be dispersed. Unless for some reason the funds aren’t dispersed directly afterwards… Then natural questions will begin to arise and people might get uncomfortable thinking they just must not understand. All a matter of perspective really. And context.</p>\n<p>EDIT: And now, after a couple hours and some internal conflict; first I want to say what I was going to say a couple days ago when I initially read this post, but failed to execute upon due to poor judgement. Second, some further elaboration on my personal opinion regarding the TEC’s reward system in general, followed by the aspects specifically related to praise.<br/>\nFirst things. Thank you so very much <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> for creating this open space for discussion regarding the issue at hand. Open, “safe” spaces are wonderfully “liberating structures” (a term that I have learned from <a class=\"mention\" href=\"/u/jeremygospelofchange\">@Jeremygospelofchange</a> ) and I hope that I have not diminished that safety with my snarky or flippant tone above. I would modify the post further, but for radical transparency’s sake, it will stay as is, unless anyone, really anyone, finds it offensive, aggressive, or too disrespectful. Then I’ll change it immediately. But barring those potentials, I’ll humbly submit that my snap statement could possibly add to the broader context. If that’s stupid or just not true, please say so, and it will be changed immediately as well. Second first thing. I want to thank <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> <a class=\"mention\" href=\"/u/kristoferlund\">@kristoferlund</a> and the many other people who spent time conceptualizing the process, building it out, perceiving “possible” issues, bearing with the process, committing to improvement, and accomplishing what was committed to. I’m honestly not even sure there is anything undesirable about the process whatsoever in this moment, though it felt rather obvious there was a distinct difference between coordinape and praise 2 hours ago. Having had the clear wonderful fortune to try both systems personally, which I would never have done were I not prompted to by <a class=\"mention\" href=\"/u/wkarshat\">@wkarshat</a> , the obvious nature of deserving snark and shade, now seems like it <em>should</em> have been obvious to me, would <em>only</em> present itself to <em>me</em>. That was foolish, and I am sorry. Please forgive me. That’s the nature of foolish language and thinking. Conceit feels like insight or wisdom to the fool. It feels so right and yet so wrong. So much underlying information that feels perceivable to the rest of the internet is lost in spaces like this, by what I would describe as people like me, but what feels more humble  is to say possibly many of us. It’s easy to be misunderstood, or misunderstand yourself and your own intentions with ramblings and rants. Above I had mentioned I’d provide fuller context for my previous negativity, but that doesn’t feel relevant anymore, so I won’t, unless asked. Clearly, I like the sound of my voice in my own head. jk <img alt=\":crazy_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crazy_face.png?v=10\" title=\":crazy_face:\"/> <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/> <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>\n<p>EDIT 3: <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/> if anyone feels like writing up the context might offer value, i’ll be happy to do it and share it personally with anyone who asks, but I’ll save it until then.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "gene",
+   "name": null,
+   "created_at": "2022-06-05T13:19:44Z",
+   "updated_at": "2022-06-05T13:19:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for including Nuggan’s summary <a class=\"mention\" href=\"/u/bear100\">@bear100</a>. It’s a top-notch overview and particularly relevant to this discussion. Well done finding and including here sir.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-17T22:59:07Z",
+   "updated_at": "2022-06-17T22:59:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> I was braining my idea before about giving paid contributors less rewards and unpaid contributors more.</p>\n<p>To flesh out this idea more it could actually be pretty simple. We would need to add two things: a tag to a user that they are a “paid contributor” inside the rewards database, and also consider a percentage factor of which to reduce the rewards by (contributor factor).</p>\n<p>When we generate the final rewards distribution we apply the contributor factor to those marked as “paid contributors”.</p>\n<p>We then calculate the sum of rewards with the reduction from the ‘contributor factor’ and subtract that sum from the total amount of rewards available. the difference is the excess funds that we can then redistribute to unpaid contributors.</p>\n<p>We take the sum of reward recipients that are not marked as “paid contributors” and  divide our excess funds against this number. This gives us the bonus funds we can equally shell out to each unpaid contributor.</p>\n<p>It’s not a robust solution since even if you contributed alot or a little each unpaid contributor gets the same bonus, however it does overall shorten the gap between the top recipients and the bottom recipients, it’s a workable “robin hood” style solution. An important consideration here is that we make any modifications at the end to the rewards and not higher up in the system, for if in the end we wanted to add a reputation system on top that we are not garnishing paid contributor’s reputation, only their rewards.</p>\n<h2>\n<a class=\"anchor\" href=\"#try-this-1\" name=\"try-this-1\"></a>Try this</h2>\n<p><em>Words are wind</em> though, why not test it out? Check out this spreadsheet to fork and play with (sample from Round 9 Rewards Quant):</p><aside class=\"onebox googledocs\" data-onebox-src=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1oon8VorriNnGyojknZFY4JCZuLU7QIzuHB8hzQQ2ij4/edit?usp=sharing\" rel=\"noopener\" target=\"_blank\">contributor factor simulation</a></h3>\n<p>final_praise_token_allocation\n\nUSER IDENTITY,contributor?,USER ADDRESS,PRAISE_REWARD,QUANT_REWARD,NR_OF_PRAISES_QUANTIFIED,REWARDBOARD_REWARD,TO RECEIVE,minus contributor factor,total with bonuses (final),contributor...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-18T08:33:30Z",
+   "updated_at": "2022-06-18T08:33:30Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks Mich!! This is a great idea and if I understand it correctly, we could be modifying the contributing factor and that could be a topic of the praise review check those numbers and do some kind of balance until the numbers feel right and keep questioning them.</p>\n<p>What I understood is that we will have 2 pools and we can play how big each pool will be first pool will be distributed as we normally do and the second one only to the people that do not have the paid contributor (yes).</p>\n<p>I’ve been playing with the sheet, but I’m not fully understanding the numbers, it gives to me comparing Chuy with Durgadas (both are paid contributors, but in this sheet Durgadas do not have the yes so we can simulate it) I modify it to 50% in the green one, but it says 9489 as a final for Chuy (he received 189 tokens with normal distribution) and durgadas -612 (he received 82 tokens with normal distribution). Maybe the formula is broken or I’m just not understanding it <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/c567fc9c85a28ed70c889d15ea84054c5569d1de\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c567fc9c85a28ed70c889d15ea84054c5569d1de.png\" title=\"8b0966f9e520f05195bf5e73778d6fb2\"><img alt=\"8b0966f9e520f05195bf5e73778d6fb2\" data-base62-sha1=\"sakQQcUhdZjY3AfEeH15FTJKQ7s\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/c567fc9c85a28ed70c889d15ea84054c5569d1de_2_10x10.png\" height=\"178\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c567fc9c85a28ed70c889d15ea84054c5569d1de_2_690x178.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c567fc9c85a28ed70c889d15ea84054c5569d1de_2_690x178.png, https://forum.tecommons.org/uploads/default/optimized/1X/c567fc9c85a28ed70c889d15ea84054c5569d1de_2_1035x267.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/c567fc9c85a28ed70c889d15ea84054c5569d1de_2_1380x356.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">8b0966f9e520f05195bf5e73778d6fb2</span><span class=\"informations\">1754×453 121 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-18T13:21:53Z",
+   "updated_at": "2022-06-18T13:21:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I just tested it out and I think you put in 50 instead of 0.5 (which would be 5000%)</p>\n<p>there’s no pools or arbitrary manipulation. We would have to agree on a factor and set it, it wouldn’t feel right to manipulate this factor from one round to another.</p>\n<p>Basically you reduce paid contributor rewards by a factor and take the sum of the rewards removed and redistribute them equally across all unpaid contributors.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-18T14:05:11Z",
+   "updated_at": "2022-06-18T14:05:11Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"9\" data-topic=\"1034\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>I just tested it out and I think you put in 50 instead of 0.5 (which would be 5000%)</p>\n</blockquote>\n</aside>\n<p>I get it know thanks, but still show the same values on I and J</p>\n<p>I really think the goal with the analysis is keep tweeking the numbers until those feel right or the most accurate posible, i dont see the point of having it rigid, specially in this beta phase.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-18T14:10:44Z",
+   "updated_at": "2022-06-18T14:10:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Who’s going to be the judge of tweaking numbers? We decided pretty early on that tweaking numbers arbitrarily is not a great practice. Having a rule that we follow is easy to understand and if people understand the rules they’re more inclined to participate.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-18T15:04:12Z",
+   "updated_at": "2022-06-18T15:04:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Rewards WG is open to anyone to join, and when we have something final we could submit it to a vote, but if we don’t make changes it will take so much longer to be accurate.  The goal of the analysis is to make the data more accurate, there is no reason to analyze something and then do nothing with it and after the analysis any change shouldn’t be called arbitrary.</p>\n<p>I totally agree that having rules that are easy to follow are key, but at this moment we need to create/tweak the rules. If we want different results we have to do things in a different way otherwise same behaviors will lead to the same results.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-06-19T16:40:10Z",
+   "updated_at": "2022-06-19T16:40:10Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’m glad you’re thinking about this. Our experiment in generating data from Praise from the Sampo Discord channel may well result in disproportionately more Sampo-related Praise statements being generated. If Sampo team members do end up making a concerted effort to praise each other, that could distort the overall field of praise. (For those unfamiliar w/ this experiment, we’ll be giving Praise in the Sampo Discord channel and using the resulting data afterwards to reward volunteer contributions within Sampo from a small fund in our own working group budget.)</p>\n<p>So, this discount factor that you’re suggesting here could become even more important if this Sampo experiment actually works.</p>\n<p>I have no idea what dynamics this Sampo test will introduce, but at least we’ll generate some data out of it. I agree we need to avoid willy-nilly changes, but maybe we can use the data we generate at the end of the 3.5-month test to reassess whatever discount rate you end up going with.</p>\n<p>I think it’s really important that we boost our appreciation signal for volunteer community contributions. This will be especially important in a tighter budgets we’re about to experience. Focusing Praise on volunteer contributions is one way to amplify that impact. This is also why I’m a big advocate for using Praise to generate reputation. But that’s a whole other thing.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-20T13:00:14Z",
+   "updated_at": "2022-06-20T13:00:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’m suggesting changes now! I think making some rules is great but I understood (or misunderstood) that you were suggesting to tweak the actual reward numbers manually.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-06-20T19:39:34Z",
+   "updated_at": "2022-06-20T19:39:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Oh no!! Ha-ha, I would never support change what’s done even less doing it manually what I’m suggesting is creating a set of rules to make future quants more accurate. And the first rule I would add (this rule wouldnt necesarily improve the data accuracy itself) is give to paid contributors some kind of deduction. I honestly would go wild and remove almost all contribution to paid contributors as I mentioned before if we keep the reward flow, but all those core contributors don’t get them it could be attractive to new people come and build in the TEC and it will cost us the same as right now but with more builders :D. And all those core contributors will still be here because those are being already financially rewarded.</p>\n<p>But first of all what we need to get clear is and I’d love to hear from <a class=\"mention\" href=\"/u/liviade\">@liviade</a> <a class=\"mention\" href=\"/u/kristoferlund\">@kristoferlund</a> <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> and anyone deeply involved in the TEC or SME  <strong>What is the goal of praise in the TEC?</strong></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-06-24T05:53:09Z",
+   "updated_at": "2022-06-24T05:53:09Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1034\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p><em>Words are wind</em> though, why not test it out?</p>\n</blockquote>\n</aside>\n<p>Superb contribution! Thanks for creating data-enhanced discussion, <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> . We just have an exception in 0mega: the Stewards budget (500 wxDAI) gets into the multisig of the WG 0mega. If another caring contributor needs support they can use it. In this way, I have never been a paid contributor of TEC.<br/>\nwith <img alt=\":heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heart.png?v=10\" title=\":heart:\"/> your exception to the rule <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/><br/>\nP.S. if we should not do this anymore in the future, let me know. Till now we are riding the “each WG can experiment how to distribute funds” soft rule.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2022-06-24T06:10:44Z",
+   "updated_at": "2022-06-24T06:10:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"15\" data-topic=\"1034\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>What is the goal of praise</p>\n</blockquote>\n</aside>\n<p>Praise changed my life!<br/>\n<strong>Praise is a positive sum game nudger</strong><br/>\nThe praise giver reflects on actions of others that where valueable/energizing personally or towards the collective. By explicitely praising not only do they signal for others what they appreciate but also regularly reflect their values.</p>\n<p>The praise receiver feels acknowledged and also starts reflecting which of their actions felt energizing to them.</p>\n<p>The latter part can show the resonance/dissonance for a contributor, whether the community/collaborators value the same actions like one self.</p>\n<p>The quantification of praise is less important - since the qualitative value is multiples higher. Of course it should have a reasonable connection. However, more than exactly quantifying, the praise quantification could be geared towards incentivizing praise giving.</p>\n<p>Right now, since we only quantify and <em>reward people who get praise</em> (please correct me, I might be out of the loop), this creates incentives to get praise, and contributors might be discouraged if one doesn’t get praised (unless they are aware of these incentive structures and whether they are misaligned with ones’ own perception of value). But even that is an interesting reflection point: <em>Am I looking for acknowledgement outside - or am I doing this out of purely intrinsic motivations</em></p>\n<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque\" data-youtube-id=\"ruAi4VBoBSM\" data-youtube-title=\"Fatboy Slim - Praise You [Official Video]\">\n<a href=\"https://www.youtube.com/watch?v=ruAi4VBoBSM\" rel=\"noopener\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"360\" src=\"https://forum.tecommons.org/uploads/default/original/1X/dec62afc00a34a803825bbf7965fefb78138a2b0.jpeg\" title=\"Fatboy Slim - Praise You [Official Video]\" width=\"480\"/>\n</a>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-06-24T12:29:51Z",
+   "updated_at": "2022-06-24T12:29:51Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Any accounting abnormalities we can work out from one distribution to the next, so that is easy to incorporate.</p>\n<p>If you’re vibin’ on what I’m sayin’, please support this proposal!</p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1062\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/\">Reduce Rewards for Regular Paid Contributors</a> <a class=\"badge-wrapper bullet\" href=\"/c/advice-process/28\"><span class=\"badge-category-bg\" style=\"background-color: #F1592A;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Advice Process is the first step to work on anything in the TEC. Our work is permissionless, so communication is key to sustain our mission, vision and values and avoid double work. Our Advice Process is divided in 3 sections: small, medium and large impact decisions.\">🗣 Advice Process</span></a>\n</div>\n<blockquote>\n    Following some ideas I threw out in the forum post for <a href=\"https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/6\">open discussion in the reward system</a> \nI have put together my proposal to give paid contributors less rewards and unpaid contributors more. \nThe amount that we reduce rewards by for contributors would be known as the contributor factor \nWhen we generate the final rewards distribution we apply the contributor factor to those marked as “paid contributors”. \nWe then calculate the sum of rewards with the reduction from the ‘contributor factor’ an…\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221006182729",
+    "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220706010824",
+   "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706010824",
+   "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006165342",
+   "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006165342",
+   "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/6"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006182729",
+   "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006182729",
+   "url": "https://forum.tecommons.org/t/open-space-for-a-discussion-on-the-reward-system-in-the-tec/1034/18"
+  }
+ ]
+}

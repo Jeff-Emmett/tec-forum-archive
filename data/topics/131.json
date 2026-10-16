@@ -1,0 +1,126 @@
+{
+ "id": 131,
+ "title": "Number of Dandelion Voting Instances",
+ "slug": "number-of-dandelion-voting-instances",
+ "posts_count": 5,
+ "category_id": 19,
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "created_at": "2020-12-06T20:55:19Z",
+ "last_archived_post_at": "2021-04-13T16:16:54Z",
+ "captured_between": [
+  "2023-05-30T08:48:43Z",
+  "2023-05-30T08:48:43Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2020-12-06T20:55:19Z",
+   "updated_at": "2021-01-11T18:16:21Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h2>What is a Dandelion Voting Instance?</h2>\n<p>A Dandelion Voting Instance is a subset of apps within <a href=\"https://client.aragon.org/#/\">Aragon’s Dandelion</a> deployment specific to voting. Each Voting Instance will have it’s own set of parameters. Parameters such as the Support Required, Min Quorum Required, Vote Duration, Vote Proposal Buffer, etc.</p>\n<p>Votes to change specific permissions will be linked to one Voting Instance, determining the set of parameters required for that vote to pass.</p>\n<h2>What is important to consider?</h2>\n<p>Here, it is important to consider how simple or how complicated we require this to be. With just one Voting Instance, the single set of parameters will apply to all votes. Multiple Voting Instances allow more flexibility to increase the Min Quorum Required and Support Required for votes that have higher impact on the system and future of the DAO. Too many Voting Instances may cause confusion for participants on the voting rules and how and when they are applied.</p>\n<p>As an example, high impact votes may include the parameters of Augmented Bonding Curve (ex. pausing the bonding curve), parameters of Conviction Voting, adding a new app or <a href=\"https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85\">upgrading the DAO to include the ABC and CV in the first place</a>.</p>\n<h2>So what do we need to talk about in this forum post?</h2>\n<ol>\n<li>What information should we use to decide how many Voting Instances we should have?</li>\n<li>What permissions and parameters should be considered low or high impact?</li>\n<li>How else should we look at grouping permission to a Voting Instance?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084843",
+    "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-07T09:56:18Z",
+   "updated_at": "2020-12-07T15:40:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey!! I’ve been thinking about this, mostly because of the ability it gives us to have multiple min support required, vote durations and min quorum required.</p>\n<p>it kinda seems logical that some votes that need a high support and high quorum required probably need also a long voting duration (for the most important decisions)</p>\n<p>it also seems logical (or not?) that votes that need a low support and low quorum required, probably need a short voting duration (for lightweight decisions)<br/>\nwhat I would like to find out is a scenario where either it’s needed:</p>\n<ul>\n<li>a low support, low quorum required and a long voting duration</li>\n<li>a high support, high quorum required and a short voting duration</li>\n</ul>\n<p>I’m also wondering whether it’s correct that support required and quorum required go tightly correlated or maybe it’s just enough for example with a high quorum required to do the job for the most important decisions</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084843",
+    "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-07T15:28:08Z",
+   "updated_at": "2020-12-07T23:05:30Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>In the case of having 2 or 3 instances, who decides what goes on each instance?<br/>\nIf the one making the voting decides, then, what/who would stop him/her from choosing  conveniently to his/her own preferences?<br/>\nShould there be a vote for deciding which voting instance should be used for the vote? (Nested voting)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084843",
+    "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2020-12-09T16:20:41Z",
+   "updated_at": "2020-12-09T16:31:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>“There will be one Dandelion DAO that can set permissions for things that are F*KN crazy.” -Griff (God mode)</p>\n<p>One Dandelion DAO will rule them all and be able to set permissions for other Dandelion DAOs &lt;- (Is this true, or are DD permissions fixed from the beginning?)</p>\n<p>My intuition on this is telling me that we need AT LEAST 2, but we don’t want too many, so it seems like 2-5 is a kind of sweet spot.</p>\n<p>I think that the fundamental first step is to list out all the permissions, otherwise how could we possibly know how many groups of permissions we need? Can anyone help with listing all permissions? <a class=\"mention\" href=\"/u/sem\">@sem</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a>  you know a good place to look for this?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084843",
+    "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "metaverde",
+   "name": null,
+   "created_at": "2020-12-10T10:16:47Z",
+   "updated_at": "2020-12-10T10:16:47Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>A high support high quorum low duration would be to take a drastic action in impending disaster.</p>\n<p>Low support low quorum long duration might be planning a low cost fall project while it’s still spring.</p>\n<p>I think I’m understanding the question correctly.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084843",
+    "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-04-13T16:16:54Z",
+   "updated_at": "2021-04-13T16:16:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>From Flare:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e71c26eda3446fa20c0ab096ee455a088f2de1c6\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e71c26eda3446fa20c0ab096ee455a088f2de1c6.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"wYuBTq6B7QZPdQMJkLwjnwtcXOe\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e71c26eda3446fa20c0ab096ee455a088f2de1c6_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e71c26eda3446fa20c0ab096ee455a088f2de1c6_2_405x500.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e71c26eda3446fa20c0ab096ee455a088f2de1c6_2_405x500.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/e71c26eda3446fa20c0ab096ee455a088f2de1c6_2_607x750.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/e71c26eda3446fa20c0ab096ee455a088f2de1c6.jpeg 2x\" width=\"405\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">658×811 72 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530084843",
+    "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530084843",
+   "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530084843",
+   "url": "https://forum.tecommons.org/t/number-of-dandelion-voting-instances/131"
+  }
+ ]
+}

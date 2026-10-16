@@ -1,0 +1,82 @@
+{
+ "id": 707,
+ "title": "About the 🗣 Advice Process",
+ "slug": "about-the-advice-process",
+ "category_id": 28,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2021-11-18T18:45:32Z",
+ "last_archived_post_at": "2022-05-06T23:09:05Z",
+ "captured_between": [
+  "2021-12-07T12:47:22Z",
+  "2024-08-15T15:33:00Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-11-18T18:45:32Z",
+   "updated_at": "2024-07-19T20:33:40Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Advice Process is the first step to work on anything in the TEC. Our work is permissionless, so communication is key to sustain our mission, vision and values and avoid double work. Our Advice Process is divided in 3 sections: small, medium and large impact decisions.</p>\n<p><strong>Small impact decision:</strong> If there is a task you want to take on, look for the people who have been working on similar things, and who will be affected by your contribution to request advice. This can be done preferably in open Discord chats but also in dm’s.</p>\n<p><strong>Medium impact decision:</strong> ideas, improvements and larger opportunities for collaborating can be nested within working groups. Share your thoughts in wg chats and add your point to be discussed in the meeting agenda. The goal is for you to receive support and advice needed to move forward and to communicate with the people who will be affected by your contributions to understand its impact.</p>\n<p><strong>Large impact decisions:</strong> financial, technical and cultural proposals should be shared here in the forum. This proposals will likely affect largely the community so it’s important to have an open space for discussion and feedback. <strong>If the proposal is going to be submitted to Snapshot, Conviction Voting or Tao Voting, it should stay for a minimum of 5 days in the forum for Advice Process before the next steps.</strong> When you click open draft you will see a template to guide you on what information to provide.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/990b01819fc76f8476ecd7f4940f50fa944aca2d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d.jpeg\" title=\"tec5\"><img alt=\"tec5\" data-base62-sha1=\"lPSDfa5jYuv9B1NujVXkTa2Cn1z\" data-dominant-color=\"1E1A2F\" height=\"431\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_690x431.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_690x431.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_1035x646.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_1380x862.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">tec5</span><span class=\"informations\">1920×1202 98.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815153300",
+    "url": "https://forum.tecommons.org/t/about-the-advice-process/707"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "LBS",
+   "name": null,
+   "created_at": "2022-05-06T23:09:05Z",
+   "updated_at": "2022-05-06T23:09:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>Onboarding Thoughts:</strong></p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"707\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>Advice Process is the first step to work on anything in the TEC.</p>\n</blockquote>\n</aside>\n<p>Yay! This is super useful information for a newcomer then! This looks like a concrete (thought potentially intimidating) step towards making your first contribution, which many newcomers crave when deciding to contribute to a DAO. Now this doc may not have been created solely for newcomers, but it looks like something that is foundational for newcomers to know and therefore will come in contact with a lot, so I’m approaching it from the mindset of that audience specifically.</p>\n<p>The current content introduces the protocol called “Advice Process” used to help create contribution alignment in a decentralized space, making sure there is no duplicate work and that new submissions are quality. It then describes the concept of low, medium, and large impact decisions. Even though there are some details re: each level of impact (eg: low-ask for advice in Discord, medium-wg meetings, large-voting) I didn’t realize this until reading it a couple times and I anticipate newcomers needing more clarity about how/when to make submissions.</p>\n<p>It seems like the most important pieces for a newbie are:</p>\n<ol>\n<li>being able to identify whom your idea impacts (what working group, what audience)</li>\n<li>being able to identify what level of impact most describes your idea (low, med, high)</li>\n<li>step-by-step instructions based on impact level for how to submit an idea to those impacted by it</li>\n</ol>\n<p>Anticipated FAQs:</p>\n<ul>\n<li>What are the common questions I should answer and/or necessary information I should always include when submitting my idea?</li>\n<li>What should I always do first before I try to make a submission for my idea?</li>\n<li>How do I find documentation of similar work in the org so I don’t duplicate work, can find like-minded contributors, or can submit improvements to existing work?</li>\n<li>Where/how do I make a submission for my idea?</li>\n<li>What is the advice process used for and what is it NOT used for?</li>\n<li>What should I do if my idea is rejected or turns out not to be viable?</li>\n<li>What are the next steps if my idea is accepted?</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815153300",
+    "url": "https://forum.tecommons.org/t/about-the-advice-process/707"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211207124722",
+   "url": "https://forum.tecommons.org/t/about-the-advice-process-category/707"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207124722",
+   "url": "https://forum.tecommons.org/t/about-the-advice-process-category/707"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520081837",
+   "url": "https://forum.tecommons.org/t/about-the-advice-process-category/707"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520081837",
+   "url": "https://forum.tecommons.org/t/about-the-advice-process-category/707"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815153300",
+   "url": "https://forum.tecommons.org/t/about-the-advice-process/707"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815153300",
+   "url": "https://forum.tecommons.org/t/about-the-advice-process/707"
+  }
+ ]
+}

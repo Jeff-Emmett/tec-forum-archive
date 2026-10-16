@@ -1,0 +1,146 @@
+{
+ "id": 1150,
+ "title": "Reflections on the recent TEC discussions and how Inverter can play a constructive role",
+ "slug": "reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role",
+ "category_id": 10,
+ "posts_count": 5,
+ "created_at": "2022-10-02T19:49:53.650Z",
+ "views": 171,
+ "last_posted_at": "2022-10-05T05:19:02.318Z",
+ "highest_post_number": 6,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2022-10-05T05:19:02Z",
+ "captured_between": [
+  "2022-11-07T00:01:39Z",
+  "2022-11-26T23:07:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "mertozdal",
+   "name": null,
+   "created_at": "2022-10-02T19:49:54Z",
+   "updated_at": "2022-10-02T23:50:51Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>Hello everybody,</p>\n<p>I am Mert. I have been contributing to TEC and am part of the Inverter Network team which some TEC core members are also part of it. While developing Inverter (previously Proposal Inverter), I have come to the realization that TEC as a commons funding entity would immensely benefit from the functionalities that Inverter brings. I have come to this conclusion not only from a theoretical set of ideas but mostly from case studies that I will sketch below.</p>\n<p>Inverter’s Features that can help TEC;</p>\n<h2>\n<a class=\"anchor\" href=\"#milestones-1\" name=\"milestones-1\"></a>Milestones</h2>\n<p>Accountability in the funding process is a huge issue in both traditional grant and funding schemes and in the web3 space.</p>\n<p>To benefit funders and project owners, Inverter creates accountability to funders using a system of these defined milestones, which allows funding to unlock progressively with the successful completion of each milestone. For the completion of the milestones, Inverter adopts an optimistic approval process where work is considered satisfactory until a funder objects and decides to withdraw the funds. After the first milestone funding, which acts as guaranteed funding, if an invProposal isn’t capable of producing subsequent satisfactory Proof of Deliverable Completion reports (a report that shows that you successfully completed the proposed deliverable in the creation of proposal), funders can at any moment withdraw their funds. That way, funders are guaranteed to have their resources spent only if they are satisfied with the progress of the project’s ongoing work based on their committed deliverables and budget planning. Also, funders can provide feedback on Proof of Deliverable Completion to</p>\n<p>invProposal Owner triggers the stream of a new milestone after completing the previous one by uploading a Proof of Deliverable Completion documents for every committed deliverable of a milestone.</p>\n<p>Here’s an example of the milestone and deliverable process:</p>\n<ul>\n<li>Imagine your proposal has a second milestone titled “Finishing up high fidelity UX mockups” with two deliverables, two months duration, and a 10,000 USDC budget.</li>\n<li>Over 2 months, 10,000 USDC will be streamed to the project’s treasury address.</li>\n<li>After finishing Milestone 2, as a Proposal Owner, you upload a Proof of Deliverable Completion document for all the deliverables under the milestone and trigger the transaction.</li>\n<li>When you have uploaded all Proof of Deliverable Completion documents and the 2-month duration for Milestone 2 has passed, then Milestone 3 will be available to initiate.</li>\n<li>You make a transaction to initiate funding for Milestone 3.</li>\n</ul>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f.png\" title=\"Proposal Inverter Mechanism-3\"><img alt=\"Proposal Inverter Mechanism-3\" data-base62-sha1=\"h4VYL0DPJRoP1dNXvnfL829GdR5\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f_2_462x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f_2_462x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f_2_693x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/77b3c5c8296d148a4f0d18d86eb7fe6ca3315c8f_2_924x1000.png 2x\" width=\"462\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Proposal Inverter Mechanism-3</span><span class=\"informations\">1655×1788 130 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>The clear advantage of this optimistic approval approach to milestone reporting is that contributors working on exploratory or open-ended projects do not need to repeat bureaucratic proposal and transaction approval processes for different organizations while still held accountable as funders can withdraw their funds in case of dissatisfaction with progress being made.</p>\n<p>I believe TEC would benefit from that accountability mechanism as one can see from those examples;</p>\n<p><strong>Comms Budget Problem</strong></p>\n<p>According to recent Pol that soft gov initiated there was discomfort about the Comms working group. This led to the discussion, “Should Comms return their funds to the common pool?”</p>\n<p>Some quotes from Stewards agenda:</p>\n<p><em>Comms return funds to common pool and reevaluate what we need from Comms. That might look like Twitter for external reach and newsletter. Note, feel this way about more than just Comms. Have not set boundaries around appropriation of common pool. Would like to see set boundaries around the use of the common pool.</em></p>\n<p><em>Returning funds to commons-pool would be very slow. Make sure people’s work done get paid.</em>*</p>\n<p><em>Token holders didn’t vote on strategy. Voted on the category of Comms. Important now is that we restore confidence in token holders. De-personalize away from people. Say what comms needs, what we will do, how much it will cost. Strong advocate for returning funds.</em></p>\n<p><em>Seems dangerous to cut tweets, for example. That’s our lifeline. Impress what’s at stake: missing to be schelling point of TE. We are not that now. Really need a good strategy, integrated with a mission.</em> <a class=\"inline-onebox\" href=\"https://docs.google.com/document/d/1VQNgAThqMLaQrF21uoQabWelnyJKLtX-TbqOl8kVb0Q/edit\" rel=\"noopener nofollow ugc\">TEC Community Stewards Weekly Agenda - Google Docs</a></p>\n<p>If TEC were using an Inverter that boundaries around the use of the common pool would have been set from day one. <strong>The boundary is tied to community dissatisfaction.</strong> <strong>Thanks to Inverter’s mechanism that allows funders to withdraw funds in case of dissatisfaction with proof of deliverable completion documents, the community would be able to withdraw the provided funding by voting with valid arguments.</strong> That way, TEC would have a clear set of rules for measuring community opinion continuously and impose accountibility in a clear manner.</p>\n<p>Also, culturally, Inverter’s standardized milestone-based funding approach would force Comms to upload Proof of Deliverable completion documents. And if the community was not satisfied with the reports, they may provide feedback and request improvement in certain areas. I believe if there were a medium to clearly have feedback loops on milestone completion, the dissatisfaction around Comms would never come to that stage.</p>\n<p><strong>Lack of communication with the community after Proposals</strong></p>\n<p>I observe that in TEC, there is a lack of communication with community members after a proposal has received their funding. Many proposals have not updated what has been achieved during that period. Even though some proposals <a href=\"https://forum.tecommons.org/t/te-fundamentals-te-academy/749/22\">posted amazing updates, such TE Academy. </a>It tends to disappear due to a lack of clear reference points for progress updates. Using Inverter would provide our community with a clear reference point to track progress.</p>\n<p><strong>Using Inverter with Gardens</strong></p>\n<p>While you are reading, I am sure that some of the friends think that “but we don’t want to move to other funding platforms. We want to use conviction voting. We designed params for months.” One novel solution that Inverter brought is that in Inverter, each published proposal (invProposal) produces a smart contract address that can be used to interact with other funding mediums. That way, funders can have benefits from the Inverter without changing their preferred way of decision-making in funding proposals.<br/>\nTo access Inverter benefits such as milestone-based funding etc., all you need to do is input the Inverter smart contract address while creating your proposal in Gardens.</p>\n<p>Lastly, even though Inverter has not been live yet and will be live on ETH Mainnet initially. We are planning to go multichain. I wanted to create this post to have community feedback, and in close future, maybe we can start using Inverter as a complementary tool for our commons technologic stack. Looking forward to hearing comments!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126230750",
+    "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2022-10-03T23:58:45Z",
+   "updated_at": "2022-10-03T23:58:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1150\" data-username=\"mertozdal\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/m/5daacb/40.png\" width=\"20\"/> mertozdal:</div>\n<blockquote>\n<p>The clear advantage of this optimistic approval approach to milestone reporting is that contributors working on exploratory or open-ended projects do not need to repeat bureaucratic proposal and transaction approval processes for different organizations while still held accountable as funders can withdraw their funds in case of dissatisfaction with progress being made.</p>\n</blockquote>\n</aside>\n<p>How do you place your inverter model in context of system stability? I refer to the <a href=\"https://en.wikipedia.org/wiki/Cynefin_framework\" rel=\"noopener nofollow ugc\">Cynefin framework</a></p>\n<p><img alt=\"image\" data-base62-sha1=\"8c6jzROtz8R6jV2R3X36r9s6uaC\" height=\"472\" src=\"https://forum.tecommons.org/uploads/default/original/1X/396f995e8d846b1918246776458fa5e274ba703a.jpeg\" width=\"591\"/></p>\n<p>where milestones can be pre-determined in the obvious case and traditional project management techniques can be applied. Your optimistic approval might also work in the complicated quadrant where part of the conviction voting is in the confidence of the skills/talent of the proposed team.</p>\n<p>But will it apply in complex quadrant where you might be probing and crafting new milestones as you go? Forcing a proposal to stick to objectives which are invalidated in light of new knowledge might be self-harming. An alternative approach in this case is something like a tradeable <a href=\"https://www.socialgoals.com\" rel=\"noopener nofollow ugc\">social policy bond</a> in conjunction with open-book management where a desired objective is defined with KPIs (eg % graduates of TEacademy gaining at least +20% income comparing 1 year before and after attending course) and the actual implementation is left to conviction voters.</p>\n<p>I believe your idea as merit, and tying into the agile style of project delivery (eg DSDM which assumes fixed-time-fixed-cost and adjusts the features) might be worthwhile testing as a hypothesis. <strong>How would you trial it</strong> in … say comparing the various initiatives that Sampo WG group is putting forward</p>\n<ul>\n<li>Hall of Fame (probably sponsorship)</li>\n<li>curation of tokenomics (premium service?)</li>\n<li>others I 'may not be aware of since I’m just returned from long absence.</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126230750",
+    "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-10-04T16:33:50Z",
+   "updated_at": "2022-10-04T16:33:50Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I am really intrigued by this, <a class=\"mention\" href=\"/u/mertozdal\">@mertozdal</a>. Accountability is a huge issue in the non-hierarchical world of web3, and honestly, I think it’s one of the big things that we and many other DAOs struggle with.<br/>\nThe Sampo team has tried to report back on progress on our proposal with a <a href=\"https://forum.tecommons.org/t/sampo-season-1-impact-june-july-2022-update/1113\">first</a> and a <a href=\"https://forum.tecommons.org/t/sampo-season-1-impact-august-2022-update/1130\">second</a> update and we are working on a third one right now. I think these could be good examples for exploring the feasibility of what you are talking about.</p>\n<p>How would the “Proof of Deliverable Completion” doc be verified as completed? Would that be a vote of some sort? I ask because in most cases these are qualitative questions that do require some sort of collective, subjective judgement.</p>\n<p>The second question is how a project would go about changing its deliverables. Things change and that’s especially true in a fast-paced world like web3. Sampo, for example, is having to change some of the strategy we assumed made sense back in June. To blindly execute against those deliverables at this point would be a disservice to the community. So, I think the system needs to be able to handle updates to deliverables. Does that seem feasible?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126230750",
+    "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-10-04T16:36:09Z",
+   "updated_at": "2022-10-04T16:36:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>One more idea. As the TEC finds its funds stretched tight, we need to be creative about how to make our common pool stretch and have the greatest impact possible. Matching grants are a great way to do that. I think that’s kind of the core idea behind the inverter, right? Do you see a way for us to implement matching grants with the Common Pool that way?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126230750",
+    "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "mertozdal",
+   "name": null,
+   "created_at": "2022-10-05T05:12:34Z",
+   "updated_at": "2022-10-05T05:19:31Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thank you for the answer ! Let me try to answer your questions.</p>\n<p>1- How would the “Proof of Deliverable Completion” doc be verified as completed? Would that be a vote of some sort? I ask because in most cases, these are qualitative questions that do require some sort of collective, subjective judgement.</p>\n<p>A: There is <strong>no</strong> approval process. Once a project uploads the documentation, <strong>by default,</strong> it is assumed as “approved” documentation by the mechanism. If there is a misalignment with the document being provided funders can feedback and request a change or withdraw their funding based on their dissatisfaction. The withdrawal decision in the TEC context would be decided by a community vote.</p>\n<p>So, the mechanism has an <strong>optimistic approval approach</strong> in which the provided proof is deemed as approved unless there is dissatisfaction. The beauty of optimistic approval is that working teams do not have to go through an administratively burdened approval process for each milestone.</p>\n<p>Also, about the subjectivity of the work: The main purpose of the Proof of Deliverable Completion documents is to <strong>maintain the consent of your funder.</strong> Therefore, the proof does not have to be crystal clear ( in many cases, it can not be). For example, one of the deliverables you have could be “Create comprehensive onboarding documentation”. But, the comprehensiveness of any document is subjective. Therefore, there is no way to prove that you prepare a “comprehensive document.” But if your Proof of Deliverable Completion document is enough to satisfy your funder and maintain the consent, everything is perfect !</p>\n<p>2- The second question is how a project would go about changing its deliverables. Things change and that’s especially true in a fast-paced world like web3. Sampo, for example, is having to change some of the strategy we assumed made sense back in June. To blindly execute against those deliverables at this point would be a disservice to the community. So, I think the system needs to be able to handle updates to deliverables. Does that seem feasible?</p>\n<p>A: Exactly, as some of you may be aware, we are dogfooding the Inverter. By utilizing off-chain means (such as google docs, and excel sheets), we tried to replicate the mechanism and work by using Inverter. In our dogfood process, as you said, we have changed our milestones many times. Since we are aware of that possibility; in Inverter, Proposal Owners (an agent who is responsible for initiating and maintaining proposals) can <strong>add</strong> and <strong>edit</strong> <strong>incactive milestones</strong> (a milestone that the budget does not start to stream) as much as they want.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126230750",
+    "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "mertozdal",
+   "name": null,
+   "created_at": "2022-10-05T05:19:02Z",
+   "updated_at": "2022-10-05T05:19:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hello, thank you for the comment.</p>\n<p>In Inverter, you can edit and add inactive milestones (  milestones that budgets do not start to stream) to your project indefinitely. Like how you do in any project management board! Therefore, you don’t have to follow your roadmap that you create at the beginning.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126230750",
+    "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221107000139",
+   "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150/3"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126221531",
+   "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126221531",
+   "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126230750",
+   "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126230750",
+   "url": "https://forum.tecommons.org/t/reflections-on-the-recent-tec-discussions-and-how-inverter-can-play-a-constructive-role/1150"
+  }
+ ]
+}

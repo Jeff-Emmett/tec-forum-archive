@@ -1,0 +1,78 @@
+{
+ "id": 1216,
+ "title": "A Proposals Roadmap for TEC/TEA Sustainability",
+ "slug": "a-proposals-roadmap-for-tec-tea-sustainability",
+ "category_id": 28,
+ "posts_count": 2,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2023-03-15T21:13:25Z",
+ "last_archived_post_at": "2023-03-19T12:59:37Z",
+ "captured_between": [
+  "2023-04-01T01:52:17Z",
+  "2023-04-01T01:52:17Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-15T21:13:25Z",
+   "updated_at": "2023-03-20T21:20:56Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<p>This post is intended as a roadmap for a set of proposals over the next few weeks. Taken together, these proposals aim to get the TEC on track for:</p>\n<ul>\n<li>generating value flows and income,</li>\n<li>growing token utility,</li>\n<li>restoring excitement among token holders and other key stakeholders,</li>\n<li>conserving and eventually replenishing the TEC’s Common Pool,</li>\n<li>deepening economic coordination and ultimately merging with the Token Engineering Academy, and</li>\n<li>fulfill our strategy by investing heavily in token engineering education.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#refocusing-the-tec-1\" name=\"refocusing-the-tec-1\"></a>Refocusing the TEC</h2>\n<p>From its peak of just under $1.1 million USD in January 2022, the TEC’s Common Pool has shrunk to $560,000 in a little over a year. Foreseeing this depletion, last June, the TEC launched the Sampo working group to explore ways of generating income for the commons and utility for the $TEC token. What quickly became obvious was that the most urgent task was to first dramatically reduce the TEC’s unsustainable spending rate. After much work, the TEC has now cut its operational costs to a quarter of what they were. Things continue to run well within that budget and excitement in the TEC is starting to build once more.</p>\n<p>As the TEC regains its momentum, requests for public goods funding are once again on the rise. Without some intervention, this outflow of funds will drain the commons before the TEC is able to implement plans to generate the income needed to replenish it.</p>\n<p>The first step in averting that scenario was developing a strategy, and earlier this month, token holders approved a <a href=\"https://forum.tecommons.org/t/tec-strategic-framework/1204/7\">strategic framework</a> for the TEC with over 98% support. One of the key takeaways in this strategy is that investing in token engineering education is the TEC’s greatest lever for building the expertise needed to accelerate development of the field of token engineering.</p>\n<h2>\n<a class=\"anchor\" href=\"#education-first-2\" name=\"education-first-2\"></a>Education First</h2>\n<p>This “education first” strategy doesn’t just represent the most logical focus for carrying out the TEC mission; it’s also the TEC’s best chance for achieving economic sustainability in the near-term. Over the last 14 months, the TEC has invested $116,000 USD in the Token Engineering Academy (TEA), making it by far the largest recipient of its public goods funding. The TEA has used this and other funding to lay the educational foundations for this new engineering field. It has built a community of some 2,000 students and token engineering professionals and developed valuable assets, such as its curriculum and other programs, a rich set of partnerships, and a growing infrastructure for tracking student expertise and reputation.</p>\n<p>Angela Kreitenweis, the founder of the TEA, recently signaled her interest in making the academy ultimately owned and governed by the token engineering community. The most logical means to that end is merging the assets of the TEA and the TEC. While details like timelines, organizational frameworks, and governance still have to be fleshed out, there are concrete, near-term steps toward economic integration that will create huge potential for the field of token engineering and a growing value stream for its economic layer, the TEC. The first steps entail <a href=\"https://medium.com/tokenengineering/te-academy-roadmap-2023-9af753e9c0a8\">integrating the $TEC into the TEA’s value flows</a>, providing long-term, stable funding for token engineering education, and creating more exciting opportunities for contributors and funders.</p>\n<h2>\n<a class=\"anchor\" href=\"#the-proposals-road-map-3\" name=\"the-proposals-road-map-3\"></a>The Proposals Road Map</h2>\n<p>Over the next 2-3 weeks, the TEC will present a set of five proposals for token holder voting. While each proposal will be written to stand on its own, together, they are all part of a coordinated strategy to:</p>\n<ol>\n<li>(Temporarily) tighten processes for withdrawing funds from the Common Pool and segment the vast majority of expenditures into three budgets: public goods funding, TEC operations, and TEA operations</li>\n<li>Fund a new “Token Engineering Grants Program” using Gitcoin’s Allo protocol for running our own quadratic funding rounds</li>\n<li>Approve and fund the economic integration of the TEA and the TEC as the first stage of an eventual merger</li>\n</ol>\n<p>These proposals will be put to the community in two phases using Tao Voting. They include:</p>\n<p>Phase 1: Right now</p>\n<ol>\n<li>Moving from <a href=\"https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221\">Conviction Voting to Tao Voting</a>\n</li>\n<li>\n<a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217\">TEC Grants Program Proposal</a> (time critical!)</li>\n</ol>\n<p>Phase 2: First week of April</p>\n<ol start=\"3\">\n<li>Coordination Team Season 2 Operations Proposal</li>\n<li>TEA Operations Proposal</li>\n<li>TEA-TEC Economic Integration Proposal</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#all-in-4\" name=\"all-in-4\"></a>All-In</h2>\n<p>This set of proposals represent an “all-in” strategy. Final numbers for the phase 2 proposals mentioned above are still being worked on, but when annualized together, these moves are likely to cost some $400K of the remaining $530K in the Common Pool. These moves thus represent a calculated bet that the best path for sustainability for both the TEC and the TEA is to come together as one integrated economy. It is a calculated bet that doing so represents the TEC’s greatest chances for creating real value for stakeholders in the field of token engineering and token holders of the commons. It is also a bet that these moves will generate the excitement and credibility needed to raise additional funds from the broader web3 community even in what is likely to remain a difficult bear market.</p>\n<p>This package of proposals is thus a bold bet on our combined future – a bet that, by working together to streamline operating costs and more closely align public goods funding to our strategy, the TEA and TEC will begin to turn the flywheel of $TEC token utility and income generation. It is thus a bet on turning the Common Pool into a sustainable and regenerative source of funding to fuel the development of the field of token engineering.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401015217",
+    "url": "https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "pat.zip",
+   "name": null,
+   "created_at": "2023-03-19T09:48:02Z",
+   "updated_at": "2023-03-19T09:48:02Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>A quick testimonial: I’ve been working with TE Academy community members (students, graduates, alumni, aspiring and pro token engineers) for one year and a half now.</p>\n<p>What we have built and learned, together, has been with</p>\n<ul>\n<li>sustainable methods (e.g. a whole project w. 40+ organizers w. zero monetary incentives, and yet positive retribution),</li>\n<li>motivation behind is to support thriving as individuals (learning, job offers) and as community (TEA’s missions),</li>\n<li>a closeness to TEC (e.g. as Research Initiative’s case study) and it’s key ppl (e.g. having <a class=\"mention\" href=\"/u/liviade\">@liviade</a> as a mentor)</li>\n</ul>\n<p>I’m positive that this All-In bet can open doors for both sides.<br/>\nPlus: it’s quite natural to formalize the joint collaboration, as so many ppl already see TEC and TE Academy as part of the same group <img alt=\":smiling_face_with_three_hearts:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiling_face_with_three_hearts.png?v=10\" title=\":smiling_face_with_three_hearts:\"/></p>\n<p>Congrats on the proposal! <img alt=\":raised_hands:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=10\" title=\":raised_hands:\"/><br/>\n(Now I’m going to check that time critical Grants Program Proposal)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401015217",
+    "url": "https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2023-03-19T12:59:37Z",
+   "updated_at": "2023-03-19T12:59:37Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1216\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>Over the last 14 months, the TEC has invested $116,000 USD in the Token Engineering Academy (TEA), making it by far the largest recipient of its public goods funding. The TEA has used this and other funding to lay the educational foundations for this new engineering field. It has built a community of some 2,000 students and token engineering professionals and developed valuable assets, such as its curriculum and other programs, a rich set of partnerships, and a growing infrastructure for tracking student expertise and reputation.</p>\n<p>Angela Kreitenweis, the founder of the TEA, recently signaled her interest in making the academy ultimately owned and governed by the token engineering community</p>\n</blockquote>\n</aside>\n<p>Fantastic news! Congratulations <img alt=\":tada:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=10\" title=\":tada:\"/> everyone <img alt=\":sunny:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunny.png?v=10\" title=\":sunny:\"/>  Other options would have ultimately resulted in what’s known as CC-PP game, even if unintended.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401015217",
+    "url": "https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230401015217",
+   "url": "https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401015217",
+   "url": "https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216"
+  }
+ ]
+}

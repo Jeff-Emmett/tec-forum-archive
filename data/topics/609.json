@@ -1,0 +1,131 @@
+{
+ "id": 609,
+ "title": "Decision Making Guide",
+ "slug": "decision-making-guide",
+ "posts_count": 4,
+ "category_id": 28,
+ "created_at": "2021-09-09T17:53:35.081Z",
+ "last_posted_at": "2021-09-16T18:43:29.802Z",
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2021-09-16T18:43:29Z",
+ "captured_between": [
+  "2021-09-28T00:54:20Z",
+  "2023-05-30T07:14:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-09-09T17:53:35Z",
+   "updated_at": "2021-12-02T14:56:49Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>The intention of this doc is to provide a simple guide for how to make decisions in the TEC. It will be great to hear feedback for <strong>1. is this easy to understand?</strong> <strong>2. Is there something missing? 3. Does anything sounds off?</strong> Thank you in advance <img alt=\":star:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star.png?v=10\" title=\":star:\"/><br/>\nHopeing to get <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a> <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> and <a class=\"mention\" href=\"/u/suga\">@Suga</a> 's attention <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>\n<ol>\n<li>\n<h2>\n<a class=\"anchor\" href=\"#working-group-quality-consent-process-1\" name=\"working-group-quality-consent-process-1\"></a>Working Group Quality Consent Process</h2>\n</li>\n</ol>\n<p>Freely based on the concept of “quality consent” presented by A.R.Greene in her paper <a href=\"https://discovery.ucl.ac.uk/id/eprint/1517822/1/Consent%20and%20Political%20Legitimacy%20-%20Penultimate%20with%20Abstract.pdf\">Consent and Political Legitimacy</a>. Working groups are small enough environments to produce a positive governance assessment by its members. Decisions that are local to each working group can be proposed by its members and discussed in meetings without the need of formal Advice Process or voting tools. Smaller decisions should have autonomy to be taken by the ones closer to its implications, without the need of producing attention costs to the whole community. The decisions should be transparent and shared in the large community call or stewards meetings.</p>\n<p><strong>Where:</strong> Working groups meetings and chats on Discord</p>\n<p><strong>Use Cases:</strong> Local decisions</p>\n<ol start=\"2\">\n<li>\n<h2>\n<a class=\"anchor\" href=\"#advice-process-2\" name=\"advice-process-2\"></a>Advice process</h2>\n</li>\n</ol>\n<p>When a community member needs to make an important decision, they seek advice from other stakeholders and those with expertise. Taking this advice into account, the decision-maker decides on an action and informs those who have given advice. Read more about the origin of this process and how it works <a href=\"https://corporate-rebels.com/advice-process/#:~:text=The%20advice%20process%20as%20coined,gather%20perspectives%20before%20proposing%20action.\">here</a>. (description taken from Jess draft article on TEC’s polycentric governance)</p>\n<p><strong>Where:</strong> <a href=\"https://forum.tecommons.org/c/proposals/pre-proposal-phase/14\">Advice process section in the TEC forum</a></p>\n<h4>\n<a class=\"anchor\" href=\"#use-cases-3\" name=\"use-cases-3\"></a>Use cases</h4>\n<p><strong>Financial proposals that will be submitted to Conviction Voting</strong> - Proposers can get a signal from the community by sharing their proposal for Advice Process before submitting for voting to the DAO. When the proposal is ready to be shared, they can move it to Conviction Voting category in the forum and then to the Conviction Voting app on-chain.</p>\n<p><strong>Cultural agreements and practices</strong> - Community members can submit a proposal for advice process and promote their submission in community channels like Soft Gov and Culture, General and Community Hall to enhance participation.</p>\n<p>If the feedback was satisfactory to the proposer and a clear path for implementation is visible, they can go ahead and execute it. If the signal was unclear or comments of concern are expressed during Advice Process making space for other choices, the proponent is encouraged to submit the proposal with integrated feedback to Snapshot.</p>\n<ol start=\"3\">\n<li>\n<h2>\n<a class=\"anchor\" href=\"#snapshot-4\" name=\"snapshot-4\"></a>Snapshot</h2>\n</li>\n</ol>\n<p>“Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user friendly and does not cost any gas as the process is performed off-chain. In short, Snapshot is an off-chain gasless multi-governance client with easy to verify and hard to contest results.” (<a href=\"https://docs.snapshot.org/\">description taken from Snapshot Gitbook)</a></p>\n<p><strong>Where:</strong> <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth\">Snapshot</a></p>\n<h4>\n<a class=\"anchor\" href=\"#use-cases-5\" name=\"use-cases-5\"></a>Use Cases</h4>\n<p><strong>Cultural Agreements and Practices</strong></p>\n<ul>\n<li>When a cultural agreement will likely affect a majority of stakeholders - recommended use of Quadratic Voting</li>\n<li>when it needs a clear yes or no decision - recommended use of single choice voting or quadratic voting</li>\n</ul>\n<p><strong>Community signal for on chain proposals (CV, TAO Voting)</strong></p>\n<ul>\n<li>When multiple choices need a ranked choice signal for what topics to move forward with. - recommended use of Ranked Choice voting or Approval Voting</li>\n</ul>\n<p><strong>Runoff votes of Crowd Proposal Making</strong><br/>\n(see Tokenlog crowd proposal making explanation) Recommended use of Ranked Choice Voting, Approval Voting or Quadratic Voting.</p>\n<h4>\n<a class=\"anchor\" href=\"#types-of-snapshot-voting-6\" name=\"types-of-snapshot-voting-6\"></a>Types of Snapshot Voting:</h4>\n<p>The TEC uses the most common voting strategy on Snapshot: erc20-balance-of. It means that all voting types are token weighted so only TEC stakeholders have access to the voting sessions.</p>\n<p>The types of voting each proposal will need should be decided by the proposer, but recommendations are provided above. See all types <a href=\"https://docs.snapshot.org/proposals/voting-types\">here</a>.</p>\n<ol start=\"4\">\n<li>\n<h2>\n<a class=\"anchor\" href=\"#tokenlog-token-wheighted-backlogs-7\" name=\"tokenlog-token-wheighted-backlogs-7\"></a>TokenLog - Token Wheighted Backlogs</h2>\n</li>\n</ol>\n<p>“ It allows projects to continuously gather feedback from their token holders in order to help plan and prioritize their work.​ It allows token holders to actively signal which items matter to them rather than just vote on single proposals.” Description taken from<a href=\"https://tokenlog.xyz/\"> Tokenlog home page</a> Tokenlog uses quadratic voting.</p>\n<p><strong>Where:</strong> Each vote will have a special repository.</p>\n<h4>\n<a class=\"anchor\" href=\"#use-cases-8\" name=\"use-cases-8\"></a>Use Cases</h4>\n<p><strong>Collaborative Economics</strong> - The TEC is pioneering the dissolution of technocracy into community education and participation. The Hatch DAO parameters were chosen using Tokenlog, so will the Commons Upgrade. The dashboards can be linked to github so proposals can be made straight from the dashboard to Tokenlog.</p>\n<p><strong>Crowd Proposal Making</strong> - When everyone is encouraged to submit proposals on a similar topic to use the collective intelligence of the community to find the best solution for a challenge. The top voted proposals should then be sent to Snapshot for a final decision.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530071448",
+    "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JeffEmmett",
+   "name": null,
+   "created_at": "2021-09-11T18:24:04Z",
+   "updated_at": "2021-09-11T18:24:04Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/liviade\">@liviade</a>, this looks awesome! Great work laying all this out.</p>\n<p>It always seems to help when there are pictures or diagrams (even emojis!) to explain some of the concepts or how they fit together, at least how my brain works.</p>\n<p>Also, one comment on the token log use cases:</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"609\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p><strong>Collaborative Economics</strong> - The TEC is pioneering the dissolution of technocracy into community education and participation.</p>\n</blockquote>\n</aside>\n<p>I would say collaborative economics sounds like a larger, more ephemeral concept that ties in all these voting types and democratic-economy decision making tools, rather than being a use case of the token log tool in particular - although I do agree the pipeline is quite nice with GitHub iterations and voting &amp; all!</p>\n<p>One final comment: “pioneering the dissolution of technocracy” is a pretty strong statement, maybe something more along the lines of “pioneering the use of collective decision making in configuration of localized political economies”.  On googling the definition of technocracy, I don’t think it means what we usually imply with the term, actually <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/>: <a class=\"inline-onebox\" href=\"https://en.m.wikipedia.org/wiki/Technocracy\" rel=\"noopener nofollow ugc\">Technocracy - Wikipedia</a></p>\n<p>It sounds like technocracy is defined as governance by those with required domain expertise (particularly scientific or technical), which actually sounds pretty polycentric, provided it was sufficiently fractalized! <img alt=\":thinking:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/thinking.png?v=10\" title=\":thinking:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530071448",
+    "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-09-12T19:13:32Z",
+   "updated_at": "2021-09-12T19:13:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>You are on fire with these proposals, <a class=\"mention\" href=\"/u/liviade\">@liviade</a>. This one is awesome too. At some point, it would be great to have how-to/when-to guidance on when each type of Snapshot voting makes most sense.</p>\n<p>In reference to this:</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"609\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>The TEC uses the most common voting strategy on Snapshot: erc20-balance-of. It means that all voting types are token weighted so only TEC stakeholders have access to the voting sessions.</p>\n</blockquote>\n</aside>\n<p>What would be the downside to defaulting to quadratic voting instead? [I’m still steep in the learning curve, so maybe this is an obvious no-no].</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530071448",
+    "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-09-16T12:24:19Z",
+   "updated_at": "2021-09-16T12:29:37Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>This work was done brainstorming and exchanging ideas by <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> <a class=\"mention\" href=\"/u/liviade\">@liviade</a> <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> and myself. Everything said there is just our opinion and how we see things.</p>\n<h2>\n<a class=\"anchor\" href=\"#single-choice-voting-1\" name=\"single-choice-voting-1\"></a>Single choice voting</h2>\n<p>In single choice voting, the member may vote for only one option. Each vote gets the total voting power of the member.</p>\n<p><strong>When can it be used?</strong></p>\n<p>Single choice voting may be used when we need a clear singular winner in a poll where options are not compatible as well as in a “Yes” or “No” vote. Sample scenario is when we need to vote on whether we accept a proposed change in our processes or not.</p>\n<h2>\n<a class=\"anchor\" href=\"#approval-voting-2\" name=\"approval-voting-2\"></a>Approval voting</h2>\n<p>Each voter may select (“approve”) any number of choices. Each selected choice will receive the full voting power according to the balance of tokens held.</p>\n<p><strong>When can it be used?</strong></p>\n<p>This type of voting can be done with multiple choice options and is used to select one or several of the choices with the highest total support. If it is used in multi-winner polls, the number of winners should be fixed before voting.</p>\n<p>This is useful to understand what is the “least favorite” option. It is also good to express equal support to more than one choice.</p>\n<p>However, it should not be used in polls with multiple options that are going to be represented in % and that involve different kinds of ideologies, because the ideology that gets more proposals will get a heavier weight of votes.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/de53409468dc799b519b144911a3d99d5f069cfb\" href=\"https://forum.tecommons.org/uploads/default/original/1X/de53409468dc799b519b144911a3d99d5f069cfb.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"vIMmFlfRgsFS6yRmEwpTtNFS5ib\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/de53409468dc799b519b144911a3d99d5f069cfb_2_10x10.png\" height=\"262\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/de53409468dc799b519b144911a3d99d5f069cfb_2_181x262.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/de53409468dc799b519b144911a3d99d5f069cfb_2_181x262.png, https://forum.tecommons.org/uploads/default/optimized/1X/de53409468dc799b519b144911a3d99d5f069cfb_2_271x393.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/de53409468dc799b519b144911a3d99d5f069cfb_2_362x524.png 2x\" width=\"181\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">470×682 96.9 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div><a href=\"https://en.wikipedia.org/wiki/Approval_voting\">Wikipedia</a>\n<h2>\n<a class=\"anchor\" href=\"#quadratic-voting-3\" name=\"quadratic-voting-3\"></a>Quadratic voting</h2>\n<p>Each voter may spread voting power across any number of choices according to the balance of tokens an address is holding. Results are calculated quadratically as shown in the table below.</p>\n<p><img alt=\"imagen\" data-base62-sha1=\"jQUoB2gaTlpW5t9kZwaXo47P072\" height=\"239\" src=\"https://forum.tecommons.org/uploads/default/original/1X/8b246b61ea5ce851c6cb3a10273e738df210978c.png\" width=\"195\"/> <a href=\"https://en.wikipedia.org/wiki/Quadratic_voting\">Wikipedia</a></p>\n<p><strong>When can it be used?</strong></p>\n<p>This is great to equalize financial x governance power of the stakeholders. We think it’s good to use for cultural decisions that don’t directly affect the financial layer for multiple choice proposals. So it’s good for decisions that represent a polarized scenario between large token holders and a big long tail community. With Quadratic Voting, we reduce token weights influencing the decision, and have a more “social” measurement by the amount of voters. Quadratic Voting cannot work without a curated list of all token holders.</p>\n<h2>\n<a class=\"anchor\" href=\"#ranked-choice-voting-4\" name=\"ranked-choice-voting-4\"></a>Ranked choice voting</h2>\n<p>Each voter may rank any number of choices. Votes are initially counted for each voter’s top choice. If a candidate has more than half of the vote based on first-choices, that choice wins. If not, then the choice with the fewest votes is eliminated. The voters who selected the defeated choice as a first choice then have their votes added to the totals of their next choice. This process continues until a choice has more than half of the votes. When the field is reduced to two, it has become an “instant runoff” that allows a comparison of the top two choices head-to-head.</p>\n<p><strong>When can it be used?</strong></p>\n<p>It is used to select one option from many. Vote weight is measured by the amount of tokens held.</p>\n<p><img alt=\"\" data-base62-sha1=\"opkz1cIKBYNAhRGOYgcGAKnTQ8A\" height=\"193\" src=\"https://forum.tecommons.org/uploads/default/original/1X/ab113b26f6f2c1388094846008b8d99783ee8ddc.png\" width=\"155\"/></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb\" href=\"https://forum.tecommons.org/uploads/default/original/1X/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"nma7nweMPRC7KpcHdZYYmxPByRR\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb_2_10x10.png\" height=\"221\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb_2_379x221.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb_2_379x221.png, https://forum.tecommons.org/uploads/default/optimized/1X/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb_2_568x331.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/a3b35ddeb661d87fa0f49e03a2d335853d3e99fb_2_758x442.png 2x\" width=\"379\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">758×442 53.9 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div><a href=\"https://en.wikipedia.org/wiki/Ranked_voting\">Wikipedia</a>\n<p>We would suggest this type of voting if we need 1 winner on a multiple-choice poll because it picks the option that that majority feels most comfortable with even if it is not everybody’s first choice. It’s useful to find one final choice from multiple choices, based on the ranked preferences of the community.</p>\n<h2>\n<a class=\"anchor\" href=\"#weighted-voting-5\" name=\"weighted-voting-5\"></a>Weighted voting</h2>\n<p>Each voter may spread voting power across any number of choices according to the balance of tokens an address is holding.</p>\n<p><strong>When can it be used?</strong></p>\n<p>Weighted voting can be useful for decisions that may affect the treasury management or that will impact token holders. This type of voting might be useful for financial decisions, where large token holders can have their full weight placed as they are the most affected by the outcome.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530071448",
+    "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-09-16T18:43:29Z",
+   "updated_at": "2021-09-16T18:43:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I really appreciate the use case scenarios for each voting process. Thank you all for compiling these thoughts.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530071448",
+    "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928005420",
+   "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928005420",
+   "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124025921",
+   "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124025921",
+   "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530071448",
+   "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530071448",
+   "url": "https://forum.tecommons.org/t/decision-making-guide/609"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 1324,
+ "title": "And we are live… on OP Mainnet! 🎉",
+ "slug": "and-we-are-live-on-op-mainnet",
+ "category_id": 5,
+ "posts_count": 1,
+ "created_at": "2023-12-19T20:46:08.459Z",
+ "last_posted_at": "2024-07-19T20:49:36.437Z",
+ "views": 1561,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2024-07-19T20:49:36Z",
+ "captured_between": [
+  "2024-02-29T11:48:13Z",
+  "2026-05-19T02:23:04Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": "Tamara",
+   "created_at": "2023-12-19T20:46:08Z",
+   "updated_at": "2023-12-19T20:53:40Z",
+   "reply_to_post_number": null,
+   "like_count": 11,
+   "cooked": "<p><strong>We are pleased to announce the TEC’s migration from Gnosis to OP Mainnet is complete. <img src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\":tada:\" class=\"emoji\" alt=\":tada:\" loading=\"lazy\" width=\"20\" height=\"20\"><img src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\":tada:\" class=\"emoji\" alt=\":tada:\" loading=\"lazy\" width=\"20\" height=\"20\"><img src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\":tada:\" class=\"emoji\" alt=\":tada:\" loading=\"lazy\" width=\"20\" height=\"20\"></strong></p>\n<p>Optimism started as Plasma Group, a research foundation dedicated to scaling Ethereum. Having experienced first-hand <strong>the problem of funding and sustaining public goods,</strong> they went on to found Optimism in an effort to both scale ethereum <em>and</em> fund public goods.</p>\n<p>The TEC, a commons dedicated to finding solutions for the same problem, is highly mission aligned with the Optimism ecosystem. Now that the TEC has successfully migrated our economy to Optimism, we are excited to be good citizens among kindred spirits.</p>\n<p><strong>- Where are my TEC tokens?</strong><br>\nFor everyone with a regular old EOA, you will find your TEC tokens in the SAME address but on OP Mainnet.</p>\n<ul>\n<li><a href=\"https://help.optimism.io/hc/en-us/articles/4411903123483-How-do-I-add-the-OP-Mainnet-to-my-wallet-\">How to add OP Mainnet network to your wallet</a></li>\n<li>To add the new TEC token to your wallet. If you are using MetaMask, use <a href=\"https://optimism.blockscout.com/token/0x8Fc7C1109c08904160d6AE36482B79814D45eB78\">this Blockscout link</a> and click on the MM icon.</li>\n</ul>\n<p><img src=\"https://lh7-us.googleusercontent.com/TNOxUEMx8gQj08YqCwZDz2vlayeAxY2leDbD5fel6j0-Z7A7NhxnyEBT54SHsniH6H0rhoEd-7fMyuPNV2_8isJLl-Qn-1WYBvW4VsFWstdX9CxTdhLq4-mvYANvZrNmzTKfq21HwxwB8hge9y6AMAw\" alt=\"\" width=\"519\" height=\"82\" role=\"presentation\"></p>\n<blockquote>\n<p><strong>Note:</strong> You will still see TEC in your Gnosis wallet although they no longer have any value, except for nostalgia. <img src=\"https://forum.tecommons.org/images/emoji/win10/blush.png?v=12\" title=\":blush:\" class=\"emoji\" alt=\":blush:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n</blockquote>\n<p><strong>- Yes! rETH is the TEC’s reserve currency on OP Mainnet</strong><br>\nPreviously, on Gnosis, the TEC’s ABC was using xDai as collateral. Now, on OP Mainnet, the ABC is using Rocket Pool ETH (rETH) as collateral. This means that the TEC token will follow the price of rETH, a staked ETH derivative.</p>\n<p><strong>- How can I swap TEC now?</strong><br>\nUse the <a href=\"https://abcswap.xyz/#/tec\">ABCSwap page</a>! As the TEC’s reserve currency is Rocket Pool ETH (rETH), that is the only swapping pair for the TEC’s Augmented Bonding Curve at the moment. You can buy rETH on <a href=\"https://uniswap.org/\">Uniswap</a> or <a href=\"https://velodrome.finance/\">Velodrome</a>. When you buy rETH, you may see two versions.</p>\n<p>You want this one:</p>\n<p><img src=\"https://lh7-us.googleusercontent.com/k8phjVvMR0PaNk17N8tpI_ORLIVJvTbV_T-6bTR37CATC4hlvJBCZTsmfdNP9YBmcsiiE5IYn6OK_VXVKe3YtyETnRX4EM8-HZ-rBoiIK7qsJGfF0TZus7pJEm156LHLxjjAzaiLMI6vLKXDjWqB7ig\" alt=\"\" width=\"152\" height=\"40\" role=\"presentation\"></p>\n<p>And remember to set your Network to OP Mainnet <img src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=12\" title=\":wink:\" class=\"emoji\" alt=\":wink:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p><strong>- What are the new contract addresses?</strong><br>\nThese are the contract addresses for TEC token, Common Pool and Reserve Pool<br>\n<a href=\"https://optimistic.etherscan.io/address/0x8fc7c1109c08904160d6ae36482b79814d45eb78\">New TEC token address:</a> 0x8fc7c1109c08904160d6ae36482b79814d45eb78<br>\n<a href=\"https://optimistic.etherscan.io/address/0xb941365430a16659658bb23b88efaede1d839354\">Common Pool address</a>: 0xb941365430a16659658bb23b88efaede1d839354<br>\n<a href=\"https://optimistic.etherscan.io/address/0xae34eb7c3163aad32142fbbcf15ec234c9ef173f\">Reserve Pool address</a>: 0xae34eb7c3163aad32142fbbcf15ec234c9ef173f</p>\n<p><strong>- There were some special cases handled as part of this migration.</strong><br>\n<strong>Lasertag.</strong> Lasertag was <a href=\"https://forum.tecommons.org/t/the-initial-buy-in/670\">initially created</a> to build strategic partnerships and execute secondary market liquidity approved of by the community. It had been holding the GIV-TEC LP and around ~57.7K of TEC. As it has been inactive for over a year, as part of this migration all of the liquid assets were consolidated and sent to the Common Pool. As well, the ~57.7K TEC was also sent to the Common Pool. The GIV-LP was liquidated and the TEC freed from that LP was sent to the <a href=\"https://app.safe.global/transactions/history?safe=oeth:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA\">Lasertag multisig on OP</a> so that the GIV-TEC LP can be recreated on OP Mainnet.<br>\n<strong>Reward Board.</strong> The migration team moved and converted 20,494.633 wxDAI to 8.367257412387837355 rETH. <a href=\"https://etherscan.io/tx/0x1c938d662b18623dfb0214188dee3cd110350da6ca439a19d474cd9de18531b7\">Swap transaction</a> and the <a href=\"https://app.safe.global/settings/setup?safe=oeth:0xF2130236412b8f6Ed7B19fb9cE6f3F4B8dc12867\">Reward Board OP Multisig.</a></p>\n<p><strong>- <img src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" class=\"emoji\" alt=\":pray:\" loading=\"lazy\" width=\"20\" height=\"20\">Praise!</strong><br>\nThis would not have been possible without the efforts of those who have worked on it directly or strategically weighed in. Praise to <a class=\"mention\" href=\"/u/sem\">@sem</a> , <a class=\"mention\" href=\"/u/philh\">@philh</a>, <a class=\"mention\" href=\"/u/bear100\">@bear100</a>, <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>, <a class=\"mention\" href=\"/u/enti\">@enti</a>, <a class=\"mention\" href=\"/u/griff\">@Griff</a>, <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>, <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>, <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a>, <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>, <a class=\"mention\" href=\"/u/liviade\">@liviade</a>, <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a>, and myself.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260519022304",
+    "url": "https://forum.tecommons.org/t/and-we-are-live-on-op-mainnet/1324"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "bear100",
+   "name": "Bear",
+   "created_at": "2024-07-19T20:49:36Z",
+   "updated_at": "2024-07-19T20:49:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "pinned.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260519022304",
+    "url": "https://forum.tecommons.org/t/and-we-are-live-on-op-mainnet/1324"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240229114813",
+   "url": "https://forum.tecommons.org/t/and-we-are-live-on-op-mainnet/1324"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229114813",
+   "url": "https://forum.tecommons.org/t/and-we-are-live-on-op-mainnet/1324"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260519022304",
+   "url": "https://forum.tecommons.org/t/and-we-are-live-on-op-mainnet/1324"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": 944,
+ "title": "Compromised wallets with vested TEC tokens - How to proceed?",
+ "slug": "compromised-wallets-with-vested-tec-tokens-how-to-proceed",
+ "category_id": 5,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2022-03-18T17:12:59Z",
+ "last_archived_post_at": "2022-03-18T17:12:59Z",
+ "captured_between": [
+  "2022-05-20T08:01:06Z",
+  "2022-05-20T08:01:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-03-18T17:12:59Z",
+   "updated_at": "2022-03-18T17:12:59Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Lately we received some inquiries about changing compromised wallet addresses that hold vested TEC tokens.</p>\n<p>If this is your case, this is how you can proceed:</p>\n<p><strong>1.</strong> Write a post in the Advice Process section about your situation. This action will need to be submitted to Tao Voting which has a high quorum, so it’s important the community understands your issue and want to support you. <strong>Having people that can vouch for you is a plus, you can tag them in the forum.</strong><br/>\n<strong>2.</strong> Promote this post. There might be others in a similar situation and you could submit a proposal together.<br/>\n<strong>3.</strong> Incorporate feedback to your advice process post and go to the proposal section of the forum. Click in “open draft” and you will see a proposal template. Integrate your post in the template as much as possible. <strong>The most important information in this case is your old and compromised wallet address and the new wallet address you want to change to.</strong><br/>\n<strong>4.</strong> Go to the <a href=\"https://gardens.1hive.org/#/xdai/garden\">TEC Garden</a> and click in “create proposal”<br/>\n<strong>5.</strong> <strong>Gardens proposals require a deposit of 200 liquid TEC</strong> (non vested). You can buy TEC directly from the Augmented Bonding Curve <a href=\"https://convert.tecommons.org/\">https://convert.tecommons.org/</a> or on Honey swap <a class=\"inline-onebox\" href=\"https://app.honeyswap.org/#/swap\">Honeyswap Interface</a><br/>\n<strong>6.</strong> Finally, paste the forum post in the proposal, <strong>choose the “decision filter”</strong> and write in one line what is the action you are trying to pass. Something like - <strong>\" I request to change my vested TEC holdings from x wallet to y wallet\".</strong><br/>\n<strong>7.</strong> Share your proposal, ask for support and good luck <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080106",
+    "url": "https://forum.tecommons.org/t/compromised-wallets-with-vested-tec-tokens-how-to-proceed/944"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520080106",
+   "url": "https://forum.tecommons.org/t/compromised-wallets-with-vested-tec-tokens-how-to-proceed/944"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520080106",
+   "url": "https://forum.tecommons.org/t/compromised-wallets-with-vested-tec-tokens-how-to-proceed/944"
+  }
+ ]
+}

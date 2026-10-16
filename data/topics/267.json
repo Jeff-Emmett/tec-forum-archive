@@ -1,0 +1,229 @@
+{
+ "id": 267,
+ "title": "Tao Voting (formerly Disputable Voting) Parameters General Discussion",
+ "slug": "tao-voting-formerly-disputable-voting-parameters-general-discussion",
+ "category_id": 23,
+ "posts_count": 8,
+ "created_at": "2021-03-01T20:36:59.105Z",
+ "views": 1946,
+ "last_posted_at": "2021-05-26T23:56:05.179Z",
+ "highest_post_number": 9,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 9,
+ "archived_numbers": 9,
+ "last_archived_post_at": "2021-05-26T23:56:05Z",
+ "captured_between": [
+  "2021-04-20T13:23:56Z",
+  "2025-05-16T07:47:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-01T20:36:59Z",
+   "updated_at": "2021-08-29T15:32:19Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#the-facts-1\" name=\"the-facts-1\"></a>The Facts</h1>\n<p>We have broken down a new 1hive Gardens template in a discussion between Griff and Luke. The TEC Hatch DAO, when it likely upgrades to a Commons, will be able to leverage the new tools 1hive is going to put into practice this month. Specifically, the TEC Hatch DAO will use Dandelion Voting, but when it upgrades to a Commons it will use Tao Voting.</p>\n<p>This new Tao Voting app adds some new mechanics to voting which include delegating votes, protection against last-minute vote result flipping and a framework for disputing proposals. This was originally designed and audited for the Aragon Network DAO but was never implemented.</p>\n<p>There’s a few concepts that should be outlined before diving into specific parameters.</p>\n<p><strong><span class=\"hashtag\">#1</span> Delegation:</strong> This process would allow token holders to vest their voting powers to a delegate who will cast votes on their behalf. A voter however does not give up full control. The delegates are forced to vote early in the voting period and if the token holder sees that their delegate has voted contrary to the token holder’s will they can veto their vested portion of the delegate’s vote and cast their vote themselves. Both a delegate and a token holder can only vote ONCE.</p>\n<p><strong><span class=\"hashtag\">#2</span> Disputability:</strong> Proposals can be disputed by a challenger, the proposer must respond by either negotiating a settlement or escalating the challenge to Celeste or a form of court and must fork out a token fee to assign and pay jurors to mediate the dispute. Check out <a href=\"https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225\">our thread on Celeste</a> for more info.</p>\n<p><strong><span class=\"hashtag\">#3</span> Wait for Quiet:</strong> If a proposal has a change in outcome near the end of the voting period, more time will be added to the end of the voting period so that the token holders that have yet to cast their vote have an opportunity to express their opinion on the controversial proposal.</p>\n<p>There is no “rageQuit” mechanism as this functionality is effectively replaced by the Augmented Bonding Curve.</p>\n<p>Those are the overarching concepts that Tao Voting contributes. Let’s dive into the parameters:</p>\n<h2>\n<a class=\"anchor\" href=\"#tao-voting-discussions-2\" name=\"tao-voting-discussions-2\"></a>Tao Voting Discussions</h2>\n<br/>\n<p><strong>Vote Duration</strong></p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"134\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/letter_avatar_proxy/v4/letter/t/858c86/40.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/vote-duration-deep-dive/134\">Vote Duration - Deep Dive</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/dandelion-voting/19\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0088CC;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Dandelion Voting</span></a>\n</div>\n<blockquote>\n    What is “Vote Duration”?\nThis is the maximum period of time it takes for a vote to pass or fail. \nMost votes will take the entire vote duration to be decided, but they can pass/fail sooner if the support requirements are met assuming 100% quorum. \nFor instance, if a DAO has 10 tokens and the Dandelion Voting Instance has these Parameters: \nSupport Required: 60% \nMinimum Quorum: 2% \nVote Duration: 3 days \nVote Proposal Buffer: 8 hours \nRage Quit Period: 24 hours \nTollgate Fee: 3 wxDAI \nIf 5 token…\n  </blockquote>\n</aside>\n<p><strong>Support Required</strong></p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"108\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108\">Support Required Deep Dive</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/dandelion-voting/19\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0088CC;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Dandelion Voting</span></a>\n</div>\n<blockquote>\n    What is the Support Required?\nThis is pretty straight forward… \nSupport Required is what percentage of tokens need to vote yes (of the tokens that were used to vote) for a proposal to pass in both Disputable Voting and Dandelion Voting. \nThings worth mentioning: \n\n\nDandelion Voting and Disputable Voting use Token Weighted voting meaning its not 1 person - 1 vote. \n\n\nA good range for Support Required is between 50-90% \n\n\nBelow 50% would mean a majority of voters could disagree with decision but i…\n  </blockquote>\n</aside>\n<p><strong>Minimum Quorum</strong></p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"133\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/freedumbs00/40/70_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">Minimum Quorum - Deep Dive</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/dandelion-voting/19\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0088CC;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Dandelion Voting</span></a>\n</div>\n<blockquote>\n    What is Minimum Quorum?\nThe definition of quorum is: \nThe minimum number of members of an assembly or society that must be present at any of its meetings to make the proceedings of that meeting valid. \nIn Dandelion Voting the Minimum Quorum is simply the percent of the total supply of the token that needs to participate in a vote in order for it to be able to be passed. \nFor instance, if a DAO has 10 tokens and the Dandelion Voting Instance has a Minimum Quorum of 35%, then at least 4 tokens mus…\n  </blockquote>\n</aside>\n<p><strong>Delegated Voting Period</strong></p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"280\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/delegated-voting-period/280\">Delegated Voting Period</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/disputable-voting/23\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0E76BD;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Disputable Voting</span></a>\n</div>\n<blockquote>\n    One of the big features of Disputable Voting is the ability to vest your vote to someone else that will become your “Delegate” and cast votes on your behalf. Voters can veto their delegate’s vote and recast it themselves. Voters and Delegates can only vote ONCE. \nWhat is the Delegated Voting Period? This is the period of time when delegates can cast votes that have been vested to them. When this period ends delegates can no longer vote. The main intention of having a separate period for delegate…\n  </blockquote>\n</aside>\n<p><strong>Quiet Ending Period</strong></p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"281\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/quiet-ending-period-and-quiet-ending-extension/281\">Quiet Ending Period and Quiet Ending Extension</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/disputable-voting/23\"><span class=\"badge-category-parent-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category-bg\" style=\"background-color: #0E76BD;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\">Disputable Voting</span></a>\n</div>\n<blockquote>\n    Quiet Ending Period is a sectioned off period of the vote at the very end of the vote duration. If a vote outcome has been flipped from yes to no or vice versa during this time it will trigger Quiet Ending Extension.  This parameter will extend the vote duration for the specified amount of time. It will continue to trigger if the vote is flipped again during this time. \nQuestions to consider:\n\n\nWhy is it important to protect against last-minute vote flipping? \n\n\nHow will shortening or lengthenin…\n  </blockquote>\n</aside>\n<p><strong>Vote Execution Delay</strong></p><aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"130\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/freedumbs00/40/70_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/vote-execution-delay-and-what-it-means/130\">Ragequitting, Ragequit Delay and How They Work</a> <a class=\"badge-wrapper bullet\" href=\"/c/defi-legos-and-how-they-work-together/9\"><span class=\"badge-category-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Formal discussion for the various parameters and how they work within the TEC\">🤖 TEC</span></a>\n</div>\n<blockquote>\n    What is “Ragequit Delay”?\nThe period of time after a vote passes before the vote can be executed. \nFor instance, if there is a Ragequit Delay of 24 hours and a vote passes at 11:00 am on Monday, it cannot be executed until 11:00 am Tuesday. \nAn important factor of Ragequit Delay is that the people who vote yes on a proposal have their tokens locked until the end of the execution delay. \nRagequit*\nIn Dandelion Voting Instances, and it gives people time to exit our TE Commons if they disagree with…\n  </blockquote>\n</aside>\n<h3>\n<a class=\"anchor\" href=\"#the-agreement-parameters-for-disputability-details-are-still-being-locked-down-and-will-be-soon-added-to-this-document-3\" name=\"the-agreement-parameters-for-disputability-details-are-still-being-locked-down-and-will-be-soon-added-to-this-document-3\"></a>The Agreement Parameters for Disputability details are still being locked down and will be soon added to this document!</h3>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-03-01T22:18:38Z",
+   "updated_at": "2021-03-01T22:18:38Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Is Disputable voting adding features to Conviction Voting or is it another instance with different parameters like Dandelion Voting?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-02T16:21:02Z",
+   "updated_at": "2021-03-02T16:21:49Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>From my understanding this will be a different instance.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-03-02T19:51:08Z",
+   "updated_at": "2021-03-02T19:51:08Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The Latter…</p>\n<p>Disputable voting will be used for changing parameters and other BIG decisions for the Commons.</p>\n<p>Dandelion voting will only be part of the TEC Hatch DAO… so after the Commons Upgrade, it can all be forgotten.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-03-03T21:26:52Z",
+   "updated_at": "2021-03-03T21:26:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Does “other Big decisions” mean that the community must classify which proposals qualify for the use of Disputable Voting?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-03-04T20:28:56Z",
+   "updated_at": "2021-03-04T20:28:56Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>so Disputable Voting can also make changes in the smart contract? Or Dandelion voting would be there only for emergencies?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-03-09T14:26:59Z",
+   "updated_at": "2021-03-09T14:26:59Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Disputable Voting will be “god-mode” for the TE Commons (after the Commons Upgrade, before that, Dandelion Voting is “god-mode” for the TEC Hatch DAO).</p>\n<p>It is the voting app that has permission to change almost every parameter of the economy… and it can even change permissions! If the token holders wanted to they could vote to make <a class=\"mention\" href=\"/u/liviade\">@liviade</a> the benevolent dictator of the entire economy give her the power to upgrade the contracts into a completely new framework or to send all the money in the bonding curve to a yield farming pool! 3000 APY MUCH WOW!</p>\n<p>This is obviously very unlikely to happen… and I wouldn’t expect any votes to happen very often honestly. But I would expect a few times a year we may want to make changes to parameters like the entry and exit tributes for the bonding curve, or upgrade some of our systems to include new innovations that 1hive and the Commons Stack are working on. Disputable Voting will be how we do that.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-03-10T22:42:00Z",
+   "updated_at": "2021-03-10T22:42:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a class=\"mention\" href=\"/u/griff\">@Griff</a> some questions I didn’t get time to ask in the Soft Gov meeting…</p>\n<p>-What are the requirements to become a juror - is it just being a HNY whale? Or anyone with HNY can self elect?<br/>\n-Could we decide as TEC that the jurors must undergo Graviton training?<br/>\n-Are we planning to hold a vote to implement this in TEC?<br/>\n-Are we planning to implement this with TEC tokens?<br/>\n-In Celeste it said that those who vote w/ majority will be rewarded - didn’t quite understand the full aspects of this from the text in the Celeste dapp - can you explain this mechanism and why it is there?</p>\n<p>Thank you for all the hard work!! I logged into Celeste to play with it… The UI/UX is great especially!</p>\n<p>(I couldn’t become a juror yet because I signed up to 1Hive with a Portis wallet - b/c of a bug at the time - and there is no option for Portis inside Celeste, so trying to reassign my 1Hive wallet as my Metamask - made a Github issue and chatting with Fabrizio about it, but hope to have a walk through soon.)</p>\n<p>Very interesting developments and experimenting with new governance mechanisms - kudos pioneers!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-05-26T23:56:05Z",
+   "updated_at": "2021-05-26T23:56:05Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yes Disputable Voting will be able to send the money out of all the contracts to anything and it will be able to mint and burn tokens. It can’t technically change the smart contracts… but because of these other powers… it doesn’t really need to.</p>\n<p>Dandelion voting will have the same powers… but only for the TEC Hatch DAO.</p>\n<p>This might sound scary… but this is how DAO’s work. The Token Holders can vote to turn the DAO into a duck if they want to (once the tech advances <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/> <img alt=\":duck:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/duck.png?v=9\" title=\":duck:\"/> QUACK) This is why it is soooooo critical that we have a collective agreement on what qualifies as a passing proposal.</p>\n<p>These powers might be used at the beginning a fair amount as we scale and want to tweak the params and add new features/apps… but after the first year, I would assume we will find a nice steady state and these powers will be rarely called upon</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20250516074726",
+    "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420132356",
+   "url": "https://forum.tecommons.org/t/disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420132356",
+   "url": "https://forum.tecommons.org/t/disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210903163316",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025100707",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025100707",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221005211103",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126224236",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126224236",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204014706",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267/7"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204014706",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267/7"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250516074726",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250516074726",
+   "url": "https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267"
+  }
+ ]
+}

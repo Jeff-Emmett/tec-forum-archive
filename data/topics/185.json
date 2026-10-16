@@ -1,0 +1,57 @@
+{
+ "id": 185,
+ "title": "⚙️ TEC Parameters",
+ "slug": "tec-parameters",
+ "category_id": 13,
+ "posts_count": 0,
+ "created_at": "2020-12-23T14:43:42.333Z",
+ "last_posted_at": "2020-12-23T14:43:42.437Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2020-12-23T14:43:42Z",
+ "captured_between": [
+  "2021-03-03T01:42:51Z",
+  "2021-06-24T14:38:24Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-12-23T14:43:42Z",
+   "updated_at": "2021-04-26T19:15:11Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This working group is responsible for educating the community about the technical parameters that need to be set to hatch the Commons and overall help understand the technicals of what we do here at the TEC.</p>\n<ul>\n<li>\n<p>Hatch Parameters meetings are happening Wednesdays again please join the <a href=\"https://discord.gg/ExbtK4sX\">Discord</a> for those! you can keep up with all the community calls in the <a href=\"https://calendar.google.com/calendar/u/0?cid=NW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\">TE calendar</a> as well as weekend sessions to hack on post’s for the Forum and really deep dive into everything we do! If you wan’t to contribute to what this working group does then please come to the calls and read the posts in the subcategories for the TEC Params.  Meet up for the work sessions or just hang out and chill with one leg missing and still kicking because the Tec Params is hard! <img alt=\":grinning:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grinning.png?v=9\" title=\":grinning:\"/> <img alt=\":sunglasses:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunglasses.png?v=9\" title=\":sunglasses:\"/></p>\n</li>\n<li>\n<p>WG Lead: To be decided.</p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1nbHlb28-fnWQtPz-txVOVL70g5R2grzIh3bMWjjeGa8/edit#heading=h.6bc6e5a12ww9\">Hatch Parameters intro call</a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1TC5QVMrdOwpSk7cvPDFMdl7kfET9eH8meLmwpWq0OoY/edit#heading=h.hhevn0icya3z\">CV and IH Forum call agenda</a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1GHhN-hSAqB469lZ3Xf4QnHSDg7vklHoFNohuEe4QATU/edit\">Dandelion Voting parameters call</a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1DZc49_g052oWVD3xyLOS38xJxa-AiMSOUmE1GL-ZySI/edit?usp=sharing\">Working group Manifesto</a></p>\n</li>\n<li>\n<p><a>TEC Roadmap</a></p>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210624143824",
+    "url": "https://forum.tecommons.org/t/tec-parameters/185"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303014251",
+   "url": "https://forum.tecommons.org/t/tec-parameters/185"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303014251",
+   "url": "https://forum.tecommons.org/t/tec-parameters/185"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624143824",
+   "url": "https://forum.tecommons.org/t/tec-parameters/185"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624143824",
+   "url": "https://forum.tecommons.org/t/tec-parameters/185"
+  }
+ ]
+}

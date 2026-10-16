@@ -1,0 +1,57 @@
+{
+ "id": 294,
+ "title": "Achieving Diplomatic Victory in the TEC",
+ "slug": "achieving-diplomatic-victory-in-the-tec",
+ "category_id": 10,
+ "posts_count": 0,
+ "created_at": "2021-03-19T18:00:56.156Z",
+ "last_posted_at": "2021-03-19T18:00:56.358Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-03-19T18:00:56Z",
+ "captured_between": [
+  "2021-04-20T14:13:25Z",
+  "2025-11-19T02:08:03Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-03-19T18:00:56Z",
+   "updated_at": "2021-03-19T18:00:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>During my very first call in the TEC livi had a great ice-breaker question: “What is your favourite game, and why?” it was an interesting thing to ask. Apart from Jake’s crazy rattle snakes stories or Zeptimus and I playing a couple rounds of Heroes of the Storm, I had an idea that struck me.</p>\n<p>My favourite game I said was Civilization, its a video game where you play as one of history’s great civilizations and you compete against other civilizations in a turn-based strategy system. You can win Civilization in various ways, scientific, cultural, militaristic or the more complex way, by Diplomacy.  Every X amount of turns there is a round of voting. All the Civilizations come together in a sort of ‘United Nations’ and vote on proposals that affect the rules of the game, rewarding or penalizing players based on their actions. If during these votes you vote yes on a proposal that eventually passes you are awarded a Diplomatic Victory point, collect enough of these and you win a <strong>Diplomatic Victory</strong>.</p>\n<h3>Cool story, bro…</h3>\n<p>This got me thinkin’ what if there was a way to win a Diplomatic Victory in the Commons? Maybe not an individual victory but a collective victory.  Some sort of reward or incentive for partaking in a successful vote. Is it possible to achieve victory for the community this way?</p>\n<p>The reward would have to be small enough to discourage it being gamed, but large enough to effectively encourage participation. If you have a small incentive to vote yes it would encourage greater vote participation and in the case of conviction voting increase the speed of the proposal process. There would also be a greater chance of passing votes unanimously.</p>\n<ul>\n<li>What would the impacts of this be?</li>\n<li>Why not just give it to all voters, not just yes voters?</li>\n<li>Does it already exist?</li>\n<li>What would the reward be? TEC tokens? Another Token? SourceCred praise?</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119020803",
+    "url": "https://forum.tecommons.org/t/achieving-diplomatic-victory-in-the-tec/294"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420141325",
+   "url": "https://forum.tecommons.org/t/achieving-diplomatic-victory-in-the-tec/294"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420141325",
+   "url": "https://forum.tecommons.org/t/achieving-diplomatic-victory-in-the-tec/294"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251119020803",
+   "url": "https://forum.tecommons.org/t/achieving-diplomatic-victory-in-the-tec/294"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251119020803",
+   "url": "https://forum.tecommons.org/t/achieving-diplomatic-victory-in-the-tec/294"
+  }
+ ]
+}

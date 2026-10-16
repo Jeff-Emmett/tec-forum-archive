@@ -1,0 +1,85 @@
+{
+ "id": 1174,
+ "title": "TEC Rewards Distribution - Round 21",
+ "slug": "tec-rewards-distribution-round-21",
+ "category_id": 31,
+ "tags": [
+  "rewards-distro"
+ ],
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2022-11-16T15:38:06Z",
+ "last_archived_post_at": "2022-11-16T15:41:20Z",
+ "captured_between": [
+  "2022-11-26T22:14:49Z",
+  "2023-04-01T00:56:15Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2022-11-16T15:38:06Z",
+   "updated_at": "2023-01-12T14:16:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This period covers praise given between <strong>25 October 2022 and 06 November 2022</strong>. We allocated a maximum of <strong>1874.0</strong> TEC tokens for rewards, with the ceiling achieved at <strong>158</strong>. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.</p>\n<p>Out of the total rewards:</p>\n<ul>\n<li>90% of the tokens were given as praise rewards <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/>\n</li>\n<li>7% distributed among quantifiers <img alt=\":balance_scale:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/balance_scale.png?v=10\" title=\":balance_scale:\"/>\n</li>\n<li>3% assigned to the reward board <img alt=\":memo:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/memo.png?v=10\" title=\":memo:\"/>\n</li>\n</ul>\n<p>This data has been reviewed by the Quantifiers and the Reward Board, and has been submitted for distribution to the <a href=\"https://xdai.aragon.blossom.software/#/rewardboardtec/\" rel=\"noopener nofollow ugc\">Reward Board DAO</a></p>\n<p>You can check out the <a href=\"https://rawcdn.githack.com/CommonsBuild/tec-rewards/c501ba7d9bce43c738b51c0d7f65d6d0913d793b/distribution_rounds/round-21/distribution_results/reports/round-21--cross-period-analysis-report.html\" rel=\"noopener nofollow ugc\">full period analysis here</a>. <img alt=\":bar_chart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/bar_chart.png?v=10\" title=\":bar_chart:\"/></p>\n<p>This post will be open to the community for review for 48 hours then submitted to the Reward Board for final execution. <img alt=\":heavy_check_mark:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heavy_check_mark.png?v=10\" title=\":heavy_check_mark:\"/></p>\n<p>The Rewards Distribution for this round is as follows:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Username</th>\n<th style=\"text-align:right\">Rewards in TEC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">r-x-x#8344</td>\n<td style=\"text-align:right\">116.828</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">akrtws (TE Academy)<span class=\"hashtag\">#4246</span>\n</td>\n<td style=\"text-align:right\">104.277</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">bear100#9085</td>\n<td style=\"text-align:right\">74.2156</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">pat.zip (TE Academy)<span class=\"hashtag\">#5266</span>\n</td>\n<td style=\"text-align:right\">56.4566</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">enti#1546</td>\n<td style=\"text-align:right\">52.2983</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">divine_comedian#5493</td>\n<td style=\"text-align:right\">46.3991</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Zeptimus#3359</td>\n<td style=\"text-align:right\">43.8218</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Nuggan#5183</td>\n<td style=\"text-align:right\">41.1662</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">kristofer#1475</td>\n<td style=\"text-align:right\">38.4106</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">GideonRo#3175</td>\n<td style=\"text-align:right\">37.5844</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">natesuits#4789</td>\n<td style=\"text-align:right\">35.0255</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Tamarandom#9361</td>\n<td style=\"text-align:right\">31.8268</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Maxwe11#7157</td>\n<td style=\"text-align:right\">28.6281</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">BiancaGadelha#2667</td>\n<td style=\"text-align:right\">18.7122</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">miguelb#5176</td>\n<td style=\"text-align:right\">18.0725</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">chuygarcia.eth#6692</td>\n<td style=\"text-align:right\">16.793</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Juankbell#7458</td>\n<td style=\"text-align:right\">15.5136</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">tigeroid#2951</td>\n<td style=\"text-align:right\">15.2671</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">liviade#1387</td>\n<td style=\"text-align:right\">15.0338</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Mettodo#7010</td>\n<td style=\"text-align:right\">14.622</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">r33pich33p#6906</td>\n<td style=\"text-align:right\">8.31655</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">durgadas#9280</td>\n<td style=\"text-align:right\">4.31821</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">streamerd#5565</td>\n<td style=\"text-align:right\">3.51854</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">withinthevacuum#2626</td>\n<td style=\"text-align:right\">3.51854</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Jeanne#8780</td>\n<td style=\"text-align:right\">3.51854</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">stratatrader#8522</td>\n<td style=\"text-align:right\">3.10271</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">innov8tor3#3988</td>\n<td style=\"text-align:right\">1.61213</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">brolag#0110</td>\n<td style=\"text-align:right\">1.59934</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">angieberry.eth#9822</td>\n<td style=\"text-align:right\">1.59934</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Atotsm#5719</td>\n<td style=\"text-align:right\">0.959602</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Araujo#0999</td>\n<td style=\"text-align:right\">0.959602</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401005615",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2022-11-16T15:41:20Z",
+   "updated_at": "2022-11-16T15:41:20Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>The ten highest rated contributions for this round were the following:</strong></p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Avg.Score</th>\n<th>To</th>\n<th style=\"text-align:right\">Reason</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">108.0</td>\n<td>akrtws (TE Academy)<span class=\"hashtag\">#4246</span>\n</td>\n<td style=\"text-align:right\">for the very successful launch of the TE fundamentals educational course! Great work I am loving the curated articles, amazing program!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">85.75</td>\n<td>pat.zip (TE Academy)<span class=\"hashtag\">#5266</span>\n</td>\n<td style=\"text-align:right\">for the very successful launch of the TE fundamentals educational course! Great work I am loving the curated articles, amazing program!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">80.5</td>\n<td>r-x-x#8344</td>\n<td style=\"text-align:right\">for a great and insightful analysis on praise <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167\">A Report on the distributive impact of Praise. Part 1</a>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">53.0</td>\n<td>akrtws (TE Academy)<span class=\"hashtag\">#4246</span>\n</td>\n<td style=\"text-align:right\">for her great IRL presentation of the launch of TE fundamentals at Devcon!</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">53.0</td>\n<td>Zeptimus#3359</td>\n<td style=\"text-align:right\">for having taken care of credentials for the TEC for so long! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">53.0</td>\n<td>enti#1546</td>\n<td style=\"text-align:right\">for getting out of his comfort zone, and spending the time to learning new technologies in order to createa beautiful dashboard on Discord activity at the commons <a class=\"inline-onebox\" href=\"https://eenti.github.io/TEC-Discord-Analysis/\" rel=\"noopener nofollow ugc\">Report - Chat Analytics</a>\n</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">34.13</td>\n<td>bear100#9085</td>\n<td style=\"text-align:right\">for the tremendous leadership he has shown this week in coming up with a process for helping the TEC to prioritize its ongoing operations and identify key strategic questions.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">32.75</td>\n<td>GideonRo#3175</td>\n<td style=\"text-align:right\">for leading the transformation session today, including leading the complicated and critical overhaul of the TEC structure</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">32.75</td>\n<td>bear100#9085</td>\n<td style=\"text-align:right\">creating the figma board of functional needs of the TEC in such a comprehensive way. This is such a useful way to cast the net wide and capture many perspectives of mission critical needs in the TEC that we can ensure continue to be supported.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">30.75</td>\n<td>Nuggan#5183</td>\n<td style=\"text-align:right\">for adding support to rad-classic for dynamic praise token distributions. If implemented in the TEC this will save us a lot of $TEC.</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401005615",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126221449",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126221449",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204025352",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204025352",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401005615",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401005615",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-21/1174"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": 1335,
+ "title": "Token Engineering Content Hub - Exciting New Initiative!",
+ "slug": "token-engineering-content-hub-exciting-new-initiative",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2024-01-19T23:29:46.582Z",
+ "last_posted_at": "2024-01-22T18:32:17.939Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2024-01-22T18:32:17Z",
+ "captured_between": [
+  "2024-02-29T11:22:42Z",
+  "2024-02-29T11:22:42Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2024-01-19T23:29:46Z",
+   "updated_at": "2024-01-19T23:29:46Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Hello Token Engineering Community!</p>\n<p>I’m thrilled to share an exciting experiment that we are planning to implement, revolving around my role as the Events Lead and the insightful discussions that have taken place during our Token Utility calls, particularly with <a class=\"mention\" href=\"/u/linuxiscool\">@linuxiscool</a>.</p>\n<p><strong>The Challenge: A Wealth of TE Content</strong></p>\n<p>The token engineering community has been a source of diverse knowledge and information. However, the abundance of content, including tutorials, podcasts, recorded sessions, and more, is scattered across different channels managed by various teams within the space.</p>\n<p><strong>The Solution: Introducing Beem</strong></p>\n<p>To streamline and enhance the accessibility of Token Engineering Content, we are proposing an initiative to act as an aggregator of knowledge and information in a decentralized manner. Our tool of choice for this experiment is Beem, a decentralized video and streaming network built on LivePeer.</p>\n<p><strong>Understanding Beem: A Decentralized Solution</strong></p>\n<p>Beem allows communities to create their own ‘Beem applications’ - pages that feature content uploaded to IPFS and other decentralized storage networks and presents them in a user-friendly manner (think a Netflix homepage). This includes tutorials, podcasts, and other recorded events.</p>\n<p>An additional benefit to Beem is that it facilitates live-streaming on the application page for things like community calls, workshops, and live presentations – all of which can have access requirements.</p>\n<p>Beem supports various access models such as Pay-per-View, Vouchers, Token-Gating, and even NFT subscriptions.</p>\n<p><strong>Creating Utility for $TEC</strong></p>\n<p>One of the goals of this experiment is to begin generating utility for $TEC by token-gating TE content within the application. By offering curated content that is aggregated for the benefit of token engineering participants, we believe such an application could become a schelling point for knowledge and external communications among TE firms and participants .</p>\n<p><strong>Progression of Access Rights</strong></p>\n<p>As we embark on this Beem experiment, we’ll initiate a token gating access of 50 TEC tokens. Holding 50 TEC will grant you access to the full library of TE content hosted on the application. Looking ahead, we aim to implement an NFT subscription service, providing flexibility in digital currency options and offering discounts for payments in $TEC.</p>\n<p><strong>Content as a Commons</strong></p>\n<p>If the Token Engineering Content Hub proves to be successful in providing utility to Token Engineers, we will explore moving from a token-gated model to a revenue generating model.</p>\n<p>In a future iteration, the revenue generated from something like NFT subscriptions (ERC-4907) will directly benefit content creators, providing an incentive for the creation of more content that benefits the field of token engineering.</p>\n<p>As we initialize this application, we want to acknowledge the contributions of various TE firms and individuals for creating the valuable content that already exists, and will be requesting permission to host their videos and in exchange providing their communities with vouchers to access the Token Engineering Content Hub.</p>\n<p>Additionally, with Beem, organizations like Block Science and TE Academy can potentially run their own independent ‘Beem applications’, manage their videos, and curate content specifically for their communities.  (Think of live courses on TE Academy, special video courses, etc. all behind a pay-wall)</p>\n<p>Select pieces of content can then be shared from those respective communities within the broader Token Engineering Content Hub, fostering a more collaborative environment that grants independence to TE firms to manage it themselves.</p>\n<p>We invite your thoughts, advice, and ideas as we move forward with this exciting initiative. Let’s collectively shape the future of the Token Engineering Content Hub!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229112242",
+    "url": "https://forum.tecommons.org/t/token-engineering-content-hub-exciting-new-initiative/1335"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Efra",
+   "name": null,
+   "created_at": "2024-01-22T16:29:45Z",
+   "updated_at": "2024-01-22T16:29:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Congrats on the initiative Nate!</p>\n<p>Token-gating access seems like a smart move to amplify the value for the TEC community. I’m excited about the possibilities!</p>\n<p>Looking forward to it!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229112242",
+    "url": "https://forum.tecommons.org/t/token-engineering-content-hub-exciting-new-initiative/1335"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-01-22T18:32:17Z",
+   "updated_at": "2024-01-22T18:32:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Super cool to see the TE Content Hub initiative taking shape so quickly. I think it has so much potential to create further impact in the TEC ecosystem and TE space.</p>\n<p>Looking forward to its launch!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240229112242",
+    "url": "https://forum.tecommons.org/t/token-engineering-content-hub-exciting-new-initiative/1335"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229112242",
+   "url": "https://forum.tecommons.org/t/token-engineering-content-hub-exciting-new-initiative/1335"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229112242",
+   "url": "https://forum.tecommons.org/t/token-engineering-content-hub-exciting-new-initiative/1335"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "id": 235,
+ "title": "TEC Transparency Audit Proposal",
+ "slug": "tec-transparency-audit-proposal",
+ "posts_count": 5,
+ "category_id": 7,
+ "created_at": "2021-01-29T10:43:31.980Z",
+ "last_posted_at": "2021-02-01T18:07:56.187Z",
+ "tags": [
+  "cultural-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "last_archived_post_at": "2021-02-01T18:07:56Z",
+ "captured_between": [
+  "2021-03-06T02:37:40Z",
+  "2023-05-30T08:56:53Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-01-29T10:43:32Z",
+   "updated_at": "2021-11-12T21:46:16Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p><strong>Transparency Audit Proposal</strong></p>\n<p>As TEC is a value-driven community, we believe that transparency plays an important role in exercising integrity in our community. The Transparency WG has been documenting the calls/meetings and making sure that the project updates are available to the community members and the general public through Youtube/Lbry videos. However, we feel that we can go beyond the videos to promote and reinforce transparency and integrity in our community. So, we would like to propose to conduct a transparency audit across the working groups and help them improve transparency.</p>\n<p><em>We would like to get your vote to proceed with this audit.</em></p>\n<p><strong>What is our goal?</strong></p>\n<p>The goal of the audit is not to impose transparency across the WGs, but to provide guidance on how all of us can be transparent with our actions and decisions. While this will not be mandatory, we strongly encourage the participation of all WGs.</p>\n<p><strong>Why is it important?</strong></p>\n<p>The transparency audit will serve as a tool for mutual monitoring, practicing accountability, and community engagement.</p>\n<p><strong>What’s the desired outcome?</strong></p>\n<p>A report that measures the transparency level of each WG through a <a href=\"https://docs.google.com/document/d/1qL5rOJLFF7UsioslmdZwbf6-o3jDUPaxaBtGSGhjVJQ/edit?usp=sharing\">set of criteria</a>. From this report, the Transparency WG and the audit will be able to identify the areas where transparency needs to improve. The Transparency WG will then provide recommendations on how to increase their transparency score.</p>\n<p><strong>How will the community benefit from it?</strong></p>\n<ul>\n<li>This will give them better insights/guidance on being transparent with their documentation, actions, and decisions.</li>\n<li>The documents and information will be reviewed for accuracy and made available to all community members.</li>\n<li>This will increase trust between the community members through mutual monitoring.</li>\n</ul>\n<p><strong>What’s the proposed process?</strong></p>\n<p>The detailed process is to be finalized yet after we gather the votes and feedback. But here’s the general process that we are proposing:</p>\n<ol>\n<li>The Transparency WG already created a <a href=\"https://docs.google.com/document/d/1qL5rOJLFF7UsioslmdZwbf6-o3jDUPaxaBtGSGhjVJQ/edit?usp=sharing\">set of criteria/checklist</a> for the audit, which have been reviewed by some WG representatives.</li>\n<li>We will perform trial audits on a few select WGs before completely rolling it out.</li>\n<li>The audit will be done via questionnaires/forms so the participants can complete it at their convenient time.</li>\n<li>The Transparency WG will check the completed audit questionnaires and provide feedback on the transparency level of the participating group. The frequency and schedule of audits will be identified after the trial audits. Having said that, the WGs are welcome to request transparency checks anytime.</li>\n</ol>\n<p><strong>Any blocker we might have?</strong></p>\n<p><strong>When do we plan to start the audit?</strong></p>\n<p>Trial audit: Before the Hatch</p>\n<p>Official audit: After the Hatch</p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-public=\"true\" data-poll-results=\"on_vote\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<div class=\"poll-title\"><strong>Should transparency conduct this audit?</strong></div>\n<ul>\n<li data-poll-option-id=\"f37c41d637e2028156d9a405479c5bfa\">Yes!</li>\n<li data-poll-option-id=\"2d91e8a605ec011cd3bfb19209c9552b\">Neutral</li>\n<li data-poll-option-id=\"b1a6ce89a0bcc8fd86e96b2215132104\">Block</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085653",
+    "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-01-29T10:59:26Z",
+   "updated_at": "2021-01-29T10:59:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This is fantastic, Zep and Ivy!! My only hesitation to vote Yes is whether an audit will impede the tasks that we’ve collectively identified as Critical to Hatch. Which WG do you have in mind for the trial audit and does the Steward confirm that it is possible to comply with the audit without shifting their current timelines on our Roadmap to Hatch?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085653",
+    "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-01-29T11:24:23Z",
+   "updated_at": "2021-01-29T11:24:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We were thinking on Soft Gov and Graivty since those WG are the ones we will gather the most accurate feedback and also we think do the audit can add value, and build trust. We talked with <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> and <a class=\"mention\" href=\"/u/liviade\">@liviade</a> and it seems it was a good idea to them.</p>\n<p>Our goal is to provide guidance if needed and the audit mission is to encourage being transparent having the documentation up to date which should never be shifting their current timelines.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085653",
+    "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-01-29T11:35:40Z",
+   "updated_at": "2021-01-29T11:35:40Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’m impressed with the quality of the questions in the set of criteria, I think that this is going to improve not only transparency but also the documentation of the DAO.</p>\n<p>I think that starting this process should not slow down anything, since it should not be a problem to have a bad qualification at the beginning, the important is to prosecute the overall improvement of transparency. I propose to use this first audit as a “photo” of the current transparency state of TEC, and improve our scores during and after the hatch.</p>\n<p>I also would suggest to not publish screenshots in the audits, and to publish actual links instead. I think the goal should not be to verify “if” something were done in a particular way, but to know “where” it was done and the context around it. Links create a <a href=\"https://en.wikipedia.org/wiki/World_Wide_Web\">web</a> of content, meanwhile screenshots are totally unnecessary in a trusted community. So I would prefer to see links to discord messages, links to a certain moment in youtube videos, etc.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085653",
+    "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-01-29T19:05:04Z",
+   "updated_at": "2021-01-29T19:05:04Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Such a well written proposal, very clear – great work you two!!!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085653",
+    "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-02-01T18:07:56Z",
+   "updated_at": "2021-02-01T18:07:56Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The voting session is closed and this proposal was approved <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/><br/>\n</p><aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">TEC soft gov decision tracking</a></h3>\n<p>Sheet1\n\nproposal title ,date,yes votes,neutral votes,block votes,result,proposal link \nDecision Making Process,Aug 28,4,1,0,approved,&lt;a...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530085653",
+    "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306023740",
+   "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210306023740",
+   "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530085653",
+   "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530085653",
+   "url": "https://forum.tecommons.org/t/tec-transparency-audit-proposal/235"
+  }
+ ]
+}

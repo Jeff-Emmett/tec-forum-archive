@@ -1,0 +1,248 @@
+{
+ "id": 1520,
+ "title": "TEC Shutdown Proposal",
+ "slug": "tec-shutdown-proposal",
+ "category_id": 33,
+ "posts_count": 13,
+ "created_at": "2025-10-17T00:21:43.879Z",
+ "views": 772,
+ "last_posted_at": "2025-11-04T20:28:24.104Z",
+ "highest_post_number": 13,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 13,
+ "archived_numbers": 13,
+ "last_archived_post_at": "2025-11-04T20:28:24Z",
+ "captured_between": [
+  "2025-11-19T01:37:21Z",
+  "2026-02-02T10:22:32Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2025-10-17T00:21:44Z",
+   "updated_at": "2025-10-17T00:21:44Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h2>\n<a name=\"introduction-1\" class=\"anchor\" href=\"#introduction-1\"></a>Introduction</h2>\n<p>The Token Engineering Commons was born as an ambitious experiment to implement the world’s first blockchain-based commons. We dedicated it to advancing the field of token engineering.</p>\n<p>This commons is now at a crossroads. Without decisive action, the TEC risks a drawn-out decline that undermines its legacy and leaves its community in limbo.</p>\n<p>This proposal builds on Rex’s recent proposal for <a href=\"https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516\">sunsetting the $TEC token</a> with a budget and plan for sunsetting not just the $TEC token, but the TEC itself. History is watching to see whether we bring this experiment to a close in ways that are in keeping with the great care with which it was created. The proposal is based on three basic principles:</p>\n<p><strong>1. Honor the Legacy of the World’s First Blockchain Commons</strong></p>\n<p>As the world’s first explicit economic commons on the blockchain, we have valuable lessons in decentralized governance, collective funding, and community-driven economic design for those who might follow in our footsteps. The application of Ostrom’s principles, including their successes and failures, are just some of the many important insights that can inform the next generation of economic commons.</p>\n<p><strong>2. Exemplify the Token Engineering Values Behind Our Mission</strong></p>\n<p>The TEC was a bet on a novel engineering field for building new socio-economic systems, like our commons. Our Hatch demonstrated how a community can be engaged around the design, verification, and deployment of these crypto-economic systems. We now have an opportunity to echo token engineering values in how we sunset these systems and the social and economic layers they enabled.</p>\n<p><strong>3. Care for the People Behind the Commons</strong></p>\n<p>The TEC was more than just mechanisms and money; it was people. As most of the original community moved on in late 2021, a small team of contributors stayed behind to continue to steward the TEC’s work. Their innovative grants programs generated real awareness for token engineering, and they did this largely without touching the Common Pool for the last two years. As part of a principled sunset, the TEC community has an opportunity to recognize this sacrifice and dedication.</p>\n<h1>\n<a name=\"sunsetting-tec-assets-2\" class=\"anchor\" href=\"#sunsetting-tec-assets-2\"></a>Sunsetting TEC Assets</h1>\n<p>This Sunsetting Plan includes steps for responsibly retiring the TEC’s 4 primary remaining non-financial assets:</p>\n<p><em>Technical Infrastructure</em><br>\nThe dissolution of the Augmented Bonding Curve (ABC) and removal of all funds within the Common Pool will follow the <a href=\"https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516\">implementation plan</a> set out in the original proposal by <a class=\"mention\" href=\"/u/rex\">@Rex</a>.</p>\n<p>At the same time, this proposal provides the necessary flexibility for General Magic and the Coordination Team to exercise reasonable discretion in making specific adjustments as needed. This ensures that, while we remain faithful to the framework already agreed upon, the teams are empowered to respond pragmatically to the realities of winding down a complex engineering project.</p>\n<h2>\n<a name=\"knowledge-resources-3\" class=\"anchor\" href=\"#knowledge-resources-3\"></a>Knowledge Resources</h2>\n<p>Throughout its hatch and operations, the TEC community learned a great deal that could be useful to those who come after us. It is important that we document what we learned, both in launching and running a blockchain-based commons as well as the core mechanisms we used to do that. As part of the shutdown process, we will capture this knowledge through:</p>\n<ul>\n<li>Ensuring the preservation of critical knowledge from Gitbook, the Forum, and any other TEC knowledge platforms by archiving them for public reference. Contents will be licensed with the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International</a> deed.</li>\n<li>Supporting the Bonding Curve Research Group’s retrospective analysis of key TEC mechanisms (the Augmented Bonding Curve, Conviction Voting, and Praise System) with a $10K grant. This funding will be the final grant made by the TEC.</li>\n</ul>\n<h2>\n<a name=\"tec-brand-4\" class=\"anchor\" href=\"#tec-brand-4\"></a>TEC Brand</h2>\n<p>To preserve the integrity and avoid muddying the narrative of the TEC’s legacy, the TEC brand will be retired as part of the shutdown process. For posterity’s sake, TEC branding assets will be archived <a href=\"https://github.com/CommonsBuild/tec-branding-assets\">on Github </a>under its existing <a href=\"https://github.com/CommonsBuild/tec-branding-assets?tab=GPL-3.0-1-ov-file#readme\">GPL-3.0 license</a>.</p>\n<p><em>Communication Platforms</em></p>\n<p>The TEC has two types of communication platforms: social media profiles (X, LinkedIn, and Discord) and publishing sites (Discourse, Medium, Paragraph, and the TEC website). During the 6-month tokenholder notification period, both platform types will be used for outreach to tokenholders (see below). After that period, the social media accounts will be closed after archiving them to the best of our ability. The publishing accounts will also be archived and then shut down.</p>\n<p>As part of the TEC’s closure process, we considered the feasibility of archiving our various communication platforms. For social media accounts, the general assumption is that archiving is either impractical or unnecessary, with the exception of X. Given its relevance, we plan to request the archival data of all interactions, store it in a .zip file, and secure it by hashing into Arweave for long-term preservation. While some of the X data may be messy to work with, the cost of storage is negligible and may prove valuable for future reference.</p>\n<p>Much of our media content from X Spaces has already been recorded and uploaded into the TEC Youtube, and we will also publish some of the unpublished recordings as well. Other platforms such as LinkedIn, were considered less relevant, and Discord presents additional challenges due to the complexity of archiving, though it may still warrant exploration.</p>\n<p>All avenues of preserving TEC history will be attempted so that those wishing to study this experiment in the future will be able to with relative ease.</p>\n<h1>\n<a name=\"responsibilities-to-tec-stakeholders-5\" class=\"anchor\" href=\"#responsibilities-to-tec-stakeholders-5\"></a>Responsibilities to TEC Stakeholders</h1>\n<p>The TEC has served many stakeholders, with token engineering practitioners serving as a key constituency. Since launch, the TEC has funded $433,316 in direct grants to promising token engineering projects. In addition, its Token Engineering Grants Rounds collaboration with Gitcoin catalyzed an additional $250,000, while simultaneously generating important visibility for the field. The TEC has fulfilled all outstanding obligations to its grantees.</p>\n<p>The only remaining obligations for the TEC are to two stakeholder groups: current contributors and tokenholders.</p>\n<h2>\n<a name=\"contributor-severance-and-backpay-6\" class=\"anchor\" href=\"#contributor-severance-and-backpay-6\"></a>Contributor Severance and Backpay</h2>\n<p>The number of TEC contributors shrank dramatically in its first year of operations. The skeleton crew that remained behind faced challenging circumstances as they sought a sustainable path in fulfilling the mission of the commons. Its members worked well-under market rates, donating many hours. Severance is a common method for providing financial and transitional support to employees after an involuntary job loss such as this shutdown. One-to-two weeks of severance pay per year of service is considered the norm. This proposal uses 1.5 weeks.</p>\n<p>Over the last three months, Coordination Team members worked without pay to help the TEC navigate several possible futures. The first such proposal, which would have funded their work, was set aside and never voted on because of subsequent proposals for the $TEC’s sunset. The team continued working throughout this time. In recognition of this show of good faith and dedication, this proposal recommends an award discounted to one-half of that missing pay.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Backpay and Severance Calculations for Coordination Team</th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Ratios</td>\n<td>Nate</td>\n<td>Bear</td>\n<td>Mon</td>\n<td>Rex</td>\n<td>Total</td>\n</tr>\n<tr>\n<td>Monthly pay:</td>\n<td></td>\n<td>$3,600</td>\n<td>$3,400</td>\n<td>$2,200</td>\n<td>$500</td>\n<td></td>\n</tr>\n<tr>\n<td>Years of service:</td>\n<td></td>\n<td>4.78</td>\n<td>3.5</td>\n<td>1.29</td>\n<td>3.42</td>\n<td></td>\n</tr>\n<tr>\n<td>Months worked without pay</td>\n<td></td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td>3</td>\n<td></td>\n</tr>\n<tr>\n<td>Backpay Discount</td>\n<td>50%</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Severance Ratio (Years:Weeks)</td>\n<td>150%</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Severance Weeks</td>\n<td></td>\n<td>7.2</td>\n<td>5.3</td>\n<td>1.9</td>\n<td>5.1</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Backpay:</td>\n<td></td>\n<td>$5,400</td>\n<td>$5,100</td>\n<td>$3,300</td>\n<td>$750</td>\n<td><em>$14,550</em></td>\n</tr>\n<tr>\n<td>Severance:</td>\n<td></td>\n<td>$6,453</td>\n<td>$4,463</td>\n<td>$1,064</td>\n<td>$641</td>\n<td><em>$12,621</em></td>\n</tr>\n<tr>\n<td>Total:</td>\n<td></td>\n<td>$11,853</td>\n<td>$9,563</td>\n<td>$4,364</td>\n<td>$1,391</td>\n<td><strong>$27,171</strong></td>\n</tr>\n</tbody>\n</table>\n</div><h2>\n<a name=\"tokenholder-distribution-and-notification-7\" class=\"anchor\" href=\"#tokenholder-distribution-and-notification-7\"></a>Tokenholder Distribution and Notification</h2>\n<p>With this proposal, tokenholders are given the opportunity to vote on how the TEC’s remaining financial assets will be distributed. It proposes that all remaining TEC financial assets after allocations for the TEC Sunset Budget outlined below be distributed, pro rata, to token holders. To prevent token speculation, disbursements will be calculated based on the lower of: (1) the number of $TEC tokens held as of July 23, 2025 (when the sunset plan was first publicly announced), or (2) the number of $TEC tokens held as of the dissolution date (when this proposal is enacted). <strong>The distribution process will be implemented via a claims contract outlined <a href=\"https://forum.tecommons.org/t/sunsetting-implementation-for-the-tec-token/1516\">here</a>.</strong></p>\n<p>The claims process requires tokenholders to take action to claim their funds, so tokenholder notification is an important part of this sunsetting process. To this end, the Coordination team will maintain a 6-month notification process, marked by heavy upfront notification and ending with a final month of high-frequency notifications via TEC communication channels (see above).</p>\n<p><strong>Any unclaimed funds at the end of the 6-month notification process will be donated to the <a href=\"https://giveth.io/cause/giveth-galaxy\">Given Galaxy Cause</a> on Giveth.</strong></p>\n<h1>\n<a name=\"tec-sunset-budget-8\" class=\"anchor\" href=\"#tec-sunset-budget-8\"></a>TEC Sunset Budget</h1>\n<p>The below table summarizes all associated costs for the work outlined in this proposal. Note that the sunsetting operations will happen over the course of six months, with most of that work happening in the first month and the remaining five months being mostly focused on ongoing tokenholder outreach.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>TEC Sunset Budget</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>$27,171</td>\n<td>Severance and backpay</td>\n</tr>\n<tr>\n<td>$10,000</td>\n<td>Retrospective token engineering analysis grant</td>\n</tr>\n<tr>\n<td>$10,500</td>\n<td>Sunsetting operations</td>\n</tr>\n<tr>\n<td>$5,000</td>\n<td>Claims contract for tokenholder fund distribution</td>\n</tr>\n<tr>\n<td><strong>$52,671</strong></td>\n<td><strong>TOTAL</strong></td>\n</tr>\n</tbody>\n</table>\n</div><p>Severance, research funding, and claims contracts will be paid out immediately to relevant parties. The sunsetting operations budget will remain in the Coordination Team Multisig to fund remaining shutdown operations including archiving all relevant TEC knowledge bases, and any unforeseen costs associated with the shutdown process.</p>\n<h2>\n<a name=\"call-to-action-9\" class=\"anchor\" href=\"#call-to-action-9\"></a>Call to Action</h2>\n<p>The TEC was an experiment in building a commons for the digital age. Its success lies not in its permanence, but in the courage to act decisively when its purpose has run its course. This proposal allows us to close TEC with integrity and dignity, leaving a clear legacy and redistributing its resources responsibly.</p>\n<p>We ask token-holders to come together to support this proposal and ensure the TEC’s conclusion is remembered as a model for how blockchain communities can gracefully close, just as they boldly begin.</p>\n<p>The most valuable roles you can play in ensuring an honorable and orderly sunset of the TEC include:</p>\n<ol>\n<li>Voting in favor of this proposal if you currently hold $TEC</li>\n<li>Bringing this proposal to the attention of others who may currently hold $TEC</li>\n<li>Showing support with likes and comments</li>\n<li>Providing constructive suggestions for improvement in the comments as part of the TEC Advice Process</li>\n</ol>\n<p>On a final note, the Coordination Team is eager to wrap up their work at the TEC and move on to whatever comes next for them. Should this sunsetting process become further delayed or overly complicated, we risk losing their assistance in effecting an orderly shutdown. Should that happen, there is a risk of this community and its commons being left in limbo or that we haphazardly close down the TEC without adequately protecting the various assets outlined above.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "mzargham",
+   "name": "mzargham",
+   "created_at": "2025-10-17T13:00:38Z",
+   "updated_at": "2025-10-17T13:00:38Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>Thanks for doing the work to put this together.</p>\n<p>I know this kind of thing is challenging on many levels – winding something down is never easy. That said “end of life” is a part of any “life cycle” – an engineering lifecycle and biological life cycle. Recognizing when an infrastructure is no longer fulfilling the needs of its constituents is an appropriate time for a controlled wind down process. On the biological note, when the spirit has gone out (in this case most of the contributors have moved their attention onward) an organisms body needs to decompose so its resources can be redistributed into other ecosystems.</p>\n<p>While i am not “excited” to see the TEC wind down. I think it is the correct decision at this time. Furthermore, I believe the ability to design and execute a graceful shutdown process is a testament to a “life well lived”. It is my sincere hope that the learnings from this experiment are well documented and that the TEC’s legacy will be venerated by the digital commons to come after it.</p>\n<p>Thank you all for all of your contributions.<br>\n-Z</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Kojak",
+   "name": "Jose Antony",
+   "created_at": "2025-10-18T13:13:44Z",
+   "updated_at": "2025-10-18T13:15:10Z",
+   "reply_to_post_number": 2,
+   "like_count": 3,
+   "cooked": "<p><strong>Reviving the TEC Spirit from the Global South</strong></p>\n<p>From my perspective — shaped by a Global South lens — the TEC Academy and Commons were never failures. They were courageous experiments that advanced token engineering in ways few dared to try. Mistakes were made, yes, but they were the kind that come from building something truly new.</p>\n<p>Where TEC faltered was in leaning too heavily on theory and grants, and not fully trusting its own capacity for applied work. My aim is to change that — to bring the TEC spirit back through real-world projects rooted in South India, where institutions remain strong, talent is abundant, and costs are far lower. For context, IIT Madras’s incubation ecosystem — which has supported over 350 startups with a combined valuation of ₹45,000 crore (<a href=\"https://www.newindianexpress.com/xplore/2024/Jan/05/iit-madras-closed-2023-with-350-startups--c45000-crore-valuation-2648082.html\" rel=\"noopener nofollow ugc\">source</a> ) — shows how such models can thrive from the Global South.</p>\n<p>By launching small, bottom-up, community-driven projects using tokenized systems, we can generate both learning and revenue to sustain a renewed ecosystem. There will be regulatory challenges, but they are challenges we’re ready to face. Over time, these efforts could reconnect with the broader TEC vision: the Academy, the Commons, and tools like the Augmented Bonding Curve and Conviction Voting.</p>\n<p>I seek no funding — only access to TEC’s knowledge and, at times, dialogue with its experts. Strong roots deserve new soil, and TEC’s ideas are too alive to fade.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "superdca",
+   "name": "Mike | Super DCA",
+   "created_at": "2025-10-18T19:12:33Z",
+   "updated_at": "2025-10-18T19:12:33Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Thank you TEC team for running several great Gitcoin Grant rounds. Super DCA wouldn’t be where it is today without the support we received from GG20, 21, and 23 <img src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" class=\"emoji\" alt=\":pray:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2025-10-20T18:35:52Z",
+   "updated_at": "2025-10-20T18:35:52Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>This all makes a lot of sense. I will support it with my TEC.</p>\n<p>It’s been a wild ride, and I really want to give a huge shout out to Gideon and the current stewards for all the incredible work that was done to not touch the common pool for 2 years.</p>\n<p>This is not normally how DAOs die… usually they get slowly drained by the stewards… instead you guys sacrificed and fought FOR YEARS to keep the DAO alive… It’s something that should be highlighted to your future employers that you shut down a DAO in a clean way without any shenanigans. 11/10 integrity.  I’m incredibly grateful for you all for carrying this dream.</p>\n<p>The TEC was just ahead of it’s time, I mean now 99% of tokens launched are on a version of an ABC  in 2021, it was more like 1%. I wonder how much second order effects the TEC had in making that a reality.</p>\n<p>Thank you again to <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/bear100\">@bear100</a> <a class=\"mention\" href=\"/u/rex\">@rex</a> &amp; you are all heroes and I hope that this sacrifice is recorded and highlighted in the retrospective.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "DecentralizeSDGs",
+   "name": "Marc Liberati",
+   "created_at": "2025-10-21T11:51:12Z",
+   "updated_at": "2025-10-21T11:51:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I want to recognize how much effort has gone into crafting a responsible wind-down path for TEC and how difficult it has been to come to this end point. That said, I want to flag a few concerns and suggestions.</p>\n<p>Firstly: this truly is a misfortune cloaked in honey, the TEC achieved remarkable things, explored novel token-engineering mechanisms, supported many contributors and grantees. It deserves honourable closure that respects the stakeholders.</p>\n<p>Secondly: I believe one aspect is missing from the current proposal’s framing. The proposal rightly says “token-holders are given the opportunity to vote on how the remaining financial assets will be distributed.” but what about those who participated in the Hatch and took early risk in building the commons (even with assets frozen)? For example, those who held TEC tokens from the Hatch as facilitated through Trusted Seed deserve some permanent recognition of that participation, not only as token-holders at a specific snapshot date, but as founders/holders of the experiment’s legacy.</p>\n<p>In particular: the mention that “token-holders held as of July 23, 2025 … or at dissolution date” will be used for calculating distribution. That’s a functional approach, but it overlooks earlier participation (in the Hatch or the “Claims” of the coordination team) which merits a form of recognition. I feel strongly that those early contributors as well as Claims that might arise from wind-down now should be permanently recorded as TEC holders (or honourary holders), possibly through an NFT similar to that of the Hatch as in the ledger / archive of the experiment.</p>\n<p>Why does this matter? Because it guards against future hacks or attempts to “rehatch” the TEC using stranded assets under the guise of a new project. If someone tries to revive or repurpose remaining assets (or “stranded TEC assets”) without honouring the originals, that would, in my view, constitute a breach of the integrity and trust of the experiment. The archival record matters for legitimacy and historical clarity.</p>\n<p>Thirdly: While I applaud the choice of the Giveth Galaxy Cause as a charitable destination for unclaimed funds, I believe the default path for unclaimed assets should not be charity. Instead, unclaimed assets should revert to active token-holders, i.e., those who maintain TEC holdings (according to the agreed snapshot) and claim their share. Sending residuals to a charity is admirable, but in the interest of protecting the communal asset and respecting token-holders, I favour the route of active holders first.</p>\n<p>In short, I am not opposing the wind-down in principle, but urge these adjustments:</p>\n<ul>\n<li>Create a formal record / ledger of early Hatch participants and token-holders (including NFT holders, “Claims” participants) to preserve their legacy.</li>\n<li>Ensure that distribution calculation explicitly recogniszs early participation, not just snapshot date holdings.</li>\n<li>Make active token-holders the priority recipients of unclaimed assets, rather than routing to charity by default.</li>\n<li>Incorporate safeguards against any future attempt to “rehatch” using TEC assets without community consent and historical recognition.</li>\n</ul>\n<p>I believe these adjustments will help the TEC close with dignity, honour its past, and leave a legacy that future experiments can point to with respect, rather than caution. I hope the Coordination Team and the community will consider refining the proposal accordingly. Thank you.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2025-10-21T22:23:41Z",
+   "updated_at": "2025-10-21T22:23:41Z",
+   "reply_to_post_number": 6,
+   "like_count": 2,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a>. Thanks for your comments. The challenge now is burnout around a process that started 3 months ago and has involved many twists and turns.</p>\n<p>This is solid proposal. Sure, it’s not perfect and there may be differences of opinion here or there. But we need to move forward.</p>\n<p>Having said that, let me try to address the issues you raise:</p>\n<aside class=\"quote no-group quote-modified\" data-username=\"DecentralizeSDGs\" data-post=\"6\" data-topic=\"1520\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" class=\"avatar\"> DecentralizeSDGs:</div>\n<blockquote>\n<p>Create a formal record / ledger of early Hatch participants.</p>\n</blockquote>\n</aside>\n<p>There was a Hatcher’s NFT that was issued and we’re trying to track it down.</p>\n<aside class=\"quote no-group\" data-username=\"DecentralizeSDGs\" data-post=\"6\" data-topic=\"1520\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" class=\"avatar\"> DecentralizeSDGs:</div>\n<blockquote>\n<p>Ensure that distribution calculation explicitly recogniszs early participation</p>\n</blockquote>\n</aside>\n<p>Disallowing distributions to post-Hatch token purchasers would be unfair. Somehow boosting Hatcher shares relative to post-Hatcher share would create a lot of thorny questions, and there was never any such agreement around (or even mention of) that kind of arrangement to begin with.</p>\n<aside class=\"quote no-group\" data-username=\"DecentralizeSDGs\" data-post=\"6\" data-topic=\"1520\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" class=\"avatar\"> DecentralizeSDGs:</div>\n<blockquote>\n<p>Make active token-holders the priority recipients of unclaimed assets</p>\n</blockquote>\n</aside>\n<p>We looked at some sort of topping off approach for active token-holders, but it seemed to introduce perverse incentives against robust token holder outreach - or at least the perception of that possibility (i.e. doing just minimal outreach efforts would boost shares to those of us actively engaged right now vs those active in the past).</p>\n<p>Also, the Giveth Galaxy invested a great deal of time and resources into the TEC over the years. Routing unclaimed assets back to them is a drop in the bucket of their total support to the TEC over that time. It acknowledges a different, and extremely important, form of stakeholder contribution to the TEC.</p>\n<aside class=\"quote no-group\" data-username=\"DecentralizeSDGs\" data-post=\"6\" data-topic=\"1520\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" class=\"avatar\"> DecentralizeSDGs:</div>\n<blockquote>\n<p>Incorporate safeguards against any future attempt to “rehatch” using TEC assets</p>\n</blockquote>\n</aside>\n<p>I’m not sure how real that possibility is, or what, exactly, that those safeguards would look like. We’ve tried to address these concerns as best as possible, but there are no commercial trademarks or practical legal routes that I can see. If you’ve got some specific ideas that don’t require big expenditures of time/resources during the sunset period, please share them.</p>\n<p>The bottom line is that working through all these proposals and negotiations has taken a lot of time. It hasn’t been easy; people are tired and we are at risk of burnout.</p>\n<p>It’s time to wrap things up and put this to a vote, which I hope you will support so we can close this amazing experiment down with as much grace as possible.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "rex",
+   "name": "rex",
+   "created_at": "2025-10-21T23:21:23Z",
+   "updated_at": "2025-10-21T23:36:54Z",
+   "reply_to_post_number": 7,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-username=\"gideonro\" data-post=\"7\" data-topic=\"1520\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" class=\"avatar\"> gideonro:</div>\n<blockquote>\n<p>There was a Hatcher’s NFT that was issued and we’re trying to track it down.</p>\n</blockquote>\n</aside>\n<p>There have been a number of POAP’s issued throughout the history of the Commons; and by virtue of the blockchain, they will never be lost.</p>\n<p>Excluding Gravity-issued POAP’s, here is a list of them, <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> :</p>\n<ul>\n<li>2022 TEC Steward: <a href=\"https://poap.gallery/drops/53252\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/53252</a>\n</li>\n<li>TEC at ETH Denver 2022: <a href=\"https://poap.gallery/drops/28689\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/28689</a>\n</li>\n<li>Commons Upgrade Runoff: <a href=\"https://poap.gallery/drops/21884\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/21884</a>\n</li>\n<li>Param Parties and Debates Dec 2021: <a href=\"https://poap.gallery/drops/19880\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/19880</a>\n</li>\n<li>Param Parties and Debates Nov 2021: <a href=\"https://poap.gallery/drops/19880\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/19880</a>\n</li>\n<li>2021 TEC Steward: <a href=\"https://poap.gallery/drops/12590\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/12590</a>\n</li>\n<li>OG Hatcher: <a href=\"https://poap.gallery/drops/6156\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/6156</a>\n</li>\n<li>TEC Hatch Participation: <a href=\"https://poap.gallery/drops/5723\" rel=\"noopener nofollow ugc\">https://poap.gallery/drops/5723</a>\n</li>\n</ul>\n<p>I do think you raise a fair point <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a>: POAP ID’s and the TEC Hatch Bot NFT addresses should be included within the list of assets to preserve, as well as other important addresses (TEC Hatch Tokens, TEC-Gnosis, TEC-OP, and other major contracts); alongside the process of social media platforms preservation.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "rex",
+   "name": "rex",
+   "created_at": "2025-10-21T23:28:40Z",
+   "updated_at": "2025-10-21T23:47:23Z",
+   "reply_to_post_number": 6,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-username=\"DecentralizeSDGs\" data-post=\"6\" data-topic=\"1520\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" class=\"avatar\"> DecentralizeSDGs:</div>\n<blockquote>\n<p>Make active token-holders the priority recipients of unclaimed assets, rather than routing to charity by default.</p>\n</blockquote>\n</aside>\n<p>I’d like to second <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> 's point here - the Giveth Galaxy has supported the Commons in a plethora of ways. For example, and just in infrastructre terms, GG has continued to maintain all of the infrastructure since before the hatch (for free), including Telegram Bridge Bot, many of the Discord bots we were still using to some capacity, most of the TEC websites, our domain name! and even the forums we are currently discussing on. It is not fair to deem routing unclaimed assets to the Giveth Galaxy as charity.</p>\n<p>It will likely be a small number, as six months is plenty of time to claim. And it’s just as unfair to ask active token holders to return once more in six month’s time, especially with the difficulties we’ve already faced over the last three months in both quorum and support, to resolve then a small amount of funds.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "rex",
+   "name": "rex",
+   "created_at": "2025-10-22T00:07:57Z",
+   "updated_at": "2025-10-22T00:07:57Z",
+   "reply_to_post_number": 9,
+   "like_count": 5,
+   "cooked": "<p><strong>gm all,</strong></p>\n<p>I wanted to wait until the final day to share my thoughts; partly to give others space, and partly because I know I can come across strong-worded at times. I didn’t want my tone to distract from the proposal’s merits or its chance to pass cleanly.</p>\n<p>I’ve already flooded the forums in the past few months, so on this one, I mostly just want to express respect. Respect for the Coordination Team for moving this forward, for having the patience to navigate all the complexity, and for doing the unglamorous work of actually bringing the commons to closure in what has seemed like endless discussion.</p>\n<p>I’m in favor of this proposal, not because I want the TEC to end, but because I’d rather see a <strong>loving, intentional closure</strong> than a slow, confusing decay; despite the best efforts of us few remaining. The TEC deserves that kind of dignity.</p>\n<p>I do think the proposal is too lean on the post-mortem side, and would have liked to have seen more budget for a comprehensive analysis of the three major mechanisms (CV, ABC, Praise) as well as social progression of the Commons; as above, the BCRG will need to make tough decisions on which mechanisms/aspects to prioritise.</p>\n<p>Regardless, what matters most to me is that this sunset happens in the same spirit the TEC began: with care, curiosity, and an honest reflection of what we built together. The legacy lives on in the lessons, the mechanisms, and the people who’ll take these ideas forward.</p>\n<p>So thank you to everyone who kept the lights on, who debated in good faith, and who believed in the possibility of a commons on-chain. History is watching, and I think this is a good way to be remembered.</p>\n<p><img src=\"https://forum.tecommons.org/images/emoji/win10/green_heart.png?v=12\" title=\":green_heart:\" class=\"emoji only-emoji\" alt=\":green_heart:\" loading=\"lazy\" width=\"20\" height=\"20\"><br>\nrex</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "durgadas",
+   "name": "Regis Chapman",
+   "created_at": "2025-10-27T15:27:23Z",
+   "updated_at": "2025-10-27T15:27:23Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>I want to point out how many projects and ideas were spawned by the TEC-GravityDAO, City//Sync, and Omega groups, and I’ve continued to keep in touch with many people from those groups going forward. I would not work in crypto or at my current job at Octant if it hadn’t been for the TEC community’s encouragement, handholding, and empowerment.</p>\n<p>Everyone at the TEC who had to endure my newbie questions, silly ideas, and who saw the signal behind all my noise —I will forever appreciate you.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2025-10-29T21:33:30Z",
+   "updated_at": "2025-10-29T21:33:30Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Looks like the vote is up!</p>\n<p>Shout out to <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> and <a class=\"mention\" href=\"/u/rex\">@rex</a> for working to figure out what was wrong with the infra to make this a reality!</p>\n<p><a href=\"https://tec-dao.eth.limo/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/7\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">https://tec-dao.eth.limo/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/7</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2025-11-04T20:28:24Z",
+   "updated_at": "2025-11-04T20:28:24Z",
+   "reply_to_post_number": 12,
+   "like_count": 2,
+   "cooked": "<p>Congratulations everyone!</p>\n<p>The TEC has officially passed the TEC Shutdown Proposal.  The Coordination Team will provide informational updates on the distribution of funds, work agreements, and the claims process timeline as we move toward the end of the year.</p>\n<p>Thank you everyone for your time and attention!  If you have any questions or concerns in the meantime, please don’t hesitate to reach out in the Discord.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260202102232",
+    "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251119013721",
+   "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251119013721",
+   "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260202102232",
+   "url": "https://forum.tecommons.org/t/tec-shutdown-proposal/1520"
+  }
+ ]
+}

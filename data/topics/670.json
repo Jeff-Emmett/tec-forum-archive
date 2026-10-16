@@ -1,0 +1,364 @@
+{
+ "id": 670,
+ "title": "The Initial Buy-In",
+ "slug": "the-initial-buy-in",
+ "category_id": 28,
+ "tags": [
+  "advice-process"
+ ],
+ "more_after": 20,
+ "posts_count": 34,
+ "total_known": true,
+ "archived_posts": 20,
+ "archived_numbers": 20,
+ "created_at": "2021-10-19T22:46:05Z",
+ "last_archived_post_at": "2021-11-08T16:21:36Z",
+ "captured_between": [
+  "2021-12-07T12:35:46Z",
+  "2026-06-17T04:21:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-19T22:46:05Z",
+   "updated_at": "2021-11-18T18:48:16Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a>Proposal Title</h1>\n<p><strong>The Initial Buy-in</strong></p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<h2>\n<a class=\"anchor\" href=\"#signal-your-favour-for-this-proposal-on-snapshothttpssnapshotorgtecommonsethproposal0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535-3\" name=\"signal-your-favour-for-this-proposal-on-snapshothttpssnapshotorgtecommonsethproposal0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535-3\"></a><a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535\">Signal your favour for this proposal on Snapshot</a>\n</h2>\n<p>We want to be the first buyers on our Augmented Bonding Curve (ABC)!</p>\n<p>This proposal aims to acquire TEC tokens at the moment of initialization of the ABC in order to allow the TEC to acquire tokens at the lowest possible price for key allocations. We will outline what these tokens may be used for, how the tokens will be custodied, governance over the allocation of the tokens and the rationale behind the amount of tokens sought for purchase.  <br/>\n<br/>\nThese funds will be taken out of the Hatch funds raised (1.57 million wxDAI) and set aside to purchase TEC tokens at the exact moment the ABC launches.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/67ef6ac677855aa0ae35c37636247382eb56f483\" href=\"https://forum.tecommons.org/uploads/default/original/1X/67ef6ac677855aa0ae35c37636247382eb56f483.jpeg\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"ePs7WPuzbgAgVNaBvPSWjJ9AgrF\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_10x10.png\" height=\"225\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_690x225.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_690x225.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/67ef6ac677855aa0ae35c37636247382eb56f483_2_1035x337.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/67ef6ac677855aa0ae35c37636247382eb56f483.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1213×396 71.9 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div><p></p>\n<h6>\n<a class=\"anchor\" href=\"#experience-the-abc-on-the-commons-configuration-dashboardhttpscommons-dashboardnetlifyapp-4\" name=\"experience-the-abc-on-the-commons-configuration-dashboardhttpscommons-dashboardnetlifyapp-4\"></a>Experience the ABC on the <a href=\"https://commons-dashboard.netlify.app/\">Commons Configuration Dashboard</a>\n</h6>\n<h2>\n<a class=\"anchor\" href=\"#proposal-details-5\" name=\"proposal-details-5\"></a>Proposal Details</h2>\n<h2>\n<a class=\"anchor\" href=\"#allocation-amount-6\" name=\"allocation-amount-6\"></a>Allocation Amount</h2>\n<p><strong>250,000 wxDAI buy-in (~15% of Hatch funds)</strong> seems to be the most reasonable amount to allocate. After hours of research using our own <a href=\"https://commons-dashboard.netlify.app/config/2\">ABC tool</a> we arrived at this conclusion. You can see in the table below we tested various Reserve Balances and Opening Prices, simulating realistic high-end and low-end values. These two parameters help us determine the <a href=\"https://forum.tecommons.org/t/augmented-bonding-curve-opening-price-reserve-ratio/516\">Reserve Ratio</a> which can drastically affect the volatility of our ABC.</p>\n<p><img alt=\"image2\" data-base62-sha1=\"uk31mVaPIrL0wgYMkPQxoFAxZ2v\" height=\"372\" src=\"https://forum.tecommons.org/uploads/default/original/1X/d4856539de3d7ea4ac70380e043f3441b552ab27.jpeg\" width=\"377\"/></p>\n<p><br/>\nThe sweet spot for the <strong>Reserve Ratio should hover around 20%</strong> to keep price movement reasonable when transactions are made on the ABC.</p>\n<p><br/>\nIf we take the <a href=\"https://forum.tecommons.org/t/the-power-of-defaults-in-the-commons-configuration-dashboard/511\">default values</a> on the CCD there would be around 780k in the Reserve Balance and about 480k in the Common Pool. Roughly a Commons Tribute of 38% and an Opening Price of 1.65 with a Reserve Ratio of ~23%. We imagine the amount lost from Hatchers rage quitting is 60k wxDAI (currently it is 35k). In this scenario we receive <strong>~135k TEC tokens</strong>. This seems to be a fairly balanced outcome however this will change depending on the final Commons Upgrade parameters chosen. <br/>\n<br/>\nIt’s important to consider that we increase the price of the TEC token by making a buy-in and we can effectively maintain this augmentation by allocating the minted TEC into situations where the tokens are very unlikely or impossible to be sold. We will outline some of these situations further in this proposal.</p>\n<table>\n<tbody>\n<tr>\n<td>3%\n   </td>\n<td>Entry Tribute\n   </td>\n<td>\n</td>\n<td>250k Iinitial buy\n   </td>\n<td>250k Iinitial buy\n   </td>\n<td>250,000.00\n   </td>\n<td>250,000.00\n   </td>\n<td>250k Iinitial buy\n   </td>\n</tr>\n<tr>\n<td>\n<strong>ABC Reserve</strong>\n</td>\n<td>\n<strong>Opening Price</strong>\n</td>\n<td>\n<strong>Reserve Ratio</strong>\n</td>\n<td>\n<strong>Price After Buy-in</strong>\n</td>\n<td>\n<strong>Price Increase</strong>\n<p>\n<strong>(Slippage)</strong>\n</p>\n</td>\n<td>\n<strong>Amount in Common Pool</strong>\n</td>\n<td>\n<strong>Commons Tribute</strong>\n</td>\n<td>\n<strong>APPROX TEC</strong>\n</td>\n</tr>\n<tr>\n<td>1,000,083.80\n   </td>\n<td>1.00\n   </td>\n<td>49.12%\n   </td>\n<td>1.12\n   </td>\n<td>12.00%\n   </td>\n<td>259,916\n   </td>\n<td>20.63%\n   </td>\n<td>235,849\n   </td>\n</tr>\n<tr>\n<td>1,000,083.80\n   </td>\n<td>2.00\n   </td>\n<td>24.56%\n   </td>\n<td>2.36\n   </td>\n<td>18.00%\n   </td>\n<td>259,916\n   </td>\n<td>20.63%\n   </td>\n<td>114,679\n   </td>\n</tr>\n<tr>\n<td>1,000,083.80\n   </td>\n<td>5.00\n   </td>\n<td>9.82%\n   </td>\n<td>6.06\n   </td>\n<td>21.20%\n   </td>\n<td>259,916\n   </td>\n<td>20.63%\n   </td>\n<td>45,208\n   </td>\n</tr>\n<tr>\n<td>\n<strong>785,611.79</strong>\n</td>\n<td>\n<strong>1.65</strong>\n</td>\n<td>\n<strong>23.39%</strong>\n</td>\n<td>\n<strong>2.04</strong>\n</td>\n<td>\n<strong>23.64%</strong>\n</td>\n<td>\n<strong>474,388</strong>\n</td>\n<td>\n<strong>37.65%</strong>\n</td>\n<td>\n<strong>135,501</strong>\n</td>\n</tr>\n<tr>\n<td>600,050.28\n   </td>\n<td>1.00\n   </td>\n<td>29.47%\n   </td>\n<td>1.28\n   </td>\n<td>28.00%\n   </td>\n<td>659,950\n   </td>\n<td>52.38%\n   </td>\n<td>219,298\n   </td>\n</tr>\n<tr>\n<td>600,050.28\n   </td>\n<td>1.50\n   </td>\n<td>19.65%\n   </td>\n<td>1.98\n   </td>\n<td>32.00%\n   </td>\n<td>659,950\n   </td>\n<td>52.38%\n   </td>\n<td>143,678\n   </td>\n</tr>\n<tr>\n<td>600,050.28\n   </td>\n<td>2.00\n   </td>\n<td>14.74%\n   </td>\n<td>2.69\n   </td>\n<td>34.50%\n   </td>\n<td>659,950\n   </td>\n<td>52.38%\n   </td>\n<td>106,610\n   </td>\n</tr>\n<tr>\n<td>600,050.28\n   </td>\n<td>4.00\n   </td>\n<td>7.37%\n   </td>\n<td>5.47\n   </td>\n<td>36.75%\n   </td>\n<td>659,950\n   </td>\n<td>52.38%\n   </td>\n<td>52,798\n   </td>\n</tr>\n<tr>\n<td>400,033.52\n   </td>\n<td>1.00\n   </td>\n<td>19.65%\n   </td>\n<td>1.48\n   </td>\n<td>48.00%\n   </td>\n<td>859,966\n   </td>\n<td>68.25%\n   </td>\n<td>201,613\n   </td>\n</tr>\n<tr>\n<td>400,033.52\n   </td>\n<td>2.00\n   </td>\n<td>9.82%\n   </td>\n<td>3.09\n   </td>\n<td>54.50%\n   </td>\n<td>859,966\n   </td>\n<td>68.25%\n   </td>\n<td>98,232\n   </td>\n</tr>\n<tr>\n<td>400,033.52\n   </td>\n<td>3.00\n   </td>\n<td>6.55%\n   </td>\n<td>4.68\n   </td>\n<td>56.00%\n   </td>\n<td>859,966\n   </td>\n<td>68.25%\n   </td>\n<td>65,104\n   </td>\n</tr>\n</tbody>\n</table>\n<h2>\n<a class=\"anchor\" href=\"#eligible-allocations-7\" name=\"eligible-allocations-7\"></a>Eligible allocations</h2>\n<p>There are two allocation pools we can immediately identify as eligible for the acquired TEC from the buy-in. Additional use cases may be identified in the future. Prior to any allocation, a proposal must be submitted, and passed, by Community vote on Snapshot.  The first allocation pool is the <strong>Reward System</strong> and the second will be allocated for <strong>Stategic Partnerships and Secondary Market Liquidity</strong>.</p>\n<h3>\n<a class=\"anchor\" href=\"#reward-system-8\" name=\"reward-system-8\"></a>Reward System</h3>\n<p><strong>80,000 wxDAI (32%)</strong> worth of TEC will go directly to fund the distributions of the reward system and the management of those funds will be set by the <a href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">Reward Board</a>.</p>\n<p>Ideally, we allocate a portion of these purchased TEC tokens to fund the reward system for 6 months until the Reward Board is settled and can begin making their own funding requests. This will fund our contributors at the lowest price possible, since this value will most likely increase as the value of TEC grows.</p>\n<h3>\n<a class=\"anchor\" href=\"#strategic-partnerships-secondary-market-liquity-9\" name=\"strategic-partnerships-secondary-market-liquity-9\"></a>Strategic Partnerships &amp; Secondary Market Liquity</h3>\n<p>This pool will hold a combined 170,000 wxDAI (68%) for distribtution between the two use cases:</p>\n<h4>\n<a class=\"anchor\" href=\"#strategic-partnerships-10\" name=\"strategic-partnerships-10\"></a>Strategic Partnerships</h4>\n<p>We have a universe of options yet to explore with strategic partnerships. Within the ecosystem, there are a number of DAOs and organizations that are strongly aligned with the mission and purpose of the TEC. In some cases, it will strongly behoove the TEC to have alliances with strategic, value aligned partners and this pool of TEC tokens will be eligible for that purpose. There has already been some progress in this avenue, we discussed some possible partnerships with AGAVE back in September. The TEC has some <a href=\"https://forum.tecommons.org/search?q=TEC%20x%20AGAVE%20%40divine_comedian\">pending opportunities to form a strategic partnership</a>. Concrete examples of strategic partnerships could look like:</p>\n<ul>\n<li>Favourable price inclusion in the TEC for organizations and DAOs that are mission aligned and will increase our strength in Token Engineering as a field and discipline.</li>\n<li>Swapping governance tokens (and using them to govern)</li>\n<li>Creating token bridges via joint liquidity pools (eg. a TEC/AGAVE LP)</li>\n</ul>\n<h4>\n<a class=\"anchor\" href=\"#secondary-market-liquidity-11\" name=\"secondary-market-liquidity-11\"></a>Secondary Market Liquidity</h4>\n<p>Some of the TEC in this pool will be used to create liquidity pools (LPs) on secondary markets. This will most likely take the form of LP tokens using DEXs on xDai network (eg. Honeyswap, Sushiswap). The secondary market will be inevitable (assuming the TEC token is transferable) and owning a chunk of it will bring it notable revenues from swap fees as interest in the TEC accelerates. Some examples of interesting LP pairs on xDai would be:</p>\n<ul>\n<li>TEC/WETH</li>\n<li>TEC/WBTC</li>\n<li>TEC/HNY</li>\n<li>TEC/xDAI (To benefit from arbitrageurs)</li>\n</ul>\n<p>A good secondary market allows for a flourishing economy. Strong liquidity makes it possible for traders to swap tokens at a fair price, and stabilizes the market. With high liquidity comes faster transactions and increases the accuracy for technical analysis.</p>\n<h2>\n<a class=\"anchor\" href=\"#custody-12\" name=\"custody-12\"></a>Custody</h2>\n<p>Allocations destined for the Reward System will be custodied by the Reward Board. This <a href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">Reward System Forum post</a> details the choosing and powers of the Reward Board. Further description of the Reward System and Reward Board is outside the scope of this proposal.</p>\n<p>Allocations for both the strategic partnerships and secondary market liquidity use cases will be custodied together by an entity known as the <strong>Liquidity And Strategic Employment Requests Token Allocation Group (LASERTAG)</strong>. LASERTAG will comprise 7 members under a 4 of 7 Gnosis safe multisig required to authorize the disbursement of tokens. (This means 4 out of the 7 members must authorize any transaction for it to be executed.)</p>\n<p>Members will be nominated and discharged from LASERTAG by a community vote on Snapshot. The only requirement to be nominated is that you must hold TECH tokens, and that you can respond to signature requests on the multi-sig within 24 hours.</p>\n<h2>\n<a class=\"anchor\" href=\"#governance-13\" name=\"governance-13\"></a>Governance</h2>\n<p>The purpose of the LASERTAG is to execute the terms of the proposals approved by the Community.</p>\n<p>This group is tasked with ensuring that the proposals pertaining to these holdings are executed as soon as possible, following a successfully passing vote by the community via Snapshot. For any proposal passed by the Community, LASERTAG is responsible for executing  the terms of that proposal.</p>\n<p>In the event the terms are not executable, the group will share a transparency post on the forum detailing the specifics and justifications.</p>\n<p>Every TEC token holder can submit a proposal and, when passed by Community vote on Snapshot, LASERTAG will execute the terms of that proposal.</p>\n<p>In the event a proposal would clearly cause serious material loss to the holdings, this group will raise the flag to the community in order to, potentially, vote to abort the proposal. There are some examples which come to mind here. For example, a case where a late discovery might invalidate assumptions made in the proposals.</p>\n<h2>\n<a class=\"anchor\" href=\"#team-information-for-funding-proposals-14\" name=\"team-information-for-funding-proposals-14\"></a>Team Information (<em>For Funding Proposals</em>)</h2>\n<p>This proposal was drafted and will be championed by <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a> , <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> and <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> <br/>\nMAJOR props to <a class=\"mention\" href=\"/u/griff\">@Griff</a>  and <a class=\"mention\" href=\"/u/laurenluz\">@laurenluz</a>  for running the numbers on the buy-in amount</p>\n<p>and thanks to <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a>  for the graph image.</p>\n<h2>\n<a class=\"anchor\" href=\"#funding-information-for-funding-proposals-15\" name=\"funding-information-for-funding-proposals-15\"></a>Funding Information (<em>For Funding Proposals</em>)</h2>\n<p><strong>Amount of tokens requested:</strong></p>\n<p>250,000 wxDAI</p>\n<p><strong>Ethereum address where funds shall be transferred:</strong></p>\n<p>TBD (Reward Board and LASERTAG will both be Gnosis multisigs)</p>\n<hr/>\n<h3>\n<a class=\"anchor\" href=\"#edit-02112021-16\" name=\"edit-02112021-16\"></a>EDIT 02/11/2021</h3>\n<p>After some healthy debate between the stewards we have modified this proposal. Notable changes are:</p>\n<ul>\n<li>Anyone who has TECH tokens can be nominated for LASERTAG</li>\n<li>The research component has been removed from the scope of the group, allowing for more inclusive participation.</li>\n</ul>\n<p>Also from the feedback received in the comments I have made the following changes to the allocation:</p>\n<ul>\n<li>Combined strategic partnerships and secondary market liquidity into one allocation pool. This allows the community greater flexibility for choosing how much TEC to use for each use-case. (and for new use-cases to be defined)</li>\n</ul>\n<p>We will unveil the nomination process in the coming days… stay tuned on the forum for more information.</p>\n<p><strong>IN THE MEANTIME</strong> - If you have TECH tokens vote on this proposal so we can decide how to decide!<br/>\n<a href=\"https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d\">https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d</a></p>\n<hr/>\n<h3>\n<a class=\"anchor\" href=\"#edit-03112021-17\" name=\"edit-03112021-17\"></a>EDIT 03/11/2021</h3>\n<p>Following discussion in the Stewards call today we have nailed down the nomination process for selecting who will be a part of the LASERTAG multisig. The main points are as follows:</p>\n<ul>\n<li>Anyone can nominate a set of 7 <strong>TECH holders</strong> to become the LASERTAG multisig signers</li>\n<li>The nominator is tasked with ensuring all 7 of their nominees accept the nomination</li>\n<li>Nomination will be done in this thread via comments and will remain open until <strong>11:59pm, Monday Nov. 8 (GMT -6)</strong>.</li>\n<li>We will take all nominations submissions sent in time and create a Snapshot vote using Ranked Choice Voting to choose the preferred nomination set.</li>\n</ul>\n<p>Let the games begin…</p>\n<h2>\n<a class=\"anchor\" href=\"#signal-your-favour-for-this-proposal-on-snapshothttpssnapshotorgtecommonsethproposal0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535-18\" name=\"signal-your-favour-for-this-proposal-on-snapshothttpssnapshotorgtecommonsethproposal0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535-18\"></a><a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535\">Signal your favour for this proposal on Snapshot</a>\n</h2>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-10-20T17:31:50Z",
+   "updated_at": "2021-10-20T17:31:50Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>LOVE IT!</p>\n<p>3 things:</p>\n<ol>\n<li>\n<p>I am not sure if we want to commit to exact percentages for Strategic Partnerships and Secondary Market Liquidity… we should probably leave it open based on opportunity.</p>\n</li>\n<li>\n<p>I hope we don’t use the TECH for Strategic Partnerships and Secondary Market Liquidity too quickly… at least wait 3 or for weeks after the upgrade before we make any moves so that the price has time to go up and stabilize after launch.</p>\n</li>\n<li>\n<p>I expect most of the Strategic Partnerships and Secondary Market Liquidity moves end up with funds either in the Common Pool or Liquidity tokens held by this Gnosis Safe</p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-10-22T00:42:04Z",
+   "updated_at": "2021-10-22T00:42:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I can make it easy for everyone. Just put it all on agave. j/k… I did want to share that I updated the post <a href=\"https://forum.tecommons.org/t/earn-interest-on-wxdai-with-hatch-funds-tec-x-agave/604/13\">here</a> which I will paste in this thread for ease.</p>\n<blockquote>\n<p>Just wanted to share to keep the team up to date. The protocol has a modest $144k TVL slowly and steadily increasing in at a fairly linear consistent rate since Septembers launch.<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/2ef38df03a2d4affc7851051b29cefe66f60c355\" href=\"https://forum.tecommons.org/uploads/default/original/1X/2ef38df03a2d4affc7851051b29cefe66f60c355.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"6HlM9ocvtQ4mtMOXwjGRWNcjjZX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_10x10.png\" height=\"250\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_195x250.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_195x250.png, https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_292x375.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/2ef38df03a2d4affc7851051b29cefe66f60c355_2_390x500.png 2x\" width=\"195\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">571×731 36.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>As you may already know next week begins the deploying of rewards on the protocol and we expect tvl to grow a bit more, <a href=\"https://www.youtube.com/watch?v=X9aZfiBItOY&amp;t=66s\" rel=\"noopener nofollow ugc\">watch video to learn more</a><br/>\n<img alt=\"image\" data-base62-sha1=\"54aX8mjojMxJAKWay2GELrM1jVe\" height=\"165\" src=\"https://forum.tecommons.org/uploads/default/original/1X/2383bc535c566a56dc8092cd1e80759db2844f80.jpeg\" width=\"299\"/></p>\n<p>I will keep the TEC community informed as the team continues to roll out updates. Please feel free to follow us on <a href=\"https://twitter.com/Agave_lending\" rel=\"noopener nofollow ugc\">twitter</a> for updates.</p>\n</blockquote>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Monstrosity",
+   "name": null,
+   "created_at": "2021-10-22T00:43:56Z",
+   "updated_at": "2021-10-22T00:43:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>On a second note has there been any discussion on using OlympusPro for a bond to offer TEC for one or more of the LPs of interest.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-10-24T21:44:56Z",
+   "updated_at": "2021-10-24T21:44:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’m an Olympus enthusiast so I’ll definitely look into this</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-10-27T08:36:31Z",
+   "updated_at": "2021-10-27T08:36:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I hope that this proposal is clear enough for everyone in the Community. It’s been up for a week now and in hopes of moving it forward I’d like to share that I second <a class=\"mention\" href=\"/u/griff\">@Griff</a> on not committing exact percentages for Strategic Partnerships and Secondary Market Liquidity in the proposal for vote. Having more flexibility to the opportunities as they arise should behoove us in the long run.</p>\n<p>For the initial multisig holders of LASERTAG, I would like to nominate the following Stewards for that responsibility. Ideally, this group is included as part of the initial proposal for vote.</p>\n<p>Griff, Mitch, Livia, Ivy, Nate, YGG, Tamara</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-27T09:58:39Z",
+   "updated_at": "2021-10-27T10:30:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’d also like to nominate Juan, Chuy, Edu, Santi and myself, (those weirdos who voted against the praise intervention :D).</p>\n<p>For me nominations like this where you only vote yes/no are a red flag. I know we are in a rush and we want to get things done. I really think token weight should get something to do with the multisig. I would suggest for the multisig at least a ranked choice voting between all the stewards and whales who want to participate the least we can do it’s explain them and ask if they want to participate probably busy on other things but again for me it’s really important to at least let them know and offer a sit they are also a big role on our economy</p>\n<p>Btw i volunteer to contact them if that’s possible</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/dbc5c84a72ef38371d1be77cca6da4c749cda876\" href=\"https://forum.tecommons.org/uploads/default/original/1X/dbc5c84a72ef38371d1be77cca6da4c749cda876.jpeg\" title=\"imagen\"><img alt=\"imagen\" data-base62-sha1=\"vmcjoxAAQTmuEUcPg4nTFiQGnf8\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/dbc5c84a72ef38371d1be77cca6da4c749cda876_2_10x10.png\" height=\"387\" src=\"https://forum.tecommons.org/uploads/default/original/1X/dbc5c84a72ef38371d1be77cca6da4c749cda876.jpeg\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">imagen</span><span class=\"informations\">888×499 53.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-27T21:12:30Z",
+   "updated_at": "2021-10-27T21:12:30Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I really think we’re losing sight of what this group actually does. Really they just push a button to execute the will of the community and since we are using token-weighted voting (Snapshot) then the top holders really will have the most influence over the decision-making process (until someone buys more TEC than them on the ABC <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/>  ).</p>\n<p>So in that interest, making this multisig a long and contentious list of people doesn’t really make sense. We just need people who are committed to showing up and pushing the button when the time arises, <strong>that’s it</strong>. We could add more people to a multisig but increasing the number of signatures required will make us less effective in completing this singular, basic task. Of which is only necessary because of the technical limitations implied in making blockchain transactions.</p>\n<p>It would be a very obvious conflict of interest to bring in other people who might not understand the role of lasertag (even we as stewards can’t seem to achieve clarity), and give them the power to potentially veto the will of the community or, heaven’s forbid, go rogue and make arbitrary decisions/transactions that were not approved by the community.</p>\n<p><a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a>  you do make some great nominations for places on the multisig. I am happy to cede my place in favour of another steward if this takes us closer to an agreeable solution.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-28T10:17:02Z",
+   "updated_at": "2021-10-28T10:17:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I strongly agree that this multi-sig job should be just press a button  and it should be clear since the beginning but that’s not what was told in some calls plus</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"670\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>Research and propose strategic allocation of held tokens.</p>\n</blockquote>\n</aside>\n<p>So any proposal coming for this multisig it’s certainly going to be more accepted from the community and the culture of yes we implemented.</p>\n<p>When we talk about a multi-sig we are talking about trust and in this case we are talking about almost 16% (at start) of our economy. I don’t think that should be something chosen by 1 person (neither 2 3 or 4) as a closed decision. We are a group of friends building and it is not about who I trust or who you trust, it’s about who the token holders trusts and having everyone represented.</p>\n<p>Plus all those whales are probably TEs so any intention to try to get them involved would not only better represent the multisig but also bring so much value to our treasury management.</p>\n<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"670\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>It would be a very obvious conflict of interest to bring in other people who might not understand the role of lasertag (even we as stewards can’t seem to achieve clarity)</p>\n</blockquote>\n</aside>\n<p>Wasn’t it just pressing a button? I’m pretty sure anyone knows how to use metamask (Gnosis is just an app). And of course anyone on the multisig should be aware that they have not any power of decision  if someone veto anything from the community should be offboard of the multisig (and that’s why it’s so important to have representation of different types of contributors not only stewards)</p>\n<p>The plan is to make a vote of the multisig representation if the initial buy passes right away. And it should be ready in less than a week. The hardest part is to contact members with more than a 1% of TECH token supply.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-28T12:36:59Z",
+   "updated_at": "2021-10-28T12:36:59Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"9\" data-topic=\"670\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>Wasn’t it just pressing a button? I’m pretty sure anyone knows how to use metamask (Gnosis is just an app). And of course anyone on the multisig should be aware that they have not any power of decision if someone veto anything from the community should be offboard of the multisig (and that’s why it’s so important to have representation of different types of contributors not only stewards)</p>\n</blockquote>\n</aside>\n<p>That’s exactly the point, it seems like there’s some confusion around the role and anyone added to the multisig who doesn’t understand the role might think they can make arbitrary decisions.</p>\n<p>There’s definitely something to be said about creating incentives for TEs but giving them seats on a multisig is probably not the right first steps. I would be amenable to the idea if a TE came out of the woodwork and gave a loud YES to wanting to be a part of the research group for lasertag, and by all means we could give them a seat on the multisig, but let’s not invite an issue of not having things pass by filling our multisig with inactive addresses</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-28T20:36:20Z",
+   "updated_at": "2021-10-28T20:36:20Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Let’s just be clear with the role when we ask someone if they’re interested in representing it.</p>\n<p>Multisig just press a button and any member in the multisig can make proposals as their own but not as LASERTAG. Is that correct?</p>\n<p>And if that’s correct I would trust any steward or whale who accepts the mission of holding TEC funds will act in good faith and execute what the community says on a snapshot. We have to remember that in order to buy in the hatch you need a trust score. What I’m trying to prevent it’s weird power dynamics that will probably not happen again but as an IH whale I already suffer. We are in a docracy and whales have to be represented because applying the rules of that docracy they are the ones who contribute the most. We have to remember that their tokens will probably be frozen.</p>\n<p>And it’s just about asking, being inclusive and representing everyone. If anyone rejects it it’s fine, stewards can handle it but it’s just about  giving this decision of who to trust to the token holders</p>\n<p>I would love to reach an agreement ASAP so we can propose a solution for the multisig and if the community wants to, do this initial buy.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-29T13:17:12Z",
+   "updated_at": "2021-10-29T13:17:12Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"670\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>Let’s just be clear with the role when we ask someone if they’re interested in representing it.</p>\n<p>Multisig just press a button and any member in the multisig can make proposals as their own but not as LASERTAG. Is that correct?</p>\n</blockquote>\n</aside>\n<p>LASERTAG is the multisig, and also a focus group for researching beneficial uses of the acquired TEC and making relative proposals to the TEC. ANYONE can make a proposal for how to use these funds, but it’s good to soft-delegate this task to a group who can be LASER focused on making best possible outcomes. Having a good understanding of the TEC and generally being “in the know” will be useful for participants.</p>\n<p>Frankly, if you want to add scope and reach out to Hatchers then by all means, you have the agency. Since you’re clearly the most vocal (only?) advocate for this route then you’ll have to own this task and ensure it happens in a timely manner.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-10-30T04:50:38Z",
+   "updated_at": "2021-10-30T04:50:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Allow me to explain the rationale behind the nominations I made and ask your help in better understanding your alternative proposal, <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a>.</p>\n<p>The rationale behind selecting 7 Stewards is pretty straightforward. The criteria is two-fold. The persons responsible for this multisig should be (1) trusted in the community and (2) readily available.</p>\n<p>To the first point, the Stewards are highly visible and known in the community. Their long term  amd transparent action in the community has built up a certain level of trust. For the second point, the Stewards are active daily in the TEC. When an action is required, coordination and execution will be much more efficient with persons that are here and available everyday as opposed to persons that are rarely on our Discord.</p>\n<p>The nomination of these specific 7 Stewards was based on both advice process and their consent to being nominated for this responsibility. It wasn’t a decision most made easily actually. It is a real responsibility and a service to the TEC to take it on.</p>\n<p>As I see it, using % of token supply as a criteria might serve to indicate “stake” or “skin in the game” but is that criteria alone sufficient to say “would make a good multisig holder”? I do not believe so. Perhaps in combination with the criteria shared above. Though exactly how would need consideration.</p>\n<p>An area where I feel more clarity is warranted is the threshold choice. What factors went into determining that?</p>\n<p>You have said the threshold should be 1%. So anyone holding 1% or more of the token supply should be asked whether they want to be a candidate for this multisig. Can you elaborate on the thinking process behind that choice? What makes a person holding 1% of the token supply a better candidate for this multisig than a person holding 0.98%, for example. Or even 0.5% or 0.1% for that matter?</p>\n<p>How does “more tokens” map to “better candidate”?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-10-30T13:45:59Z",
+   "updated_at": "2021-10-30T13:45:59Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The best candidate it’s the one you choose.</p>\n<p>The process itself was not transparent im a steward i was involved in the process of this proposal and i do not know if all the stewards were ask to participate or you choose the ones you felt were the right ones (maybe you chat a bit with all stewards  and only those 7 accepted the role but i just don’t know, so where can i check? if nowhere it’s not transparent) And this way of choosing who is trusted even if it has a transparent process looks very bureaucratic.</p>\n<p>1% is a quick and dirty solution. At least give doble check with the token holders if they want to be part of the multisig or rely on stewards but that’s a token holders choice not a stewards choice.</p>\n<p>In my opinion being a steward should not be a requirement to be trusted, let the DAO choose who they wanna trust, ideally anyone could volunteer to be held accountable for that and the token holders should decide, and the solution i was proposing was just a middle ground between our different points of view.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-11-02T18:30:47Z",
+   "updated_at": "2021-11-02T18:30:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"670\" data-username=\"divine_comedian\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/divine_comedian/40/196_2.png\" width=\"20\"/> divine_comedian:</div>\n<blockquote>\n<p>The research component has been removed from the scope of the group, allowing for more inclusive participation.</p>\n</blockquote>\n</aside>\n<p>Just to this point: <strong>It was always inclusive.</strong> Removing that specific wording was just to eliminate any confusion or misunderstanding that it seemed to have caused.  🤷</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-11-03T18:25:08Z",
+   "updated_at": "2021-11-03T18:25:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I nominate Griff, Tam, myself, Angela, Mitch, Zeptimus and Nate</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "acidlazzer",
+   "name": null,
+   "created_at": "2021-11-04T18:37:56Z",
+   "updated_at": "2021-11-04T18:37:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I nominate Griff, Tam, Livia, Ivy, Juanka, Zepti and Chuy</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-11-07T22:29:04Z",
+   "updated_at": "2021-11-07T22:29:04Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I nominate:</p>\n<p>Myself<br/>\nZep<br/>\nMitch<br/>\nTam<br/>\nAngela<br/>\nZargham<br/>\nPhilH</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-11-07T22:31:01Z",
+   "updated_at": "2021-11-07T22:31:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>And just to be clear! We are nominating sets of 7 to be on the Laser Tag multisig.</p>\n<p>Zepti and I reached out to a few Hatchers outside of the stewards group to see if they want to get involved. PhilH and Z both said they would be down… <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-11-08T16:21:36Z",
+   "updated_at": "2021-11-08T16:21:36Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>These TEC Token Holders all agreed to be nominated<br/>\nPaul Haas - VitaDAO<br/>\nMichael Zargham - Blockscience<br/>\n0xGabi - 1hive<br/>\nPhilH - dOrg/Ethereum France<br/>\nGideon - TEC Communitas</p>\n<p>And a lot of Stewards are down to join as well… Only a few more hours to nominate a set of 7 for vote!!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260617042148",
+    "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207123546",
+   "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207123546",
+   "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260617042148",
+   "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260617042148",
+   "url": "https://forum.tecommons.org/t/the-initial-buy-in/670"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "id": 286,
+ "title": "Mutual accountability methods",
+ "slug": "mutual-accountability-methods",
+ "category_id": 7,
+ "posts_count": 3,
+ "created_at": "2021-03-12T15:57:12.882Z",
+ "last_posted_at": "2021-04-01T18:32:08.675Z",
+ "tags": [
+  "cultural-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2021-04-01T18:32:08Z",
+ "captured_between": [
+  "2021-04-20T14:29:20Z",
+  "2022-07-06T01:51:06Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-03-12T15:57:13Z",
+   "updated_at": "2021-11-12T21:45:02Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><strong>Mutual accountability methods</strong></p>\n<p>Mutual accountability is the 4th Ostrom Principle. We embody this by being a community who engages in participatory planning, mutual monitoring, and peer-to-peer accountability. As stated on our <a href=\"https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/\">Gitbook</a>’s terms and conditions, and on our code of conduct, we currently use the following methods for mutual accountability:</p>\n<h2>\n<a class=\"anchor\" href=\"#meetings-being-recorded-1\" name=\"meetings-being-recorded-1\"></a><em>Meetings being recorded</em>\n</h2>\n<p>Members will have access to information and activities going in the community anytime and they can easily catch up if they miss some important events/meetings.</p>\n<p>Recordings make our community transparent which is a great tool for mutual accountability.</p>\n<p>Community members are also encouraged to volunteer to record calls <a href=\"https://docs.google.com/spreadsheets/d/112KJwcH0cF87wlKJa5g9Ob5Rtj2Axp0jNs14yP8tbVs/edit#gid=1759937111\">adding their name</a> and sharing the recording with the credential owners of the social media platform who will be in charge to make the content public to the community.</p>\n<p><strong>Actions to improve:</strong></p>\n<ul>\n<li>Having more people to record calls and add them to the spreadsheet</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#assign-1-coordinator-on-the-github-issues-2\" name=\"assign-1-coordinator-on-the-github-issues-2\"></a><em>Assign 1 coordinator on the github issues</em>\n</h2>\n<p>This will encourage the 1 person assigned to complete the task or coordinate with others involved in completing it knowing that he/she has the sole responsibility for closing the issue. Confusion will also be avoided since there will be only one main point of contact.</p>\n<p><strong>Actions to improve:</strong></p>\n<ul>\n<li>The refinement of the issues</li>\n<li>Updating the status of the issues more frequently</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#gravity-as-accountability-to-our-social-agreements-3\" name=\"gravity-as-accountability-to-our-social-agreements-3\"></a><em>Gravity as accountability to our social agreements</em>\n</h2>\n<p>We understand that each individual recognizes, acknowledges and contributes to our values, principles, <a href=\"https://app.gitbook.com/@token-engineering-commons/s/tec-handbook/\">rules and boundaries</a>. We have clear expected behavior within the organization and graduated sanctions to implement in the effective search for solutions that respect the dignity of all parts. The Gravity group will also manage possible conflicts that may arise because of the complexity of the structure and activities we are involved in.</p>\n<p><strong>Actions to improve:</strong></p>\n<ul>\n<li>Promoting the <a href=\"https://the-commons-stack.typeform.com/to/rCVsK5RK\">typeform</a> more</li>\n<li>Having other options for people to reach out like a Calendly invite where people have direct contact with a Graviton to understand next steps.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#transparency-audit-4\" name=\"transparency-audit-4\"></a><em>Transparency audit</em>\n</h2>\n<p>The transparency audit will give the WGs better insights/guidance on being transparent with their documentation, actions, and decisions. The documents and information will be reviewed by the community through the advice process for accuracy and made available to all community members. This practice will increase trust between the community members.</p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1P2hbPZwdNHRfKXjz6_3iJss2e2-0KeojTu8QPuLb19s/edit#gid=0\">Audits</a> will be done for each WG every 3 months, to ensure being transparent throughout the time but audits can also be updated before the 3 months mark.</p>\n<p><strong>Actions to improve:</strong></p>\n<ul>\n<li>Create a Database for tracking audits together with the Soft Gov Decision Tracking Sheet</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#advice-process-5\" name=\"advice-process-5\"></a><em>Advice Process</em>\n</h2>\n<p>The Advice process helps the community to be mutually accountable by having open advice requests in the forum where people who will be affected by the decisions being discussed can express their opinions. The person who is proposing a decision can incorporate feedback at their own discernment. Having open feedback discussions for decisions that don’t need to be voted on is a great way to be transparent and accountable for how someone incorporates feedback. For example after the audits that are going to be made by stewards or active members of the WG’s anyone who feels different opinions can share it on the advice process and make themselves heard.</p>\n<p><strong>Actions to improve:</strong></p>\n<ul>\n<li>Use more the Advice Process in the Forum</li>\n</ul>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"on_vote\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<div class=\"poll-title\">TEC Accountability methods</div>\n<ul>\n<li data-poll-option-id=\"277962ea3b8227e06ed3eb378fbdba0d\">Yes</li>\n<li data-poll-option-id=\"2d91e8a605ec011cd3bfb19209c9552b\">Neutral</li>\n<li data-poll-option-id=\"b1a6ce89a0bcc8fd86e96b2215132104\">Block</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015106",
+    "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-03-12T23:38:40Z",
+   "updated_at": "2021-03-12T23:38:40Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Gravity typeform:</p>\n<p>I would say just fill it out for fun! <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>\n<p><iframe frameborder=\"0\" height=\"600px\" sandbox=\"allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation\" scrolling=\"no\" seamless=\"seamless\" src=\"https://the-commons-stack.typeform.com/to/rCVsK5RK?typeform-embed=embed-widget\" width=\"100%\"></iframe>\n</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015106",
+    "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-03-16T15:00:13Z",
+   "updated_at": "2021-03-16T15:00:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This proposal was approved <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p><aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">TEC soft gov decision tracking</a></h3>\n<p>Decision Tracking\n\nproposal title ,date,yes votes,neutral votes,block votes,result,proposal link \nDecision Making Process,Aug 28,4,1,0,approved,&lt;a...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015106",
+    "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2021-04-01T18:32:08Z",
+   "updated_at": "2021-04-01T18:32:08Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>xD<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/e0f298904652f6110aac82e25c1def04303a0399\" href=\"https://forum.tecommons.org/uploads/default/original/1X/e0f298904652f6110aac82e25c1def04303a0399.png\" title=\"0_sojvqtlvM3Lc80vn\"><img alt=\"0_sojvqtlvM3Lc80vn\" data-base62-sha1=\"w5YIc2snPYqHhxLTm7lHz1agNn3\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/e0f298904652f6110aac82e25c1def04303a0399_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e0f298904652f6110aac82e25c1def04303a0399_2_330x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e0f298904652f6110aac82e25c1def04303a0399_2_330x500.png, https://forum.tecommons.org/uploads/default/original/1X/e0f298904652f6110aac82e25c1def04303a0399.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/e0f298904652f6110aac82e25c1def04303a0399.png 2x\" width=\"330\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">0_sojvqtlvM3Lc80vn</span><span class=\"informations\">424×641 292 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706015106",
+    "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420142920",
+   "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420142920",
+   "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706015106",
+   "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706015106",
+   "url": "https://forum.tecommons.org/t/mutual-accountability-methods/286"
+  }
+ ]
+}

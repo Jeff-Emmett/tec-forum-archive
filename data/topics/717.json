@@ -1,0 +1,249 @@
+{
+ "id": 717,
+ "title": "TEC Polycentric Governance Framework",
+ "slug": "tec-polycentric-governance-framework",
+ "category_id": 5,
+ "posts_count": 13,
+ "created_at": "2021-11-30T20:55:32.882Z",
+ "views": 270,
+ "last_posted_at": "2022-02-09T02:20:07.943Z",
+ "tags": [
+  "governance"
+ ],
+ "highest_post_number": 6,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2022-11-16T22:20:13Z",
+ "captured_between": [
+  "2022-01-04T18:53:17Z",
+  "2022-11-26T23:27:32Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-11-30T20:55:33Z",
+   "updated_at": "2022-07-04T11:30:41Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#table-of-content-1\" name=\"table-of-content-1\"></a><strong>Table of content:</strong>\n</h3>\n<p><strong>1. Advice Process</strong></p>\n<ul>\n<li>\n<p>Peer to Peer Advice</p>\n</li>\n<li>\n<p>Working Group Advice</p>\n</li>\n<li>\n<p>Community Advice - <strong>first step to technical, financial and large cultural decisions</strong></p>\n</li>\n</ul>\n<p><strong>2. Conviction Voting</strong></p>\n<ul>\n<li>Financial decisions</li>\n</ul>\n<p><strong>3. Tao Voting</strong></p>\n<ul>\n<li>technical decisions</li>\n</ul>\n<p><strong>4. Snapshot</strong></p>\n<ul>\n<li>\n<p>Large Impact Cultural Decisions</p>\n</li>\n<li>\n<p>Community Signal</p>\n</li>\n<li>\n<p>Runoff Votes</p>\n</li>\n</ul>\n<p><strong>5. Tokenlog</strong></p>\n<ul>\n<li>crowd proposal making (curating the collective intelligence)</li>\n</ul>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/990b01819fc76f8476ecd7f4940f50fa944aca2d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d.jpeg\" title=\"tec5\"><img alt=\"tec5\" data-base62-sha1=\"lPSDfa5jYuv9B1NujVXkTa2Cn1z\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_10x10.png\" height=\"431\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_690x431.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_690x431.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_1035x646.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/990b01819fc76f8476ecd7f4940f50fa944aca2d_2_1380x862.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">tec5</span><span class=\"informations\">1920×1202 98.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h1>\n<a class=\"anchor\" href=\"#advice-process-first-step-to-any-decision-2\" name=\"advice-process-first-step-to-any-decision-2\"></a><img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=10\" title=\":yellow_circle:\"/> Advice process - First step to any decision</h1>\n<p>When someone needs to make a decision, they seek advice from other stakeholders and those with expertise. Taking this advice into account, the decision-maker decides on an action and informs those who have given advice. Read more about the origin of this process and how it works <a href=\"https://corporate-rebels.com/advice-process/#:~:text=The%20advice%20process%20as%20coined,gather%20perspectives%20before%20proposing%20action.\">here 1</a>.</p>\n<h4>\n<a class=\"anchor\" href=\"#use-cases-3\" name=\"use-cases-3\"></a>Use cases</h4>\n<h2>\n<a class=\"anchor\" href=\"#small-impact-decisions-peer-to-peer-advice-process-4\" name=\"small-impact-decisions-peer-to-peer-advice-process-4\"></a>Small Impact Decisions - Peer to Peer Advice Process</h2>\n<p><strong>When to use?</strong> During work flows when questions arise or guidance is needed.</p>\n<p>Identify who has knowledge on the topic of your decision and who will be directly affected by it. Reach out to them individually. Either by tagging them on public chats or via DMs if you need a quick answer.</p>\n<p><strong>This process should facilitate day to day contributions to move forward quickly.</strong></p>\n<h2>\n<a class=\"anchor\" href=\"#medium-impact-decision-working-group-advice-process-5\" name=\"medium-impact-decision-working-group-advice-process-5\"></a>Medium Impact Decision - Working Group Advice Process</h2>\n<p><strong>When to use?</strong> When the advice needed is related to a workstream for a particular working group.</p>\n<p>Freely based on the concept of “quality consent” presented by A.R.Greene in her paper <a href=\"https://discovery.ucl.ac.uk/id/eprint/1517822/1/Consent%20and%20Political%20Legitimacy%20-%20Penultimate%20with%20Abstract.pdf\">Consent and Political Legitimacy 2</a>. Working groups are small enough environments to produce a positive governance assessment by its members. Decisions that are local to each working group can be proposed by its members and discussed in meetings without the need of Community Advice or voting tools. Smaller decisions should have autonomy to be taken by the ones closer to its implications without attention costs to the whole community. The decisions should be transparent and shared in the Community Call or stewards meetings.</p>\n<p>Identify which working group is the most related to your proposal and who are the people who could help you the most, or be affected by it the most. Explain your proposal and what you need advice for, tag them on the working group chat on Discord. You can also add the topic to the working group meeting agenda for discussion and post on the working group section of the forum.</p>\n<p><strong>This process should facilitate medium projects to move forward without the need of formal voting.</strong></p>\n<h2>\n<a class=\"anchor\" href=\"#large-impact-community-advice-process-6\" name=\"large-impact-community-advice-process-6\"></a>Large Impact - Community Advice Process</h2>\n<p><strong>When to use?</strong> In case the number of people who could offer meaningful feedback and/or be affected by the proposal is the entire community.</p>\n<p>Describe your proposal clearly in the advice process section in the forum, tag people who you judge to have expertise in the subject and promote the post to receive feedback.</p>\n<ul>\n<li>Proposals must remain on the forum, open for Advice Process, for a <strong>minimum of 5 days</strong>. After this period, it should either be marked resolved with updates, or moved to Conviction Voting, Snapshot or Tao Voting sections.</li>\n</ul>\n<p>This process aims to steward the community to help with more complex decisions. <strong>There are 4 possible outcomes to the Large Impact Advice Process:</strong></p>\n<ol>\n<li>\n<p>A Cultural proposal that doesn’t require funds might not need a vote and be resolved in this period of two weeks if there is a general feeling of awareness and acceptance by the community on what is being executed.</p>\n</li>\n<li>\n<p>Community Advice is the first step for financial proposals. Once feedback is gathered and taken into consideration, a new and clean draft should be posted in the proposal section of the forum to then be submitted to the DAO. (read more in the Conviction Voting description)</p>\n</li>\n<li>\n<p>Technical proposals and DAO modifications - even though this could be a case for Working Group Advice, it is important to post technical proposals for Community Advice so we continue to promote the technical education of the TEC community. (read more in the TAO voting description)</p>\n</li>\n<li>\n<p>Community Advice is the first step for cultural agreements and practices that need to be ratified by voting. Once feedback is gathered and taken into consideration, a new and clean draft should be posted in the Proposal section of the Forum and then be sent to the Snapshot app for voting. ( read more in the Snapshot description)</p>\n</li>\n</ol>\n<h1>\n<a class=\"anchor\" href=\"#conviction-voting-7\" name=\"conviction-voting-7\"></a><img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=10\" title=\":yellow_circle:\"/> Conviction Voting</h1>\n<p>“Conviction Voting offers a novel decision making process that funds proposals based on the aggregated preference of community members, expressed continuously.” <a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">Deep dive here.</a></p>\n<p>When to use: When requesting funds for projects that aim to advance the field of Token Engineering and are aligned with TEC’s <a href=\"https://app.gitbook.com/o/-MRe_DImEWCFDsZ_TQd2/s/-MRe_M_mUIIB11A-MQyZ/what-is-the-tec/mission-vision-and-values\">mission, vision and values</a>.</p>\n<p>For financial requests that will be submitted to Conviction Voting, proposers must get a signal from the community by sharing their proposal for the Community Advice Process at least a week prior to submitting to the DAO. Once the feedback received (if any) is revised, they can move it to the Proposal section in the forum and then to the Conviction Voting app on-chain. <a href=\"https://docs.google.com/document/d/17R-9Ro-rPLWvRNG5gK-sJqnWSFhcICNeeaC-UOEqsYg/edit\">All Conviction Voting proposals should use this template</a>.</p>\n<p>Conviction Voting incentivizes large proposals to be broken into milestones and submitted one step at a time. Proposals are more likely to pass when requesting smaller amounts of funds.</p>\n<h3>\n<a class=\"anchor\" href=\"#current-conviction-voting-parameters-8\" name=\"current-conviction-voting-parameters-8\"></a>Current Conviction Voting Parameters</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Conviction Growth</td>\n<td>7 day(s)</td>\n</tr>\n<tr>\n<td>Minimum Conviction</td>\n<td>4.0%</td>\n</tr>\n<tr>\n<td>Spending Limit</td>\n<td>11.0%</td>\n</tr>\n</tbody>\n</table>\n</div><h1>\n<a class=\"anchor\" href=\"#tao-voting-9\" name=\"tao-voting-9\"></a><img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=10\" title=\":yellow_circle:\"/> Tao Voting</h1>\n<p>Tao Voting is the voting process by which the Commons can modify its economic and governance settings. It is a very powerful voting application that is capable of performing many high-impact functions, for example:</p>\n<ul>\n<li>\n<p>Mint and burn TEC tokens</p>\n</li>\n<li>\n<p>Install and remove Applications (Modules) in the Commons</p>\n</li>\n<li>\n<p>Modify the parameters of all existing Applications (Modules)</p>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#current-tao-voting-parameters-10\" name=\"current-tao-voting-parameters-10\"></a>Current Tao Voting Parameters</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Support Required</td>\n<td>85%</td>\n</tr>\n<tr>\n<td>Minimum Quorum</td>\n<td>10%</td>\n</tr>\n<tr>\n<td>Vote Duration</td>\n<td>5 day(s)</td>\n</tr>\n<tr>\n<td>Delegated Voting Period</td>\n<td>3 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Period</td>\n<td>3 day(s)</td>\n</tr>\n<tr>\n<td>Quiet Ending Extension</td>\n<td>2 day(s)</td>\n</tr>\n<tr>\n<td>Execution Delay</td>\n<td>0.5 day(s)</td>\n</tr>\n</tbody>\n</table>\n</div><p>To submit a proposal to Tao Voting, follow the Community Advice Process, address the feedback received if any and post the final version on the Proposal section of the forum. The forum link can be submitted to the Tao Voting app on chain.</p>\n<h1>\n<a class=\"anchor\" href=\"#snapshot-11\" name=\"snapshot-11\"></a><img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=10\" title=\":yellow_circle:\"/> Snapshot</h1>\n<p>“Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost any gas as the process is performed off-chain. In short, Snapshot is an off-chain gasless multi-governance client with easy to verify and hard-to contest results.” <a href=\"https://docs.snapshot.org/\">See Snapshot Gitbook</a></p>\n<p><strong>use cases</strong></p>\n<h2>\n<a class=\"anchor\" href=\"#h-1-large-impact-cultural-decisions-12\" name=\"h-1-large-impact-cultural-decisions-12\"></a>1. Large impact cultural decisions</h2>\n<p>When the Community Advice Process doesn’t provide a clear answer for how to move forward and a decision needs to be ratified by vote.</p>\n<h2>\n<a class=\"anchor\" href=\"#h-2-community-signal-13\" name=\"h-2-community-signal-13\"></a>2. Community signal</h2>\n<p>Used to signal community support to proposals that aren’t ready to be on Tao Voting or Conviction Voting yet.</p>\n<p>I.e:.</p>\n<ul>\n<li>\n<p>The 75% governance giveback is a proposal that needed to be voted on the Hatch DAO, but the cost of 1000 wxDAI for the tollgate fee and the amount of work that would be needed to research and write the final solution to be implemented made the signaling vote the best option to move forward. With community support, the costs of time, research and funds needed for the final proposal could be spent more confidently.</p>\n</li>\n<li>\n<p>The <a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535\">Initial Buy In</a> proposal also needed community signal. The final proposal will be submitted to the Hatch DAO, but a mutli-sig group needed to be decided before that. Holding a vote on Snapshot to decide the multi-sig holders before having a signal if the initial buy-in was even an option to consider wouldn’t be appropriate. So<a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535\"> this signal proposal</a> was voted on with yes/no options, and given the positive signal, the <a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x9f5b81d5e98a234cc5a0f5de81dfd19a07f26e3cf39bfc95a156bd6e01ae0eab\">LASERTAG proposal</a> could be submitted using Quadratic Ranked Choice Voting.</p>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#h-3-runoff-votes-coming-from-crowd-proposal-making-on-tokenlog-14\" name=\"h-3-runoff-votes-coming-from-crowd-proposal-making-on-tokenlog-14\"></a>3. Runoff votes (coming from crowd proposal making on Tokenlog)</h2>\n<p>Tokenlog is a great tool to curate most relevant proposals, but it doesn’t work so well to pick one single winner. For that reason, the runoff processes from Tokenlog are hosted on Snapshot using Quadratic Ranked Choice Voting.</p>\n<h3>\n<a class=\"anchor\" href=\"#types-of-snapshot-voting-15\" name=\"types-of-snapshot-voting-15\"></a>Types of Snapshot Voting</h3>\n<p><strong>Single Choice Voting</strong> - Yes, No and Neutral options<br/>\n<strong>Ranked Choice Voting</strong> - multiple choice</p>\n<p>The TEC typically uses Quadratic Voting and Quadratic Ranked Choice Voting; however, <strong>Quadratic Voting is temporarily unavailable</strong> until an identity solution can be implemented. . Only TEC token holders can submit proposals.</p>\n<h3>\n<a class=\"anchor\" href=\"#parameters-16\" name=\"parameters-16\"></a>Parameters</h3>\n<p><strong>Support Required</strong> - the percentage of yes votes needed to pass a proposal.</p>\n<ul>\n<li>88%</li>\n</ul>\n<p><strong>Minimum Quorum</strong></p>\n<ul>\n<li>For every vote in Snapshot we need a quorum of at least 10% of the total token supply participating, including at least 10 unique voters.</li>\n</ul>\n<p><strong>Vote Duration Period</strong> - the duration of time each vote is open and eligible to be voted on.</p>\n<ul>\n<li>\n<p>4 days for Large Impact Cultural Decisions and Community Signal.</p>\n</li>\n<li>\n<p>6 days for Runoff votes</p>\n</li>\n</ul>\n<h1>\n<a class=\"anchor\" href=\"#tokenlog-token-weighted-backlogs-17\" name=\"tokenlog-token-weighted-backlogs-17\"></a><img alt=\":yellow_circle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_circle.png?v=10\" title=\":yellow_circle:\"/> TokenLog - Token Weighted Backlogs</h1>\n<p>“ It allows projects to continuously gather feedback from their token holders in order to help plan and prioritize their work.​ It allows token holders to actively signal which items matter to them rather than just vote on single proposals.” Description taken from<a href=\"https://tokenlog.xyz/\"> Tokenlog home page</a> Tokenlog uses quadratic voting.</p>\n<p><strong>Where:</strong> Each vote will have a special repository.</p>\n<h4>\n<a class=\"anchor\" href=\"#use-cases-18\" name=\"use-cases-18\"></a>Use Cases</h4>\n<h2>\n<a class=\"anchor\" href=\"#collaborative-economics-19\" name=\"collaborative-economics-19\"></a>Collaborative Economics</h2>\n<p>The TEC is actively working towards the dissolution of technocracy into community education and participation. The Hatch DAO parameters were chosen using Tokenlog, so will the Commons Upgrade. The dashboards can be linked to github so proposals can be made straight from the dashboard to Tokenlog. Proposals are then curated and the top ones will go to the Runoff vote on Snapshot.</p>\n<h2>\n<a class=\"anchor\" href=\"#crowd-proposal-making-20\" name=\"crowd-proposal-making-20\"></a>Crowd Proposal Making</h2>\n<p>When everyone is encouraged to submit proposals on a similar topic to use the collective intelligence of the community to find the best solution for a challenge. The top voted proposals should then be sent to Snapshot for a final decision.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-11-30T21:39:31Z",
+   "updated_at": "2021-11-30T21:39:31Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for getting all in 1 place this is awesome, Praise!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-12-07T02:36:09Z",
+   "updated_at": "2021-12-07T02:36:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Question: does TAO voting use quadratic voting? If it is technically feasible, I think it is very important given the nature of what these votes can change.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-12-07T17:58:42Z",
+   "updated_at": "2021-12-07T17:58:42Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>TAO Voting is using weighted voting.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-12-09T01:04:13Z",
+   "updated_at": "2021-12-09T01:04:13Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks, <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a>. One more question: will Conviction Voting support quadratic voting?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2021-12-09T14:57:14Z",
+   "updated_at": "2021-12-09T14:57:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>We don’t have the tech to implement it, but I was listening many months ago <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> talking about quadratic CV, but in TEC at least for now it will be also weighted. One of the biggest problems to use quadratic voting it’s that you need a curated list of holders, otherwise a whale (or anyone) could just split their funds on multiple accounts, <a class=\"mention\" href=\"/u/liviade\">@liviade</a> was talking about using bright id to mitigate this weak point.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "bends",
+   "name": null,
+   "created_at": "2022-02-09T02:20:07Z",
+   "updated_at": "2022-02-09T02:20:07Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/liviade\">@liviade</a><br/>\nHere’s the governance framework with suggestions to add the current params and a note on TEC not using quadratic voting with snapshot until we have an identity solution implemented.<br/>\n<a href=\"https://docs.google.com/document/d/1eabo0rFJYRvUeHs3D_NLCg0Q_ICCZlQ8SvSHl05JB8c/edit?usp=sharing\" rel=\"noopener nofollow ugc\">TEC Polycentric Governance Framework - Updates</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2022-06-23T16:21:41Z",
+   "updated_at": "2022-06-23T16:21:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This documentation is huge leap forward for TEC! <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-02T21:49:10Z",
+   "updated_at": "2022-11-02T21:49:10Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-16T22:19:13Z",
+   "updated_at": "2022-11-16T22:19:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-16T22:20:13Z",
+   "updated_at": "2022-11-16T22:20:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20221126232732",
+    "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220104185317",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124041550",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124041550",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706013417",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706013417",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014218",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014218",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717/6"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126232732",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126232732",
+   "url": "https://forum.tecommons.org/t/tec-polycentric-governance-framework/717"
+  }
+ ]
+}

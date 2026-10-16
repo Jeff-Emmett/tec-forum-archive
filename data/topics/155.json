@@ -1,0 +1,92 @@
+{
+ "id": 155,
+ "title": "Conviction Voting Minimum Threshold",
+ "slug": "conviction-voting-minimum-threshold",
+ "posts_count": 1,
+ "category_id": 20,
+ "created_at": "2020-12-13T20:06:53.451Z",
+ "last_posted_at": "2020-12-17T22:27:36.256Z",
+ "views": 4056,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2020-12-17T22:27:36Z",
+ "captured_between": [
+  "2021-04-20T13:38:02Z",
+  "2026-06-17T04:01:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-13T20:06:53Z",
+   "updated_at": "2021-01-11T18:18:20Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>Conviction Voting Minimum Threshold</strong></p>\n<h2>What is the Minimum Threshold in CV??</h2>\n<p>Minimum Threshold sets the minimum percent of tokens that are used for calculating the threshold to pass any proposal.</p>\n<p>It is very similar to the <a href=\"https://forum.tecommons.org/t/minimum-quorum-required/133\">Minimum Quorum needed in Dandelion Voting.</a></p>\n<p>Because proposals in Conviction Voting are token weighted and are a part of “continuous proposals” or dynamic average consensus the Minimum Threshold is the minimum conviction needed to pass a proposal.</p>\n<p>The threshold calculation is dependent on the amount of funds being asked for. The minimum threshold stops people from asking for a very small amount of funds many times and using very few tokens to get the votes to pass.</p>\n<p>The Minimum threshold makes it so that any requests for funding under a certain % of the funding pool all take the same amount of conviction to pass.</p>\n<p><strong>For example</strong></p>\n<p>If the Minimum Threshold is set to 1</p>\n<p>And there are 100,000 tokens actively voting on proposals in CV</p>\n<p>Then the minimum number of tokens needed to vote on a proposal for it to pass would be: 100,000*.01 = 1000</p>\n<p>So if there is $1 million in the funding pool and someone is asking for $1 in their proposal or $100, even though from the normal threshold calculation it might only take a very small amount of voting power it will still take a minimum of 1000 tokens to pass the proposal.</p>\n<p>However, because of how CV works, this is a theoretical minimum that would take an infinite amount of time to reach… 1001 tokens would probably pass it eventually tho <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/></p>\n<h2>Where in the code is this handled?</h2>\n<p>The minimum threshold is applied in this function:</p>\n<aside class=\"onebox githubblob\">\n<header class=\"source\">\n<a href=\"https://github.com/TECommons/conviction-voting-app/blob/775cf9f7b035fb80b21b0c7d85e9679cbb4c459b/contracts/ConvictionVoting.sol#L342\" rel=\"noopener\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<h4><a href=\"https://github.com/TECommons/conviction-voting-app/blob/775cf9f7b035fb80b21b0c7d85e9679cbb4c459b/contracts/ConvictionVoting.sol#L342\" rel=\"noopener\" target=\"_blank\">TECommons/conviction-voting-app/blob/775cf9f7b035fb80b21b0c7d85e9679cbb4c459b/contracts/ConvictionVoting.sol#L342</a></h4>\n<pre class=\"onebox\"><code class=\"lang-sol\"><ol class=\"start lines\" start=\"332\" style=\"counter-reset: li-counter 331 ;\">\n<li> * @dev Formula: ρ * totalStaked / (1 - a) / (β - requestedAmount / total)**2</li><li> * For the Solidity implementation we amplify ρ and β and simplify the formula:</li><li> * weight = ρ * D</li><li> * maxRatio = β * D</li><li> * decay = a * D</li><li> * threshold = weight * totalStaked * D ** 2 * funds ** 2 / (D - decay) / (maxRatio * funds - requestedAmount * D) ** 2</li><li> * @param _requestedAmount Requested amount of tokens on certain proposal</li><li> * @return Threshold a proposal's conviction should surpass in order to be able to</li><li> * executed it.</li><li> */</li><li class=\"selected\">function calculateThreshold(uint256 _requestedAmount) public view returns (uint256 _threshold) {</li><li>    uint256 funds = vault.balance(requestToken);</li><li>    require(maxRatio.mul(funds) &gt; _requestedAmount.mul(D), ERROR_AMOUNT_OVER_MAX_RATIO);</li><li>    // denom = maxRatio * 2 ** 64 / D  - requestedAmount * 2 ** 64 / funds</li><li>    uint256 denom = (maxRatio &lt;&lt; 64).div(D).sub((_requestedAmount &lt;&lt; 64).div(funds));</li><li>    // _threshold = (weight * 2 ** 128 / D) / (denom ** 2 / 2 ** 64) * totalStaked * D / 2 ** 128</li><li>    _threshold = ((weight &lt;&lt; 128).div(D).div(denom.mul(denom) &gt;&gt; 64)).mul(D).div(D.sub(decay)).mul(_totalStaked()) &gt;&gt; 64;</li><li>}</li><li></li><li>function _totalStaked() internal view returns (uint256) {</li><li>    uint256 minTotalStake = (stakeToken.totalSupply().mul(minThresholdStakePercentage)).div(ONE_HUNDRED_PERCENT);</li>\n</ol></code></pre>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>And the function above it is where the threshold is calculated.</p>\n<h2>Questions we need to consider in this thread.</h2>\n<p>What other factors should we consider when choosing the minimum threshold?</p>\n<p>Useful links</p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/document/d/1l73bt5h9H5zcOGr6qeRKSIAf-WOsp-fpm2ygskbEF1k/edit\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/document/d/1l73bt5h9H5zcOGr6qeRKSIAf-WOsp-fpm2ygskbEF1k/edit\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-docs-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/document/d/1l73bt5h9H5zcOGr6qeRKSIAf-WOsp-fpm2ygskbEF1k/edit\" rel=\"noopener\" target=\"_blank\">Conviction Voting Module</a></h3>\n<p>There are 3 flows to worry about in the Conviction voting module: Fund Flow  xDAI flows from the Commons to Giveth Proposals to the bonding curve The amount is determined by the proposal’s journey  When proposed, the milestone can either receive a...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260617040118",
+    "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-17T22:27:36Z",
+   "updated_at": "2020-12-17T22:27:36Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>In this post I share two tools that can inform the beta and min threshold decision making:</p>\n<aside class=\"quote quote-modified\" data-post=\"3\" data-topic=\"156\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"/user_avatar/forum.tecommons.org/sem/40/23_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3\">Conviction Voting : Max Ratio/Beta - Deep Dive</a> <a class=\"badge-wrapper bullet\" href=\"/c/Token-talk-anything-about-the-TEC-token-such-as-issuance-and-hatches/9\"><span class=\"badge-category-bg\" style=\"background-color: #808281;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Token talk - discussions about the TEC token, such as issuance and hatches\">🤖 TEC</span></a>\n</div>\n<blockquote>\n    I’d like to share some tools that will allow us to select beta and min threshold parameters. \nWe have an interactive graph on how much conviction is required depending on the funds requested. Tweaking beta (β) and min threshold (M) we can see how much conviction is needed. \n\n\nWe can also see how much conviction is gathered during time in this other interactive graph, in which you can interact with the three parameters: half-life, beta and min threshold.\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260617040118",
+    "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420133802",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420133802",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126231033",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126231033",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260505190124",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260617040118",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260617040118",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-threshold/155"
+  }
+ ]
+}

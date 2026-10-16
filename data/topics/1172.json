@@ -1,0 +1,75 @@
+{
+ "id": 1172,
+ "title": "TEC Rewards Distribution - Round 20!",
+ "slug": "tec-rewards-distribution-round-20",
+ "category_id": 31,
+ "tags": [
+  "rewards-distro"
+ ],
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2022-11-09T15:17:47Z",
+ "last_archived_post_at": "2022-11-09T15:25:59Z",
+ "captured_between": [
+  "2022-11-26T21:54:13Z",
+  "2023-04-01T00:33:17Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-09T15:17:47Z",
+   "updated_at": "2023-01-12T14:15:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This period covers praise given between <strong>10 October 2022 and 23 October 2022</strong>. We allocated <strong>3155.7</strong> TEC tokens for rewards, with a <strong>59:40</strong> split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute. <strong>Also included in this distribution is the 10th and final round of retroactive sourcecred distributions!</strong></p>\n<p>Out of the total rewards:</p>\n<ul>\n<li>90% of the tokens were given as praise rewards <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/>\n</li>\n<li>7% distributed among quantifiers <img alt=\":balance_scale:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/balance_scale.png?v=10\" title=\":balance_scale:\"/>\n</li>\n<li>3% assigned to the reward board <img alt=\":memo:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/memo.png?v=10\" title=\":memo:\"/>\n</li>\n</ul>\n<p>This data has been reviewed by the Quantifiers and the Reward Board, and has been submitted for distribution to the <a href=\"https://xdai.aragon.blossom.software/#/rewardboardtec/\">Reward Board DAO</a></p>\n<p>You can check out the <a href=\"https://rawcdn.githack.com/CommonsBuild/tec-rewards/661ccb0c33163d1d8d9dcc06fc9dc01da921c739/distribution_rounds/round-20/distribution_results/reports/round-20--general-round-analysis-report.html\">full period analysis here</a>. <img alt=\":bar_chart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/bar_chart.png?v=10\" title=\":bar_chart:\"/></p>\n<p>This post will be open to the community for review for 48 hours then submitted to the Reward Board for final execution. <img alt=\":heavy_check_mark:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/heavy_check_mark.png?v=10\" title=\":heavy_check_mark:\"/></p>\n<p>The Rewards Distribution for this round is as follows:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Username</th>\n<th style=\"text-align:right\">Rewards in TEC</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\">acidlazzer#5796</td>\n<td style=\"text-align:right\">215.396</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">itsyaboi#2591</td>\n<td style=\"text-align:right\">149.808</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Zeptimus#3359</td>\n<td style=\"text-align:right\">126.924</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">miguelb#5176</td>\n<td style=\"text-align:right\">124.972</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">r-x-x#8344</td>\n<td style=\"text-align:right\">92.8364</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">BiancaGadelha#2667</td>\n<td style=\"text-align:right\">90.456</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">durgadas#9280</td>\n<td style=\"text-align:right\">85.219</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Juankbell#7458</td>\n<td style=\"text-align:right\">83.7432</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">natesuits#4789</td>\n<td style=\"text-align:right\">77.7604</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">pat.zip (TE Academy)<span class=\"hashtag\">#5266</span>\n</td>\n<td style=\"text-align:right\">69.4289</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">akrtws (TE Academy)<span class=\"hashtag\">#4246</span>\n</td>\n<td style=\"text-align:right\">69.4289</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">ddan#2489</td>\n<td style=\"text-align:right\">61.0974</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">GideonRo#3175</td>\n<td style=\"text-align:right\">61.0974</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">alantv#0964</td>\n<td style=\"text-align:right\">53.9562</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">kristofer#1475</td>\n<td style=\"text-align:right\">44.222</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">divine_comedian#5493</td>\n<td style=\"text-align:right\">42.5482</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">lee0007#8152</td>\n<td style=\"text-align:right\">37.2932</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">innov8tor3#3988</td>\n<td style=\"text-align:right\">35.3096</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Mettodo#7010</td>\n<td style=\"text-align:right\">34.6207</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Maxwe11#7157</td>\n<td style=\"text-align:right\">34.2228</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Tamarandom#9361</td>\n<td style=\"text-align:right\">33.3259</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">bdegraf#7201</td>\n<td style=\"text-align:right\">32.1357</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">osycross(<img alt=\":lizard:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/lizard.png?v=10\" title=\":lizard:\"/><img alt=\":lizard:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/lizard.png?v=10\" title=\":lizard:\"/>)<span class=\"hashtag\">#5943</span>\n</td>\n<td style=\"text-align:right\">30.2434</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">bear100#9085</td>\n<td style=\"text-align:right\">24.2009</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">r33pich33p#6906</td>\n<td style=\"text-align:right\">23.1694</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">withinthevacuum#2626</td>\n<td style=\"text-align:right\">17.8531</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">SatoriD#2945</td>\n<td style=\"text-align:right\">17.8531</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Nuggan#5183</td>\n<td style=\"text-align:right\">17.2439</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">enti#1546</td>\n<td style=\"text-align:right\">15.4727</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">angieberry.eth#9822</td>\n<td style=\"text-align:right\">15.4727</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">missing username</td>\n<td style=\"text-align:right\">14.07</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">missing username</td>\n<td style=\"text-align:right\">14.07</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">stellaachenbach#2991</td>\n<td style=\"text-align:right\">13.489</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">elzenteno#1251</td>\n<td style=\"text-align:right\">7.538</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Letty#5399</td>\n<td style=\"text-align:right\">6.34779</td>\n</tr>\n<tr>\n<td style=\"text-align:left\">Lana96#0822</td>\n<td style=\"text-align:right\">3.17389</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003317",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-20/1172"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-09T15:25:59Z",
+   "updated_at": "2022-11-09T15:25:59Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Here is a full list of sourcred reward recipients and their vested amount for this period:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Name</th>\n<th>Amount</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>kristofer</td>\n<td>132.7247256</td>\n</tr>\n<tr>\n<td>griff</td>\n<td>81.1089854</td>\n</tr>\n<tr>\n<td>mattyg</td>\n<td>78.56192737</td>\n</tr>\n<tr>\n<td>tamara</td>\n<td>77.08122048</td>\n</tr>\n<tr>\n<td>liviade</td>\n<td>43.8182589</td>\n</tr>\n<tr>\n<td>divine-comedian</td>\n<td>41.54229939</td>\n</tr>\n<tr>\n<td>zeptimus</td>\n<td>39.8778754</td>\n</tr>\n<tr>\n<td>sem</td>\n<td>33.72442919</td>\n</tr>\n<tr>\n<td>vyvy-vi</td>\n<td>30.80916266</td>\n</tr>\n<tr>\n<td>nuggan</td>\n<td>30.1243908</td>\n</tr>\n<tr>\n<td>jessicazartler</td>\n<td>28.28246093</td>\n</tr>\n<tr>\n<td>juankbell</td>\n<td>23.74398894</td>\n</tr>\n<tr>\n<td>markop</td>\n<td>23.72253093</td>\n</tr>\n<tr>\n<td>nebs-dev</td>\n<td>19.749549</td>\n</tr>\n<tr>\n<td>eduardovegap</td>\n<td>19.67524941</td>\n</tr>\n<tr>\n<td>iviangita</td>\n<td>17.9373942</td>\n</tr>\n<tr>\n<td>mendesfabio</td>\n<td>17.8622487</td>\n</tr>\n<tr>\n<td>chuygarcia92</td>\n<td>16.73401292</td>\n</tr>\n<tr>\n<td>ygg-anderson</td>\n<td>14.29499521</td>\n</tr>\n<tr>\n<td>mount-manu</td>\n<td>13.23651789</td>\n</tr>\n<tr>\n<td>natesuits</td>\n<td>12.90553219</td>\n</tr>\n<tr>\n<td>gideonro</td>\n<td>11.23865966</td>\n</tr>\n<tr>\n<td>santigs</td>\n<td>11.16109055</td>\n</tr>\n<tr>\n<td>natenatesoo</td>\n<td>9.344160235</td>\n</tr>\n<tr>\n<td>suga</td>\n<td>8.083623604</td>\n</tr>\n<tr>\n<td>jeffemmett</td>\n<td>6.437259074</td>\n</tr>\n<tr>\n<td>laurenluz</td>\n<td>6.269175543</td>\n</tr>\n<tr>\n<td>ddan</td>\n<td>5.977046196</td>\n</tr>\n<tr>\n<td>mateo-daza</td>\n<td>5.779251572</td>\n</tr>\n<tr>\n<td>tonga</td>\n<td>5.583181287</td>\n</tr>\n<tr>\n<td>solsista</td>\n<td>5.294600263</td>\n</tr>\n<tr>\n<td>akrtws</td>\n<td>4.597237539</td>\n</tr>\n<tr>\n<td>cranders1</td>\n<td>3.795387782</td>\n</tr>\n<tr>\n<td>linuxiscool</td>\n<td>3.493917466</td>\n</tr>\n<tr>\n<td>graial</td>\n<td>3.418053616</td>\n</tr>\n<tr>\n<td>mrsbadgerface</td>\n<td>4.02839295</td>\n</tr>\n<tr>\n<td>tree-pi</td>\n<td>2.953550941</td>\n</tr>\n<tr>\n<td>gene</td>\n<td>2.780448235</td>\n</tr>\n<tr>\n<td>octopus</td>\n<td>2.647123307</td>\n</tr>\n<tr>\n<td>wslyvh</td>\n<td>2.543065295</td>\n</tr>\n<tr>\n<td>al0ysi0us</td>\n<td>3.088354662</td>\n</tr>\n<tr>\n<td>hozzjss</td>\n<td>2.071069572</td>\n</tr>\n<tr>\n<td>heater</td>\n<td>2.069172785</td>\n</tr>\n<tr>\n<td>innov8tor3</td>\n<td>1.881215245</td>\n</tr>\n<tr>\n<td>mzargham</td>\n<td>2.440315593</td>\n</tr>\n<tr>\n<td>big-gray-al</td>\n<td>1.845397412</td>\n</tr>\n<tr>\n<td>costa</td>\n<td>1.761118933</td>\n</tr>\n<tr>\n<td>cfwhisperer</td>\n<td>1.681635916</td>\n</tr>\n<tr>\n<td>metaverde</td>\n<td>1.678988941</td>\n</tr>\n<tr>\n<td>durgadas</td>\n<td>1.626741935</td>\n</tr>\n<tr>\n<td>letty</td>\n<td>1.529422309</td>\n</tr>\n<tr>\n<td>kojak</td>\n<td>1.463224818</td>\n</tr>\n<tr>\n<td>krisjpi</td>\n<td>1.44775582</td>\n</tr>\n<tr>\n<td>acidlazzer</td>\n<td>2.621435596</td>\n</tr>\n<tr>\n<td>bends</td>\n<td>1.414985517</td>\n</tr>\n<tr>\n<td>enti</td>\n<td>1.268240215</td>\n</tr>\n<tr>\n<td>knobsdao</td>\n<td>1.149577795</td>\n</tr>\n<tr>\n<td>freshelle</td>\n<td>1.118843932</td>\n</tr>\n<tr>\n<td>zhiwei</td>\n<td>1.088113334</td>\n</tr>\n<tr>\n<td>mcsmith89</td>\n<td>1.08491958</td>\n</tr>\n<tr>\n<td>thefredo1000</td>\n<td>0.9926281174</td>\n</tr>\n<tr>\n<td>philh</td>\n<td>1.238044377</td>\n</tr>\n<tr>\n<td>mertozdal</td>\n<td>1.111719661</td>\n</tr>\n<tr>\n<td>santteegt</td>\n<td>0.905194895</td>\n</tr>\n<tr>\n<td>andrewpenland</td>\n<td>0.8898422155</td>\n</tr>\n<tr>\n<td>kzflyer</td>\n<td>1.12363083</td>\n</tr>\n<tr>\n<td>geleeroyale</td>\n<td>0.7679753653</td>\n</tr>\n<tr>\n<td>mettodo</td>\n<td>0.8118380368</td>\n</tr>\n<tr>\n<td>bear100</td>\n<td>0.6921741363</td>\n</tr>\n<tr>\n<td>paul2</td>\n<td>0.5388998052</td>\n</tr>\n<tr>\n<td>zer8</td>\n<td>0.5290144079</td>\n</tr>\n<tr>\n<td>costa91</td>\n<td>0.4982329083</td>\n</tr>\n<tr>\n<td>nic</td>\n<td>0.3926785968</td>\n</tr>\n<tr>\n<td>jme</td>\n<td>0.3209547119</td>\n</tr>\n<tr>\n<td>eenti</td>\n<td>0.2261493892</td>\n</tr>\n<tr>\n<td>danlessa</td>\n<td>0.2164635737</td>\n</tr>\n<tr>\n<td>stef</td>\n<td>0.2019963148</td>\n</tr>\n<tr>\n<td>sidcode</td>\n<td>0.1893832585</td>\n</tr>\n<tr>\n<td>lbs</td>\n<td>0.1829449704</td>\n</tr>\n<tr>\n<td>bearhub100</td>\n<td>0.1698383351</td>\n</tr>\n<tr>\n<td>boonjue</td>\n<td>0.165493414</td>\n</tr>\n<tr>\n<td>saunic</td>\n<td>0.1486422399</td>\n</tr>\n<tr>\n<td>satorid</td>\n<td>0.143621534</td>\n</tr>\n<tr>\n<td>papa-raw</td>\n<td>0.1377849267</td>\n</tr>\n<tr>\n<td>mattyjee</td>\n<td>0.1318169674</td>\n</tr>\n<tr>\n<td>efra</td>\n<td>0.124855378</td>\n</tr>\n<tr>\n<td>csggene3</td>\n<td>0.1151451256</td>\n</tr>\n<tr>\n<td>maxwe11</td>\n<td>0.08774404548</td>\n</tr>\n<tr>\n<td>kristofernoaccess</td>\n<td>0.05928230789</td>\n</tr>\n<tr>\n<td>biancagadelha</td>\n<td>0.05366334821</td>\n</tr>\n<tr>\n<td>rohekbenitez</td>\n<td>0.03067150447</td>\n</tr>\n<tr>\n<td>patriciatea</td>\n<td>0.01849551695</td>\n</tr>\n</tbody>\n</table>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230401003317",
+    "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-20/1172"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126215413",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-20/1172"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126215413",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-20/1172"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401003317",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-20/1172"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401003317",
+   "url": "https://forum.tecommons.org/t/tec-rewards-distribution-round-20/1172"
+  }
+ ]
+}

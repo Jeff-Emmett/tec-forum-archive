@@ -1,0 +1,153 @@
+{
+ "id": 1361,
+ "title": "Ideas on token utility",
+ "slug": "ideas-on-token-utility",
+ "posts_count": 6,
+ "category_id": 33,
+ "created_at": "2024-04-11T18:20:15.794Z",
+ "last_posted_at": "2024-05-24T18:43:15.511Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2024-05-24T18:43:15Z",
+ "captured_between": [
+  "2024-05-21T20:51:41Z",
+  "2024-09-20T01:44:31Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2024-04-11T18:20:15Z",
+   "updated_at": "2024-07-19T20:14:56Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Some thoughts on token utility:</p>\n<ul>\n<li>The <a href=\"https://osf.io/preprints/socarxiv/xw48b\">TE Stakeholder Study</a> has shown developments needed to advance the field.</li>\n<li>The TEC can focus on providing grants to projects that address those needs, limiting the funding surface to topics backed by the study data.</li>\n<li>TE firms and token engineers will benefit from those projects.</li>\n<li>TEC grants should have a higher matching for donations given in TEC.</li>\n<li>The TE community will be incentivized to donate because the projects will be working on developments they want to see but don’t have the capacity to work on.</li>\n<li>Grant projects should have the option to receive TEC tokens from the grants.</li>\n</ul>\n<p>This is something relatively simple to do to bring some flow to the TEC token and attach the value being produced by the community to it. An increase in the token value will also allow more projects to be funded in the grant rounds.</p>\n<p>The importance of token engineering partnerships was also mentioned in the study. Someone suggested a role responsible for fostering partnerships in the field and identifying opportunities for mutual help. If the TEC token is tight to the value produced by projects funded via TEC grants, TE firms could be incentivized to accept partial payments in TEC tokens as a commitment to advancing the field as an open-source discipline.</p>\n<p>Also for the future, a TE union with TEC token membership.</p>\n<p>I would love to hear your thoughts <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/rex\">@rex</a> <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/danlessa\">@danlessa</a> <a class=\"mention\" href=\"/u/octopus\">@octopus</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2024-04-11T22:37:23Z",
+   "updated_at": "2024-04-11T22:37:23Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I think these are great ideas!</p>\n<p>One area of the Grants Program that should be developed, using the Stakeholder Study as a foundation would be to have the Token Engineering Advisory Group help develop a series of Intents each year/season (Education, Standardization, X, etc.) for the Grant Program.  Once those Intents are developed, we could have token-holders vote on which area to focus on in the next grant round.</p>\n<p>Narrowing the scope for the purpose of each round, rather than keeping it broad and unfocused, will actually help bring new projects to the forefront specializing in those specific areas.</p>\n<p>Currently, all grants are distributed in $TEC.  As a grantee, it may not be desirable to receive $TEC (I’m not sure if any of our previous grant recipients still hold the token), and offering grantees the option will most likely result in no project opting in to receive $TEC.  Even with an additional matching boost, the current exit tribute cuts into too much of that.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1361\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>The importance of token engineering partnerships was also mentioned in the study. Someone suggested a role responsible for fostering partnerships in the field and identifying opportunities for mutual help. If the TEC token is tight to the value produced by projects funded via TEC grants, TE firms could be incentivized to accept partial payments in TEC tokens as a commitment to advancing the field as an open-source discipline.</p>\n</blockquote>\n</aside>\n<p>This is it.  If we can accomplish this, I think we can drive enough utility to actually expand our capacity as a Commons moving forward.  Convincing TE partners, institutions, and firms (non-tokenized projects) to adopt the $TEC as their preferred currency for economic exchange for products/services, we could potentially offer a continuous source of funding in exchange while simultaneously growing the CP.</p>\n<p>The incentive part is the most difficult.  The two firms that hold the most potential in generating future revenue for products and services and have the potential to become TE Institutions are probably BlockScience and TE Academy (I can also see something like MetaGov fitting into this as well).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2024-04-11T23:23:38Z",
+   "updated_at": "2024-04-11T23:23:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think the key to start is really on the TEC matching boost combined with a good curation of projects. I know <a class=\"mention\" href=\"/u/enti\">@enti</a> talked a lot about the matching before. Is it already happening, or planned to happen soon?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2024-04-12T00:56:44Z",
+   "updated_at": "2024-04-12T00:56:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>It’s happening.  Right now it is focused on donor-side boosts, amplifying the matching funds of projects whose donors possess TE alignment and expertise (Holding $TEC, or TE Certifications).  We haven’t discussed Grantee side Matching Boosts yet, but I think its a good idea.  Especially projects who make a commitment to the Commons.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2024-04-12T02:16:34Z",
+   "updated_at": "2024-04-12T02:16:34Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks Nate! Perhaps some marketing efforts on the TEC token boost would be nice, I didn’t know that was happening in the last round for example. The info could start to be shared with the promotion of the grant application</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2024-04-19T06:05:53Z",
+   "updated_at": "2024-04-19T06:05:53Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<blockquote>\n<p>The importance of token engineering partnerships was also mentioned in the study. Someone suggested a role responsible for fostering partnerships in the field and identifying opportunities for mutual help.</p>\n</blockquote>\n<p>if one looks at the 8-fold path, it is (at least to me) obvious where the deficiency (not necessarily weakness) of TEC/TEA is the law/ethics + polSci + decision models lobes. Unlike engineering, they tend to fall into the mushy thinking category and requires different approaches. In LexDAO (guild of legal engineers) we try (alas still on the bottom of the S-curve) to inculturate H-shaped skills in both law and web3 coding through a mix of case-studies and <a href=\"https://hackmd.io/OG98GeTUQhaSkN07-EaYmA?view\" rel=\"noopener nofollow ugc\">quests</a>.</p>\n<p>Our general conclusion was it may be easier to force-feed developers legal philosophy than to try and teach crusty lawyers how to acquire l33t skills. I would love to discuss possible collaboration starting with getting control of a secondary registry for peer review of complex token engineering projects.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2024-05-24T18:43:15Z",
+   "updated_at": "2024-05-24T18:43:15Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"1361\" data-username=\"drllau\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/drllau/40/69_2.png\" width=\"20\"/> drllau:</div>\n<blockquote>\n<p>Our general conclusion was it may be easier to force-feed developers legal philosophy than to try and teach crusty lawyers how to acquire l33t skills. I would love to discuss possible collaboration starting with getting control of a secondary registry for peer review of complex token engineering projects.</p>\n</blockquote>\n</aside>\n<p>I’m not going to try to argue with a lawyer, but I think that certain lawyers would typically make great programmers. I see tremendous skill set overlap in attending ti deep, careful logic, as well as the construction of alternative possibilities.</p>\n<p>(I guess I’m saying, if you ever want to organize a Python for Lawyers course, Id be down. <img alt=\":slightly_smiling_face:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=12\" title=\":slightly_smiling_face:\" width=\"20\"/>)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240920014431",
+    "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240521205141",
+   "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521205141",
+   "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240920014431",
+   "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240920014431",
+   "url": "https://forum.tecommons.org/t/ideas-on-token-utility/1361"
+  }
+ ]
+}

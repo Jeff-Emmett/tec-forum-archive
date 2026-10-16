@@ -1,0 +1,108 @@
+{
+ "id": 156,
+ "title": "Conviction Voting : Max Ratio/Beta - Deep Dive",
+ "slug": "conviction-voting-max-ratio-beta-deep-dive",
+ "posts_count": 2,
+ "category_id": 20,
+ "created_at": "2020-12-13T20:59:08.809Z",
+ "last_posted_at": "2020-12-17T22:12:40.582Z",
+ "views": 4302,
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2020-12-17T22:12:40Z",
+ "captured_between": [
+  "2021-04-20T13:11:16Z",
+  "2026-05-05T20:55:25Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "santigs",
+   "name": "Santi",
+   "created_at": "2020-12-13T20:59:08Z",
+   "updated_at": "2021-01-11T18:18:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h3>Definition</h3>\n<p>Max Ratio or β is a value between 0 and 1 which represents the max % of total funds that can be discharged at any given moment. Max Ratio affects the threshold of a proposal. It can be thought of as an “upper ceiling” in asking funds proportional to the total holdings of the Commons.</p>\n<h3>Detailed explanation</h3>\n<p>The max ratio is an important parameter of the threshold calculation. The role of the threshold in the conviction voting algorithm is to determine if a sufficient amount of conviction has accumulated in support of a particular proposal, at which point it becomes funded.</p>\n<p>The threshold formula and representation can be seen below, where:</p>\n<ul>\n<li>\n<p>r is the number of funds requested in the proposal</p>\n</li>\n<li>\n<p>R is the total funds in the funding pool</p>\n</li>\n<li>\n<p>S is the effective supply which is the total number of tokens used to vote</p>\n</li>\n<li>\n<p>ρ is the “Min Effective Supply” a number between 0 and 1 used to weight the effective supply S of governance tokens.</p>\n</li>\n</ul>\n<p><strong><img src=\"https://forum.tecommons.org/uploads/default/original/1X/1f807ec73566a0cb3b968eed6a6ddfdcccce95f8.png\" alt=\"\" data-base62-sha1=\"4uG6hxNz3L3AaE1oTM1IceDDRMc\" width=\"223\" height=\"94\"></strong></p>\n<p><strong><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/df303d828e79b81b0730ee6991061a9fda0433cc.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/df303d828e79b81b0730ee6991061a9fda0433cc\" title=\"\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/df303d828e79b81b0730ee6991061a9fda0433cc_2_498x363.png\" alt=\"\" data-base62-sha1=\"vQpPtmtRx1Bd4OgGbbTRS3hztfu\" width=\"498\" height=\"363\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/df303d828e79b81b0730ee6991061a9fda0433cc_2_498x363.png, https://forum.tecommons.org/uploads/default/optimized/1X/df303d828e79b81b0730ee6991061a9fda0433cc_2_747x544.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/df303d828e79b81b0730ee6991061a9fda0433cc_2_996x726.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/df303d828e79b81b0730ee6991061a9fda0433cc_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1007×734 87.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></strong></p>\n<h3>So what do you think the max ratio should be? Do we want a big max ratio so proposals can get a bunch of funds or do we prefer a small max ratio so we can fund many proposals?</h3>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260505205525",
+    "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2020-12-14T02:54:08Z",
+   "updated_at": "2020-12-14T02:54:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>We definitely need to look at all the convictions voting parameters together…</p>\n<p>A low Max Ratio slow down our spending with CV… but a low half life will counter act that…</p>\n<p>I am very excited to see these params modeled so we can really see how all these parameters interact</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260505205525",
+    "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": "Sem",
+   "created_at": "2020-12-17T22:12:40Z",
+   "updated_at": "2020-12-17T22:12:40Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’d like to share some tools that will allow us to select beta and min threshold parameters.</p>\n<p>We have an interactive graph on how much conviction is required depending on the funds requested. Tweaking beta (β) and min threshold (M) we can see how much conviction is needed.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://forum.tecommons.org/uploads/default/original/1X/564aa1341478772d3329d05983017e1d5db62165.png\" class=\"site-icon\" width=\"192\" height=\"192\">\n      <a href=\"https://www.desmos.com/calculator/yuv0nsv1jz\" target=\"_blank\" rel=\"noopener\">Desmos</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"https://forum.tecommons.org/uploads/default/original/1X/690f5449a4f18939b7f7ec499039e5a92ef61f3f.png\" class=\"thumbnail onebox-avatar\" width=\"400\" height=\"400\">\n\n<h3><a href=\"https://www.desmos.com/calculator/yuv0nsv1jz\" target=\"_blank\" rel=\"noopener\">Trigger</a></h3>\n\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>We can also see how much conviction is gathered during time in this other interactive graph, in which you can interact with the three parameters: half-life, beta and min threshold.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://forum.tecommons.org/uploads/default/original/1X/564aa1341478772d3329d05983017e1d5db62165.png\" class=\"site-icon\" width=\"192\" height=\"192\">\n      <a href=\"https://www.desmos.com/calculator/5xvr9lhrhl\" target=\"_blank\" rel=\"noopener\">Desmos</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"https://forum.tecommons.org/uploads/default/original/1X/2b80fbc5882b60898c43ada116a43aef406e617c.png\" class=\"thumbnail onebox-avatar\" width=\"400\" height=\"400\">\n\n<h3><a href=\"https://www.desmos.com/calculator/5xvr9lhrhl\" target=\"_blank\" rel=\"noopener\">Conviction + Threshold</a></h3>\n\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260505205525",
+    "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420131116",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420131116",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006172237",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006172237",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204021649",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204021649",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260505205525",
+   "url": "https://forum.tecommons.org/t/conviction-voting-max-ratio-beta-deep-dive/156/3"
+  }
+ ]
+}

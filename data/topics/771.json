@@ -1,0 +1,47 @@
+{
+ "id": 771,
+ "title": "Voter Pamphlets",
+ "slug": "voter-pamphlets",
+ "category_id": 5,
+ "posts_count": 0,
+ "created_at": "2021-12-23T18:55:28.046Z",
+ "last_posted_at": "2021-12-23T18:55:28.438Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-12-23T18:55:28Z",
+ "captured_between": [
+  "2022-01-24T03:23:45Z",
+  "2022-01-24T03:23:45Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-12-23T18:55:28Z",
+   "updated_at": "2021-12-23T18:55:28Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#what-would-help-you-make-an-informed-decision-about-the-commons-upgrade-runoff-votes-1\" name=\"what-would-help-you-make-an-informed-decision-about-the-commons-upgrade-runoff-votes-1\"></a>What would help you make an informed decision about the Commons Upgrade runoff votes?</h2>\n<pre><code>         📢 Help us design the best voter pamphlets  \n</code></pre>\n<h3>\n<a class=\"anchor\" href=\"#these-are-some-points-shared-in-the-last-soft-gov-call-2\" name=\"these-are-some-points-shared-in-the-last-soft-gov-call-2\"></a>These are some points shared in the last Soft Gov call:</h3>\n<ul>\n<li>\n<p>How will this proposal affect the TEC in the future</p>\n</li>\n<li>\n<p>Should subjective opinions from community members be shared in the pamphlets?</p>\n</li>\n<li>\n<p>Have one pamphlet that is very objective and one that has opinions from the community</p>\n</li>\n<li>\n<p>Pick top 5 key params to compare between proposals</p>\n</li>\n<li>\n<p>Ask objective questions to the proponents and have a page with their answer.</p>\n</li>\n<li>\n<p>Concise with pros and cons of each proposal</p>\n</li>\n<li>\n<p>Separate params on different spectrums for example: Very inclusive to new members x hatchers can hold voting power for longer – and connect proposals to the respective one.</p>\n</li>\n<li>\n<p>Consider each proposal on worst case scenarios.</p>\n</li>\n<li>\n<p>The target audience might be outside of the people who voted now - how can we simplify a layer further?</p>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#other-points-to-consider-3\" name=\"other-points-to-consider-3\"></a><strong>Other points to consider</strong>\n</h3>\n<p><strong>Token Freeze - Token Thaw and Total Vesting Period</strong></p>\n<ul>\n<li>What is the ratio between the freeze and the thaw?</li>\n<li>Is this incentivizing long term sustainability?</li>\n</ul>\n<p><strong>Opening Price</strong></p>\n<ul>\n<li>Should the psychological effect of the token affect the opening price? What are other important factors?</li>\n<li>How does the opening price affect hatchers considering the total vesting period?</li>\n<li>How does the opening price affect new token holders?</li>\n</ul>\n<p><strong>Common Pool fund</strong></p>\n<ul>\n<li>How does this amount advance token engineering?</li>\n<li>Does it impact voter behavior?</li>\n</ul>\n<p><strong>Conviction Voting</strong></p>\n<ul>\n<li>How many proposals will be completed before the total vesting period ends?</li>\n<li>How much subjective value do we need from proposals to secure the economy?</li>\n</ul>\n<p><strong>Freeze versus conviction growth</strong></p>\n<ul>\n<li>Shorter curves have a higher minimum conviction</li>\n<li>Longer curves need a lower minimum conviction</li>\n<li>Will everyone in the community have a chance to participate in votes? What is a comfortable min time for proposals to pass?</li>\n<li>What is the largest proposal that could pass?</li>\n<li>If x% of voters are active, what can they pass?</li>\n</ul>\n<p><strong>Entry - Exit Tribute</strong></p>\n<ul>\n<li>High entry tribute - low exit tribute implies active governance</li>\n<li>High exit tribute implies more money in the common pool but might not have active governance</li>\n<li>Entry tribute is a market regulator, how will entry, exit tributes likely change over time?</li>\n</ul>\n<p><strong>Reserve Ratio</strong></p>\n<ul>\n<li>How gradually do we want the governance decentralization to happen?</li>\n<li>Volatility generates funds x higher reserve ratio is more fair for people coming in late.</li>\n</ul>\n<p><strong>Quorum</strong></p>\n<ul>\n<li>If there is a low reserve ratio, the quorum should be higher</li>\n<li>Consider our current token distribution - how many people can pass a proposal?</li>\n</ul>\n<p><strong>Delegated Voting</strong></p>\n<ul>\n<li>The more serious we take the delegation, the higher the quorum can be</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124032345",
+    "url": "https://forum.tecommons.org/t/voter-pamphlets/771"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220124032345",
+   "url": "https://forum.tecommons.org/t/voter-pamphlets/771"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124032345",
+   "url": "https://forum.tecommons.org/t/voter-pamphlets/771"
+  }
+ ]
+}

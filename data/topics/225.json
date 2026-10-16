@@ -1,0 +1,222 @@
+{
+ "id": 225,
+ "title": "Using Celeste for Disputable Conviction Voting at launch",
+ "slug": "using-celeste-for-disputable-conviction-voting-at-launch",
+ "category_id": 28,
+ "posts_count": 10,
+ "created_at": "2021-01-20T16:55:28.864Z",
+ "last_posted_at": "2021-04-09T13:46:00.523Z",
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2022-03-03T04:21:32Z",
+ "captured_between": [
+  "2021-03-06T01:00:23Z",
+  "2022-05-20T06:27:18Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-01-20T16:55:28Z",
+   "updated_at": "2021-12-02T14:56:47Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#original-plan-1\" name=\"original-plan-1\"></a>Original Plan</h2>\n<p>Initially, when we were planning to launch in December, the design for the Commons was to use the same Conviction Voting set up that 1hive has been using up until now, with just a change in the issuance model.</p>\n<p>The upside here was that, despite never receiving a formal audit, this version of CV has been tested with millions of dollars in it for many months. This is surely more than we expect to have in our Funding Pool a very safe move.</p>\n<p>The down side was there were many lessons learned in its use and desired improvements to the code base that were currently in the works, especially around certain points of centralization. The biggest point of centralization that is being addressed is the multisig that holds the role of removing proposals from CV that do not align with the mission of the project.</p>\n<p>Our intention was to start with the current version and have Gravity maintain this multisig and upgrade to the new version when it was ready, if the Commons approved.</p>\n<h2>\n<a class=\"anchor\" href=\"#current-situation-2\" name=\"current-situation-2\"></a>Current Situation</h2>\n<p>Things have changed. Our timeline to launch the Hatch is now targeted at March and we can assume we won’t be upgrading the TEC Hatch DAO into a Commons with Conviction Voting until April.</p>\n<p><a href=\"https://forum.1hive.org/t/celeste-a-brief-primer/1483\">Celeste</a>, the solution to all of our centralizing Multisig needs (in one way or another) is going to be ready at the end of the month, and will be implemented by 1hive well before our Hatch.</p>\n<h2>\n<a class=\"anchor\" href=\"#opportunity-3\" name=\"opportunity-3\"></a>Opportunity</h2>\n<p>Given these two facts, there is a positive sum opportunity, to combine the Gardens Swarm’s development efforts with the 1hive team’s roadmap and focus our efforts on getting the new disputable version of Conviction Voting right.</p>\n<p>The proposed approach would have a few results:</p>\n<ol>\n<li>Alignment of interests of both 1hive and TEC around a shared codebase as opposed to spending efforts on an old codebase. Specifically, we would help them with the new front end for Disputable CV, and Adrià would do a code review of the new code base.</li>\n<li>Political alignment with the 1hive community, who has mostly funded the development work so far.</li>\n<li>Integrate 1hive’s HNY token into the TE Commons system. HNY would be used to dispute proposals that do not follow the TEC’s Conviction Voting Terms.</li>\n<li>Potentially integrate Celeste in other places as needed.</li>\n<li>It doesn’t add any extra work for the Gardens Swarm, and doesn’t slow down the Hatch.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#next-steps-4\" name=\"next-steps-4\"></a>Next steps</h2>\n<ol>\n<li>We as a community, learn about using Celeste. There are great resources here:</li>\n</ol>\n<ul>\n<li><a href=\"https://forum.1hive.org/t/celeste-a-brief-primer/1483\">Celeste - a brief premier</a></li>\n<li><a href=\"https://forum.1hive.org/t/disputable-honey-pot-celeste-and-agreement-user-process/1343\">Disputable Honey Pot</a></li>\n<li><a href=\"https://about.1hive.org/docs/dao/Participation/community-covenant/\">1hive Community Covenant</a></li>\n</ul>\n<ol start=\"2\">\n<li>\n<p>We gather questions from this thread, please write here the questions you have after reading the previous resources.</p>\n</li>\n<li>\n<p>We prepare an AMA with the Celeste swarm to answer these questions.</p>\n</li>\n<li>\n<p>We vote on whether to use Disputable Conviction Voting or not. Pros and cons can also be detailed and discussed in this thread (This is a blocker to the Hatch).</p>\n</li>\n<li>\n<p>If we decide to go the Celeste route, we prepare a TEC Community Covenant with the Soft Gov, Legal &amp; Gravity WGs and propose it as another vote (This is not a blocker to the Hatch).</p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-02-09T15:13:54Z",
+   "updated_at": "2021-02-09T15:13:54Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Check out the 1hive UX/UI for Disputable voting here:</p>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"192\" src=\"https://forum.tecommons.org/uploads/default/original/1X/4f4d4b7096a4cf1f9a95bfd6f6ae0bf9252fb05b.png\" width=\"192\"/>\n<a href=\"https://www.figma.com/file/P06HTzSyb9hExJVpwaUPmA/Honey-Pot-2.0?node-id=1874:588\" rel=\"noopener\" target=\"_blank\" title=\"07:05PM - 06 August 2020\">Figma – 6 Aug 20</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/894e4fc44eb68e21dc17a26a0fcea45b5b5a3d43_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/original/1X/894e4fc44eb68e21dc17a26a0fcea45b5b5a3d43.png\" width=\"690\"/></div>\n<h3><a href=\"https://www.figma.com/file/P06HTzSyb9hExJVpwaUPmA/Honey-Pot-2.0?node-id=1874:588\" rel=\"noopener\" target=\"_blank\">Figma</a></h3>\n<p>Created with Figma</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-02-16T17:03:19Z",
+   "updated_at": "2021-02-16T17:03:19Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>oh wow, the visuals help so much!</p>\n<ul>\n<li>who picks the “keepers”? Is it automated by the system who sends notifications to the people with the highest stakes, or an admin is needed to do that?</li>\n<li>would be nice to use quadratic staking to avoid a dispute plutocracy</li>\n<li>the escrow function sounds really exciting!</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-02-16T18:58:38Z",
+   "updated_at": "2021-02-16T18:58:38Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Very good questions and suggestions <a class=\"mention\" href=\"/u/liviade\">@liviade</a>! I’ll do my best replying to them, but I think that we can make them again in the AMA with Celeste Swarm, because they will be able to answer better.</p>\n<blockquote>\n<p>who picks the “keepers”?</p>\n</blockquote>\n<p>The keepers are picked randomly, and the more HNY you have staked in Celeste, higher the probability you are drafted.</p>\n<blockquote>\n<p>would be nice to use quadratic staking to avoid a dispute plutocracy</p>\n</blockquote>\n<p>The major difference between Aragon Court and Celeste is that the last integrates BrightID and sets a maximum amount of HNY that a single user can stake.</p>\n<p>Quadratic staking using BrightID would have a similar effect fighting against plutocracy, but it would also incentive keepers to stake as much HNY as they have available. I would love to hear what Celeste team think about it.</p>\n<blockquote>\n<p>the escrow function sounds really exciting!</p>\n</blockquote>\n<p>Indeed! It’s something really needed in the current conviction voting implementation, and that’s the primary reason why I think it’s interesting to use Celeste.</p>\n<p>I’m wondering how it will affect the autonomy of our DAO when we will be able to resolve some conflicts by invoking Celeste and waiting for its keepers to rule based on the previous agreements we have had reached in TEC.</p>\n<p>For me, including Celeste in the dispute resolution is like removing from the center of the DAO the will of the majority of TEC tokenholders and put a set of agreements and rules in their place. Token holders must comply with the set of rules that were put there on its foundation, since they are externally enforced and they have a limited power to change. To my understanding this limits the sovereignty of the DAO, but protects the minorities by setting up a common ground that can not be changed by the big tokenholders of the DAO.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-04-08T19:34:53Z",
+   "updated_at": "2021-04-08T19:34:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>A few more questions are popping up <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/><br/>\nI thought Disputable Voting was like an upgrade of the Dandelion DAO.<br/>\nIs Disputable Conviction Voting a different dapp, or an upgrade of CV as well and we would have the disputable features both in DV and CV? <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/sem\">@sem</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-04-09T13:46:00Z",
+   "updated_at": "2021-04-09T13:46:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The initial idea was to use Dandelion Voting in both the Hatch DAO and the Commons DAO (the original Gardens Template was using Dandelion Voting). The plan has changed with the release of Celeste, and we are not going to use Dandelion Voting after the Commons Upgrade. Both Voting and Conviction Voting in the new DAO will be disputable (aka Disputable Voting and Disputable Conviction Voting), which means that votes and conviction voting proposals will be able to be paused and disputed in front of Celeste.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-02-11T00:21:50Z",
+   "updated_at": "2022-02-11T00:21:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>THE INDISPUTABLE NATURE OF DISPUTABLE TAO VOTING</p>\n<p>While Disputable Voting for Conviction Voting makes sense, the Disputable Voting for Tao Voting does not.</p>\n<p>I was hoping someone could comment on this.</p>\n<p>With Conviction Voting, the subject matter of the vote is centered around the funding of a proposal that may or may not be in alignment with the TEC Community Covenant – where a judgement of this alignment can be obtained through Celeste.</p>\n<p>With Tao Voting, the subject matter of the vote is centered around the parameters of the smart-contracts for our core infrastructure and is inherently neutral to the values and orientation of the TEC Community Covenant.</p>\n<p>I’m not sure how Celeste would resolve a challenged proposal that passes a change in Support Required to say 5%…or as with our current vote – a change in the Entry &amp; Exit tributes.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-02-11T15:32:12Z",
+   "updated_at": "2022-02-11T15:32:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Such an interesting question, let’s see if I can explain the rationale behind the decision of making tao voting disputable.</p>\n<p>As you are saying, it’s easy for celeste to see if a funding proposal aligns with the covenant of a garden. So the first reason why tao voting must be disputable as well is because it can also request funds from the common pool and the proposal will pass if enough people votes positively.</p>\n<p>A more extended way to see it, is that tao voting (the rule of the majority) can do <strong>anything</strong> in the DAO (move funds, mint and burn tokens, change parameters or even install and “uninstall” apps), and the DAO stakeholders can write <strong>anything</strong> in the covenant to limit what is possible in a voting as well.</p>\n<p>You can think of it as a constitution that grants rights to everyone participating in the DAO, a way to protect the minorities from the <a href=\"https://en.wikipedia.org/wiki/Tyranny_of_the_majority\">tyranny of the majority</a>. It doesn’t mean that it has to be used this way, but it is healthy for a DAO to have this checks and balances with the appropriate covenant.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-02-12T05:57:05Z",
+   "updated_at": "2022-02-12T06:04:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"8\" data-topic=\"225\" data-username=\"sem\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sem/40/346_2.png\" width=\"20\"/> sem:</div>\n<blockquote>\n<p>it can also request funds from the common pool and the proposal will pass if enough people votes positively</p>\n</blockquote>\n</aside>\n<p><img alt=\":upside_down_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/upside_down_face.png?v=10\" title=\":upside_down_face:\"/> Thanks for the clarification.  Do you know of any Covenants right now that set minimum/maxium restrictions on parameters, or discuss any aspect of modifying the smart-contracts?</p>\n<p>**Also, does the current Aragon DAO for the TEC utilize the Aragon Agent?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "sem",
+   "name": null,
+   "created_at": "2022-02-17T23:28:27Z",
+   "updated_at": "2022-02-17T23:28:27Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<blockquote>\n<p>Do you know of any Covenants right now that set minimum/maxium restrictions on parameters, or discuss any aspect of modifying the smart-contracts?</p>\n</blockquote>\n<p>There is none I’m aware of, but it would be easy to add in plain text. You can also add conditions on how to change the covenant itself. If those conditions are not met when there is a covenant change proposal, it can be disputed.</p>\n<blockquote>\n<p>does the current Aragon DAO for the TEC utilize the Aragon Agent?</p>\n</blockquote>\n<p>Yes it does. It uses an agent for the reserve (holds the bonding curve funds), the common pool (holds the conviction voting funds), and it has an extra agent that can be used if you need to hold funds only accessible by tao voting (the initial buy funds, for example).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-03-03T04:21:32Z",
+   "updated_at": "2022-03-03T04:21:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>There is a classic example of why we need disputable voting for yes/no Decisions Votes…</p>\n<p>Anyone could create a proposal that says, send all the assets in the DAO to the contract that will distribute the assets between everyone who voted yes on this vote.</p>\n<p>For a purpose driven DAO with a strong culture, we probably wouldn’t fall pray to this kind of vote, but this sort of vote shouldn’t be possible at all, and the Covenant stops it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520062718",
+    "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306010023",
+   "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624142506",
+   "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624142506",
+   "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520062718",
+   "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520062718",
+   "url": "https://forum.tecommons.org/t/using-celeste-for-disputable-conviction-voting-at-launch/225"
+  }
+ ]
+}

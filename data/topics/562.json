@@ -1,0 +1,195 @@
+{
+ "id": 562,
+ "title": "Proposed framework for receiving projects' proposals",
+ "slug": "proposed-framework-for-receiving-projects-proposals",
+ "category_id": 28,
+ "posts_count": 8,
+ "created_at": "2021-08-18T13:11:48.931Z",
+ "last_posted_at": "2021-08-24T16:45:08.109Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 9,
+ "last_archived_post_at": "2022-04-28T07:40:00Z",
+ "captured_between": [
+  "2021-09-28T01:12:58Z",
+  "2022-07-06T00:41:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-08-18T13:11:49Z",
+   "updated_at": "2021-12-02T14:56:46Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>The purpose of this is solely requesting feedback!</strong></p>\n<ol>\n<li>\n<p>Who is going to be affected by this proposal?<br/>\nTEC Scouts, Soft-Gov, New and old submitted proposals and Onboarding.</p>\n</li>\n<li>\n<p>Who are the experts of the proposed subject?<br/>\n<a class=\"mention\" href=\"/u/liviade\">@liviade</a> (as Soft-Gov), <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a> (for understanding how effective this could be), <a class=\"mention\" href=\"/u/suga\">@Suga</a> (for understanding if it can be incorporated to Onboarding processes).</p>\n</li>\n</ol>\n<p>The Hatch has closed, and we have some weeks to understand how to analyze, receive and give proper feedback to the incoming proposals.</p>\n<p>For this situation there are possibilities like:</p>\n<ul>\n<li>\n<p><strong>Wait until the commons upgrade and then focus on what do to with proposals:</strong> From my perspective, not very efficient, with the previous experience on the Hatchers, building trust with them across the months, was a key factor, at least based on an open conversation and dialogue. But, on the other hand, this approach will allow us to focus and have more information by the time the submission to the Commons  is possible.</p>\n</li>\n<li>\n<p><strong>TEC Scouts:</strong> TEC Scouts can continue to do soft-outreach for the next month and half, focused on communities that have related projects, ideas, values or with previous conversations such as being featured on the weekly highlights. This will allows to stay on the loop, while keep inform of where we are at with projects, so they will have access to information and be easier/aware for them to know when to submit their proposals. Right now TEC Scouts is formed by Lauren, Chuy and Eduardo, and we will probably need a few more people connected to the ecosystem in order to spread the word and make it effective.</p>\n</li>\n</ul>\n<p>For this part, I propose the following framework and understanding of the “Proposal Journey”</p>\n<ol>\n<li>\n<p>TEC Scouts takes care of creating and curating a database of Projects (this has started already), as well as a value exchange for both, and to identify how we can take a 360º view and integration of their proposal.</p>\n</li>\n<li>\n<p>Once the outreach is done, the members that will submit the proposal could/will have a session of Onboarding with Suga, in order to make sure they have the right information/tools and access to them. This could be a fixed time or a personalized meeting. (This also refers to technical information and cultural information of the TEC)</p>\n</li>\n<li>\n<p>Once they have been introduced to the community, Soft-Gov could take a look to the submitted proposal on the forum, and provide feedback if needed, if no feedback is possible, then just the “we have read it” check should be given.</p>\n</li>\n<li>\n<p>TEC Scouts takes again the proposal that was submitted and takes care of distribution and potential linking of that proposal within the community, using the TEC Lounges, to introduce them to hatchers and contributors bringing another layer of feedback.</p>\n</li>\n</ol>\n<p>So this may sound a bit to corporate or too pre-defined, so I am requesting feedback from the community on this matter.</p>\n<p>The main objective of this post is to come out with an aligned consensus on what would be the actions for the next month and half, regarding proposals, because it will affect the aftermath of the outreach done by TEC Scouts, as well as the unavoidable attention that will bring the success of the Hatch.</p>\n<p><em>Consider that this proposed framework is not targetting what to do with the proposals that have been submitted already, but my intuition goes that we can just apply step 3 and 4.</em></p>\n<p>We are at a momentum to spread the word, now how we become effective about it?</p>\n<p>Sorry if my wording is incorrect at some points, feel free to correct it &lt;3.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-08-18T13:11:57Z",
+   "updated_at": "2021-08-18T13:11:57Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-08-18T23:19:16Z",
+   "updated_at": "2021-08-18T23:19:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-08-20T00:14:02Z",
+   "updated_at": "2021-08-20T00:14:02Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for bringing this up <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a>!</p>\n<p>I want to provide my feedback on developing a framework for receiving Project Proposals for funding by the TEC, but before I do, I would like to review what it is we actually NEED to be funding within the TEC, and that requires asking questions such as: “What does it mean to Advance the Field of Token Engineering?” or “What types of projects should we NOT fund?”.</p>\n<p>From my perspective (and it may not be popular), the best things we can fund that further the mission of our organization is Education and Research in the field of Token Engineering.  While there are many proposals that are going to be interested in developing new economic and governance primitives, I hold the assumption that most of these advancements will be achieved from “private-sector” projects who will generate far more revenue and have much greater incentives to develop these primitives.  This doesn’t mean we cannot fund projects that seek to develop new mechanisms, but we must be very judicious in how we spend the funds we do have in the Common Pool and that means we must be very clear on what types of projects we are willing to fund, and what type of value (like many non-profits, our value will come in the form of organizational visibility, and the Impact the projects we do fund have on the industry) we receive from providing that funding.</p>\n<p>As far as proposals go, I really like the idea of taking the “whole” DAO approach towards informing, guiding, evaluating, and approving proposals that go through whatever system we have set out.  I think it is beneficial not only to TEC member cohesion, but also for integrating these projects into the TEC ecosystem and having access to the right people/resources for getting the most out of each project proposal.</p>\n<blockquote>\n<p>For this part, I propose the following framework and understanding of the “Proposal Journey”</p>\n</blockquote>\n<p>I love the Proposal Journey concept!</p>\n<blockquote>\n<ol>\n<li>TEC Scouts takes care of creating and curating a database of Projects (this has started already), as well as a value exchange for both, and to identify how we can take a 360º view and integration of their proposal.</li>\n</ol>\n</blockquote>\n<p>While the TEC Scouts can develop a database for potential projects, it would be really nice to have some type of portal where potential projects can create their own Profiles and reduce the amount of administrative overhead it would take to constantly seek out potential projects, evaluate their potential and make contact with communities and individuals.</p>\n<p>We also should have a way to establish that a project has a credible intent to apply for funding, and if they do, their project should be evaluated immediately for response on whether or not the proposal qualifies under our criteria for Funding.  (These decisions will not be easy, and that approval process should be immediate and probably involve the Stewards WG or a dedicated Funding Committee)</p>\n<blockquote>\n<ol start=\"2\">\n<li>Once the outreach is done, the members that will submit the proposal could/will have a session of Onboarding with Suga, in order to make sure they have the right information/tools and access to them. This could be a fixed time or a personalized meeting. (This also refers to technical information and cultural information of the TEC)</li>\n</ol>\n</blockquote>\n<p>This one is a no-brainer, and I love it!  The onboarding group should be able to provide all potential projects any information they need to become successful, as well as create points of contact and notify them of any updates within the “Proposal Journey”.</p>\n<blockquote>\n<ol start=\"3\">\n<li>Once they have been introduced to the community, Soft-Gov could take a look to the submitted proposal on the forum, and provide feedback if needed, if no feedback is possible, then just the “we have read it” check should be given.</li>\n</ol>\n</blockquote>\n<p>While I would like to see Soft-Gov involved in this area of the process, I find that it doesn’t really fit very well with the objectives of the Working Group.  At this stage, I would like to see the evaluation of the potential proposal by Comms before they submit it to the Forum.  Half the battle with these projects is making sure that the messaging around why they are creating the proposal and what it provides for TE is adequately described.  Clear communication will limit any conflict around whether a project is worthy or not to be considered by the community.</p>\n<blockquote>\n<ol start=\"4\">\n<li>TEC Scouts takes again the proposal that was submitted and takes care of distribution and potential linking of that proposal within the community, using the TEC Lounges, to introduce them to hatchers and contributors bringing another layer of feedback.</li>\n</ol>\n</blockquote>\n<p>This is a perfect fit for the TEC Scouts.  Gathering feedback on the reception of the proposal and informing the needs of the TE community for further funding.</p>\n<p>Each of these steps within the journey require certain processes that have not yet been developed and because they span so many different WG’s, we should approach them one by one so that we have a holistic understanding of the system we are creating around potential proposals.  And while this post was focused on the Proposal Journey, I think its important to consider the entire funding process.  Here is a list of things that I think are important to consider for this process.</p>\n<ol>\n<li>) Develop a strict criteria around what types of projects qualify for funding that further our MISSION.</li>\n</ol>\n<p>2.) Identify a list of NEEDS within the TE community.  These needs should hold priority when we consider projects for funding.</p>\n<p>3.) Explore the possibility of establishing rules around funding (should we fund a large project 100,000 wxDai all at once, or should we milestone each part of a large proposal?/Can we enter into contractual agreements with potential projects?)</p>\n<p>4.) TEC Scouts need to list project characteristics (within a database) that are relevant to evaluating those projects according to our criteria for success. (how big is the community?/what type of experience do the developers have?/is this their first project?/etc.)</p>\n<p>5.) Onboarding should have a detailed process that includes not only the proposal journey, but also the reporting, and evaluation process of each project.  Informing potential projects on every aspect of the process and communicating will make the TEC an attractive place to get funding from.</p>\n<p>6.) Soft-Gov to evaluate the “campaign” process around funding proposals and establish boundaries/rules.</p>\n<p>7.) Comms to be dedicated to creating a narrative around each project proposal, and what they are doing for the field of TE.</p>\n<p>8.) TEC Scouts to be actively involved in the success of the project even after funding has ended.  TEC should be about creating value and the adoption of sustainable TE tools.</p>\n<p>9.) We cannot ignore our own economy.  Establishing utility for the TEC token, and being an active presence in every major crypto project should be a priority that will allow us to fund more and more projects, and to create a sustainable system in the long-run.  Without sufficient activity, we will be limited in the projects we can fund and therefore the impact that we have.</p>\n<p>Those are my thoughts on the topic.  Like every major decision we are facing right now, I think its important for everyone reading these posts to engage, share your opinion, and give our Stewards the most information to make the best decisions possible within their respective Working Groups!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "drllau",
+   "name": null,
+   "created_at": "2021-08-22T06:37:49Z",
+   "updated_at": "2021-08-22T06:37:49Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"562\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>or “What types of projects should we NOT fund?”.</p>\n</blockquote>\n</aside>\n<p>perhaps this question can be answered in the converse … what makes a project suitable for <strong>commons</strong>?</p>\n<ol>\n<li>high spillover effects … education case studies allow public to see what experts look at … eg post-token accident report (like airline crash)</li>\n<li>public interest value … a big project like China DCEP or Libra would have a bigger implication than private projects</li>\n<li>independence … sometimes you want a disinterested bystander rather than echo-chamber … this becomes more corporate communications so a bit harder to justify on public policy PoV</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-08-23T20:17:25Z",
+   "updated_at": "2021-08-23T20:17:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for making this post <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a> and for your reflections <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. It’s great to read your thoughts on this. My opinion is that all of this steps can be helpful if they aren’t mandatory or hold a culture of permission for things to move forward.</p>\n<p>I think the direction we should be aiming for is of a constant flow, where information is available, cultural practices are inclusive and easy to assimilate, and that we have the least steps possible for things to happen. There is a long way for us to get there still, but I believe we are moving in a great direction.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"562\" data-username=\"vegayp\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/v/a4c791/40.png\" width=\"20\"/> vegayp:</div>\n<blockquote>\n<p>TEC Scouts takes care of creating and curating a database of Projects (this has started already), as well as a value exchange for both, and to identify how we can take a 360º view and integration of their proposal.</p>\n</blockquote>\n</aside>\n<p>I think this is super valuable. Being in contact with projects that are aligned with our mission is great and being able to help them connect with other projects and people its something really cool we can offer. Other projects that are not in our database should feel free to propose as well.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"562\" data-username=\"vegayp\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/v/a4c791/40.png\" width=\"20\"/> vegayp:</div>\n<blockquote>\n<p>Once the outreach is done, the members that will submit the proposal could/will have a session of Onboarding with Suga, in order to make sure they have the right information/tools and access to them. This could be a fixed time or a personalized meeting. (This also refers to technical information and cultural information of the TEC)</p>\n</blockquote>\n</aside>\n<p>As long as this is framed as a courtesy of the community and not a required step for participating I think is great. Some people might not feel the need of having a call. I also feel strongly about having fixed times that are open instead of scheduling one on one calls for something like this because the questions someone have might be valuable for others, its more transparent and also saves time.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"562\" data-username=\"vegayp\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/v/a4c791/40.png\" width=\"20\"/> vegayp:</div>\n<blockquote>\n<p>Once they have been introduced to the community, Soft-Gov could take a look to the submitted proposal on the forum, and provide feedback if needed, if no feedback is possible, then just the “we have read it” check should be given.</p>\n</blockquote>\n</aside>\n<p>Hopefully feedback will start happening organically by anyone who feels interested in the proposal. Stewards could be mindful of taking a a frequent look and we can include live proposals in our weekly community updates, but anyone who proposes in the CV section of the forum will be able to submit their proposals to the DAO. Conviction Voting will also help to curate the attention a proposal receives. If it has votes, probably more people will look into it. I don’t think a “we have read it” stamp is necessary - it creates a permission culture, when we want to be permissionless but held by a culture of mutual trust.</p>\n<p>We could have a little flagging system, what do you think <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a>? Whenever a proposal  or post seems inadequate to the community we can use the flag in the forum and check that with a certain frequency. Also Celeste will be in place in case misaligned proposals end up getting there.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"562\" data-username=\"vegayp\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/v/a4c791/40.png\" width=\"20\"/> vegayp:</div>\n<blockquote>\n<p>TEC Scouts takes again the proposal that was submitted and takes care of distribution and potential linking of that proposal within the community, using the TEC Lounges, to introduce them to hatchers and contributors bringing another layer of feedback.</p>\n</blockquote>\n</aside>\n<p>This seems to me like a complement of point number 1. Which I think its cool for connecting projects and people, but we should be careful not to “promote proposals” and rather have a more neutral stance from the TEC perspective. We as individuals can vote on proposals and talk about them, but when it’s the TEC voice we should be careful not to give different treatments to different proposals, for example posting some on twitter and others not. We started this conversation in the Stewards call when talking about the future direction of the TE Spotlight <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. The idea of turning it more into an educational spotlight once we have the DAO running and with funds sounded interesting.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-08-24T16:32:26Z",
+   "updated_at": "2021-08-24T16:32:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<blockquote>\n<p>My opinion is that all of this steps can be helpful if they aren’t mandatory or hold a culture of permission for things to move forward.</p>\n</blockquote>\n<p><strong>YES</strong>. Absolutely. This is not a mandatory framework, it’s more intended to be a internal DAO organization format, that we can “check” and have an understanding within the organization of what do to when someone proposed. As you mention, this has more of an intention of “good practices” manual for proposals.</p>\n<p>This Good practices Manual, goes along the lines of what <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> mentioned.</p>\n<p>This part is even more relevant:</p>\n<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"562\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>From my perspective (and it may not be popular), the best things we can fund that further the mission of our organization is Education and Research in the field of Token Engineering.</p>\n</blockquote>\n</aside>\n<p>I think this should go to vote, or consensus. (Or whatever system soft-gov think it could fit) <a class=\"mention\" href=\"/u/liviade\">@liviade</a>. Before finishing this framework, our aim should be clear on what it’s the goal from funding, and target for example Education and Research and actively send TEC Scouts to dig within or out the community. I think aiming for cohesion and keeping “the personal touch” that we built with the community, should be maintained on the outreach, and for this to happen, having a clear goal, objective and targets would make it easier, and bring clarity for them and us.</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"562\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>As long as this is framed as a courtesy of the community and not a required step for participating I think is great. Some people might not feel the need of having a call. I also feel strongly about having fixed times that are open instead of scheduling one on one calls for something like this because the questions someone have might be valuable for others, its more transparent and also saves time.</p>\n</blockquote>\n</aside>\n<p>Agree too, this is a courtesy but is also a way to bring transparency and clarity about our culture. A lot of people, hatchers or projects, aren’t fully present on our community, therefore they miss out a lot of our cultural builds, the intention of this is to make them feel welcome to the ones that are willing and feel the need of, but also to make sure that we are taking care of them, and not only caring about their proposal. A fixed time, would be ideal. But counting on peoples times and timezone, the idea of personal touch should be consider.</p>\n<aside class=\"quote no-group\" data-post=\"6\" data-topic=\"562\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>We as individuals can vote on proposals and talk about them, but when it’s the TEC voice we should be careful not to give different treatments to different proposals, for example posting some on twitter and others not. We started this conversation in the Stewards call when talking about the future direction of the TE Spotlight <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. The idea of turning it more into an educational spotlight once we have the DAO running and with funds sounded interesting.</p>\n</blockquote>\n</aside>\n<p>Agree, TEC Scouts shouldn’t be promoting proposals, but more about bring awareness to our community that this proposal exists, on the same way we did with parameters, so people were aware of what they were about. So it’s more about the educational aspect of it, and not counting on with people reading and engaging if by default it’s not part of our cultural build to give proper care and space for proposal besides the Highlights.</p>\n<p>THANK YOU SO MUCH for your feedback &lt;3</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-08-24T16:45:08Z",
+   "updated_at": "2021-08-24T16:45:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"562\" data-username=\"vegayp\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/v/a4c791/40.png\" width=\"20\"/> vegayp:</div>\n<blockquote>\n<p>I think this should go to vote, or consensus. (Or whatever system soft-gov think it could fit) <a class=\"mention\" href=\"/u/liviade\">@liviade</a>. Before finishing this framework, our aim should be clear on what it’s the goal from funding, and target for example Education and Research and actively send TEC Scouts to dig within or out the community. I think aiming for cohesion and keeping “the personal touch” that we built with the community, should be maintained on the outreach, and for this to happen, having a clear goal, objective and targets would make it easier, and bring clarity for them and us.</p>\n</blockquote>\n</aside>\n<p>Part of the nature of the DAO is having this consensus happening via vote every time something is proposed. I think its good to have it a little loose, and that we build our understanding together as the space evolves. We can also start talking more about things that would be interesting to see happening if there is a question there. I think our mission, vision and values are a great starting point of goals and objectives. Definitely cohesion is important, but it’s a living thing <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=9\" title=\":pray:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2022-04-28T07:40:00Z",
+   "updated_at": "2022-04-28T07:40:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"562\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Education and Research in the field of Token Engineering.</p>\n</blockquote>\n</aside>\n<p>The topic of proposals is very close to my heart right now, and I’m super keen to get some feedback.</p>\n<p>I’ve spent some months now looking at different DAOs, and my own proposal journey is to believe firmly that proposals are the beating heart of any DAO. On arrival, my main immediate mission is to seek out where proposals are dealt with, to see if I can make a useful contribution there.</p>\n<p>As such, I see an evolutionary journey, from idea to proposal to project to services and tooling, and therefore value and longevity.</p>\n<p>Clarifying that journey for DAO visitors in any DAO improves visitor stickiness, IMO. I would love to know some data around that.</p>\n<p>Personally I would love to see tooling that had a register of ideas, with supporting dialogue as held here in the forum, which then graduate from idea to at least service / tooling as described above.</p>\n<p>Seeing this register would be really clarifying as to what each DAO is about, what they are doing, where they are trying to go.</p>\n<p>Those journey questions are questions most folk have when joining any organisation, decentralised or otherwise.</p>\n<p>Regarding the point <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> made, I’m very aware of a movement called Participatory Action Research, which is a close cousin of Community Operational Research. This works very much on the basis of trying things out and assessing how they did, based primarily on Kolb’s Learning Cycle. I see that DAOs work very much this way, and consider them a prime example of PAR. COR, oddly, the academic version, is a poor relation, and oddly disconnected. More broadly, DAOs are researching by doing, finding out what works. This has so much potential, as we can see from the levels of DAO activity.</p>\n<p>So that’s what I see as the bigger picture, bringing me back to the beating heart, DAO proposals.</p>\n<p>If someone is working on Token Engineering, primary DAO work AFAICS, I feel very strongly that proposals need to be front and centre.</p>\n<p>As an example, Bankless DAO are doing exactly this, their forum is very focused on proposals, both for projects and for their guilds.</p>\n<p>Their next step, I’d want to see, is to expand that focus out, firstly into Discord, and then out into Twitter. The Bankless Twitter already does this to a degree, talking about projects and services, not sure how the process works at grassroots, even though the ranking and visible members in Bankless do seem to have that grasp.  Just I’d love to see that visibility at Grassroots as well, because that would accelerate the DAO learning journey, IMO.</p>\n<p>As I said above, I’d love some feedback on this, a proposal about proposals. I’d love to see a DAO tool that logs ideas and how they progress, even why they progress or don’t, and feel that a working example would be interesting to other DAOs and have value that can be shared between provider and client DAOs.</p>\n<p>Feedback and collaboration on this would be super welcome. Thanks.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706004126",
+    "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928011258",
+   "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928011258",
+   "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124031754",
+   "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124031754",
+   "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706004126",
+   "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706004126",
+   "url": "https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562"
+  }
+ ]
+}

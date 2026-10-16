@@ -1,0 +1,57 @@
+{
+ "id": 159,
+ "title": ":robot: Commons Swarm Working Group",
+ "slug": "commons-swarm-working-group",
+ "category_id": 13,
+ "posts_count": 0,
+ "created_at": "2020-12-14T16:57:27.552Z",
+ "last_posted_at": "2020-12-14T16:57:27.668Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2020-12-14T16:57:27Z",
+ "captured_between": [
+  "2021-03-03T01:25:24Z",
+  "2022-07-06T00:21:35Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-12-14T16:57:27Z",
+   "updated_at": "2021-02-09T17:24:52Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The Gardens Swarm wg is responsible for the TEC software implementation and that the tech is ready and sturdy for the launch through a series of tests.</p>\n<ul>\n<li>\n<p>Meetings: Mondays at 8pm CET</p>\n</li>\n<li>\n<p>Where? <a href=\"https://discord.gg/ag5dxjK8gy\">Tech Spec voice channel on Discord</a></p>\n</li>\n<li>\n<p>WG Lead: <a class=\"mention\" href=\"/u/sem\">@sem</a></p>\n</li>\n<li>\n<p>Discussions happen on <a href=\"https://discord.gg/ag5dxjK8gy\">TE-1hive channel</a></p>\n</li>\n<li>\n<p><a href=\"https://docs.google.com/document/d/1-CY39HVgHcpRFac10FME97pqPclHMrj2YsphOGYUDm8/edit#heading=h.4qr126s3qfr1\">Gardens Swarm Manifesto </a></p>\n</li>\n</ul>\n<h2>Github Coordination</h2>\n<p><img alt=\":woman_mage:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/woman_mage/3.png?v=9\" title=\":woman_mage:t3:\"/> Frontends</p>\n<ul>\n<li><a href=\"https://github.com/tecommons/tec-interface\">https://github.com/tecommons/tec-interface</a></li>\n</ul>\n<ul>\n<li><a href=\"https://github.com/tecommons/tec-convert\">https://github.com/tecommons/tec-convert</a></li>\n<li><a href=\"https://github.com/tecommons/tec-hatch\">https://github.com/tecommons/tec-hatch</a></li>\n</ul>\n<p><img alt=\":woman_mage:t3:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/woman_mage/3.png?v=9\" title=\":woman_mage:t3:\"/> Smart Contracts</p>\n<ul>\n<li><a href=\"https://github.com/tecommons/hatch-oracle\">https://github.com/tecommons/hatch-oracle</a></li>\n</ul>\n<ul>\n<li><a href=\"https://github.com/tecommons/marketplace-app\">https://github.com/tecommons/marketplace-app</a></li>\n<li><a href=\"https://github.com/tecommons/token-manager-app\">https://github.com/tecommons/token-manager-app</a></li>\n<li><a href=\"https://github.com/tecommons/conviction-voting-app\">https://github.com/tecommons/conviction-voting-app</a></li>\n<li><a href=\"https://github.com/tecommons/tec-template\">https://github.com/tecommons/tec-template</a></li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706002135",
+    "url": "https://forum.tecommons.org/t/commons-swarm-working-group/159"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303012524",
+   "url": "https://forum.tecommons.org/t/commons-swarm-working-group/159"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303012524",
+   "url": "https://forum.tecommons.org/t/commons-swarm-working-group/159"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706002135",
+   "url": "https://forum.tecommons.org/t/commons-swarm-working-group/159"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706002135",
+   "url": "https://forum.tecommons.org/t/commons-swarm-working-group/159"
+  }
+ ]
+}

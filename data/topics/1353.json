@@ -1,0 +1,135 @@
+{
+ "id": 1353,
+ "title": "TEC 2024 Priorities, Budget, and 6-Month Operating Proposal",
+ "slug": "tec-2024-priorities-budget-and-6-month-operating-proposal",
+ "category_id": 33,
+ "tags": [
+  "strategy",
+  "advice-process",
+  "funding-proposal"
+ ],
+ "posts_count": 4,
+ "created_at": "2024-03-04T16:55:38.371Z",
+ "views": 627,
+ "last_posted_at": "2024-07-19T20:25:47.660Z",
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2024-07-19T20:25:47Z",
+ "captured_between": [
+  "2024-04-24T19:56:09Z",
+  "2024-09-02T16:02:01Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": "Bear",
+   "created_at": "2024-03-04T16:55:38Z",
+   "updated_at": "2024-07-19T20:17:28Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>This post was written by <a class=\"mention\" href=\"/u/bear100\">@bear100</a> and <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> , drawing on contributions from <a class=\"mention\" href=\"/u/griff\">@Griff</a> , <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> , <a class=\"mention\" href=\"/u/philh\">@philh</a> , <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> , <a class=\"mention\" href=\"/u/enti\">@enti</a> , <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> , and <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> , as part of TEC Advisory Network (TECAN) strategic planning. We are deeply grateful for the time and insights this group contributed through that process.</p>\n<h1>\n<a name=\"tldr-1\" class=\"anchor\" href=\"#tldr-1\"></a>TLDR:</h1>\n<p>This post outlines the TEC’s program priorities and budget for 2024. It marks the DAO’s first annual operating budget with income and outlay (expenses and grant making) projections. The main takeaways are that the budget:</p>\n<ol>\n<li>Aims for break even, with no net withdrawals from the Common Pool</li>\n<li>Invests in stakeholder engagement and economic development while continuing to fund token engineered public goods</li>\n<li>Includes a proposal for a six-month operating budget</li>\n</ol>\n<h1>\n<a name=\"proposal-description-2\" class=\"anchor\" href=\"#proposal-description-2\"></a>Proposal description:</h1>\n<h2>\n<a name=\"h-2024-priorities-3\" class=\"anchor\" href=\"#h-2024-priorities-3\"></a>2024 Priorities:</h2>\n<p>The TEC aspires to be a thriving economy that generates impact and value with token engineering. To get there, we need to build on what’s already working as we simultaneously invest in the long-term economic development of the commons.</p>\n<p>The TEC has had its greatest successes in <a href=\"https://blog.submittable.com/regranting/\">regranting</a> from public goods funders to token engineering projects. We started by using the TEC Common Pool to directly fund grants. To further extend these funds, last year we began using the Common Pool as matching funds by running three Gitcoin grant rounds dedicated to token engineering. In 2024, we plan to make a few changes to the grant program to increase its impact and integrate it with Optimism’s Retroactive Public Goods Funding (RetroPGF). While token engineering needs to remain chain-agnostic, our migration to OP Mainnet and recent success with OP RetroPGF create an opportunity to build a symbiotic relationship with Optimism that develops both the token engineering (TE) and OP ecosystems.</p>\n<p>In pursuit of this strategy, we will continue to invest in developing the grants program as we build the TEC’s communications and outreach capacity. Our aim is to boost the TEC’s reputation as a bridge between the TE and broader public goods (PG) communities. With those foundations in place in 2025, the TEC will be well positioned for new forms of economic development that diversify income and build $TEC token utility.</p>\n<h2>\n<a name=\"two-changes-to-the-te-grants-program-4\" class=\"anchor\" href=\"#two-changes-to-the-te-grants-program-4\"></a>Two Changes to the TE Grants Program</h2>\n<p>The TEC Grants Program will continue to run Quadratic Funding (QF) rounds with Gitcoin in 2024, while introducing two key changes:</p>\n<h3>\n<a name=\"h-1-tec-retropgf-5\" class=\"anchor\" href=\"#h-1-tec-retropgf-5\"></a>1) TEC RetroPGF</h3>\n<p>The first change introduces the TEC’s own RetroPGF, possibly using Gitcoin’s EasyRetroPGF tool or something simpler to start. The initial focus will be on using RetroPGF to increase the accountability and impact of today’s QF grants. Grantees will seek initial seed funding with our QF grants. Those QF recipients that meet certain performance thresholds will be eligible to participate in TEC RetroPGF rounds, with fewer projects and larger awards. In 2024, the TEC will run at least one trial RetroPGF round with the explicit goal of assessing the impact of earlier QF recipients. This is the first phase of the “TE public goods incubator” pictured as “1” in the below diagram.</p>\n<p><img src=\"https://lh7-us.googleusercontent.com/s7PE9uxzQG46Wi3hllo-_rRWhGEYHm8ZvAmgCtqzeJvGswq23oFpzifQmxvcOKuU6PLVNbOu6nE20U3RkBYIHLHHtbTVeds_fQguD7PGD_87qrjdkGYFMVtbsb8grNrUO_KgVQLzRYOxB2bjy8r8kao\" alt=\"\" width=\"624\" height=\"348\" role=\"presentation\"></p>\n<h3>\n<a name=\"h-2-retropgf-impact-bundling-6\" class=\"anchor\" href=\"#h-2-retropgf-impact-bundling-6\"></a>2) RetroPGF “Impact Bundling”:</h3>\n<p>The second change to our grants program aims to couple it to OP’s RetroPGF. The current plan still requires feedback from existing grantees and the Optimism community and is pictured as “2” in the above diagram. As a condition of applying to TEC RetroPGF, projects would agree to ‘delegate’ their impact to the TEC’s next OP RetroPGF application. The TEC would then effectively bundle token engineering impact from several projects into one OP RetroPGF application. This ‘impact bundling’ should ease evaluation loads on OP badgeholders, while making RetroPGF more accessible to early-stage projects in what is likely to be an increasingly competitive process on Optimism. TEC grantees will be able to choose whether to continue working through TEC RetroPGF or ‘graduate’ and apply directly for OP RetroPGF. In this way, the TEC’s QF and RetroPGF will work together as a funding bridge that lessens upfront capital barriers to participating in the larger-scale RetroPGF on Optimism. This is the essence of the “token engineered public goods incubator” that we aim to build on Optimism.</p>\n<h2>\n<a name=\"building-for-2025-and-beyond-7\" class=\"anchor\" href=\"#building-for-2025-and-beyond-7\"></a>Building for 2025 and Beyond</h2>\n<p>In 2024, the TEC will couple these plans with stepped up communications and hiring an Ecosystems Development Lead to strengthen our engagement with the TE and PG communities. In addition, we plan to invest in reputation systems that improve our ability to select and evaluate TE projects and develop commons in ways that diversify income streams and grow $TEC token utility in 2025.</p>\n<h2>\n<a name=\"tec-organizational-structure-8\" class=\"anchor\" href=\"#tec-organizational-structure-8\"></a>TEC Organizational Structure</h2>\n<p>The TEC is constantly in an ongoing process of improving and better defining the organizational structure of a functional commons geared towards decentralized collaboration and efficient resource management. This is how this structure is envisioned for the year ahead:</p>\n<p>As of today, the operational core of the TEC is the <strong>Coordination Team</strong>, a dynamic force responsible for coordinating and executing diverse programs and initiatives throughout the year. This team is divided into three key work streams: Programs Operations, Ecosystem Development and Communications, and Coordination.</p>\n<p>The <strong>TE Grants Program</strong>, currently under the umbrella of the Coordination Team, is the first program that the TEC runs, and it is being designed with the intention of turning it into its own working unit in the medium to long term.</p>\n<p>The <strong>TEC Advisory Network (TECAN)</strong> brings in a group of people to provide valuable insights and guidance to the TEC in regards to its direction and strategy, but also to expand and tap into different subject matter experts that can support the TEC in various areas.</p>\n<p>The organizational structure of the TEC is meant to be flexible in order to seamlessly allow the integration of new programs and business models into it as the needs and opportunities arise.</p>\n<p>The below diagram shows the structure described above.<img src=\"https://lh7-us.googleusercontent.com/jVOR1RsLY1lgzGTMa3nbPQ09OAlEvqXkfcygY9FXkbPQbhiRzQea7pmAtQimNNFd8KT5khaDAlx7elKnekWySK5ld8ljO02BFg7V55jPexecRBg9eEfF0XvtVztYHD7wXfEdJ4-jVuf62NcmJznjURM\" alt=\"\" width=\"444\" height=\"442\" role=\"presentation\"></p>\n<h2>\n<a name=\"roadmap-2024-9\" class=\"anchor\" href=\"#roadmap-2024-9\"></a>Roadmap 2024</h2>\n<p>These are the various initiatives planned for this year based on the strategy described above, with estimated timelines. It is important to mention that the budget allows for a limited set of additional projects/programs to emerge throughout the year.</p>\n<ul>\n<li>Jan-Mar: TEC Strategy and Budget 2024</li>\n<li>Feb-Mar: Hiring Processes</li>\n<li>Mar-May: TE Grants Round 4 - QF</li>\n<li>Mar-May: OP-TEC Liquidity Pool</li>\n<li>Mar-Jul: TE Grants Round 1 - RPGF</li>\n<li>Jun-Sep: TE Grants Round 5 - QF</li>\n<li>Oct-Nov: TEC Strategy and Budget 2025</li>\n<li>Oct-Dec: TBD - Potential TE Grants Round 2 - RPGF (not part of 2024 budget)</li>\n</ul>\n<h2>\n<a name=\"h-2024-budget-10\" class=\"anchor\" href=\"#h-2024-budget-10\"></a>2024 Budget</h2>\n<p>This first-time annual budget for the TEC covers both projected income and outlays. The income assumptions are relatively conservative ($171K of $426K in grants and sponsorships has already been secured). Much of the income is tied to OP, where price fluctuations from $1 to $4 over the last 12 months could lead to a $400K swing in TEC’s projected net income. We have adopted a price of $2.45 USD for budgeting purposes.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>TEC Budget 2024</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><em><strong>Income</strong></em></td>\n<td></td>\n</tr>\n<tr>\n<td>Optimism RetroPGF</td>\n<td>343,000</td>\n</tr>\n<tr>\n<td>Other grants</td>\n<td>35,000</td>\n</tr>\n<tr>\n<td>Sponsorships</td>\n<td>48,750</td>\n</tr>\n<tr>\n<td>Tributes</td>\n<td>38,701</td>\n</tr>\n<tr>\n<td>Other</td>\n<td>9,880</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>475,331</strong></td>\n</tr>\n<tr>\n<td><em><strong>Outlays</strong></em></td>\n<td></td>\n</tr>\n<tr>\n<td>Programs</td>\n<td></td>\n</tr>\n<tr>\n<td>QF grants paid</td>\n<td>50,000</td>\n</tr>\n<tr>\n<td>RetroPGF grants paid</td>\n<td>50,000</td>\n</tr>\n<tr>\n<td>OP-$TEC liquidity pool</td>\n<td>20,000</td>\n</tr>\n<tr>\n<td>Other</td>\n<td>60,000</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>180,000</strong></td>\n</tr>\n<tr>\n<td><em><strong>Staffing</strong></em></td>\n<td></td>\n</tr>\n<tr>\n<td>Program Operations</td>\n<td>91,200</td>\n</tr>\n<tr>\n<td>Ecosystem Development &amp; Communications</td>\n<td>99,840</td>\n</tr>\n<tr>\n<td>Coordination</td>\n<td>91,200</td>\n</tr>\n<tr>\n<td>Misc.</td>\n<td>10,000</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>292,240</strong></td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>472,240</strong></td>\n</tr>\n<tr>\n<td>\n<strong>Net</strong> <strong>Income</strong>:</td>\n<td><strong>3,091</strong></td>\n</tr>\n</tbody>\n</table>\n</div><h1>\n<a name=\"six-month-staffing-proposal-11\" class=\"anchor\" href=\"#six-month-staffing-proposal-11\"></a>Six-Month Staffing Proposal</h1>\n<h2>\n<a name=\"amount-requested-160589-12\" class=\"anchor\" href=\"#amount-requested-160589-12\"></a>Amount Requested: $160,589</h2>\n<p>Below is a six-month income and outlays forecast, starting in March and running through August. At this time, the coordination team is submitting a funding request for just the operational staffing costs for this period, totaling $160,589. The remaining program outlays for grants and other programs will be requested in the coming months once their details are more finely assessed.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Funding Proposal Mar-Aug 2024</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><em><strong>Income</strong></em></td>\n<td></td>\n</tr>\n<tr>\n<td>Optimism RetroPGF</td>\n<td>245,000</td>\n</tr>\n<tr>\n<td>Other grants</td>\n<td>20,000</td>\n</tr>\n<tr>\n<td>Sponsorships</td>\n<td>48,750</td>\n</tr>\n<tr>\n<td>Tributes</td>\n<td>20,389</td>\n</tr>\n<tr>\n<td>Other</td>\n<td>4,940</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>339,079</strong></td>\n</tr>\n<tr>\n<td><em><strong>Outlays</strong></em></td>\n<td></td>\n</tr>\n<tr>\n<td>Programs</td>\n<td></td>\n</tr>\n<tr>\n<td>QF grants paid</td>\n<td>50,000</td>\n</tr>\n<tr>\n<td>RetroPGF grants paid</td>\n<td>50,000</td>\n</tr>\n<tr>\n<td>OP-$TEC liquidity pool</td>\n<td>20,000</td>\n</tr>\n<tr>\n<td>Other</td>\n<td>40,000</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>160,000</strong></td>\n</tr>\n<tr>\n<td><em><strong>Staffing</strong></em></td>\n<td></td>\n</tr>\n<tr>\n<td>Program Operations</td>\n<td>48,284</td>\n</tr>\n<tr>\n<td>Ecosystem Development &amp; Communications</td>\n<td>55,843</td>\n</tr>\n<tr>\n<td>Coordination</td>\n<td>50,760</td>\n</tr>\n<tr>\n<td>Misc.</td>\n<td>5,702</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>160,589</strong></td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>320,589</strong></td>\n</tr>\n<tr>\n<td>\n<strong>Net</strong> <strong>Income</strong>:</td>\n<td><strong>18,490</strong></td>\n</tr>\n</tbody>\n</table>\n</div><h2>\n<a name=\"what-does-success-look-like-in-2024-13\" class=\"anchor\" href=\"#what-does-success-look-like-in-2024-13\"></a>What does success look like in 2024?</h2>\n<ul>\n<li>No net Common Pool outflows with a breakeven budget that marks the TEC’s first year of economic sustainability.</li>\n<li>Fund quality TE Public Goods. We aim to fund at least $100K in TE public goods and develop evaluation processes to boost that impact.</li>\n<li>Become demonstrably valuable to the OP ecosystem, as reflected in growing our RetroPGF to $322K.</li>\n<li>Invest in community engagement, communications, and reputation systems that enable the growth of new income streams and token utility in 2025.</li>\n</ul>\n<h2>\n<a name=\"how-will-you-share-progress-14\" class=\"anchor\" href=\"#how-will-you-share-progress-14\"></a>How will you share progress?</h2>\n<p>We maintain a record of our progress in our Notion base, which is accessible at any time <a href=\"https://tecommons.notion.site/TEC-Roadmap-948b046df87144d7923632494a3a4461\">here</a>. We will also regularly update the forum with information about the different active projects mentioned above, as well as providing an Impact Tracker Report to share our accomplishments at the end of the proposal period.</p>\n<h2>\n<a name=\"team-information-15\" class=\"anchor\" href=\"#team-information-15\"></a>Team Information:</h2>\n<ul>\n<li>Coordination Lead - <a class=\"mention\" href=\"/u/bear100\">@bear100</a>\n</li>\n<li>Strategy and advice - <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>\n</li>\n<li>Events Coordination - <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>\n</li>\n<li>Social Media Coordination - <a class=\"mention\" href=\"/u/efra\">@Efra</a>\n</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240902160201",
+    "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": "Gene Davis III",
+   "created_at": "2024-03-06T08:35:06Z",
+   "updated_at": "2024-03-06T08:35:06Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Outstanding report and proposal <a class=\"mention\" href=\"/u/bear100\">@bear100</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> and TECAN members. So happy for the TEC and proud of each individual involved that a sustainable ecosystem has emerged from adversity and is poised to flourish into the foreseeable future. That is such a phenomenal result. Thank you for keeping the community informed of the higher level thinking behind each initiative, the priorities going forward, and the transparency of the budgeting. The wonderful work and degree of quality communication instills real confidence, and demonstrates what good hands the Commons is in. =)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240902160201",
+    "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": "Bear",
+   "created_at": "2024-03-12T19:24:40Z",
+   "updated_at": "2024-03-12T19:24:40Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The vote for this proposal is now live: <a href=\"https://dao.tecommons.org/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/2\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Commons DAO</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240902160201",
+    "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "bear100",
+   "name": "Bear",
+   "created_at": "2024-03-21T19:02:50Z",
+   "updated_at": "2024-03-21T19:02:50Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This proposal has been successfully approved. Thank you to everyone who supported this effort! <a href=\"https://dao.tecommons.org/#/voting/0x189bc0705bf17ee2f75a3ec108c77ca3d52d567f/votes/2\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">Commons DAO</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240902160201",
+    "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "bear100",
+   "name": "Bear",
+   "created_at": "2024-07-19T20:25:47Z",
+   "updated_at": "2024-07-19T20:25:47Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "pinned.enabled",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240902160201",
+    "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424195609",
+   "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240424195609",
+   "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815162023",
+   "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815162023",
+   "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240902160201",
+   "url": "https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "id": 1478,
+ "title": "Article: The ReFi Movement",
+ "slug": "article-the-refi-movement",
+ "category_id": 34,
+ "posts_count": 1,
+ "created_at": "2025-05-30T17:09:37.697Z",
+ "last_posted_at": "2025-06-04T18:24:49.718Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2025-06-04T18:24:49Z",
+ "captured_between": [
+  "2025-06-18T11:23:53Z",
+  "2025-11-19T00:48:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-05-30T17:09:37Z",
+   "updated_at": "2025-06-03T17:13:45Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>Article:</strong></p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://mirror.xyz/0xfC25AD98C1A2725745DF9EC85E6e7b5D4bB0d396/igG8bXX--MLH2hXe59s5qEnXU87wTWpPkAwP_7hMebo\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://mirror.xyz/favicon.ico\" width=\"48\"/>\n<a href=\"https://mirror.xyz/0xfC25AD98C1A2725745DF9EC85E6e7b5D4bB0d396/igG8bXX--MLH2hXe59s5qEnXU87wTWpPkAwP_7hMebo\" rel=\"noopener\" target=\"_blank\">mirror.xyz</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail\" height=\"\" src=\"https://images.mirror-media.xyz/publication-images/2hA_0BFusYy0qvDYIrdvb.jpg?height=360&amp;width=720\" width=\"\"/>\n<h3><a href=\"https://mirror.xyz/0xfC25AD98C1A2725745DF9EC85E6e7b5D4bB0d396/igG8bXX--MLH2hXe59s5qEnXU87wTWpPkAwP_7hMebo\" rel=\"noopener\" target=\"_blank\">The ReFi Movement</a></h3>\n<p>Introduction</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>I hope that this article raises some timely and important reflections on where Regenerative Finance (ReFi) is headed.</p>\n<p>The intent of this article was to explore ReFi’s roots in ecological economics, systems thinking, and web3, while also naming some of the core challenges holding the movement back, like fragmentation, unclear metrics, and lack of aligned narratives.</p>\n<p>Rather than just reading and nodding along, I’d love for us to use this space to continue the conversation. Here are a few questions to kick things off:</p>\n<ul>\n<li>How can we define and measure regeneration in ways that are credible, transparent, and actually useful?</li>\n<li>What does alignment look like across so many diverse ReFi projects, values, and communities?</li>\n<li>Can blockchain truly enable regenerative systems, or are we just building new tools on the same old foundations?</li>\n<li>How do we make sure ReFi doesn’t become another inaccessible or elite space?</li>\n<li>What role should decentralized governance play in shaping this next chapter?</li>\n</ul>\n<p>This movement is still being written, and it’s going to take all of us. So I’m curious: what resonates with you from the article? What’s missing? And where do you think we go from here?</p>\n<p>Looking forward to hearing your thoughts.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119004816",
+    "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478/1"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "montymerlin",
+   "name": null,
+   "created_at": "2025-06-04T18:24:49Z",
+   "updated_at": "2025-06-04T18:24:49Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>gm, great stuff! Exciting to see TECs new focus and direction!</p>\n<p>Some quick fire thoughts sharing some bits we are working on that respond to some of the questions raised:</p>\n<p><strong>How can we define and measure regeneration in ways that are credible, transparent, and actually useful?</strong></p>\n<p>Check out:</p>\n<ol>\n<li>\n<p><a class=\"inline-onebox\" href=\"https://blog.refidao.com/refi-ebf-whats-next/\" rel=\"noopener nofollow ugc\">ReFi &amp; Ecological Benefits Framework - Whats Next?</a></p>\n</li>\n<li>\n<p><a class=\"inline-onebox\" href=\"https://gov.gitcoin.co/t/ai-impactqf-regen-coordination-global-gg23-retrospective/20385?u=montymerlin\" rel=\"noopener nofollow ugc\">AI ImpactQF + Regen Coordination Global GG23 Retrospective - 🌱 Gitcoin Grants - Gitcoin Governance</a></p>\n</li>\n<li>\n<p><a class=\"inline-onebox\" href=\"https://carboncopy.news/dashboard/\" rel=\"noopener nofollow ugc\">ReFi Impact Dashboard | CARBON Copy</a></p>\n</li>\n<li>\n<p><a class=\"inline-onebox\" href=\"https://www.linkedin.com/posts/ktlbennett_frontiers-an-evaluation-of-the-regenerative-activity-7335976987464736769-0m0Y\" rel=\"noopener nofollow ugc\">Frontiers | An evaluation of the regenerative claims of Web3’s ReFi… | Kate Cardona (Bennett) | 11 comments</a></p>\n</li>\n</ol>\n<p><strong>What does alignment look like across so many diverse ReFi projects, values, and communities?</strong></p>\n<p>Regen Coordination.</p>\n<ol>\n<li><a href=\"https://www.regencoordination.xyz/\" rel=\"noopener nofollow ugc\">Resources Hub</a></li>\n<li><a href=\"https://hub.regencoordination.xyz/categories\" rel=\"noopener nofollow ugc\">Forum Hub</a></li>\n</ol>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://hub.regencoordination.xyz/categories\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"\" src=\"https://canada1.discourse-cdn.com/flex004/uploads/greenpill_hub/optimized/1X/d3a81853bce6ac71fe11497f6885cabde4759647_2_32x32.png\" width=\"\"/>\n<a href=\"https://hub.regencoordination.xyz/categories\" rel=\"noopener nofollow ugc\" target=\"_blank\">Regen Coordination</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail\" height=\"\" src=\"https://canada1.discourse-cdn.com/flex004/uploads/greenpill_hub/original/1X/d3a81853bce6ac71fe11497f6885cabde4759647.png\" width=\"\"/>\n<h3><a href=\"https://hub.regencoordination.xyz/categories\" rel=\"noopener nofollow ugc\" target=\"_blank\">Regen Coordination</a></h3>\n<p>Building a CoordiNation across Nations &amp; Cultures.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://jessykate.medium.com/coordi-nations-a-new-institutional-structure-for-global-cooperation-3ef38d6e2cfa\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"\" src=\"https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19\" width=\"\"/>\n<a href=\"https://jessykate.medium.com/coordi-nations-a-new-institutional-structure-for-global-cooperation-3ef38d6e2cfa\" rel=\"noopener nofollow ugc\" target=\"_blank\" title=\"04:02AM - 16 June 2023\">Medium – 16 Jun 23</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail\" height=\"\" src=\"https://miro.medium.com/v2/resize:fit:1024/1*zeA3yz6uCudv6WR3_NgLgw.png\" width=\"\"/>\n<h3><a href=\"https://jessykate.medium.com/coordi-nations-a-new-institutional-structure-for-global-cooperation-3ef38d6e2cfa\" rel=\"noopener nofollow ugc\" target=\"_blank\">Coordi-nations: A New Institutional Structure for Global Cooperation</a></h3>\n<p>Coordi-nations are a new form of network sovereignty designed around voluntary association, participatory governance and mutualism.</p>\n<p>\n<span class=\"label1\">Reading time: 10 min read</span>\n</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p><strong>Can blockchain truly enable regenerative systems, or are we just building new tools on the same old foundations?</strong></p>\n<p>yes it can if we build it in the right way. It is a new economic engine and coordination substrate.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/94e1f115c39a2c0311a035ef6d9611a988ff07cb\" href=\"https://forum.tecommons.org/uploads/default/original/1X/94e1f115c39a2c0311a035ef6d9611a988ff07cb.jpeg\" title=\"Screenshot 2025-06-04 at 10.31.26 am\"><img alt=\"Screenshot 2025-06-04 at 10.31.26 am\" data-base62-sha1=\"lf4K6h9i1MhANN7i20EzDO8gQ43\" data-dominant-color=\"181E25\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/94e1f115c39a2c0311a035ef6d9611a988ff07cb_2_690x388.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/94e1f115c39a2c0311a035ef6d9611a988ff07cb_2_690x388.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/94e1f115c39a2c0311a035ef6d9611a988ff07cb_2_1035x582.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/94e1f115c39a2c0311a035ef6d9611a988ff07cb_2_1380x776.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-06-04 at 10.31.26 am</span><span class=\"informations\">1732×976 114 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/f25e853a3d52f3eb5fa1bc6b3dc17393684e58c6\" href=\"https://forum.tecommons.org/uploads/default/original/1X/f25e853a3d52f3eb5fa1bc6b3dc17393684e58c6.jpeg\" title=\"Screenshot 2025-06-04 at 10.31.56 am\"><img alt=\"Screenshot 2025-06-04 at 10.31.56 am\" data-base62-sha1=\"yA63wMhXd36ceLMi4Gv5hoEC1Qq\" data-dominant-color=\"222528\" height=\"385\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f25e853a3d52f3eb5fa1bc6b3dc17393684e58c6_2_690x385.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f25e853a3d52f3eb5fa1bc6b3dc17393684e58c6_2_690x385.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/f25e853a3d52f3eb5fa1bc6b3dc17393684e58c6_2_1035x577.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/f25e853a3d52f3eb5fa1bc6b3dc17393684e58c6_2_1380x770.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Screenshot 2025-06-04 at 10.31.56 am</span><span class=\"informations\">1620×906 93.9 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p><strong>How do we make sure ReFi doesn’t become another inaccessible or elite space?</strong></p>\n<p>Build tools and systems that normal people can use.</p>\n<p><strong>What role should decentralized governance play in shaping this next chapter?</strong></p>\n<p>If interested, check out our approach for ReFi DAO → <a href=\"https://www.regencoordination.xyz/refi-dao-network-structure\" rel=\"noopener nofollow ugc\">ReFi DAO Network - Structure, Roles, &amp; Governance</a></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/6b21971e7cd51fd014e158a2b8a4cbbd14c6cff0\" href=\"https://forum.tecommons.org/uploads/default/original/1X/6b21971e7cd51fd014e158a2b8a4cbbd14c6cff0.jpeg\" title=\"ReFi DAO Network Structure\"><img alt=\"ReFi DAO Network Structure\" data-base62-sha1=\"fhJ3ucizVfZmtdPhBQTKp2cuNi0\" data-dominant-color=\"43474C\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/6b21971e7cd51fd014e158a2b8a4cbbd14c6cff0_2_690x388.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/6b21971e7cd51fd014e158a2b8a4cbbd14c6cff0_2_690x388.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/6b21971e7cd51fd014e158a2b8a4cbbd14c6cff0_2_1035x582.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/6b21971e7cd51fd014e158a2b8a4cbbd14c6cff0_2_1380x776.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">ReFi DAO Network Structure</span><span class=\"informations\">1920×1080 154 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119004816",
+    "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478/1"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20250618112353",
+   "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250618112353",
+   "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250716142631",
+   "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478/1"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251119004816",
+   "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478/1"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251119004816",
+   "url": "https://forum.tecommons.org/t/article-the-refi-movement/1478/1"
+  }
+ ]
+}

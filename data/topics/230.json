@@ -1,0 +1,63 @@
+{
+ "id": 230,
+ "title": "Tokenlog for the Prime Time Vote",
+ "slug": "tokenlog-for-the-prime-time-vote",
+ "posts_count": 2,
+ "category_id": 18,
+ "created_at": "2021-01-25T17:16:23.437Z",
+ "last_posted_at": "2021-01-27T12:50:23.584Z",
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-01-27T12:50:23Z",
+ "captured_between": [
+  "2021-04-20T13:35:21Z",
+  "2021-04-20T13:35:21Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2021-01-25T17:16:23Z",
+   "updated_at": "2021-01-26T18:32:18Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><strong>Using Token Log to Decide Hatch Params</strong></p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/ad1cf5c78bd39b06ebb0a9486502cdf998f07523\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ad1cf5c78bd39b06ebb0a9486502cdf998f07523.jpeg\" title=\"\"><img alt=\"\" data-base62-sha1=\"oHqEf0fHNAeNpBLITG7UxjPI1eb\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ad1cf5c78bd39b06ebb0a9486502cdf998f07523_2_10x10.png\" height=\"185\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/ad1cf5c78bd39b06ebb0a9486502cdf998f07523_2_167x185.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/ad1cf5c78bd39b06ebb0a9486502cdf998f07523_2_167x185.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/ad1cf5c78bd39b06ebb0a9486502cdf998f07523_2_250x277.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/ad1cf5c78bd39b06ebb0a9486502cdf998f07523_2_334x370.jpeg 2x\" width=\"167\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1131×1600 284 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>\n<p>We are almost ready to begin picking the TEC Hatch parameters but we need your help! We need you to vote! Not just any vote but a vote regarding how we pick params for the Hatch using Token Log. What’s Token Log?</p>\n<p>Tokenlog is a new governance tool that democratizes open-source software projects by creating token-weighted backlogs.</p>\n<p>It allows projects to continuously gather feedback from their token-holders and allows token-holders to signal which items matter to them rather than just vote on single proposals.</p>\n<p>How will it work for choosing the TEC Hatch Params?</p>\n<ul>\n<li>Tokenlog is permissionless and free to set-up and configure, learn more: <a href=\"https://tokenlog.xyz/\">https://tokenlog.xyz/</a>\n</li>\n<li>Integrates seamlessly with Github.</li>\n<li>Free off-chain and gasless ETH signature voting.</li>\n<li>Quadratic voting using both CSTK and IHT.</li>\n</ul>\n<p>What’s best? It already works and is using both <a href=\"https://blockscout.com/poa/xdai/tokens/0xc4fbE68522ba81a28879763C3eE33e08b13c499E/token-transfers\">CSTK Tokens</a> and <a href=\"https://blockscout.com/poa/xdai/tokens/0xDF2C3C8764a92Eb43d2eEA0A4C2d77c2306b0835/token-transfers\">Impact Hour Tokens!!</a> Test it out by <a href=\"https://deploy-preview-16--tokenlog.netlify.app/TECommons/coordination\">prioritizing TE Commons issues in our coordination repo</a></p>\n<p>Help the Community Stewards prioritize the work to be done before the Hatch and test Tokenlog before we use it to choose the TEC Hatch DAO’s parameters.</p>\n<p>Make Bug reports and suggestions to improve Tokenlog here:<a href=\"https://github.com/wslyvh/tokenlog/issues\">https://github.com/wslyvh/tokenlog/issues</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210420133521",
+    "url": "https://forum.tecommons.org/t/tokenlog-for-the-prime-time-vote/230"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "wslyvh",
+   "name": null,
+   "created_at": "2021-01-27T12:50:23Z",
+   "updated_at": "2021-01-27T12:50:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for sharing Jake.</p>\n<p>Please note that the shared link was just a preview, specifically for the PR I was working on. Not a permanent link… Everything is merged again, and available on <a href=\"https://tokenlog.xyz/TECommons/coordination\" rel=\"noopener nofollow ugc\">https://tokenlog.xyz/TECommons/coordination</a></p>\n<p>As mentioned, any question, feedback or ideas are more than welcome! The plan is to integrate Sourcecred in the near future as well, so contributions (even ideas/feedback) will be rewarded at some point <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20210420133521",
+    "url": "https://forum.tecommons.org/t/tokenlog-for-the-prime-time-vote/230"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420133521",
+   "url": "https://forum.tecommons.org/t/tokenlog-for-the-prime-time-vote/230"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210420133521",
+   "url": "https://forum.tecommons.org/t/tokenlog-for-the-prime-time-vote/230"
+  }
+ ]
+}

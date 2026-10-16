@@ -1,0 +1,66 @@
+{
+ "id": 877,
+ "title": "Ideas for Creating Intrinsic Motivation",
+ "slug": "ideas-for-creating-intrinsic-motivation",
+ "category_id": 5,
+ "posts_count": 1,
+ "created_at": "2022-02-13T06:11:29.946Z",
+ "last_posted_at": "2022-02-14T09:19:39.250Z",
+ "tags": [
+  "cultural-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2022-02-14T09:19:39Z",
+ "captured_between": [
+  "2022-05-20T07:38:10Z",
+  "2022-05-20T07:38:10Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-02-13T06:11:30Z",
+   "updated_at": "2022-02-13T06:11:30Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>So, I wanted to create a space to talk about intrinsic motivation and the important role it plays in building stronger relationships between community members. This thread is an effort to become more proactive about creating culture – and that means creating new customs.</p>\n<p>So, I thought while I was in the headspace, I would share an idea!</p>\n<p><strong>The TEC Challenge Award</strong></p>\n<p>Here is how it works:</p>\n<p>The Sprint Retrospective Miro Board changes from having three active columns to four active columns.  The fourth column will be the subject of our TEC Challenge.  During the Sprint Retrospective, every Steward may post (on a virtual sticky note) what they would consider to be a challenging Zenhub Issue/Epic for the upcoming sprint. It could be something like re-design the website, create a workshop, or host a Twitter Spaces with TE experts.  It can be anything that you (as a Steward) think will push us forward in our mission.</p>\n<p>At the end of the call, Stewards can place a Star on their favorite Issue/Epic that was submitted.  This task then becomes the TEC Challenge for this sprint.</p>\n<p>During Sprint Planning, we could open the meeting with the TEC Challenge Issue/Epic.  At that time anyone may nominate themselves to work on it.  For everyone who nominated themselves – they will be required to work with each other on this particular Issue/Epic during the two week sprint.</p>\n<p>During the following Community Call, if the task was completed – the TEC will publicly celebrate their achievement.  Community Call, Praise, Twitter Recognition, etc.</p>\n<p>Perceived Benefits:</p>\n<p>Honestly, it’s an extremely low cost process that fits within our current work-flow.</p>\n<p>Expands the engagement for both the Sprint Retrospective and Sprint Planning processes to new members and those wanting to participate in the challenge.</p>\n<p>It provides Stewards a way to communicate their priorities and align future efforts (especially between WGs) through the submission and star voting.</p>\n<p>It incentivizes the execution of challenging tasks.  Go Big!</p>\n<p>Anyone who nominates themselves will work on the task. No matter if it’s 1 nomination or 20 nominations. If its 1, members must step up to help.  If its 15 going on 20…maybe they should stay out.  Its a decision that promotes awareness about collective efforts.</p>\n<p>Since the Issues/Epics are more difficult, each one will more than likely require collaboration between a small group of members.  Forcing (in a good way) each other to work with people they may not be used to working with.</p>\n<p>We celebrate each winner as publicly as possible.  Twitter shout-outs not only from the TEC, but encourage other TE projects to recognize them as well. This type of recognition can satisfy that selfish gene :).</p>\n<p>There’s probably some holes in there somewhere making this unfeasible, but I think it would be fun to try.  Either way, I think that we can do a lot more in this community to help develop new methods for creating intrinsic motivation.  I think that !Praise is just the start.</p>\n<p>So if you have any ideas, or just want to talk about the subject of Intrinsic Motivation I hope you can engage through this thread!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520073810",
+    "url": "https://forum.tecommons.org/t/ideas-for-creating-intrinsic-motivation/877"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-14T09:19:39Z",
+   "updated_at": "2022-02-14T09:19:39Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>This is awesome Nate! I would also suggest doing the retro 1hour and a half we are always rushing in that call and it’s actually a perfect moment to create space to also foster our relations even further, yeah MOAR! <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520073810",
+    "url": "https://forum.tecommons.org/t/ideas-for-creating-intrinsic-motivation/877"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520073810",
+   "url": "https://forum.tecommons.org/t/ideas-for-creating-intrinsic-motivation/877"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520073810",
+   "url": "https://forum.tecommons.org/t/ideas-for-creating-intrinsic-motivation/877"
+  }
+ ]
+}

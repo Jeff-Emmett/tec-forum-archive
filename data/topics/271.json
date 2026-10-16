@@ -1,0 +1,76 @@
+{
+ "id": 271,
+ "title": "SourceCred Committee Proposal",
+ "slug": "sourcecred-committee-proposal",
+ "category_id": 7,
+ "posts_count": 1,
+ "created_at": "2021-03-04T22:43:29.873Z",
+ "last_posted_at": "2021-03-08T21:47:17.087Z",
+ "tags": [
+  "cultural-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-03-08T21:47:17Z",
+ "captured_between": [
+  "2021-04-20T12:46:51Z",
+  "2022-07-06T00:26:05Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-03-04T22:43:30Z",
+   "updated_at": "2021-11-12T21:45:57Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a>Proposal Title</h2>\n<p><img alt=\":money_with_wings:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/money_with_wings.png?v=10\" title=\":money_with_wings:\"/> SourceCred Committee <img alt=\":money_with_wings:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/money_with_wings.png?v=10\" title=\":money_with_wings:\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Proposal Description:</strong><br/>\n<em><strong>What is an accurate and detailed description of what you are proposing?</strong></em></p>\n<p>The creation of a committee to be responsible for <a href=\"https://forum.tecommons.org/t/sourcecred-in-the-tec/270\">SourceCred</a> decisions like:</p>\n<ul>\n<li>\n<p>Which tokens are going to be distributed:<br/>\nOnce the Commons is fully upgraded post Hatch we can make this decision, for now distributions will happen in IH tokens . Keep in mind, in the future we can decide to use any token the DAO will have as the one to be distributed.</p>\n</li>\n<li>\n<p>How much will be distributed in every distribution period</p>\n</li>\n<li>\n<p>How often should the grain distributions occur</p>\n</li>\n<li>\n<p>What’s the percentage that goes to old and recent contributions:<br/>\nOne of the key parameters is recend period/previous period reward split when a new distribution takes place. At present time this parameter is at 50% which means when new rewards are distributed, any user will get 50% of its total rewards coming from previous periods contributions and 50% from this period.</p>\n</li>\n<li>\n<p>How the community interacts with the parameters - data analysis</p>\n</li>\n<li>\n<p>Parameters to be changed</p>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#decision-making-proposal-details-3\" name=\"decision-making-proposal-details-3\"></a><strong>Decision Making Proposal Details:</strong>\n</h3>\n<p><em><strong>What cultural agreements do you wish to change or implement?</strong></em></p>\n<p>SourceCred is adding another layer for rewarding contributions that will coexist with Praise. The soft gov working group has identified the need for a committee to be closely involved with SourceCred especially because it’s a new complex tool in our environment. Praise can reward more subjective contributions and SourceCred has only quantitative parameters. The data coming from how the community interacts with these parameters will give us a lot of cultural information. The committee will also be responsible for analyzing this data and serving the community with cultural insights.</p>\n<p>-<em><strong>Why is it important?</strong></em></p>\n<p>SourceCred parameters and distribution permissions should be protected by a trusted group of individuals who commit with fairness and non-judgemental manipulation of this tool. It’s similar in this sense with the praise quantification process, where only contributors with high Impact Hour scores and a good understanding of the TEC culture are invited to join the quantification process. Thanks to the transparency working group and our mutual accountability methods we can be confident about this committee transparency by participation in the audits, recorded meetings and frequent forum updates.</p>\n<p><strong>- <em>What’s the desired outcome?</em></strong></p>\n<p><img alt=\":phone:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/phone.png?v=10\" title=\":phone:\"/> We propose the committee will work via summoning instead of having regular meetings. The data from SourceCred interactions will be evaluated every two weeks and if something looks out of place we can have a meeting to analyze together.</p>\n<p><img alt=\":writing_hand:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=10\" title=\":writing_hand:\"/> The committee will create a template for the community to propose parameters changes. The proposals will follow our decision making process via Forum Voting.</p>\n<p><img alt=\":gear:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/gear.png?v=10\" title=\":gear:\"/> The committee is responsible for the system maintenance</p>\n<p><img alt=\":mag_right:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/mag_right.png?v=10\" title=\":mag_right:\"/> All system functionality information should be public in the TEC Handbook and the Forum.</p>\n<p><img alt=\":loudspeaker:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/loudspeaker.png?v=10\" title=\":loudspeaker:\"/> When onboarded, new TEC members will be informed on the procedure to include their profiles in the SCC (SourceCred Contribution) program.</p>\n<p><img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=10\" title=\":books:\"/> Every period reward distribution will be documented and the information will be posted publicly.</p>\n<p><strong>- <em>How will the community benefit from it?</em></strong></p>\n<p>This is a great complement for our current contribution reward system, the committee will allow this process to be kept transparent and safe. SourceCred is a gamification tool, therefore can be gamed <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> The committee will help on the management, security and implementation of everything SourceCred.</p>\n<p><strong>- <em>What’s the process for implementing this?</em></strong></p>\n<p>SourceCred implementation is already running for Discourse and Github following the initial params discussed and agreed among the soft gov working group, first steps is to experiment with these first parameters and check how accurate the cred is flowing. The committee will then standardize the process of rewarding contributions adding the Grain generated plus the impact hours.</p>\n<p><strong>- <em>Who is involved?</em></strong></p>\n<p>Soft Gov working group for now.<br/>\nSanti and Mateo did most of this work!!! <img alt=\":clap:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/clap.png?v=10\" title=\":clap:\"/> <img alt=\":raised_hands:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=10\" title=\":raised_hands:\"/><br/>\nWe would love to have a data analyst and a game designer involved as well.</p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-max=\"1\" data-poll-name=\"poll\" data-poll-public=\"true\" data-poll-results=\"on_vote\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<div class=\"poll-title\">SourceCred Committee <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/>\n</div>\n<ul>\n<li data-poll-option-id=\"2201970b5a6ec7079ef90f31ff7bd940\">YES</li>\n<li data-poll-option-id=\"8854bdad11ca2b87287712b012749c80\">NEUTRAL</li>\n<li data-poll-option-id=\"3c6659dc0f0db9e88edf9e7132475002\">BLOCK</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706002605",
+    "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-03-08T21:47:17Z",
+   "updated_at": "2021-03-08T21:47:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>This proposal was approved and the voting session is closed <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p><aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">TEC soft gov decision tracking</a></h3>\n<p>Sheet1\n\nproposal title ,date,yes votes,neutral votes,block votes,result,proposal link \nDecision Making Process,Aug 28,4,1,0,approved,&lt;a...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20220706002605",
+    "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420124651",
+   "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420124651",
+   "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706002605",
+   "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706002605",
+   "url": "https://forum.tecommons.org/t/sourcecred-committee-proposal/271"
+  }
+ ]
+}

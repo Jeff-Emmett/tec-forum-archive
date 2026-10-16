@@ -1,0 +1,56 @@
+{
+ "id": 367,
+ "title": "Community Stewards Audit",
+ "slug": "community-stewards-audit",
+ "category_id": 24,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2021-05-06T08:55:04Z",
+ "last_archived_post_at": "2021-05-06T08:55:04Z",
+ "captured_between": [
+  "2021-06-24T14:18:54Z",
+  "2023-02-04T01:32:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-05-06T08:55:04Z",
+   "updated_at": "2021-06-03T13:55:37Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Here is our updated Stewards Audit! Please help us be accountable and transparent for the best management of the projects in the community. If something doesn’t match the work we are doing, please give feedback to improve.</p>\n<p><span class=\"mention\">@Tam2140</span> filled this checklist for Community Stewards</p>\n<aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/1530P7Mta62VxnjGRpHcyEbIaFS7FXtUJP7txMAg8rBE/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/1530P7Mta62VxnjGRpHcyEbIaFS7FXtUJP7txMAg8rBE/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/1530P7Mta62VxnjGRpHcyEbIaFS7FXtUJP7txMAg8rBE/edit#gid=0\" rel=\"noopener\" target=\"_blank\">Stewards WG Audit</a></h3>\n<p>General Process\n\nGeneral Process\nFor the audit to be successful, the working groups will prepare the documentation needed to fulfill the audit criteria/checklist. The WG will then answer the audit criteria/checklist and get feedback from members...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204013259",
+    "url": "https://forum.tecommons.org/t/community-stewards-audit/367"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624141854",
+   "url": "https://forum.tecommons.org/t/community-stewards-audit/367"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624141854",
+   "url": "https://forum.tecommons.org/t/community-stewards-audit/367"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204013259",
+   "url": "https://forum.tecommons.org/t/community-stewards-audit/367"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204013259",
+   "url": "https://forum.tecommons.org/t/community-stewards-audit/367"
+  }
+ ]
+}

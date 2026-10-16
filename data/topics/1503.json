@@ -1,0 +1,169 @@
+{
+ "id": 1503,
+ "title": "Proposal: Initiate the Sunsetting Process for the $TEC Token",
+ "slug": "proposal-initiate-the-sunsetting-process-for-the-tec-token",
+ "category_id": 33,
+ "posts_count": 8,
+ "created_at": "2025-07-29T16:40:54.841Z",
+ "last_posted_at": "2025-08-14T12:25:06.264Z",
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2025-08-14T12:25:06Z",
+ "captured_between": [
+  "2025-08-05T14:12:34Z",
+  "2025-11-19T01:43:32Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-07-29T16:40:55Z",
+   "updated_at": "2025-07-31T00:44:12Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<blockquote>\n<p><img alt=\":alarm_clock:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/alarm_clock.png?v=12\" title=\":alarm_clock:\" width=\"20\"/> <strong>NOTICE:</strong> Discussion of the Sunsetting Proposal was originally initiated by <a class=\"mention\" href=\"/u/rex\">@rex</a> and the discussion for that proposal can be found here: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500\">Sunsetting the $TEC: Proposal &amp; Treasury Distribution Framework</a></p>\n</blockquote>\n<p>This proposal seeks a Yes/No vote from the TEC community on whether to formally begin the sunsetting process for the $TEC token. This decision would mark the first step in a structured and transparent wind-down process, consisting of three proposals, culminating in the responsible and equitable closure of TEC’s token infrastructure and remaining treasury.</p>\n<p>A “Yes” vote does not determine fund distribution or operational execution, but simply affirms the community’s consensus that the $TEC token should be sunset.</p>\n<h3>\n<a class=\"anchor\" href=\"#context-motivation-1\" name=\"context-motivation-1\"></a>Context &amp; Motivation</h3>\n<p>Over the past 18 months, TEC has transitioned from a vibrant, early-stage coordination experiment to a quieter, lower-velocity commons. Despite several attempts to revitalize engagement and token utility, participation has slowed, governance activity has declined, and the value proposition for the $TEC token has become increasingly unclear.</p>\n<p>Rather than continue in an indefinite holding pattern, we believe it is time to begin an intentional and honorable sunsetting process for the $TEC token and the Augmented Bonding Curve (ABC), allowing TEC to end this phase of its life with clarity and dignity.</p>\n<p>This proposal builds on community dialogue, including recent sunset discussions, and is intended to center tokenholder input from the very beginning.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-this-proposal-does-2\" name=\"what-this-proposal-does-2\"></a>What This Proposal Does</h3>\n<p>This proposal asks the TEC tokenholders to vote Yes or No on the following question:</p>\n<blockquote>\n<p>Should we initiate a structured sunsetting process for the $TEC token and begin the formal process of decommissioning TEC’s token infrastructure?</p>\n</blockquote>\n<p>A “Yes” vote means:</p>\n<ul>\n<li>\n<p>We collectively recognize that the current model is no longer serving the TEC mission.</p>\n</li>\n<li>\n<p>We authorize the drafting and voting of two subsequent proposals, which will manage the technical, operational, and financial components of the sunsetting process.</p>\n</li>\n</ul>\n<p>A “No” vote means:</p>\n<ul>\n<li>We do not wish to pursue the sunsetting process at this time, and the $TEC token and bonding curve remain active.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#what-comes-next-future-proposals-3\" name=\"what-comes-next-future-proposals-3\"></a>What Comes Next (Future Proposals)</h3>\n<p>If this proposal passes, the community will be invited to review and vote on the following two proposals, spaced approximately one week apart:</p>\n<p>Proposal 2: Technical &amp; Operational Sunsetting Plan</p>\n<p>This proposal will outline the exact process for:</p>\n<ol>\n<li>\n<p>Decommissioning the Augmented Bonding Curve (ABC) and any smart contract infrastructure tied to $TEC.</p>\n</li>\n<li>\n<p>Consolidating all available funds into the Common Pool, including funds from dormant or specialized multisigs (e.g., TECAN, LaserTag, GG).</p>\n</li>\n<li>\n<p>Designating roles and compensating individuals for essential technical work (e.g., smart contract upgrades, multisig execution, accounting).</p>\n</li>\n<li>\n<p>Establishing a secure and verifiable snapshot of tokenholders for use in the final distribution phase.</p>\n</li>\n</ol>\n<p>Proposal 3: Treasury Distribution Plan</p>\n<p>This final proposal will define the allocation of remaining funds in the TEC treasury. It will include:</p>\n<ol>\n<li>\n<p>A $TEC Post-Mortem Report, documenting TEC’s contributions, challenges, and legacy.</p>\n</li>\n<li>\n<p>A proposed severance agreement or one-time thank-you for active contributors still supporting TEC operations at the time of sunsetting.</p>\n</li>\n<li>\n<p>A final breakdown of remaining fund distribution, prioritizing distribution of funding to our long-term token-holders who have supported and sustained the TEC Mission.</p>\n</li>\n<li>\n<p>Community review and discussion of any additional considerations, such as public goods recognition, tooling archival, or knowledge handoff.</p>\n</li>\n</ol>\n<p>Only after all three proposals have been successfully passed will the final distribution and technical closure begin.</p>\n<p>Proposed Timeline</p>\n<ul>\n<li>\n<p>Proposal 1 (this post): Forum + Snapshot vote within 3–5 days</p>\n</li>\n<li>\n<p>Proposal 2: Posted for feedback immediately following Proposal 1 vote; vote within 7 days</p>\n</li>\n<li>\n<p>Proposal 3: Posted after Proposal 2 vote concludes; vote within 7–10 days</p>\n</li>\n<li>\n<p>Execution &amp; Distribution: Begins following final vote, aiming for completion within 2–3 weeks of Proposal 3</p>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#why-this-matters-4\" name=\"why-this-matters-4\"></a>Why This Matters</h3>\n<p>TEC was always an experiment in collective stewardship, infrastructure design, and regenerative funding models. This proposal is not a declaration of failure, but a collective decision to end this chapter intentionally with care, and gratitude.</p>\n<p>Voting “Yes” signals support for beginning this closure with the same coordination values that founded TEC.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2025-07-30T10:33:42Z",
+   "updated_at": "2025-07-30T10:33:42Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Here is the official Snapshot Vote for Proposal <span class=\"hashtag\">#1:</span></p>\n<p><a class=\"onebox\" href=\"https://snapshot.box/#/s:tecommons.eth/proposal/0xec36a9a998e84dd79196d49f830e7eba81f51ea9be641a757ad55268a0049438\" rel=\"noopener\" target=\"_blank\">https://snapshot.box/#/s:tecommons.eth/proposal/0xec36a9a998e84dd79196d49f830e7eba81f51ea9be641a757ad55268a0049438</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-12T17:44:14Z",
+   "updated_at": "2025-08-12T17:44:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>Could you confirm that this proposal and subsequent vote was in full faith and legal accordance with the Token Engineering Commons (TEC) Covenant, paying particular attention to the Covenant provisions on the advice process, community participation and off and on chain vote rules for decisions with financial implication? Thank you in advance for your kind attention to this matter.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-08-14T10:46:14Z",
+   "updated_at": "2025-08-14T10:46:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thank you for your comment. I can assure that the Covenant is being followed, with the near unanimity of participants coming to the forums for the first time in years calling in favour of a structured winddown was more than sufficient to come to a vote on this proposal.</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1500\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/rex/40/864_2.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500\">Sunsetting the $TEC: Proposal &amp; Treasury Distribution Framework</a> <a class=\"badge-wrapper bullet\" href=\"/c/tec-strategy-governance/33\"><span class=\"badge-category-bg\" style=\"background-color: #F7941D;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"A space for discussing the strategic direction and governance of the TEC. This includes objectives, budgets, proposals, and governance frameworks.\">🧭 TEC Strategy &amp; Governance</span></a>\n</div>\n<blockquote>\n<a class=\"anchor\" href=\"#executive-summary-1\" name=\"executive-summary-1\"></a><img alt=\"compass\" class=\"emoji\" height=\"20\" src=\"https://forum.tecommons.org/images/emoji/win10/compass.png?v=12\" title=\"compass\" width=\"20\"/> Executive Summary\nThis proposal initiates the structured shutdown of the Token Engineering Commons. Over the last eighteen months, the remaining stewards have attempted in multiple ways to reverse the course of the commons. Unfortunately, this has not borne fruit: the bleeding of the treasury continues through ongoing operations without highest impact—neither on the token, nor on token engineering activity itself. We propose instead a simple mechanism to distribute remaining funds and…\n  </blockquote>\n</aside>\n<p>The proposal in this thread above is an amendment for granularity, instead splitting the wind-down into three votes:</p>\n<ol>\n<li>\n<p>a confirmation of $TEC winddown. This is the above proposal, and has since passed.</p>\n</li>\n<li>\n<p>A proposal on the winddown implementation, which should soon be posted on the forums for discussion, and then come to a vote as per the Covenant.</p>\n</li>\n<li>\n<p>A third proposal for the treasury distribution plan, to include also a severance for active contributors, and a postmortem. The constituent parts of this proposal are being drafted, and should come to the forums once proposal 2. goes through.</p>\n</li>\n</ol>\n<p>We will continue to work in accordance with the Covenant. Thanks for raising your concerns <img alt=\":slight_smile:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=12\" title=\":slight_smile:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-14T11:17:20Z",
+   "updated_at": "2025-08-14T11:17:20Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>The vote on Tokenlog to wind down the $TEC token failed to comply with the Token Engineering Commons (TEC) Covenant provisions governing decisions with financial and code implications.</p>\n<p>According to the Covenant, any proposal that significantly affects the treasury or alters the functionality of core smart contracts must undergo rigorous deliberation, transparency standards, and community review processes to ensure informed consent. The wind-down vote, however, bypassed these procedural safeguards, including the required engagement in the Advice Process and omission of a comprehensive impact analysis on both the treasury and token holders.</p>\n<p>Additionally, and more critical to DAO governance, was the use of Tokenlog, which under the Covenant is a signaling tool rather than a governance-authorized voting mechanism which violates the Covenant’s stipulation that binding decisions with such financial and governance importance must be executed through formal TEC governance processes.</p>\n<p>As such, the vote lacks legitimacy under the Covenant’s legally and socially binding framework.</p>\n<p>Kindly ask that based on the foregoing the non-compliant proposal is retracted and the vote nullified with immediate effect to avoid initiation of dispute resolution measures.</p>\n<p>Cc: <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-08-14T11:42:20Z",
+   "updated_at": "2025-08-14T11:42:20Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"1503\" data-username=\"DecentralizeSDGs\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/d/47e85d/40.png\" width=\"20\"/> DecentralizeSDGs:</div>\n<blockquote>\n<p>Additionally, and more critical to DAO governance, was the use of Tokenlog, which under the Covenant is a signaling tool rather than a governance-authorized voting mechanism which violates the Covenant’s stipulation that binding decisions with such financial and governance importance must be executed through formal TEC governance processes.</p>\n</blockquote>\n</aside>\n<p><a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a> Since the move to Optimism, that has been the only way to procede with a vote, as Aragon was not deployed on Optimism. Kindly refer to the previous Coordination Team funding proposal, which you commented in favour of <img alt=\":slight_smile:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=12\" title=\":slight_smile:\" width=\"20\"/> and also used Snapshot for a vote on financial matters.</p>\n<aside class=\"quote quote-modified\" data-post=\"1\" data-topic=\"1460\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/tec-coordination-team-funding-proposal-january-june-2025/1460\">TEC Coordination Team Funding Proposal January - June 2025</a> <a class=\"badge-wrapper bullet\" href=\"/c/tec-strategy-governance/33\"><span class=\"badge-category-bg\" style=\"background-color: #F7941D;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"A space for discussing the strategic direction and governance of the TEC. This includes objectives, budgets, proposals, and governance frameworks.\">🧭 TEC Strategy &amp; Governance</span></a>\n</div>\n<blockquote>\n<a class=\"anchor\" href=\"#introduction-1\" name=\"introduction-1\"></a>Introduction\nThis proposal outlines the TEC’s priorities and plans for 2025. It highlights what we accomplished in 2024, our focus areas for the year ahead, and the objectives and initiatives that will guide our efforts. \nWe also provide a clear breakdown of the TEC financial situation and funding request for the team, along with a timeline and an overview of the team driving this work forward. \n\n<a class=\"anchor\" href=\"#work-accomplished-in-2024-2\" name=\"work-accomplished-in-2024-2\"></a>Work Accomplished in 2024\nWhen we set out our <a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353\">funding proposal</a> back in March 2024, we committed to …\n  </blockquote>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-08-14T12:14:08Z",
+   "updated_at": "2025-08-14T12:23:38Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Furthermore <a class=\"mention\" href=\"/u/decentralizesdgs\">@DecentralizeSDGs</a>, this proposal was not financial; concrete financial implications would come in proposal 2 and 3 which will also need to be ratified by the Commons.</p>\n<p>Please check here:</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1503\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>A “Yes” vote does not determine fund distribution or operational execution, but simply affirms the community’s consensus that the $TEC token should be sunset.</p>\n</blockquote>\n</aside>\n<p>I will review with <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> to ensure we continue to uphold all Commons due processes going forward as we have always tried to. Thank you for your concerns.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "DecentralizeSDGs",
+   "name": null,
+   "created_at": "2025-08-14T12:25:06Z",
+   "updated_at": "2025-08-14T12:25:06Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Dear <a class=\"mention\" href=\"/u/rex\">@rex</a></p>\n<p>Allocating budget from Commons Pool under existing TEC framework  and divesting $TEC token holders from their capital interests and governance rights under a wind down scenario are two highly distinct matters.</p>\n<p>This proposal to wind down $TEC is constitutional to TEC as a DAO and therefore the vote cannot be treated in same manner both logically and under a clear reading of the covenant.</p>\n<p>I retain my assertion that this vote was Covenant non-compliant and legally flawed, thus rendering it null and void or else facing a formal dispute.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20251119014332",
+    "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20250805141234",
+   "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805141234",
+   "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251119014332",
+   "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251119014332",
+   "url": "https://forum.tecommons.org/t/proposal-initiate-the-sunsetting-process-for-the-tec-token/1503"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": 565,
+ "title": "TEC Working Groups Weekly Update, August 22",
+ "slug": "tec-working-groups-weekly-update-august-22",
+ "category_id": 5,
+ "posts_count": 4,
+ "created_at": "2021-08-22T16:29:23.081Z",
+ "views": 79,
+ "last_posted_at": "2021-08-31T09:40:05.059Z",
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2021-08-31T09:40:05Z",
+ "captured_between": [
+  "2021-08-28T16:42:17Z",
+  "2023-05-30T07:07:08Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Suga",
+   "name": null,
+   "created_at": "2021-08-22T16:29:23Z",
+   "updated_at": "2021-08-22T16:29:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<hr/>\n<h2>\n<a class=\"anchor\" href=\"#sunday-august-22-2021-1\" name=\"sunday-august-22-2021-1\"></a><strong>Sunday, August 22, 2021</strong>\n</h2>\n<p><strong><img alt=\":hatching_chick:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hatching_chick.png?v=9\" title=\":hatching_chick:\"/> Attention all Hatchers:</strong> don’t forget to claim your POAP <a href=\"https://poap.delivery/tec-hash-participation\">here</a> and your exclusive Hatch t-shirt from the <a href=\"https://swag.tecommons.org/\">TEC Swag shop</a>! If you participated in the Hatch, you were airdropped one SWAGTEC which will cover the cost of the t-shirt and shipping.</p>\n<p><strong><img alt=\":point_right:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_right/4.png?v=9\" title=\":point_right:t4:\"/> Not to be missed:</strong> For our Community Call Spotlight this week, we had the inimitable Angela Kreitenweis present <a href=\"https://twitter.com/GovernanceDAO\">Governauts</a>, a new Token Engineering branch focued on governance. Did you miss it? No problem! <a href=\"https://www.youtube.com/watch?v=bXEvVQmmWnI&amp;t=2830s\">Watch it here.</a></p>\n<h3>\n<a class=\"anchor\" href=\"#comms-2\" name=\"comms-2\"></a><img alt=\":satellite:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/satellite.png?v=9\" title=\":satellite:\"/> Comms</h3>\n<ul>\n<li>Join our content workshops hosted by <a class=\"mention\" href=\"/u/acidlazzer\">@acidlazzer</a> while Chuy is on vacation: Mondays @ 9pm CEt and Thursdays @ 4pm CET.</li>\n<li>\n<a href=\"https://docs.google.com/document/d/1foG4IaB-cczo35p5ndObnLp1FSoGRuE_2ULS-1iyMnk/edit?usp=sharing\">TEC Comms DAO</a> - check out this draft for Comms funding and feel free to add comments!</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#commons-swarm-3\" name=\"commons-swarm-3\"></a><img alt=\":globe_with_meridians:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/globe_with_meridians.png?v=9\" title=\":globe_with_meridians:\"/> Commons Swarm</h3>\n<ul>\n<li>\n<a href=\"https://github.com/CommonsSwarm/evmscripter\">EVM-Crispr</a>: The library is at v1.0.</li>\n<li>TEC Gardens is <a href=\"https://gardens-rinkeby.1hive.org/#/garden/0xe6313a030b7f8089f9af11c9f823175b524c7d6d\">live on Rinkeby.</a>\n</li>\n<li>The ragequit button is now more noticeable on the <a href=\"https://hatch.tecommons.org/\">Hatch dApp</a>.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#gravity-4\" name=\"gravity-4\"></a><img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=9\" title=\":dove:\"/> Gravity</h3>\n<ul>\n<li>\n<strong>Call to action</strong>: <a href=\"https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit#gid=679275498\">Register for the upcoming Graviton training</a> taking place September 21 - November 23.</li>\n<li>Gravity would like to ask you to fill our <a href=\"https://the-commons-stack.typeform.com/to/reUmcsJ6\">survey.</a> This typeform will help us to identify needs related to conflict management in decentralized organizations, aiming to improve processes and inform best practices, for prevention and dispute resolution in their communities.</li>\n<li>Do you have or see a conflict in our community? Don’t hesistate to <a href=\"https://the-commons-stack.typeform.com/to/rCVsK5RK\">request support from Gravity</a> for conflict management.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#hatch-outreach-5\" name=\"hatch-outreach-5\"></a>🏄‍♂️ Hatch Outreach</h3>\n<ul>\n<li>The Hatch is done! Hatch Outreach has completed its mission and had a “farewell” party on Wednesday. This will be the last update from this Working Group. But before we go, here is a last reminder:\n<ul>\n<li>If you participated in the Hatch, <a href=\"https://swag.tecommons.org/\">claim your swag</a>!</li>\n<li>As a Hatcher, you are also invited to <a href=\"https://poap.delivery/tec-hash-participation\">claim you Hatcher POAP</a>!</li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#labs-6\" name=\"labs-6\"></a><img alt=\":microscope:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=9\" title=\":microscope:\"/> Labs</h3>\n<ul>\n<li>In partnership with Token Engineering Academy, oceanSPICE and LongTail Financial, <strong>Tokenspice Development Workshops</strong> are on Tues/Wed/Thurs 9pm PST / 6am CET.</li>\n<li>\n<strong>Labs Meets</strong>: Fridays 9am PST/6pm CET @ TEC Discord</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#legal-7\" name=\"legal-7\"></a><img alt=\":classical_building:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/classical_building.png?v=9\" title=\":classical_building:\"/> Legal</h3>\n<ul>\n<li>Legal WG is working on the <a href=\"https://docs.google.com/document/d/1inHqkkQuZzWQQhuq5A6sVwV0a3oQwfuDRv5nctYj8IE/edit#heading=h.um917am6mfff\">covenant</a>.</li>\n<li>Next meeting is Friday, 10AM EST / 4PM CET.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#0mega-8\" name=\"0mega-8\"></a><img alt=\":dizzy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dizzy.png?v=9\" title=\":dizzy:\"/> 0mega</h3>\n<ul>\n<li>\n<a href=\"https://docs.google.com/document/d/17MJ3zuxpRV_pHqos59AwTrB2Kv1JUVGPrdu7Adonx-4/edit?usp=sharing\">New Manifesto finished</a>!</li>\n<li>Next WG meeting September 9, 8PM CET.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#params-9\" name=\"params-9\"></a><img alt=\":robot:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/robot.png?v=9\" title=\":robot:\"/> Params</h3>\n<ul>\n<li>Commons Configuration Dashboard\n<ul>\n<li><a href=\"https://www.figma.com/proto/b6kx4mkaHxzq4TPzaI1eRY/TEC-Dapps?page-id=3370%3A14921&amp;node-id=3413%3A15145&amp;viewport=-1613%2C-87%2C0.1384066492319107&amp;scaling=min-zoom\">Design Validation</a></li>\n<li><a href=\"https://bondingcurve.herokuapp.com/app\">Python Backend</a></li>\n<li><a href=\"https://bondingcurve.herokuapp.com/app\">Frontend</a></li>\n<li><a href=\"https://forum.tecommons.org/c/defi-legos-and-how-they-work-together/ccd-params/26\">Param Documentation in Forum</a></li>\n</ul>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#soft-gov-10\" name=\"soft-gov-10\"></a><img alt=\":raised_hands:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/4.png?v=9\" title=\":raised_hands:t4:\"/> Soft Gov</h3>\n<ul>\n<li>Advice Process: <a href=\"https://forum.tecommons.org/t/proposed-framework-for-receiving-projects-proposals/562\">Proposed framework for receiving projects’ proposals</a>.</li>\n<li>Nate and Mateo particpiated in the <a href=\"https://twitter.com/boardroom_info\">Boardroom</a> Hackathon.</li>\n<li>\n<a href=\"https://docs.google.com/document/d/1ageex8VYF0yUE13t1e2eX4JIFdIOyRmHW9wpzPafdzo/edit#\">Proposals that should happen before the Commons Upgrade</a>.</li>\n<li>Meeting the Governauts! <a href=\"https://twitter.com/GovernanceDAO/status/1427729579599441930\">Watch the call here.</a>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#stewards-11\" name=\"stewards-11\"></a><img alt=\":ear_of_rice:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ear_of_rice.png?v=9\" title=\":ear_of_rice:\"/> Stewards</h3>\n<ul>\n<li>We just planned a new Sprint for Aug 20 - Sep 2. Have look at the <a href=\"https://app.zenhub.com/workspaces/tec-coordination-workspace-5fad0d3fbbe4da0011c2f40d/board?sprints=Z2lkOi8vcmFwdG9yL1NwcmludC82OTIwNA&amp;filterLogic=any&amp;repos=306706322\">Sprint Board</a> to see what all the Working Groups will be doing these next two weeks.</li>\n<li>This week was the end of one Sprint and the beginning of another! Get caught up with our latest <a href=\"https://miro.com/app/board/o9J_lYcRTik=/?fromRedirect=1\">Sprint Retrospective</a>.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#transparency-12\" name=\"transparency-12\"></a><img alt=\":male_detective:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/male_detective.png?v=9\" title=\":male_detective:\"/> Transparency</h3>\n<ul>\n<li><a href=\"https://docs.google.com/document/d/1el7GdOZwqTTTYb3Es-tzR6e9uNb_KRTe1t7MGQ9JTPY/edit#heading=h.q2umsiiks8ap\">Discord roles document</a></li>\n<li><a href=\"https://docs.google.com/document/d/19-YlxdBuivR6qwSTPvlSP6kSLExUDSYT5frp7qaArFI/edit\">Transparency WG manifesto</a></li>\n</ul>\n<p>This weekly update brought to you by <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a> and <a class=\"mention\" href=\"/u/suga\">@Suga</a>. <img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=9\" title=\":books:\"/> Thanks for reading this week! Be sure to check out the <a>calendar</a>, and join us on a call! <img alt=\":phone:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/phone.png?v=9\" title=\":phone:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070708",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-28T22:09:59Z",
+   "updated_at": "2021-08-28T22:09:59Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>also!</p>\n<p>For Params:<br/>\n<a class=\"onebox\" href=\"https://commons-dashboard.netlify.app/\" rel=\"noopener\" target=\"_blank\">https://commons-dashboard.netlify.app/</a></p>\n<p>Play with that ^^^</p>\n<p>And if you find ways to improve it (its pretty rough, shouldnt be hard <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/> ), please make an issue  with a screenshot here:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/CommonsBuild/commons-config-frontend/issues/\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsBuild/commons-config-frontend/issues/\" rel=\"noopener\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/fff7a652b403cec1e07b78953395d37dea884934.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/CommonsBuild/commons-config-frontend/issues/\" rel=\"noopener\" target=\"_blank\">Issues · CommonsBuild/commons-config-frontend</a></h3>\n<p>Contribute to CommonsBuild/commons-config-frontend development by creating an account on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070708",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-08-31T08:41:03Z",
+   "updated_at": "2021-08-31T08:41:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yes! It’s not here because this is an older update post. The latest one, Aug 28th,  is here: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-28/582\">TEC Working Groups Weekly Update, August 28</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070708",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-31T09:40:05Z",
+   "updated_at": "2021-08-31T09:40:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Yep! just spamming the link everywhere! In fact, if you played with the demo and found a bug or have an idea on how to improve, make it here!</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/CommonsBuild/commons-config-frontend/issues\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsBuild/commons-config-frontend/issues\" rel=\"noopener\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_10x10.png\" height=\"345\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_690x345.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_690x345.png, https://forum.tecommons.org/uploads/default/optimized/1X/fff7a652b403cec1e07b78953395d37dea884934_2_1035x517.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/fff7a652b403cec1e07b78953395d37dea884934.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/CommonsBuild/commons-config-frontend/issues\" rel=\"noopener\" target=\"_blank\">Issues · CommonsBuild/commons-config-frontend</a></h3>\n<p>Contribute to CommonsBuild/commons-config-frontend development by creating an account on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070708",
+    "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210828164217",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928004811",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928004811",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530070708",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530070708",
+   "url": "https://forum.tecommons.org/t/tec-working-groups-weekly-update-august-22/565"
+  }
+ ]
+}

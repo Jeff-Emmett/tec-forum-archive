@@ -1,0 +1,113 @@
+{
+ "id": 1359,
+ "title": "Funding of TEC-OP Liquidity Pool on Velodrome",
+ "slug": "funding-of-tec-op-liquidity-pool-on-velodrome",
+ "category_id": 33,
+ "tags": [
+  "advice-process"
+ ],
+ "posts_count": 3,
+ "created_at": "2024-03-22T18:03:29.281Z",
+ "last_posted_at": "2024-04-08T16:50:58.243Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2024-04-08T16:50:58Z",
+ "captured_between": [
+  "2024-04-24T19:34:11Z",
+  "2025-10-25T02:28:31Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-03-22T18:03:29Z",
+   "updated_at": "2024-07-19T20:17:03Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<p>This post was written by <a class=\"mention\" href=\"/u/gideonro\">@GideonRo</a> and <a class=\"mention\" href=\"/u/bear100\">@bear100</a>, with advice from <a class=\"mention\" href=\"/u/griff\">@Griff</a>, <a class=\"mention\" href=\"/u/tamara\">@Tamara</a>, <a class=\"mention\" href=\"/u/enti\">@enti</a>, <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a>, and <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>, as part of the TEC Advisory Network (TECAN) and the TEC Coordination Team.</p>\n<h1>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TLDR:</h1>\n<p>Move $20K (DAI equivalent) from the TEC’s recent Optimism RetroPGF awards as the first step in funding an $OP-$TEC Liquidity Pool on Velodrome. Over the next several months, continue to add up to an additional $80K, as TEC cash flow and budget constraints allow.</p>\n<h1>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description:</h1>\n<p>Key points:</p>\n<p>The TEC plans to establish an <a href=\"https://velodrome.finance/swap?from=0x4200000000000000000000000000000000000042&amp;to=0x8fc7c1109c08904160d6ae36482b79814d45eb78\">$OP-$TEC Liquidity Pool (LP) on Velodrome</a> as part of an ongoing process for increasing the liquidity of the $TEC token. The first step is to fund the pool with $20K. Over the next several months, we will find opportunities to make additional contributions as we gain more clarity on the TEC’s budgetary and cash flow constraints.</p>\n<h1>\n<a class=\"anchor\" href=\"#amount-requested-100000-3\" name=\"amount-requested-100000-3\"></a>Amount Requested: $100,000</h1>\n<p>In the initial funding, we will deposit $10,000 each for $OP and $TEC, totaling $20,000. This amount was accounted for in cash flow projections as part of the TEC’s <a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353\">2024 budget</a>, and is a prudent first step. These initial funds will be sourced from incoming OP RetroPGF payments. As the TEC gains more clarity on future funding prospects with Optimism and other funders, we will transfer additional funds to the LP, up to a total of $100,000.</p>\n<p>It is important to note that funds can be withdrawn from the LP at any time should they be required for TEC operations and grant making obligations.</p>\n<p>The LP will be managed through <a href=\"https://app.safe.global/home?safe=oeth:0x336506a4CeC5C550703c8F6B493F6B12b02c3354\">this multisig</a> held by the members of the TEC Advisory Network (TECAN) listed below.</p>\n<h1>\n<a class=\"anchor\" href=\"#what-does-success-look-like-4\" name=\"what-does-success-look-like-4\"></a>What does success look like?</h1>\n<ul>\n<li>\n<p>Makes it easier and more convenient to buy and sell $TEC.</p>\n</li>\n<li>\n<p>Generates low-slippage swaps for $TEC.</p>\n</li>\n<li>\n<p>Strengthens the TEC’s partnership with Optimism and supports the “<a href=\"https://forum.tecommons.org/t/tec-2024-priorities-budget-and-6-month-operating-proposal/1353#h-2024-priorities-3\">Optimism as Token Engineering Incubator</a>” narrative.</p>\n</li>\n<li>\n<p>Creates an opportunity for arbitrage with a future arbitrage bot.</p>\n</li>\n<li>\n<p>Creates an opportunity for partners to contribute to $TEC liquidity.</p>\n</li>\n</ul>\n<h1>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-5\" name=\"how-will-you-share-progress-5\"></a>How will you share progress?</h1>\n<p>The TEC Coordination Team will maintain a record of the project’s progress in our Notion base, which is accessible <a href=\"https://www.notion.so/tecommons/f8906da700e847b1801d1389ff89d541?v=351ddf8ff1744d799fa1e87316b4c5bb&amp;p=3bbcdbeead3e4dd0b62268356725cf4a&amp;pm=s\">here</a>. We will also provide relevant updates through this same forum post to keep the community informed about the impact of this initiative.</p>\n<h1>\n<a class=\"anchor\" href=\"#team-information-6\" name=\"team-information-6\"></a>Team Information:</h1>\n<p>Members of the $TEC-$OP LP Multisig:</p>\n<ul>\n<li>Griff</li>\n<li>Tam</li>\n<li>Ygg</li>\n<li>Gideon</li>\n<li>Isaac</li>\n<li>Bear</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251025022831",
+    "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2024-03-25T15:39:00Z",
+   "updated_at": "2024-03-25T15:39:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks for documenting this <a class=\"mention\" href=\"/u/bear100\">@bear100</a>. This is really exciting.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251025022831",
+    "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-04-03T23:01:42Z",
+   "updated_at": "2024-04-03T23:01:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>The proposal has been successfully approved. Thank you to everyone who supported this effort! <a class=\"inline-onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0x4929fd6b2d05b49d73e02fa6ece0e74de9ce2a4267e37d64fbdd55e326be626b\" rel=\"noopener nofollow ugc\">Snapshot</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251025022831",
+    "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2024-04-08T16:50:58Z",
+   "updated_at": "2024-04-08T16:50:58Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The TEC-OP liquidity pool has now been created! <a href=\"https://optimistic.etherscan.io/token/0x18139f297ccf99a686c847eb5406b62e5330837f?a=0x336506a4CeC5C550703c8F6B493F6B12b02c3354\" rel=\"noopener nofollow ugc\">https://optimistic.etherscan.io/token/0x18139f297ccf99a686c847eb5406b62e5330837f?a=0x336506a4CeC5C550703c8F6B493F6B12b02c3354</a><br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/43dcc50a5349bfd0e435e986a7d4b157c69af3d3\" href=\"https://forum.tecommons.org/uploads/default/original/1X/43dcc50a5349bfd0e435e986a7d4b157c69af3d3.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"9GkZdyksSesiZnuNSMDNBUVqHjd\" data-dominant-color=\"1F2738\" height=\"186\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/43dcc50a5349bfd0e435e986a7d4b157c69af3d3_2_690x186.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/43dcc50a5349bfd0e435e986a7d4b157c69af3d3_2_690x186.png, https://forum.tecommons.org/uploads/default/optimized/1X/43dcc50a5349bfd0e435e986a7d4b157c69af3d3_2_1035x279.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/43dcc50a5349bfd0e435e986a7d4b157c69af3d3.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1079×291 28 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div><br/>\n<a class=\"inline-onebox\" href=\"https://velodrome.finance/liquidity?query=tec\" rel=\"noopener nofollow ugc\">Velodrome Finance</a>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251025022831",
+    "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20240424193411",
+   "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240424193411",
+   "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240920011714",
+   "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240920011714",
+   "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251025022831",
+   "url": "https://forum.tecommons.org/t/funding-of-tec-op-liquidity-pool-on-velodrome/1359"
+  }
+ ]
+}

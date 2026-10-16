@@ -1,0 +1,199 @@
+{
+ "id": 201,
+ "title": "TEC Labs! Production Team Funding",
+ "slug": "tec-labs-production-team-funding",
+ "category_id": 7,
+ "posts_count": 9,
+ "created_at": "2021-01-05T08:05:29.236Z",
+ "last_posted_at": "2021-01-11T18:58:01.640Z",
+ "tags": [
+  "funding-proposal"
+ ],
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "last_archived_post_at": "2021-01-11T18:58:01Z",
+ "captured_between": [
+  "2021-03-06T01:35:58Z",
+  "2026-09-05T02:12:59Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-05T08:05:29Z",
+   "updated_at": "2021-11-12T21:39:51Z",
+   "reply_to_post_number": null,
+   "like_count": 11,
+   "cooked": "<p><strong><img alt=\":rainbow:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rainbow.png?v=10\" title=\":rainbow:\"/> !</strong></p>\n<h1>\n<a class=\"anchor\" href=\"#tec-lab-1\" name=\"tec-lab-1\"></a>TEC Lab!</h1>\n<h2>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h2>\n<p><strong>Description:</strong></p>\n<p>Ever wonder what’s a buidler, and why they need <a href=\"https://hardhat.org/\" rel=\"noopener nofollow ugc\">hardhats</a> <img alt=\":construction_worker_man:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/construction_worker_man.png?v=10\" title=\":construction_worker_man:\"/>? Ever try explaining what the acronym ‘cadCAD’ stands for to your family and friends around turkey dinner? Ever ask yourself, \"Hey, am I recognizing the unfolding of a revolution in human connectivity and governance mechanisms that are manifesting <a href=\"https://economicspace.agency/\" rel=\"noopener nofollow ugc\">higher dimensional value creation opportunities</a> across the internet and in local communities, while I am just sitting here on twitter hoping that there will be even more flashswap exploit memes in 2021 than 2020?\"<img alt=\":globe_with_meridians:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/globe_with_meridians.png?v=10\" title=\":globe_with_meridians:\"/>? Do you want to step off the metaversal sidelines and begin to live a life of web3 crypto governance design; staking your identity in the commons by presenting your mathematical gifts to earn influence in <a href=\"https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415\" rel=\"noopener nofollow ugc\">cyber-physical economies</a>? If you answered ‘YES!’ to any of the above questions, then you may just have a calling to become a <a href=\"https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca\" rel=\"noopener nofollow ugc\">practicing token engineer</a>! And this proposal provides a path to mastery with the <strong>Token Engineering Commons Lab</strong> <img alt=\":microscope:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=10\" title=\":microscope:\"/>!</p>\n<p>In the learning of any discipline, it is essential to supplement theoretical knowledge with practice of the tools and methods of the field. Token Engineering is no different. Various resources have emerged for study of token engineering theory such as the <a href=\"https://tokenengineeringcommunity.github.io/website/docs/academy-tmg1-ecosystem/\" rel=\"noopener nofollow ugc\">Designing Ecosystem Value Flows course</a>, the decentrally-sourced <a href=\"https://tokengenie.org/\" rel=\"noopener nofollow ugc\">Hitch Hikers Guide to Token Engineering</a>, <a href=\"https://tokenengineeringcommunity.github.io/website/docs/academy-welcome\" rel=\"noopener nofollow ugc\">the various TEC study groups</a>, or the <a href=\"https://www.cadcad.education/\" rel=\"noopener nofollow ugc\">cadCAD.education course</a>.</p>\n<p>TEC Lab is a space for all happy participants of the Token Engineering Commons or Token Engineering Community to come join other community members in learning, utilizing, (and showing off <img alt=\":keyboard:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/keyboard.png?v=10\" title=\":keyboard:\"/><img alt=\":dragon:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dragon.png?v=10\" title=\":dragon:\"/>), the latest and greatest token engineering <a href=\"https://github.com/oceanprotocol/tokenspice2\" rel=\"noopener nofollow ugc\">tools</a>, <a href=\"https://www.youtube.com/watch?v=uJEiYHRWA9g&amp;list=PLmWm8ksQq4YKtdRV-SoinhV6LbQMgX1we&amp;index=1\" rel=\"noopener nofollow ugc\">workflows</a>, and <a href=\"https://www.grassrootseconomics.org/research\" rel=\"noopener nofollow ugc\">methodologies</a>, that are popping up around web3, and the crypto-economic metaverse. By sharing our knowledge and techniques, we can advance the value acceleration of the Token Engineering Commons.</p>\n<p><strong>Details:</strong><br/>\nThe lab is an initiative that was started by <a href=\"https://linktr.ee/ygg_anderson\" rel=\"noopener nofollow ugc\">YGG</a> in order to provide a collaborative learning space for members of TEC to learn and share workflows with other TEC members, while collaboratively building out real-world TEC solutions, tools, contributions, educational content, ect. The TEC Lab is very meta because it is a space in the TEC where we use TEC tools to make TE contributions to TEC tech such as TECH and CSTK.  We collaboratively use TEC tech to teach, learn, and test TECH tech. For the TEC by the TEC (definitely not a technocracy).</p>\n<p><img alt=\"TEC-LAB-MEME\" data-base62-sha1=\"mO5x8ifc0vIBav2nlkGZjvo94hw\" height=\"401\" src=\"https://forum.tecommons.org/uploads/default/original/1X/9fd95331a612c6ae35211c3b1e110e2351ba88e6.jpeg\" width=\"622\"/></p>\n<p>The idea is to make the TEC Lab acessible, yet engaging for all token engineers across all skill and experience levels. Content will range greatly from tutorial series, to collaborative hackathons, to TECH development, to special guest demos and lectures, to YGG rambling on about linux and command line interfaces (I didn’t say every lab will be thrilling). All TEC hatchers and community members have unique skills and knowledge that could benefit the community, and thus there shouldn’t ever be a shortage of insightful teachers, and topics to cover such as demoing all the participatory mechanisms of the TEC Hatch (think voting and making proposals).</p>\n<p>The TEC Lab was launched in alpha phase on December 4th 2020 with a wizbang two-part series on getting up to speed with setting up token engineering environments using git, python, and jupyter. This environment setup is a foundational first step for anyone entering the field. Those of us with a background in computer science or software development will likely find these first steps very straightforward, but, being mindful of the interdisciplinary nature of token engineering, we find that many initiates get snagged and frustrated at these early steps. In this case, the TEC lab was used as a space to make sure that all participants where able to achieve a certain threshold of milestones like running python on their local system, running an interactive jupyter notebook, and using git to synchronize efforts with team mates.</p>\n<aside class=\"onebox twitterstatus\" data-onebox-src=\"https://twitter.com/tecmns/status/1332338390700797954\">\n<header class=\"source\">\n<a href=\"https://twitter.com/tecmns/status/1332338390700797954\" rel=\"noopener nofollow ugc\" target=\"_blank\">twitter.com</a>\n</header>\n<article class=\"onebox-body\">\n<h4><a href=\"https://twitter.com/tecmns/status/1332338390700797954\" rel=\"noopener nofollow ugc\" target=\"_blank\">Token Engineering Commons</a></h4>\n<div class=\"twitter-screen-name\"><a href=\"https://twitter.com/tecmns/status/1332338390700797954\" rel=\"noopener nofollow ugc\" target=\"_blank\">@tecmns</a></div>\n<div class=\"tweet\">\n  ⚗️Don't miss our 1st TEC LAB starting in 1 hour!\n\n🧠 A knowledge sharing initiative with a kickoff session by @ygg_anderson sharing an intro to coding &amp; modeling tools\n\n☎ Join us in the TEC Discord General Voice channel in T-minus 60 minutes: https://t.co/rMJ3UXSFgR\n\n@cadcad_org\n</div>\n<div class=\"date\">\n<a class=\"timestamp\" href=\"https://twitter.com/tecmns/status/1332338390700797954\" rel=\"noopener nofollow ugc\" target=\"_blank\">07:00 - 27. Nov. 2020</a>\n<span class=\"like\">\n<svg aria-hidden=\"true\" height=\"16px\" viewbox=\"0 0 512 512\" width=\"14px\">\n<path d=\"M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z\"></path>\n</svg>\n      6\n    </span>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>In TEC labs 3 and 4, a different approach was taken in which YGG ‘drives’, under direction of experienced hatchers in order to initializing the workflow environment for modelling and visualizing the parameters for the upcoming  test TEC Hatch (TECH) parameters. This format will be continued for the first several labs of the new year as the test TECH approaches. The result of this series will be a collection of notebooks that display different TECH environments and scenarios based on the parameters chosen in the models. This will give hatchers a chance to see the impact of various parameters and even vote on which outcome they deem acceptible, and thus the parameters that they would like to see move forward for the hatch.</p>\n<p> <iframe allowfullscreen=\"\" frameborder=\"0\" height=\"360\" sandbox=\"allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation\" seamless=\"seamless\" src=\"https://www.youtube.com/embed/videoseries?list=PLusWL9gf0FISmLiW2iPykEW2k8PUrlbyC&amp;wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=1&amp;enablejsapi=1\" width=\"480\"></iframe>\n</p>\n<p>The root of the organization for the labs can be found here:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.notion.so/saa108/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"64\" src=\"https://www.notion.so/images/favicon.ico\" width=\"64\"/>\n<a href=\"https://www.notion.so/saa108/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_10x10.png\" height=\"362\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_690x362.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://www.notion.so/saa108/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n<p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p><strong>Expected duration or delivery date (if applicable):</strong><br/>\n<em>4-6 Months of Labs in 2021. (16-24 Labs), with the possibility of renewal.</em></p>\n<p><strong>How does this help Token Engineers and benefit the Token Engineering community?</strong><br/>\nBy participating together in this collaborative discovery of efficient, practical, and safe practices of token engineering, we get to influence the emerging standard tools and workflows of the token engineering commons. This is a great opportunity as well as a lot of responsibility. I think it is important that we carefully apply the TEC cultural practices to this endeavour. Labs serve a dual purpose, in addition to being educational, they are productive blocks in which real-world token engineering problems will be faced and solved by the community. A data archive in the form of notion pages, data sheets, github repos, and video recordings will serve future generations of token engineers to learn and build upon. The structure of the labs will evolve over time, increasing their relevance to the needs of the token engineering commons.</p>\n<h2>\n<a class=\"anchor\" href=\"#to-be-continued-3\" name=\"to-be-continued-3\"></a>To be continued…</h2>\n<p>Checkpointing this proposal as I am quite tired for the evening and want to make sure that it saves. I will continue to supply information on the team, funding, and how funds will be used soon. The budget that I have in mind is 15,000DAI-30,000DAI total, going primarily towards hosts, organizers, teaching assistants, and creative minds behind the lab. I’m really looking forward to forum discussions on this topic as I see the interactions of dynamic personalities being able to push the lab towards potentials that no one person can imagine. <img alt=\":rainbow:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rainbow.png?v=10\" title=\":rainbow:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-01-05T11:06:32Z",
+   "updated_at": "2021-01-05T11:06:32Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>this is gorgeous! would definitely contribute with Electric Circus / Game-based simulations 1-2 times. Keep up the great work <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a></p>\n<p>e.g. “Behind the Scenes of Impact Pirates” <a href=\"https://gitcoin.co/grants/1638/electric-circus-proudly-presents-impact-pirates\" rel=\"noopener nofollow ugc\">https://gitcoin.co/grants/1638/electric-circus-proudly-presents-impact-pirates</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-01-05T11:07:17Z",
+   "updated_at": "2021-01-05T11:07:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Oh, and definitely Fabian with “Interface to Moral Philosophy for Token Engineers” !!!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-06T08:07:22Z",
+   "updated_at": "2021-01-06T08:07:22Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>That’s great <a class=\"mention\" href=\"/u/solsista\">@Solsista</a></p>\n<p>I created 16 Lab Events in the calendar here:</p>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"64\" src=\"https://www.notion.so/images/favicon.ico\" width=\"64\"/>\n<a href=\"https://www.notion.so/saa108/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_10x10.png\" height=\"362\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_690x362.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_690x362.png, https://forum.tecommons.org/uploads/default/optimized/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5_2_1035x543.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/4dd0b2be99cf59931b5b7b3c0cd19fddfbe0e0f5.png 2x\" width=\"690\"/></div>\n<h3><a href=\"https://www.notion.so/saa108/Token-Engineering-Commons-Lab-c1c1f5dc4b40423cbc65bea6fd9df96f\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n<p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>This week is a new hatch params dev party, but nothing is booked past that point.</p>\n<p>I guess we need some sort of consensus mechanism for booking! So far, the role would be a kind of steward or, is the term ‘Champion’ I believe in the TEC community. Part of the funding I imagine. <a class=\"mention\" href=\"/u/liviade\">@liviade</a> is there a collection of role definitions in Ostrom’s textbook?  There may also be defenitions for groups of people such as a committee? A mentor who worked in the Government for several decades once told me “If you want to kill an idea, assign it to a committee”, what do you guys think about this? Alternatives to the committee? <a class=\"mention\" href=\"/u/tonga\">@Tonga</a> and <span class=\"mention\">@officialnico</span> have signaled interest in being committee members, but it has not been formalized.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Phil",
+   "name": null,
+   "created_at": "2021-01-06T17:07:39Z",
+   "updated_at": "2021-01-06T17:07:39Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Haha, great point about cadCAD at the turkey dinner xD<br/>\nor in my case a long Christmas dog walk with my dad… <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-06T18:25:29Z",
+   "updated_at": "2021-01-06T18:25:29Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Haha yes <a class=\"mention\" href=\"/u/phil\">@Phil</a> exactly! <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> It’s just sinking in how amazing a lab series on Game-based simulations would be as well as the Interface to Moral Philosophy lab!  My mind went straight to decentralized scheduling before. I think these are great ideas and would love to place them into the schedule. I guess we should start a kind of queue for potential labs and date ranges that work for them. I’ll make one in the notion page now.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-01-07T20:02:21Z",
+   "updated_at": "2021-01-07T20:02:21Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I volunteer <a class=\"mention\" href=\"/u/knobsdao\">@knobsDAO</a> to teach a lab or a few on his Octalysis motivation psychology process - would be really cool for anyone looking to increase community engagement – it’s a cool psychology/comms/community engagement process <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>\n<p>I’m also happy to join the labs team to help with promotion and community engagement and bringing in presenters/professors on different topics, or could teach something in my wheelhouse… will have a think &lt;3 Awesome work YGG!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-08T02:52:41Z",
+   "updated_at": "2021-01-08T02:52:41Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a>! Yes you and <a class=\"mention\" href=\"/u/liviade\">@liviade</a> have been awesome on the promotion, that’s super important! Octalysis motivation psychology process sounds so cool! I put you down as a contributor and popped <a class=\"mention\" href=\"/u/knobsdao\">@knobsDAO</a> in the queue <img alt=\":stuck_out_tongue:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/stuck_out_tongue.png?v=9\" title=\":stuck_out_tongue:\"/></p>\n<p>I’m sure you could do a whole series with your wheelhouse Jess, would love to see it  <img alt=\":grin:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grin.png?v=9\" title=\":grin:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-01-11T16:06:07Z",
+   "updated_at": "2021-01-11T16:06:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"201\" data-username=\"ygg_anderson\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/ygg_anderson/40/29_2.png\" width=\"20\"/> ygg_anderson:</div>\n<blockquote>\n<p>experienced hatchers in order to initializing the workflow environment for modelling and visualizing the parameters for the upcoming test TEC Hatch (TECH) parameters. This format will be continued for the first several labs of the new year as the test TECH approaches. The result of this series will be a collection of notebooks that display different TECH environments and scenarios based on the parameters chosen in the models. This will give hatchers a chance to see the impact of various parameters and even vote on which outcome they deem acceptible, and thus the parameters that they would like to see move forward for the hatch.</p>\n</blockquote>\n</aside>\n<p>Good question! There are mainly two roles in her descriptions.<br/>\n1- the provisioner, who provides resources to the CPR (common pool of resources)<br/>\n2- the appropriator, who has access to the available resources.<br/>\nAccording to her principles, the appropriators should design their operational rules and enforce them themselves by mutual monitoring and graduated sanctions. All with the overall objective of maintaining a sustainable and regenerative CPR - meaning the resources won’t come to an end.<br/>\nIn many cases, provisioners can also be appropriators. In our case, many of the TEC Hatchers (provisioners) are also going to submit proposals (appropriators).</p>\n<p>Perhaps for the Lab one person could be responsible for inviting others to host a session. And this role is rotative, like every two weeks the person inviting a host changes and there is a certain agreement about what is in the scope of the Lab. We do something similar for the TE Spotlight during the TEC Thursday calls, except <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> has been inviting most of the projects to present <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/> She always asks in the community stewards group if anyone has someone in mind to invite, and if everyone agrees with who she has in mind. It has been working well so far.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-01-11T18:58:01Z",
+   "updated_at": "2021-01-11T18:58:01Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/liviade\">@liviade</a>. This is good context to keep in mind as the labs progress.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260905021259",
+    "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306013558",
+   "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306013558",
+   "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260905021259",
+   "url": "https://forum.tecommons.org/t/tec-labs-production-team-funding/201"
+  }
+ ]
+}

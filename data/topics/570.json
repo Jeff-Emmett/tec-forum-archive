@@ -1,0 +1,184 @@
+{
+ "id": 570,
+ "title": "Reward System moving forward",
+ "slug": "reward-system-moving-forward",
+ "posts_count": 8,
+ "category_id": 28,
+ "total_known": true,
+ "archived_posts": 9,
+ "archived_numbers": 9,
+ "created_at": "2021-08-24T16:58:37Z",
+ "last_archived_post_at": "2021-09-17T20:23:07Z",
+ "captured_between": [
+  "2021-09-28T01:50:08Z",
+  "2022-01-24T03:46:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-08-24T16:58:37Z",
+   "updated_at": "2021-12-02T14:56:50Z",
+   "reply_to_post_number": null,
+   "like_count": 17,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#proposal-title-reward-system-moving-forward-1\" name=\"proposal-title-reward-system-moving-forward-1\"></a>Proposal Title : Reward System moving forward</h2>\n<ol>\n<li>\n<strong>Who is going to be affected by this proposal?</strong><br/>\nThe community in general, but specially the Stewards who have been dedicating so much to the Praise process</li>\n<li>\n<strong>Who are the experts of the proposed subject?</strong><br/>\n<a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/octopus\">@octopus</a> <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a> <a class=\"mention\" href=\"/u/vyvy-vi\">@Vyvy-vi</a> <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>\n</li>\n</ol>\n<p>Feel free to tag others that might also have a lot to say about this proposal <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/> and a HUGE thank you to <a class=\"mention\" href=\"/u/octopus\">@octopus</a> who helped so much and offered such great solutions to improve praise and implement frequent analysis and to <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> who offered the Labs space to develop this implementation!</p>\n<h3>\n<a class=\"anchor\" href=\"#description-2\" name=\"description-2\"></a>Description:</h3>\n<p>The Praise data analysis that happened a couple of months ago showed us many routes for improving Praise. The quantification and analysis processes were two main points that needed improvement, and the interoperability with SourceCred is a desired addition that has been discussed for a while. This proposal is a first step to move forward, considering that other more complex improvements can be proposed in the future when the results from the Reward System’s research group from the Governauts will be available.</p>\n<p><strong>Problem</strong></p>\n<ul>\n<li>\n<p>Quantification process is time consuming</p>\n</li>\n<li>\n<p>Only a few people were volunteering to do it</p>\n</li>\n<li>\n<p>Data set was dirty and the data analysis was looking into one year of data.</p>\n</li>\n<li>\n<p>Praise and SourceCred are rewarding similar things</p>\n</li>\n</ul>\n<p><strong>Proposed solution</strong></p>\n<ul>\n<li>Quantification process being partially asynchronous</li>\n<li>Have one short meeting to chat about questions and reflections of the async process</li>\n<li>Having a brief report, analysis and distribution every 2 weeks</li>\n<li>Distribute it via Reward DAO (the one we’ve been using for SourceCred) in TEC tokens</li>\n<li>Limit Praise to tasks that aren’t rewarded by SourceCred</li>\n<li>Implement Alexandra - the bot that records the time people spent in a discord call, developed by Johann Saurez from LTF</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#proposal-details-3\" name=\"proposal-details-3\"></a>Proposal Details</h3>\n<p>Steps required for Praise:</p>\n<ol>\n<li>\n<p>Take the csv file of all praises (which is already being generated)</p>\n</li>\n<li>\n<p>Load the csv file in Python</p>\n</li>\n<li>\n<p>Write to new csv files or separate sheets in an Excel file</p>\n</li>\n<li>\n<p>Automatically push to GitHub or post on Google Docs</p>\n</li>\n<li>\n<p>Create a list that randomly assigns sheets to a set of judges (to minimize correlation of similar judges who think alike)</p>\n</li>\n</ol>\n<ul>\n<li>The same sheet would be handed to 2 or 3 people so we continue having the average as the final result, instead of just one person deciding the value of one praise.</li>\n</ul>\n<ol start=\"6\">\n<li>\n<p>Pull the finished sheets back into a single document</p>\n</li>\n<li>\n<p>Auto generate Gini Coefficient, Histograms, or the metrics we find useful.</p>\n</li>\n<li>\n<p>Have a call to discuss the analysis and the quantification process - This will bring us cultural insights and help us find problems and strengths in early stages.</p>\n</li>\n<li>\n<p>Write a brief report to add transparency. (it can be the notes of this call being published)</p>\n</li>\n<li>\n<p>No deductions will be made in the final data like we had for paid contributors.</p>\n</li>\n</ol>\n<p>This model will distribute the work among multiple people and minimize the time each person spends on quantification. It means we’ll need 10 to 15 people to be quantifiers. <strong>This is a role that can be compensated by the Commons.</strong></p>\n<p>The compensation amount should be discussed, but it can be part of the Reward Proposal that needs to be templated to be sent to the DAO on a frequent basis - maybe every 2 or 3 months.</p>\n<p>This can be a role taken by people who want to get more involved in the community since praise is a good informative of what happens and what is valued. We should aim for cultural diversity in the group of quantifiers, as well as experience diversity, some older members mixed with newer ones.</p>\n<h3>\n<a class=\"anchor\" href=\"#interoperability-with-sourcecred-and-alexandra-4\" name=\"interoperability-with-sourcecred-and-alexandra-4\"></a><strong>Interoperability with SourceCred and Alexandra</strong>\n</h3>\n<ul>\n<li>\n<a href=\"https://commonsbuild.github.io/tec-sourcecred/#/explorer\">SourceCred</a> is<a href=\"https://forum.tecommons.org/t/sourcecred-in-the-tec/270\"> currently capturing</a> Github and Discourse contributions.</li>\n<li>Praise captures a multitude of subjective and objective contributions.</li>\n<li>Alexandra hasn’t been implemented yet, but it captures time spent in calls.</li>\n</ul>\n<p>Integrating these 3 tools should mean that the scope of Praise is reduced. We’ll need cultural guidelines and training to get there, but it will be incredibly valuable for us, reducing even more the admin time spent in quantifications, and shaping Praise to be an even better tool for subjective contributions.</p>\n<h3>\n<a class=\"anchor\" href=\"#rewards-distribution-5\" name=\"rewards-distribution-5\"></a><strong>Rewards Distribution</strong>\n</h3>\n<p>I propose we use the<a href=\"https://aragon.1hive.org/#/tecdrops/\"> Reward DAO</a> instance we’ve been using for SourceCred to send praise and SourceCred rewards to all the contributors.</p>\n<p>The DAO will only have these 2 functions plus sending compensation to the Quantifiers. It will be managed by the <a href=\"https://forum.tecommons.org/t/sourcecred-committee-proposal/271\">SourceCred Committee</a>, which will become the Reward System Committee.</p>\n<ul>\n<li>Every 2 or 3 months a proposal is submitted to the TEC by a committee member requesting funds to the Reward DAO</li>\n<li>It’s interesting we use TEC tokens to empower our economy, so a designated member of the committee would swap wxDAI for TEC tokens</li>\n<li>Every 2 weeks, after the quantification, rewards are sent in TEC tokens to the contributors from the Reward DAO</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#what-value-will-this-provide-for-the-te-community-commons-and-ecosystem-6\" name=\"what-value-will-this-provide-for-the-te-community-commons-and-ecosystem-6\"></a>What value will this provide for the TE community, commons and ecosystem?*</h3>\n<ol>\n<li>\n<p>A continuous stream of funding for all TEC collaborators</p>\n</li>\n<li>\n<p>Quantifiers could work on their own schedule, as long as they were finished by a predetermined time.</p>\n</li>\n<li>\n<p>There would be less social influence of Quantifiers on each other and no “doctoring” of numbers possible,</p>\n</li>\n<li>\n<p>Analysis would be instant and frequent.</p>\n</li>\n<li>\n<p>Data driven cultural insights will be constantly available.</p>\n</li>\n<li>\n<p>Tool interoperability will be tested</p>\n</li>\n<li>\n<p>Rewards will bring movement to the TEC token economy and people contributing work will have a governance voice as well.</p>\n</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#expected-duration-or-delivery-date-7\" name=\"expected-duration-or-delivery-date-7\"></a>Expected duration or delivery date</h3>\n<p>6 weeks optimistically <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/></p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h3>\n<p>SOFT GOV wg, LABS wg, LTF team support</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-08-26T02:53:54Z",
+   "updated_at": "2021-08-26T02:53:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/liviade\">@liviade</a> very cool and in-depth proposal. Super cool. I have skimmed and will take some time to review deeper.</p>\n<p>Can you remind me if there is an estimated start date to this research series? Or does that depend upon proposal outcomes? Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-28T22:10:31Z",
+   "updated_at": "2021-08-28T22:10:31Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I hope we can try to have some dry runs before the commons upgrade! in the end , we can’t do it for real until the Commons Upgrade since the Rewards DAO has no funding right now! But we should have a few practice rounds before it goes live anyway.</p>\n<p>A couple thoughts.</p>\n<ol>\n<li>\n<p>We should explicitly add Twitter to the list, similar to Alexandra and SourceCred, it is already quantifiable data and then Praise will only cover qualitative data.</p>\n</li>\n<li>\n<p>Instead of passing out the same sheet to multiple people… I would suggest we randomly generate the praise sheets for each person, excluding the praise that was dished to them.</p>\n</li>\n<li>\n<p>Some thought needs to be put into how we take the scores given and allocate tokens based on them. We were doing a straight average % for each praises score and then deciding on a total amount of IH given and distributing it evenly across the praises based on their score. There are a million ways to do this tho… do we give relative amounts of TEC to each bucket? Do we rank people each week and then just distribute on a curve? Too many choices honestly. Im happy to have this critical detail evolve over time and the people in the review committee openly tweak it… but curious to know where we will start from.</p>\n</li>\n<li>\n<p>I think we should do a thought exercise and run thru the full process. Let’s pretend we just got 20,000 wxDai from the TEC to pass out via the reward system for the next 3 months. What steps would happen to go from there to people getting TEC in their wallet.</p>\n</li>\n<li>\n<p><a class=\"mention\" href=\"/u/krisj\">@krisj</a> and <span class=\"mention\">@rdfbbx</span> are working on Praise for Commons Stack too and i bet they would love to be more involved in this process. Along with Dan Yinesi and Maria, the Trusted Seed Gardeners.</p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "KZFlyer",
+   "name": null,
+   "created_at": "2021-08-30T03:51:49Z",
+   "updated_at": "2021-08-30T03:51:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"3\" data-topic=\"570\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>I think we should do a thought exercise and run thru the full process. Let’s pretend we just got 20,000 wxDai from the TEC to pass out via the reward system for the next 3 months. What steps would happen to go from there to people getting TEC in their wallet.</p>\n</blockquote>\n</aside>\n<p>Could we run a test with TestDai and/or one of the TESTTECH/TESTTEC tokens that were used to prepare for the hatch?</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"570\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>Quantifiers could work on their own schedule, as long as they were finished by a predetermined time.</p>\n</blockquote>\n</aside>\n<p>This will definitely get more people involved, including me. Sign me up. <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-09-01T00:48:28Z",
+   "updated_at": "2021-09-01T00:48:28Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think it can just be a thought exercise… a step by step list of what has to happen but no need to demo it… just write it down</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-09-01T08:35:24Z",
+   "updated_at": "2021-09-01T08:35:24Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I dig it.</p>\n<p>The decentralizing of any work down to some collaborative effort is primo for cutting out the chances of a single point of failure (not that the person is a failure but rather the lack of having coverage when life happens would be considered as such)</p>\n<p>I’m also not going to rebel against the use of sourcecred, in fact I’m quite biased. I’ve been dogfooding it and I know it works to reward labor.</p>\n<p>Putting on my trusted seed hat now…</p>\n<p>With that said I would not use an instance configured in the same manner as sourcecred (the algorithm I’m in) is now for the commons.</p>\n<p>I wouldn’t necessarily model our weight configurations and might want to see if new minds looking at it might be able to come up with new ways (socially) to use/ configure (weights) discord channels.</p>\n<p>Because I think this needs mindful support I would gather the opinions of people who have seen it in action and have had to decolonize a bit under the hood of it. Names that come to mind would be considered stewards to the highest degree despite whether they are actively developing the sourcecred product now. (These are all people whose integrity I value and whose opinion I trust)</p>\n<p>I’m not volunteering any of these people but I do want to name them because they have been tremendously integral to the past and or present of sourcecreds development…also this is my 1st post so I can only mention 2 people.</p>\n<p><strong>Lineage (historians)</strong></p>\n<ul>\n<li>\n<a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> <a class=\"mention\" href=\"/u/s_ben\">@s_ben</a>, LBS</li>\n</ul>\n<p>While these two burrrata, beanow<br/>\nare inactive as far as I can tell, and I’ve never met them, I have scoured our forums and taken in hours upon hours of thier opinions. (which often challenge the capitalistic norms <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\"/>) They’re gold. And from what I read it was not uncommon for them to be undervalued. <img alt=\":face_with_monocle:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/face_with_monocle.png?v=9\" title=\":face_with_monocle:\"/> Can’t speak to thier desires but I would value thier input.</p>\n<p><strong>Modern day</strong></p>\n<ul>\n<li>backend wizards: thena, topocount, hz</li>\n<li>METADREAMER <img alt=\":octopus:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/octopus.png?v=9\" title=\":octopus:\"/>, wchargin</li>\n<li>Community Weavers: ryeder, harold</li>\n</ul>\n<p>I personally would want the tec-cred instance tailored to fit the Commons Culture. The values and the vision are a part of the architectural design and it will show when people are engaging with it.<br/>\nThe intentions you set will influence the behavior you will get.</p>\n<blockquote>\n<p>I know it exists but has it been tailored to fit our needs?</p>\n</blockquote>\n<p>I guess I’m basically saying I would recommend 60-90 minutes with some seasoned lab rats to brain spar on the configuration before I would be an awwwwwww heck yes!</p>\n<p>You can take an instance bare bones and the limit to what you can do with it is your imagination. I’d be really curious what could come of passionate folx gathering to consider the architecture. For the sake of the common stack I think it would be legit to have an intentionally tailored out of the box altruistic tool. I believe it is very close to being just that.</p>\n<p>When I heard about the Token Engineering Commons And I started learning about it I could tell that science happens here. That folx are eager to experiment…and ready to throw stuff out if it doesn’t work. Iterating towards change is a personal passion of mine. I live it out daily.</p>\n<p>There hasn’t been an intentional modern day iteration on sourcecred from the vantage of “okay so now we see how we’re behaving/relating…do we wanna change the product at all based on how it’s affecting us?” That’s a thing I’m quite curious about.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "kristoferlund",
+   "name": null,
+   "created_at": "2021-09-08T14:15:10Z",
+   "updated_at": "2021-09-08T14:15:10Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Me and <a class=\"mention\" href=\"/u/liviade\">@liviade</a> just ran a modelling session going through the proposal. We created this overview that can be used as a starting point for more detailed discussion about the different parts, how they connect and interact.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/18fc4da099c460bb633d6c53dd90d984f4e2016f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/18fc4da099c460bb633d6c53dd90d984f4e2016f.jpeg\" title=\"Rewards System\"><img alt=\"Rewards System\" data-base62-sha1=\"3z211jINyzWGICIcbwHxVmzqvYb\" height=\"355\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/18fc4da099c460bb633d6c53dd90d984f4e2016f_2_690x355.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/18fc4da099c460bb633d6c53dd90d984f4e2016f_2_690x355.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/18fc4da099c460bb633d6c53dd90d984f4e2016f_2_1035x532.jpeg 1.5x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Rewards System</span><span class=\"informations\">5573×2870 510 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Miro board here: <a class=\"inline-onebox\" href=\"https://miro.com/app/board/o9J_lyTkWjY=/\" rel=\"noopener nofollow ugc\">Miro | Online Whiteboard for Visual Collaboration</a></p>\n<p>We’ll try to schedule a session in a larger group the coming week.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-09-09T19:41:14Z",
+   "updated_at": "2021-09-09T19:41:14Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Notes from the proposal debate we just had <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<ul>\n<li>hope twitter continues to be rewarded</li>\n<li>all the quantitative data will be recorded</li>\n<li>analyzing the data and qualitative inputs</li>\n<li>How do we decide the quantifiers? It’s important they have the ability to adjust and tweak things</li>\n<li>paying the quantifiers is cool</li>\n<li>praise could stand alone</li>\n<li>SC is a great incentive alignment tool but it lacks qualitative precision</li>\n<li>it could bring unnecessary conflict in the future</li>\n<li>we need to set up and go</li>\n<li>the most important is having mutual monitoring and transparency</li>\n<li>Twitter could be under SourceCred Yay!</li>\n<li>There is a new feature in SourceCred that can read data from an API - It’s called the “external plugin”</li>\n<li>having everything in the same umbrella would be cool</li>\n<li>concerns of qualitative vs quantitative aspects of the system</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "blazingthirdeye",
+   "name": null,
+   "created_at": "2021-09-17T20:23:07Z",
+   "updated_at": "2021-09-17T20:23:07Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thank you to all the commenters so far.</p>\n<p>I have seen Sourcecred get successfully used at 1Hive.  I support using SourceCred here at the TEC, supplemented with praise.</p>\n<p>My feelings are not strong on this matter so I generally will support the majority community view here.</p>\n<p>We must not let the perfect be the enemy of the good.  I echo the ‘Set up and Go idea.’  Praise got this community this far.  Therefore why not set a time-limited window for experimenting with adding SourceCred.  In 30 days we will remove the Sourcecred instance unless community consensus instructs us to keep using SourceCred and/or tweak the weightings.</p>\n<p>The point is that it becomes a safe finite limited space in which to experiment.  If it goes totally sideways we have already agreed on ditching it at the 30 day mark.  Only action by the community can keep the SC going after 30 days.  It auto-expires.</p>\n<p>Just my thoughts.  Thanks.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220124034648",
+    "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210928015008",
+   "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928015008",
+   "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220124034648",
+   "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220124034648",
+   "url": "https://forum.tecommons.org/t/reward-system-moving-forward/570"
+  }
+ ]
+}

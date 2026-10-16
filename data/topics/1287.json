@@ -1,0 +1,332 @@
+{
+ "id": 1287,
+ "title": "4 Month TE Data Science Fellowship",
+ "slug": "4-month-te-data-science-fellowship",
+ "category_id": 28,
+ "tags": [
+  "tao-voting"
+ ],
+ "posts_count": 17,
+ "created_at": "2023-09-09T03:00:23.951Z",
+ "last_posted_at": "2023-10-05T00:22:17.598Z",
+ "total_known": true,
+ "archived_posts": 18,
+ "archived_numbers": 18,
+ "last_archived_post_at": "2023-10-05T00:22:17Z",
+ "captured_between": [
+  "2023-10-02T21:08:19Z",
+  "2024-02-29T11:43:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-09T03:00:24Z",
+   "updated_at": "2023-09-18T19:46:24Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#h-4-month-te-data-science-fellowship-1\" name=\"h-4-month-te-data-science-fellowship-1\"></a>4 Month TE Data Science Fellowship</h1>\n<p>Duration: September, October, November, December 2023<br/>\nLead: YGG @ TEC</p>\n<p>This is a full time role description. (40 hours per week)</p>\n<ul>\n<li>24 hours per week billable hours: active research, development, presentations, coordination</li>\n<li>16 hours per week auxillary work: passive research, readings, architecting, slow thinking, synthesis</li>\n</ul>\n<p>YGG has been active in this role since June 2023 which has been funded directly by <a class=\"mention\" href=\"/u/griff\">@Griff</a> with the intention of moving the position into a TEC funded role like this. Praise <a class=\"mention\" href=\"/u/griff\">@Griff</a> for having the generosity and trust to support me in such a way <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/> <img alt=\":pray:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=12\" title=\":pray:\" width=\"20\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#supporting-tec-initiatives-2\" name=\"supporting-tec-initiatives-2\"></a>Supporting TEC Initiatives</h2>\n<p>During this engagement, YGG will participate in TEC team meetings, sprint planning, community calls, and advice process. YGG will be a voice of leadership in the community. YGG will produce data science oriented software assets as token engineering public goods. YGG will support the TEC Coordination team, TEC Advisory network, and TEC work streams like BCRG and TESS.</p>\n<h2>\n<a class=\"anchor\" href=\"#work-priorities-3\" name=\"work-priorities-3\"></a>Work Priorities</h2>\n<h3>\n<a class=\"anchor\" href=\"#tier-1-4\" name=\"tier-1-4\"></a>Tier 1:</h3>\n<ul>\n<li>Ongoing support for QF Grant Rounds</li>\n<li>Development of TEC Tunable QF Product with TEC Coordination Team</li>\n<li>Researching FPG Frameworks in the context of TEC <a href=\"https://scholar.harvard.edu/files/hitzig/files/buterin_hitzig_weyl_draft.pdf\" rel=\"noopener nofollow ugc\">Read more here</a>\n</li>\n<li>Scoping TEC incubation processes for expanding funding beyond QF</li>\n<li>Supporting the OP migration</li>\n<li>Supporting BCRG and TESS</li>\n<li>Contributing to TEC advice process</li>\n<li>Promoting TEC Community Growth</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#tier-2-5\" name=\"tier-2-5\"></a>Tier 2:</h3>\n<ul>\n<li>\n<p>Conviction Voting Analysis - This is a high priority but being deferred until the common pool reaches ingress requirements.</p>\n</li>\n<li>\n<p>Scoping TEC Reputation Economy - An area of interest with TEC Advisory Network.</p>\n</li>\n<li>\n<p>Data analysis on community advice process using Pol.is - An area of interest with TEC Advisory Network</p>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#agreement-6\" name=\"agreement-6\"></a>Agreement</h2>\n<h4>\n<a class=\"anchor\" href=\"#offer-7\" name=\"offer-7\"></a>Offer:</h4>\n<p>YGG will be present at TEC. Full time for 4 months with 2 weeks of flex vacation time. 24 hours billable time per week, for 14 weeks.</p>\n<p><strong>24 * 14 = 336 Hours.</strong></p>\n<h4>\n<a class=\"anchor\" href=\"#funding-request-8\" name=\"funding-request-8\"></a>Funding request:</h4>\n<p>$4700WXDAI/month for 4 months</p>\n<p><strong>$4700 x 4 = $18800WXDAI Total Funding</strong></p>\n<p><strong>$18800 / 336 = $55.95WXDAI / hour.</strong></p>\n<p>The above calculus describes a 4 month engagement of work commitment from YGG to TEC and includes 2 weeks flex paid vacation time.</p>\n<h2>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-9\" name=\"how-will-these-funds-be-used-9\"></a>How will these funds be used?</h2>\n<ul>\n<li>Data science in the domain of Token Engineering</li>\n<li>Software Product Development with TEC Coordination Team</li>\n<li>Advice Process at TEC</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#what-does-success-look-like-10\" name=\"what-does-success-look-like-10\"></a>What Does Success Look Like?</h2>\n<ul>\n<li>The TEC Launches The Tunable QF Application Q4 2023</li>\n<li>Tunable QF becomes a flagship product associated with TEC</li>\n<li>Tunable QF is adopted by the industry as a way to further refine the effectiveness and efficiency of public goods funding</li>\n</ul>\n<p>Trackable metrics:</p>\n<ul>\n<li>Number of git commits on the Alloha repository</li>\n<li>Reception of the Sept 27th community call where this work is being presented</li>\n<li>Satisfaction of the TEC Coordination team that is using this tool to aid in their facilitation of quadratic funding</li>\n<li>Feedback from the Gitcoin Product Team as well as Gitcoin research team.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-11\" name=\"how-will-you-share-progress-11\"></a>How will you share progress?</h2>\n<p>Work is shared weekly on Thursdays 9amPST in the TEC QF Product agile development meeting. This meeting is facilitated by <a class=\"mention\" href=\"/u/enti\">@enti</a> and myself as an agile development session for TEC QF data analysis and product development.</p>\n<p>Work is tracked by the TEC coordination team in the weekly sprint planning, sprint retrospective, and TEC Team meetings.</p>\n<p>Work will be presented on September 27th in the TEC Community Call.</p>\n<p>Research results and product development are posted publicly on github here:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/CommonsBuild\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsBuild\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"120\" src=\"https://avatars.githubusercontent.com/u/72481541?s=280&amp;v=4\" width=\"120\"/>\n<h3><a href=\"https://github.com/CommonsBuild\" rel=\"noopener nofollow ugc\" target=\"_blank\">Token Engineering Commons</a></h3>\n<p>Advancing Token Engineering. Token Engineering Commons has 51 repositories available. Follow their code on GitHub.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h2>\n<a class=\"anchor\" href=\"#team-information-12\" name=\"team-information-12\"></a>Team Information</h2>\n<p>I’ve been tracking my meetings for June, July and August. This the structure of my team.</p>\n<p><img alt=\"\" height=\"282\" role=\"presentation\" src=\"https://lh4.googleusercontent.com/Ta4Ix84uaNX8aruwr6Es5B2Mr1y1GNDRwSEzzYfn6vOg0FEi34jrWtiNORL2SGU6SEKbj88Ia0FYbvGR_fqh4C3aE2T4ytn1hd1fpb9r6KbOK4k9Qnz-nJdEcHyyulwhC6tjCvHdlPCiPFI-5oRBJ4w\" width=\"523\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#relevance-to-tec-mission-vision-and-values-13\" name=\"relevance-to-tec-mission-vision-and-values-13\"></a>Relevance to TEC Mission, Vision, and Values</h2>\n<ul>\n<li>Applying data science in a token engineering context towards the TEC’s investments into quadratic funding, SME signal boosting, and other TE Public Goods funding methods such as CV and Bonding Curves.</li>\n<li>Exploring and relating foundational theories of funding public goods (FPG) in the context of TEC and Token Engineering Public Goods (TEPG).</li>\n<li>Supporting TEC Token Team in the engineering lifecycle of TEC Token Infrastructure and products.</li>\n<li>Supporting the TEC Coordination team.</li>\n<li>Supporting the TEC General Advisory Network</li>\n<li>Supporting TE initiatives like BCRG, TESS, and Optimism Deployment of TE Infrastructure</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#affected-stakeholders-14\" name=\"affected-stakeholders-14\"></a>Affected Stakeholders</h2>\n<ul>\n<li>TEC Community Members</li>\n<li>TE Community members engaging with Quadratic Funding</li>\n<li>TE Subject Matter Experts that vote in Quadratic Funding</li>\n<li>Any organization engaging with Quadratic Funding that would like to use the TEC Tunable QF tool or integrate the research results</li>\n<li>TEC Team Working on QF Product at TEC</li>\n<li>Future TEC fellows that may adopt this template for engagement.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#expert-advisors-15\" name=\"expert-advisors-15\"></a>Expert Advisors</h2>\n<ul>\n<li>\n<a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> ,  <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> , <a class=\"mention\" href=\"/u/rex\">@rex</a> ,  <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> , <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> , <a class=\"mention\" href=\"/u/octopus\">@octopus</a> , <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> , <a class=\"mention\" href=\"/u/griff\">@Griff</a>\n</li>\n<li>TEC Coordination Team</li>\n<li>Giveth Galaxy</li>\n<li>Gitcoin Ecosystem</li>\n<li>Optimism Network</li>\n<li>TEC General Advisory Network</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#proposal-type-16\" name=\"proposal-type-16\"></a>Proposal Type</h2>\n<p>Tao Voting</p>\n<p>This proposal is authored by YGG and has integrated advice from TEC General Advisory Network.</p>\n<p>The TE Fellowship at TEC concept was originally proposed by <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a></p>\n<h2>\n<a class=\"anchor\" href=\"#screenshots-of-work-already-done-june-july-august-17\" name=\"screenshots-of-work-already-done-june-july-august-17\"></a>Screenshots of Work Already Done (June, July, August)</h2>\n<p>The following is preliminary results from early QF analysis and product development with YGG and the TEC Coordination team.</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://github.com/CommonsBuild/alloha\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/CommonsBuild/alloha\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" height=\"345\" src=\"https://opengraph.githubassets.com/df2861bf2bbbbdd9d24389dcfd199411bdc7c2ae6ddb1fdc5e2e29103852231b/CommonsBuild/alloha\" width=\"690\"/></div>\n<h3><a href=\"https://github.com/CommonsBuild/alloha\" rel=\"noopener nofollow ugc\" target=\"_blank\">GitHub - CommonsBuild/alloha: Processing for the TE grants round based on the...</a></h3>\n<p>Processing for the TE grants round based on the Gitcoin Allo protocol - GitHub - CommonsBuild/alloha: Processing for the TE grants round based on the Gitcoin Allo protocol</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>Donations Network Analysis</p>\n<p><img alt=\"\" height=\"500\" role=\"presentation\" src=\"https://lh3.googleusercontent.com/nUcXyV3c2-oHYMWuJCKf-NoCblC8nGcuD4rk0rOJARavrOXmXDBfZ70Ij4h8VfnPS2N4IyqYB3Vv3luqu9G9SBF2TpDY2m26IyGl58ELMjgnY2rQFnzesnnFeVTqyTDz42OJUoCT8BtelXkZ2aYXyuA\" width=\"500\"/></p>\n<p>TEC QF Tuning Environment:</p>\n<p><img alt=\"\" height=\"379\" role=\"presentation\" src=\"https://lh4.googleusercontent.com/JXmTqAkuUGtLSl1afTUP5o7fBnrVlXbD3m_60ob_NmRo--gEyiD6xS9hBK4a6VZzr90TB6sm0SXwUqMH_PNtGD-dFKCueigdTY1ks1AzV8MLog4J89HCRde_68NsqeJf6mAZIOXrQLoCvV_dbfzxObU\" width=\"624\"/></p>\n<p>TEC QF Signal Boosting Environment:</p>\n<p><img alt=\"\" height=\"309\" role=\"presentation\" src=\"https://lh6.googleusercontent.com/5KQq48wv5snFWWDkwp_xJZ2tKV1w_dWuzxXX8FYgsI2pyQi66CyVH89eIdulwvxiaT-joaT9gWN1OIAE3JBRQxXf10CAifDHtexFHe_Tdnc3H_9MsFjlP7-WSJqr9gwkT7gZR8cSNRiU-9Je92RubIU\" width=\"508\"/></p>\n<p>FDFPG Data Science Environment. The following is generated data based off of the FDFPG framework.</p>\n<p>Concave, Smooth, Increasing value functions between every citizen and every public good.</p>\n<p><img alt=\"\" height=\"381\" role=\"presentation\" src=\"https://lh6.googleusercontent.com/CyJ8y0XcI1S3fSrfcKKz2uue2jzmwnXZCKIwM-IV8jy4LtFX-mpTg4msCx0MWzHbFY7l2Q7ZaqOBQqtGWdeSZthudaqL2LpMwGlMQHAOiS5O3W-CKBosHfoiCEtFDPfVv5e2GSUVPz6z0tZY2-Rm-7U\" width=\"624\"/></p>\n<p>Optimal Funding as Optimizing Collective Marginal Utility</p>\n<p><img alt=\"\" height=\"268\" role=\"presentation\" src=\"https://lh3.googleusercontent.com/3AWlulhtY82eFeRb0Adx3JUfz8-LPxfigSUP4rJNuWHqh5YyRRYHRnSrHrzr_Ru-ZnCCCOHR_3FYTvwaVaC0vTn4y3GELkK5zSk2aMUOZZxNd50EBUmb04nYMjyOkkD6dDifRdpnou2A28uQiR-Sviw\" width=\"624\"/></p>\n<p>Computing the suboptimality of Private Contribution Funding Mechanism</p>\n<p><img alt=\"\" height=\"268\" role=\"presentation\" src=\"https://lh3.googleusercontent.com/bR9Jiq-3sW8kvsLUqEYAwXYHPACMmDgrYa6kqaX8nwQIp0BSLRq40wWS2sHyyrpyrLUIuGuJs-lDD401uJyn0oSFAPPIqsCaYtwAC1kidh6fB9DMI99iRcvAHc9BUw9J09eHw2tH4gETZDVLZRY6WCU\" width=\"624\"/></p>\n<p>Computing the suboptimality of 1 Person 1 Vote Funding Mechanism</p>\n<p><img alt=\"\" height=\"268\" role=\"presentation\" src=\"https://lh6.googleusercontent.com/grH3hLxYoZhKj21j-kpB_mHy2NrTfUVnSdTegMllNDuwAnkk6ZUhj22sdK-11o-iOpvKl4gAFVcjKUtTrgG_1eFQoNMAEarGUsC_fZNgFY5WYBbS9cbArE8oDocs-SkQJRkwGolGyq93jEUp32E6NhA\" width=\"624\"/></p>\n<p>The contributions matrix C. Showing the amount that citizen i donates to public good p.</p>\n<p><img alt=\"\" height=\"500\" role=\"presentation\" src=\"https://lh6.googleusercontent.com/xi0C_Z7owM5-cFrRZV8sYnaMgdaJXZhsDwOlcRSKbAwo9P_FpmUM4RDIr-RqL6z1uOC6jINcE_c6x1-DbLIZYXJZajhF7eMf3V2str-z3Ptnh8RdWKihTh6Kg8G-Gmd08V9S0zPiqruQ0dSuCCzQmX8\" width=\"500\"/></p>\n<p>The Value Matrix V(F). Computing the Value to Citizens given Public Goods Funding Level F</p>\n<p><img alt=\"\" height=\"483\" role=\"presentation\" src=\"https://lh3.googleusercontent.com/UbTvAFsWUJWcR1to_AHlaABz1Mz4J8oN6VAyPLSM4061vpGc4JLmKbZkdhJBro8x1hFuIVtkMsF9gVynDrG03N8yNitkSQn0_7sZsEz8gc8utIexbbdluG6jlGJynaCjJX1uN5S7Ys5ypYqVwcdsK80\" width=\"624\"/></p>\n<p>Thank you for considering this proposal. If you have feedback, comments or questions, please post in the forum below or contact me on discord.  Blessings! <img alt=\":sparkles:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/sparkles.png?v=12\" title=\":sparkles:\" width=\"20\"/> <img alt=\":dragon:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/dragon.png?v=12\" title=\":dragon:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "blockboy",
+   "name": null,
+   "created_at": "2023-09-09T03:45:47Z",
+   "updated_at": "2023-09-09T03:45:47Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>just read through it, all of it sounds good, I would love to see that network analysis or that value function interface you built(seems like it could be a pretty cool deliverable for a client). My only feedback is with the what success looks like. I think its hard to attribute one person to the growth of an economy, I see all the factors you listed and I think in general they definitely will contribute, its just hard to track. I think if you said bring in $XXX revenue, grow by ### contributors, for example, then it would be like oh okay he is bringing value into the system and expanding the potential workforce, plus it would be easier to track your individual success to those vs tracking to something os macro. like randomly having 10x price growth from some meme or -5x from some external factor you couldnt control.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-11T16:34:42Z",
+   "updated_at": "2023-09-11T16:34:42Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I like the idea of breaking down more trackable success metrics. I’ll integrate that feedback into the proposal. Thanks <a class=\"mention\" href=\"/u/blockboy\">@blockboy</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "octopus",
+   "name": null,
+   "created_at": "2023-09-14T01:02:05Z",
+   "updated_at": "2023-09-14T01:02:05Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I really like this proposal.  Like <a class=\"mention\" href=\"/u/blockboy\">@blockboy</a> , I don’t think that TEC token price is the best metric for the value of this engagement.</p>\n<p>It seems to me that most of the results and work are primarily being shared internally. I understand that the Commons needs to be distinct from the Public (this is one of Ostrom’s Principles( – but, would it be possible to incorporate a strategy where the calls and products are actively being disseminated and promoted on appropriate public channels? I think a lot of value accrues to the TEC  through making the work done in this community more widely known, and I think it would be awesome to have a plan for that at the outset of this position.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "mel.eth",
+   "name": null,
+   "created_at": "2023-09-15T20:44:06Z",
+   "updated_at": "2023-09-15T20:44:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Appreciate your impressive work here <a class=\"mention\" href=\"/u/blockboy\">@blockboy</a> and <a class=\"mention\" href=\"/u/griff\">@Griff</a> for pushing value where it needs to go. What advice toward those aspiring to the role would you give wrt prior knowledge/skills required? The work sounds interesting and I would gladly ‘do’ it, but I’m left wondering if I’d be qualified; and if not, how to remedy. Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-18T19:12:45Z",
+   "updated_at": "2023-09-18T19:12:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi Mel. Good to know that you are interested in a similar role. Personally, I have MSc. in computing science with a specialization in big data, this is the specific credential that has most prepared me for this kind of role. Here is the program that I completed: <a class=\"inline-onebox\" href=\"https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/about-the-program/big-data.html\" rel=\"noopener nofollow ugc\">MSc. in Professional Computer Science (Big Data) - Master of Science in Professional Computer Science - Simon Fraser University</a></p>\n<p>Generally, the background is computing science and math. Studying machine learning provides a very relevant background for this kind of work. Andrew Ng’s class on ML is a very classic program to go through to learn the foundations of machine learning. In such a class, you will learn intimately about calculus, linear algebra, and statistics, and how they can be used to create learning systems. These are the foundations of data science.</p>\n<p>Others might come with different backgrounds and propose alternative TE fellowships. I think anyone coming from the field of engineering will have valuable skills to add.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-18T19:41:21Z",
+   "updated_at": "2023-09-18T19:41:21Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Here is an update to this section with respect to the Tunable QF product.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-1\" name=\"what-does-success-look-like-1\"></a>What Does Success Look Like?</h3>\n<ul>\n<li>The TEC Launches The Tunable QF Application Q4 2023</li>\n<li>Tunable QF becomes a flagship product associated with TEC</li>\n<li>Tunable QF is adopted by the industry as a way to further refine the effectiveness and efficiency of public goods funding</li>\n</ul>\n<p>Trackable metrics:</p>\n<ul>\n<li>Number of git commits on the Alloha repository</li>\n<li>Reception of the Sept 27th community call where this work is being presented</li>\n<li>Satisfaction of the TEC Coordination team that is using this tool to aid in their facilitation of quadratic funding</li>\n<li>Feedback from the Gitcoin Product Team as well as Gitcoin research team.</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-18T19:44:11Z",
+   "updated_at": "2023-09-18T19:44:11Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I think this is a good point about disseminating the work as it is being produced.</p>\n<p>There will be a showcase of this work on the September 27th TEC community call.</p>\n<p>I think it would make sense to have perhaps monthly public updates on this kind of work.</p>\n<p>I invite <a class=\"mention\" href=\"/u/enti\">@enti</a> and <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> to consider how we can expand the format for public updates on the direction of work like this.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "blockboy",
+   "name": null,
+   "created_at": "2023-09-19T00:22:27Z",
+   "updated_at": "2023-09-19T00:22:27Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey I am curious will the Tunable QF have funding for other contributors? asking for a friend <img alt=\":wink:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=12\" title=\":wink:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-19T17:13:05Z",
+   "updated_at": "2023-09-19T17:13:05Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I really like this question.</p>\n<p>Where is tunable QF going? Is it going to become a widely adopted application that becomes standard procedure across the QF toolchain? Or is it going to be a niche tool that is used by the TEC to facilitate their QF procedure?</p>\n<p>There is a spectrum between lean, light, minimum product, and a widely adopted, maintained and supported application that is adopted cross industry. The former case calls for what we have now, basically a single developer, but the ladder case calls for a development and support team with a significant budget and probably requires a revenue model or continuous funding model.</p>\n<p>We are currently in mode A - single developer mode. But I would love to see this project expand into a kind of mode B - dedicated development and support team. Mode B would require wider funding. So it raises the question of what kind of funding strategies exist for the development of this tool. There might be enough QF rounds to hit that could support a wider development team.</p>\n<p>I think this project has a higher potential in relation to a multi developer team. I know that <a class=\"mention\" href=\"/u/octopus\">@octopus</a> is interested in contributing to this work as well. There are however risks involved with taking the leap into major development. Time, energy, and funds need to be wisely allocated.</p>\n<p>TEC Coordination team is currently working on a “QF Explorations Charter” Document which is exploring some of these concepts. As that document becomes more refined (this week), I’ll be sure to link to it to inform this discussion.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "blockboy",
+   "name": null,
+   "created_at": "2023-09-19T23:31:52Z",
+   "updated_at": "2023-09-19T23:31:52Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Right now the Quantitative Token Model that our team is working on (that was funded by the TEC QF round) is set up with one full time funded contributor by OV then a pool of money to be allocated to part time contributors like me. I think this could be an interesting model that you could deploy. It lets you commit to developing your vision while also being able to tap into support/expertise if you need. Might need to be a separate forum post but at least for us that has been a good model to have one fully funded visionary/PM to help offload the overhead of an individual contributor that wants to float in and contribute.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-09-20T16:05:27Z",
+   "updated_at": "2023-09-20T16:05:27Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I think that’s a very appealing model for this kind of project. Thanks for describing that, it will definitely influence my thinking as this project continues to be scoped. I’ll try to get back to you with more specifics in the next few days.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "blockboy",
+   "name": null,
+   "created_at": "2023-09-20T17:00:08Z",
+   "updated_at": "2023-09-20T17:00:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Of course, and I am not just trying to shill this for myself(I might not even have the time to support). For the sake of the success of the project the model has been helpful for us, I am sure a variation of it could be beneficial to you.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-10-03T17:49:03Z",
+   "updated_at": "2023-10-03T17:49:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Update: This proposal has passed.</p>\n<p>I’ll be working on this project for the remainder of the year.</p>\n<p>The current state of development can be found in this demonstration from the Sept 27th TEC Community Call: <a href=\"https://youtu.be/zRInR_xVpOQ?si=l14TskwJCGm-BJ5b&amp;t=529\" rel=\"noopener nofollow ugc\">https://youtu.be/zRInR_xVpOQ?si=l14TskwJCGm-BJ5b&amp;t=529</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "gene",
+   "name": null,
+   "created_at": "2023-10-03T18:49:03Z",
+   "updated_at": "2023-10-03T18:49:03Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Delighted for you and the community, YGG. This pilot TE Fellowship you have devised will serve as a fascinating model for how new, cognitively rigorous roles might be developed and implemented within the TEC. The breakdown of what you are working on from the community call was amazing, and the whole of the Commons stands to benefit tremendously from the nuanced insights you are teasing out of the data. Really excited to absorb some of those learnings/teachings in the updates to come and see how we can maximize the reach of Tunable QF collectively. Congrats on being the first official TE Fellow! =D</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-10-04T22:46:37Z",
+   "updated_at": "2023-10-04T22:46:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you <a class=\"mention\" href=\"/u/gene\">@gene</a> <a class=\"mention\" href=\"/u/blockboy\">@blockboy</a> <a class=\"mention\" href=\"/u/mel.eth\">@mel.eth</a> <a class=\"mention\" href=\"/u/octopus\">@octopus</a> For your thoughtful comments and to the TEC community that has supported this proposal. I’m happy to see this research process move forward.</p>\n<p>I would like to give a special thanks to feedback and advisory from the TECAN and TEC Coordination team who have been providing consistent support to get to this point. And the various mentors in the space that have breadcrumbed this work.</p>\n<p>I’ll continue to post additional updates over the following months as this initiative evolves.</p>\n<p>As per <a class=\"mention\" href=\"/u/blockboy\">@blockboy</a>’s comment above, I like the idea of flexible budgets alongside persistent research roles. Consider a simple TE Intern Pool, a lean budget like $4KUSD / month and funds 1-3 interns at a time that work at a specified rate and log hours each. A support team for a research project like this. This might make for a good TEQF application or it might be something that could be funded through TAO voting directly. This could potentially be milestone based, and the TESS initiative has an excellent  model of such an algorithm that is used for milestone budgeting, authored by <a class=\"mention\" href=\"/u/danlessa\">@danlessa</a> .</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-10-04T23:44:50Z",
+   "updated_at": "2023-10-04T23:44:50Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>For transparency, here is the TAO vote on gardens. <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/33\" rel=\"noopener nofollow ugc\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "blockboy",
+   "name": null,
+   "created_at": "2023-10-05T00:22:17Z",
+   "updated_at": "2023-10-05T00:22:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I am not trying to over scope this, but also if there is a need to maintain a dynamic pool of talent, I have been investigating this hats tool: <a href=\"https://www.hatsprotocol.xyz/\" rel=\"noopener nofollow ugc\">https://www.hatsprotocol.xyz/</a>  and I think it could be very helpful for onboarding a new person onto a bunch of different tools without needing an admin for each to have to give permissions. Not sure if there is a need for this, but could be helpful if so. Just a thought.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229114351",
+    "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20231002210819",
+   "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002210819",
+   "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229114351",
+   "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229114351",
+   "url": "https://forum.tecommons.org/t/4-month-te-data-science-fellowship/1287"
+  }
+ ]
+}

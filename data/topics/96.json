@@ -1,0 +1,125 @@
+{
+ "id": 96,
+ "title": "🌈 Welcome to the TEC category",
+ "slug": "welcome-to-the-tec-category",
+ "category_id": 12,
+ "posts_count": 2,
+ "created_at": "2021-01-01T23:00:00.000Z",
+ "views": 3406,
+ "last_posted_at": "2021-10-20T10:25:45.992Z",
+ "highest_post_number": 5,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 1,
+ "archived_numbers": 5,
+ "last_archived_post_at": "2021-10-20T10:25:45Z",
+ "captured_between": [
+  "2021-03-03T02:58:09Z",
+  "2026-02-13T08:00:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-01-01T23:00:00Z",
+   "updated_at": "2021-10-20T10:32:52Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=10\" title=\":partying_face:\"/> <strong>Welcome to the Token Engineering Commons</strong> - we are so happy <strong>you</strong> are here! <img alt=\":sparkling_heart:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sparkling_heart.png?v=10\" title=\":sparkling_heart:\"/></p>\n<p><img alt=\":ticket:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ticket.png?v=10\" title=\":ticket:\"/> Here you can learn <strong>everything you need to know about our community</strong>:</p>\n<p><img alt=\":sparkles:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sparkles.png?v=10\" title=\":sparkles:\"/> <strong><a href=\"https://forum.tecommons.org/t/what-is-the-tec/97/6\">What is the TEC?</a></strong> - Get to know our vision, values, mission &amp; work of the TEC<br/>\n<img alt=\":key:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/key.png?v=10\" title=\":key:\"/> <strong><a href=\"https://forum.tecommons.org/t/how-to-join-contribute/98/8\">How to Join &amp; Contribute</a></strong> - What to do &amp;  about our working groups<br/>\n<img alt=\":moneybag:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/moneybag.png?v=10\" title=\":moneybag:\"/> <a href=\"https://forum.tecommons.org/t/how-to-get-hatch-tokens/113\"><strong>About TEC Tokens</strong></a> - The TEC rewards system &amp; how to get TEC &amp; CSTK<br/>\n<img alt=\":money_with_wings:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/money_with_wings.png?v=10\" title=\":money_with_wings:\"/> <a href=\"https://forum.tecommons.org/t/submit-a-proposal-for-funding/102/4\"><strong>Submit a proposal for Funding</strong></a> - Get funds for your TE project<br/>\n<img alt=\":hatching_chick:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/hatching_chick.png?v=10\" title=\":hatching_chick:\"/> <a href=\"https://forum.tecommons.org/t/tec-hatch-and-commons-upgrade/101/4\"><strong>TEC Hatch and Commons Upgrade</strong></a> - Check where we are at our journey towards a Commons.<br/>\n<img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=10\" title=\":books:\"/> <a href=\"https://forum.tecommons.org/t/glossary-of-terms/114/4\"><strong>Glossary of Terms</strong></a> - Learn more about the terms used here</p>\n<p><a href=\"https://token-engineering-commons.gitbook.io/tec-source/\">We also have a library of resources that you can find here.</a></p>\n<p>We hope this small guide serves you well and we invite you to come and say hello on our <a href=\"https://discord.gg/trEBaY5\">Discord</a> or <a href=\"https://t.me/tecommons\">Telegram</a> channels.</p>\n<p>We also host <strong>Community Calls on Thursdays, 9am PST / 20 CET on our Discord General Voice channel</strong>. Add it to your <a href=\"https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba\">calendar here</a>.</p>\n<p>See you around!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260213080050",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-02T21:13:04Z",
+   "updated_at": "2020-12-02T21:13:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210303025809",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-02T21:13:10Z",
+   "updated_at": "2020-12-02T21:13:10Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210303025809",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-01-25T22:19:25Z",
+   "updated_at": "2021-01-25T22:19:25Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210303025809",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-10-20T10:25:45Z",
+   "updated_at": "2021-10-20T10:25:45Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260213080050",
+    "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303025809",
+   "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319080641",
+   "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260213080050",
+   "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260213080050",
+   "url": "https://forum.tecommons.org/t/welcome-to-the-tec-category/96"
+  }
+ ]
+}

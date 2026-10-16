@@ -1,0 +1,153 @@
+{
+ "id": 232,
+ "title": "How we choose the Hatch parameters",
+ "slug": "how-we-choose-the-hatch-parameters",
+ "posts_count": 6,
+ "category_id": 18,
+ "created_at": "2021-01-27T14:08:05.080Z",
+ "last_posted_at": "2021-02-22T15:35:25.049Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2021-02-22T15:35:25Z",
+ "captured_between": [
+  "2021-03-06T01:30:07Z",
+  "2021-09-28T01:15:43Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2021-01-27T14:08:05Z",
+   "updated_at": "2021-07-05T14:38:49Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/be2c08dcd7532f2b89d5abad5d9642d9558562a3\" href=\"https://forum.tecommons.org/uploads/default/original/1X/be2c08dcd7532f2b89d5abad5d9642d9558562a3.jpeg\" title=\"\"><img alt=\"\" data-base62-sha1=\"r8l3UDZBC8AgbvVDGEMTZJv1nGj\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/be2c08dcd7532f2b89d5abad5d9642d9558562a3_2_10x10.png\" height=\"244\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/be2c08dcd7532f2b89d5abad5d9642d9558562a3_2_244x244.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/be2c08dcd7532f2b89d5abad5d9642d9558562a3_2_244x244.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/be2c08dcd7532f2b89d5abad5d9642d9558562a3_2_366x366.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/be2c08dcd7532f2b89d5abad5d9642d9558562a3_2_488x488.jpeg 2x\" width=\"244\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1080×1080 319 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>\n<p>So we have come to it.</p>\n<p>The TEC Test Hatch DAO was launched and we have a <a href=\"https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226\">full implementation specification</a> for it, confirming what parameters and permissions need to be determined by the community to complete the Hatch.</p>\n<p><a href=\"https://github.com/LinuxIsCool\">@YGG</a> has been leading the effort to create a beautiful cadCAD model to make it easy for anyone (even non-devs) to choose their own Hatch Params holistically, and understand the impact their choices will have.</p>\n<p><a href=\"https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188/9\">Tokenlog</a> from <a href=\"https://twitter.com/wslyvh\">@Wslyv</a> is ready for us to play with and will allow us to vote on the various parameters proposed by the community.</p>\n<p>The main pieces are in place, but the devil is in the details. We need to formally decide exactly how the Hatch Params will be chosen.</p>\n<h2>The Hatch Param Proposal Submission Process</h2>\n<ol>\n<li>\n<p>We will create videos and forum posts explaining this process in detail.</p>\n</li>\n<li>\n<p>We will have a website that uses our cadCAD model to enable you, whether you are a dev or a non-technical user to choose the design Parameters for the TEC Hatch DAO.</p>\n</li>\n<li>\n<p>Once you are happy with your parameters, you would make an issue in this Github at this <a href=\"https://github.com/TECommons/Token-Log-Hatch-Params\">Github repo</a> with a link to the output of your design. You will want to explain your choices in the github issue.</p>\n</li>\n<li>\n<p>Once you have made your issue you will want to make note of it in a <a href=\"https://forum.tecommons.org/c/Defi-legos-and-how-they-work-together/tk-log-params/21\">dedicated Forum thread</a> for further discussion.</p>\n</li>\n</ol>\n<p>What will these <a href=\"https://www.youtube.com/watch?v=jrOGGOh-A_Q\">cadCAD models</a> look like?  Here is a sneak peak of the visualization of what it will take to pass a proposal using Dandelion Voting:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/a06b01482cba656d45cd97474172ba6942281e95\" href=\"https://forum.tecommons.org/uploads/default/original/1X/a06b01482cba656d45cd97474172ba6942281e95.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"mT7ErZtVGe47v6kCPAddG6B0DXv\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/a06b01482cba656d45cd97474172ba6942281e95_2_10x10.png\" height=\"232\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/a06b01482cba656d45cd97474172ba6942281e95_2_624x232.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/a06b01482cba656d45cd97474172ba6942281e95_2_624x232.png, https://forum.tecommons.org/uploads/default/optimized/1X/a06b01482cba656d45cd97474172ba6942281e95_2_936x348.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/a06b01482cba656d45cd97474172ba6942281e95.png 2x\" width=\"624\"/><div class=\"meta\"><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1184×441 45.4 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div>\n<h2>Voting on the various proposed Hatch Params</h2>\n<ol>\n<li>\n<p>As a community, we will support <a href=\"https://twitter.com/wslyvh\">@Wslyv</a> in improving <a href=\"https://forum.tecommons.org/t/tokenlog-token-weighted-backlog/188/9\">Tokenlog</a> for our usecase. He has already made several improvements, for more details check out: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/tokenlog-for-the-prime-time-vote/230\">Tokenlog for the Prime Time Vote</a></p>\n</li>\n<li>\n<p>Any one that has earned CSTK tokens or Impact Hours will be able to vote on the Token Log Repo.</p>\n</li>\n<li>\n<p>Voting power will be split 50% to CSTK Holders and 50% to Impact Hours</p>\n</li>\n<li>\n<p>Voting will be quadratic, as in, to allocate more voting power to your favorite set of Parameters it will take more tokens.</p>\n</li>\n<li>\n<p>Once everything is set on the cultural and technical sides, A date and time will be chosen by the Community Stewards and the set of parameters with the most votes at moment will be the Parameters we use.</p>\n</li>\n</ol>\n<h3>How does this sound? How can we improve this process?</h3>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": null,
+   "created_at": "2021-02-07T18:42:49Z",
+   "updated_at": "2021-02-07T18:42:49Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>In The Hatch Param Proposal Submission Process, is <span class=\"hashtag\">#4</span> - making a forum post necessary? I think the github issue itself might be a better place for dialougue on the proposal.</p>\n<p>The comments sections on GitHub issues are 🪙 🪙 🪙</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-02-17T17:02:12Z",
+   "updated_at": "2021-02-17T17:02:12Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I would agree, there is no reason to REQUIRE an individual forum post, as the github issue is the forum post… and ideally all discussion about the individual merit of the stand alone proposal should happen in the github issue.</p>\n<p>But! For the Voters, there will be a forum thread to discuss the various parameter proposals…</p>\n<p>In that thread, the voters can discuss their choices and compare and contrast the various proposals against each other. This would be harder to do within the individual discussions in github. The dream is that this forum thread will be where people can discuss their favorite sets of parameters, and it is in the best interest of the designer to promote their proposal to the community of voters in this thread.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-02-17T17:05:32Z",
+   "updated_at": "2021-02-17T17:05:32Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>BTW… its starting to look really good <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"237\" src=\"https://forum.tecommons.org/uploads/default/original/1X/57522c5093ffcc4d4ece5727bf8a6d6c0c787801.jpeg\" width=\"235\"/>\n<a href=\"https://tec-hatch-demo.herokuapp.com/app\" rel=\"noopener\" target=\"_blank\">tec-hatch-demo.herokuapp.com</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail\" height=\"\" src=\"\" width=\"\"/>\n<h3><a href=\"https://tec-hatch-demo.herokuapp.com/app\" rel=\"noopener\" target=\"_blank\">TEC Hatch Dashboard</a></h3>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>(Give it a few moments to load)</p>\n<p>Lots of issues being worked on, but Jake, YGG, Vitor, and Fabio are killing it!</p>\n<p>Here they are:<br/>\n</p><aside class=\"onebox githubfolder\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://github.githubassets.com/favicons/favicon.svg\" width=\"32\"/>\n<a href=\"https://github.com/TECommons/Token-Log-Hatch-Params/issues\" rel=\"noopener\" target=\"_blank\">github.com</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:400/400;\"><img class=\"thumbnail\" height=\"400\" src=\"https://avatars.githubusercontent.com/u/72481541?s=400&amp;amp;v=4\" width=\"400\"/></div>\n<h3><a href=\"https://github.com/TECommons/Token-Log-Hatch-Params/issues\" rel=\"noopener\" target=\"_blank\">TECommons/Token-Log-Hatch-Params</a></h3>\n<p><a href=\"https://github.com/TECommons/Token-Log-Hatch-Params/issues\" rel=\"noopener\" target=\"_blank\">s</a></p>\n<p><span class=\"label1\">Contribute to TECommons/Token-Log-Hatch-Params development by creating an account on GitHub.</span></p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-02-17T21:52:26Z",
+   "updated_at": "2021-02-17T21:52:26Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-max=\"1\" data-poll-min=\"1\" data-poll-name=\"poll\" data-poll-public=\"true\" data-poll-results=\"on_vote\" data-poll-status=\"open\" data-poll-type=\"multiple\">\n<div>\n<div class=\"poll-container\">\n<div class=\"poll-title\">Do you support the proposed strategy above to choose our Hatch Parameters?</div>\n<ul>\n<li data-poll-option-id=\"40d488461f1b54785826a62d9daa6183\">Yes <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/>\n</li>\n<li data-poll-option-id=\"c558988366698cf6990db661a16fb6ba\">No <img alt=\":expressionless:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/expressionless.png?v=9\" title=\":expressionless:\"/>\n</li>\n<li data-poll-option-id=\"7cfd61ea0a4d9cab29de847a741b8070\">Block <img alt=\":no_entry_sign:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/no_entry_sign.png?v=9\" title=\":no_entry_sign:\"/>\n</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-02-22T13:39:03Z",
+   "updated_at": "2021-02-22T13:39:03Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Yeah!! Unanimous! <img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=9\" title=\":partying_face:\"/> <img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=9\" title=\":partying_face:\"/> <img alt=\":partying_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=9\" title=\":partying_face:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-02-22T15:35:25Z",
+   "updated_at": "2021-02-22T15:35:25Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>the voting session is closed and this proposal was approved <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/><br/>\n</p><aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">TEC soft gov decision tracking</a></h3>\n<p>Sheet1\n\nproposal title ,date,yes votes,neutral votes,block votes,result,proposal link \nDecision Making Process,Aug 28,4,1,0,approved,&lt;a...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210928011543",
+    "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210306013007",
+   "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210306013007",
+   "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928011543",
+   "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928011543",
+   "url": "https://forum.tecommons.org/t/how-we-choose-the-hatch-parameters/232"
+  }
+ ]
+}

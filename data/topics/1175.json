@@ -1,0 +1,114 @@
+{
+ "id": 1175,
+ "title": "Stewards and Working Group Learnings",
+ "slug": "stewards-and-working-group-learnings",
+ "category_id": 5,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2022-11-17T00:49:53Z",
+ "last_archived_post_at": "2023-06-25T09:09:16Z",
+ "captured_between": [
+  "2022-11-26T22:43:48Z",
+  "2023-10-02T21:21:40Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-17T00:49:53Z",
+   "updated_at": "2022-11-28T18:44:14Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<p>Last Friday we had a <a href=\"https://miro.com/app/board/uXjVO63ZPGE=/\">session</a> with the stewards alumni group and working group participants to reflect on a few topics and draw learnings to our processes moving forward.<br/>\nWe covered 2 areas in this session: participatory decision making, transparency/ accountability and stewardship. We should still cover: contributor management/doocracy, celebration culture, inclusion/boundaries and economic management.</p>\n<p>Here is the digest of the participatory decision making topic:</p>\n<h2>\n<a class=\"anchor\" href=\"#positive-points-of-participatory-decision-making-1\" name=\"positive-points-of-participatory-decision-making-1\"></a>Positive points of participatory decision making:</h2>\n<ul>\n<li>\n<p><strong>Collaborative economics</strong></p>\n<ul>\n<li>Everyone was encouraged to participate at any level of the process</li>\n<li>Historic to have a whole community understand about ABC and CV and TV</li>\n<li>Fun and interactive education</li>\n<li>There was space for all voices to be heard</li>\n</ul>\n</li>\n<li>\n<p><strong>Decision making culture</strong></p>\n<ul>\n<li>Great voter turnout for big decisions</li>\n<li>Space was held for ideas, dialogues and debates</li>\n<li>Compromising solutions for divergent proposals</li>\n<li>Decision making transparency</li>\n</ul>\n</li>\n<li>\n<p><strong>Tools and processes</strong></p>\n<ul>\n<li>Tokenlog is a great tool</li>\n<li>The forum is a central and accessible place for discussion</li>\n<li>Polycentric governance model is comprehensive</li>\n<li>Experimentation with voting mechanisms</li>\n</ul>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#negative-points-of-participatory-decision-making-2\" name=\"negative-points-of-participatory-decision-making-2\"></a>Negative points of participatory decision making:</h2>\n<ul>\n<li>\n<p><strong>Advice Process</strong></p>\n<ul>\n<li>Confusion on how to use it</li>\n<li>It was used to achieve consensus which is not its purpose</li>\n</ul>\n</li>\n<li>\n<p><strong>Voter Apathy</strong></p>\n<ul>\n<li>We didn’t explore the idea of delegated voting so much</li>\n<li>No input from important members in the TE ecosystem</li>\n<li>Lack of whales engagement</li>\n<li>As the TEC was growing it was harder for folks on the fringe to feel like they had the power to participate</li>\n</ul>\n</li>\n<li>\n<p><strong>Quality of governance</strong></p>\n<ul>\n<li>Sometimes, not enough was shared for less active community members to have an informed opinion</li>\n<li>Decision-making was often left to individuals without clarity on paths forward despite Advice Process.</li>\n<li>Tokens with financial and governance power.</li>\n<li>No quadratic voting favors whales</li>\n</ul>\n</li>\n<li>\n<p><strong>Gardens</strong></p>\n<ul>\n<li>Conviction Voting didn’t work well for treasury management</li>\n<li>Tech issues with Gardens</li>\n<li>Gardens is not intuitive</li>\n</ul>\n</li>\n<li>\n<p><strong>Accountability</strong></p>\n<ul>\n<li>Too many dependencies on others during tasks lead to conflict/non-productive outcomes.</li>\n<li>No established process to follow up on proposals</li>\n</ul>\n</li>\n<li>\n<p><strong>Working groups</strong></p>\n<ul>\n<li>Fragmented decision making across working groups</li>\n<li>Inefficient working group treasury management</li>\n</ul>\n</li>\n<li>\n<p><strong>Polycentric governance</strong></p>\n<ul>\n<li>Too complicated gov process</li>\n<li>many decisions about decisions - which shows lack of clarity about the gov process</li>\n<li>Lack of governance rituals</li>\n</ul>\n</li>\n</ul>\n<p><strong>Conclusion</strong></p>\n<p>Education and ritual are successful ways to include and engage community members in governance, leveraging the quality of proposals, decisions and sense of belonging. Collaborative Economics was the most successful governance experiment in the TEC.<br/>\nHaving too many ways to make a decision can be confusing and paralyzing. Advice Process encounters a cultural block on divergence. Small groups tend to look for consensus and end up creating bureaucracies and blockers when different opinions arise.</p>\n<p>Conviction Voting didn’t work as expected in the TEC, mainly because the volume of proposals and the TEC’s funding capacity wasn’t large enough. Basically all proposals passed. Depending on Celeste to block proposals that someone disagrees with is too radical and costly, so we had no clear ways to measure negative signals.</p>\n<p>The lack of boundaries and communication about who is leading an initiative contributes for many people to get involved in small projects which creates unnecessary dependencies. The experiment of having working groups as semi independent entities wasn’t very successful because it siloed accountability and governance from the core community, despite the presence of open spaces dedicated to updates and community sync.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002212140",
+    "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-30T20:52:57Z",
+   "updated_at": "2022-11-30T21:22:08Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#positive-points-of-stewardship-1\" name=\"positive-points-of-stewardship-1\"></a>Positive points of stewardship</h2>\n<ul>\n<li>\n<p><strong>Valued aligned</strong></p>\n<ul>\n<li>Stewards felt like family</li>\n<li>Mutual support for personal development</li>\n<li>Friendship, admiration and great collaboration with one another</li>\n<li>Nomination ceremonies were heart felt</li>\n</ul>\n</li>\n<li>\n<p><strong>Coordination</strong></p>\n<ul>\n<li>Scrum events like the retrospective opened effective space for reflection and integration of what was and wasn’t working.</li>\n<li>Great way to coordinate towards a shared vision</li>\n<li>The community had consistent guidance</li>\n<li>Great coordination before scaling</li>\n<li>Stewardship structure created accountability</li>\n<li>A lot of work was accomplished</li>\n</ul>\n</li>\n<li>\n<p><strong>Servant leadership</strong></p>\n<ul>\n<li>Stewardship was a humbling exercise</li>\n<li>Servant leadership was modeled well by most stewards</li>\n<li>People were present and rising up to the occasion</li>\n</ul>\n</li>\n<li>\n<p><strong>Learnings</strong></p>\n<ul>\n<li>Many developed leadership skills</li>\n<li>Dashboard development and Collaborative Economics were a great source of learning</li>\n<li>The Steward structure enabled expertise and education to be present within community decision-making.</li>\n<li>The group became a reference for complex problems</li>\n<li>Many of the challenges faced had no guidebooks</li>\n</ul>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#negative-points-of-stewardship-2\" name=\"negative-points-of-stewardship-2\"></a>Negative Points of stewardship</h2>\n<ul>\n<li>\n<p><strong>Steward-centric</strong></p>\n<ul>\n<li>Power concentrated within the stewards group</li>\n<li>Inner focused instead of outfacing to the large TE community</li>\n<li>The work from stewards became the most visible</li>\n<li>Echo chamber</li>\n<li>Complacency</li>\n<li>Some stewards expressed feeling uncomfortable to share dissenting opinions</li>\n</ul>\n</li>\n<li>\n<p><strong>Expertise</strong></p>\n<ul>\n<li>Some Stewards had limited experience managing budgets and work streams and would have benefitted from more support from a more experienced person helping them.</li>\n<li>Not enough token engineering expertise in stewards and wg’s</li>\n</ul>\n</li>\n<li>\n<p><strong>Working Groups</strong></p>\n<ul>\n<li>Often meetings weren’t well prepared</li>\n<li>Not enough collaboration between working groups</li>\n<li>Lack of dynamism</li>\n<li>Challenges on funding and budget management</li>\n</ul>\n</li>\n<li>\n<p><strong>Accountability</strong></p>\n<ul>\n<li>working groups went beyond their manifestos without recurring updates</li>\n<li>​​Lack of accountability to the community, stakeholders, and mission.</li>\n</ul>\n</li>\n<li>\n<p><strong>Burnout</strong></p>\n<ul>\n<li>Stewards accumulated a lot of responsibilities</li>\n<li>Meetings, coordination and work overload</li>\n<li>Contributors tend to think they are contributing more than others</li>\n<li>Too much work spread between too few people</li>\n</ul>\n</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#conclusion-3\" name=\"conclusion-3\"></a>Conclusion</h2>\n<p>Having a focused group like the stewards was a powerful bonding experience that moved a lot of work in the TEC forward. The gratitude culture, sense of belonging and mutual support were greatly impacted by the stewardship structure. The TEC developed a resilient culture and promoted impactful initiatives to the community due to the engagement of the stewards.<br/>\nFeedback loops like the retrospective sessions were also essential for the organization’s evolution and health. Community members felt generally welcomed and guided.</p>\n<p>The challenge of having strong bonds in a small group is the tendency to group thinking with an internal focus. The dynamics that arise from these collaborations can become complex and easily entrapping. Having community stewards or a smaller group of coordinators can be extremely efficient and beneficial if the mission of the DAO is in the first plane, together with a commitment of decentralization and inclusion. A more formal structure for subject matter experts could have helped when stewards didn’t feel confident on certain areas.</p>\n<p>Sharing and promoting the governance framework often, having peer to peer feedback rituals, focusing on proposing solutions and supporting a sense of agency to all members can balance the negative effects of this structure.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002212140",
+    "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "kicimab756",
+   "name": null,
+   "created_at": "2023-06-21T11:25:11Z",
+   "updated_at": "2023-06-21T11:25:11Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>hi, are you planning to host again?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002212140",
+    "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "kicimab756",
+   "name": null,
+   "created_at": "2023-06-25T09:09:16Z",
+   "updated_at": "2023-06-25T09:09:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>If yes<a href=\"https://kodi.software/\" rel=\"noopener nofollow ugc\">,</a> my fiance and I would love to join your server. <img alt=\":heart_eyes:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/heart_eyes.png?v=12\" title=\":heart_eyes:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20231002212140",
+    "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221126224348",
+   "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126224348",
+   "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401012253",
+   "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401012253",
+   "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002212140",
+   "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231002212140",
+   "url": "https://forum.tecommons.org/t/stewards-and-working-group-learnings/1175"
+  }
+ ]
+}

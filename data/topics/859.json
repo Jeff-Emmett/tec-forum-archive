@@ -1,0 +1,99 @@
+{
+ "id": 859,
+ "title": "Gitcoin Donations - What should we do with them?",
+ "slug": "gitcoin-donations-what-should-we-do-with-them",
+ "category_id": 28,
+ "tags": [
+  "advice-process",
+  "cultural-proposal",
+  "governance"
+ ],
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2022-02-04T01:53:02Z",
+ "last_archived_post_at": "2022-03-17T19:42:54Z",
+ "captured_between": [
+  "2022-05-20T06:19:45Z",
+  "2022-05-20T06:19:45Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-04T01:53:02Z",
+   "updated_at": "2022-02-04T02:03:58Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#dyk-the-tec-is-on-gitcoin-grants-1\" name=\"dyk-the-tec-is-on-gitcoin-grants-1\"></a>DYK The TEC is on Gitcoin Grants?</h2>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://gitcoin.co/grants/1155/token-engineering-commons\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"32\" src=\"https://forum.tecommons.org/uploads/default/original/1X/31a031bb73e19e5212e343fa643c2caac8a0e334.png\" width=\"32\"/>\n<a href=\"https://gitcoin.co/grants/1155/token-engineering-commons\" rel=\"noopener\" target=\"_blank\">Token Engineering Commons | Grants</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/189;\"><img class=\"thumbnail\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/7152ace18b408d4326c2102a4143aef14c7df258_2_10x10.png\" height=\"189\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/7152ace18b408d4326c2102a4143aef14c7df258_2_690x189.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/7152ace18b408d4326c2102a4143aef14c7df258_2_690x189.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/7152ace18b408d4326c2102a4143aef14c7df258_2_1035x283.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/7152ace18b408d4326c2102a4143aef14c7df258_2_1380x378.jpeg 2x\" width=\"690\"/></div>\n<h3><a href=\"https://gitcoin.co/grants/1155/token-engineering-commons\" rel=\"noopener\" target=\"_blank\">Token Engineering Commons | Grants</a></h3>\n<p>GR12\n2021.12.01 UPDATE\n\nTEC’s mission is to become the focal point for token engineering by funding the development of proposals that seek to create open source tools &amp; research, educational material, and token engineering narratives that advance...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<h2>\n<a class=\"anchor\" href=\"#dyk-the-tec-has-over-13khttpsetherscanioaddress0x6868738d8e1e38e4bd2eb601262453d626d9648c-sitting-in-a-key-griff-controls-2\" name=\"dyk-the-tec-has-over-13khttpsetherscanioaddress0x6868738d8e1e38e4bd2eb601262453d626d9648c-sitting-in-a-key-griff-controls-2\"></a>DYK The TEC has over <a href=\"https://etherscan.io/address/0x6868738d8e1e38e4bd2eb601262453d626d9648c\">$13k</a> sitting in a key Griff controls!?</h2>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/f004d0164a86ef2032bffba9b2e41f1e0e846f7f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/f004d0164a86ef2032bffba9b2e41f1e0e846f7f.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"yfiU4oK2Zu8XiNKXW20URwrcMxN\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f004d0164a86ef2032bffba9b2e41f1e0e846f7f_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f004d0164a86ef2032bffba9b2e41f1e0e846f7f_2_488x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f004d0164a86ef2032bffba9b2e41f1e0e846f7f_2_488x500.png, https://forum.tecommons.org/uploads/default/original/1X/f004d0164a86ef2032bffba9b2e41f1e0e846f7f.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/f004d0164a86ef2032bffba9b2e41f1e0e846f7f.png 2x\" width=\"488\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">627×642 135 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h1>\n<a class=\"anchor\" href=\"#what-should-we-do-with-it-3\" name=\"what-should-we-do-with-it-3\"></a>What should we do with it?</h1>\n<h3>\n<a class=\"anchor\" href=\"#here-are-the-options-i-see-4\" name=\"here-are-the-options-i-see-4\"></a>Here are the options I see:</h3>\n<p><strong>Option 1:</strong> Convert it all to WXDAI and  it to Lasertag to use it to LP later.</p>\n<p><strong>Option 2:</strong> Convert the DAI and small amounts to WXDAI and leave the PAN and ETH as is and send it to Lasertag to use it to LP later.</p>\n<p><strong>Option 3:</strong> Convert it to WXDAI and send it to a Common Pool.</p>\n<p><strong>Option 4:</strong> Convert it to WXDAI then to TEC and send it to the Reward Board.</p>\n<p><strong>Option 5:</strong> Let it rot.</p>\n<p><strong>Option 6:</strong> Griff sells it and runs to Mexico and throws an EPIC party with Chuy during the TheDAOists conference in early March (my top pick)</p>\n<p>Any other ideas?</p>\n<p>I would love to do ranked choice voting via snapshot to decide this, that way I can legitimately vote for Option 6… and Tweet it!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520061945",
+    "url": "https://forum.tecommons.org/t/gitcoin-donations-what-should-we-do-with-them/859"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-04T13:15:06Z",
+   "updated_at": "2022-02-04T13:15:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>what about bring people to bcn for eth barcelona <img alt=\":relaxed:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/relaxed.png?v=10\" title=\":relaxed:\"/> many options seem nice enough</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520061945",
+    "url": "https://forum.tecommons.org/t/gitcoin-donations-what-should-we-do-with-them/859"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2022-02-04T18:52:41Z",
+   "updated_at": "2022-02-04T18:52:41Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Option 7: Embezzle and party in BCN!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520061945",
+    "url": "https://forum.tecommons.org/t/gitcoin-donations-what-should-we-do-with-them/859"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-03-17T19:42:54Z",
+   "updated_at": "2022-03-17T19:42:54Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/griff\">@Griff</a> can you edit option 6 to be up to date with the snapshot description please? <img alt=\":pray:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=10\" title=\":pray:\"/><br/>\nI love the idea of bringing a crew to ETH Barcelona to hack together IRL <img alt=\":zap:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/zap.png?v=10\" title=\":zap:\"/><br/>\nCan we have more details of how this could look like?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520061945",
+    "url": "https://forum.tecommons.org/t/gitcoin-donations-what-should-we-do-with-them/859"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520061945",
+   "url": "https://forum.tecommons.org/t/gitcoin-donations-what-should-we-do-with-them/859"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520061945",
+   "url": "https://forum.tecommons.org/t/gitcoin-donations-what-should-we-do-with-them/859"
+  }
+ ]
+}

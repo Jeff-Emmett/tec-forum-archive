@@ -1,0 +1,62 @@
+{
+ "id": 507,
+ "title": "Opening Price - Price Floor Mechanism",
+ "slug": "opening-price-price-floor-mechanism",
+ "category_id": 26,
+ "posts_count": 0,
+ "created_at": "2021-07-21T17:12:18.369Z",
+ "last_posted_at": "2021-07-21T17:12:18.578Z",
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "last_archived_post_at": "2021-07-21T17:12:18Z",
+ "captured_between": [
+  "2023-05-30T07:35:30Z",
+  "2026-01-07T16:51:24Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2021-07-21T17:12:18Z",
+   "updated_at": null,
+   "reply_to_post_number": null,
+   "like_count": null,
+   "cooked": "<p>The <strong>Opening Price</strong> is the price at which we sell TEC tokens after the Commons Upgrade is complete. During the Hatch, tokens were minted at a value of 1 wxDAI per TECH; and at the Commons Upgrade, TEC tokens will be given to Hatchers at a 1:1 TEC/TECH ratio.</p>\n<p><strong>Price Floor</strong></p>\n<p>The <strong>price floor</strong> is the guaranteed minimum possible price at which TEC tokens may be priced at a specific point in time. Early buyers of TEC tokens will benefit from this price floor in that they will be assured the token’s value will never drop below this threshold at any given time.</p>\n<p><strong>How can we guarantee a price floor?</strong></p>\n<p>The combination of the Token Freeze and Token Thaw mechanisms enable the Commons the opportunity to engineer this <strong>price floor</strong>, which significantly decreases the investment risk associated with purchasing TEC tokens vs other digital assets, increasing the attractiveness of our token and thus the probability of reaching our funding goal.</p>\n          <p><a href=\"https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507/1\">Read full topic</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260107165124",
+    "url": "https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507.rss"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230530073530",
+   "url": "https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530073530",
+   "url": "https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229114650",
+   "url": "https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507/2"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229114650",
+   "url": "https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260107165124",
+   "url": "https://forum.tecommons.org/t/opening-price-price-floor-mechanism/507.rss"
+  }
+ ]
+}

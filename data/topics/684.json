@@ -1,0 +1,62 @@
+{
+ "id": 684,
+ "title": "Snapshot Params Final Proposal - Go vote on Snapshot",
+ "slug": "snapshot-params-final-proposal-go-vote-on-snapshot",
+ "category_id": 28,
+ "posts_count": 1,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "created_at": "2021-11-01T21:43:14Z",
+ "last_archived_post_at": "2021-11-04T22:16:22Z",
+ "captured_between": [
+  "2021-12-07T12:29:58Z",
+  "2021-12-07T12:29:58Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-11-01T21:43:14Z",
+   "updated_at": "2021-11-24T18:19:39Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><img alt=\":star2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star2.png?v=10\" title=\":star2:\"/><img alt=\":star2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star2.png?v=10\" title=\":star2:\"/><img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=10\" title=\":ballot_box:\"/> <a href=\"https://snapshot.org/#/tecommons.eth/proposal/0xc26d2b18ff67f6de730a7a6e591885b8c8812f299ec0d3e536db4b5b1ac9000d\">VOTE HERE</a> <img alt=\":ballot_box:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ballot_box.png?v=10\" title=\":ballot_box:\"/><img alt=\":star2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star2.png?v=10\" title=\":star2:\"/><img alt=\":star2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star2.png?v=10\" title=\":star2:\"/></p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-title-1\" name=\"proposal-title-1\"></a>Proposal title</h2>\n<p><strong>Snapshot Params</strong></p>\n<h2>\n<a class=\"anchor\" href=\"#tldr-2\" name=\"tldr-2\"></a>TL;DR</h2>\n<ul>\n<li>3 use cases for Snapshot</li>\n<li>Reduce voting type options to Quadratic Voting and Quadratic Ranked Choice Voting only.</li>\n<li>Support Required: 88%</li>\n<li>Min Quorum: 10 people + 10% of total token supply</li>\n<li>Vote duration: 4 days for Cultural Decisions and Community Signal - 6 days for Runoff</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-3\" name=\"proposal-description-3\"></a>Proposal description</h2>\n<p>This proposal aim to decide a set of parameters for Snapshot including the voting types that can be used. They will dictate the results of proposals submitted there. Snapshot proposals should belong in these 3 categories:</p>\n<p><strong>1. Large impact cultural decisions</strong><br/>\n<strong>2. Community signal</strong><br/>\n<strong>3. Runoff votes (coming from crowd proposal making on Tokenlog)</strong></p>\n<p>Only TECH token holders can submit proposals. (TECH will become TEC tokens after the commons upgrade)</p>\n<p><strong>Snapshot has 5 different types of voting</strong></p>\n<ol>\n<li>Single choice voting</li>\n</ol>\n<ul>\n<li>Each voter selects one choice that receives all their voting power</li>\n</ul>\n<ol start=\"2\">\n<li>Approval voting</li>\n</ol>\n<ul>\n<li>Each voter may select any number of choices that will equally receive all their voting power</li>\n</ul>\n<ol start=\"3\">\n<li><strong>Quadratic voting</strong></li>\n</ol>\n<ul>\n<li>Each voter may spread voting power across any number of choices. Results are calculated quadratically</li>\n</ul>\n<ol start=\"4\">\n<li><strong>Ranked Choice Voting</strong></li>\n</ol>\n<ul>\n<li>Each voter may select and rank any number of choices. Results are calculated by instant runoff counting method based on the top decision of each voter. Votes are token weighted.</li>\n</ul>\n<ol start=\"5\">\n<li>Weighted Voting</li>\n</ol>\n<ul>\n<li>Each voter may spread voting power across any number of choices.</li>\n</ul>\n<p><strong>The strategy I propose is that we prioritize Quadratic Voting over other types of voting.</strong> Our token distribution is somehow unbalanced. The top token holder has almost 10% of voting power alone, followed by the second largest holder with 7.5%. It’s not ideal for a few people to be able to control most decisions. Quadratic Voting offers a more balanced scenario while still respecting people’s holdings.</p>\n<p>The 2 voting types suggested are <strong>Quadratic Voting</strong> and <strong>Quadratic Ranked Choice Voting.</strong></p>\n<p>As of now, Quadratic Ranked Choice voting doesn’t exist on Snapshot. Here is how we are gonna proceed if this proposal passes:</p>\n<ul>\n<li>The square root of each hatcher’s holdings will be calculated and new tokens will be minted for the <a href=\"https://forum.tecommons.org/t/commons-upgrade-decision-making-process/682\">Commons Upgrade Runoff Votes</a> on Snapshot. This is a temporary solution only for this vote.</li>\n<li>Meanwhile, we’ll get in contact with Snapshot Labs and have a developer to work on an encoded solution that is lasting.</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#parameters-4\" name=\"parameters-4\"></a>Parameters</h2>\n<p>From these two voting types there are three parameters to be chosen: Support Required, Minimum Quorum and Vote Duration Period.</p>\n<h3>\n<a class=\"anchor\" href=\"#support-required-5\" name=\"support-required-5\"></a>Support Required</h3>\n<p>Support Required is the percentage of yes votes needed to pass a proposal.</p>\n<p>According to the advice <a href=\"https://forum.tecommons.org/t/snapshot-params/674\">from this post</a>, I propose we use a high support required, like the one we have for the Hatch DAO. Cultural decisions aren’t any less important and I believe it’s healthy for the community to be aligned on practices and processes.</p>\n<h3>\n<a class=\"anchor\" href=\"#minimum-quorum-6\" name=\"minimum-quorum-6\"></a>Minimum Quorum</h3>\n<p>Minimum Quorum is the percentage of the total token supply that must participate in a vote in order for it to be valid.</p>\n<p>Following the Advice Process, I propose we have <strong>2 measures for minimum quorum, both in number of people and percentage of tokens from the total supply.</strong></p>\n<p>For every vote in Snapshot we need a quorum of at least 10% of the total token supply participating, including at least 10 unique voters.</p>\n<p>The double measure is important because now only 2 people represent 10% of voting power. It will be safer to have at least 10 opinions on a vote. The token distribution will likely change soon and 10% might become more spread out. Having both metrics will give us flexibility in case 10 people become too few as we scale.</p>\n<h3>\n<a class=\"anchor\" href=\"#vote-duration-period-7\" name=\"vote-duration-period-7\"></a>Vote Duration Period</h3>\n<p>Vote Duration Period is the duration of time each vote is open and eligible to be voted on.</p>\n<ul>\n<li>4 days for Large Impact Cultural Decisions and Community Signal.</li>\n<li>6 days for Runoff votes</li>\n</ul>\n<p>From the three use cases, Large Impact Cultural Decisions, Community Signal and Runoff Votes, I propose these parameters:</p>\n<h2>\n<a class=\"anchor\" href=\"#large-impact-cultural-decisions-8\" name=\"large-impact-cultural-decisions-8\"></a>Large Impact Cultural Decisions</h2>\n<p><strong>Voting type</strong> - Quadratic voting with YES, NO options only.</p>\n<p><strong>Support Required</strong> - 88%</p>\n<p><strong>Vote Duration</strong> - 4 days</p>\n<p><strong>Minimum Quorum</strong> - 10% &amp; &gt;= 10 voters</p>\n<h2>\n<a class=\"anchor\" href=\"#community-signal-9\" name=\"community-signal-9\"></a>Community Signal</h2>\n<p><strong>Voting types</strong>:</p>\n<ul>\n<li>Quadratic Voting with YES, NO</li>\n<li>Quadratic Voting with multiple choices and a clear description of how many options will be considered</li>\n<li>Quadratic Ranked Choice Voting</li>\n</ul>\n<p><strong>Support Required</strong> - 88% for QV</p>\n<p><strong>Vote Duration</strong> - 4 days</p>\n<p><strong>Minimum Quorum</strong> - 10% &gt; and 10 voters &gt;</p>\n<p>One of the Community Signal use cases is Tao voting where we don’t have an UI yet and the tech team has to be the one to submit proposals to the DAO.</p>\n<h2>\n<a class=\"anchor\" href=\"#runoff-votes-coming-from-crowd-proposal-making-on-tokenlog-10\" name=\"runoff-votes-coming-from-crowd-proposal-making-on-tokenlog-10\"></a>Runoff votes (coming from crowd proposal making on Tokenlog)</h2>\n<p><strong>Voting type</strong> - Quadratic Ranked Choice Voting with multiple choice to select one winner coming from <a href=\"https://forum.tecommons.org/t/commons-upgrade-decision-making-process/682\">Tokenlog curation process </a></p>\n<p><strong>Support Required</strong> - This parameter doesn’t apply in the same way for Ranked Choice Voting. In this case, the top proposal is the winner unless the results are evenly split between 2 proposals. Evenly split majority means that the difference between the votes from first and second place is equal or smaller than 5%. In this case, the authors of these proposals will be invited for an open hack session to find a collaborative solution with the community input.</p>\n<p><strong>Vote Duration Period</strong> - 6 days</p>\n<p><strong>Minimum Quorum</strong> - 10% &gt; and 10 voters &gt;</p>\n<h4>\n<a class=\"anchor\" href=\"#additional-information-to-add-11\" name=\"additional-information-to-add-11\"></a><strong>Additional information to add</strong>\n</h4>\n<p>We can’t program params into Snapshot (not that I know of), so <strong>the final results of each vote should be monitored by soft gov and transparency according to the parameters we choose.</strong></p>\n<h4>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-or-the-field-of-token-engineering-12\" name=\"how-does-this-proposal-benefit-the-community-or-the-field-of-token-engineering-12\"></a>How does this proposal benefit the community or the field of Token Engineering?</h4>\n<p>This proposal is fundamental to our decision making process and will give legitimacy to our cultural decisions.</p>\n<h4>\n<a class=\"anchor\" href=\"#complementary-information-13\" name=\"complementary-information-13\"></a>Complementary information</h4>\n<p>Big thanks to Griff, Zeptimus and everyone who shared advice for this proposal and to Mitch who helped me edit this post</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20211207122958",
+    "url": "https://forum.tecommons.org/t/snapshot-params-final-proposal-go-vote-on-snapshot/684"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2021-11-04T22:16:22Z",
+   "updated_at": "2021-11-04T22:16:22Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Great stuff, <a class=\"mention\" href=\"/u/liviade\">@liviade</a>. The quadratic voting is so important for these kinds of votes (particularly the Large Impact Cultural Decisions). I’m so glad to see this a focus.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20211207122958",
+    "url": "https://forum.tecommons.org/t/snapshot-params-final-proposal-go-vote-on-snapshot/684"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207122958",
+   "url": "https://forum.tecommons.org/t/snapshot-params-final-proposal-go-vote-on-snapshot/684"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211207122958",
+   "url": "https://forum.tecommons.org/t/snapshot-params-final-proposal-go-vote-on-snapshot/684"
+  }
+ ]
+}

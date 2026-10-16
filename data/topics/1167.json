@@ -1,0 +1,203 @@
+{
+ "id": 1167,
+ "title": "A Report on the distributive impact of Praise. Part 1",
+ "slug": "a-report-on-the-distributive-impact-of-praise-part-1",
+ "category_id": 10,
+ "posts_count": 10,
+ "created_at": "2022-10-26T23:39:53.583Z",
+ "views": 8,
+ "last_posted_at": "2022-10-28T18:02:42.652Z",
+ "tags": [
+  "rewards-wg"
+ ],
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "last_archived_post_at": "2022-10-28T18:02:42Z",
+ "captured_between": [
+  "2022-10-26T23:59:45Z",
+  "2022-11-26T21:37:15Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-26T23:39:54Z",
+   "updated_at": "2022-10-27T00:26:27Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p><strong>Notes:</strong></p>\n<ul>\n<li>\n<p>I initially created the report on the first week of October, and it has been a topic of discussion throughout the Rewards WG during the last month. Unfortunately, due to increased scope and , I have postponed its release. Nevertheless, I believe it necessary to publish my thoughts preceding the alternative Rewards Distribution Models discussions take place in the Forums.</p>\n</li>\n<li>\n<p><em>Reposted</em> to fix image hyperlinks and bring the Context and conclusions up to speed.</p>\n</li>\n</ul>\n<h1>\n<a class=\"anchor\" href=\"#context-1\" name=\"context-1\"></a>Context</h1>\n<p>I publish this report following the ardent discussion within our forum post regarding <em>Reducing Rewards for Regular Paid Contributors</em> [1]. Do take a read if you have been out of the loop.</p>\n<p>Further, and provided $TEC remains a monetary asset, our community is yet to come to any agreement on:</p>\n<ol>\n<li>whether Praise, as an alternative value system, is and/or should value wider contributions in the community to those already paid by WG in $XWDAI (known as Praise Contributions and Paid Contributions henceforth)</li>\n<li>what the impact of the <em>”status quo”</em> have been on $TEC governance; and</li>\n<li>what an alternative proposal which favours a ‘fairer’ Rewards distributions could look like.</li>\n</ol>\n<p>Since then, I have pulled together an initial report on the performance of Praise as a redistributive force in the TEC. This report aims to cover a), with further posts in the following week to cover b). I am glad to see others are already contributing to c);</p>\n<p>I hope that it contributes to the community discussion on the outcomes Praise has created, and helps to make better and more informed decisions on Praise.</p>\n<p>Given the findings in this report, I believe there may also be value in instead understanding Praise as a health indicator by comparing the Praise : $WXDAI quotient amongst individuals and working groups in the TEC to measure where value generation is being concentrated. I have already found some interesting insights, but given I have also spotted a number of anomalies, I believe this, too, to be out of scope.</p>\n<h3>\n<a class=\"anchor\" href=\"#sources-2\" name=\"sources-2\"></a>Sources</h3>\n<ol>\n<li><a href=\"https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2\">https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/2</a></li>\n<li><a href=\"https://github.com/m-r-g-t/tec-data-analysis/tree/main/reward_vs_payouts\" rel=\"noopener nofollow ugc\">https://github.com/m-r-g-t/tec-data-analysis/tree/main/reward_vs_payouts</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=xTASKddBMXI\" rel=\"noopener nofollow ugc\">Reward Systems: The Heart of DAOs - Livia Deschermayer</a></li>\n<li><a href=\"https://forum.makerdao.com/t/sourcecred-report/13277\" rel=\"noopener nofollow ugc\">https://forum.makerdao.com/t/sourcecred-report/13277</a></li>\n<li><a href=\"https://dune.com/rxx_/TRUST\" rel=\"noopener nofollow ugc\">https://dune.com/rxx_/TRUST</a></li>\n<li>\n<a class=\"inline-onebox\" href=\"https://dune.com/tec/tec\" rel=\"noopener nofollow ugc\">Token Engineering Commons Dashboard</a>](<a class=\"inline-onebox\" href=\"https://dune.com/tec/tec\" rel=\"noopener nofollow ugc\">Token Engineering Commons Dashboard</a>)</li>\n</ol>\n<hr/>\n<h1>\n<a class=\"anchor\" href=\"#background-3\" name=\"background-3\"></a><strong>Background</strong>\n</h1>\n<h2>\n<a class=\"anchor\" href=\"#introduction-4\" name=\"introduction-4\"></a><strong>Introduction</strong>\n</h2>\n<p>Enhanced participation and discussion within communities with a strong collaborative component is of utmost necessity in regen spaces. If we seek to change the world and better the way things are done, it is logical to look for innovative methods that help us improve community outcomes. Highlighting and rewarding those accomplishments which add value, and fostering a positive environment in a nascent and dynamic commons as ourselves, is a great target to strive for.</p>\n<p>Within that framework, the TEC community saw the potential of Praise and gradually incorporated it as a tool to reward contributions made to the Commons over the last year and a half.</p>\n<h2>\n<a class=\"anchor\" href=\"#the-protocol-5\" name=\"the-protocol-5\"></a><strong>The Protocol</strong>\n</h2>\n<p>Within Praise, it is the members of our community who themselves tag, highlight and describe others’ valuable contributions within our <em><span class=\"hashtag\">#praise</span></em> channel.</p>\n<p>Every contribution raised within a given period (lately of a month) is amalgamated into a <em>Praise Round</em>, wherein a select number of value-aligned <em>Quantifiers</em> assign a value to each contribution.</p>\n<p>Once quantified, a specified $TEC amount is distributed each round in proportion to the contributions of each to the Commons.</p>\n<p>Given these parameters, Praise should act as a reputation protocol for engendering open collaboration to measure and reward value creation in our community.</p>\n<h2>\n<a class=\"anchor\" href=\"#execution-6\" name=\"execution-6\"></a>Execution</h2>\n<p>Praise commenced in June-July 2021, and as participation in the project has grown, so has its importance within our Commons. Following eighteen successful rounds and twelve months of quantification, it is highly unlikely that valuable work will be overlooked thanks to Praise.</p>\n<p>The inclusion of Reward Systems across DAOs is usually to make up for granular non-paid contributions for sporadic contributors as well as a way to continuously distribute governance power to those who are putting in the work; but Praise being a system that is able to capture subjective contributions in a fairer way. So far, Praise has either distributed or is set to distribute 51791.25 TEC [2], in accordance with “Final Praise Allocation” data.</p>\n<p>Nonetheless, $TEC serves a dual-purpose of both governance and monetary value, so Praise is aiding both goals in the commons - a reward system to give meaningful financial subsidy to people’s contributions, and a system to distribute governance power.</p>\n<p>Praise does redistributive governance rights away from the hatchers and into the wider community, which have begun taking a more active role in Conviction Voting. Further, Praise provides a pinpoint for mutual appreciation, and a recollection on what valuable contributions are happening in the Commons within its channel.</p>\n<p>Additionally, Praise has been viewed positively by adjacent DAOs; for Praise is now growing into many communities throughout the Gnosis Chain and beyond.</p>\n<hr/>\n<h1>\n<a class=\"anchor\" href=\"#part-one-praise-as-a-financial-tool-7\" name=\"part-one-praise-as-a-financial-tool-7\"></a>Part One: Praise as a Financial Tool</h1>\n<p>Despite its many positives, the main promise of Praise was to engross ampler value streams [3] in the Commons not already aligned with the monetary outflows by Working Groups. However, we have not yet analysed whether this has been the case at the TEC.</p>\n<h2>\n<a class=\"anchor\" href=\"#comparative-analysis-between-praise-and-paid-contributions-8\" name=\"comparative-analysis-between-praise-and-paid-contributions-8\"></a>Comparative Analysis between Praise and Paid Contributions</h2>\n<h3>\n<a class=\"anchor\" href=\"#method-9\" name=\"method-9\"></a>Method</h3>\n<p>In order to analyse whether Praise has been successful as an alternative value system, and is considering wider contributions to the community, I have considered two datasets:</p>\n<ol>\n<li>“Final Praise Allocation” exports in TEC’s Rewards repo: <a href=\"https://github.com/CommonsBuild/tec-rewards\" rel=\"noopener nofollow ugc\">https://github.com/CommonsBuild/tec-rewards</a>\n</li>\n<li>A Dune Analytics query I made, on the basis of a <span class=\"mention\">@jh</span> query, providing all outward Working Group (Paid) transactions: <a href=\"https://dune.com/queries/1256836\" rel=\"noopener nofollow ugc\">https://dune.com/queries/1256836</a>.</li>\n</ol>\n<p>I have built a simple Jupiter notebook to extract and collate all Praise allocations and Working Group stables outgoings. I am pulling the Dune data live from their GraphQL endpoints, so the analysis may be revisited in future. This is under my TEC repo at <a href=\"https://github.com/m-r-g-t/tec-data-analysis/tree/main/reward_vs_payouts\" rel=\"noopener nofollow ugc\">https://github.com/m-r-g-t/tec-data-analysis/tree/main/reward_vs_payouts</a></p>\n<p>From this data, I will be able to evaluate two cohorts separately:</p>\n<ol>\n<li>Those who are earning both $WXDAI and $TEC, known as Paid Contributors.</li>\n<li>Those who have only earned Praise - Praise Contributors. (WIP)</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#paid-contributors-10\" name=\"paid-contributors-10\"></a>Paid Contributors</h3>\n<p>In order to settle whether there exists a correlation between Praised and Paid contributions, I began by taking a snapshot for both payments from the first transaction until Round 17. Looking at the complete history for each individual of both types of contribution, we can set out to test whether there is a relationship with both linear and logarithmic scatterplots and Pearson Correlations.</p>\n<p><strong>Linear plot:</strong></p>\n<p><img alt=\"image\" data-base62-sha1=\"1uCgkOTEJaGrB8lobyzoXhOYsmE\" height=\"455\" src=\"https://forum.tecommons.org/uploads/default/original/1X/0a782e98709b6a785f823d722ff60c5554adeecc.png\" width=\"608\"/></p>\n<p>Pearson’s Correlation Coefficient: 0.61.</p>\n<p>I notice a large skew on the data, which did not surprise me for social systems.</p>\n<p>I noticed a large skew on the data, so I also represented the data under a logatithmic plot as below:</p>\n<p><strong>Logarithmic plot, base 2:</strong></p>\n<p><img alt=\"image\" data-base62-sha1=\"nnAbu9xlNMYKzIjyV9bligh1ADP\" height=\"455\" src=\"https://forum.tecommons.org/uploads/default/original/1X/a3dc78a7146c3e5e2249819c958223d3f301473d.png\" width=\"583\"/></p>\n<p>Pearson’s Correlation Coefficient: 0.64</p>\n<h3>\n<a class=\"anchor\" href=\"#preliminary-thoughts-11\" name=\"preliminary-thoughts-11\"></a><strong>Preliminary Thoughts:</strong>\n</h3>\n<p>It is evident from the data that there is a strong and positive, though certainly not perfect, correlation in the data between both the Praise and monetary value systems in the TEC. The data does not back those who theorised Praise as a radical, alternative shift in results from a purely monetary sense - those who earn much Praise are already being financed by the commons.</p>\n<p>I have created preliminary analysis on the distribution of Praise between unpaid and paid work. As it is pending a review from knowledgeable members in the Commons, I am not yet prepared to release such visualisations.</p>\n<p>Despite that, if we believe our peers in the Commons to be value-aligned with creating regenerative and extra-monetary economies, and the spirit of being anti-extractive, the plentiful payment already received by the highest earners should indeed be considered as part of remuneration for going beyond their way. Further, it would be a better mechanic for WGs to make a part-payment in TEC, rather than Praise bear such brunt on its already wobbly finances.</p>\n<p>Given there is much work double-counted in Praise, and if public goods are what we claim to represent, then nurturing an atmosphere where uncaught positive externalities are captured on an individual level is paramount. Self-interest of those already valued for their work should not be the core decision-maker on the margin, lest we settle on an antithetical position to our own ethos.</p>\n<p>Last, in view of the trading activity of many of the largest Praise receivers, it is unwise to disregard the monetary aspect of Praise in the Commons, as we have tried doing thus far. Evidently, Praise has in part acted as a bonus to the already plentiful.</p>\n<h2>\n<a class=\"anchor\" href=\"#part-two-praise-in-governance-12\" name=\"part-two-praise-in-governance-12\"></a>Part Two: Praise in Governance</h2>\n<p>Despite that, the Rewards Group also behaves as a redistributive force throughout the Commons. The significant negative skew in the data is meaningful - it demonstrates Praise actively takes a much wider sample of ‘value’ in the Commons, especially in onboarding smaller contributions which would otherwise go unnoticed. Praise has certainly widened the pool of stakeholders throughout the TEC.<br/>\nPart Two analysis to expand on this shall follow promptly.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-10-27T13:07:05Z",
+   "updated_at": "2022-10-27T13:07:05Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Amazing post Rex! A lot of this comes to no surprise to be to be honest.</p>\n<p>To my forum post you referenced - <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/reduce-rewards-for-regular-paid-contributors/1062/\">Reduce Rewards for Regular Paid Contributors</a> - I remember some of the main points of push back were that, to my knowledge, nobody doing work TEC is being compensated particularly lucratively from the TEC itself. Especially when payments to Stewards stopped sometime earlier this summer Praise was the only show in town that was rewarding the work for a large swath of Stewards, myself included.</p>\n<p>When TEC as a means of rewarding praise becomes a governance, reputation and financial reward it can be hard to pick which one you value the most. Sometimes, in fact often during a global bear market, the financial reward wins (and effectively you burn the other two aspects in the process).</p>\n<p>I’ll refrain from making any decisive conclusion or suggested actions. I look forward to part 2 of this topic!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-10-28T02:50:57Z",
+   "updated_at": "2022-10-28T02:50:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thanks for such a great analysis Rex!<br/>\nLately I’ve been thinking of Praise more as a reputation system and cultural analysis tool than as a financial reward system.<br/>\nPraise could perhaps map the work that isn’t being compensated and serve as a support for retroactive funding for ex.<br/>\nIn my talk, I mention how the positive reinforcement of Praise mitigates the negative effects of financial rewards on intrinsic motivation, but I’m thinking it’s probably more complex than that. Maybe it’s only true in abundant environments, or where people feel like they have what’s needed to thrive, which is not the case in the TEC at this moment - (it has been in the past and hopefully will be in the future).<br/>\nAlso, I think the working groups + steward + community call structure didn’t support unpaid work to be visible. If we had turned in a more outward facing direction after the Hatch with partnerships, this would probably have changed as more TE work would have the spotlight therefore more chances to be praised.<br/>\nOn the governance aspect, there is a bigger challenge which is: TEC has both governance and financial value. When we talk about paid contributors, we are talking about people who receive compensation on xDAI via common pool. Them being paid and praised doesn’t mean they are increasing their voting power twice. On the governance side, everyone is in the same level. On the financial side no.<br/>\nOne of the exits could be Praise becoming a reputation reward only - the problem is that we can’t add a new token for voting on gardens. We could use it on Snapshot, but it feels irrelevant to introduce such change if it won’t affect funding decisions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-28T11:51:58Z",
+   "updated_at": "2022-10-28T11:51:58Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Very insightful comments, <a class=\"mention\" href=\"/u/liviade\">@liviade</a> and <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>. I have thought some more on what you both have said:</p>\n<blockquote>\n<p>Them being paid and praised doesn’t mean they are increasing their voting power twice. On the governance side, everyone is in the same level. On the financial side no.</p>\n</blockquote>\n<p>To me this is a false dichotomy. Given TEC governance power can be purchased, when individuals are being both praised and paid, they are already presented with the option to become larger governance players every time they are funded. What changes is only the decision matrix between both assets in stable contributors (i.e. should I sell my xDAI) as opposed to freelance (should I sell my TEC?) work.</p>\n<blockquote>\n<p>One of the exits could be Praise becoming a reputation reward only - the problem is that we can’t add a new token for voting on gardens. We could use it on Snapshot, but it feels irrelevant to introduce such change if it won’t affect funding decisions.</p>\n</blockquote>\n<p>As you mention, this is not really an exit for TEC Praise.</p>\n<p>I skew toward embracing both the governance and monetary aspect of TEC Praise, which implies creating a positive multiplier to better highlight those not already receiving monetary rewards from the common pool.</p>\n<p>Unlike <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>’s proposal, such a multiplier would need to be both dynamic, time-sensitive, and certainly <strong>not</strong> retroactive; otherwise, it very quickly becomes a finger-pointing exercise which would be completely against what the TEC and Praise stand for.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-28T12:05:14Z",
+   "updated_at": "2022-10-28T12:05:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thank you for your response <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a>. I’m looking forward to finalising Part 2, too.</p>\n<blockquote>\n<p>to my knowledge, nobody doing work TEC is being compensated particularly lucratively from the TEC itself.</p>\n</blockquote>\n<p>I get your point, but in relative terms, the smaller contributors which rely on Praise have are getting the hardest end of the stick. As part of this process, I have spoken to others like myself who have received similar amounts in both Praise and xDAI and then left the Commons. Unanimously, I heard that the lack of perceived value in their worth was one of the main reasons why they sadly stopped contributing.</p>\n<p>Further, we have faced a long-standing situation where the TEC has failed to grow. Wouldn’t one option to be considered in turning this around be to re-engineer Praise to better promote fresh faces?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-10-28T14:46:01Z",
+   "updated_at": "2022-10-28T14:46:01Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>A reminder that I was in favour a long time ago to reduce rewards to paid contributors - this was however the push back I received that led to me choosing not to proceed with the idea.</p>\n<p>Fresh faces are great and I would support kicking a greater percentage of rewards to unpaid contributors.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-10-28T14:57:34Z",
+   "updated_at": "2022-10-28T14:57:34Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"1167\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/f1d935/40.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>they are already presented with the option to become larger governance players every time they are funded.</p>\n</blockquote>\n</aside>\n<p>This argument has been shared a few times but still doesn’t sit well for me. The TEC token today has no utility besides governance. Expecting people will buy TEC tokens with the funding they receive from the Common Pool sounds quite unrealistic and privileged. The reason payments are done in xDAI in the Common Pool is exactly because people might need the stability of the token to pay bills for ex. It would be interesting to see how much of the TEC tokens distributed via praised are sold and how long after the distribution (I don’t know if its possible to do this analysis)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-10-28T15:06:58Z",
+   "updated_at": "2022-10-28T15:06:58Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"4\" data-topic=\"1167\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/f1d935/40.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>creating a positive multiplier to better highlight those not already receiving monetary rewards from the common pool.</p>\n</blockquote>\n</aside>\n<p>I think if the Praise reach was broader, getting more of the TE ecosystem, this proposal would be unnecessarily complex . I think we are feeling the negative impact of value concentration because everything seems to be connected to operations work - and there is so much more value important for the TE space that is out of the spotlight of the TEC. I believe the cultural changes we are having will impact Praise results very much.<br/>\nI just wanted to express my point, but I also see how it could be interesting to explore what you’re thinking Rex, and this topic has been going on for a while, so it might be a goos time to try a different solution.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-10-28T17:33:47Z",
+   "updated_at": "2022-10-28T17:33:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<blockquote>\n<p>I think if the Praise reach was broader, getting more of the TE ecosystem, this proposal would be unnecessarily complex.</p>\n</blockquote>\n<p>I have heard the argument of bringing TEC Praise to other communities a number of times.</p>\n<p>I don’t think it a bad idea, but it does prove a number of logistical complexities we haven’t thought through at all. Should we silo amounts to each community? The role of a quant in analysing value depends on their proximity to the problem at hand. How will quant change to adapt for this? Is any task valid for Praise, or just those that bring contribution to the TEC?</p>\n<p>All of this falls out of scope of the report and my analysis, and in my eyes requires its own care and thread before any serious consideration. I would like to propose TEC Praise to the TEA too, but we need some more thought on the matter, and a structure which lets us scale in that way.</p>\n<blockquote>\n<p>Expecting people will buy TEC tokens with the funding they receive from the Common Pool sounds quite unrealistic and privileged.</p>\n</blockquote>\n<p>I don’t see how this is unrealistic at all. If those most crucial to our community do not believe in our token - then why are we expecting anybody else to do so?</p>\n<p>Not only that, but I’d just like to note on this that freelance contributors do not receive stability in terms of TEC, never mind in xDAI. The privileged position within our community is to be the salaried in the first place.</p>\n<blockquote>\n<p>It would be interesting to see how much of the TEC tokens distributed via praised are sold and how long after the distribution (I don’t know if its possible to do this analysis)</p>\n</blockquote>\n<p>Would be happy to have a separate discussion on how to do this. It’s not trivial because it’s a time series with multiple buy and sell events per person - but we can on agree on some assumptions and make something on the matter.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-10-28T18:02:42Z",
+   "updated_at": "2022-10-28T18:02:42Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"9\" data-topic=\"1167\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/f1d935/40.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>I don’t see how this is unrealistic at all. If those most crucial to our community do not believe in our token - then why are we expecting anybody else to do so?</p>\n</blockquote>\n</aside>\n<p>There is an important distinction to be made here:</p>\n<ol>\n<li>expecting that people use their salaries or project funding to purchase TEC tokens is not a healthy assumption. The TEC hasn’t paid great salaries, people might need this funds for making a living.</li>\n<li>Paid or unpaid contributors have distinct economic situations that might or might not allow them to purchase TEC tokens independent of being paid by the common pool or not.</li>\n</ol>\n<p>In my opinion, what is being discussed here is really how valued people feel. I think what is showing in your analysis is that the most valued contributions in Praise are also the paid ones. What I’m suggesting is that this happens because of the attention this contributions receive due to our cultural and org structure. I think what would bring more balance, is decentralizing the spotlights.</p>\n<aside class=\"quote no-group\" data-post=\"9\" data-topic=\"1167\" data-username=\"rex\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/r/f1d935/40.png\" width=\"20\"/> rex:</div>\n<blockquote>\n<p>I have heard the argument of bringing TEC Praise to other communities a number of times.</p>\n</blockquote>\n</aside>\n<p>Which brings me to this point. I wasn’t talking necessarily about Praise being adopted by other communities,(although it would be great) but if the TEC itself slowly started to be more outward focused, we would naturally drive other contributors to our server and have a wider variety of contributions being acknowledged, as well as a more diverse group of quantifiers. Of course this is a long term plan of integrating the TEC more in the TE ecosystem, that’s why I’m supporting your suggestion to build something that will balance things out in between.</p>\n<p>I also think the new org structure - being less stewards focused - will already shift the Praise results</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126213715",
+    "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221026235945",
+   "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126213715",
+   "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126213715",
+   "url": "https://forum.tecommons.org/t/a-report-on-the-distributive-impact-of-praise-part-1/1167"
+  }
+ ]
+}

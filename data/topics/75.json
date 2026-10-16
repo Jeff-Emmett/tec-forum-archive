@@ -1,0 +1,77 @@
+{
+ "id": 75,
+ "title": "[Guide] TestTEC DAO #3: Bonding Curve",
+ "slug": "guide-testtec-dao-3-bonding-curve",
+ "category_id": 9,
+ "total_known": false,
+ "archived_posts": 2,
+ "archived_numbers": 3,
+ "created_at": "2020-11-13T00:50:13Z",
+ "last_archived_post_at": "2021-05-25T19:13:22Z",
+ "captured_between": [
+  "2022-07-06T00:56:02Z",
+  "2022-07-06T00:56:02Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-11-13T00:50:13Z",
+   "updated_at": "2020-11-13T00:50:13Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>This is a quick guide for the third TestTEC DAO.</p>\n<p>The DAO can be found <a href=\"https://aragon.1hive.org/#/0xd0817aa0f770d024f42f0222dba37536a05118dc/\">here</a>. It has a <a href=\"http://blockscout.com/poa/xdai/address/0x7a36559fa7c063438b45fcf850ad11df9e346e79\">reserve</a> for the <a href=\"https://convert.tecommons.org\">bonding curve</a> and a <a href=\"https://blockscout.com/poa/xdai/address/0xa33dfc786f812a2271ecc0d75f4fe51c19b806c0\">funding pool</a> for <a href=\"https://gov.tecommons.org/\">conviction voting</a>.</p>\n<p>This test was hatched by just one address that contributed with 100 wxDAI (wrapped xDAI), that were split within the reserve (65 wxDAI) and the funding pool (35 wxDAI).</p>\n<p>Impact hours were converted to TestTEC tokens in a ratio 1 IH = 100 TestTEC. At the moment of writing, 100 TestTEC are worth ~0.05 wxDAI when sold in the bonding curve.</p>\n<p>How to convert TestTEC to xDAI:</p>\n<ol>\n<li>Everyone with <strong>impact hours</strong> and part of the trusted seed has received unlocked TestTEC tokens that can be converted in the bonding curve. If you don’t have yours, probably it’s because we don’t have your address. <a href=\"https://commonsstack.org/apply\">Apply here!</a>\n</li>\n<li>Go to <a href=\"https://convert.tecommons.org\">https://convert.tecommons.org</a> and connect your Ethereum account to xDAI. You will see your <strong>TestTEC balance</strong> down the input.</li>\n<li>If you change any of the two inputs, the other one will show the expected conversion. This conversion does not include a <strong>20% exit tribute</strong> that goes to the funding pool, it will be deducted later.</li>\n<li>Once you are set, click on Convert. You will be redirected to another page and Metamask will pop up for you to <strong>sign the transaction</strong>.</li>\n<li>If the transaction goes well, you will receive wxDAI (wrapped xDAI). You can unwrap them in <a href=\"https://honeyswap.org\">https://honeyswap.org</a> setting up <strong>wxDAI -&gt; xDAI</strong>.</li>\n</ol>\n<p>How to convert xDAI to TestTEC:</p>\n<ol>\n<li>Convert <strong>xDAI to wxDAI</strong> using <a href=\"https://honeyswap.org\">https://honeyswap.org</a>\n</li>\n<li>Go to <a href=\"https://convert.tecommons.org\">https://convert.tecommons.org</a> and click in the arrows. This will set up the converter in the <strong>wxDAI -&gt; TestTEC</strong> direction.</li>\n<li>Put some wxDAI there and see how much TestTEC you will receive. Have in mind <strong>TestTEC is going to be worthless</strong> soon, since all the funds in the TestTEC DAO will be transferred to the TECommons when it’s deployed. You should consider converting wxDAI into TestTEC as a donation to the DAO.</li>\n<li>When you click convert, you will be redirected to a new page that <strong>will pop up two transactions</strong>, one to approve wxDAI and another to convert.</li>\n<li>If everything went well, you should have more TestTEC tokens now and be able to <strong>vote</strong> with them into <a href=\"https://gov.tecommons.org/\">conviction voting</a> proposals!</li>\n</ol>\n<p>You will find more info about the test token in the DAO’s <a href=\"https://aragon.1hive.org/#/0xd0817aa0f770d024f42f0222dba37536a05118dc/0x6a580b3de0365d66a720fc0acc6f0dab27aba6fd/\">Marketplace</a> and <a href=\"https://aragon.1hive.org/#/0xd0817aa0f770d024f42f0222dba37536a05118dc/0xb259f094c2f0d55f0b47e2269901bf3cbbb5c457/\">Tokens</a> apps. Finally, <a href=\"https://gov.tecommons.org\">https://gov.tecommons.org</a> also reflects the bonding curve TestTEC price.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005602",
+    "url": "https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-11-15T11:43:08Z",
+   "updated_at": "2020-11-15T11:43:08Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Hey hello! , I managed to turn some xDAI into wxDAI and some wxDAI into TestTEC, and even supported some proposals =)</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005602",
+    "url": "https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75"
+   }
+  },
+  {
+   "post_number": 44,
+   "username": "system",
+   "name": null,
+   "created_at": "2021-05-25T19:13:22Z",
+   "updated_at": "2021-05-25T19:13:22Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706005602",
+    "url": "https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220706005602",
+   "url": "https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706005602",
+   "url": "https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "id": 133,
+ "title": "Minimum Quorum - Deep Dive",
+ "slug": "minimum-quorum-deep-dive",
+ "posts_count": 1,
+ "category_id": 19,
+ "created_at": "2020-12-06T21:14:11.755Z",
+ "views": 5341,
+ "last_posted_at": "2021-05-07T18:34:17.074Z",
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-05-07T18:34:17Z",
+ "captured_between": [
+  "2021-04-20T14:16:36Z",
+  "2026-02-28T03:51:40Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Freedumbs00",
+   "name": "Jake Cassani",
+   "created_at": "2020-12-06T21:14:11Z",
+   "updated_at": "2021-03-08T14:53:09Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h1>What is Minimum Quorum?</h1>\n<p>The definition of quorum is:</p>\n<p>The minimum number of members of an assembly or society that must be present at any of its meetings to make the proceedings of that meeting valid.</p>\n<p>In Dandelion Voting the Minimum Quorum is simply the percent of the total supply of the token that needs to participate in a vote in order for it to be able to be passed.</p>\n<p>For instance, if a DAO has 10 tokens and the Dandelion Voting Instance has a Minimum Quorum of 35%, then at least 4 tokens must have been used to vote for a proposal to pass. If there is 1 person with 7 tokens, and 3 people each with 1 token, and all three of the people with 1 token vote yes, but the person with 7 tokens doesn’t vote. The proposal will fail and will not be able to be executed.</p>\n<p>In Disputable Voting we still use a Minimum Quorum but it’s calculated from the amount of people who voted “Yes” relative to the total supply of the token.</p>\n<h2>What is important to understand about Token Weighted Voting</h2>\n<p>The blockchain does not know about individual people; it only knows about individual addresses. It is impractical to call for one-address-one-vote: I alone may generate thousands of Ethereum addresses and send messages signed by each of them in turn. This is indistinguishable from thousands of people sending one message each. This is known as a ‘Sybil attack’. Token weighted voting side-steps this risk.</p>\n<p>It is important to understand that Dandelion Voting and Disputable Voting are token weighted; it is not one person one vote. So a minimum amount of people can pass a vote if they have enough tokens to do so. That ensures that votes can be made even with low turnout as long as <a href=\"https://forum.tecommons.org/t/support-required-deep-dive/108\">Support Required</a> has been met.</p>\n<h2>So what do we need to talk about in this forum post?</h2>\n<ol>\n<li>What are the advantages and disadvantages of having a high Minimum Quorum and a low Minimum Quorum?</li>\n<li>How independent is this parameter? What other parameters are connected to it?</li>\n<li>What considerations should we take into account in determining this parameter?</li>\n<li>What will be the product of Disputable Voting having only ‘yes’ votes count towards quorum?</li>\n<li>Does this encourage or discourage voter turnout?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228035140",
+    "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133/2?u=natesuits"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2021-05-07T18:34:17Z",
+   "updated_at": "2021-05-07T18:34:17Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>What is the Minimum Quorum (%)?</strong><br>\nThe Minimum Quorum (%) is the percentage of YES votes from the total supply of TECH tokens that are required for a proposal to pass.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br>\nThe Minimum Quorum (%) is measured as a percentage (YES Votes/TECH Supply), and you will have the option to set this parameter between 0 and 100.</p>\n<p>The Minimum Quorum percentage sets a baseline of support by token holders that is required for a proposal to pass.  This parameter ensures that there is enough participation in a voting event to consider the proposal valid.  If you set a high Minimum Quorum %, you risk a proposal not being able to pass even when the Minimum Support % has been satisfied.</p>\n<p><strong>Quorum Suggested Range</strong><br>\nSince there are very limited risks to a low Minimum Quorum, we suggest a range between 1%-15%.</p>\n<p><strong>Related Parameters to consider when defining the Minimum Quorum (%):</strong><br>\nMinimum Support Required (%)<br>\nVote Duration (days)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228035140",
+    "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133/2?u=natesuits"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420141636",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420141636",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706014048",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706014048",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530065801",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530065801",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250514084554",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260121133806",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260121133806",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228024829",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133/2"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228035140",
+   "url": "https://forum.tecommons.org/t/minimum-quorum-deep-dive/133/2?u=natesuits"
+  }
+ ]
+}

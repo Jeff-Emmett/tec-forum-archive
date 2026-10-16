@@ -1,0 +1,173 @@
+{
+ "id": 523,
+ "title": "How do I participate in the Hatch? TL;DR",
+ "slug": "how-do-i-participate-in-the-hatch-tl-dr",
+ "category_id": 18,
+ "posts_count": 7,
+ "created_at": "2021-08-04T22:01:58.927Z",
+ "views": 36,
+ "last_posted_at": "2021-08-05T10:33:02.273Z",
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2021-08-09T19:03:31Z",
+ "captured_between": [
+  "2021-08-05T15:26:44Z",
+  "2023-02-04T03:02:25Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2021-08-04T22:01:59Z",
+   "updated_at": "2021-08-12T19:21:30Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p><strong>The TEC Hatch is underway and will end on August 14</strong>, but to make sure you have enough time to participate, start taking these steps now!</p>\n<p>Here are four steps to participate in the TEC Hatch:</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/3e1307585d14bd25a305e47e58c2d757c9a81a5f\" href=\"https://forum.tecommons.org/uploads/default/original/1X/3e1307585d14bd25a305e47e58c2d757c9a81a5f.jpeg\" title=\"Graphics (50)\"><img alt=\"Graphics (50)\" data-base62-sha1=\"8R8n3MIjg3bywAUnHnXYJwpN3xd\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/3e1307585d14bd25a305e47e58c2d757c9a81a5f_2_10x10.png\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/3e1307585d14bd25a305e47e58c2d757c9a81a5f_2_690x388.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/3e1307585d14bd25a305e47e58c2d757c9a81a5f_2_690x388.jpeg, https://forum.tecommons.org/uploads/default/original/1X/3e1307585d14bd25a305e47e58c2d757c9a81a5f.jpeg 1.5x, https://forum.tecommons.org/uploads/default/original/1X/3e1307585d14bd25a305e47e58c2d757c9a81a5f.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Graphics (50)</span><span class=\"informations\">960×540 61.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div><p></p>\n<ol>\n<li>\n<p><strong>Get a MetaMask wallet:</strong> you need a Web3 wallet in order to participate on the Hatch. The one needed to participate is <a href=\"https://metamask.io/download.html\">Metamask.</a> If you need a tutorial on how to set it up, you can check this <a href=\"https://www.youtube.com/watch?v=Sc8J98m6SZE\">link.</a></p>\n</li>\n<li>\n<p><strong>Trusted Seed and Membership:</strong>  We want to welcome everyone who has aligned values with the TEC. The Trusted Seed is a curated list of members deployed by the <a href=\"https://commonsstack.org/\">Commons Stack</a> and that the community decided to use as a starting point and base for our membership strategy. In order to participate in the Hatch you need to <a href=\"https://medium.com/commonsstack/join-the-commons-stacks-trusted-seed-swiss-association-ed51a356cb6c\">apply to the Trusted Seed and activate your membership</a>. It can take up to one week to complete this process, but applications are being expedited for the hatch. Apply ASAP to ensure your participation in the TEC Hatch.</p>\n</li>\n<li>\n<p><strong>Acquire DAI, convert it to wxDAI:</strong> We are using wxDAI as the token to send funds to the HATCH, in order to acquire wxDAI, the <strong>first part</strong> is to get DAI form any exchange. The following steps are meant to convert this DAI to wxDAI, we have <a href=\"https://www.youtube.com/watch?v=BskM2BvZDJI&amp;ab_channel=TokenEngineeringCommons\">created a tutorial to do it here.</a></p>\n</li>\n<li>\n<p><strong>Send funds to the hatch</strong>: The final step is sending wxDAI to the hatch and minting TECH tokens. Go to <a href=\"https://hatch.tecommons.org/\">Hatch.TECommons.org</a> to take the final step.</p>\n</li>\n</ol>\n<p>We have created a longer version of this post on the <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/hatch-101/hatcher-guidebook\">following Guidebook</a> were you will find in detailed instructions and technical as well as cultural information about the Hatch.</p>\n<p><strong>To learn more about the TEC’s mission, and the purpose of the Hatch</strong>, read <a href=\"https://medium.com/token-engineering-commons/wielding-promethean-fire-the-importance-of-te-public-goods-9afba0ce5a43\">Wielding Promethean Fire — The Importance of Token Engineering Public Goods</a>.</p>\n<p>If you still have questions, reply to this post or reach out on the <a href=\"https://discord.gg/psc8ZjsNHg\">TEC Discord</a>.</p>\n<h1><a class=\"anchor\" href=\"#heading-1\" name=\"heading-1\"></a></h1>\n<hr/>\n<h1><a class=\"anchor\" href=\"#heading-2\" name=\"heading-2\"></a></h1>\n<p><em>Thank you to <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a> <a class=\"mention\" href=\"/u/liviade\">@liviade</a> <a class=\"mention\" href=\"/u/krisj\">@KrisJ</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> for input and feedback on this post.</em></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-08-05T10:33:02Z",
+   "updated_at": "2021-08-09T16:36:17Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This is my template to send to people:</p>\n<p>If you want to get in:</p>\n<ol>\n<li>\n<p>Apply here: <a class=\"inline-onebox\" href=\"https://commonsstack.org/apply\">Apply</a></p>\n</li>\n<li>\n<p>After we approve your application, Activate here: <a href=\"https://member.commonsstack.foundation/\">https://member.commonsstack.foundation/</a></p>\n</li>\n<li>\n<p>Then get some wxDai and send it here: <a href=\"https://hatch.tecommons.org/\">https://hatch.tecommons.org/</a></p>\n</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-08-09T16:27:14Z",
+   "updated_at": "2021-08-09T16:27:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-08-09T16:27:53Z",
+   "updated_at": "2021-08-09T16:27:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-08-09T16:28:13Z",
+   "updated_at": "2021-08-09T16:28:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-08-09T16:28:19Z",
+   "updated_at": "2021-08-09T16:28:19Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-08-09T19:03:23Z",
+   "updated_at": "2021-08-09T19:03:23Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2021-08-09T19:03:31Z",
+   "updated_at": "2021-08-09T19:03:31Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030225",
+    "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210805152644",
+   "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210805154031",
+   "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204030225",
+   "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204030225",
+   "url": "https://forum.tecommons.org/t/how-do-i-participate-in-the-hatch-tl-dr/523"
+  }
+ ]
+}

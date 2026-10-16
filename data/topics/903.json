@@ -1,0 +1,76 @@
+{
+ "id": 903,
+ "title": "LASERTAG Liquidity",
+ "slug": "lasertag-liquidity",
+ "total_known": false,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "created_at": "2022-02-28T10:52:25Z",
+ "last_archived_post_at": "2022-03-10T20:46:31Z",
+ "captured_between": [
+  "2022-05-20T06:33:37Z",
+  "2022-05-20T06:33:37Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-28T10:52:25Z",
+   "updated_at": "2022-02-28T10:52:25Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>There are 2 topics that <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> open regarding how to use our TEC on our treasury</p>\n<ul>\n<li>Use TEC to buy xdai and do TEC/XDAI on honeyswap</li>\n<li>Swap with Giveth and create permanent liquidity TEC/GIV</li>\n</ul>\n<p>At the same time I was exploring the chances to do a swap with Gnosis and make a proposal on GCI DAO but there is not enough funds there so it ended up on a meeting this wednesday (02/03/2022) to explore other options for the Gnosis community.</p>\n<p>After making the proposal Paul2 from 1hive also reach out to explore <a href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019\">Water💧 Shared Liquidity Proposal</a> (which also <a class=\"mention\" href=\"/u/enti\">@enti</a> suggested to check out). The water proposal is untested but I think the idea of water is necessary for the ecosystem growth</p>\n<p>Cons of water in my opinion: Untested and it ask for 200k worth of TEC as the price of today our 118k of TEC holdings on LASERTAG are worth 313k</p>\n<p>And I also don’t like water funds in a multisig (but this topic is inside the proposal).</p>\n<p>Pros of water in my opinion:</p>\n<p>Shared liquidity with all the communities inside the water proposal right now the communities that are exploring be part of it.</p>\n<ul>\n<li>1Hive</li>\n<li>Shapeshift</li>\n<li>BrightID</li>\n<li>Giveth</li>\n<li>Panvala</li>\n<li>Raid Guild</li>\n<li>Opolis</li>\n<li>Agave</li>\n</ul>\n<p>And be more exposed to the success (and also the failure) of other values, align communities and be involved with the ecosystem.</p>\n<p>Also after the proposal on GCI DAO Adam from BrightID reached out to do a swap to share permanent liquidity TEC/BRIGHT.</p>\n<p>Giveth, BrightID and Gnosis all three communities in my opinion are aligned communities that share liquidity with them would create a win/win situation for both communities. The goal of this post is to see who is interested in participating in those discussions and we could have a weekly debate (starting next week) sharing updates and see what is the best thing to do with our funds.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520063337",
+    "url": "https://forum.tecommons.org/t/lasertag-liquidity/903"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-03-01T14:43:26Z",
+   "updated_at": "2022-03-01T14:43:26Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Very interesting - I like the idea of an index token for tokens adding value to Gnosis Chain, WATER seems like a pretty straightforward and cool idea, love the flow.</p>\n<p>My only qualm is that TEC doesn’t fully control its share of the liquidity. I have a strong resistance to making endless multisigs anytime we want to do any LP ventures with other DAOs. I would advocate for a simpler solution.</p>\n<p>Couldn’t it be possible for the TEC to send its liquidity into the WATER pool, Mint it’s share of the  token and hold it itself in the LASERTAG multisig? We could then pair it with whatever we want and if for whatever reason we need to liquidate we’re not beholden to 7 other DAOs to do so. Our own social reputation is the binding factor and motivation to hold, instead of hard barriers such as multisig signers to control our own investments.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520063337",
+    "url": "https://forum.tecommons.org/t/lasertag-liquidity/903"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "paul2",
+   "name": null,
+   "created_at": "2022-03-10T20:46:31Z",
+   "updated_at": "2022-03-10T20:46:31Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey Zeptimus, FYI we lowered the entry amount to $100k per each community token:  <a class=\"inline-onebox\" href=\"https://forum.1hive.org/t/water-shared-liquidity-proposal/5019/8\" rel=\"noopener nofollow ugc\">Water💧 Shared Liquidity Proposal - #8 by paul - 🌿 Proposals - 1Hive</a></p>\n<p>Maybe that will make it more attractive for TEC?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520063337",
+    "url": "https://forum.tecommons.org/t/lasertag-liquidity/903"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520063337",
+   "url": "https://forum.tecommons.org/t/lasertag-liquidity/903"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520063337",
+   "url": "https://forum.tecommons.org/t/lasertag-liquidity/903"
+  }
+ ]
+}

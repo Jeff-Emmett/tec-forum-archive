@@ -1,0 +1,82 @@
+{
+ "id": 930,
+ "title": "Praise Quantification Automation",
+ "slug": "praise-quantification-automation",
+ "category_id": 10,
+ "tags": [
+  "cultural-proposal"
+ ],
+ "posts_count": 2,
+ "created_at": "2022-03-11T20:07:58.342Z",
+ "last_posted_at": "2022-03-15T23:15:34.539Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2022-03-15T23:15:34Z",
+ "captured_between": [
+  "2022-05-20T08:08:41Z",
+  "2022-05-20T08:08:41Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bustavo",
+   "name": null,
+   "created_at": "2022-03-11T20:07:58Z",
+   "updated_at": "2022-03-11T20:27:42Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>After being involved in the praise quantification process, I think the process could be automated a bit… I’ve read the <a href=\"https://forum.tecommons.org/t/rules-of-praise-and-quantification/667#memo-how-should-a-praise-be-formulated-4\">Rules of Praise and Quantification</a> post and if we try to follow the formulation proposal on that post, we could definitely set specific words / phrases / binomials / trinomials assigned to points…</p>\n<ol>\n<li>\n<p>We as quantifiers could meet first to  define words / phrases / activities and pre-assign points to them i.e. Attending a meeting has a different point score than participating or hosting it. Additional meetings could be done to add / remove / modify words / activities and their points.</p>\n</li>\n<li>\n<p>I could develop a Python script that can read the log or Google Docs and based on that assign points… I could add NLP to that process to make it a bit more accurate and allow the script to add the score that determined the points assigned ( so that it does not become a black box assigning scores ).</p>\n</li>\n<li>\n<p>Our quantification meeting could be used to validate the script and get feedback and make it better and probably manually assign points on the praise that could not be assigned automatically by the script.</p>\n</li>\n</ol>\n<p>Is this something that we would be interested in doing? Is anybody else already working on something like this?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080841",
+    "url": "https://forum.tecommons.org/t/praise-quantification-automation/930"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "mattyjee",
+   "name": null,
+   "created_at": "2022-03-15T18:39:44Z",
+   "updated_at": "2022-03-15T20:27:47Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/bustavo\">@bustavo</a></p>\n<p>I’m new to the TEC, but I’ve been working on the praise app, so I hope I can clarify the thinking around it.</p>\n<p>Below is a diagram showing the current plan for the praise quantification system:<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/4eeece3f0e5e2024c9950f333c04f6eb49c622ef\" href=\"https://forum.tecommons.org/uploads/default/original/1X/4eeece3f0e5e2024c9950f333c04f6eb49c622ef.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"bggSEfMd0d9SF0Gy9ZH3kJNv7MX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/4eeece3f0e5e2024c9950f333c04f6eb49c622ef_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/4eeece3f0e5e2024c9950f333c04f6eb49c622ef_2_304x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/4eeece3f0e5e2024c9950f333c04f6eb49c622ef_2_304x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/4eeece3f0e5e2024c9950f333c04f6eb49c622ef_2_456x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/4eeece3f0e5e2024c9950f333c04f6eb49c622ef_2_608x1000.png 2x\" width=\"304\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">780×1281 88.8 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>And a written overview: <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/outlining-the-rewards-system-process-v2/646\">Outlining the Rewards System Process.. v2!</a></p>\n<p>The idea is to split incoming praise into two buckets:</p>\n<ol>\n<li>\n<strong>Objectively quantifiable praise:</strong> praise for an explicitly / automatically identifiable activity, which receives a fixed quantification.</li>\n<li>\n<strong>Inter-subjectively quantifiable praise:</strong> praise for a subjectively identifiable activity that receives an inter-subjective quantification.</li>\n</ol>\n<p>For 1 we’ll be using SourceCred, and for 2 we’ll be using the praise app.</p>\n<p>Just a note that if you were a quantifier this week or last you would have been reviewing the praise from way back – in July I think? There was likely a lot of praise in there which in the future will fall under bucket 1, and be automatically quantified by SourceCred.</p>\n<p>I think what you’re suggesting is a third bucket: praise which is <em>subjectively identified</em> but <em>objectively quantified</em>. And with NLP we could analyse praise instances and assign objective quantification based on the words / phrases used.</p>\n<p>I appreciate the goal of trying to reduce the overhead of the quantification process.</p>\n<p>I guess I’d I have a few concerns:</p>\n<ul>\n<li>Risk of gaming: The praise giver can tune their language to trigger a desired objective quantification. Effectively the praise giver becomes the quantifier.</li>\n<li>Flattening impact: It will cause objective quantification of praise which may contain similar language, but have very different impact, or different subjectively understood impact.</li>\n</ul>\n<p>In general though, I’m not sure how to think about the contrast between systems of <em>objective</em> quantification (where the value of different contributions is defined via governance), versus <em>inter-subjective quantification</em> (where the value of different contributions is defined by some composite of subjective peer quantification).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080841",
+    "url": "https://forum.tecommons.org/t/praise-quantification-automation/930"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "bustavo",
+   "name": null,
+   "created_at": "2022-03-15T23:15:34Z",
+   "updated_at": "2022-03-15T23:15:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hello <a class=\"mention\" href=\"/u/mattyjee\">@mattyjee</a> ! Thanks for the very nice and clear diagrams and explanation.</p>\n<p>Regarding the 2 concerns, I’d like to add to the discussion:</p>\n<p>Risk of gaming… isn’t that a risk already present now with human quantification? We could use the data sets being generated manually to try to train or do baseline comparisons with what the nlp determines ( I know it’s not that much data ). We could also run scenarios where we generate “tuned” praise and see if we can make the nlp find it and flag it ( could be an interesting experiment ).</p>\n<p>Flattening impact: I think we can add rules to consider this and flag things that seem very similar or that are new ( compared with past praise ) and those elements could be manually evaluated and be part of the learning process ( with much less time spent on that ). I assume that as time goes by, praise will be changing according to new activities, events, etc.</p>\n<p>I am also not sure on the contrast between systems of objective quantification vs inter-subjective quantification.</p>\n<p>I’d love to continue the discussion <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> I am not tied to making this idea happen so if we decide it is something that would be a waste of time, I would totally understand.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080841",
+    "url": "https://forum.tecommons.org/t/praise-quantification-automation/930"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520080841",
+   "url": "https://forum.tecommons.org/t/praise-quantification-automation/930"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520080841",
+   "url": "https://forum.tecommons.org/t/praise-quantification-automation/930"
+  }
+ ]
+}

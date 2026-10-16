@@ -1,0 +1,256 @@
+{
+ "id": 85,
+ "title": "Launching in 2 parts: First Hatch + Dandelion, then Vote to add ABC & CV",
+ "slug": "launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv",
+ "category_id": 18,
+ "posts_count": 8,
+ "created_at": "2020-11-19T01:23:57.471Z",
+ "last_posted_at": "2021-02-19T03:18:01.167Z",
+ "views": 5033,
+ "highest_post_number": 11,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 11,
+ "archived_numbers": 11,
+ "last_archived_post_at": "2021-02-19T03:18:01Z",
+ "captured_between": [
+  "2021-04-20T12:53:30Z",
+  "2026-02-28T04:29:34Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2020-11-19T01:23:57Z",
+   "updated_at": "2021-03-06T19:27:47Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>In short, when we launch, we will first only deploy the Hatch and Dandelion DAO. There will still be a Hatch Tribute, so the funds collected would still be split between two Pools: The Non-Redeemable Pool which is dedicated to supporting TE Projects and TEC Operations, and the Redeemable Pool, dedicated to creating an economic system for the DAO.</p>\n<p>But the <a href=\"https://medium.com/commonsstack/deep-dive-augmented-bonding-curves-b5ca4fad4436\">Augmented Bonding Curve</a> and <a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">Conviction Voting</a> apps would be added by a vote of the TEC Token Holders.</p>\n<p>For a detailed explanation of the change, see my 5 minute explanation in the Soft Gov Call:</p><div class=\"youtube-onebox lazy-video-container\" data-video-id=\"6DyK2JrK9EE\" data-video-title=\"W5 Softgov WG: Rules and boundaries, Ostrom's principles\" data-video-start-time=\"1811\" data-provider-name=\"youtube\">\n  <a href=\"https://www.youtube.com/watch?v=6DyK2JrK9EE\" target=\"_blank\" rel=\"noopener\">\n    <img class=\"youtube-thumbnail\" src=\"https://img.youtube.com/vi/6DyK2JrK9EE/maxresdefault.jpg\" title=\"W5 Softgov WG: Rules and boundaries, Ostrom's principles\" width=\"690\" height=\"388\">\n  </a>\n</div>\n\n<p>The Pro’s</p>\n<ol>\n<li>\n<p>The complicated and critical apps that make up the ABC and CV, which will control the funds of the DAO will have more time for code review, and the 1hive Gardens Swarm can better focus efforts with a staggered launch.</p>\n</li>\n<li>\n<p>Because we are able to initialize as a Moloch style charity DAO, where people donate and it loses money. Legal gets MUCH easier, we are likely to be able to avoid KYC, and MIGHT even be able to allow Americans to play, under the argument that we are “sufficiently decentralized”</p>\n</li>\n<li>\n<p>We will have a stronger filter for the Hatchers as they will have to care more about participating in the governance of the Commons and it will be more obvious that this is a project with the intention to fund TE Public Goods over funding token speculation.</p>\n</li>\n</ol>\n<p>Con’s</p>\n<ol>\n<li>\n<p>The conversation for Onboarding and Comms becomes a bit harder. We add in this extra step and we can no longer promise that they will receive a token that is worth more than they contributed. That is dependent on a vote.</p>\n</li>\n<li>\n<p>There is a likely hood that we will have a smaller Hatch because of this uncertainty, and the Hatchers will be able to remove their</p>\n</li>\n<li>\n<p>We will start out with a real test of our social governance structures. We will need to organize well to inform the Hatchers what they will be voting on and what it means.</p>\n</li>\n</ol>\n<p>What do you think should we launch in 2 parts?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JessicaZartler",
+   "name": "Jessica Zartler",
+   "created_at": "2020-11-24T00:34:25Z",
+   "updated_at": "2020-11-24T00:41:03Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p><img src=\"https://forum.tecommons.org/images/emoji/win10/no_entry_sign.png?v=9\" title=\":no_entry_sign:\" class=\"emoji\" alt=\":no_entry_sign:\"> <strong>VOTE EXPLAINER</strong>: I am blocking the vote – not because I am against launching in two parts, I am in favor, based on the legal and other positive aspects of this decision to launch in two parts. What I am concerned about however, is the following:</p>\n<p>-<strong>1. Wanting to ensure a fair, inclusive and successful hatch</strong> - we do not have any KPIs or definition of our goal. I would like to see an inclusive and diverse hatch if this is, in essence, a kind of “pre-sale” and another governance layer and make sure we do not have a technocracy… what defines diverse? How many people would we want to have this governance power? What is the maximum or goal we would like to raise? If we only get one shot and we don’t succeed, that is not good.</p>\n<p><strong>-2. If we don’t meet that goal, and it is not “successful” based on those KPIs could we have a second hatch</strong> before launching the bonding curve to further increase the diversity of our governance and Trusted Seed?</p>\n<p>-<strong>3. The lack of clarity surrounding the CSTK token’s involvement in the hatch</strong> and how that will play into the hatch. I believe we need this information to make the best decision on how to proceed.</p>\n<p>-<strong>4. Pending updates to the Commons Stack Trusted Seed</strong> – I think we need to give some time to harness this dormant energy, which is currently in progress to revive a lack of engagement.</p>\n<p>-<strong>5. Unclear timelines</strong> - the talk was to push for this hatch in December, today I heard different information, it is still not clear how much runway we will have for Onboarding/Communications to organize around the plans, would like to have a little more concrete timeline for the ramp up.</p>\n<p><strong>Moving forward:</strong><br>\nI would be happy to support launching in two parts if we can have dialogue around some of these issues and have clarity, especially some discussion around <span class=\"hashtag\">#2</span> and also, not sure if this vote is just to signal to move in this direction, and that we will hold other votes on some of these other issues, and if so, which ones?</p>\n<p>I believe more dialogue is needed before voting on this decision and look forward to setting time for a discussion, or continuing a-sync on this thread. Thank you to everyone for sharing your feedback and participation in the process <img src=\"https://forum.tecommons.org/images/emoji/win10/pray.png?v=9\" title=\":pray:\" class=\"emoji\" alt=\":pray:\"></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": "Sem",
+   "created_at": "2020-11-24T13:25:57Z",
+   "updated_at": "2020-11-24T13:25:57Z",
+   "reply_to_post_number": 2,
+   "like_count": 3,
+   "cooked": "<p>Thank you for sharing your concerns, Jess! I also share them, and I hope we can solve them soon. Here are my thoughts on each of them:</p>\n<ol>\n<li>\n<strong>Successful hatch:</strong> On one side, we need to define the parameters together, but we are not having much participation in the <a href=\"https://forum.tecommons.org/c/Token-talk-anything-about-the-TEC-token-such-as-issuance-and-hatches/9\">deep dives</a> that are already posted. We may need change the strategy (Jake is beginning this week, but he will take on that). On the other side, technical parameters doesn’t define what is good or bad for the community, and we may need other KPIs to see how we are doing. It sounds like the oboarding wg can take care of it? maybe with the help of comms, because you work directly with the people who is reached?</li>\n<li>\n<strong>Second hatch</strong>: That’s an interesting question. Until now, we were only taking into account the money fundraised to define a successful/non-successful hatch. If we take into account other KPI, we should make sure we check them all before we launch the hatch DAO. If we meet all the KPI we define, and we don’t receive enough funds in the hatch, the money will be refunded, and we can repeat it in a later time with another hatch DAO, but let’s pull out all the stops in the first time <img src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=9\" title=\":wink:\" class=\"emoji\" alt=\":wink:\">\n</li>\n<li>\n<strong>CSTK</strong>: This is what tec wg want to show in the next demo regarding the “improved hatch”. It will follow a naïve implementation of the original <a href=\"https://medium.com/giveth/the-trusted-seed-of-the-commons-stack-5af6fb04cd30\">Commons Stack design</a>: people can contribute to Commons hatches in proportion on how much CSTK tokens they have. We can discuss other mechanisms in the forum, for example, do we want to add a min or max cap per account? We are still iterating.</li>\n<li>\n<strong>Trusted seed</strong>: I totally agree, we need them engaged before we launch the hatch.</li>\n<li>\n<strong>Timelines</strong>: I think Tamara is who may be in the best position to understand the progress of the different working groups and help them reach consensus in the timelines. From the tec wg, we would be ready to launch on mid December, this is why we proposed to split the launch in two, so we could make it on time and don’t block the progress of the rest of wg. That being said, there is no need to rush, and maybe we need more time to engage the trusted seed (see <span class=\"hashtag\">#4</span>). We would also appreciate having more time to do last retouches in the code.</li>\n</ol>\n<p>Let’s improve the coordination between the different wg, Thursday calls are great but they are not enough. Zenhub and this forum are probably the best tools for that (plus cross-pollination between the wg calls)!</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2020-11-24T15:58:57Z",
+   "updated_at": "2020-12-01T12:27:24Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-username=\"JessicaZartler\" data-post=\"2\" data-topic=\"85\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"20\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/jessicazartler/40/7_2.png\" class=\"avatar\"> JessicaZartler:</div>\n<blockquote>\n<p>-<strong>1. Wanting to ensure a fair, inclusive and successful hatch</strong></p>\n</blockquote>\n</aside>\n<p>This is something we have to be careful about.</p>\n<p>We are not aiming for an inclusive Hatch. We need to be explicitly excluding speculators from the Hatch, and only including people that can be trusted to care about the actual VALUE of Public Goods in the Token Engineering space.</p>\n<p>We definitely need to get to work on the onboarding group and find all the awesome Token Engineers working hard building projects in the space that would benefit from our work.</p>\n<p>We also need to be careful not to allow people with a green frog as their twitter pic to have a lot of governance power in the TEC.</p>\n<p>Quality over quantity for sure. This is more akin to starting a nonprofit, than doing an ICO. We want to make sure we stack the deck with awesome people that want to advance the state of Token Engineering and be careful not to let in people who only care about “Number go up”</p>\n<p>For the rest… I pretty much just agree with what Sem said, we need to be okay with not having some of these issues totally clear before picking this path. We will always have to make some decisions first before making the rest. They can’t all be made at the same time.</p>\n<p>After the next rehearsal this week, everyone will have a much clearer understanding of the process, and with that foundation we can start to understand the parameters and their influence… We want an informed dialog <img src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"> not just dialog.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Tamara",
+   "name": "Tamara",
+   "created_at": "2020-11-24T21:49:59Z",
+   "updated_at": "2020-11-24T21:49:59Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Some thoughts about what’s been written.</p>\n<p>I saw this vote more in the light which you, Jess, touch upon at the end of your post. For me, it is just a matter of changing direction, with timing to be hardened. For the reasons that were discussed, importantly those which pertain to reducing legal grey area, I voted yes. I don’t think there is very clear timeline yet, right? Maybe there are some soft targets.</p>\n<p>If we look at concerns 1, 2 and 4, they’re actually all solvable within some timeframe. The question is: what is a reasonable timeframe to complete the critical path work. Which begets the next question of what are the critical path pieces of work?</p>\n<p>Jess’s concerns have legs. It surfaces the known risks and maybe there are more. And it also affords clarification on specific strategic thought, like the comments from Griff about criteria for success around Hatch participation.</p>\n<p>My proposal on the call today was for each working group lead to add the label “Hatch Critical Path” to all issues within their group that are blocking launching the Hatch. We can address them and see what timeline is feasible.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2020-12-04T21:23:13Z",
+   "updated_at": "2020-12-04T21:23:13Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Launching in 2 parts ended up passing in thru our decision process… and Sem (I think) drew up a nice diagram showing the Hatch Process</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/ae3390d080c5f01fade4eb1b37b617cff52e500b.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/ae3390d080c5f01fade4eb1b37b617cff52e500b\" title=\"Screen Shot 2020-12-04 at 4.03.16 PM\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/ae3390d080c5f01fade4eb1b37b617cff52e500b_2_390x500.png\" alt=\"Screen Shot 2020-12-04 at 4.03.16 PM\" data-base62-sha1=\"oR3yE6KiUZrNgPZH3geNEPX7ddp\" width=\"390\" height=\"500\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/ae3390d080c5f01fade4eb1b37b617cff52e500b_2_390x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/ae3390d080c5f01fade4eb1b37b617cff52e500b_2_585x750.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/ae3390d080c5f01fade4eb1b37b617cff52e500b.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/ae3390d080c5f01fade4eb1b37b617cff52e500b_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2020-12-04 at 4.03.16 PM</span><span class=\"informations\">774×990 97.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-05T13:37:53Z",
+   "updated_at": "2020-12-05T13:37:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>As we develop and grow it would be critical to see this diagram as well.  This along with the Spec sheet would be fantastic.  Perhaps even as defined??  Great job Santi and Sem!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420125330",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "cranders1",
+   "name": "cuaa1g24iz",
+   "created_at": "2020-12-05T17:26:25Z",
+   "updated_at": "2020-12-05T17:26:25Z",
+   "reply_to_post_number": 6,
+   "like_count": 1,
+   "cooked": "<p>Already desktop background. drill, drill, drill.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Freedumbs00",
+   "name": null,
+   "created_at": "2020-12-05T17:54:08Z",
+   "updated_at": "2020-12-05T17:54:08Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a href=\"https://youtu.be/y_paK1Qymp8\" rel=\"noopener nofollow ugc\">This is how badass the Commons is!</a> <img alt=\":stuck_out_tongue_winking_eye:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/stuck_out_tongue_winking_eye.png?v=9\" title=\":stuck_out_tongue_winking_eye:\"/> <img alt=\":crazy_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/crazy_face.png?v=9\" title=\":crazy_face:\"/> <img alt=\":grin:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grin.png?v=9\" title=\":grin:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210420125330",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "santigs",
+   "name": "Santi",
+   "created_at": "2020-12-22T08:49:34Z",
+   "updated_at": "2020-12-22T08:49:34Z",
+   "reply_to_post_number": 6,
+   "like_count": 4,
+   "cooked": "<p>New version adding IH minting<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/3095d2b4c3141993c0c8793f39c2c43f6e877708.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/3095d2b4c3141993c0c8793f39c2c43f6e877708\" title=\"Hatch_DAO_V4\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/3095d2b4c3141993c0c8793f39c2c43f6e877708_2_367x500.png\" alt=\"Hatch_DAO_V4\" data-base62-sha1=\"6VNUBGE7ibCOIECZk1Kx0XBqW24\" width=\"367\" height=\"500\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/3095d2b4c3141993c0c8793f39c2c43f6e877708_2_367x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/3095d2b4c3141993c0c8793f39c2c43f6e877708_2_550x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/3095d2b4c3141993c0c8793f39c2c43f6e877708_2_734x1000.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/3095d2b4c3141993c0c8793f39c2c43f6e877708_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Hatch_DAO_V4</span><span class=\"informations\">805×1096 72.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "Griff",
+   "name": "Griff Green",
+   "created_at": "2021-02-19T03:18:01Z",
+   "updated_at": "2021-02-19T03:18:01Z",
+   "reply_to_post_number": 10,
+   "like_count": 2,
+   "cooked": "<p>TEC Hatch DAO Diagram… v6 <img src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\"><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://forum.tecommons.org/uploads/default/original/1X/5209ce438589f94efd23b9e7c5807d24a9d9043b.png\" data-download-href=\"https://forum.tecommons.org/uploads/default/5209ce438589f94efd23b9e7c5807d24a9d9043b\" title=\"TEC_Hatch_DAO_V6\"><img src=\"https://forum.tecommons.org/uploads/default/optimized/1X/5209ce438589f94efd23b9e7c5807d24a9d9043b_2_360x500.png\" alt=\"TEC_Hatch_DAO_V6\" data-base62-sha1=\"bHK9ZLHiG6zA2S2MbHoWjuRmhXd\" width=\"360\" height=\"500\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/5209ce438589f94efd23b9e7c5807d24a9d9043b_2_360x500.png, https://forum.tecommons.org/uploads/default/optimized/1X/5209ce438589f94efd23b9e7c5807d24a9d9043b_2_540x750.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/5209ce438589f94efd23b9e7c5807d24a9d9043b_2_720x1000.png 2x\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/5209ce438589f94efd23b9e7c5807d24a9d9043b_2_10x10.png\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">TEC_Hatch_DAO_V6</span><span class=\"informations\">805×1117 83.1 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg></div></a></div></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228042934",
+    "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420125330",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420125330",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025093407",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/11"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025093407",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/11"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204015924",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204015924",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530072355",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530072355",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251216234259",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251216234259",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228042934",
+   "url": "https://forum.tecommons.org/t/launching-in-2-parts-first-hatch-dandelion-then-vote-to-add-abc-cv/85/1"
+  }
+ ]
+}

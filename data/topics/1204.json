@@ -1,0 +1,157 @@
+{
+ "id": 1204,
+ "title": "TEC Strategic Framework",
+ "slug": "tec-strategic-framework",
+ "category_id": 28,
+ "tags": [
+  "advice-process",
+  "strategy"
+ ],
+ "posts_count": 6,
+ "created_at": "2023-02-13T22:24:13.932Z",
+ "last_posted_at": "2023-03-03T22:20:32.763Z",
+ "total_known": true,
+ "archived_posts": 7,
+ "archived_numbers": 7,
+ "last_archived_post_at": "2023-03-03T22:20:32Z",
+ "captured_between": [
+  "2023-04-01T00:30:51Z",
+  "2023-05-30T07:03:15Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-02-13T22:24:14Z",
+   "updated_at": "2023-02-13T22:24:14Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h3>\n<a class=\"anchor\" href=\"#provide-as-much-information-as-possible-about-your-idea-1\" name=\"provide-as-much-information-as-possible-about-your-idea-1\"></a>Provide as much information as possible about your idea.</h3>\n<p>This strategic framework will help guide the Token Engineering Commons over the next few years. Most of it should feel familiar, since it draws on many earlier documents and conversations. In this sense, it seeks to transform implicit assumptions into explicit assumptions. This framework is organized as two perspectives or views. The first is a “theory of change,” a logical structure for articulating desired impact and outcomes and the resources, people, and work needed to achieve them. The second view is a chronological ordering, or roadmap.</p>\n<p>This framework is intentionally minimalistic – a directional compass heading, rather than detailed plans. This map is not the territory. It is simply a way to balance direction with responsiveness in an emerging field. This framework will evolve over time as our understanding of the terrain improves.</p>\n<p>This work has already undergone a fairly extensive advice process with feedback from more than a dozen community members in group and one-on-one sessions. It’s now ready for feedback and a vote by the community. Note that this strategy is intended to work with our existing <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values\">mission, vision, and values</a>. We may well someday modify that articulation of our work, but that is beyond the scope of this framework.</p>\n<h2>\n<a class=\"anchor\" href=\"#theory-of-change-2\" name=\"theory-of-change-2\"></a>Theory of Change</h2>\n<h4>\n<a class=\"anchor\" href=\"#impact-3\" name=\"impact-3\"></a>Impact:</h4>\n<p>The Token Engineering Commons (TEC) aspires to harness the power of token engineering expertise to tackle global economic, societal, and ecological challenges. We do this by:</p>\n<h4>\n<a class=\"anchor\" href=\"#outcomes-4\" name=\"outcomes-4\"></a>Outcomes:</h4>\n<ul>\n<li>investing in education, research, and open source tools, we help develop token engineering expertise.</li>\n<li>promoting the application of token engineering expertise by fostering collaboration among practitioners and advocating its use to end users.</li>\n<li>building societal trust in the processes and institutions that house token engineering expertise.</li>\n</ul>\n<p>As the world’s first blockchain-based commons, the TEC stewards the following common pool resources on behalf of the token engineering field:</p>\n<ul>\n<li>Financial capital (invested and liquid)</li>\n<li>Social capital (attention, reputation, and relationships)</li>\n<li>Cultural capital (norms, memes, and branding)</li>\n<li>Intellectual capital (knowledge, process, and code)</li>\n</ul>\n<p>The TEC focuses these shared resources on four pillars of work:</p>\n<ul>\n<li>Token Engineering Education</li>\n<li>Token Engineering Research</li>\n<li>Token Engineering Applications</li>\n<li>Token Engineering Advocacy</li>\n</ul>\n<p>These four work pillars serve four overlapping stakeholder groups:</p>\n<ul>\n<li>Token Engineering Students &amp; Teachers</li>\n<li>Token Engineering Researchers</li>\n<li>Token Engineering Practitioners (Builders &amp; Consultants)</li>\n<li>Token Engineering Users (Clients &amp; Beneficiaries)</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#roadmap-5\" name=\"roadmap-5\"></a>Roadmap</h2>\n<p>A roadmap organizes and prioritizes investments over time. Reality is fuzzier, of course, and some work will undoubtedly blend across the simplified phases below.</p>\n<h3>\n<a class=\"anchor\" href=\"#phase-i-te-education-6\" name=\"phase-i-te-education-6\"></a>Phase I: TE Education</h3>\n<p>Time frame: 2022-2024</p>\n<p>Investing in education grows the talent pool that builds the future of token engineering. Funding for the Token Engineering Academy (TEA) was just the beginning. By integrating the TEA into the TEC’s stakeholder-owned micro-economy, we will strengthen the sustainability and impact of the education pillar of the commons.</p>\n<p>In Phase I, we reduce the TEC’s overall spending to direct the majority of our resources into building upon the TEA’s momentum in developing its community and education services. We embrace the bear market as a time when many will invest in education, making it an excellent bet for growing the utility of the $TEC token over the next few years.</p>\n<hr/>\n<h3>\n<a class=\"anchor\" href=\"#token-engineering-stakeholder-study-7\" name=\"token-engineering-stakeholder-study-7\"></a>Token Engineering Stakeholder Study</h3>\n<p>In 2023, the TEC will contribute to research into the emerging needs of the token engineering field. The results will no doubt heavily influence our plans, so consider the following phases just working assumptions for now.</p>\n<hr/>\n<h3>\n<a class=\"anchor\" href=\"#phase-ii-te-practitioners-8\" name=\"phase-ii-te-practitioners-8\"></a>Phase II: TE Practitioners</h3>\n<p>Time frame: 2024-2026?</p>\n<p>As token engineering continues to grow, we shift focus to fostering coordination among practitioners. In Phase II, the TEC will expand community building to attract a diverse group of token engineering practitioners. To guide investments, we will rely on field research, stakeholder feedback, and giving more weight to token engineering expertise in the governance of our common pool. The $TEC token will gain utility as practitioners see the benefits of participating in professional directories, knowledge graphs, and a new suite of professional services. Phase II will function as a mix between a trade association and a community of practice.</p>\n<h3>\n<a class=\"anchor\" href=\"#phase-iii-tbd-9\" name=\"phase-iii-tbd-9\"></a>Phase III: TBD</h3>\n<p>Time frame: 2026–?</p>\n<p>Given the uncertainty of web3, it doesn’t make a lot of sense to invest much effort in planning beyond 2026. There are a few paths worth considering, however.</p>\n<ul>\n<li>Supporting research is essential for the development of token engineering. If the TEA’s “exit to commons” goes well, it may prove an attractive option for an organization like the Smart Contract Research Forum.</li>\n<li>Advocacy, public relations, and marketing are crucial for highlighting the role of token engineering in ensuring a more positive impact for blockchain technology. Through case studies, stories, and other communications, the TEC can help change negative public perceptions that increase the likelihood of harmful government control over web3. There may also be an opportunity to build stakeholder-owned and governed marketplaces to connect practitioners and clients in a vibrant economy for blockchain-based public goods.</li>\n</ul>\n<p>Miro Boards:<br/>\nThis framework was presented to community members for feedback via a <a href=\"https://miro.com/welcomeonboard/SkFCZFVCUGVNN0VYZDZHY2RuYTZBUTRaYnpvVUJKNWZTSWhBeW5ITU4yNHB5WEo3R3h1NXpIWlNPdUtHOTVCV3wzMDc0NDU3MzY1NDIxMTQ1NTc1fDI=?share_link_id=32102943592\">Miro board</a>, as part of the initial phases of the advice process.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/5aced96beb43b5025892f36db9c06eb48c8ce1b7\" href=\"https://forum.tecommons.org/uploads/default/original/1X/5aced96beb43b5025892f36db9c06eb48c8ce1b7.jpeg\" title=\"TEC 2023 Theory of Change\"><img alt=\"TEC 2023 Theory of Change\" data-base62-sha1=\"cXk8Z6qEgLjRH9W6eYBgnUv8d4r\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/5aced96beb43b5025892f36db9c06eb48c8ce1b7_2_10x10.png\" height=\"455\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/5aced96beb43b5025892f36db9c06eb48c8ce1b7_2_690x455.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/5aced96beb43b5025892f36db9c06eb48c8ce1b7_2_690x455.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/5aced96beb43b5025892f36db9c06eb48c8ce1b7_2_1035x682.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/5aced96beb43b5025892f36db9c06eb48c8ce1b7_2_1380x910.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">TEC 2023 Theory of Change</span><span class=\"informations\">1691×1116 205 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/f83d50c667a09577feaba446da209130ce00681b\" href=\"https://forum.tecommons.org/uploads/default/original/1X/f83d50c667a09577feaba446da209130ce00681b.jpeg\" title=\"TEC 2023 Roadmap\"><img alt=\"TEC 2023 Roadmap\" data-base62-sha1=\"zq1MoyMAsuxDBI9nirTICJwkxyr\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/f83d50c667a09577feaba446da209130ce00681b_2_10x10.png\" height=\"424\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f83d50c667a09577feaba446da209130ce00681b_2_690x424.jpeg\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f83d50c667a09577feaba446da209130ce00681b_2_690x424.jpeg, https://forum.tecommons.org/uploads/default/optimized/1X/f83d50c667a09577feaba446da209130ce00681b_2_1035x636.jpeg 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/f83d50c667a09577feaba446da209130ce00681b_2_1380x848.jpeg 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">TEC 2023 Roadmap</span><span class=\"informations\">1671×1027 209 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h3>\n<a class=\"anchor\" href=\"#how-is-it-relevant-to-the-tec-mission-vision-and-values-10\" name=\"how-is-it-relevant-to-the-tec-mission-vision-and-values-10\"></a>How is it relevant to the TEC mission, vision and values?</h3>\n<p>This framework will help focus the TEC on the desired impact, outcomes, work, resources, and timing needed to best fulfill our mission, vision, and values.</p>\n<h3>\n<a class=\"anchor\" href=\"#who-is-going-to-be-affected-by-what-youre-proposing-11\" name=\"who-is-going-to-be-affected-by-what-youre-proposing-11\"></a>Who is going to be affected by what you’re proposing?</h3>\n<p>All TEC stakeholders could potentially be affected by this framework.</p>\n<h3>\n<a class=\"anchor\" href=\"#who-has-expertise-in-this-topic-and-could-advise-your-process-12\" name=\"who-has-expertise-in-this-topic-and-could-advise-your-process-12\"></a>Who has expertise in this topic and could advise your process?</h3>\n<p>A number of people participated in the initial rounds of the advice process and provided valuable feedback to this framework, including:<br/>\n<a class=\"mention\" href=\"/u/gideonro\">@gideonro</a><br/>\n<a class=\"mention\" href=\"/u/tamara\">@Tamara</a><br/>\n<a class=\"mention\" href=\"/u/liviade\">@liviade</a><br/>\n<a class=\"mention\" href=\"/u/griff\">@Griff</a><br/>\n<a class=\"mention\" href=\"/u/akrtws\">@akrtws</a><br/>\n<a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a><br/>\n<a class=\"mention\" href=\"/u/bear100\">@bear100</a><br/>\n<a class=\"mention\" href=\"/u/enti\">@enti</a><br/>\n<a class=\"mention\" href=\"/u/natesuits\">@natesuits</a><br/>\n<a class=\"mention\" href=\"/u/biancagadelha\">@BiancaGadelha</a><br/>\n<a class=\"mention\" href=\"/u/rex\">@rex</a><br/>\n<a class=\"mention\" href=\"/u/acidlazzer\">@acidlazzer</a><br/>\n<a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a><br/>\n<a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a><br/>\n<a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a><br/>\n<a class=\"mention\" href=\"/u/mzargham\">@mzargham</a></p>\n<h3>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-13\" name=\"what-type-of-proposal-is-this-13\"></a>What type of proposal is this?</h3>\n<p>Snapshot (cultural)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2023-02-16T05:57:22Z",
+   "updated_at": "2023-02-16T05:57:22Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Historically, academia has always had the issue of being detached from real life market places, often with the received assumption it “knows better”.</p>\n<p>Science is bi-directional, however. It isn’t just for academics to propose theory awaiting funding and proof in the field, but also to observe IRL developments and understand how they fit into existing knowledge models. This side of the process can take 2-3 years before academia is fully ready to engage with IRL.</p>\n<p>What are TEC proposing to maintain contact with IRL during 2023? Because otherwise the existing body of knowledge will simply date rapidly in a roiling current marketplace that includes the advent of the highly disruptive ChatGPT, and the rise of NFTs and the Metaverse. Closer to home, will market research also include a clear eyed assessment of key feedback from the attempt to bring in ABC?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-02-16T16:28:00Z",
+   "updated_at": "2023-02-16T16:28:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Good question. The biggest initiative on this front is a fairly ambitious stakeholder study that <a class=\"mention\" href=\"/u/liviade\">@liviade</a> is spearheading and just now getting underway. Beyond that we (<a class=\"mention\" href=\"/u/tamara\">@Tamara</a> is taking the lead here) are also now figuring out how to structure an advisory network. The curation service is also part of this solution for helping the community to stay up on important work that’s happening in the field.</p>\n<p>In short, the crew here is very much aware of the fact that the TEC needs to be much more externally oriented. Over the last two and a half months, the coordination team has been putting internal systems in place to allow the commons to run much more cost-effectively (one quarter the previous burn rate). With most of that now done, we can now start focusing back on the mission again. This framework is a step in that direction and should help us to build some good momentum again.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-02-28T01:51:29Z",
+   "updated_at": "2023-02-28T01:51:29Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The snapshot vote for this proposal is here:<br/>\n<a class=\"onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0xa191017d98459debe1b8d60df7159a4fa37769765515970cae46e184f8b74551\" rel=\"noopener\" target=\"_blank\">https://snapshot.org/#/tecommons.eth/proposal/0xa191017d98459debe1b8d60df7159a4fa37769765515970cae46e184f8b74551</a></p>\n<p>Last day for voting is Friday.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2023-02-28T12:17:26Z",
+   "updated_at": "2023-02-28T16:12:50Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I wholeheartedly support this proposal. Seems natural, as the founder of TE Academy.</p>\n<p>I’d like to add some thoughts here:<br/>\nWithout TE Commons funding, TE Fundamentals would not exist. Today, we’re close to 2000 students enrolled (End of Feb, 4 months after the launch).<br/>\nThousands of students would not have heard about building token systems as public goods, would not collaborate in study groups, would not find their way to IRL projects.<br/>\nHundred of projects would not even ask for rigorous design, and would not be able to find the expertise required.<br/>\nI cannot think of any way to invest in <span class=\"hashtag\">#tokenengineering</span> creating bigger impact. That’s why I support this proposal. <img alt=\":rainbow:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/rainbow.png?v=10\" title=\":rainbow:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-02-28T20:35:06Z",
+   "updated_at": "2023-02-28T20:35:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>It’s great to have explicit goals for what the TEC is willing to fund! thanks for this proposal Gideon, I fully support it too and I’m excited to see this focus on practitioners after the results of the stakeholder study <img alt=\":fire:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/fire.png?v=10\" title=\":fire:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-03T22:20:32Z",
+   "updated_at": "2023-03-03T22:20:32Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I’m happy to report that this strategic framework has now been formally accepted by the community. I hope that it will help strengthen our ability to move forward with both purpose and responsiveness to this evolving new field.<br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/70f6af4cdf377358937154a085c792040dfc0509\" href=\"https://forum.tecommons.org/uploads/default/original/1X/70f6af4cdf377358937154a085c792040dfc0509.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"g7jZM1NgKBLW2vqSM9sA6RdKEhb\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/70f6af4cdf377358937154a085c792040dfc0509_2_10x10.png\" height=\"324\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/70f6af4cdf377358937154a085c792040dfc0509_2_690x324.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/70f6af4cdf377358937154a085c792040dfc0509_2_690x324.png, https://forum.tecommons.org/uploads/default/original/1X/70f6af4cdf377358937154a085c792040dfc0509.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/70f6af4cdf377358937154a085c792040dfc0509.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">701×330 47.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530070315",
+    "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401003051",
+   "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401003051",
+   "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530070315",
+   "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530070315",
+   "url": "https://forum.tecommons.org/t/tec-strategic-framework/1204/7"
+  }
+ ]
+}

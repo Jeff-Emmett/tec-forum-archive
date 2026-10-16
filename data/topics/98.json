@@ -1,0 +1,258 @@
+{
+ "id": 98,
+ "title": "🔑 How to Join & Contribute?",
+ "slug": "how-to-join-contribute",
+ "category_id": 12,
+ "posts_count": 8,
+ "created_at": "2020-12-27T23:00:00.000Z",
+ "last_posted_at": "2022-05-06T22:45:00.032Z",
+ "views": 5541,
+ "highest_post_number": 8,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2022-05-06T22:45:00Z",
+ "captured_between": [
+  "2021-02-22T20:04:33Z",
+  "2026-04-12T15:44:50Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-27T23:00:00Z",
+   "updated_at": "2022-05-30T16:46:40Z",
+   "reply_to_post_number": null,
+   "like_count": 15,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#how-to-join-the-token-engineering-commons-1\" name=\"how-to-join-the-token-engineering-commons-1\"></a><strong>How to Join the Token Engineering Commons</strong>\n</h1>\n<ol>\n<li>\n<p><img alt=\":wave:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wave.png?v=10\" title=\":wave:\"/> Come say hello on our <a href=\"https://discord.gg/mUQvCm5Atm\">Discord</a> or <a href=\"https://t.me/tecommons\">Telegram</a> channels.</p>\n</li>\n<li>\n<p>Drop in to the new joiners <strong>orientation</strong> on <strong>Wednesday, 7am PST / 18h CET</strong> on our <a href=\"https://discord.com/channels/810180621930070088/810180622818869328\">community hall channel on Discord</a>.</p>\n</li>\n<li>\n<p><img alt=\":phone:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/phone.png?v=10\" title=\":phone:\"/> Join our next <strong>Community Call</strong> on <strong>Thursday, 9am PST / 20h CET</strong> on our <a href=\"https://discord.com/channels/810180621930070088/810180622818869328\">community hall channel on Discord</a>.</p>\n</li>\n<li>\n<p><img alt=\":globe_with_meridians:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/globe_with_meridians.png?v=10\" title=\":globe_with_meridians:\"/> Feel free to <strong>join any of our calls</strong>! Add one or more to your <a href=\"https://calendar.google.com/calendar/u/0/embed?src=5mkep1ad1j860k6g7i7fr8plq0@group.calendar.google.com&amp;ctz=Europe/Berlin\">calendar</a>.</p>\n</li>\n<li>\n<p><img alt=\":newspaper:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/newspaper.png?v=10\" title=\":newspaper:\"/> Connect with us and stay up to date by following the TEC on <a href=\"https://twitter.com/tecmns\">Twitter</a> and <a href=\"https://medium.com/token-engineering-commons\">Medium</a>.</p>\n</li>\n</ol>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/818abcf1391712a13da1304b0391e3f93d16cb9d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/818abcf1391712a13da1304b0391e3f93d16cb9d.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"itYPZAe6fSsx1O2NFZAKP4inkYt\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/818abcf1391712a13da1304b0391e3f93d16cb9d_2_10x10.png\" height=\"313\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/818abcf1391712a13da1304b0391e3f93d16cb9d_2_690x313.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/818abcf1391712a13da1304b0391e3f93d16cb9d_2_690x313.png, https://forum.tecommons.org/uploads/default/original/1X/818abcf1391712a13da1304b0391e3f93d16cb9d.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/818abcf1391712a13da1304b0391e3f93d16cb9d.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">871×396 370 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div><p></p>\n<p><img alt=\":seedling:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/seedling.png?v=10\" title=\":seedling:\"/> We are a blossoming and inclusive community with <strong>over 400 contributors from around the world</strong> and growing! <img alt=\":point_up:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/point_up.png?v=10\" title=\":point_up:\"/> Here’s a shot from one of our community calls on Thursdays – we <a href=\"https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba\">warmly welcome you to join</a>!</p>\n<h1>\n<a class=\"anchor\" href=\"#how-to-contribute-2\" name=\"how-to-contribute-2\"></a><strong>How to Contribute</strong>\n</h1>\n<p>We welcome and appreciate participation and contributions and invite you to share your experience with us. All contributions are rewarded in <a href=\"https://forum.tecommons.org/t/how-to-earn-cstk-tec-tokens/113/2\">Impact Hours that turn into TEC &amp; CSTK tokens</a>.</p>\n<p>We have <strong>10 working groups</strong> building the commons. Below is a description of each working group with the forum handles for the 11 guiding stewards if you have any questions, or contact <a class=\"mention\" href=\"/u/vegayp\">@Vegayp</a>, our orientation coordinator.</p>\n<p><img alt=\":seedling:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/seedling.png?v=10\" title=\":seedling:\"/> <strong><a href=\"https://forum.tecommons.org/t/communitas-working-group/649\">Communitas</a></strong>  mission is to nurture, grow and guide the TEC community. The points of focus are new member orientation, current member community building, and organisational design: namely, guiding folks into the TEC and helping folks navigate the TEC from the inside.</p>\n<p><img alt=\":loud_sound:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/loud_sound.png?v=10\" title=\":loud_sound:\"/> <strong><a href=\"https://forum.tecommons.org/t/comms-working-group/162\">Comms</a></strong> is taking care of the narrative we present to the world, setting up our communication platforms and promoting TE projects. <a class=\"mention\" href=\"/u/chuygarcia92\">@chuygarcia92</a></p>\n<p><img alt=\":dove:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dove.png?v=10\" title=\":dove:\"/> <strong><a href=\"https://forum.tecommons.org/t/gravity-working-group/177\">Gravity (conflict management)</a></strong> maintains community equilibrium and well-being through regular, open communication and, as needed, a system of graduated sanctions for conflict resolution; manages dispute escalation through the Celeste platform. <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a></p>\n<p><img alt=\":microscope:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/microscope.png?v=10\" title=\":microscope:\"/> <strong><a href=\"https://forum.tecommons.org/t/labs-working-group/410\">Labs</a></strong> is the central coordination sync point for the many TEC Labs events happening. <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a></p>\n<p><img alt=\":classical_building:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/classical_building.png?v=10\" title=\":classical_building:\"/> <strong><a href=\"https://forum.tecommons.org/t/legal-working-group/178\">Legal</a></strong> is researching relevant legal structures, looking into best and worst case scenarios and making sure we are prepared and able to avoid and manage pitfalls. <a class=\"mention\" href=\"/u/santigs\">@santigs</a></p>\n<p><img alt=\":dizzy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/dizzy.png?v=10\" title=\":dizzy:\"/> <strong><a href=\"https://forum.tecommons.org/t/mega-working-group/334\">0mega</a></strong> examines the ethos of and ethics in token engineering as well as the shared vision and diversity of its communities. <a class=\"mention\" href=\"/u/solsista\">@Solsista</a></p>\n<p><img alt=\":raised_hands:t4:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands/4.png?v=10\" title=\":raised_hands:t4:\"/> <strong><a href=\"https://forum.tecommons.org/t/soft-gov-working-group/163\">Soft Gov</a></strong> is researching best practices for governance and social collaboration. Organizing ourselves is one of the great challenges for humanity, also deeply affecting our economic perspectives. We orient ourselves through Elinor Ostrom’s 8 principles for governing a commons, for which she won the Noble Prize. <a class=\"mention\" href=\"/u/liviade\">@liviade</a></p>\n<p><img alt=\":ear_of_rice:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/ear_of_rice.png?v=10\" title=\":ear_of_rice:\"/> <strong><a href=\"https://forum.tecommons.org/t/community-stewards-wg/260\">Stewards</a></strong> collectively guides the various working groups (including the Stewards WG), coordinating work and communication efforts across the TEC community. <a class=\"mention\" href=\"/u/Tamara\">@Tamara</a></p>\n<p><img alt=\":female_detective:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/female_detective.png?v=10\" title=\":female_detective:\"/> <strong><a href=\"https://forum.tecommons.org/t/transparency-working-group/197\">Transparency</a></strong> proactively reinforces transparency and mutual monitoring across the TEC through different projects including the recording of all meetings. <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a></p>\n<p><em>More information coming soon about the newly born Sampo WG and Writer’s guild.</em><br/>\n<img alt=\":lollipop:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/lollipop.png?v=10\" title=\":lollipop:\"/> Looking forward to having you join the community! <img alt=\":wave:t5:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wave/5.png?v=10\" title=\":wave:t5:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-02T20:52:42Z",
+   "updated_at": "2020-12-02T20:52:42Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "JessicaZartler",
+   "name": null,
+   "created_at": "2020-12-02T20:53:15Z",
+   "updated_at": "2020-12-02T20:53:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2020-12-08T19:35:09Z",
+   "updated_at": "2020-12-08T19:35:09Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "vegayp",
+   "name": null,
+   "created_at": "2020-12-21T16:25:04Z",
+   "updated_at": "2020-12-21T16:25:04Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "",
+   "action": "moderator action",
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "CrazyKay",
+   "name": null,
+   "created_at": "2021-03-28T20:07:05Z",
+   "updated_at": "2021-03-28T20:07:05Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>I want to join~! I donated the project on Gitcoin, I like this project very much, please let me join.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-03-28T20:09:33Z",
+   "updated_at": "2021-03-28T20:09:33Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>The best way to join is by coming to the meetings you are more interested. Watch out the calendar linked in this same post.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "LBS",
+   "name": null,
+   "created_at": "2022-05-06T22:45:00Z",
+   "updated_at": "2022-05-06T22:45:00Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Onboarding Thoughts:</p>\n<p>There’s two categories “How to Join” and “How to Contribute” in this topic which share useful resources, but don’t quite expand on the difficult question of <em>how do I make my first contribution?</em> which everyone struggles to answer when they first come into a DAO.</p>\n<p>The existing “How to Join” content is a description of the different voice calls that would be of interest to a newcomer, links to the calendar, and links to social media. While these are all useful resources to have, they don’t quite spell out for a nervous newcomer how to start engaging with the space.</p>\n<p>So what are the steps of joining the TEC as a fresh face? A few I know of off the cuff are:</p>\n<ul>\n<li>Attending beginner-friendly calls</li>\n<li>Taking newcomer survey</li>\n<li>Finding and setting up necessary platforms/resources</li>\n<li>Connecting with at least one existing member 1:1</li>\n</ul>\n<p>The existing “How to Contribute” content contains a link to information about Praise/Tokens, establishes what working groups are, and has a list of the existing working groups with descriptions. Again, this is very useful information that could benefit from additional context about how to engage with these working groups and what other elements/actions come into play when trying to make your first contribution to the TEC. So what are the steps to take towards making your first contribution to the TEC? Here’s what I’ve figured out so far:</p>\n<ul>\n<li>Identify your area/working group of interest (Working Group Descriptions)</li>\n<li>Explore previous and current work in that field/working group (ZenHub, ???)</li>\n<li>Join in an existing action/issue -or- identify a new action/issue (ZenHub, WG calls)\n<ul>\n<li>Learn the advice process and make your first submission</li>\n</ul>\n</li>\n<li>??? (Join/Create a team, execute on a task)</li>\n</ul>\n<p>Creating some copy content regarding these different steps that someone with no context can take to start getting plugged into the TEC as a potential contributor could be powerful.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260412154450",
+    "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210222200433",
+   "url": "https://forum.tecommons.org/t/5-how-to-join-contribute/98/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210303013150",
+   "url": "https://forum.tecommons.org/t/5-how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303013150",
+   "url": "https://forum.tecommons.org/t/5-how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210304175448",
+   "url": "https://forum.tecommons.org/t/5-how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210624142753",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624142753",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210712125342",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210729030403",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210729030403",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20211025110520",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211025110520",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220413202607",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98/5"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520075416",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520075416",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221006174531",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221006174531",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240521183927",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521183927",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250319083330",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260412154450",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260412154450",
+   "url": "https://forum.tecommons.org/t/how-to-join-contribute/98"
+  }
+ ]
+}

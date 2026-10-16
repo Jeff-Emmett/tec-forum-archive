@@ -1,0 +1,105 @@
+{
+ "id": 126,
+ "title": "Principle 3 - Participatory decision making is vital",
+ "slug": "principle-3-participatory-decision-making-is-vital",
+ "category_id": 5,
+ "posts_count": 3,
+ "created_at": "2020-12-05T16:59:31.128Z",
+ "last_posted_at": "2020-12-11T11:17:44.793Z",
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "last_archived_post_at": "2020-12-11T11:17:44Z",
+ "captured_between": [
+  "2021-03-03T02:36:26Z",
+  "2023-05-30T08:30:37Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-12-05T16:59:31Z",
+   "updated_at": "2020-12-05T16:59:31Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Last week in Soft Gov we discussed the 3rd Ostrom Principle: Participatory decision making is vital. Luckily, this is one of the main subjects the DAO revolution has been touching on in the last few years: We’ve been building organizations with inclusivity and autonomy in mind.</p>\n<p><img alt=\":books:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/books.png?v=9\" title=\":books:\"/> In the first chapter of Governing the Commons, Ostrom presents the 3 models most frequently used to recommend why the state or the firm should be used as governing structures: the tragedy of the commons, the prisoner’s dilemma game and the logic of collective action.</p>\n<p>One commonality of these 3 models is the inability that agents have to take coordinated decisions, or to take decisions about the structure in which they are in at all. For that she comments:</p>\n<blockquote>\n<p>As long as individuals are viewed as prisoners, policy prescriptions will address this metaphor. I would rather address the question of how to enhance the capabilitIes of those involved to change the constraining rules of the game to lead to outcomes other than remorseless tragedies.</p>\n</blockquote>\n<p>The importance of Dandelion vote can’t be overstated here. It is the empirical application to the theory, and a step towards freeing the prisoners out of their dilemmas. However, Dandelion is only one part of this puzzle; to break free we need to build systems where agents have full access to informed decision making and can coordinate decisions towards a Pareto-optimal outcome, which means: “there is no other outcome strictly preferred by at least one player that is at least as good for the others.”</p>\n<p>Hence the importance of everyone’s participation in the <a class=\"inline-onebox\" href=\"https://forum.tecommons.org/t/hatch-parameters-general-discussion-thread/61\">Hatch Parameters General Discussion Thread</a>. It is quite rare to have technical parameters open for community inputs (I haven’t seen any other project doing this) So let’s take this great opportunity to be informed and consequently improve our ability to make decisions in the whole TEC context.</p>\n<p>Participatory decision making for the collective good is a complex challenge, maybe the most complex in life <img alt=\":slightly_smiling_face:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slightly_smiling_face.png?v=9\" title=\":slightly_smiling_face:\"/></p>\n<p>So we better try multiple solutions, and experiment with a sort of decision making mechanisms that can address different levels of decisions and agreements on and off chain <img alt=\":woman_shrugging:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/woman_shrugging.png?v=9\" title=\":woman_shrugging:\"/></p>\n<p>In September, we proposed to implement a temporary <a href=\"https://docs.google.com/document/d/1ytAM8RWbtopSvIzucNhMLkfYGTC7lnmiaPmTLyYe78g/edit\">decision making process</a> for the Cultural Build, which consists mostly of an <a href=\"https://reinventingorganizationswiki.com/theory/decision-making/\">advice process</a> and Discord emoji vote. As we get closer to the hatch, it makes sense to migrate the types of decisions being taken on Discord to the forum, since soon Conviction Voting proposals will also be here. So we would have:</p>\n<p><img alt=\":sunny:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunny.png?v=9\" title=\":sunny:\"/> Dandelion - capability to change hard governance constraints<br/>\n<img alt=\":sunny:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunny.png?v=9\" title=\":sunny:\"/> Conviction Voting - funding proposals (could also be used for signaling)<br/>\n<img alt=\":sunny:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunny.png?v=9\" title=\":sunny:\"/> Forum Poll - smaller decisions that don’t need to be on chain, it can also be used for signaling proposals before submitting to CV.</p>\n<p>Here are some loose notes from our last working group session, thanks <a class=\"mention\" href=\"/u/sem\">@sem</a> <a class=\"mention\" href=\"/u/ygg_anderson\">@ygg_anderson</a> <a class=\"mention\" href=\"/u/jessicazartler\">@JessicaZartler</a> <a class=\"mention\" href=\"/u/ZeptimusQ\">@ZeptimusQ</a> <a class=\"mention\" href=\"/u/santigs\">@santigs</a> <a class=\"mention\" href=\"/u/mateodaza\">@mateodaza</a> <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> <a class=\"mention\" href=\"/u/tonga\">@Tonga</a> <a class=\"mention\" href=\"/u/rubenr\">@RubenR</a> <a class=\"mention\" href=\"/u/daithi\">@daithi</a>, Ata, <a class=\"mention\" href=\"/u/cranders1\">@cranders1</a> <a class=\"mention\" href=\"/u/knobsDAO\">@knobsDAO</a> <a class=\"mention\" href=\"/u/eeli\">@eeli</a> for your presence and inputs!</p>\n<ul>\n<li>Not all decisions should go to CV, simple surveys in the forum can work very good, specially for signaling</li>\n<li>How to deal with voter apathy, how to know that the ones taking decisions are the most informed?</li>\n<li>Incentivizing voting vs risk of gamification</li>\n<li>It would be great to have a data driven approach and to research voting psychology</li>\n<li>Talking more about reputation systems</li>\n<li>How to bring the feeling of collective ownership?</li>\n<li>Having a culture around voting, i.e creating a voting routine/ ritual.</li>\n<li>Implementing liquid democracy in the future</li>\n<li>Implement quadratic conviction voting in the future</li>\n</ul>\n<p>It was interesting to see how some of the concerns that came up are somehow addressed by the decision making process we proposed in the past but wasn’t being used frequently, or in everyone’s awareness. In my opinion, the advice process targets voter apathy and it’s a natural incentive for people with skin in the game to vote since advice should be requested from:</p>\n<ol>\n<li>Who is going to be affected by the proposal</li>\n<li>Who are the experts on the proposed subject</li>\n</ol>\n<p>I propose we implement the advice process in our culture, continue to have a routine for decisions, and migrate the discord voting to the forum.<br/>\nI would appreciate comments on how to update the former <a href=\"https://docs.google.com/document/d/1ytAM8RWbtopSvIzucNhMLkfYGTC7lnmiaPmTLyYe78g/edit\">decision making process</a> if anyone sees the need to do so, having in mind the smoother transition into post hatch and also the multitude of decisions and agreements that need to contemplated by all our processes.</p>\n<p>If you read until here - 1st you’re a hero <img alt=\":sunglasses:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sunglasses.png?v=9\" title=\":sunglasses:\"/> 2nd, please go vote on <a href=\"https://discord.com/channels/701149241107808327/747771094341255248\">Discord</a> to move or not the decision making process to the forum <img alt=\":eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/eyes.png?v=9\" title=\":eyes:\"/></p>\n<p>I’ll finish this post with a signaling poll mostly to test this tool <img alt=\":grin:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/grin.png?v=9\" title=\":grin:\"/></p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-groups=\"admins,staff,trust_level_1,trust_level_2,trust_level_4,trust_level_0,moderators,trust_level_3\" data-poll-max=\"5\" data-poll-min=\"1\" data-poll-name=\"poll\" data-poll-public=\"true\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"multiple\">\n<div>\n<div class=\"poll-container\">\n<div class=\"poll-title\">Do you think is valuable to use the Advice Process for all our decisions including the ones to go to Conviction Voting?</div>\n<ul>\n<li data-poll-option-id=\"cda141935697c1fca487e4b05033a507\">YES! This is a resilient cultural practice</li>\n<li data-poll-option-id=\"9577d0825bf7753cc0889dadc6fcfc0e\">No, it will be a waste of time</li>\n<li data-poll-option-id=\"d79ccf654c90ba17a7fd9be6f53e4ff2\">I’m no sure, will read more about it</li>\n<li data-poll-option-id=\"a15dc489a15b0327a655c9d782f63ff3\">valuable for some decisions, not all.</li>\n<li data-poll-option-id=\"4a6418c24ff9cc52ec7f58022d6e148d\">I have no idea what you talking about</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530083037",
+    "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-12-10T02:15:56Z",
+   "updated_at": "2020-12-10T02:15:56Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Ok cool so do we keep the emoji vote practice? But just use the forum… same rules…</p>\n<p>6+ votes over rule 1 block?</p>\n<p>Voting happens over the weekend?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530083037",
+    "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2020-12-10T16:06:54Z",
+   "updated_at": "2020-12-10T16:06:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>thanks for bringing this clarification points <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p>\n<p>No emoji votes anymore, now we use the forum poll tool - to build a poll you can click the flower icon (it’s the last one in the bar) then select “build poll”</p>\n<p><img alt=\":eyes:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/eyes.png?v=9\" title=\":eyes:\"/> For signaling votes like the one I posted above, you can add up to five options for answers<br/>\n<img alt=\":writing_hand:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=9\" title=\":writing_hand:\"/> For yes/no decisions we’ll continue with YES - NEUTRAL - BLOCK options in the poll.</p>\n<p>The great thing about the forum is to be able to expand on the topic and give people the opportunity to engage. So implementing the advice process into the forum could look like this:</p>\n<ol>\n<li>add the proposal to the <a href=\"https://forum.tecommons.org/c/proposals/7\">proposal category</a> using the template that comes up when you click “new topic” <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/>\n</li>\n<li>tag the people you would like to receive advice from - they should be the ones with expertise in that area and the ones that will be affected by the proposal</li>\n<li>Use your discernment to incorporate or not their feedback</li>\n<li>Edit your post to add a voting poll</li>\n<li>Change the title of your proposal to include {vote required by (add date)}</li>\n</ol>\n<p>Voting continues to happen over the weekend. Preferably to be posted before Friday until early Saturday. Results are collected Monday in the end of the day.</p>\n<p>and yes, continuing with 6+ voter over rule 1 block.<br/>\n\" If there is more than 15% of the voters blocking the proposal then the blockers win and the proposal needs to be revised to integrate their opinions\"</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530083037",
+    "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "santigs",
+   "name": null,
+   "created_at": "2020-12-11T11:17:44Z",
+   "updated_at": "2020-12-11T11:17:44Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>cool how you see a flower icon where I see a gear one <img alt=\":joy:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/joy.png?v=9\" title=\":joy:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230530083037",
+    "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210303023626",
+   "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210303023626",
+   "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530083037",
+   "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530083037",
+   "url": "https://forum.tecommons.org/t/principle-3-participatory-decision-making-is-vital/126"
+  }
+ ]
+}

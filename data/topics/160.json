@@ -1,0 +1,77 @@
+{
+ "id": 160,
+ "title": "Half Life (Conviction Voting) Deep Dive",
+ "slug": "half-life-conviction-voting-deep-dive",
+ "posts_count": 1,
+ "category_id": 20,
+ "created_at": "2020-12-14T18:03:50.370Z",
+ "last_posted_at": "2020-12-17T21:50:10.201Z",
+ "views": 4199,
+ "highest_post_number": 2,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2020-12-17T21:50:10Z",
+ "captured_between": [
+  "2021-04-20T13:09:33Z",
+  "2026-07-17T02:03:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2020-12-14T18:03:50Z",
+   "updated_at": "2021-01-11T18:18:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h1>What is half life in Conviction Voting?</h1>\n<p>In Conviction Voting, half life is the parameter that determines the time it takes to accumulate or reduce voting power by 50%. Half life, defined in number of days, represents the number of days it takes to accumulate 50% voting power or to reduce by 50% voting power.</p>\n<p>For example:</p>\n<p>If the CV half life is 3 days, your tokens must back your favorite project for 3 days to reach 50% of those tokens’ max voting power, 6 days to reach 75%, 9 days to reach 87.5%, 12 days to reach 93.75%, etc.</p>\n<p>If the CV half life is 30 days, it will take 30 days of your tokens backing your favorite proposal for those tokens to reach 50% voting power, 60 days to reach 75%, 90 days to reach 87.5%, 120 days to reach 93.75%, etc.</p>\n<p>When you remove your tokens from backing a proposal, the reduction of voting power also decreases by 50% every number-of-days defined by the half life.</p>\n<h1>How does this impact the system?</h1>\n<p>The higher the half life, the slower voting power accumulates and reduces. The lower the half life, the faster voting power accumulates and reduces. Why does that matter?</p>\n<p>The article <a href=\"https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d\">Conviction Voting: A Novel Continuous Decision Making Alternative to Governance</a> (a must read if you want a rapid, high level understanding) describes why half life matters :</p>\n<p>The longer you hold a preference for a certain proposal, the more that bucket fills up with your conviction. Your conviction grows according to a half life decay curve, giving more weight to that preference over time, up to a certain limit. If you decide to switch your preference to a new bucket, your conviction drains out of the previous proposal according to the decay function, as if there were a small hole in the bottom of each bucket. By using decay curves to define the accumulation and reduction of conviction, we introduce temporal dynamics into these systems, moving us closer to how systems work in nature. By dampening abrupt token movements, we eliminate the need for arbitrary token lock periods to avoid last minute vote swings.</p>\n<h2>Ok, lets go deep… how is conviction (voting power) calculated?</h2>\n<p>For the legit math deep dive, head to <a href=\"https://nbviewer.jupyter.org/github/BlockScience/Aragon_Conviction_Voting/blob/master/models/v3/Deriving_Alpha.ipynb\">Deriving the Alpha Parameter</a> but if all you need is an abbreviated version, keep reading.</p>\n<p>The alpha parameter controls the half life decay rate of accumulated conviction according to the following function, where y is conviction, x is stake and t is time.</p>\n<p>Yt+1 =αyt+xt</p>\n<p>Or, read aloud, conviction at time t+1 equals alpha times conviction at time t plus stake at time t. With alpha = 0, the conviction becomes equal to the stake. With alpha approaching 1, conviction steepness increases to the max possible. Easy peasy.</p>\n<p>To visualize how changing half life (by changing the alpha parameter in the simulator) might impact the decay rate of conviction, try the example in the <a href=\"https://p2pmodels.github.io/cs-sim/\">Commons Stack CV simulation</a>.</p>\n<p>Want more? Watch the experts, Zargham and Jeff Emmett, discuss Conviction Voting in this <a href=\"https://www.youtube.com/watch?v=PQGgWpbjFv8\">Intro to the Cyber-Physical Commons Framework with Jeff and Zargham</a>.</p>\n<h2>What should we talk about in this thread?</h2>\n<ul>\n<li>What factors should be taken into consideration when deciding optimal half life?</li>\n<li>What are the advantages/disadvantages of voting power that accumulates and reduces quickly? For example, in just a matter of days?</li>\n<li>What about voting power that accumulates and reduces very slowly, over a long period of time?</li>\n<li>What other CV parameters do we need to consider at the same time we consider this one?</li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717020351",
+    "url": "https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "sem",
+   "name": null,
+   "created_at": "2020-12-17T21:50:10Z",
+   "updated_at": "2020-12-17T21:50:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I’d like to share an extra tool that can be useful to understand this parameter:</p>\n<aside class=\"onebox allowlistedgeneric\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"192\" src=\"https://forum.tecommons.org/uploads/default/original/1X/564aa1341478772d3329d05983017e1d5db62165.png\" width=\"192\"/>\n<a href=\"https://www.desmos.com/calculator/9s6c0htp5m\" rel=\"noopener\" target=\"_blank\">Desmos</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"400\" src=\"https://forum.tecommons.org/uploads/default/original/1X/f64a5a13bfb4b7485f26bdee4ef988cff3a66b2c.png\" width=\"400\"/>\n<h3><a href=\"https://www.desmos.com/calculator/9s6c0htp5m\" rel=\"noopener\" target=\"_blank\">Conviction Halflife</a></h3>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>You can move slider <em>T</em> (half-life) and see how conviction looks like in the chart (how it increases and how it decreases if token holders withdraw their support).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717020351",
+    "url": "https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420130933",
+   "url": "https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420130933",
+   "url": "https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260505220455",
+   "url": "https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260717020351",
+   "url": "https://forum.tecommons.org/t/half-life-conviction-voting-deep-dive/160"
+  }
+ ]
+}

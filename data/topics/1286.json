@@ -1,0 +1,120 @@
+{
+ "id": 1286,
+ "title": "TEC Coordination Team Operating Budget (Sep - Dec 2023)",
+ "slug": "tec-coordination-team-operating-budget-sep-dec-2023",
+ "category_id": 29,
+ "posts_count": 4,
+ "total_known": true,
+ "archived_posts": 5,
+ "archived_numbers": 5,
+ "created_at": "2023-09-07T17:24:02Z",
+ "last_archived_post_at": "2023-10-09T18:01:03Z",
+ "captured_between": [
+  "2023-10-02T22:27:12Z",
+  "2024-02-29T13:11:05Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-09-07T17:24:02Z",
+   "updated_at": "2023-09-07T17:29:44Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR:</h2>\n<p>This funding proposal outlines a 4-month operating budget for the TEC’s Coordination Team, from September through December 2023. It aims to increase awareness and support for funding token engineering as public goods and to improve coordination across the token engineering ecosystem.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description:</h2>\n<h3>\n<a class=\"anchor\" href=\"#work-priorities-3\" name=\"work-priorities-3\"></a>Work priorities:</h3>\n<p>The following items outline the primary priorities that the Coordination Team will be focusing on from now until the end of the year, besides continuing to take care of the essential operating activities of the TEC:</p>\n<ol>\n<li>\n<strong>TE Grants Round 3</strong>: Continue to build on the momentum of the TEC’s success in running a Gitcoin Quadratic Funding round. These campaigns help sustain the TEC’s Common Pool by setting a predictable budget for public goods grant making and leverage its funds as a matching pool that helps build awareness for token engineering in the broader public goods funding space from which we hope to attract future funding. In the next round, we will continue to develop the TEC’s innovative SME QF boost tool for injecting token engineering <a href=\"https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23\" rel=\"noopener nofollow ugc\">subject matter expertise into Quadratic Funding</a>. We plan to approve the grantee criteria and qualification process by pulling together a group of subject matter experts as part of the *TECAN (TEC Advisory Network). We also plan to test our first sponsorship program to raise funds to cover the cost of the round.</li>\n<li>\n<strong>Community Events -“Token Engineering as Public Goods” Series:</strong> We plan to organize community events to promote the frame of token engineering as public goods. These events will involve discussions, knowledge sharing, and collaborations among stakeholders and help build ongoing interest in the results of the soon-to-be-released Token Engineering Stakeholder Study. One of the goals is to enhance the TEC’s reach through various communication channels such as forums, Discord, and social media. We also plan to reinstitute the community call, but now on a monthly basis.</li>\n<li>\n<strong>Incubation Program:</strong> The TEC’s TE Grants QF rounds are effective for building awareness and reach, but the matching support they generate for individual projects remains capped at $5K. Within this proposal, we will explore strategies for providing projects that perform well in the QF rounds additional support in the form of funding, advice, and promotion.</li>\n<li>\n<strong>TEC’s Narrative - Fundraising/Marketing Plans:</strong> We plan to develop a set of simple marketing and fundraising plans that will help position the TEC for renewed growth in 2024.</li>\n<li>\n<strong>Fiduciary Stewardship of the TEC Common Pool:</strong> In late 2022, the Coordination Team shifted the TEC’s operational spending to a fixed budget that has cut the DAO’s burn rate to one quarter of earlier levels. This past April, the team introduced QF funding rounds on Gitcoin that similarly moved the TEC’s grant making to a more predictable, budgeted amount. Both of these changes were aimed at ensuring the TEC’s long-term ability to sustain its mission and buy the community time to replenish its Common Pool. Between now and December, the team will work with the TEC Advisory Network (TECAN) to propose a set of Fiduciary Accountability Policies (formal name, TBD) and commons-level budgeting processes to help the TEC more effectively steward its remaining capital.</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#supporting-tec-initiatives-4\" name=\"supporting-tec-initiatives-4\"></a>Supporting TEC Initiatives</h3>\n<p>The following items provide an overview of various ongoing initiatives within the TEC ecosystem, each led by different groups. The Coordination Team will be dedicating resources to support these initiatives at various levels in the months ahead:</p>\n<ul>\n<li>\n<strong>TEC Advisory Network (TECAN):</strong> A proposal to formalize an advisory network for the TEC is underway. This network will include members of the CTeam, active contributors and other TEC stakeholders, and subject matter experts. The details of which will shortly be posted on the Forum.</li>\n<li>\n<strong>Chain Migration - Evaluate Move to Optimism:</strong> With the ongoing efforts by CommonsStack to port the Aragon client and CommonsDAO tooling to the Optimism chain, the TEC finds itself with a great opportunity to reconsider its developmental path on a different ecosystem. The TEC will initiate the planning and scoping stages to transition to the Optimism ecosystem if this is something the community ends up supporting. While the details of this initiative are still being refined, the Coordination Team is fully committed to providing support to make this migration to the Optimism ecosystem a reality.</li>\n<li>\n<strong>TE Stakeholder Study:</strong> This initiative has gained significant traction in the past few months. It has gained a lot of interest from the TE community, particularly due to its promotion at various relevant conferences over the summer. This study is focused on providing a clearer definition of TE and addressing important questions for the field’s development. The Coordination Team is committed to supporting this initiative by promoting it through social media, creating written materials, organizing community events, and assisting with further sentiment analysis of the results when required.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#coordination-team-structure-5\" name=\"coordination-team-structure-5\"></a>Coordination Team Structure</h3>\n<p>We’re continually enhancing our teamwork, and a crucial part of this process involves regularly evaluating our team’s structure and the various roles we have. We want to ensure that this structure aligns with the team’s priorities and the broader objectives of the Commons.</p>\n<ol>\n<li>\n<strong>Functional Areas:</strong> To achieve this, we’ve categorized our various activities into four primary areas. This reorganization aims to simplify our operations and provide more clarity about our work’s scope. These areas are <em>Program Development</em>, <em>Community Organizing &amp; Communications</em>, <em>Contributor Coordination</em>, and <em>Finance</em>.</li>\n<li>\n<strong>Driving the TEC Strategy:</strong> As we reevaluate our areas, we’ve reached a consensus that it’s in the best interest to assign any responsibilities related to defining the TEC’s direction, strategy, governance, and fiduciary responsibility to the TEC Advisory Network (TECAN), rather than having it under the scope of the Coordination Team. In addition, we’ll establish a closer collaboration with the TECAN group, to have the team informed about community decisions and the priorities that the Coordination Team should focus on. (add diagram)</li>\n<li>\n<strong>The Coordinator Role:</strong> This restructuring also represents a slight change in how we define who a coordinator is. Now, we will have one person responsible for each of the four functional areas mentioned above. This change enhances accountability and ensures clear lines of communication when addressing specific issues related to each area. It also grants more autonomy to team members, as they will be the primary point of contact and responsibility for their designated area.</li>\n<li>\n<strong>Functional Roles:</strong> We’ve also reviewed and updated the list of functional roles within each of the functional areas mentioned above, and made any necessary adjustments to align them better with our evolving needs. You can always review them <a href=\"https://www.notion.so/tecommons/Functional-Roles-8eefb4a341734ab3b24460e90f8cd067?pvs=4\" rel=\"noopener nofollow ugc\">here</a>.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#additional-information-to-add-6\" name=\"additional-information-to-add-6\"></a>Additional information to add</h2>\n<p>NA</p>\n<h2>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-7\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-7\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h2>\n<p><strong>1. TE Public Goods Funding:</strong> By consistently advancing the Grants Program and initiating the planning stage of the upcoming Incubation Program, the TEC aims to enhance its ability to support public goods in research, education, and all types of initiatives aimed at developing the token engineering field.<br/>\n<strong>2. Stakeholder Engagement:</strong> By organizing a variety of community events and refining stakeholder groups definition through the marketing plan, the TEC plans to achieve a higher level of visibility in the external landscape. This increased visibility will stimulate more meaningful discussions regarding topics that are of utmost importance to the community.<br/>\n<strong>3. Fundraising:</strong> The development and ongoing improvement in the two areas mentioned above will offer the TEC more opportunities to secure funding from external sources. This will help ensure a more stable future for its various programs and their impact, as well as for its Common Pool.<br/>\n<strong>4. Long Term Financial Sustainability:</strong> Enhancing the TEC’s capacity to improve its budgeting practices and establish well-defined resource spending limits will play a crucial role in responsibly supporting the Commons’ objectives as well as looking for the long term sustainability of its resources.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-8\" name=\"amount-requested-8\"></a>Amount requested</h3>\n<p>Total request of 48,000 xDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-9\" name=\"how-will-these-funds-be-used-9\"></a>How will these funds be used?</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Sep</th>\n<th>Oct</th>\n<th>Nov</th>\n<th>Dec</th>\n<th>Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>TEC Coordination Team Expenses:</strong></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Staffing (6 people):</td>\n<td>$9,837</td>\n<td>$9,837</td>\n<td>$9,837</td>\n<td>$9,837</td>\n<td>$39,348</td>\n</tr>\n<tr>\n<td>Infrastructure:</td>\n<td>$45</td>\n<td>$45</td>\n<td>$45</td>\n<td>$45</td>\n<td>$180</td>\n</tr>\n<tr>\n<td>Unforeseen Expenses:</td>\n<td>$2,118</td>\n<td>$2,118</td>\n<td>$2,118</td>\n<td>$2,118</td>\n<td>$8,472</td>\n</tr>\n<tr>\n<td><strong>Total:</strong></td>\n<td>$12,000</td>\n<td>$12,000</td>\n<td>$12,000</td>\n<td>$12,000</td>\n<td>$48,000</td>\n</tr>\n</tbody>\n</table>\n</div><h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-10\" name=\"what-does-success-look-like-10\"></a>What does success look like?</h3>\n<p>By the end of December, we will have:</p>\n<ol>\n<li>Run the third Gitcoin quadratic funding round with a specific focus on supporting token engineering projects.</li>\n<li>Foster community engagement, knowledge sharing, and increased awareness through organizing and hosting different types of community events.</li>\n<li>Outline the initial phase of the Incubation Program and how it integrates the QF rounds within it.</li>\n<li>Finalize well-defined and achievable plans for marketing and fundraising, ready for implementation at the start of the upcoming year.</li>\n<li>Define and authorize a budgeting strategy, along with spending thresholds, for the TEC’s Common Pool resources for the different initiatives it wants to support on an annual basis.</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-11\" name=\"how-will-you-share-progress-11\"></a>How will you share progress?</h3>\n<p>We maintain a record of our progress in our Notion base, which is accessible at any time <a href=\"https://www.notion.so/tecommons/Welcome-to-TEC-Sprints-e6f69db2cf0347aab89d707093dda5d2?pvs=4\" rel=\"noopener nofollow ugc\">here</a>. We will also regularly update the forum with information about the different active projects mentioned above, as well as providing an Impact Tracker Report to share our accomplishments at the end of the proposal period.</p>\n<p>We are also in the process of organizing monthly Community Calls where we will share our various projects and encourage community participation. Lastly, our work calls are always recorded and can be easily accessed on the TEC’s YouTube channel any time.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-12\" name=\"team-information-12\"></a>Team Information:</h3>\n<p><strong>Coordinators:</strong></p>\n<ul>\n<li>Program Development - <a class=\"mention\" href=\"/u/enti\">@enti</a>\n</li>\n<li>Community Organizing &amp; Communications - <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>\n</li>\n<li>Contributor Coordination - <a class=\"mention\" href=\"/u/bear100\">@bear100</a>\n</li>\n<li>Finance - <a class=\"mention\" href=\"/u/bear100\">@bear100</a>\n</li>\n</ul>\n<p><strong>Active Contributors:</strong></p>\n<ul>\n<li><a class=\"mention\" href=\"/u/natesuits\">@natesuits</a></li>\n<li><a class=\"mention\" href=\"/u/rex\">@rex</a></li>\n<li>JHennyArt</li>\n<li><a class=\"mention\" href=\"/u/marathonmind\">@MarathonMind</a></li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229131105",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-09-18T19:56:05Z",
+   "updated_at": "2023-09-18T19:56:05Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>The proposal is up for vote! <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/32\" rel=\"noopener nofollow ugc\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229131105",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-09-25T19:11:06Z",
+   "updated_at": "2023-09-25T19:11:06Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This proposal has been successfully approved. Thank you to everyone who supported this effort! <a class=\"inline-onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/32\" rel=\"noopener nofollow ugc\">Gardens</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229131105",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "gene",
+   "name": null,
+   "created_at": "2023-10-03T05:46:15Z",
+   "updated_at": "2023-10-03T05:46:15Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/bear100\">@bear100</a> =) I noticed that both the notion links provided, for the functional roles and the sprint reviews, are permissioned and unable to be accessed publicly. I know this post is nearly a month old and that some other link breaking event might have taken place since then, but could somebody possibly check to see whether the pages that are intended to be publicly available indeed are. It’s also more than possible that it’s just me, and if so, apologies. Thanks buddy.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229131105",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2023-10-09T18:01:03Z",
+   "updated_at": "2023-10-09T18:01:03Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey <a class=\"mention\" href=\"/u/gene\">@gene</a> ! Thanks for your reply. And thank you for pointing it out. The links should work now! Let me know if you still have any issues.</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://tecommons.notion.site/Functional-Roles-8eefb4a341734ab3b24460e90f8cd067?pvs=4\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"64\" src=\"https://tecommons.notion.site/images/favicon.ico\" width=\"64\"/>\n<a href=\"https://tecommons.notion.site/Functional-Roles-8eefb4a341734ab3b24460e90f8cd067?pvs=4\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" height=\"362\" src=\"https://www.notion.so/images/meta/default.png\" width=\"690\"/></div>\n<h3><a href=\"https://tecommons.notion.site/Functional-Roles-8eefb4a341734ab3b24460e90f8cd067?pvs=4\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n<p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://tecommons.notion.site/TEC-Roadmap-948b046df87144d7923632494a3a4461?pvs=4\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"64\" src=\"https://tecommons.notion.site/images/favicon.ico\" width=\"64\"/>\n<a href=\"https://tecommons.notion.site/TEC-Roadmap-948b046df87144d7923632494a3a4461?pvs=4\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/362;\"><img class=\"thumbnail\" height=\"362\" src=\"https://www.notion.so/images/meta/default.png\" width=\"690\"/></div>\n<h3><a href=\"https://tecommons.notion.site/TEC-Roadmap-948b046df87144d7923632494a3a4461?pvs=4\" rel=\"noopener nofollow ugc\" target=\"_blank\">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h3>\n<p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240229131105",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231002222712",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231002222712",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240229131105",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240229131105",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-operating-budget-sep-dec-2023/1286"
+  }
+ ]
+}

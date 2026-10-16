@@ -1,0 +1,89 @@
+{
+ "id": 384,
+ "title": "Hatch Lessons and Moving Forward",
+ "slug": "hatch-lessons-and-moving-forward",
+ "category_id": 5,
+ "posts_count": 2,
+ "created_at": "2021-05-18T03:12:52.720Z",
+ "last_posted_at": "2021-05-21T16:38:02.398Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-05-21T16:38:02Z",
+ "captured_between": [
+  "2021-06-24T15:52:07Z",
+  "2023-05-30T08:39:05Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-05-18T03:12:53Z",
+   "updated_at": "2021-05-18T17:40:23Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>In the last month the Token Engineering Commons community set out to make history by allowing for the first time, a diverse community of individuals to propose and vote on the parameters that will establish a collectively designed token economy.</p>\n<p>The process for this collectively designed economy included an amazing <a href=\"https://tec-hatch-demo.herokuapp.com/hatch\" rel=\"noopener nofollow ugc\">Hatch Dashboard</a>, which allowed experts, novices, and the uninitiated to learn about each parameter that contributed to the hatch DAO design. Hatch Parties were events where expert Token Engineers would provide walk-throughs and encourage every participant to submit their own set of parameters through proposals. These proposals were then voted on via TokenLog by Trusted Seed members who voiced support to their favorite submissions.</p>\n<p>We had a total of 21 Hatch Parties, 32 proposal submissions, 7 Parameter Debate sessions, and 5,740 votes cast on those proposals. The initial format for the vote was to select the top 3 proposals and engage the community for a final runoff vote, where the winning proposal would be implemented as the initialization parameters for the HatchDAO. It has been a truly remarkable experience for our community, and we want to thank everyone who contributed to its success.</p>\n<p>At the end of the vote, the TEC Community Stewards had a sense-making meeting to evaluate the data results and the proposals that participated in order to discuss the next best steps forward. The meeting was centered around the top 3 proposals that would be the candidates for the Runoff Community Vote. Our agenda was composed of 7 questions:</p>\n<ol>\n<li>Should the Runoff be Political, or Apolitical?</li>\n<li>Do we post all winning parameters by one person?</li>\n<li>Do we include memes within the parameters?</li>\n<li>Should we be able to alter the parameters?</li>\n<li>How do we make these proposals easily digestible?</li>\n<li>When should we start &amp; end the vote?</li>\n<li>How many proposals should be included?</li>\n</ol>\n<p>The Stewards in the meeting were following the agenda, which you can see <a href=\"https://docs.google.com/document/d/17Cve0bojZjrjBk513qzcKbg42Z3-9JQ1DL8kkSbyPvs/edit?usp=sharing\" rel=\"noopener nofollow ugc\">here</a> with the responses to these questions. If you want to hear our responses, we also have a recording of our meeting <a href=\"https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos\" rel=\"noopener nofollow ugc\">here</a>.</p>\n<p>As soon as the recording stopped, and we were prepared to say our goodbyes, a couple of last minute questions had pushed us from the topic of sense-making to questions of legitimacy regarding the hatch process. An hour later, we noticed our conversation had evolved into so many important and impactful discussions we found it necessary to write this post to update the community on the direction and thought processes regarding our next steps moving forward.</p>\n<p>During the review we analyzed all the <a href=\"https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg/videos\" rel=\"noopener nofollow ugc\">voting data</a> from the parameters and evaluated some of the similarities and differences between the proposals that were submitted, and highlighted the 22 proposals that didn’t have substantial votes. Additionally, we evaluated the top 5 proposals with great care. Here is a quick summary:</p>\n<p><strong>The Top 3 Proposals:</strong></p>\n<p>1st Place [974 Votes]: “Zepti params V3, Let’s make a robust bottom on the boding curve” (<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/57\" rel=\"noopener nofollow ugc\">Issue #57</a>)</p>\n<p>2nd Place [848 Votes] : “8” (<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/50\" rel=\"noopener nofollow ugc\">Issue #50</a>)</p>\n<p>3rd Place [715 Votes] : “Easy like Sunday morning” (<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/76\" rel=\"noopener nofollow ugc\">Issue #76</a>)</p>\n<p>As per the original plans, the top 3 to 5 votes were to be placed within the runoff. The 4th [487 votes] and 5th [429 votes] place proposals were each far behind the leaders. One of the issues we had in our evaluation of our top 3 candidates was that there was very minimal variation in some parameter ranges, as compared with our 4th and 5th place proposals. There were only 3 parameters (Hatch Membership Ratio, Minimum Quorum, and Tollgate Fee) that showed any significant differences within the top 3 proposals.</p>\n<p>This observation beckoned many questions, which included – are we doing a disservice to those proposals (4th, and 5th) that did show greater variation by not including them within the runoff? Are we actually capturing the diversity in design strategy? What caused this to happen? How can we make sure that this process is representative? What should we do about it? Is this process legitimate?</p>\n<p><strong>What we learned by asking these questions:</strong></p>\n<ol>\n<li>Reforming our Voting Structure</li>\n</ol>\n<p>The current voting structure utilizes <a href=\"https://tokenlog.xyz/CommonsBuild/TEC-Hatch-Vote\" rel=\"noopener nofollow ugc\">TokenLog</a>, an application that enables the use of Quadratic Voting by all value aligned Trusted Seed Members that hold active CSTK Scores. For the past month participants were able to submit proposals, and vote on the ones they liked best. Our voting structure allowed for the proposal and voting process to occur simultaneously, and when a member voted on a proposal, those votes were locked in and could not be changed. This was problematic as new attractive proposals revealed themselves to the community and some members found it frustrating that they could not change their vote.</p>\n<p>Furthermore, during our discussion we observed that the use of Quadratic Voting, while it enables a radically representative method for distributing voting power to those with skin-in-the-game, it did not provide a guarantee that their votes would not be wasted on proposals that did not have a chance of making the final round, effectively nullifying that voting power. Ideas such as ranked-choice voting, which would enable compromises to be made by allowing those whose votes were cast for losing proposals the ability to re-cast their votes on the best available remaining proposals was explored. Considering we do not have the technical capabilities of implementing ranked-choice voting at the moment, we can however, hold a vote that allows for votes cast for unpopular proposals to be recast again in a following round. This is still up for discussion, but we are looking into the implementation of two separate processes for proposal submission and for proposal voting that do not occur simultaneously.</p>\n<ol start=\"2\">\n<li>Evaluation of Forked Proposals</li>\n</ol>\n<p>One of the benefits of utilizing TokenLog, is that it places all proposals as an issue within Github. For novices, this is a very beneficial tool for education as they are not required to start their economic design from scratch but are able to find an existing proposal they like and simply fork it. It served as an exceptional tool that increased participation and allowed for participants to tweak one or two parameters of proposals that they were aligned with. The result however, was that each fork only provided slight differences in the variation of those parameters, increased the pool of eligible proposals and did not necessarily contribute to a diversity in design strategies.</p>\n<p>As discussed above, of the top 3 proposals, 2 were forks of existing proposals that also had votes attributed to them. The question remains, are these slight variations within these changed parameters an actual reflection of community preference as shown by our voting results or a matter of presentation and popularity?</p>\n<p>A discussed possible solution for this was to group our Forked proposals together and vote on the most popular version as the official candidate. This is also still up for discussion.</p>\n<ol start=\"3\">\n<li>Understanding Questions of Legitimacy</li>\n</ol>\n<p>The question of legitimacy was on the forefront of our conversation, as we had already established the process for voting and to alter any changes to this process would seem to undermine the Your Economy, Your Choice mantra that we have harped on since the beginning. This is no trivial matter. We had many concerns about our 2nd place proposal “8” as being too gimmicky, and would take away from the professionalism that we seek to establish within the Token Engineering Community. Perhaps, this gimmicky approach is something that was actually desired by our community and should also be taken seriously.</p>\n<p>Considering these concerns, and the fact that “8” was itself a fork of a similar proposal with less votes, we debated on whether or not to remove it from the runoff vote and replace it with a proposal that offers greater diversity in our design strategies. Another solution discussed was to simply add a 4th and 5th proposal to the runoff.</p>\n<p><em>If we make these decisions, will we undermine the legitimacy of our pursuit?</em></p>\n<p><strong>Decisions on the Path Forward</strong></p>\n<p>During our conversation, it seemed that the only honest and legitimate decision we could make as Stewards was to acknowledge that our process was flawed, and that we should start it all over again. Delaying the Hatch (which no one wants) to allow for proposals to be re-submitted, followed by another round of voting – seemed to most of us as the worst case scenario, and it is a scenario we debated at length.</p>\n<p>**At this point, I want to personally thank <a class=\"mention\" href=\"/u/durgadas\">@Durgadas</a> for really forcing us to evaluate this decision, and push us to be vulnerable as Stewards and examine our choices with care.</p>\n<p><strong>In the end, the decision of the Community Stewards was to add the 5th place winner Goldilocks <img alt=\":v:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/v.png?v=9\" title=\":v:\"/> <img alt=\":four:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/four.png?v=9\" title=\":four:\"/> (<a href=\"https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/74\" rel=\"noopener nofollow ugc\">Issue #74</a>) into the final proposal runoff vote – with the acknowledgement that we reform our process for the Commons Upgrade within the Hatch.</strong></p>\n<p>Our conversation reminded me that we are on the pursuit to develop the ‘ideal’ economy – one that is not developed by experts, but by all stakeholders who define it. This pursuit, if it were to be measured properly, should be measured by its capacity to formulate that ideal and not by its failure to achieve it. In this light, the initialization of our economy has been and will continue to be a significant success.</p>\n<p>As we move forward with the upcoming Commons Upgrade, we will do our best to improve on this formulation and provide a standard by which new Token Economies can be developed on behalf of those who wish to participate within it. We look forward to expanding the participation of all members within the Trusted Seed during the Commons Upgrade, and are excited to become the first truly representative design economy.</p>\n<p>Please provide your thoughts and feedback, and we will keep the community updated on changes and ideas associated with the Commons Upgrade! Get out and vote in the run-off!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530083905",
+    "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "KZFlyer",
+   "name": null,
+   "created_at": "2021-05-18T05:03:57Z",
+   "updated_at": "2021-05-18T05:03:57Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Awesome job really digging into the entire process. One thing I learned while in project management is you always have lessons to learn at the end.</p>\n<p>I can’t wait to see what comes next!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530083905",
+    "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-05-21T16:38:02Z",
+   "updated_at": "2021-05-21T16:38:02Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/46e897ee98767f308ea8f180a24acaafe8b50868\" href=\"https://forum.tecommons.org/uploads/default/original/1X/46e897ee98767f308ea8f180a24acaafe8b50868.png\" title=\"Screen Shot 2021-05-21 at 9.18.16 AM\"><img alt=\"Screen Shot 2021-05-21 at 9.18.16 AM\" data-base62-sha1=\"a7hKDm19RUkGr37PnKnngKb5lMI\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/46e897ee98767f308ea8f180a24acaafe8b50868_2_10x10.png\" height=\"500\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/46e897ee98767f308ea8f180a24acaafe8b50868_2_387x500.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/46e897ee98767f308ea8f180a24acaafe8b50868_2_387x500.png, https://forum.tecommons.org/uploads/default/original/1X/46e897ee98767f308ea8f180a24acaafe8b50868.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/46e897ee98767f308ea8f180a24acaafe8b50868.png 2x\" width=\"387\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Screen Shot 2021-05-21 at 9.18.16 AM</span><span class=\"informations\">514×663 95.7 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230530083905",
+    "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624155207",
+   "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624155207",
+   "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530083905",
+   "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530083905",
+   "url": "https://forum.tecommons.org/t/hatch-lessons-and-moving-forward/384"
+  }
+ ]
+}

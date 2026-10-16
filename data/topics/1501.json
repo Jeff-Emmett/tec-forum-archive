@@ -1,0 +1,172 @@
+{
+ "id": 1501,
+ "title": "Request for Accounts Transparency",
+ "slug": "request-for-accounts-transparency",
+ "category_id": 33,
+ "tags": [
+  "advice-process"
+ ],
+ "posts_count": 8,
+ "created_at": "2025-07-24T23:44:32.083Z",
+ "last_posted_at": "2025-12-16T01:58:39.528Z",
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "last_archived_post_at": "2025-12-16T01:58:39Z",
+ "captured_between": [
+  "2025-08-05T14:22:38Z",
+  "2025-12-17T00:37:48Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-24T23:44:32Z",
+   "updated_at": "2025-07-25T00:54:44Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’d like to formally request that the <strong>full list of TEC-associated multisigs with remaining funds be made public</strong>, along with their current balances.</p>\n<p>This information was not included in the <a href=\"https://forum.tecommons.org/t/tec-h2-2025-strategic-proposal/1498\">H2 2025 Strategic Proposal</a> nor in the <a href=\"https://forum.tecommons.org/t/sunsetting-the-tec-proposal-treasury-distribution-framework/1500\">Sunsetting the TEC Proposal</a>, yet it is critical for both coordination and accountability; and for the first step of either: the return of unused funds to the common pool.</p>\n<p>To my knowledge, <a class=\"mention\" href=\"/u/bear100\">@bear100</a> maintained a CSV of the multisigs and their signers as of last month. I request that this document, or its up-to-date equivalent, be shared in this thread.</p>\n<p>Below is what I’ve gathered so far. Please help confirm and complete the list:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th><strong>Multisig Name</strong></th>\n<th><strong>Address</strong></th>\n<th><strong>Estimated Balance</strong></th>\n<th><strong>Source / Link</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Common Pool</td>\n<td><code>0xb941365430a16659658bb23b88efaede1d839354</code></td>\n<td>~$225,000</td>\n<td><a href=\"https://debank.com/profile/0xb941365430a16659658bb23b88efaede1d839354\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>Reserve</td>\n<td><code>0xae34eb7c3163aAD32142fbBCf15EC234c9EF173f</code></td>\n<td>~$55,000</td>\n<td><a href=\"https://debank.com/profile/0xae34eb7c3163aAD32142fbBCf15EC234c9EF173f\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>Coordination Team</td>\n<td><code>0x0c796f2394A0C8d0464a3EFcb42c1611Cf0eA7Fa</code></td>\n<td>~$3,100</td>\n<td><a href=\"https://debank.com/profile/0x0c796f2394A0C8d0464a3EFcb42c1611Cf0eA7Fa\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>TECAN</td>\n<td><code>0x336506a4cec5c550703c8f6b493f6b12b02c3354</code></td>\n<td>~$20,200</td>\n<td><a href=\"https://debank.com/profile/0x336506a4cec5c550703c8f6b493f6b12b02c3354\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>TE Grants Program</td>\n<td><code>0x690ab933C5082049d20E53B21Dd37F9A346C8B47</code></td>\n<td>~$14,000</td>\n<td><a href=\"https://debank.com/profile/0x690ab933C5082049d20E53B21Dd37F9A346C8B47\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>Lasertag</td>\n<td><code>0xf41deff41016216346270e302dc0a5dd4913dada</code></td>\n<td>~$1000</td>\n<td><a href=\"https://debank.com/profile/0xf41deff41016216346270e302dc0a5dd4913dada\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>OP RPGF6</td>\n<td><img alt=\":question:\" class=\"emoji only-emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/question.png?v=12\" title=\":question:\" width=\"20\"/></td>\n<td>&lt;$13,000 (today’s prices)</td>\n<td>Unknown</td>\n</tr>\n<tr>\n<td>TEC GG</td>\n<td>0x3e0aeCf4fe7B71bf9f7CAcE2D456698D0082288A</td>\n<td>$9,000</td>\n<td><a href=\"https://debank.com/profile/0x3e0aecf4fe7b71bf9f7cace2d456698d0082288a\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>TEC Giveth Donations (EOA)</td>\n<td>0x6868738d8E1E38E4bD2EB601262453D626D9648c</td>\n<td>~$1,200</td>\n<td><a href=\"https://debank.com/profile/0x6868738d8E1E38E4bD2EB601262453D626D9648c\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>Transaction Team</td>\n<td>0xDd3E5E14446c1F33a63e3FFbfd526e353709F2AF</td>\n<td>$4</td>\n<td><a href=\"https://debank.com/profile/0xDd3E5E14446c1F33a63e3FFbfd526e353709F2AF\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n<tr>\n<td>ABC EOA</td>\n<td>0xfC25AD98C1A2725745DF9EC85E6e7b5D4bB0d396</td>\n<td>~$1500</td>\n<td><a href=\"https://debank.com/profile/0xfC25AD98C1A2725745DF9EC85E6e7b5D4bB0d396\" rel=\"noopener nofollow ugc\">Debank</a></td>\n</tr>\n</tbody>\n</table>\n</div><p>If these addresses or balances are incorrect, please provide corrected versions and links.</p>\n<p>Transparency here is essential for any future vote—whether we move forward with sunset, restructuring, or continued operations.</p>\n<p>Thanks in advance.</p>\n<p>(update 1: added significant addresses thanks to Bear’s help).<br/>\n(update 2: further updates on significant addresses).<br/>\n(update 3,4: looked at how Giveth donations work, they were incorrectly accounted for in Q1 2025)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-25T00:03:58Z",
+   "updated_at": "2025-07-25T00:03:58Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I believe that OP-RPGF6 has been sent to an EOA, with the full balance being the 15,199.20 OP.</p>\n<p>As per the Atlas: <a class=\"inline-onebox\" href=\"https://atlas.optimism.io/round/results?rounds=6\" rel=\"noopener nofollow ugc\">Retro Funding Recipients - OP Atlas</a><br/>\n</p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/90bbd92d6f225806d2efcc52a711ceb5decf585d\" href=\"https://forum.tecommons.org/uploads/default/original/1X/90bbd92d6f225806d2efcc52a711ceb5decf585d.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"kEndzKrb6n6GlwF3oSbHMWI2OaV\" data-dominant-color=\"F4F5F6\" height=\"240\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/90bbd92d6f225806d2efcc52a711ceb5decf585d_2_690x240.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/90bbd92d6f225806d2efcc52a711ceb5decf585d_2_690x240.png, https://forum.tecommons.org/uploads/default/optimized/1X/90bbd92d6f225806d2efcc52a711ceb5decf585d_2_1035x360.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/90bbd92d6f225806d2efcc52a711ceb5decf585d.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1133×395 40.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>Can I ask request those funds be sent to a multisig by the Coordination Team, and not continued to be kept in any EOA? Sending to the Coordination Team multisig should take no time, and not prove any significant operational in the way of proposals. <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> <a class=\"mention\" href=\"/u/bear100\">@bear100</a> <a class=\"mention\" href=\"/u/moni_boohoo\">@Moni_boohoo</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2025-07-25T00:26:18Z",
+   "updated_at": "2025-07-25T00:26:18Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>We’ve always been transparent—our <a href=\"https://forum.tecommons.org/t/tec-q1-2025-progress-report/1472\">Q1 financial report</a> breaks out balances across every account, and you can verify each line item anytime. I’ve now added direct links to all sources that were missing previously.</p>\n<p>For security reasons I won’t share the multisig spreadsheet publicly, since it associates people’s names with each multisig, but the coordination team has access and can confirm any detail upon request privately.</p>\n<p>As for the OPRPGF funds, they’re held in an EOA subject to KYC restrictions, so it can’t be changed into a multisig at this time. That funding stream remains active through September, but these resources belong to the TEC, and any decisions about their allocation will be followed along, as we’ve always done.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-25T00:28:10Z",
+   "updated_at": "2025-07-25T00:28:10Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks so much!</p>\n<p>I still believe transferring from the EOA to the multisig to be an urgent matter as soon as operationally possible. Not because of malicious internal actors, but external ones <img alt=\":smiley:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=12\" title=\":smiley:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-07-25T01:03:24Z",
+   "updated_at": "2025-07-25T01:03:24Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/bear100\">@bear100</a> I just looked at the Giveth profile page. It looks like on half of our chains, the donations are pointing to an EOA: <code>0x6868738d8E1E38E4bD2EB601262453D626D9648c</code>. In the second half, donations point to the TEC-GG multisig.</p>\n<p>We should find out who owns that EOA, and return the funds to DAO custody</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "bear100",
+   "name": null,
+   "created_at": "2025-07-25T01:32:25Z",
+   "updated_at": "2025-07-25T01:32:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I know who that person is—they’re a trusted member and part of the TECAN multisig. This was agreed upon by the TECAN group at the time to simplify logistics. The second half of the transaction points to the TECAN multisig, not the TEC-GG multisig.</p>\n<p>I agree it would be good to access those funds soon. Since they’ve been safely held and the TEC hasn’t had an immediate need for them, we haven’t prioritized moving forward with the logistics yet.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "rex",
+   "name": null,
+   "created_at": "2025-12-16T01:41:30Z",
+   "updated_at": "2025-12-16T01:41:30Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><a class=\"mention\" href=\"/u/griff\">@Griff</a> glad that the TEC token is shut, but it looks like not all assets were recovered before hitting the kill switch.</p>\n<p>I’ve been sick since Devcon, so unable to get to messages. Can I ask what the plan is with these, as the roadmap hasn’t been followed?</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2025-12-16T01:58:39Z",
+   "updated_at": "2025-12-16T01:58:39Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Oh no! I hope not… but if so we can figure it out…</p>\n<p>What funds are you talking about <a class=\"mention\" href=\"/u/rex\">@rex</a> ?</p>\n<p>If you are talking about the coordination team multisig, it’s excluded because it is being used to pay people through the shut down.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1520\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/><a href=\"https://forum.tecommons.org/t/tec-shutdown-proposal/1520/1\">TEC Shutdown Proposal</a>\n</div>\n<blockquote>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>TEC Sunset Budget</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>$27,171</td>\n<td>Severance and backpay</td>\n</tr>\n<tr>\n<td>$10,000</td>\n<td>Retrospective token engineering analysis grant</td>\n</tr>\n<tr>\n<td>$10,500</td>\n<td>Sunsetting operations</td>\n</tr>\n<tr>\n<td>$5,000</td>\n<td>Claims contract for tokenholder fund distribution</td>\n</tr>\n<tr>\n<td><strong>$52,671</strong></td>\n<td><strong>TOTAL</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</blockquote>\n</aside>\n<p>(from <a href=\"https://forum.tecommons.org/t/tec-shutdown-proposal/1520\">here</a>)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20251217003748",
+    "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20250805142238",
+   "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20250805142238",
+   "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20251217003748",
+   "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20251217003748",
+   "url": "https://forum.tecommons.org/t/request-for-accounts-transparency/1501"
+  }
+ ]
+}

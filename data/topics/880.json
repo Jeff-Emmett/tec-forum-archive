@@ -1,0 +1,94 @@
+{
+ "id": 880,
+ "title": "How we want to handle Transparency around TEC funds",
+ "slug": "how-we-want-to-handle-transparency-around-tec-funds",
+ "category_id": 28,
+ "posts_count": 3,
+ "total_known": true,
+ "archived_posts": 4,
+ "archived_numbers": 4,
+ "created_at": "2022-02-14T19:50:08Z",
+ "last_archived_post_at": "2022-02-28T23:27:00Z",
+ "captured_between": [
+  "2022-05-20T07:18:40Z",
+  "2022-05-20T07:18:40Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-14T19:50:08Z",
+   "updated_at": "2022-02-14T19:55:23Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’m interested in knowing how transparent we want to be with TEC’s money as it’s set up right now. We can monitor the multisig address with Dune and see every multisig cash flow. (and check on blockscout all the transactions done by the multisig and also the addresses that control that multisig). Should we add projects such as TE academy or Hatch Bot NFT in Metal metal <img alt=\":metal:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/metal.png?v=10\" title=\":metal:\"/> on Dune or keep it under TEC’s multisig?</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/1b605954963de33d73efe43cf41d7a6088e2f7c0\" href=\"https://forum.tecommons.org/uploads/default/original/1X/1b605954963de33d73efe43cf41d7a6088e2f7c0.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"3UbjJOe9h4tZBdsflynucT4aYQE\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/1b605954963de33d73efe43cf41d7a6088e2f7c0_2_10x10.png\" height=\"89\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/1b605954963de33d73efe43cf41d7a6088e2f7c0_2_602x89.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/1b605954963de33d73efe43cf41d7a6088e2f7c0_2_602x89.png, https://forum.tecommons.org/uploads/default/optimized/1X/1b605954963de33d73efe43cf41d7a6088e2f7c0_2_903x133.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/1b605954963de33d73efe43cf41d7a6088e2f7c0.png 2x\" width=\"602\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">935×139 9.98 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>We were also working on a google sheet tracking manually addresses and linked to a name</p>\n<p>Is this something we want to keep private or transparent to the community?</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/70c62a67d9fbec9481c024bd95160dc78692ac57\" href=\"https://forum.tecommons.org/uploads/default/original/1X/70c62a67d9fbec9481c024bd95160dc78692ac57.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"g5E2LyRWeVyYGldwL8vmSseEGgL\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/70c62a67d9fbec9481c024bd95160dc78692ac57_2_10x10.png\" height=\"215\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/70c62a67d9fbec9481c024bd95160dc78692ac57_2_602x215.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/70c62a67d9fbec9481c024bd95160dc78692ac57_2_602x215.png, https://forum.tecommons.org/uploads/default/optimized/1X/70c62a67d9fbec9481c024bd95160dc78692ac57_2_903x322.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/70c62a67d9fbec9481c024bd95160dc78692ac57_2_1204x430.png 2x\" width=\"602\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1226×437 37.3 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>I’m planning to propose that if you’re in a WG multisig (operations of the commons), info should be public, since you’re managing large communal funds some reputation needs to be at stake. Regarding TE projects we were planning to be transparent on how the commons is supporting TE projects but it’s their duty to use and manage those funds wisely.</p>\n<p>** Privacy it’s something individuals need to take care of if we end up having public names and addresses. Make sure to use a new fresh wallet to manage or receive TEC funds. And do not link it to your own private account.</p>\n<p>Thanks Edu, Durgadas, Nate, Juan and Livi for sharing your thoughts on soft gov.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071840",
+    "url": "https://forum.tecommons.org/t/how-we-want-to-handle-transparency-around-tec-funds/880"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-02-14T19:58:54Z",
+   "updated_at": "2022-02-14T19:58:54Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"880\" data-username=\"ZeptimusQ\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/zeptimusq/40/135_2.png\" width=\"20\"/> ZeptimusQ:</div>\n<blockquote>\n<p>Is this something we want to keep private or transparent to the community?</p>\n</blockquote>\n</aside>\n<p>I feel like unless there’s a reason not to the default for everything should be public.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071840",
+    "url": "https://forum.tecommons.org/t/how-we-want-to-handle-transparency-around-tec-funds/880"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "philh",
+   "name": null,
+   "created_at": "2022-02-28T23:08:53Z",
+   "updated_at": "2022-02-28T23:08:53Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>If this is applied, existing signers should have the option of using different addresses before they are made public. I think that this is what you mean in the “Privacy” paragraph, just wanted to make that clear.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071840",
+    "url": "https://forum.tecommons.org/t/how-we-want-to-handle-transparency-around-tec-funds/880"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-02-28T23:27:00Z",
+   "updated_at": "2022-02-28T23:27:00Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Totally i actually reach out to the people who were having some concerns since the vote passed im just waiting the change of address and then make it public <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=10\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520071840",
+    "url": "https://forum.tecommons.org/t/how-we-want-to-handle-transparency-around-tec-funds/880"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520071840",
+   "url": "https://forum.tecommons.org/t/how-we-want-to-handle-transparency-around-tec-funds/880"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520071840",
+   "url": "https://forum.tecommons.org/t/how-we-want-to-handle-transparency-around-tec-funds/880"
+  }
+ ]
+}

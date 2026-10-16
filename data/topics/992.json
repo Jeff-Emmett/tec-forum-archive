@@ -1,0 +1,126 @@
+{
+ "id": 992,
+ "title": "Rewards budget distribution",
+ "slug": "rewards-budget-distribution",
+ "category_id": 28,
+ "posts_count": 5,
+ "total_known": true,
+ "archived_posts": 6,
+ "archived_numbers": 6,
+ "created_at": "2022-04-26T19:04:19Z",
+ "last_archived_post_at": "2022-05-10T18:33:45Z",
+ "captured_between": [
+  "2022-05-20T08:03:19Z",
+  "2022-05-20T08:03:19Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-04-26T19:04:19Z",
+   "updated_at": "2022-04-26T19:04:19Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>TL;DR</p>\n<ul>\n<li>This proposal is making a suggestion on how to use the funds that were assigned to the reward board in the initial buy, 55,591.263 $TEC</li>\n<li>The current quantifying sessions distribute 134 TEC p/day</li>\n<li>Rewards will be 100% Praise until June 2022, from there on they are split between Praise (75%) and Sourcecred (25%)</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#proposal-description-1\" name=\"proposal-description-1\"></a>Proposal description</h3>\n<p>The Reward Board is currently holding 55,591.263 $TEC, with the goal of using those funds to distribute the rewards up until June 2022 (including the praise debt which started with the last quantification before the Hatch on 11-July-2021).</p>\n<p>For the last few months, we have been retroactively quantifying praise with our new praise system. For each month the corresponding rewards get split in the following way:</p>\n<ul>\n<li>Contributors get 90% of each period</li>\n<li>Quantifiers get 7% of each period</li>\n<li>Reward board members get 3% of each period</li>\n</ul>\n<p>The $TEC of the monthly rewards assigned to past praise is 134 p/day :</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Month</th>\n<th>Allocated TEC</th>\n<th>DAI (current $)</th>\n<th>Praise %</th>\n<th>SC %</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Round 1</td>\n<td>July 12 - 31</td>\n<td>2546</td>\n<td>5,512</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 2</td>\n<td>Aug 2021</td>\n<td>4154</td>\n<td>8,993</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 3</td>\n<td>Sep 2021</td>\n<td>4020</td>\n<td>8,703</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 4</td>\n<td>Okt 2021</td>\n<td>4154</td>\n<td>8,993</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 5</td>\n<td>Nov 2021</td>\n<td>4020</td>\n<td>8,703</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 6</td>\n<td>Dec 2021</td>\n<td>4154</td>\n<td>8,993</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 7</td>\n<td>Jan 2022</td>\n<td>4154</td>\n<td>8,993</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 8</td>\n<td>Feb 2022</td>\n<td>3752</td>\n<td>8,123</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 9</td>\n<td>Mar 2022</td>\n<td>4154</td>\n<td>8,993</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 10</td>\n<td>Apr 2022</td>\n<td>4020</td>\n<td>8,703</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 11</td>\n<td>May 2022</td>\n<td>4154</td>\n<td>8,993</td>\n<td>100%</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Round 12</td>\n<td>June 2022</td>\n<td>4154</td>\n<td>8,993</td>\n<td>75%</td>\n<td>25%</td>\n</tr>\n</tbody>\n</table>\n</div><p>We will be registering the last 12 months worth of contributions made in Github and the Forum through SourceCred. A Contributor’s cumulative ‘cred score’ will affect how much rewards they receive from the percent of rewards allocated to the SourceCred distribution. From July 2021 until June 2022 we will be allocating 100% of the rewards to Praise, from June 2022 and onward we will be allocating 25% of the rewards to SourceCred and 75% to Praise, taking into account these retroactively accumulated cred scores. These split percentages are subject to changes based on community feedback, and regarding how far in time SourceCred should look for. We are suggesting 50 weeks which coincide with the period we are starting to quantify.</p>\n<p>After analysis and discussion we came to this decision based on the fact that sourcecred wasn’t well promoted or well utilized in the past year of the TEC functioning, we also had some technical limitations of sourecred that wouldn’t allow us to adjust our cred scoring algorithm from month to month, retroactively, which meant an irresponsible amount of funds would go through a system that we could not test and improve properly.</p>\n<h3>\n<a class=\"anchor\" href=\"#additional-information-to-add-2\" name=\"additional-information-to-add-2\"></a>Additional information to add</h3>\n<p>The current quantifying sessions have been designed to distribute 134 TEC per day split in the following way:</p>\n<ul>\n<li>Contributors get 90%</li>\n<li>Quantifiers get 7%</li>\n<li>Reward board members get 3%</li>\n</ul>\n<p>The contributor allocation will be split the following way:</p>\n<p>All the contributors pool will be assigned to praise and starting on june it will be 75% praise and 25% Sourcecred</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-3\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-3\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>Giving governance power to the people who have been contributing to the TEC since the hatch and the following months for a year will benefit the common governance decisions.</p>\n<ul>\n<li>The feedback from the analysis and quant review sessions will expose patterns of our community that are important for our continuous improvement and alignment.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-4\" name=\"amount-requested-only-for-conviction-voting-4\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p><em>How much in wxDAI are you requesting?</em></p>\n<p>This proposal is planning to use the initial buy funds that were sent to the reward board on the initial buy which is 55,591.263 $TEC</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-5\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-5\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>Funds will be used to continue to send rewards distributions to Contributors, Quantifiers and the Reward Board</p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-6\" name=\"what-does-success-look-like-6\"></a><strong>What does success look like?</strong>\n</h3>\n<p>The community governance from the initial buy goes back to the people that were and are contributing to the commons. To achieve this goal every period will be analyzed and suggested changes if needed for the future period.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-7\" name=\"how-will-you-share-progress-7\"></a>How will you share progress?</h3>\n<p>The reward board will post on a forum thread after each distribution, explaining how the funds were distributed during that period.</p>\n<p>Note: For the praise debt we are planning to run an analysis for the first 2 periods together and keep consecutively until we reach our actual period and praise debt is over.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h3>\n<p>Nuggan, Chuy, Zeptimus, Kristofer, Mich and Livi</p>\n<p>This proposal is being considered as passed with the initial buy, and this <a href=\"https://snapshot.org/#/tecommons.eth/proposal/0x113eff60710a7340d35ee18dc51191cfe8573b617307f0c55089e6ed8a857535\">vote</a>. So unless there is an strong advice process we will process with this process in the following days</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080319",
+    "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2022-05-08T03:00:16Z",
+   "updated_at": "2022-05-08T03:00:16Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Do <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> and I get anything for having transcribed and dished months of praise from Community Calls? <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080319",
+    "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-05-08T10:45:40Z",
+   "updated_at": "2022-05-08T11:15:17Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I hear from <a class=\"mention\" href=\"/u/iviangita\">@iviangita</a> that she is getting compensated by Commons Stack as a full time position and in your case since the marketing proposal passed you are personally the person that gets the highest monthly compensation (before praise/sourcecred distributions) from the whole commons. I wonder if the community would be interested in showing full salaries of every member  (only money that is coming from TEC common pool). I’m personally more or less tracking it with the Audit but not exposing what is everyone making since I felt it would be sensitive to some people and we all know what happened the last time we showed numbers that were already there but the community was not fully aware <img alt=\":sweat_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/sweat_smile.png?v=10\" title=\":sweat_smile:\"/>. But in my opinion, it be nice to have this information be in the know by the community, wonder what the rest of the community thinks? That being said could only apply to the proposals that use dework or any kind of transparency on who is getting what (that wouldn’t apply for TE proposals since the Transparency WG is only tracking milestones for those)</p>\n<p>EDIT: We can also see <a href=\"https://trace.giveth.io/campaign/token-engineering-commons\">here</a> transcribing praise was charged to commons stack until Feb</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080319",
+    "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "Mount_Manu",
+   "name": null,
+   "created_at": "2022-05-08T15:51:24Z",
+   "updated_at": "2022-05-08T17:41:06Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I don’t think you mean to say that because the roles I work in are, in aggregate, one of the most compensated I ought to do some uncompensated work on the side so I’m not following your argument. I’ll recognize that I cannot look at this dispassionately and so the short-term solution I see for this is delegating it to newcomers as a “first issue” type of task because I no longer have the bandwidth or the will for it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080319",
+    "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2022-05-08T18:27:02Z",
+   "updated_at": "2022-05-08T18:27:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I agree you should do nothing that you don’t want to do, but what i was trying to communicate it’s we have those roles to make things simple and not micromanage everything. Are we doing it right? The time will tell but  the thing is transcribing the praise is a thing that will be over soon and was rewarded either by common stack or praise. For me it doesn’t make any sense to change this proposal and delay it even more, rewards must go on!.</p>\n<p>I feel we as a community we should look closer since comparing the value people is bringing to the commons and the value extracted from it, in my opinion we have members being overpaid (compared to other members) and this is a problem the commons should fix by itself but there <strong>is people being underpaid</strong> and we need to support those. When i use the term overpaid or underpaid (I’m not thinking on names but roles) i’m referring as it the commons itself was a market not comparing with the global market where depending where are you from or where do you work you get more or less for the same work done here in the commons.</p>\n<p>What I’m trying to get with this post is we should work more on the expectations of everyone and on our culture so you and no one feel under rewarded or shy to ask for rewards. If you ask me Manu if you get paid more because you go everywhere and are proactive this is amazing and being proactive should be compensated but since resources are limited we also should take care of the people that is shy to get what they deserve and not just to be fair but for the common good.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080319",
+    "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-05-10T18:33:45Z",
+   "updated_at": "2022-05-10T18:33:45Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I don’t see why we couldn’t work something out, If you feel like your work isn’t being fairly rewarded then perhaps there’s some action we can take. What do you think are some fair metrics to use to quantify the value you added by transcribing praise?</p>\n<p>Obviously anything put forward would have to pass some sort of greater community consensus process.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080319",
+    "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20220520080319",
+   "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520080319",
+   "url": "https://forum.tecommons.org/t/rewards-budget-distribution/992"
+  }
+ ]
+}

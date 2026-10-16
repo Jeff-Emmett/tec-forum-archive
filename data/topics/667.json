@@ -1,0 +1,243 @@
+{
+ "id": 667,
+ "title": "Rules of Praise",
+ "slug": "rules-of-praise",
+ "category_id": 5,
+ "posts_count": 11,
+ "created_at": "2021-10-14T16:00:56.505Z",
+ "last_posted_at": "2022-04-28T20:31:51.687Z",
+ "total_known": true,
+ "archived_posts": 12,
+ "archived_numbers": 12,
+ "last_archived_post_at": "2022-04-28T20:31:51Z",
+ "captured_between": [
+  "2021-12-07T12:07:08Z",
+  "2022-07-06T01:04:16Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-14T16:00:56Z",
+   "updated_at": "2022-07-04T15:39:37Z",
+   "reply_to_post_number": null,
+   "like_count": 17,
+   "cooked": "<h1>\n<a class=\"anchor\" href=\"#raised_hands-who-can-praise-1\" name=\"raised_hands-who-can-praise-1\"></a><img alt=\":raised_hands:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/raised_hands.png?v=10\" title=\":raised_hands:\"/> Who can praise?</h1>\n<p>Anyone who wishes to do so. To activate your praise powers go to the <a href=\"https://discord.gg/3tszcaxbDf\">praise channel</a> on Discord and type:</p>\n<h3>\n<a class=\"anchor\" href=\"#activate-2\" name=\"activate-2\"></a>/activate</h3>\n<p>to link your eth address to your Discord account.</p>\n<h1>\n<a class=\"anchor\" href=\"#how-to-praise-3\" name=\"how-to-praise-3\"></a><img alt=\":writing_hand:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/writing_hand.png?v=10\" title=\":writing_hand:\"/> How to praise?</h1>\n<p>To praise, use the <strong>/praise command in any TEC discord channel.</strong> You can use working group channels to praise contributions specific to that work stream, and the praise channel for any other type of contributions.</p>\n<p>When you type the command, <strong>you should tag the receivers, press tab and add the reason for why you’re praising</strong>. Try to be as descriptive as possible: Why are you grateful for this contribution and what is the impact it brings to the TEC?</p>\n<p>Sharing the impact is not requested by the bot, but it will help quantifiers understand the value you see, therefore this contribution has better chances to match your value expectation.</p>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/c6552df60543da8e39f34efb947f548592ab9ff3\" href=\"https://forum.tecommons.org/uploads/default/original/1X/c6552df60543da8e39f34efb947f548592ab9ff3.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"six2cjsAZHTgJgNW0ri5L6CMCwX\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/c6552df60543da8e39f34efb947f548592ab9ff3_2_10x10.png\" height=\"161\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/c6552df60543da8e39f34efb947f548592ab9ff3_2_624x161.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/c6552df60543da8e39f34efb947f548592ab9ff3_2_624x161.png, https://forum.tecommons.org/uploads/default/optimized/1X/c6552df60543da8e39f34efb947f548592ab9ff3_2_936x241.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/c6552df60543da8e39f34efb947f548592ab9ff3_2_1248x322.png 2x\" width=\"624\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1600×413 83 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<p>The praise bot has a /forward command to praise on behalf of others. This feature is permissioned to avoid gamification and is used by a few community members who transcribe verbal praise dished in the community call.</p>\n<p>Praise powers can be retrieved in case of malicious action - see the <a href=\"https://forum.tecommons.org/t/tec-community-covenant/572\">Community Covenant 3</a> for guidelines.</p>\n<p>You can see all the praise you have received in the<a href=\"https://praise.tecommons.org\"> Praise Dashboard </a></p>\n<h2>\n<a class=\"anchor\" href=\"#yellow_heart20x20uploadcwlc1zm2xfj8i9pgygwohldib81png-yellow_heart-what-do-we-praise-4\" name=\"yellow_heart20x20uploadcwlc1zm2xfj8i9pgygwohldib81png-yellow_heart-what-do-we-praise-4\"></a><img alt=\":yellow_heart:\" data-base62-sha1=\"cWlc1zM2xFj8I9pgyGwohlDIB81\" height=\"20\" src=\"https://forum.tecommons.org/uploads/default/original/1X/5ab26690a4a8d361c1d946eef0dc4affc7872835.png\" title=\":yellow_heart:\" width=\"20\"/> What do we praise?</h2>\n<p>Praise is a great signal to inform quality. The way each one of us judges what has quality is very subjective, so limiting what can be praised wouldn’t be ideal. Instead, we should try to be as descriptive and specific as possible to guide quantifiers towards an understanding of our expression of value. Imagine praise as a magical device that can transform invisible pieces of value into visible and tangible flows.</p>\n<p><img alt=\":smiling_face_with_three_hearts:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiling_face_with_three_hearts.png?v=10\" title=\":smiling_face_with_three_hearts:\"/> <strong>Subjective;</strong></p>\n<p><strong>1. Based on or influenced by personal feelings, tastes or opinions</strong></p>\n<p>Here are some examples of contributions that have been praised and should continue to be praised, with question prompts to better shape how we communicate them.</p>\n<ul>\n<li>Being kind - how did someone’s kindness impact you or your participation in the TEC?</li>\n<li>Taking the initiative - why was it important for someone to take initiative on that topic?</li>\n<li>Untangling - what type of clarity did their contribution provide?</li>\n<li>Preparing something - what did they prepare?</li>\n<li>Asking relevant questions - in what circumstance?</li>\n<li>Helping to onboard someone - what needs were met? How did you feel with that help?</li>\n<li>Listening - How did this make you feel? Why was it important?</li>\n<li>Commitment - what was the quality of their commitment?</li>\n<li>Providing information and insights - what information they provided? How was it helpful to you?</li>\n<li>Leadership - what value did their leadership provide to you or the TEC? What makes you highlight it at this moment?</li>\n<li>Being supportive/Holding space - how has this helped you or the community?</li>\n<li>Being proactive - what were they proactive with?</li>\n<li>Sharing responsibilities - what responsibilities were shared? How did you feel?</li>\n<li>Giving valuable inputs - what type of value was added?</li>\n<li>High vibes - how has the high vibe of someone impacted you?</li>\n<li>Being present/ available - how does that make you feel? What were they available for?</li>\n<li>For doing something no one saw but you - be as descriptive as possible, it’s a gift to the other to have publicly visible the value only you saw.</li>\n</ul>\n<p><img alt=\":1234:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/1234.png?v=10\" title=\":1234:\"/> <em><strong>Objective;</strong></em></p>\n<p><em><strong>1. (of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.</strong></em></p>\n<p>Objective contributions in general should be captured by SourceCred.<br/>\nObjective actions that we should praise:</p>\n<ul>\n<li>\n<p>Basic engagements with the TEC on twitter or other social media.</p>\n</li>\n<li>\n<p>It is unclear yet how we will integrate twitter and social media data into the reward system. These contributions can be praised so we acknowledge their value!</p>\n</li>\n<li>\n<p>Meeting Attendance</p>\n</li>\n<li>\n<p>In coming versions of the Reward System we might expect to see a meeting attendance bot that will capture member meeting attendance and give it a score, until then we can praise members for coming to meetings.</p>\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#objective-actions-that-we-should-not-praise-5\" name=\"objective-actions-that-we-should-not-praise-5\"></a>Objective actions that we SHOULD NOT praise:</h3>\n<ul>\n<li>\n<p>Contributing to discussions in the forum</p>\n</li>\n<li>\n<p>the quality of or value added by someone’s contribution can still be praised, but the fact someone liked or wrote a post or comment will be rewarded through SourceCred</p>\n</li>\n<li>\n<p>Being active on Github</p>\n</li>\n<li>\n<p>Actions such as commits, Pull Requests and comments are captured by SourceCred, however the work or value created inside of these actions are not captured so they should be praised!</p>\n</li>\n</ul>\n<h1>\n<a class=\"anchor\" href=\"#praise-etiquette-6\" name=\"praise-etiquette-6\"></a><img alt=\":star2:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/star2.png?v=10\" title=\":star2:\"/> Praise etiquette:</h1>\n<p>For every quantification round, we have a review session with quantifiers and a data analysis run by <a class=\"mention\" href=\"/u/zhiwei\">@zhiwei</a> <a class=\"mention\" href=\"/u/0xnuggan\">@0xNuggan</a>. This helps us develop our tools and also improve the praise etiquette in general. Based on the <a href=\"https://forum.tecommons.org/t/quantifier-disagreement-on-duplication-and-dismissal-analysis-from-round-6/987\">quantifier disagreement analysis</a>, we can suggest best practices to praise.</p>\n<p>When dishing praise we should think of the quantifiers on the other end who will process it. Here’s some examples of hard to quantify praise</p>\n<h3>\n<a class=\"anchor\" href=\"#h-1general-mention-of-the-project-but-not-the-actual-contribution-7\" name=\"h-1general-mention-of-the-project-but-not-the-actual-contribution-7\"></a>1.General mention of the project but not the actual contribution:</h3>\n<ul>\n<li>\n<p><img alt=\"\" data-base62-sha1=\"fUN5MipNUcAer9yt7ZnLsq2lzdQ\" height=\"66\" src=\"https://forum.tecommons.org/uploads/default/original/1X/6f8c115ec510c80edcef2759127f63ec2684749e.png\" width=\"590\"/><br/>\n“How were they involved? What did they do?”</p>\n</li>\n<li>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/506e3c73542a1ed45317120b7a6c3a80645eeb2e\" href=\"https://forum.tecommons.org/uploads/default/original/1X/506e3c73542a1ed45317120b7a6c3a80645eeb2e.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"btwnoYA5WtOgZdtALpBRsXRQTLw\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/506e3c73542a1ed45317120b7a6c3a80645eeb2e_2_10x10.png\" height=\"68\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/506e3c73542a1ed45317120b7a6c3a80645eeb2e_2_690x68.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/506e3c73542a1ed45317120b7a6c3a80645eeb2e_2_690x68.png, https://forum.tecommons.org/uploads/default/original/1X/506e3c73542a1ed45317120b7a6c3a80645eeb2e.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/506e3c73542a1ed45317120b7a6c3a80645eeb2e.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">1006×100 18.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div><br/>\n“Woah, there’s at least 5 actions being praised at once, how can I give all this a single score?”\n</li>\n<li>\n<p><img alt=\"\" data-base62-sha1=\"2nMdvKmhg8TDxA7949qlFWI9fkK\" height=\"60\" src=\"https://forum.tecommons.org/uploads/default/original/1X/10b46f253e29c3c847e76f978f16bfabc01c043a.png\" width=\"286\"/><img alt=\"\" data-base62-sha1=\"pG99iQYjyKYRoZeAIOpDN9DF4Fa\" height=\"60\" src=\"https://forum.tecommons.org/uploads/default/original/1X/b3fa07354bd81bf820f44fa882b5ea754252bad0.png\" width=\"286\"/><br/>\n“What new article? What was it about?”</p>\n</li>\n<li>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/d7bbce401dcab071c3a956be00ff7d15d26ad6fb\" href=\"https://forum.tecommons.org/uploads/default/original/1X/d7bbce401dcab071c3a956be00ff7d15d26ad6fb.png\" title=\"\"><img alt=\"\" data-base62-sha1=\"uMt1JmtnzzHPfRZZQJTsB6gAku7\" data-small-upload=\"https://forum.tecommons.org/uploads/default/optimized/1X/d7bbce401dcab071c3a956be00ff7d15d26ad6fb_2_10x10.png\" height=\"47\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/d7bbce401dcab071c3a956be00ff7d15d26ad6fb_2_690x47.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/d7bbce401dcab071c3a956be00ff7d15d26ad6fb_2_690x47.png, https://forum.tecommons.org/uploads/default/original/1X/d7bbce401dcab071c3a956be00ff7d15d26ad6fb.png 1.5x, https://forum.tecommons.org/uploads/default/original/1X/d7bbce401dcab071c3a956be00ff7d15d26ad6fb.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\"></span><span class=\"informations\">906×63 9.37 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div><br/>\n“Hosting, explaining, accepting what? Are they different things or the same? And what about the ‘entire TEC Community’?”\n</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-2-action-related-to-other-te-related-organizations-but-not-tec-8\" name=\"h-2-action-related-to-other-te-related-organizations-but-not-tec-8\"></a>2. Action related to other TE related organizations but not TEC:</h3>\n<ul>\n<li>\n<p><strong>Example praise: “for his work in Giveth and for supporting ETHColombia\"</strong></p>\n<p>How has his work in Giveth or his support to EThColombia helped the TEC?</p>\n</li>\n</ul>\n<ul>\n<li>Example of a praise that is valid in this context: “for their work in Giveth, which energizes our whole community with giving vibes”</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#h-3-action-seems-unrelated-to-te-9\" name=\"h-3-action-seems-unrelated-to-te-9\"></a>3. Action seems unrelated to TE</h3>\n<ul>\n<li>\n<p><strong>Example praise: “for being man enough to know how to change a tire”.</strong></p>\n<p>How is this related to token engineering or to the TEC community?</p>\n</li>\n</ul>\n<p>If there are actions that make you feel appreciated and offer a sense of belonging in the community but are not directly related to work happening in the community, please signal it in the praise.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2021-10-17T19:04:24Z",
+   "updated_at": "2021-10-17T19:04:24Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>This is great Livi! I was wondering if you have some good examples of praise that would be easy to be interpert and quantify.</p>\n<p>I also feel certain terms like “Holding Space” , “High Vibes”, “Listening” seem very vague to me, how is this conducive to avoiding superlatives as you mentioned?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-10-18T14:47:38Z",
+   "updated_at": "2021-10-18T14:47:38Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>“Holding Space”, “High Vibes”, “Listening” would be more like categories of subjective contributions that have been praised, rather than the format of the praise.</p>\n<p>I’ll try to find examples for each of them -<br/>\n<strong>High vibes/ welcoming</strong> - “!praise x for his outstanding friendly hosting this morning at community hall.”<br/>\n<strong>Holding space/ listening</strong> - “!praise x for the sweet deep dive we took talking about communities, reward systems and emotional support. I’m grateful for her care, attention and the synthesizing she does with others for and within our community”</p>\n<p>I’m taking another look at the praises now and there is a huge amount of “for always doing this” \" for all the work with this and that\". I’m thinking it will be really hard to shift this. It’s probably fair to say that the value expressed in this cases is of consistency, reliability, accountability. So maybe praise could be quantified having this into account and we could discuss a base quant value for it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2021-12-22T18:52:52Z",
+   "updated_at": "2021-12-22T18:52:52Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Maybe this goes somewhere else, I am unsure…But I have been onboarding folx into TEC and am wondering what it takes to get the permissions to give people the ability to praise. Can I have this as an additional task i can perform? I demonstrate posting a praise im holding to the channel during 1:1’s so people can get an idea of what its all about. They almost Always wanna give me one after and im like yeah well someone will help you I’ve flagged them. I wanna be that person who helps them though…I have this see something say/do something energy that’s feeling a little constipated in my efforts here. I track how long these people wait I cant help it OCD/Autism. I want to not track these things and i wouldn’t have to if I could support.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-12-23T13:58:44Z",
+   "updated_at": "2021-12-23T13:58:44Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hey Aloysious, thanks for bringing this up. Right now only admins can give roles to people. I wonder if we could automate something for people to receive praise powers. What do you think <a class=\"mention\" href=\"/u/vyvy-vi\">@Vyvy-vi</a> ?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2021-12-24T05:59:03Z",
+   "updated_at": "2021-12-24T05:59:03Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I pinged <a class=\"mention\" href=\"/u/vyvy-vi\">@Vyvy-vi</a> about this and his solution is to have a Community Guide role able to assign Praise Giver role. Sounds like the right solution to me as all Guides should be able to do this during the onboarding journey. We also have orientation coordinator role that we should think about sunsetting if we don’t need need or allow the ability to give praise powers if we keep  <img alt=\":wink:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/wink.png?v=10\" title=\":wink:\"/></p>\n<p>Tagging <a class=\"mention\" href=\"/u/vegayp\">@vegayp</a></p>\n<p>Thank you <a class=\"mention\" href=\"/u/al0ysi0us\">@AL0YSI0US</a> for raising this!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2022-01-14T06:35:14Z",
+   "updated_at": "2022-01-14T06:35:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Great post.</p>\n<p>Just wondering on quantification, team dynamics for example can have a big impact, but are not always rated / visible by all.</p>\n<p>Is there any merit in having some justification for quantification, whereby others can learn about new perspectives they might take themselves when quantifying?</p>\n<p>To answer the question “why does X quantify in that strange way?”</p>\n<p>Thanks.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-01-20T13:53:01Z",
+   "updated_at": "2022-01-20T13:53:01Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>thinking about this we created a “cultural sync” as a step to post quantification. So quant will happen async, and when all quantifiers are done with their batches we’ll have a call with everyone together to talk about perceptions like the one you mentioned. Also the quant process is extremely insightful and educative into whats happening in the community, so it will be a great moment to share, ask questions and listen to others.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Vyvy-vi",
+   "name": null,
+   "created_at": "2022-02-18T16:15:05Z",
+   "updated_at": "2022-02-18T16:15:05Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I think we could maybe look into a “trust period” param, which depends on:</p>\n<ul>\n<li>days spent in the server(more than N months)</li>\n<li>no of praises received(more than P praises)</li>\n<li>no of interactions in the server(more than X messages, have attended more than Y calls)</li>\n</ul>\n<p>Anyone meeting the criteria automatically gets the role.</p>\n<p>This is do-able with a discord bot, if we could agree on the “trust period” param.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "AL0YSI0US",
+   "name": null,
+   "created_at": "2022-03-29T03:18:13Z",
+   "updated_at": "2022-03-29T03:18:13Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"9\" data-topic=\"667\" data-username=\"Vyvy-vi\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/vyvy-vi/40/328_2.png\" width=\"20\"/> Vyvy-vi:</div>\n<blockquote>\n<p>This is do-able with a discord bot, if we could agree on the “trust period” param.</p>\n</blockquote>\n</aside>\n<p>That’s a cool idea. Thanks for listing out the parameters I’m always at the edge of my seat trying to guess what’s happening on the code side without actually knowing.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "innov8tor3",
+   "name": null,
+   "created_at": "2022-04-28T06:49:58Z",
+   "updated_at": "2022-04-28T06:49:58Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"667\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/> liviade:</div>\n<blockquote>\n<p>Examples of contributions that have been praised but shouldn’t anymore after the transition to the new reward system.</p>\n</blockquote>\n</aside>\n<p>Looking for some clarification please on retrospective rewards …</p>\n<p>Will Source Cred provide retrospective praise in all instances?</p>\n<p>If yes, we can stop eg praise rewards for forum contributions now; if no, we continue to quantify praise for forum posting until Source Cred is live for that data source.</p>\n<p>Thanks.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-04-28T20:31:51Z",
+   "updated_at": "2022-04-28T20:31:51Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>this post is updated</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220706010416",
+    "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20211207120708",
+   "url": "https://forum.tecommons.org/t/rules-of-praise-and-quantification/667"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20211207120708",
+   "url": "https://forum.tecommons.org/t/rules-of-praise-and-quantification/667"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520063834",
+   "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520063834",
+   "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220706010416",
+   "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220706010416",
+   "url": "https://forum.tecommons.org/t/rules-of-praise/667"
+  }
+ ]
+}

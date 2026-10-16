@@ -1,0 +1,195 @@
+{
+ "id": 358,
+ "title": "An organic decision-making mechanism for DAOs",
+ "slug": "an-organic-decision-making-mechanism-for-daos",
+ "category_id": 28,
+ "posts_count": 8,
+ "created_at": "2021-04-28T20:37:36.167Z",
+ "last_posted_at": "2021-07-09T02:33:05.222Z",
+ "total_known": true,
+ "archived_posts": 9,
+ "archived_numbers": 9,
+ "last_archived_post_at": "2021-07-09T02:33:05Z",
+ "captured_between": [
+  "2021-06-24T15:54:22Z",
+  "2022-05-20T08:06:05Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sbilbao",
+   "name": null,
+   "created_at": "2021-04-28T20:37:36Z",
+   "updated_at": "2021-12-02T14:56:49Z",
+   "reply_to_post_number": null,
+   "like_count": 9,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#terminology-primer-1\" name=\"terminology-primer-1\"></a>Terminology Primer</h2>\n<p><strong>Sociocracy</strong> is a governance structure that uses distributed consent, instead of consensus, for discussion and decision-making. Sovereign domains, or circles, are formed by colleagues of specific interests. The many domains are linked via colleagues whose membership overlap in the domains that need to interact. Lastly, a top level coordinating domain comprising of at least two members from each subdomain come together to participate in the governance of the whole.</p>\n<p><strong>Threefold Social Organism</strong> the Cultural, Economic and Legal domains of society are phenomenologically revealed to encompass the entirety of all other socioeconomic activities. An organic governance model is put in motion when these three domains operate independently from each other, nevertheless, are also organized to overlap to govern the community; each domain having an unalienable and sovereign equal share in it. The health of the community is measured by how equitative the influence of each domain is on the whole.</p>\n<p><strong>Holacracy/Holonic Stigmergy</strong> are two forms of organization which take the best properties of hierarchical and heterarchical systems and synthesize them into an improved mechanism for tuning the emergence &amp; engineering of self-organizing applications. Holonic stigmergy (which is based on biomimicry) is comprised of holons, which are units that are simultaneously a whole and a part of the whole; and stigmergy (also based on biomimicry) is a system of indirect coordination in which the trace left unto a medium by an agent’s action stimulates subsequent actions by other agents in a distributed fashion.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal Description</h2>\n<p>The healthy governance of an organization ought to bring authority and accountability through the enabling of inclusive decision-making for the whole.</p>\n<p>We propose a DAO designed to tame the tendencies towards mono-cracy (e.g. monarchy, technocracy, extrovertocracy, etc.) or polarized democracies, both of which have a tendency to emerge in societies of all types and sizes, including DAOs.</p>\n<p>We leverage the concepts of Sociocracy, Holacracy, Holonic Stigmergy, and the Threefold Social Organism, to design a DAO capable of providing fair, impartial, and weighted representation to all of its members and possibly even external partners. Our chief aim is to prevent one domain from overrunning the other two. In our current real-world paradigm, the economic domain has overrun the Legal and Cultural domains.</p>\n<h2>\n<a class=\"anchor\" href=\"#why-to-facilitate-the-comprehensive-inclusion-of-the-whole-in-governance-structures-3\" name=\"why-to-facilitate-the-comprehensive-inclusion-of-the-whole-in-governance-structures-3\"></a>Why? — To facilitate the comprehensive inclusion of the whole in governance structures</h2>\n<p>It can be readily perceived that governance structures, even when set up with the best of intentions, tend to devolve into monocracies or polarized democracies. Although the phenomena behind this links to complex human behaviours and historical compromises, it could be said that democracy has run its course and matured into a polarized grid lock—something new needs to emerge. Having tried monocracies, and two-party democracies; our contention is that a trinary model would prevent the stalemates of the two previous models and allow for a dynamic and organic solution to the social question, and applicable to a DAO, DAO2DAO, or a DAO of DAOs, etc. From Holacrocy/Holonic Stigmergy, Sociocracy and the Threefold Social Organism we can take the required elements to engineer a governance method that would guarantee the healthy flow of decision-making by the whole for the whole. The current demographics of the crypto space is very heavy on devs, managers, designers and marketers and the triDAO has the purpose to healthily diversify the space to include currently-silent partners.</p>\n<h2>\n<a class=\"anchor\" href=\"#how-4\" name=\"how-4\"></a>How?</h2>\n<ol>\n<li>We start by categorizing the activity essence of each member, working group and protocol into one of the three top level social domains: the Economic, Cultural and Legal. A KYC protocol would be used to onboard and keep track of affiliations to the three domains. For instance Griff would be a member in all three domains, while MountManu would be a member of the Cultural and Legal domains only.</li>\n<li>Then, the minimum number of representatives from each of the three domains would need to be agreed upon, always aiming for a fair balance among the three top domains.</li>\n<li>Only when this balanced tripartite quorum is met, governance may occur.</li>\n<li>If this quorum cannot be reached, either due to time constraints or insufficient participation, then Holacracy and Sociocracy procedures might be temporarily applied.</li>\n<li>A triDAO in session is then free to choose the most suitable voting protocol for the decision at hand. It could apply direct, quadratic, federated, etc. voting methods, including giving one of the three domains full executive powers(aka tyranny) over certain issues. Hence the triDAO is able to adapt to the very diverse types of decision-making tasks that are naturally bound to arise in the life of a DAO and act in representation of the whole at all times.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#example-5\" name=\"example-5\"></a>Example</h2>\n<ol>\n<li>Determine and verify that all members are assigned to the correct domains as per their capabilities.</li>\n<li>Verify that the triDAO meets the minimum tripartite quorum to proceed with governance.</li>\n<li>All decisions, from minute to critical, are to be passed through this trinary governance. Deliberation of issues such as “Praise Quantification Resulting in Impact Hours” or TEC’s “Community WHY” video, could have enacted this trinary governance model to arrive organically to the most representative decision of the whole.</li>\n<li>The triDAO freely elects the appropriate governance protocol to use for the issue at hand. In the case of the “Community WHY” video, the triDAO might grant full authority to the Comms WG to execute its production or opt for quadratic voting among a balanced threefold representation of the whole. NOTE: depending on the level of importance or complexity, a mix of analog and cryptographic methods could be used for the undertaking of these tasks.</li>\n</ol>\n<p>Below we approximate the membership of each existing TEC working group with one of three domains defined in the threefold social organism’s framework and determine that the Economic domain has less representational weight. Luckily, the tripartite method of the triDAO is aligned with natural laws and hence naturally occurring. For instance, the “Praise Quantification Resulting in Impact Hours”, was executed by a well balanced group of 9 stakeholder which themselves were balanced across all three of the social domains. Nevertheless, the TriDAO’s goal is to reveal this natural governance phenomena into a super conscious living protocol.</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Legal</th>\n<th>Cultural</th>\n<th>Economic</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Gravity</td>\n<td>Communications</td>\n<td>Commons Swarm</td>\n</tr>\n<tr>\n<td>Legal</td>\n<td>Hatcher-Outreach</td>\n<td>Labs</td>\n</tr>\n<tr>\n<td>Soft-Gov</td>\n<td>Parameters</td>\n<td></td>\n</tr>\n<tr>\n<td>Stewards</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Transparency</td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div><p>Table 1. TEC Working Groups categorized into the three social domains.</p>\n<p>Advisors: <a class=\"mention\" href=\"/u/solsista\">@Solsista</a> <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-04-29T20:52:34Z",
+   "updated_at": "2021-04-29T20:52:34Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This is super cool… I definitely agree that after the Hatch, when we have our stake holders locked in, we should really have this discussion in full force, because it is already too hard to manage everything as one group!</p>\n<p>Personally tho… I think I would change the groupings to follow the Ostrom groupings:</p>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Protocols</th>\n<th>Resources</th>\n<th>Community</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Commons Swarm</td>\n<td>Omega</td>\n<td>Communications</td>\n</tr>\n<tr>\n<td>Legal</td>\n<td>Hatcher(Project)-Outreach</td>\n<td>Labs</td>\n</tr>\n<tr>\n<td>Soft-Gov</td>\n<td>Params</td>\n<td>Gravity</td>\n</tr>\n<tr>\n<td>Stewards</td>\n<td></td>\n<td>Transparency</td>\n</tr>\n</tbody>\n</table>\n</div><p>I put Params in resources as it will be how we adjust the resource flow… but it could have easily gone into protocols… just like several of these groups… they would almost all fit under multiple categories… that will the challenge of course cause every dimension is connected, separation is an illusion… but still valuable.</p>\n<p>NOTE: Sorry about the weird edits on the original post, I went in there to copy paste the table and accidentally edited… and then reverted my changes, no edits were actually made</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "RubenR",
+   "name": null,
+   "created_at": "2021-05-02T15:09:02Z",
+   "updated_at": "2021-05-02T15:10:42Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>This is very interesting! I would also want to learn more about this triDAO structure and see how this is implemented and how it pans out.</p>\n<p>Furthermore, what type of tools would be used to facilitate this will it be through on-chain apps or off-chain?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "sbilbao",
+   "name": null,
+   "created_at": "2021-05-04T13:43:34Z",
+   "updated_at": "2021-05-04T14:42:11Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a class=\"mention\" href=\"/u/griff\">@Griff</a> I love how Ostrom’s groupings are 100% compatible. Thanks!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "sbilbao",
+   "name": null,
+   "created_at": "2021-05-04T14:41:51Z",
+   "updated_at": "2021-05-04T14:41:51Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><a class=\"mention\" href=\"/u/rubenr\">@RubenR</a> thanks for your interest. Here is a [link to a TLDR] (<a class=\"inline-onebox\" href=\"https://docs.google.com/document/d/1q4LSY8dbD_QkXbvc0UCxqn2zztUpBpfrU5Dw3pjTdtk/edit?usp=sharing\" rel=\"noopener nofollow ugc\">TLDR_cryptoÆconomics - Google Docs</a>) on the complete system, not just the governance model.</p>\n<p>Most of the tools emerging at CS &amp; TEC would be suitable. In short,  governance, economic and cultural tokens running on &amp; off chain.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-07-08T13:53:12Z",
+   "updated_at": "2021-07-08T13:53:12Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"358\" data-username=\"sbilbao\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/sbilbao/40/264_2.png\" width=\"20\"/> sbilbao:</div>\n<blockquote>\n<p>TEC Working Groups categorized into the three social domains.</p>\n</blockquote>\n</aside>\n<p>this is a good exercise, I was a bit take back with “Why these 3 dimensions” when you listed these under “Threefold social organism”… maybe if you add further description from the theory what comprises, culture, economy, legal - then we can have a better mapping of the working groups to these. E.g. how to deal with Conflict is core of Gravity working group, at the same time it’s cultural - but also has Legal implications maybe? and although the call out pf Params working group is “your economy your choice” it’s both Economy, as well as culture, as e.g. this is more participation in design then elsewhere, but also not as much as it would be technically, legally, culturally possible etc.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "Solsista",
+   "name": null,
+   "created_at": "2021-07-08T13:57:36Z",
+   "updated_at": "2021-07-08T13:57:36Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"2\" data-topic=\"358\" data-username=\"Griff\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/griff/40/21_2.png\" width=\"20\"/> Griff:</div>\n<blockquote>\n<p>follow the Ostrom groupings:</p>\n</blockquote>\n</aside>\n<p>interesting… what would that mean? e.g. is a mapping between Steiner &amp; Ostrom needed? Is that mapping still sufficient to explain a digital knowledge commons almost a century after they have developed their theories in the context of their time?</p>\n<p>You know my preference for induction <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/> i.e. would always prefer a community induces their system model from right where they are, and figure out what and how to adapt through feedback, than following a model out of context. yet that is another ideal. We’ll find out when more and more of these variant models are deployed and tested</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "sbilbao",
+   "name": null,
+   "created_at": "2021-07-09T02:12:15Z",
+   "updated_at": "2021-07-09T02:12:15Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Nailed it. An organism does not have clear black and white internal or external boundaries, nor a fixed condition as it is constantly changing. For instance the function of an organ, say the liver, extends beyond its cells, and viceversa, other organs influence the liver. The threefold organism is the orchestrated cooperation of these three top level domains for the harmonious functioning of the whole. One can observe this within one’s own balancing act of the nerve-brain system(economy), rhythmic system(legal) and the metabolic system(culture).</p>\n<p>Sociocracy and Holacracy are valid methods for achieving the balancing act of these three top domains.  So, for instance, Gravity Working group could find more harmony if equally stewarded by, or at least inviting, cultural, legal and economic stakeholders.</p>\n<p>“As things are at present, this is hindered by the fact that one sphere tries to develop aspects within itself which should really flow towards it from another.” R. Steiner</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "sbilbao",
+   "name": null,
+   "created_at": "2021-07-09T02:33:05Z",
+   "updated_at": "2021-07-09T02:33:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Ostrom’s groupings, Steiner’s Threefolding,  Zargham’s “CryptoEconomic flower”, Spiral Dynamics, etc. all have clear mapping overlaps between them because they are all attempts to induce models for the human condition from similar perspectives.  Digital technology ads a “foreign” binary layer to the inherent trinary nature of the human condition which all the above models attempt to preserve into the binary context of digital technology.</p>\n<p>Its highly unlikely that one could induce a model from a digital binary context that would be healthy for  human beings. If it was, one might have to redefine what a human being is.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20220520080605",
+    "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624155422",
+   "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624155422",
+   "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20210928021603",
+   "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928021603",
+   "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20220520080605",
+   "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20220520080605",
+   "url": "https://forum.tecommons.org/t/an-organic-decision-making-mechanism-for-daos/358"
+  }
+ ]
+}

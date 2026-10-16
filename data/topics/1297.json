@@ -1,0 +1,317 @@
+{
+ "id": 1297,
+ "title": "Should the TEC change our reserve currency?",
+ "slug": "should-the-tec-change-our-reserve-currency",
+ "category_id": 28,
+ "posts_count": 15,
+ "created_at": "2023-10-02T17:44:06.433Z",
+ "last_posted_at": "2023-12-12T16:02:14.750Z",
+ "total_known": true,
+ "archived_posts": 16,
+ "archived_numbers": 16,
+ "last_archived_post_at": "2023-12-12T16:02:14Z",
+ "captured_between": [
+  "2023-12-10T23:18:38Z",
+  "2024-07-24T16:44:57Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-10-02T17:44:06Z",
+   "updated_at": "2023-10-02T17:44:06Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>If the TEC <a href=\"https://forum.tecommons.org/t/community-advice-process-on-tec-migration-to-optimism/1294\">migrates to Optimism</a>, we will need to decide on what reserve currency to use there. For those of you that have already been thinking about this (tagging <a class=\"mention\" href=\"/u/griff\">@Griff</a> and <a class=\"mention\" href=\"/u/sem\">@sem</a>) and those of you who are thinking about it now, share your thinking here!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "gene",
+   "name": null,
+   "created_at": "2023-10-03T06:10:18Z",
+   "updated_at": "2023-10-03T06:10:18Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I’m curious what the features of a strong candidate for a new reserve currency might look like? Is it purely down to the stable with the highest TVL on the given chain? Is it a pseudo-referendum on our choice of the most reliable stable issuer? Is it even necessary for the token to be a stable? I am hoping to understand the thinking behind the original selection of wxdai beyond facilitating what were nearly free transactions (of course after having spent to bridge to gnosis and trade for xdai).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-04T22:47:20Z",
+   "updated_at": "2023-10-04T23:14:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>I think the debate is a 2 step debate: First: Stable coin or ETH/LSD or Other (like OP or Ocean)</p>\n<p>Then the next debate is exactly which one of those types…</p>\n<p>There is a real argument for using ETH (or an LSD like stETH or rETH) for our reserve currency. Beyond the <a href=\"https://forum.tecommons.org/t/buying-wsteth-to-diversify-our-treasury-funding-proposal/1261/6\">well discussed potential issues with DAI and clear desire to diversify our holdings</a>, there is also the change in market conditions. Having a stable coin in our reserve was very powerful for us in the bear market… but the bear market will end, and it might be smart for our organization to invest it’s reserve pool into ETH so we can follow the market. We would effectively be buying ETH at 1/2 the price as we would have bought it in 2021 during the Hatch… That would be a pretty good play for any crypto org.</p>\n<p>There is also a good argument for the long term viability of using a stablecoin as well. Avoiding correlation with the crypto markets has it’s own merit too and the tributes would come out as stable tokens which would reduce our overhead for treasury management.</p>\n<p>There is less of an argument to be made about using a more volatile, less liquid currency… but I think its fair to leave it open as a possibility for us to consider.</p>\n<h2>\n<a class=\"anchor\" href=\"#what-do-you-think-if-we-migrate-to-optimism-what-should-we-use-for-our-reserve-in-the-abc-1\" name=\"what-do-you-think-if-we-migrate-to-optimism-what-should-we-use-for-our-reserve-in-the-abc-1\"></a>What do you think? If we migrate to Optimism, what should we use for our Reserve in the ABC?</h2>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"03c0fa52b4e906a8819fbb6af663e765\">Stick with Stables</li>\n<li data-poll-option-id=\"c441e9e23221dab28c42652ad4a3fdab\">Opt for ETH (or LSD)</li>\n<li data-poll-option-id=\"6c986ebcde3d5822a6e91a695c388094\">Other</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-10-05T00:18:36Z",
+   "updated_at": "2023-10-05T00:18:36Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Not sure what’s the right answer here, but in any case we must consider having mechanisms in place to swap reserves for multiple reasons.</p>\n<p>In the case of DAI, Maker has already announced they will upgrade to a new token – DAI will still work, but who knows for how long.</p>\n<p>Same with ETH/LSTs, ETH backed assets are being severely underused because of the competition with staked ETH… which means we should only use a LST, but even then, protocols rise and die every day, so being able to both hold multiple and swap them is a must imo.</p>\n<p>It’d be cool to see a comparison of the token and common pool performance if we had used ETH instead of DAI, based on that we should be able to make a more informed decision – there’s way more upside with a LST backed token, and we can always do some small treasury management to keep a healthy stable balance (same applies vice versa).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-10-27T23:10:27Z",
+   "updated_at": "2023-10-27T23:10:27Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks to everyone contributing to this discussion. I’ll try to capture the state of this discussion in this post including a synopsis of today’s TEC advisory network discussion with <a class=\"mention\" href=\"/u/sem\">@sem</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/bear100\">@bear100</a> <a class=\"mention\" href=\"/u/enti\">@enti</a> <a class=\"mention\" href=\"/u/tamara\">@Tamara</a></p>\n<h2>\n<a class=\"anchor\" href=\"#op-migration-reserve-token-1\" name=\"op-migration-reserve-token-1\"></a>OP Migration Reserve Token</h2>\n<p>To complete the migration to Optimism we must choose what our reserve currency will be in our augmented bonding curve on optimism. The token we select will be the collateral that is deposited to mint $TEC. By using a yield bearing collateral like Lido, RPL, or SDAI, the reserve can accumulate rewards over time akin to compounding interest. This means the $TEC token holders will benefit from having an increased token price and higher reserves.</p>\n<h3>\n<a class=\"anchor\" href=\"#summary-of-forum-comments-thus-far-2\" name=\"summary-of-forum-comments-thus-far-2\"></a>Summary of Forum Comments thus far</h3>\n<ol>\n<li>\n<a class=\"mention\" href=\"/u/gene\">@gene</a> proposes reserve token properties to consider like stability, TVL, reliability, and chain as token metrics.</li>\n<li>\n<a class=\"mention\" href=\"/u/gene\">@gene</a> proposes a review of why WXDAI was chosen originally.</li>\n<li>\n<a class=\"mention\" href=\"/u/griff\">@Griff</a> highlights two steps in determining the reserve\n<ol>\n<li>What type of token? Sablecoin? ETH exposure? Other token? Or a portfolio of tokens as an LP share?</li>\n<li>Which instance of that token type? DAI or SDAI? Lido or RPL?</li>\n</ol>\n</li>\n<li>\n<a class=\"mention\" href=\"/u/griff\">@Griff</a> proposes volatility and Liquidity as token metrics.</li>\n<li>\n<a class=\"mention\" href=\"/u/enti\">@enti</a> importance of mechanisms that provide future swaps to the reserve token.</li>\n<li>\n<a class=\"mention\" href=\"/u/enti\">@enti</a> questions the long term support of DAI and LSTs</li>\n<li>\n<a class=\"mention\" href=\"/u/enti\">@enti</a> proposes analysis of a what if the ABC was historically collateralized by ETH? What would that look like? What would be the same and what would be different?</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#synopsis-of-the-tecan-advise-process-on-this-topic-3\" name=\"synopsis-of-the-tecan-advise-process-on-this-topic-3\"></a>Synopsis of the TECAN advise process on this topic.</h2>\n<p>Changing the reserve currency (currently wxDAI) for the ABC can be part of the scope of a migration plan without additional costs that would incur if we were to do it later. We would like to open community discussion on this topic.</p>\n<h3>\n<a class=\"anchor\" href=\"#what-are-the-options-4\" name=\"what-are-the-options-4\"></a>What are the options?</h3>\n<ol>\n<li>Stable\n<ol>\n<li>DAI (No yield)</li>\n<li>SDAI not on Optimism Yet: <a class=\"inline-onebox\" href=\"https://forum.makerdao.com/t/is-there-a-plan-to-bridge-sdai-to-optimism/22354\" rel=\"noopener nofollow ugc\">Is there a plan to bridge sDAI to Optimism? - General Discussion - The Maker Forum</a>\n</li>\n</ol>\n</li>\n<li>ETH\n<ol>\n<li>ETH (No yield)</li>\n</ol>\n</li>\n<li>\n<strong>ETH Derivative (Lido / Rocketpool)</strong>\n<ol>\n<li>Advantages\n<ol>\n<li>Performs better than ETH</li>\n<li>Follow the crypto market</li>\n<li>More tributes (arb) if TEC is backed by a volatile token</li>\n<li>Common pool can be in stables</li>\n</ol>\n</li>\n<li>Disadvantages\n<ol>\n<li>Adding friction! Will have to swap stETH to get ETH. In order to unwrap, it takes a week. This is mitigated by LSTs</li>\n<li>ETH is the easiest. LST token is harder to get<br/>\n<strong>1. Roadmap to mitigate that (automation)</strong><br/>\n1. One extra transaction in the swap page<br/>\n2. Mainly it’s a front-end modification<br/>\n3. Lido is just a contract call to be made automatically<br/>\n4. Using stETH as a solution will require ~2 weeks development for front end (possible that this is a fast follow after migration, tbd)</li>\n<li>Is it possible to send ETH to the ABC?<br/>\n<strong>1. You can send ETH to buy TEC</strong><br/>\n<strong>2. When you burn TEC, you receive stETH</strong>\n</li>\n</ol>\n</li>\n<li>\n<strong>Lido vs. RocketPool</strong>\n<ol>\n<li>Are tokenomics of Rocketpool broken? How confident are we in this protocol vs Lido.</li>\n<li>Perception-wise, suggest to avoid Lido. Use RocketPool instead. Contra-centralization of Ethereum. Diva protocol is still on testnet.</li>\n<li>Lido has advantages above Rocketpool. More established.</li>\n<li>If we were to use an LST there’s a chance we can get grants from Lido or RP for the integration, sponsor QF round.</li>\n<li>Lido + Aragon good relationship, Lido is using AragonOS</li>\n<li>Advantage of Lido, contract call to swap stETH to ETH.</li>\n</ol>\n</li>\n</ol>\n</li>\n<li>Portfolio Liquidity Pool Share\n<ol>\n<li>Too Complicated</li>\n</ol>\n</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#temperature-check-based-on-tecan-meeting-5\" name=\"temperature-check-based-on-tecan-meeting-5\"></a>Temperature check based on TECAN meeting</h3>\n<p></p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" data-download-href=\"https://forum.tecommons.org/uploads/default/f5852702c46e9434cd2307c93c8f6d8bbcd2a7b8\" href=\"https://forum.tecommons.org/uploads/default/original/1X/f5852702c46e9434cd2307c93c8f6d8bbcd2a7b8.png\" title=\"image\"><img alt=\"image\" data-base62-sha1=\"z1YfZufki5TsXI1I718b5LiccJ2\" data-dominant-color=\"E9E8E2\" height=\"177\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/f5852702c46e9434cd2307c93c8f6d8bbcd2a7b8_2_690x177.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/f5852702c46e9434cd2307c93c8f6d8bbcd2a7b8_2_690x177.png, https://forum.tecommons.org/uploads/default/optimized/1X/f5852702c46e9434cd2307c93c8f6d8bbcd2a7b8_2_1035x265.png 1.5x, https://forum.tecommons.org/uploads/default/optimized/1X/f5852702c46e9434cd2307c93c8f6d8bbcd2a7b8_2_1380x354.png 2x\" width=\"690\"/><div class=\"meta\">\n<svg aria-hidden=\"true\" class=\"fa d-icon d-icon-far-image svg-icon\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1521×392 39.2 KB</span><svg aria-hidden=\"true\" class=\"fa d-icon d-icon-discourse-expand svg-icon\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div>\n<h3>\n<a class=\"anchor\" href=\"#do-we-need-to-keep-the-reserve-and-commons-pool-token-the-same-6\" name=\"do-we-need-to-keep-the-reserve-and-commons-pool-token-the-same-6\"></a>Do we need to keep the Reserve and Commons Pool token the same?</h3>\n<p>No. We can have stETH as Reserve currency and DAI as Common Pool. The ABC will send stETH to the Common Pool. Or we can develop this to be automatically done.</p>\n<ol>\n<li>Common Pool can be in stables or 50/50 Stables / LST</li>\n<li>Common Pool can accept any tokens and distribute any tokens via TAO voting</li>\n<li>Probably DAI - keep it out of scope for OP migration.</li>\n<li>SDAI on optimism - might exist by the time we migrate <a class=\"inline-onebox\" href=\"https://forum.makerdao.com/t/is-there-a-plan-to-bridge-sdai-to-optimism/22354\" rel=\"noopener nofollow ugc\">Is there a plan to bridge sDAI to Optimism? - General Discussion - The Maker Forum</a>\n</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#what-does-the-community-think-7\" name=\"what-does-the-community-think-7\"></a>What does the community think?</h3>\n<p>Lido? RocketPool? Something else? Let us know what you think.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-10-31T05:27:49Z",
+   "updated_at": "2023-10-31T05:27:49Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for the breakdown <a class=\"mention\" href=\"/u/linuxiscool\">@linuxiscool</a></p>\n<aside class=\"quote no-group\" data-post=\"5\" data-topic=\"1297\" data-username=\"linuxiscool\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/linuxiscool/40/886_2.png\" width=\"20\"/> linuxiscool:</div>\n<blockquote>\n<p><strong>Lido vs. RocketPool</strong></p>\n<ol>\n<li>Are tokenomics of Rocketpool broken? How confident are we in this protocol vs Lido.</li>\n</ol>\n</blockquote>\n</aside>\n<p>There are a couple of things I wanted to add to this conversation.</p>\n<p>Something I think is important to discuss is that a justification behind moving from Gnosis to Optimism was the degree of risk associated with our choice of reserve currency.</p>\n<p>The brief moment when USDC de-pegged from $1 and impacted the price of DAI, it highlighted the nature of this risk as we were forced to consider all possibilities (including the regulatory environment) that could threaten the state our Reserve Currency. The continued evolution of protocols and the uncertain environments for their governance is something we should consider in the evaluation of our choice for a Reserve Currency.</p>\n<p>With that being said, there isn’t a digital asset that is void of these risks.  Therefore, I’m in strong favor of an interest-bearing asset such as LST’s. If we do go this route, we should consider</p>\n<ol>\n<li>The process for governance of the asset.</li>\n<li>The technical risks associated with protocol contracts.</li>\n<li>Any potential regulations that could negatively impact the value of the asset.</li>\n<li>Emergency response plans to execute in case of failure.</li>\n</ol>\n<p>One other topic that I was hoping to get clarification on in regards to our choice of reserve currency is the manner in which the ABC functions when dealing with volatile/interest-bearing assets.  With this category of assets, we are abandoning the guarantees of ensuring the TEC token is fully collateralized.</p>\n<p>While it is more likely that the value of our Reserve will far exceed the  value of the TEC issued, the question remains:  how does the ABC behave as the value backing the TEC token increases/decreases?  Will it be reflected in the token price?  Will the curve assume a constant value being held in the reserve?</p>\n<p>Thanks again for this discussion!!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-10-31T16:01:30Z",
+   "updated_at": "2023-10-31T16:01:30Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Thanks <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> I think these are great points. Especially the four you listed, looking forward to further discussion on those.</p>\n<p>Given a volatile asset reserve, the token price of TEC will remain constant relative to that token (while there are no mints and burns). Thus TEC will become volatile relative to USD. TEC will never become ‘undercollateralized’ as it will always maintain its reserve ratio with the collateralized asset.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-10-31T18:08:13Z",
+   "updated_at": "2023-10-31T18:08:13Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Let’s get a poll going:</p>\n<h1>\n<a class=\"anchor\" href=\"#what-should-our-reserve-currency-be-1\" name=\"what-should-our-reserve-currency-be-1\"></a>What should our reserve currency be?</h1>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"2f2af3bfeceae0cd402e353afca036ff\">stETH</li>\n<li data-poll-option-id=\"9b70080030a7960d33b3be59d835dc85\">rETH</li>\n<li data-poll-option-id=\"6c986ebcde3d5822a6e91a695c388094\">Other</li>\n<li data-poll-option-id=\"6a584dda59226f0a6558aae744df1f62\">Not sure, show results</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "valdorff",
+   "name": null,
+   "created_at": "2023-10-31T21:26:41Z",
+   "updated_at": "2023-10-31T21:26:41Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi all - I’m Val, a way-too-involved community member in Rocket Pool. This thread got pointed out and just wanted to make myself available if there were questions about how RP works.</p>\n<p>For example: <code>Are tokenomics of Rocketpool broken?</code> To me, this reads as FUD (eg, I could say the same sentence for every other token discussed), but I suspect there’s context I’m missing from previous conversations. If there’s a specific concern or explanation that could help, please let me know.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-11-02T12:39:51Z",
+   "updated_at": "2023-11-02T12:39:51Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/valdorff\">@valdorff</a>. Appreciate your taking the time to drop this note and make yourself available.</p>\n<p>Yeah, the phrase comes across more aggressive than the context in which it was discussed. It was a sentiment captured in the notes and transcribed verbatim here. However the context was more like, hey what do we even know about Rocketpool and the advantages and risks of that choice. We do want to know more. Glad you’re here!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "sem",
+   "name": null,
+   "created_at": "2023-11-02T13:13:21Z",
+   "updated_at": "2023-11-02T13:13:21Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/valdorff\">@valdorff</a> it’s great to have you here.</p>\n<p>I’m sorry if I contributed to spread FUD, I was who raised the concern on a call, but I am not informed enough to help in this decision. I’m just worried for this <a href=\"https://www.reddit.com/r/ethstaker/comments/14i0s2y/the_tokenomics_of_rpl_are_fundamentally_flawed/\">reddit post</a> and wanted to make the community aware, but maybe I’m unfairly spreading a lie.</p>\n<p>Please, feel free to share here any information that can help us to understand Rocket Pool and to inform the decision on which reserve currency to pick.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "valdorff",
+   "name": null,
+   "created_at": "2023-11-03T02:17:04Z",
+   "updated_at": "2023-11-03T02:17:04Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Ah - that one’s easy for me to respond to b/c I’ve already responded to it <img alt=\":stuck_out_tongue:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/stuck_out_tongue.png?v=12\" title=\":stuck_out_tongue:\" width=\"20\"/></p>\n<p>My comments are <a href=\"https://reddit.com/r/ethstaker/comments/14i0s2y/the_tokenomics_of_rpl_are_fundamentally_flawed/jpe7hqq/\" rel=\"noopener nofollow ugc\">here in that reddit thread</a> and you’ll note that the original post was updated to call out my comment explicitly as a strong counterargument.</p>\n<p>The other thing I’ll add here is that, even if you assumed that post was right and the tokenomics <em>were</em> broken, that doesn’t mean rETH would be damaged. In the case described, the value of <em>RPL</em> would collapse, but the value of rETH would be just fine - it’s backed by actual ETH in the protocol and its value not subjective in the same way as RPL is (at least long term; sometimes the market can do weird stuff for short periods, like the current near-1% premium that came about indirectly due to Prisma).</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-11-17T20:31:59Z",
+   "updated_at": "2023-11-17T21:02:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"7\" data-topic=\"1297\" data-username=\"linuxiscool\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/linuxiscool/40/886_2.png\" width=\"20\"/> linuxiscool:</div>\n<blockquote>\n<p>Given a volatile asset reserve, the token price of TEC will remain constant relative to that token (while there are no mints and burns). Thus TEC will become volatile relative to USD. TEC will never become ‘undercollateralized’ as it will always maintain its reserve ratio with the collateralized asset.</p>\n</blockquote>\n</aside>\n<p><a class=\"mention\" href=\"/u/linuxiscool\">@linuxiscool</a> I guess my biggest concern with this fundamental mechanic within the proposal is that the price of the TEC token then becomes directly correlated with the value of the underlying asset, and in our proposal $TEC would become an ETH derivative, and therefore TEC price is uncoupled from the forces of supply/demand.</p>\n<p>Considering that ETH moves up in price, my purchase of $TEC from the ABC would have only a temporary price impact as it will then seek price equilibrium with the underlying asset set by our reserve ratio.</p>\n<p>In this type of scenario, wouldn’t it make sense to abandon any type of Tributes on the Bonding Curve, and simply have the interest generated from these assets feeding the Common Pool?  If the value is simply a reflection of ETH’s value, why would I choose to hold $TEC where a % is removed upon entry &amp; exit?</p>\n<p>Just curious about the overall mechanics of an LST within the Reserve Pool and how it would impact token demand, and therefore the secondary markets.</p>\n<p>Addition: If the ABC is open to the public, the secondary market in this scenario <strong>would</strong> be based off supply/demand – where the price of $TEC is unattached to the value of the underlying asset, resulting in agents basically purchasing ETH at a discount and selling into the curve. In a price go up environment, this would have a depleting effect on secondary market $TEC.  Alternatively, If the ABC is closed to the public, there would be no incentive to purchase on the secondary market at all.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2023-11-20T19:33:27Z",
+   "updated_at": "2023-11-20T19:33:27Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"13\" data-topic=\"1297\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/> natesuits:</div>\n<blockquote>\n<p>Alternatively, If the ABC is closed to the public, there would be no incentive to purchase on the secondary market at all.</p>\n</blockquote>\n</aside>\n<p>Hopefully my assumptions in the previous post are logical, otherwise, my apologies.</p>\n<p>But…in exploring the possibility of a limited/closed access ABC using an LST as a Reserve…</p>\n<p>This actually brings up a potential experiment where we could develop two distinct economies for a single token.  A secondary market economy that is based off supply/demand, where demand would come from token utility, and its supply from the Commons itself.  The Commons would have ‘sole’ rights to use the ABC to mint/burn tokens as needed for supplying the secondary markets.</p>\n<p>Access to the ABC would be determined by the Commons, and current token-holders would have the right (conditional access) to sell their $TEC back into the ABC up to the amount of value they hold at migration (since they are the owners of that Reserve).</p>\n<p>The ABC then simply becomes a treasury whose interest feeds the Common Pool and possesses the ability to expand and contract the supply of $TEC tokens to match the needs of demand on secondary markets.</p>\n<p>The value of $TEC held by the Commons would have a distinctly different value than the $TEC within secondary markets.</p>\n<p>Those who wish to “invest” into the TEC economy can petition for ABC access, while those simply using $TEC for utility purposes can purchase from secondary markets.</p>\n<p>…just riffing now.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "linuxiscool",
+   "name": null,
+   "created_at": "2023-11-20T22:50:12Z",
+   "updated_at": "2023-11-20T22:50:12Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>You bring up a lot of interesting points <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a>. I would respond by detangling and simplifying different components that you have described above. I would be interested in decomposing the scenarios into first principles:</p>\n<ul>\n<li>Stakeholders</li>\n<li>Motivations / Incentives</li>\n<li>Mechanisms</li>\n</ul>\n<p>And then diagram a few (2-3) different scenarios or compositions of the above to explore deeper via discussion and modelling.</p>\n<p>I think the key to this broader token construction and narrative is to be able to zoom up and down scales of complexity in clear and coherent ways that can be understood by the community.</p>\n<p>Diagramming Diagramming Diagramming.</p>\n<p>I would love to call <a class=\"mention\" href=\"/u/jeffemmett\">@JeffEmmett</a> and co into this discussion.</p>\n<p>Should rETH be the reserve currency of TEC on Optimism?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2023-12-12T16:02:14Z",
+   "updated_at": "2023-12-12T16:02:14Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Much gratitude to all who participated in the debate and discussion.</p>\n<p>The discussion continued in the last joint Coordination Team + TECAN call and the resulting decision was to use rETH as the ABC reserve asset when TEC moves to OP Mainnet. This will be taken into consideration as part of the <a href=\"https://forum.tecommons.org/t/optimism-tec-dao-specification/1317\">TEC Specification posted by Sem.</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240724164457",
+    "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20231210231838",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20231210231838",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240521193634",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240521193634",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724144746",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724144746",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/3"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240724164457",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240724164457",
+   "url": "https://forum.tecommons.org/t/should-the-tec-change-our-reserve-currency/1297/16"
+  }
+ ]
+}

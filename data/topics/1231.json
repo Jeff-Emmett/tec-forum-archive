@@ -1,0 +1,441 @@
+{
+ "id": 1231,
+ "title": "Joint TEA-TEC Plan for AI-Powered Token Engineering and $TEC Utility",
+ "slug": "joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility",
+ "category_id": 29,
+ "posts_count": 25,
+ "created_at": "2023-03-27T22:36:50.679Z",
+ "last_posted_at": "2025-08-14T00:40:52.611Z",
+ "more_after": 20,
+ "total_known": true,
+ "archived_posts": 24,
+ "archived_numbers": 24,
+ "last_archived_post_at": "2023-04-07T17:02:25Z",
+ "captured_between": [
+  "2023-05-30T07:32:56Z",
+  "2024-08-15T15:11:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-27T22:36:50Z",
+   "updated_at": "2023-03-31T20:40:01Z",
+   "reply_to_post_number": null,
+   "like_count": 14,
+   "cooked": "<p>Note: this proposal was jointly prepared by <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> and <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>, with inspiration from <a class=\"mention\" href=\"/u/paulhaas\">@paulhaas</a>.</p>\n<h2>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR:</h2>\n<p>A 4-month operating budget for both the Token Engineering Commons (TEC) and the Token Engineering Academy (TEA) to launch the first-ever Token Engineering Gitcoin Grants Round and explore AI-power token engineering as a public good.</p>\n<h2>\n<a class=\"anchor\" href=\"#proposal-description-2\" name=\"proposal-description-2\"></a>Proposal description:</h2>\n<h2>\n<a class=\"anchor\" href=\"#the-opportunity-3\" name=\"the-opportunity-3\"></a>The Opportunity:</h2>\n<p>Together, the TEA and TEC have an opportunity to paint an exciting shared vision for the future of token engineering – a vision to realize the potential of the Token Engineering Commons as an engine for solving the great social, economic, and ecological challenges of our times.</p>\n<p>Token engineering expertise is the ultimate common pool resource of the Token Engineering Commons. It’s time to build crypto-economic systems for stewarding that expertise – both in humans as well as machines – on behalf of the public good.</p>\n<p>This proposal presents the initial steps in a joint strategy for moving the TEA and TEC toward this powerful vision. It pays for four months of joint operating costs aligned around two goals:</p>\n<ol>\n<li>AI-powered TE: a token engineering copilot to develop AI-powered token design and optimization with GPT-4</li>\n<li>TE Grants Round: the first-ever Token Engineering Grants Program based on the Gitcoin Allo quadratic funding platform</li>\n</ol>\n<p>This proposal starts the process of integrating TEA’s programs into the commons and paves the way for a merger with TEC. As such, it aligns with the <a href=\"https://forum.tecommons.org/t/tec-strategic-framework/1204/7\">TEC strategic framework</a>, which was approved by token holders with over 98% support and highlights education as the greatest lever for fulfilling our mission. From an economic development lens, the TEA’s community of 2,000 token engineering students and professionals is ideal for accelerating $TEC token adoption. This group of people is the future of token engineering. They also represent a powerful resource for community-driven knowledge curation and model training for future AI-power token engineering systems. With $TEC tokenomic incentives and good token engineering, we can build community engagement processes that fuel development of these powerful AI systems while simultaneously ensuring that they are owned and governed by the community.</p>\n<h3>\n<a class=\"anchor\" href=\"#ai-powered-token-engineering-4\" name=\"ai-powered-token-engineering-4\"></a>AI-Powered Token Engineering:</h3>\n<p>The launch of ChatGPT marked a new era in the field of natural language processing and AI. We expect AI in practical token engineering applications very soon. Typically, these applications are developed as proprietary services and tools. In electrical engineering and circuit design, AI-powered CAD is a multi-billion dollar industry.</p>\n<p>Large Language Models (LLMs) like GPT-4 will enable human language interfaces and automation for sophisticated token engineering software applications like <a href=\"https://medium.com/tokenspice/introducing-tokenspice-fb4dac98bcf9\">TokenSpice</a> and <a href=\"https://cadcad.org/\">cadCAD</a>. Think of it as a copilot for AI-powered token engineering. If we move quickly, the TEA and TEC have a window of opportunity to catalyze this revolutionary technology and ensure it is owned and governed by the commons on behalf of the public good. Technology like this would also become an extremely valuable asset for growing income and token utility for the commons.</p>\n<p>Over the course of this proposal, the TEA and the TEC will cooperate to:</p>\n<ol>\n<li>In April, convene a workshop with experts in the fields of token engineering and AI to provide insight into potential LLM applications for token engineering and the copilot idea in particular.</li>\n<li>In May and June, develop a plan and design a simple proof of concept (PoC) for a TE copilot, based on findings from the workshop.</li>\n<li>In May and June, work with TEA students/graduates and TE practitioners on the development of the PoC, identify and onboarding funding partners.</li>\n<li>By the end of July, have a PoC up and running and work with practitioner partners to begin testing the system in real-world scenarios.</li>\n</ol>\n<p>This proposal covers the operational costs by both the TEC and the TEA for organizing this pilot. After the workshop we will come back with a proposal outlining the PoC, its costs, and a fundraising target.</p>\n<h3>\n<a class=\"anchor\" href=\"#the-gitcoin-token-engineering-grants-round-5\" name=\"the-gitcoin-token-engineering-grants-round-5\"></a>The Gitcoin Token Engineering Grants Round</h3>\n<p>On April 25th, the TEC will launch the first-ever <a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217\">Token Engineering Grants Round</a> on Gitcoin’s new Allo Protocol. This proposal covers the operational costs by both the TEC and the TEA for running this round.</p>\n<p>In addition to our goals of expanding public goods funding and increasing awareness for token engineering, we plan to use the round to build utility for $TEC and TEA’s NFT proofs. We also intend to leverage the funding round to strengthen ties between the commons and the TEA’s community of 2,000 token engineering students and professionals. It is our intention to bring a token engineering mindset to building feedback loops and capturing value flows for the commons.</p>\n<p><img alt=\"\" height=\"381\" role=\"presentation\" src=\"https://lh6.googleusercontent.com/EYlnsQRACjYTFpX1KNXobacdw6HPlnlmSULw0c8pCsZMQDuk0DV0j_OpcUeeXey_Lu1NbeeNu1omHpfYuMV8jdrIdUsMEsXIcwXJy_PXeyUM4r9zqWDDpbiyti9WCVFMDnJ6U67QRam43kQnQCGLY4Y\" width=\"624\"/></p>\n<p>Above is a high-level look at how we plan to use token utility to create a feedback loop for continuously improving TEC’s grant making capacity. TEA NFT proofs (and $TEC) provide a quadratic funding boost to donors who hold them, which increases the token engineering expertise in our grant funding, which leads to more interest from matching fund partners (like ENS), which leads to more money attracting higher quality projects and more scholarships, which then closes the loop by creating more demand for NFTs and $TEC.</p>\n<p>By integrating $TEC to as many of these steps as possible, we capture the value in the $TEC economy and grow the Common Pool:</p>\n<ul>\n<li>NFT Proofs purchasable in $TEC (later this year)</li>\n<li>Voting Boosts from $TEC held in a voting wallet (in addition to NFT boost)</li>\n<li>High-Quality Grant Curation students donate with $TEC (later this year)</li>\n<li>Matching Funds converted to $TEC</li>\n<li>High-Quality Grant Projects recipients receive funding in $TEC</li>\n<li>Scholarship Funding paid in $TEC to students</li>\n</ul>\n<p>We kick off the cycle in April with a $TEC airdrop to activate TEA student and graduate giving in the funding round. (Note: this could take the form of Praise in future rounds). $TEC purchases of TEA NFTs requires software development for a TBD generic $TEC payments solution. Enabling donors to contribute to projects in $TEC happens once the Allo Protocol is ported to Gnosis Chain and implemented in our fall round.</p>\n<p>With this Grants Round, the TEC begins putting token engineering to work for itself. Strengthening our capacity here is essential for ensuring the AI-powered token engineering services outlined above build positive feedback loops that capture token utility for the commons. This is the path to significant $TEC utility.</p>\n<h3>\n<a class=\"anchor\" href=\"#fundraising-6\" name=\"fundraising-6\"></a>Fundraising</h3>\n<p>Our top income-generating priority in 2023 is fundraising. We aim to increase our effectiveness and efficiency by combining the efforts and reputation of TEA and TEC and possibly work with Giveth to strengthen our grant-writing capacity. Our near-term priorities are:</p>\n<ol>\n<li>Matching Funds: Large funders like ENS and Ethereum Foundation are interested in working with the TEC to more efficiently/effectively regrant their funds with a focus on token engineering. Matching fund partnerships will significantly reduce (and possibly eliminate) the drawdown on the TEC Common Pool, without sacrificing our commitment to token engineering public goods funding. Our grants program will become even more attractive to regranting partners as we integrate TEA’s NFT proofs and other signals of expertise and reputation in our voting signals. Our near-term priority is building credibility with these funders with an initial set of smaller-scale matching grants, in the $10-20K range.</li>\n<li>AI Proof of Concept: The goal is to secure outside funding for the AI-Powered Token Engineering proof of concept, rather than using TEC Common Pool funding. Exact funding requirements will be determined through scoping the project.</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#additional-information-to-add-7\" name=\"additional-information-to-add-7\"></a>Additional information to add</h2>\n<p>NA</p>\n<h2>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-8\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-8\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h2>\n<ol>\n<li>Integrating the TEA into the TEC economy builds a sustainable foundation for token engineering education, which fulfills our mission and accelerates $TEC adoption with future token engineering practitioners.</li>\n<li>Gitcoin’s Allo Protocol turns our funding into matching grants that will catalyze much wider spread support for token engineering. Working with matching fund partners like ENS and Ethereum Foundation will reduce, and possibly eliminate, the drain of this funding on the Common Pool. As outlined above, the program will also build $TEC token utility and provide us with valuable experience for shaping the value flows in AI-powered TE.</li>\n<li>The AI-powered token engineering copilot PoC will test the viability of LLM technology in token engineering and possibly set the TEC up to own and govern a revolutionary new platform for serving the public good.</li>\n<li>By joining forces, the TEC and TEA will greatly improve our collective fundraising capacity.</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-9\" name=\"amount-requested-9\"></a>Amount requested</h3>\n<p>Total request of 107,000 xDAI</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-10\" name=\"how-will-these-funds-be-used-10\"></a>How will these funds be used?</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th></th>\n<th>April</th>\n<th>May</th>\n<th>June</th>\n<th>July</th>\n<th>Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>TEC Expenses:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Operational Roles:</td>\n<td>$6,800</td>\n<td>$6,800</td>\n<td>$6,800</td>\n<td>$6,800</td>\n<td>$27,200</td>\n</tr>\n<tr>\n<td>Project Support:</td>\n<td>$4,200</td>\n<td>$4,200</td>\n<td>$4,200</td>\n<td>$4,200</td>\n<td>$16,800</td>\n</tr>\n<tr>\n<td>Misc:</td>\n<td>$3,000</td>\n<td>$0</td>\n<td>$0</td>\n<td>$0</td>\n<td>$3,000</td>\n</tr>\n<tr>\n<td>\n<strong>Total TEC</strong>:</td>\n<td>$14,000</td>\n<td>$11,000</td>\n<td>$11,000</td>\n<td>$11,000</td>\n<td>$47,000</td>\n</tr>\n<tr>\n<td>TEA Expenses:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Staffing:</td>\n<td>$12,750</td>\n<td>$12,750</td>\n<td>$12,750</td>\n<td>$12,750</td>\n<td>$51,000</td>\n</tr>\n<tr>\n<td>Infrastructure</td>\n<td>$2,250</td>\n<td>$2,250</td>\n<td>$2,250</td>\n<td>$2,250</td>\n<td>$9,000</td>\n</tr>\n<tr>\n<td>\n<strong>Total TEA</strong>:</td>\n<td>$15,000</td>\n<td>$15,000</td>\n<td>$15,000</td>\n<td>$15,000</td>\n<td>$60,000</td>\n</tr>\n<tr>\n<td>TOTAL:</td>\n<td>$29,000</td>\n<td>$26,000</td>\n<td>$26,000</td>\n<td>$26,000</td>\n<td>$107,000</td>\n</tr>\n</tbody>\n</table>\n</div><p>TEC staffing costs break into operational roles (60%) and project support (40%). Operational roles include: communications and community organizing, partnerships, strategy, organizational coordination and development, technology support, transparency, accountability and accounting. Project funding ebbs and flows as priorities change over time and is allocated at month-end by project managers on the TEC Coordination Team. For the sake of DAO transparency, total full-time equivalent (FTE) staffing is just 3 people, paid at an hourly rate of $21 DAI. “Misc” includes the $TEC airdrop mentioned above.</p>\n<p>TEA operating costs split 85% for staffing (program, study groups, ecosystem, marketing/comms, strategy, fundraising, technology, and legal) and 15% for infrastructure (software licenses, servers, minting fees, etc.)</p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-11\" name=\"what-does-success-look-like-11\"></a>What does success look like?</h3>\n<p>By the end of July, we will have:</p>\n<ul>\n<li>Run the first Gitcoin quadratic funding round targeted exclusively at token engineering.</li>\n<li>Run a workshop with AI and token engineering experts to explore possibilities for the AI-Powered Token Engineering proof of concept (CoP), completing it by the end of July.</li>\n<li>Submitted at least two grant pitches to large matching fund partners for the grants program, like ENS and Ethereum Foundation.</li>\n<li>Integrated TEA’s NFT proofs into the new grant program and activated students in funding grant projects with quadratic funding.</li>\n<li>Developed a new set of processes for scalable, accountable community organizing and engagement, including the launch of a TEC advisory network.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-12\" name=\"how-will-you-share-progress-12\"></a>How will you share progress?</h3>\n<p>Joint TEC x TEA progress will be shared through the Coordination Team Roadmap, which is updated every month.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-13\" name=\"team-information-13\"></a>Team Information:</h3>\n<p><em>Update (March 31)</em></p>\n<p>TEA:</p>\n<ul>\n<li>Program, Study Groups, Ecosystem, Marketing/Comms – <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>, <a class=\"mention\" href=\"/u/pat.zip\">@pat.zip</a>, +1 TBD</li>\n<li>Strategy, PoC scope, fundraising – <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>, <a class=\"mention\" href=\"/u/roro\">@roro</a>\n</li>\n<li>TEA Tech – General Magic</li>\n<li>Legal – Ana</li>\n</ul>\n<p>TEC:</p>\n<ul>\n<li><a class=\"mention\" href=\"/u/acidlazzer\">@acidlazzer</a></li>\n<li><a class=\"mention\" href=\"/u/bear100\">@bear100</a></li>\n<li><a class=\"mention\" href=\"/u/gideonro\">@gideonro</a></li>\n<li><a class=\"mention\" href=\"/u/enti\">@enti</a></li>\n<li>JHenny</li>\n<li><a class=\"mention\" href=\"/u/marathonmind\">@MarathonMind</a></li>\n<li><a class=\"mention\" href=\"/u/natesuits\">@natesuits</a></li>\n</ul>\n<p>Advisors:</p>\n<ul>\n<li><a class=\"mention\" href=\"/u/griff\">@Griff</a></li>\n<li><a class=\"mention\" href=\"/u/liviade\">@liviade</a></li>\n<li><a class=\"mention\" href=\"/u/tamara\">@Tamara</a></li>\n<li><a class=\"mention\" href=\"/u/paulhaas\">@paulhaas</a></li>\n</ul>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240403103814",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-03-27T23:06:29Z",
+   "updated_at": "2023-03-27T23:06:29Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Love this direction! Excited to see every corner of the “Giveth Galaxy” embracing AI right now.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240403103814",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "paulhaas",
+   "name": null,
+   "created_at": "2023-03-28T01:12:17Z",
+   "updated_at": "2023-03-28T01:12:17Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Well done Gideon, Angela and all on bringing this proposal to life. You know how much late feedback I gave you, and I’m excited for this to take the next step.</p>\n<p>I still think a lot is missing to actually implement a strategy focused on developing TokenGPT, but its better to split this into several proposals and take it from there.</p>\n<p>Lastly, I still think you should consider a re-brand to teaic - just seems like a catchy acronym and merge</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240403103814",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "paulhaas",
+   "name": null,
+   "created_at": "2023-03-28T01:24:16Z",
+   "updated_at": "2023-03-28T01:24:16Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Just for reference, here is the original proposal I shared with Gideon and Angela to inspire some of the direction: <a class=\"inline-onebox\" href=\"https://docs.google.com/document/d/1u6UowSBpwKSltcGWiF5K_Z_rWsbtAdHlE8yBJB6RC98/edit?usp=sharing\" rel=\"noopener nofollow ugc\">Token Singularity: Uniting TEC and TEA to Create TokenGaia GPT - Google Docs</a></p>\n<p>The goal would be to create a TokenGPT, or TokenGaia. A real tool built by the Commons. Something that I hope this proposal explores and can be implemented in the future, perhaps as soon as next year.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20240403103814",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2023-03-28T09:46:34Z",
+   "updated_at": "2023-03-28T09:46:34Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Agree - a real tool, built, governed and owned by the Commons! <img alt=\":rocket:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/rocket.png?v=12\" title=\":rocket:\" width=\"20\"/><br/>\nThat’s the goal.</p>\n<p><a class=\"mention-group\" href=\"/groups/everyone\">@everyone</a> : please share comments, I’m open to discuss any questions you might have.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "lee0007",
+   "name": null,
+   "created_at": "2023-03-29T01:55:06Z",
+   "updated_at": "2023-03-29T04:41:05Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I love the vision here! AI + Allo + TEC + TEA<br/>\nI found TEA via TEC, so it took me a while to realise they were not officially one and the same commons. It’s great to see the merger as I value education, collaboration and open knowledge sharing as a strength for any commons. Few questions, though…</p>\n<p>On the feedback loop, I can follow the reinforcing flow from NFT Proof through to attracting higher quality projects… but I am a bit confused as to what leads to more scholarships,</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1231\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>which leads to more money attracting higher quality projects and more scholarships, which then closes the loop by creating more demand for NFTs and $TEC.</p>\n</blockquote>\n</aside>\n<ol>\n<li>The feedback loop appears to depict that ‘Higher Quality projects’ convert to more ‘Scholarships’ Is that correct?</li>\n<li>Or does attracting interest from funding partners and more money reinforce scholarships?</li>\n<li>And in what way are more scholarships limited based on either grants or funding?</li>\n<li>Based on Q2 have we closed all the loops? and objectively considered where/if negative feedback is present. Where/how does removing funds from the common pool play in here?</li>\n</ol>\n<p>I’m stoked &amp; surprised to see my name here. And because my name is linked to strategy and fundraising, I am going to raise the concern that the proposal lacks the information I would need to make an informed funding decision for a budget of this size.</p>\n<p>There are multiple proposals here linked together by a shared vision. It appears to be a proposal to fund several interdependent but quite different streams of work, and although there’s plenty of information, there’s very little transparency on how funding will be distributed across/within</p>\n<ul>\n<li>TEAIC</li>\n<li>Gitcoin Allo</li>\n<li>TEC Operation</li>\n<li>TEA Operations</li>\n</ul>\n<p>I would recommend 1) a shared vision statement and then four (4) separate proposals to simplify, clarify and provide funding and operational transparency with precise information on what work is being funded and who is accountable for the delivery of milestones &amp;/or OKR. Happy to help, if needed &amp;/or if this is part of the fundraising I’m tagged on?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "roro",
+   "name": null,
+   "created_at": "2023-03-29T14:10:47Z",
+   "updated_at": "2023-03-29T14:10:47Z",
+   "reply_to_post_number": null,
+   "like_count": 8,
+   "cooked": "<p>I am really excited about this idea! Super pumped to see this come through. In my recent discussion with <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> we ideated through some of the potential use cases of GPT4 in the Token design process and I want to share them here to bounce ideas with the community.</p>\n<ol>\n<li>\n<p>The image to text module of GPT4 could be used to convert visual maps or stock and flow diagrams into CadCAD code, We could think of giving context to GPT 4 on how to solve simple examples and show it the expected code as output. Then expose that trained API to the end users where they would just have to send in their visual map in a defined format and GPT4 returns structured code with context and comments. Something like this was done in this customer study: <a href=\"https://openai.com/customer-stories/be-my-eyes\" rel=\"noopener nofollow ugc\">https://openai.com/customer-stories/be-my-eyes</a>. I’m confident we can already do this for simple models.</p>\n</li>\n<li>\n<p>Use GPT4 for analyzing the models once they are built. I’ve personally used ChatGPT the last few months to guide me through the analysis cadCAD models and it helped me run Monte Carlo and parameter sweeps too! I could chat with it and ask it what kind of analysis is possible and it would help me ideate through the steps!! Most of my code in the CadCAD and Machinations article was done using chatGPT as well including the API calls, Clustering of trading data and data visualizations: <a href=\"https://medium.com/@e4rohan/a-conversion-guide-for-machinations-and-cadcad-a-translation-layer-bf562f67ff73\" rel=\"noopener nofollow ugc\">https://medium.com/@e4rohan/a-conversion-guide-for-machinations-and-cadcad-a-translation-layer-bf562f67ff73</a>. I would only imagine GPT4 with higher context window could aid us way better and guide others with their data analysis.</p>\n</li>\n<li>\n<p>We could even use GPT4 like Khan academy does in this example: <a href=\"https://openai.com/customer-stories/khan-academy\" rel=\"noopener nofollow ugc\">https://openai.com/customer-stories/khan-academy</a> to guide the teams through the process of thinking through stakeholder mapping, incentives and disincentives etc. In the khan academy user story, they were able to restrict certain outputs like giving direct answers to students and instead guiding them through the process of thinking about the problem. I was amazed at how well GPT4 is able to play a role of a tutor understand instructions and this could be super useful in our use cases too.</p>\n</li>\n</ol>\n<p>These are just some of the ideas I have and I would love to hear how others are imagining the use cases of GPT4 for Token Engineering.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2023-03-29T15:27:40Z",
+   "updated_at": "2023-03-29T16:47:02Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Thanks for sharing <a class=\"mention\" href=\"/u/roro\">@roro</a> , I hope this makes the idea of AI-powered TE more tangible for <a class=\"mention-group\" href=\"/groups/everyone\">@everyone</a>.<br/>\nLet me add that these are first ideas - I’m sure <a class=\"mention\" href=\"/u/roro\">@roro</a> and others will find more.<br/>\nFor the PoC we should select one/several use cases that:</p>\n<ul>\n<li>solve a problem for TEs (like visual maps &gt; coding)</li>\n<li>solve a problem for projects (like actionable simulation results)</li>\n<li>solve a problem for our community (like showcase how important &amp; relevant token engineering is for any project)</li>\n</ul>\n<p>This is part of the strategy work needed for “AI-Powered Token Engineering”, part II of the proposal.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2023-03-29T15:53:06Z",
+   "updated_at": "2023-03-29T15:59:20Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Thanks for your questions <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a>, valid questions. <img alt=\":slight_smile:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=12\" title=\":slight_smile:\" width=\"20\"/></p>\n<p>On feedback loops:</p>\n<blockquote>\n<ul>\n<li>The feedback loop appears to depict that ‘Higher Quality projects’ convert to more ‘Scholarships’ Is that correct?</li>\n<li>Or does attracting interest from funding partners and more money reinforce scholarships?</li>\n<li>And in what way are more scholarships limited based on either grants or funding?</li>\n</ul>\n</blockquote>\n<p>First, let’s see who’s receiving TE Academy NFTs at the moment:<br/>\na) students for completing the TE Fundamentals course<br/>\nb) course authors at TE Academy<br/>\nc) study group hosts at TE Academy<br/>\nMinting a) student NFTs is charged with a fee aka a <em>funds</em> community contribution, while minting b) and c) is free, as the community contribution is <em>work</em>, such as creating the educational material or running study groups in work.<br/>\nGoal is to make all parties contributing to the value of our community, and to enable future activities.<br/>\nWe acknowledge that not all students can afford paying fees, that’s why we’re raising funds for scholarships via 3rd parties. Think of the partners we had on board for building TE Fundamentals, Web3 protocols, accelerators, and our own community, the professional token engineers who can afford supporting others with a donation and want to give back.<br/>\nNow how will great projects support fundraising for scholarships?  With great projects at TE Grants Rounds with Gitcoin Allo we increase the likelyhood of scholarship funding. The projects are proofs of the value token engineers can provide to the Web3 sector. And - since experts are scarce - proofs that token engineering education matters, and that training token engineers will pay off for the whole Web3 ecosystem. That’s how great projects at Token Engineering Grants  on Gitcoin’s new Allo Protocol will be drivers for scholarships fundraising.</p>\n<blockquote>\n<p>Based on Q2 have we closed all the loops? and objectively considered where/if negative feedback is present. Where/how does removing funds from the common pool play in here?</p>\n</blockquote>\n<p>I would not claim to have closed <em>all</em> possible the loops by Q2. We’ll find more! In fact, building the $TEC economy needs ongoing token engineering iterations, including analyzing the results, growing token utility etc.<br/>\nI hope to see more token engineering at TE Commons! With the proposal we aim to start building this loop - for the first time. And we’ll start collecting data to draw conclusions and further iterate.<br/>\nOn removing funds from the Common Pool: technically, it’s a negative/balancing feedback loop - yes, any successful grant proposal decreases the amount of funds available on the Common Pool. However, it’s not “negative” at the core, isn’t it?<br/>\nSpending funds is an investment in growing our economy. Ideally, any grants proposal at TEC adds value to the commons, and we – this is the new thing we’re starting here! – we can <em>capture</em> the value created and fuel the Common Pool.</p>\n<blockquote>\n<p>There are multiple proposals here linked together by a shared vision. It appears to be a proposal to fund several interdependent but quite different streams of work, and although there’s plenty of information, there’s very little transparency on how funding will be distributed across/within</p>\n<ul>\n<li>TEAIC</li>\n<li>Gitcoin Allo</li>\n<li>TEC Operation</li>\n<li>TEA Operations<br/>\nI would recommend 1) a shared vision statement and then four (4) separate proposals to simplify, clarify and provide funding and operational transparency with precise information on what work is being funded and who is accountable for the delivery of milestones &amp;/or OKR. Happy to help, if needed &amp;/or if this is part of the fundraising I’m tagged on?</li>\n</ul>\n</blockquote>\n<p>Yes, it is!<br/>\nNote there’s a separate <a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217\">Allo/Token Engineering Grants Round</a> proposal.<br/>\nFor the operational part of it, we decided to not put up separate proposals,<br/>\nbecause if only some these proposals would pass, and others not, the passed proposal(s) would be pointless, because joint activities are interconnected.<br/>\nWe need both, TEC and TEA to close the loop at TE Grants Round, and to make the AI-powered TE PoC happen.<br/>\nIn <em>both</em> workstreams, we (TEC x TEA) will have to collaborate to get results, and in both cases we can make the most of it if we collaborate - that’s why we’re proposing a joint effort.</p>\n<p>That said we’d like to invite <a class=\"mention-group\" href=\"/groups/everyone\">@everyone</a> to the AMA session tomorrow - come with your questions! <img alt=\":point_down:t6:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/point_down/6.png?v=12\" title=\":point_down:t6:\" width=\"20\"/></p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://discord.com/events/810180621930070088/1090659551541465148\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"256\" src=\"https://discord.com/assets/ec2c34cadd4b5f4594415127380a85e6.ico\" width=\"256\"/>\n<a href=\"https://discord.com/events/810180621930070088/1090659551541465148\" rel=\"noopener nofollow ugc\" target=\"_blank\">Discord</a>\n</header>\n<article class=\"onebox-body\">\n<h3><a href=\"https://discord.com/events/810180621930070088/1090659551541465148\" rel=\"noopener nofollow ugc\" target=\"_blank\">Discord - A New Way to Chat with Friends &amp; Communities</a></h3>\n<p>Discord is the easiest way to communicate over voice, video, and text.  Chat, hang out, and stay close with your friends and communities.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-29T16:07:10Z",
+   "updated_at": "2023-03-29T16:07:10Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><a href=\"https://discord.com/events/810180621930070088/1090659551541465148\"><img alt=\"image\" data-base62-sha1=\"84YVazOEpPo8yk6z1NT87QTfLKd\" height=\"402\" src=\"https://forum.tecommons.org/uploads/default/original/1X/38a194813e2df5917587da71be3e4b6b2d0fbd25.jpeg\" width=\"450\"/></a></p>\n<p>Reposting that link to tomorrow’s Discord AMA about this proposal, just to make sure everyone sees it:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://discord.com/events/810180621930070088/1090659551541465148\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"256\" src=\"https://discord.com/assets/ec2c34cadd4b5f4594415127380a85e6.ico\" width=\"256\"/>\n<a href=\"https://discord.com/events/810180621930070088/1090659551541465148\" rel=\"noopener\" target=\"_blank\">Discord</a>\n</header>\n<article class=\"onebox-body\">\n<h3><a href=\"https://discord.com/events/810180621930070088/1090659551541465148\" rel=\"noopener\" target=\"_blank\">Discord - A New Way to Chat with Friends &amp; Communities</a></h3>\n<p>Discord is the easiest way to communicate over voice, video, and text.  Chat, hang out, and stay close with your friends and communities.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 11,
+   "username": "stratatrader",
+   "name": null,
+   "created_at": "2023-03-29T18:57:41Z",
+   "updated_at": "2023-03-29T18:57:41Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>This is fantastic news, and congratulations the core team putting this together! I’m happy to see such an important and ambitious plan. I see this as a transformation between two digital entities. As a technology enthusiast and systems thinker, we should consider the importance of taking a holistic and systems thinking approach to this transformation. With the proposed 4-month operating budget for TEC and TEA, I would like to share some thoughts around certain areas that were not explicitly addressed. I understand that the work might be underway (in progress), but in the case that it isn’t, I’d like to offer a few tidbits to consider. My only goal is to offer some thoughts to elevate the proposal and ensure a successful transformation.</p>\n<p><strong>Embracing Change</strong> - Successful digital transformation goes beyond technology and involves understanding the human aspect of change. Let’s consider the impact of change on stakeholders and their expectations during the integration of TEC and TEA, possibly a change management plan to address this.</p>\n<p><strong>Safeguarding Data</strong> - In the age of AI and GPT-4, security and privacy are crucial. For AI-powered TE, we should reflect on the measures needed to protect sensitive information and comply with relevant regs &amp; principles in the token design process. This might be a sticky issue.</p>\n<p><strong>Future-Proofing</strong> - While focusing on a 4-month operating budget, possibly consider long-term scalability and extensibility. A vision for growth and increasing demand is essential for sustainable success. Post merger what is the plan to develop a continuous pipeline of use-case opportunities, new students, partnerships?</p>\n<p><strong>Resource Orchestration</strong> - Efficient resource allocation and management are key to a successful transformation, which I think was mentioned in another comment. Thinking about using human and financial resources across workstreams effectively. Possibly establish a tiger team to facilitate rapid problem-solving sessions in multiple workstreams.</p>\n<p><strong>Encouraging adaptability</strong> - Continuous improvement and feedback are essential for success. Which I think was identified in comments by Angela. Happy that she addressed this point, to establish mechanisms for ongoing learning and adaptation based on feedback and monitoring results (monitoring is a difficult challenge).</p>\n<p><strong>Preparedness for uncertainty</strong> – Assessing risks and contingency planning are needed for navigating unexpected challenges. Has the broader team considered an assessment of potential risks and the plans to address them.</p>\n<p>Thank you for sharing this plan with the community so that we may collectively offer our thoughts and ideas. When I think about the plan, it reminds me that building a strong community is what will make this shift successful. The proverb “It takes a village to raise a child” comes to mind. In this case, it takes the combined work, intelligence, and support of the entire community to foster the growth and development of the TEC and TEA ecosystem.</p>\n<p>Excited to see how we can secure success and foster a healthy atmosphere for creativity and collaboration in token engineering by cooperating, sharing information, and welcoming change.</p>\n<p>Thanks Angela and Gideon for prompting me to offer my two cents (apologies for any typos or grammar mistakes).</p>\n<p>Adam.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 12,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-29T22:12:37Z",
+   "updated_at": "2023-03-29T22:12:37Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Really great points, <a class=\"mention\" href=\"/u/stratatrader\">@stratatrader</a>. Thanks for sharing your thoughts.</p>\n<aside class=\"quote no-group\" data-post=\"11\" data-topic=\"1231\" data-username=\"stratatrader\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/stratatrader/40/891_2.png\" width=\"20\"/> stratatrader:</div>\n<blockquote>\n<p>The proverb “It takes a village to raise a child” comes to mind.</p>\n</blockquote>\n</aside>\n<p>In this case, it may actually be more than just a proverb. If this works, we will be raising an intelligent TE agent – as a community. This is one of the great advantages that an economic commons might just have in this newly emerging space.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 13,
+   "username": "lee0007",
+   "name": null,
+   "created_at": "2023-03-29T22:25:28Z",
+   "updated_at": "2023-03-30T01:37:28Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>I recognise I’ve been quiet here since joining Dec 21. but I have been following the TEC progress and contributing when needed as a quantifier. Until only recently, I have seen no reason to raise concerns or share my limited perspective. To be clear, my recommendation for presenting separate proposals is based on concerns around</p>\n<ol>\n<li>Financial Transparency</li>\n<li>Operational Accountability</li>\n<li>Governance Legitimacy</li>\n</ol>\n<h3>\n<a class=\"anchor\" href=\"#financial-transparency-operational-accountability-1\" name=\"financial-transparency-operational-accountability-1\"></a>Financial Transparency &amp; Operational Accountability</h3>\n<aside class=\"quote no-group quote-modified\" data-post=\"9\" data-topic=\"1231\" data-username=\"akrtws\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/a/47e85d/40.png\" width=\"20\"/> akrtws:</div>\n<blockquote>\n<p>if only some of these proposals would pass and others not, the passed proposal(s) would be pointless because joint activities are interconnected.</p>\n</blockquote>\n</aside>\n<p>While I respect the need for speed here and the potential risk of not passing all three proposals, even as a possible recipient of funds, I have concerns about this omnibus proposal’s lack of financial transparency and operational accountability. I value transparency, especially in governance.</p>\n<p>See Values expressed in the <a href=\"https://forum.tecommons.org/t/tec-community-covenant/572/14\">TEC Community Covenant</a></p>\n<p><em>Q: Based on this proposal, are stakeholders fairly informed on the value creation I <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a> am accountable for and the cost exchange?</em></p>\n<h3>\n<a class=\"anchor\" href=\"#governance-legitimacy-due-process-2\" name=\"governance-legitimacy-due-process-2\"></a>Governance Legitimacy &amp; Due Process</h3>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"717\" data-username=\"liviade\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/><a href=\"https://forum.tecommons.org/t/tec-polycentric-governance-framework/717/1\">TEC Polycentric Governance Framework</a>\n</div>\n<blockquote>\n<h3>Current Conviction Voting Parameters</h3>\n<div class=\"md-table\">\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Conviction Growth</td>\n<td>7 day(s)</td>\n</tr>\n<tr>\n<td>Minimum Conviction</td>\n<td>4.0%</td>\n</tr>\n<tr>\n<td>Spending Limit</td>\n<td>11.0%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</blockquote>\n</aside>\n<p>I recognise we have a <a href=\"https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221\">proposal to sideline conviction voting</a> which is yet to be voted on? And a <a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">Proposals Road Map</a>, that indicates that three proposals were to move via the TAO Voting to ‘test’ the process.</p>\n<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1221\" data-username=\"natesuits\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/n/4da419/40.png\" width=\"20\"/><a href=\"https://forum.tecommons.org/t/proposal-to-sideline-conviction-voting/1221/1\">Proposal to Sideline Conviction Voting</a>\n</div>\n<blockquote>\n<p>The next step will be to run three more Tao Voting tests, using the other proposals outlined in the “<a href=\"https://forum.tecommons.org/t/a-proposals-roadmap-for-tec-tea-sustainability/1216\">Proposals Roadmap </a></p>\n</blockquote>\n</aside>\n<p>This proposal changes that to one</p>\n<p><em>Q: Is further testing justifiable?</em></p>\n<p>Because unlike the <a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/13\">25K small grants proposal</a> this proposal is well outside of the 11% spending limit that would apply to conviction voting. Hence the recommendation is to create three or more proposals that could adhere to the spending limitation and provide transparency.</p>\n<aside class=\"quote\" data-post=\"14\" data-topic=\"1217\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/letter_avatar_proxy/v4/letter/l/e480ec/40.png\" width=\"20\"/>\n<a href=\"https://forum.tecommons.org/t/token-engineering-grants-program-v1-first-round-funding-proposal/1217/14\">Token Engineering Grants Program v1 First Round Funding Proposal</a> <a class=\"badge-wrapper bullet\" href=\"/c/tao-voting/29\"><span class=\"badge-category-bg\" style=\"background-color: #ED207B;\"></span><span class=\"badge-category clear-badge\" data-drop-close=\"true\" style=\"\" title=\"Tao Voting is the voting process by which the Commons can modify its economic and governance settings. It is a very powerful voting application that is capable of performing many high-impact functions like mint and burn TEC tokens, install and remove applications (Modules) in the Commons, modify the parameters of all existing applications (Modules).\">🔐 Tao Voting</span></a>\n</div>\n<blockquote>\n    this is very much out of our governance process and it’s unfair with the bonding curve proposal too. I see there was a test proposal there for 1DAI to <a class=\"mention\" href=\"/u/enti\">@enti</a> which would be enough for a test. I hate to bring a blocker and this proposal is SO important, but I think if we open a hole like this in our process we lose legitimacy. Sorry but I’ll vote no for it and I think it should be removed.\n  </blockquote>\n</aside>\n<p>I’m going to surface <a class=\"mention\" href=\"/u/liviade\">@liviade</a> concerns because I agree we are undermining the foundations of TEC governance legitimacy as established Dec 2021 with <a href=\"https://forum.tecommons.org/t/tec-polycentric-governance-framework/7\">Polycentric Governance Framework</a></p>\n<p>I recognise this is a time of positive and significant change - and I STRONGLY SUPPORT the vision direction and opportunities presented here -  but I do not see any reason that justifies abandoning long-established governance processes that everyone else to date has had to adhere to - until such time as a vote is passed.</p>\n<p>I’d love to hear from <a class=\"mention\" href=\"/u/liviade\">@liviade</a> <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a> <a class=\"mention\" href=\"/u/jeremygospelofchange\">@Jeremygospelofchange</a> <a class=\"mention\" href=\"/u/zeptimusq\">@ZeptimusQ</a> <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> for additional community and governance perspective.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 14,
+   "username": "stratatrader",
+   "name": null,
+   "created_at": "2023-03-29T22:43:57Z",
+   "updated_at": "2023-03-29T22:43:57Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I love the vision; I’ll definitely get the tattoo <img alt=\":heart_on_fire:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/heart_on_fire.png?v=12\" title=\":heart_on_fire:\" width=\"20\"/>!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 15,
+   "username": "ZeptimusQ",
+   "name": null,
+   "created_at": "2023-03-30T13:40:23Z",
+   "updated_at": "2023-03-30T13:40:23Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>So, about those previous agreements – they’re definitely important, but I think it’s okay to adapt them as long as we respect them to do those changes.</p>\n<p>Here’s what I’m thinking if we want them to change: let’s run a vote on TAO Voting to tweak any previous agreements, but we’ll stick to the TAO Voting parameters we set up before. That way, we’re still respecting the whole “god mode” thing, and our governance stays legit.</p>\n<p>I was kinda disconnected from the TEC for a bit. By using TAO Voting for any changes, we’ll keep everything transparent and accountable, which is what we’re all about.</p>\n<p>Love you fam <img alt=\":yellow_heart:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/yellow_heart.png?v=12\" title=\":yellow_heart:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 16,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-30T15:29:58Z",
+   "updated_at": "2023-03-30T15:29:58Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>Hi <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a>. I’m about to jump on a couple of calls, so let me just respond to your point about financial transparency and operational accountability.  When you look at the sections on <a href=\"https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231#how-will-these-funds-be-used-10\">“how the funds will be used,”</a> you will find that there is a good deal of detail here. In fact, if you look at other proposals that have gone through the TEC, there are very few that have provided this much detail.</p>\n<p>What we haven’t done is break out here what each person will be doing, and when, over the course of this 4-month period. But I don’t think that is an appropriate expectation for a funding proposal and I’m guessing that that’s not what you’re asking for.</p>\n<p>As for this:</p>\n<aside class=\"quote no-group\" data-post=\"13\" data-topic=\"1231\" data-username=\"lee0007\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/lee0007/40/524_2.png\" width=\"20\"/> lee0007:</div>\n<blockquote>\n<p>Q: Based on this proposal, are stakeholders fairly informed on the value creation I <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a> am accountable for and the cost exchange?</p>\n</blockquote>\n</aside>\n<p>There is a certain level of operational trust that the community must have with the teams that are stepping up to do this work. In your case, I don’t think that Angela would have nominated you to play a role in this undertaking if she thought that you were unworthy of that community trust or the value that you would create as part of it.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 17,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-03-30T15:52:55Z",
+   "updated_at": "2023-03-30T15:52:55Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>thanks for raising this concerns <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a></p>\n<p>I think there was a confusion on how to move forward with so many proposals. What should have happened was for the proposal to sideline Conviction Voting to be submitted first to Tao Voting.<br/>\nThen if this proposal passed, all the other financial proposals could follow to Tao voting because the governance process would have been successfully updated.</p>\n<p>I’m positive everyone is operating on their best fate, and that we had a coordination failure on how to handle all the proposed changes. We are trying to understand exactly what happened and how we can rewind things back to a solid place in terms of governance and still don’t lose the work being proposed for all these initiatives.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 18,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2023-03-31T16:32:00Z",
+   "updated_at": "2023-03-31T16:32:00Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>We had a meeting now with <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a> — Sounds like the most reasonable path forward is to understand what we are going through as a transition moment. Conviction Voting wasn’t working for us and shutting it down has been a consensus for the past few months, no one has opposed it. The proposal to Tao Voting will just execute that consensus technically. Griff offered this way of looking at it, which I was resistant at first but it makes sense.</p>\n<p>Tao voting always had the capability to pass funding proposals although we didn’t recommend it to be used that way - it’s parameters weren’t designed for it during the Hatch. but because Tao Voting has God mode, params are very strict, so this shouldn’t represent any risk for us, since it will be even harder to pass proposals there.</p>\n<p>What would be nice is to take a look again at Tao Voting params soon and question if there is anything that could be changed to use for funding proposals or even if a new module with different params should be installed.</p>\n<p>I acknowledge and praise the coordination team for all the work they’ve been putting to make sure everyone is taken care of and praise Gideon and Angela for writing this proposal for the joint operations, considering the urgency and stress involved.</p>\n<p>Challenging processes, taking all opinions into consideration and evolving them can be messy but the openness in which all this is being discussed seems like a healthy route.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 19,
+   "username": "akrtws",
+   "name": null,
+   "created_at": "2023-03-31T20:50:02Z",
+   "updated_at": "2023-03-31T21:19:53Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>After the comments in the forum, and the AMA session we’ve update TEA’s team setup in the proposal above to reflect the most up-to-date status for the voting.<br/>\nI’m sorry that we didn’t have a chance to confirm <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a> willingness to be part of this proposal before it went up. We have been collaborating on TEA comms since Jan. She has asked not to be included on it.</p>\n<blockquote>\n<p><strong>TE Academy Team:</strong></p>\n<ul>\n<li>Program, Study Groups, Ecosystem, Marketing/Comms – <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>, <a class=\"mention\" href=\"/u/pat.zip\">@pat.zip</a>, +1 TBD</li>\n<li>Strategy, PoC scope, fundraising – <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>, <a class=\"mention\" href=\"/u/roro\">@roro</a>\n</li>\n<li>TEA Tech – General Magic</li>\n<li>Legal – Ana</li>\n</ul>\n</blockquote>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 20,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-03-31T21:31:30Z",
+   "updated_at": "2023-03-31T21:31:30Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>As <a class=\"mention\" href=\"/u/liviade\">@liviade</a> notes above, she, <a class=\"mention\" href=\"/u/griff\">@Griff</a>, <a class=\"mention\" href=\"/u/akrtws\">@akrtws</a>, and I met today for an hour today and discussed at length <a class=\"mention\" href=\"/u/lee0007\">@lee0007</a>’s legitimate concern about governance process. Our conclusion was that we should proceed, as planned, with the vote on this proposal tomorrow.</p>\n<p>Making this transition from Conviction Voting to Tao Voting while proposals are actively moving through the commons has been a complex and difficult process to manage, but it’s something that we have been actively getting public feedback on since January 24th. Through that advice process and the ensuing March 20th Tao Voting proposal, there has been no community objection to moving forward with this plan.</p>\n<p>The challenge has been in sequencing. We wanted to ensure a transition period so that projects currently planning to use Conviction Voting will have until April 20th to complete the process. Pulling that date in sooner would have been unfair to any such projects. The challenge was that waiting until after that time to submit this proposal to Tao Voting would have put team members within the TEA and TEC at risk of not being paid in April. After going through an extensive advice process, the Coordination Team genuinely believed that Tao Voting was always a viable option for Common Pool funding decisions, even if it wasn’t what we were using in practice. And so, that was the plan that we made public here in the forum on March 20th – and received no objections.</p>\n<p>This has not been an easy process, but I think that as a community we have shown that we continue to balance the needs for transparency, vigilance, accountability, practicality, and fairness in our governance. And as Livia notes above, this path with Tao voting has very strict params and we will want to continue to assess how it works over time for community funding decisions.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 21,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2023-04-01T08:04:45Z",
+   "updated_at": "2023-04-01T08:04:45Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I think there are practical realities. Let me throw out some of them in bullet point form:</p>\n<ul>\n<li>Gideon is out for a well deserved vacation for 2-3 weeks in the middle of April</li>\n<li>Gideon is also one of the largest token holders and will be AFK (away from keys) for 14 days</li>\n<li>There is no one speaking against moving away from CV</li>\n<li>There are people that will need to be paid at the end of the month</li>\n<li>It seems like on it’s face people generally want all of these things to happen</li>\n<li>We talked about turning off CV for several months</li>\n<li>We did advice process to wait till April 20th to turn off CV</li>\n<li>Everyone is working with positive intent</li>\n</ul>\n<p>IMO this is a procedural oversight where we made agreements that maybe given all this info we shouldn’t have agreed to… specifically waiting till April 20th to turn off CV. We can’t know everyone who was making plans based on that signaling.</p>\n<p>It feels like there is a practical reality conflicting with our documentation of processes. Technically, Tao Voting is able to send money, in fact it can turn our DAO into a <img alt=\":duck:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/duck.png?v=12\" title=\":duck:\" width=\"20\"/> so sending 100k was always in the technical reality even tho it was culturally considered out of scope.</p>\n<p>Also there is a small team of people in the day to day that is supporting this DAO and they will run out of funding at the end of April, given all this I hope we can just put the normal procedures aside in this transition and do what causes the least stress in order to get to the out come that the DAO wants.</p>\n<p>We could have done a better job at formally announcing/creating a transition time where the day-today contributors use Tao Voting for governance while we leave CV open for more external contributors, but oh well… DAOing is hard.</p>\n<p>This article really summs it up well:</p>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://rndao.mirror.xyz/TxGTNemp_c4uNeWGiubJbC3akaNfJIJYcbgQZrHLK10\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://rndao.mirror.xyz/favicon.ico\" width=\"48\"/>\n<a href=\"https://rndao.mirror.xyz/TxGTNemp_c4uNeWGiubJbC3akaNfJIJYcbgQZrHLK10\" rel=\"noopener\" target=\"_blank\">rndao.mirror.xyz</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/345;\"><img class=\"thumbnail\" height=\"345\" src=\"https://mirror-media.imgix.net/publication-images/wEaVgwyBUiOF0w-nZbhJH.png?height=512&amp;width=1024&amp;h=512&amp;w=1024&amp;auto=compress\" width=\"690\"/></div>\n<h3><a href=\"https://rndao.mirror.xyz/TxGTNemp_c4uNeWGiubJbC3akaNfJIJYcbgQZrHLK10\" rel=\"noopener\" target=\"_blank\">Decisions in DAOs - What Causes the Pain?</a></h3>\n<p>DAO is a group of people who act without relying on a single person to make decisions.  Sadly, the vast majority struggle with this vital capability</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 22,
+   "username": "enti",
+   "name": null,
+   "created_at": "2023-04-01T15:03:26Z",
+   "updated_at": "2023-04-01T15:03:26Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>The vote for this proposal is now up on Gardens! <a href=\"https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/25\" rel=\"noopener nofollow ugc\">https://gardensdao.eth.limo/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/vote/25</a></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 23,
+   "username": "lee0007",
+   "name": null,
+   "created_at": "2023-04-04T07:19:52Z",
+   "updated_at": "2023-04-04T07:19:52Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Great article from the RnDAO crew. There are certainly issues identified that resonate with me and I also found this applicable</p>\n<blockquote>\n<p>Cryptocurrency is powerful because it lets us summon up large pools of capital by collective economic will, and these pools of capital are, at the beginning, not controlled by any person. Rather, these <strong>pools of capital are <em>controlled directly by concepts of legitimacy</em></strong>.</p>\n</blockquote>\n<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://vitalik.ca/general/2021/03/23/legitimacy.html\">\n<header class=\"source\">\n<a href=\"https://vitalik.ca/general/2021/03/23/legitimacy.html\" rel=\"noopener nofollow ugc\" target=\"_blank\">vitalik.ca</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"150\" src=\"http://vitalik.ca/images/icon.png\" width=\"150\"/>\n<h3><a href=\"https://vitalik.ca/general/2021/03/23/legitimacy.html\" rel=\"noopener nofollow ugc\" target=\"_blank\">The Most Important Scarce Resource is Legitimacy</a></h3>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  },
+  {
+   "post_number": 24,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2023-04-07T17:02:25Z",
+   "updated_at": "2023-04-07T17:02:25Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p>Happy to report that this proposal has passed with resounding support from $TEC token holders:</p>\n<p><img alt=\"image\" data-base62-sha1=\"hu6bmZZIVczfJHUcVn5R50cX8iD\" height=\"347\" src=\"https://forum.tecommons.org/uploads/default/original/1X/7a8bfe03f5b8c041ce12cf39e279a4e583aace4b.png\" width=\"348\"/></p>\n<p>Now, onto the exciting part! <img alt=\":tada:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/tada.png?v=12\" title=\":tada:\" width=\"20\"/> <img alt=\":piñata:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/pi%C3%B1ata.png?v=12\" title=\":piñata:\" width=\"20\"/> <img alt=\":partying_face:\" class=\"emoji\" height=\"20\" loading=\"lazy\" src=\"https://forum.tecommons.org/images/emoji/win10/partying_face.png?v=12\" title=\":partying_face:\" width=\"20\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20240815151111",
+    "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230530073256",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530073256",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230530075606",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230530075606",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240403103814",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240815151111",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240815151111",
+   "url": "https://forum.tecommons.org/t/joint-tea-tec-plan-for-ai-powered-token-engineering-and-tec-utility/1231/13"
+  }
+ ]
+}

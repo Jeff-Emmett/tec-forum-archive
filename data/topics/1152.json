@@ -1,0 +1,158 @@
+{
+ "id": 1152,
+ "title": "Praise System Rewards Top-Up #2",
+ "slug": "praise-system-rewards-top-up-2",
+ "category_id": 7,
+ "posts_count": 7,
+ "total_known": true,
+ "archived_posts": 8,
+ "archived_numbers": 8,
+ "created_at": "2022-10-04T13:48:46Z",
+ "last_archived_post_at": "2022-11-15T18:54:34Z",
+ "captured_between": [
+  "2022-11-26T22:03:26Z",
+  "2022-11-26T22:03:26Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "0xNuggan",
+   "name": null,
+   "created_at": "2022-10-04T13:48:46Z",
+   "updated_at": "2022-10-04T13:48:46Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p><strong>It’s already that time again for another rewards top-up!</strong></p>\n<p>Due to a miscalculation, the TEC rewardboard is requesting a new round of funds to top up the TEC reserve a bit earlier than planned. When asking for the last round, we didn’t quite know how much we would need to account for the retroactive Sourcecred Rewards which we had promised to do.</p>\n<p>We didn’t know for sure how many users would actually activate their sourcecred account nor did we conclude what a fair amount of retroactive funds were. Luckily, in the end we were able to link the majority of Sourcered users to praise addresses, allowing us to distribute a big part of the rewards. As a consequence, instead of getting to the end of the year, we expect to run out of TEC around early December.</p>\n<p>Therefore, accounting for the time it takes for proposals to pass through conviction voting, we are requesting 21,000 xDai to guarantee funding into the first quarter of next year.</p>\n<p>The xDai will be converted into TEC through the bonding curve app.</p>\n<h3>\n<a class=\"anchor\" href=\"#sourcecred-distribution-rationale-1\" name=\"sourcecred-distribution-rationale-1\"></a>Sourcecred Distribution Rationale</h3>\n<p>As mentioned before our calculated daily rate of TEC rewards is 134 TEC, we used this as the starting point to get our final number for Sourcecred rewards. We decided to use 25% of the daily rate (33.5) and apply this across the full period we wanted to cover, from July 14, 2021 - July 20, 2022; That’s 371 days! This gave us a final total of 12,428.5 TEC. Currently we’re vesting this across 10 bi-weekly periods of which we are over halfway through.</p>\n<p>If the Commons thinks TEC rewards are too expensive, we are open to a discussion on reducing the amount of daily TEC distributed with this system, so funding will last longer. However we will need these funds eventually to keep distribution going.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-2\" name=\"how-does-this-proposal-benefit-the-community-andor-the-field-of-token-engineering-2\"></a>How does this proposal benefit the community and/or the field of Token Engineering?</h3>\n<p>Praise is an integral part of how the TEC rewards its contributors. It also powers the culture of gratitude which lies at the heart of this DAO.</p>\n<h3>\n<a class=\"anchor\" href=\"#amount-requested-only-for-conviction-voting-3\" name=\"amount-requested-only-for-conviction-voting-3\"></a>Amount requested (Only for Conviction Voting)</h3>\n<p>21,000 wxDai. This should allow us to buy around ~13,000 TEC through the bonding curve at current prices, which together with the remaining treasury would cover the distribution of 134 daily TEC rewards until next year.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-these-funds-be-used-only-for-conviction-voting-4\" name=\"how-will-these-funds-be-used-only-for-conviction-voting-4\"></a>How will these funds be used? (Only for conviction voting)</h3>\n<p>These funds will be used to buy TEC on the bonding curve. Those tokens will stay in the Reward Board Aragon DAO, to be distributed through our Praise Reward System.</p>\n<p>Recipients will be active community contributors who received praise, the quantifiers that evaluated said praise and the rewardboard, which guides the process and handles the payouts/communication. Details about the distribution of funds can be found<a href=\"https://forum.tecommons.org/t/rewards-budget-distribution/992\"> here</a></p>\n<h3>\n<a class=\"anchor\" href=\"#what-does-success-look-like-5\" name=\"what-does-success-look-like-5\"></a>What does success look like?</h3>\n<p>Success looks like having enough TEC funds to pay out rewards during the first quarter 2023.</p>\n<h3>\n<a class=\"anchor\" href=\"#how-will-you-share-progress-6\" name=\"how-will-you-share-progress-6\"></a>How will you share progress?</h3>\n<p>Every distribution round will be announced with a post on the forum summarizing the results of the round, allowing for 48h discussion before proceeding to payouts.</p>\n<h3>\n<a class=\"anchor\" href=\"#project-information-if-applies-7\" name=\"project-information-if-applies-7\"></a>Project information (if applies)</h3>\n<p><a href=\"https://aragon.xdai.blossom.software/#/rewardboardtec/\" rel=\"noopener nofollow ugc\">Rewardboard DAO</a></p>\n<p><a href=\"https://forum.tecommons.org/t/rewards-budget-distribution/992\">Rewards Distribution Budget</a></p>\n<h3>\n<a class=\"anchor\" href=\"#team-information-8\" name=\"team-information-8\"></a>Team Information</h3>\n<p>The Reward Board, currently consisting of:</p>\n<p>-Mitch</p>\n<p>-Nuggan</p>\n<p>-Kristofer</p>\n<p>-Livia</p>\n<p>-Mateo</p>\n<p>-Zeptimus</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-08T18:03:56Z",
+   "updated_at": "2022-11-08T18:03:56Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Hey there! I would like to give an update and perhaps an alternative.</p>\n<p>This Gardens proposal is set to pass in ~7 days<br/>\n<a class=\"onebox\" href=\"https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/36\" rel=\"noopener\" target=\"_blank\">https://gardens.1hive.org/#/xdai/garden/0x1fc7e8d8e4bbbef77a4d035aec189373b52125a8/proposal/36</a></p>\n<p>However while looking at some of the discussions to restructure the TEC I realize we have the LASERTAG multisig currently sitting on ~57k $TEC. You can find the multisig here:</p><aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://app.safe.global/gno:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA/balances\">\n<header class=\"source\">\n<img class=\"site-icon\" height=\"48\" src=\"https://app.safe.global/favicons/favicon.ico\" width=\"48\"/>\n<a href=\"https://app.safe.global/gno:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA/balances\" rel=\"noopener\" target=\"_blank\">app.safe.global</a>\n</header>\n<article class=\"onebox-body\">\n<div class=\"aspect-image\" style=\"--aspect-ratio:690/388;\"><img class=\"thumbnail\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/optimized/1X/e54c1fb2fb8810a40bf507e952089607e881c984_2_690x388.png\" srcset=\"https://forum.tecommons.org/uploads/default/optimized/1X/e54c1fb2fb8810a40bf507e952089607e881c984_2_690x388.png, https://forum.tecommons.org/uploads/default/optimized/1X/e54c1fb2fb8810a40bf507e952089607e881c984_2_1035x582.png 1.5x\" width=\"690\"/></div>\n<h3><a href=\"https://app.safe.global/gno:0xF41dEFf41016216346270e302DC0a5Dd4913DAdA/balances\" rel=\"noopener\" target=\"_blank\">Safe</a></h3>\n<p>Safe (prev. Gnosis Safe) is the most trusted platform to manage digital assets on Ethereum and multiple EVMs. Over $40B secured. Unlock Ownership.</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>\n<p>This multisig is pretty much dead, the original goal of the signers and community actively finding liquidity strategies didn’t pan out as intended. Restarting the initiative during a time of intense change and unclear direction might not be the best idea.</p>\n<p>I would be interested instead to transfer the $TEC to the reward board DAO and use it to bankroll probably the next 8-12 month of rewards. I would also cancel my current proposal to take out 21k wxDAI from our common pool for rewards.</p>\n<p>This makes the process on the Reward Board side much easier, not needing to make any swaps on the ABC and deal with Aragon agents, tribute fees and any other technicals.</p>\n<p>cc: <a class=\"mention\" href=\"/u/mzargham\">@mzargham</a> <a class=\"mention\" href=\"/u/gabi\">@gabi</a> <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> <a class=\"mention\" href=\"/u/griff\">@Griff</a> <a class=\"mention\" href=\"/u/tamara\">@Tamara</a> <a class=\"mention\" href=\"/u/paulhaas\">@paulhaas</a></p>\n<h2>\n<a class=\"anchor\" href=\"#should-we-use-the-idle-lasertag-tec-funds-for-rewards-distribution-instead-1\" name=\"should-we-use-the-idle-lasertag-tec-funds-for-rewards-distribution-instead-1\"></a>Should we use the idle LASERTAG $TEC funds for Rewards distribution instead?</h2>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"regular\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"277962ea3b8227e06ed3eb378fbdba0d\">Yes</li>\n<li data-poll-option-id=\"720aa6324194f0ccd395b3cd0ed76f0e\">No</li>\n<li data-poll-option-id=\"d28722ed31d2410f46a95e3b0f143f91\">Abstain</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-11-08T23:31:32Z",
+   "updated_at": "2022-11-08T23:31:32Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>$57K is a lot of money to lock into Praise at a time when the community is going through a lot of changes that could affect the way that Praise is used.</p>\n<p>I say just allow the existing proposal to run its course, especially since it’s close to passing.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "divine_comedian",
+   "name": null,
+   "created_at": "2022-11-09T15:08:38Z",
+   "updated_at": "2022-11-09T15:08:38Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>57k $TEC so a little bit more actually.</p>\n<p>I know it’s a big mandate to give all at once but if the TEC needed to liquidate that $TEC in lasertag it would hurt the token price further, rather than that you can keep the money in the Common Pool instead and the rewards wg can work with $TEC that’s already been minted.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Tamara",
+   "name": null,
+   "created_at": "2022-11-15T09:07:27Z",
+   "updated_at": "2022-11-15T09:07:27Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Considering that the ~57K $TEC in LASERTAG are idle and are likely to remain so for foreseeable future (unless I am wrong and there is a proposition to do so!?) I think <a class=\"mention\" href=\"/u/divine_comedian\">@divine_comedian</a> makes a good point to put it to use in another way than originally intended.</p>\n<p>The current CommonsOps drafts I’ve read so far have partial compensation in $TEC. I see no reason not to support reallocating the LASERTG $TEC to both the Reward and the CommonsOps team to be used for future compensation. In 50-50 split?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-11-15T15:42:37Z",
+   "updated_at": "2022-11-15T15:42:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I’m in support of putting that $TEC to work, whether that’s working for Rewards, the CommonOps team or the negotiation <a class=\"mention\" href=\"/u/natesuits\">@natesuits</a> had going on with Karpatkey and GnosisDAO; that said, I wouldn’t support anything that completely empties <strong>the only source of $TEC we have</strong>, particularly now that nobody knows where we are standing.</p>\n<p>I’m also, in all honestly, being very critical on everything that’s going on at the TEC. In that spirit, I think it makes sense to wait for <a class=\"mention\" href=\"/u/rex\">@rex</a>’s report and get more critical metrics, that this proposal is lacking, of the success of Praise before committing a year of resources.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2022-11-15T16:51:55Z",
+   "updated_at": "2022-11-15T16:51:55Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>I have two thoughts here:</p>\n<p>1.) It should be a goal for the TEC to mint and hold as much $TEC as possible. The ability to distribute Governance power to both individuals and organizations will be significant as we move forward with partnerships, potential Governance swaps, etc.  I will always support the purchase of $TEC by the commons for any reason. The Reward System moving toward a monthly distribution amount that is reflective of the amount of praise given is a huge step forward in conserving our $TEC holdings.</p>\n<p>2.) I think it is important for the Reward System to be managed/operated independently from the CommonOps team proposal.  With that being said, I think there should be a shift in HOW we use our Reward System.  The distribution of $TEC should not be done in the name of compensation/reward, but rather with the intention of expanding participation in our governance activities.  I would propose that much like our transition process (internally facing to externally facing), we too should focus our Reward System on the TE community and members who are really pushing forward our mission.  New mechanisms may need to be created in order to do this, but I believe it would be worth the investment.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-11-15T18:54:34Z",
+   "updated_at": "2022-11-15T18:54:34Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I agree with this point about using $TEC to expand participation in TEC governance, and more specifically, to expand governance by people with more of a background in token engineering. It would be really powerful to figure out a way to get more $TEC into the hands of graduates of the Academy, for example. Praise is one route for doing that, but maybe there are others too.</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20221126220326",
+    "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20221126220326",
+   "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126220326",
+   "url": "https://forum.tecommons.org/t/praise-system-rewards-top-up-2/1152"
+  }
+ ]
+}

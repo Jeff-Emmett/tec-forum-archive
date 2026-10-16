@@ -1,0 +1,189 @@
+{
+ "id": 128,
+ "title": "Tollgate Fee - Deep Dive",
+ "slug": "tollgate-fee-deep-dive",
+ "posts_count": 8,
+ "category_id": 19,
+ "created_at": "2020-12-06T18:04:12.158Z",
+ "views": 3523,
+ "last_posted_at": "2021-05-07T18:38:37.779Z",
+ "highest_post_number": 9,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 9,
+ "archived_numbers": 9,
+ "last_archived_post_at": "2021-05-07T18:38:37Z",
+ "captured_between": [
+  "2021-04-20T13:18:11Z",
+  "2026-02-28T04:50:30Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2020-12-06T18:04:12Z",
+   "updated_at": "2021-01-11T18:16:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<h1>Tollgate Fee</h1>\n<p>What the heck is a tollgate fee? Searching ‘tollgate’ in the <a href=\"https://www.notion.so/Technical-Documentation-2dea29d0a3014e6db22d8f17cf93e7d1\" rel=\"noopener nofollow ugc\">dandelion tech spec</a> has 0 results! So all I know about it is that in our test hatch it was set to  <strong>3 wxDAI</strong>(~$36.00USD at time  of writing). Upon further investigation (and help from <a class=\"mention\" href=\"/u/tonga\">@Tonga</a>) I found the <a href=\"https://github.com/aragonone/tollgate\" rel=\"noopener nofollow ugc\">aragon template for a tollgate contract</a>.</p>\n<p>According the repo above, the purpose of tollgate is:</p>\n<blockquote>\n<p>A simple Aragon App forwarder that requires a user to deposit fees before executing an action.<br>\nUseful for when an organization wants to make actions public, but impose a customizable cost to prevent spam.</p>\n</blockquote>\n<p>Some questions to consider:</p>\n<ol>\n<li>What is the minimum amount and should it be constant?</li>\n<li>Should it just be for the public and to prevent spam?</li>\n<li>Could it be used to manipulate outcome?</li>\n<li>How independent is this parameter? What other parameters are connected to it?</li>\n<li>What other factors should we consider when deciding this parameter?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2020-12-06T18:22:12Z",
+   "updated_at": "2020-12-06T18:22:12Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The way I see it, this is parameter reduces the influence of the ‘public’ and ‘possible bad actors/spam’. Because it creates a very small barrier  to voting for non-trusted members. This is a super cool concept, but I would be concerned about the subtleties of the implementation.</p>\n<ol>\n<li>The aragon template is not audited yet, this is new and experimental tech.</li>\n<li>3 wxDAI seems like a lot of money! I would love for someone to flesh out the game theory / cryptoeconomics here. What is the incentive for the public to participate in TEC actions? How does a fee influence that incentive?</li>\n<li>How exactly do we differentiate the ‘public’? Is that people who do not have CSTK tokens? Or TEC tokens?</li>\n<li>Manipulation is super important to consider here. I think that mitigating potential manipulation is THE POINT of this parameter. We want to reduce the amount of influence that external actors may take in the ecosystem by introducing this fee. This fee incentivizes interested parties to become trusted members.</li>\n<li>This parameter is pretty isolated, it could be added or removed without effecting other parameters.</li>\n<li>I think this parameter is super juicy for modeling, I see it as a resistance parameter for external influence. It’s also an additional source of revenue into the… funding pool? Or where does the fee even go? And is it returned at least partially to the voter?</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "santigs",
+   "name": "Santi",
+   "created_at": "2020-12-08T07:06:01Z",
+   "updated_at": "2020-12-08T07:06:01Z",
+   "reply_to_post_number": 2,
+   "like_count": 1,
+   "cooked": "<p>My responses.<br>\n2.- As far as I know, wxDai stands for wrapped xDai, so 1 wxDai = 1 xDai wich is = 1 Dai and = 1 USD so tollgate fee would be equivalent to $3.<br>\n3.- Only CSTK token holders will be voting and participating in the first (hatch) DAO</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2020-12-09T16:35:09Z",
+   "updated_at": "2020-12-09T16:35:09Z",
+   "reply_to_post_number": 3,
+   "like_count": 0,
+   "cooked": "<p>Is this xDai or something different?</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://coinmarketcap.com/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://coinmarketcap.com/currencies/xdai/\" target=\"_blank\" rel=\"noopener nofollow ugc\">CoinMarketCap</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"https://forum.tecommons.org/uploads/default/original/1X/312bfd53cf3df4057ae4b7edf2840306cebb8744.png\" class=\"thumbnail onebox-avatar\" width=\"200\" height=\"200\">\n\n<h3><a href=\"https://coinmarketcap.com/currencies/xdai/\" target=\"_blank\" rel=\"noopener nofollow ugc\">xDai price today, STAKE marketcap, chart, and info | CoinMarketCap</a></h3>\n\n<p>Get the latest xDai price, STAKE market cap, trading pairs, charts and data today from the world’s number one cryptocurrency price-tracking website</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "santigs",
+   "name": "Santi",
+   "created_at": "2020-12-09T17:35:41Z",
+   "updated_at": "2020-12-09T17:37:16Z",
+   "reply_to_post_number": 4,
+   "like_count": 2,
+   "cooked": "<p>xDai is XDAI network native token which has 1:1 parity with DAI token in Ethereum mainnet.<br>\nxDai is the token used to pay gas cost in XDAI network.<br>\nSTAKE is the governance token for XDAI network, STAKE token is what is shown in CoinMarketCap.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "ygg_anderson",
+   "name": "Shawn Anderson",
+   "created_at": "2020-12-13T03:02:16Z",
+   "updated_at": "2020-12-13T03:02:16Z",
+   "reply_to_post_number": 5,
+   "like_count": 0,
+   "cooked": "<p>Thanks Santigs, that’s super clear and important to know.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2021-03-01T19:42:15Z",
+   "updated_at": "2021-03-01T19:44:43Z",
+   "reply_to_post_number": 6,
+   "like_count": 1,
+   "cooked": "<p>The TollGate Fee is an interesting method of preventing spam and unwanted proposals.</p>\n<p>However, having such a low TollGate Fee may be problematic for the Dandelion DAO if we do not take into consideration the Vote Buffer and Vote Execution Delay parameters.</p>\n<p>I’m not sure if I’m ‘off’ in my thinking here, but if the VED and VB parameters are too short we undermine the “rage-quit” function by not giving members enough time to remove funds between (nefarious) proposals…but if these parameters are too long, combined with a 3wxDAI TollGate Fee, could I not just spam delay the execution of the proposals (required for Upgrade) for a long period of time?</p>\n<p>All this to ask, is there a downside to having a really high TollGate Fee, especially if we know exactly how many parameters and proposals need to be voted on to execute the Upgrade to the Commons?</p>\n<p>Also, I second ygg’s question on where these fee’s end up in this system.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "Tamara",
+   "name": "Tamara",
+   "created_at": "2021-05-07T10:55:14Z",
+   "updated_at": "2021-05-07T10:55:14Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>During our params party today a question came up about the mechanism for returning the fee once it’s confirmed to be a legit proposal and not spam.</p>\n<p>Is there something “built-into” the proposal mechanism to return the tollgate based on certain criteria? Is returning the fee one of the votes included in each proposal? Wondering how this will work.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "natesuits",
+   "name": "Nay",
+   "created_at": "2021-05-07T18:38:37Z",
+   "updated_at": "2021-05-07T18:38:37Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p><strong>What is the Tollgate Fee?</strong><br>\nThe Tollgate Fee establishes a required cost for submitting any proposal within the HatchDAO.  All funds associated with this cost are sent to the non-redeemable pool, and can be returned to the proposal creator through a community vote.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br>\nThe Tollgate Fee is measured in wxDAI, and you will have the option to set this parameter between 0 and ∞.</p>\n<p>The Tollgate Fee is a mechanism that requires a user to deposit fees before submitting a proposal within the DAO.  This mechanism is useful for when an organization wants to make actions public, but impose a customizable cost to prevent spam.</p>\n<p><strong>Suggested Range</strong><br>\nDue to the importance of the Tollgate Fee in preventing an attack vector, we suggest that the rage should fall between 600-1200 wxDai.</p>\n<p><strong>Related Parameters to consider when defining the Tollgate Fee (wxDai):</strong><br>\nVote Proposal Buffer (hours)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20260228045030",
+    "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210420131811",
+   "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210420131811",
+   "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210928012625",
+   "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20260228045030",
+   "url": "https://forum.tecommons.org/t/tollgate-fee-deep-dive/128"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 494,
+ "title": "Augmented Bonding Curve - Entry & Exit Tribute",
+ "slug": "augmented-bonding-curve-entry-exit-tribute",
+ "category_id": 26,
+ "posts_count": 1,
+ "created_at": "2021-07-12T21:09:55.775Z",
+ "last_posted_at": "2021-07-12T21:09:56.385Z",
+ "views": 127,
+ "highest_post_number": 1,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 2,
+ "archived_numbers": 2,
+ "last_archived_post_at": "2021-10-28T19:51:41Z",
+ "captured_between": [
+  "2021-09-17T11:00:46Z",
+  "2023-02-04T03:08:11Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-07-12T21:09:56Z",
+   "updated_at": "2021-07-12T21:09:56Z",
+   "reply_to_post_number": null,
+   "like_count": 4,
+   "cooked": "<p><strong>Entry &amp; Exit Tribute</strong></p>\n<p>The Augmented Bonding Curve (ABC) allows for the Entry &amp; Exit tribute parameters to be implemented as a method for allocating money to the Common Pool and to prevent excessive speculation.  When an agent purchases (mints) or sells (burns) TEC tokens through the Augmented Bonding Curve, a small percentage of those funds are allocated to the Common Pool, providing more funding for the Common’s mission.</p>\n<p>During a purchasing (minting) event, an agent sends the reserve currency (wxDai) to the ABC.  The Entry Tribute is deducted and  sent to the Common Pool while the remainder is sent to the Reserve, and a corresponding amount of TEC tokens are minted for the purchaser.</p>\n<p>During a selling (burning) event, an agent sends TEC tokens to the ABC.  The TEC tokens are then burned for a corresponding amount of the reserve currency (wxDai).  The Exit Tribute amount deducted in wxDai from this amount and  sent to the Common Pool. The remainder is sent to the seller.</p>\n<p><img alt=\":arrow_down_small:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_down_small.png?v=9\" title=\":arrow_down_small:\"/></p>\n<p><strong>What is the Entry Tribute (%)?</strong><br/>\nThe Entry Tribute (%) is the percentage of reserve currency that is sent to the Common Pool during any single minting event.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nYou will have the option to set the Entry Tribute parameter anywhere between 0 and 100%.</p>\n<p>This parameter has implications on potential buyers of our TEC token from the Augmented Bonding Curve.  In particular, if the percentage is set very high (&gt;10%), it is highly unlikely to be purchased by any speculators, or those hoping to make money from arbitrage on secondary markets. This limits the potential for additional funding to be generated for the Common Pool to fund proposals to advance the field of Token Engineering.</p>\n<p>Inversely, an extremely low percentage (0%) would increase the amount of speculative behavior that occurs within the Bonding Curve, encouraging new members to join the Commons but potentially increasing the volatility of the TEC token price.  However, a small (but &gt;0%) entry tribute in the end would likely generate more funding for the Common Pool than an extremely high percentage (&gt;15%).</p>\n<p><strong>Related parameters to consider when defining the Entry Tribute (%)</strong><br/>\nTransferability</p>\n<p><strong>Suggested Range</strong><br/>\n0 - 5%</p>\n<p><img alt=\":arrow_down_small:\" class=\"emoji only-emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/arrow_down_small.png?v=9\" title=\":arrow_down_small:\"/></p>\n<p><strong>What is the Exit Tribute (%)?</strong><br/>\nThe Exit Tribute (%) is the percentage of reserve currency that is sent to the Common Pool during any single burning event.</p>\n<p><strong>Implications &amp; Parameter Options</strong><br/>\nYou will have the option to set the Exit Tribute parameter anywhere between 0 and 100%.</p>\n<p>This parameter has implications for those individuals who wish to sell their TEC token through the Augmented Bonding Curve.  A high Exit Tribute may reduce an individual’s willingness to exit the TEC economy, but simultaneously may hinder them from entering into it at all.  Similar to the Entry Tribute, the Exit Tribute also has implications that impact the token’s volatility. A higher Exit Tribute would likely reduce speculation but also limit the potential to generate new funding for the Common Pool.  Generally, it seems to be more appropriate to implement a an Exit Tribute that is higher than the Entry Tribute.</p>\n<p><strong>Related parameters to consider when defining the Exit Tribute (%)</strong><br/>\nTransferability</p>\n<p><strong>Suggested Range</strong><br/>\n3-15?</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030811",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-entry-exit-tribute/494"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2021-10-28T19:51:41Z",
+   "updated_at": "2021-10-28T19:51:41Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>Thoughts after the Params Parties:</p>\n<p>I’m liking a high entry tribute as an option for launch… this is because it does a few things:</p>\n<ol>\n<li>Keeps early buyers value aligned, like the Hatchers.</li>\n<li>Sends money from the initial buy to the Common Pool</li>\n<li>There are no other ways to get TEC at first, so this will force more funds into the Common Pool</li>\n<li>We can change it after a few weeks once there are other liquidity pools</li>\n</ol>\n<p>With a high Entry Tribute tho… I would recommend a low exit tribute so that the spread between the tributes can be reduced so that when the liquidity pools do emerge there is a small band for the price to float behind.</p>\n<p>A cool bonus of a high entry tribute and a low exit tribute is the market price will usually be above the minting price which has a nice psychological feeling.</p>\n<p>No matter what tributes we pick, we should do analysis over our trading volume and make adjustments after a month or 2. IMO</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204030811",
+    "url": "https://forum.tecommons.org/t/augmented-bonding-curve-entry-exit-tribute/494"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210917110046",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-entry-exit-tribute/494"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230204030811",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-entry-exit-tribute/494"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204030811",
+   "url": "https://forum.tecommons.org/t/augmented-bonding-curve-entry-exit-tribute/494"
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "id": 1177,
+ "title": "TEC Coordination Team Proposal",
+ "slug": "tec-coordination-team-proposal",
+ "category_id": 30,
+ "posts_count": 9,
+ "total_known": true,
+ "archived_posts": 10,
+ "archived_numbers": 10,
+ "created_at": "2022-11-22T21:42:25Z",
+ "last_archived_post_at": "2022-12-01T13:48:13Z",
+ "captured_between": [
+  "2022-11-26T23:13:23Z",
+  "2023-04-01T01:48:43Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-11-22T21:42:25Z",
+   "updated_at": "2022-11-22T21:42:25Z",
+   "reply_to_post_number": null,
+   "like_count": 10,
+   "cooked": "<p>This is a joint proposal, resulting from a merger of two forked proposals - one by <a class=\"mention\" href=\"/u/liviade\">@liviade</a> and one by <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a>. It has gone through 3+ weeks of extensive advice process via public calls in the Stewards voice channel on Discord.</p>\n<h2>\n<a class=\"anchor\" href=\"#tldr-1\" name=\"tldr-1\"></a>TL;DR:</h2>\n<p>This is a transitional plan that will last approximately three months. Its goal is to simplify structures and processes for coordinating the work of the commons. It is also a plan to reduce expenditures, achieve economic sustainability, and ultimately restore the TEC and grow its ability to have impact through its mission, vision, and values and create value for token engineering stakeholders.</p>\n<h2>\n<a class=\"anchor\" href=\"#provide-as-much-information-as-possible-about-your-idea-2\" name=\"provide-as-much-information-as-possible-about-your-idea-2\"></a>Provide as much information as possible about your idea:</h2>\n<h3>\n<a class=\"anchor\" href=\"#background-3\" name=\"background-3\"></a>Background:</h3>\n<p>The TEC has had a 60% drop in <a href=\"https://eenti.github.io/TEC-Discord-Analysis/\" rel=\"noopener nofollow ugc\">community activity on Discord</a> since April (and similar drops in engagement on the community forum in Discourse). We are under growing budgetary pressures, as the shrinking Common Pool makes it much harder to pass operating proposals via conviction voting. At the same time, many of the TEC’s working groups have started to phase out. As a result, we have an opportunity to simplify the way we coordinate stewardship of the commons with a smaller team.</p>\n<p>The TEC has focused too much in operations and inward activities for a long time, contributing to alienating us from the token engineering field. This proposal is also an opportunity to address this concern and have our operations support token engineering.</p>\n<h3>\n<a class=\"anchor\" href=\"#purpose-of-the-team-4\" name=\"purpose-of-the-team-4\"></a>Purpose of the Team:</h3>\n<ul>\n<li>Create greater cohesion and impact for our mission</li>\n<li>Improve cross-functional coordination</li>\n<li>Increase flexibility and resource efficiency</li>\n<li>Reduce operating costs</li>\n<li>Increase clarity of expectations and accountability</li>\n<li>Help contributors develop and find inspiration and meaning</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#basic-functions-5\" name=\"basic-functions-5\"></a>Basic Functions:</h2>\n<p>This new team will focus on coordinating work throughout the Commons. In this sense, it takes over many of the functions originally held by the TEC’s numerous working groups, including the Stewards, Transparency, Communitas, Communications, and Soft Gov working groups.</p>\n<p>As part of a small team, members will ‘swarm’ to solve problems together and remain flexible in the kinds of work they take on. To maintain maximum flexibility for a small team, we will maintain descriptions of organizational functions and enable individuals to plug into specific tasks within those functions. Individual jobs will thus be loosely defined through a combination of roles based on the team members availability, preferences and skills. An individual’s roles could cluster within functional areas, but not necessarily.</p>\n<p>To ensure that all essential coordinating processes are covered, we will organize them into a number of higher-level categories:</p>\n<ul>\n<li>Contributor Coordination and Project Management</li>\n<li>Governance Coordination and Implementation</li>\n<li>Organizational Development</li>\n<li>Strategic Planning</li>\n<li>Stakeholder Communications</li>\n<li>Community Organizing</li>\n<li>Partner Relations</li>\n<li>Economic Development</li>\n<li>Service Operations and Development (mostly through partnerships)</li>\n<li>Technology Support</li>\n<li>Finance and Accounting</li>\n<li>Token Engineering needs research</li>\n</ul>\n<h2>\n<a class=\"anchor\" href=\"#how-is-it-relevant-to-the-tec-mission-vision-and-values-6\" name=\"how-is-it-relevant-to-the-tec-mission-vision-and-values-6\"></a>How is it relevant to the TEC mission, vision and values?</h2>\n<p>One of the primary goals of this plan is to streamline coordinating costs so as to free up resources to resume funding of actual token engineering public goods. The simplified, smaller team should also improve the TEC’s ability to be outward-facing to the token engineering community. It should also help with engaging with token engineering projects, professionals and interested people in order to bring visibility to the token engineering discipline, ease the coordination between peers and elucidate access to the TEC’s grant process.</p>\n<h2>\n<a class=\"anchor\" href=\"#who-is-going-to-be-affected-by-what-youre-proposing-7\" name=\"who-is-going-to-be-affected-by-what-youre-proposing-7\"></a>Who is going to be affected by what you’re proposing?</h2>\n<h3>\n<a class=\"anchor\" href=\"#coordinating-team-compensation-and-budget-8\" name=\"coordinating-team-compensation-and-budget-8\"></a>Coordinating Team Compensation and Budget:</h3>\n<ul>\n<li>Three full-time-equivalent positions, spread across roughly six part-time people. These are not full-time positions, but the goal is to have most positions staffed at (at least) half-time so that contributors can really dedicate themselves and focus on serving the TEC</li>\n<li>On average the team would work 20 hours per week at an hourly rate of $21 DAI per hour, and a monthly budget of $10,080 xDAI for the whole team. This would only be for the transition period.</li>\n<li>This coordinating team will fund itself initially with remaining funds from Sampo, Communitas and Comms working groups. After that, it will submit a formal funding proposal to the community through Conviction Voting. We plan to set a fixed annual operating budget that reduces our spending to approximately one-third of the TEC’s average operating expenses since launch. The team will submit requests for continued funding approximately every four months to ensure its accountability to the community.</li>\n<li>The initial team members include: Bear100, Enti, Rex, Nate, Acidlazzer, and Gideonro. The team is subject to change with each new funding proposal and based on individual members’ performance and accountability.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#team-process-and-culture-9\" name=\"team-process-and-culture-9\"></a>Team Process and Culture:</h3>\n<p>One of the primary goals of this new structure is accountability to the TEC mission and its stakeholders. The trick is how we do that without adopting a centralized managerial hierarchical structure. An anonymous feedback typeform will be available at the end of every month for the community to provide constructive criticism, suggestions and acknowledgements to the core team.</p>\n<p>As part of holding one another mutually accountable, members of this self-directed work team will commit to a set of agreed-upon guidelines, by signing the community covenant (see below). As a mechanism for supporting the commons, this agreement is guided by <a href=\"https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/the-cultural-build\" rel=\"noopener nofollow ugc\">Ostrom’s 8 principles</a>. Violations will lead to graduated sanctions, and dismissal if warranted.</p>\n<h3>\n<a class=\"anchor\" href=\"#team-goals-for-transition-period-10\" name=\"team-goals-for-transition-period-10\"></a>Team Goals for Transition Period:</h3>\n<ul>\n<li>Maintain the TEC’s essential services.</li>\n<li>Community accountability and team accountability systems: define what success looks like in terms of outcomes and metrics. This includes updating the community covenant to include a section on accountability (especially around provision and appropriation of services and resources for the commons). This will include details on graduated sanctions.</li>\n<li>Clarifying project management and governance processes.</li>\n<li>Clarify the relationship between voluntary contributions recognized by Praise and paid contributions among the coordination team.</li>\n<li>This proposal replaces coordination of the DAO formally done by the TEC Stewards. The Steward transformation process proposed on Snapshot in August wasn’t approved for a lack of quorum (it received 143k TEC votes of the needed 208k - 10% of the total token supply), and there is some remaining work still to be done defining what role, if any, stewardship plays in the TEC going forward.</li>\n</ul>\n<h3>\n<a class=\"anchor\" href=\"#community-member-contributions-11\" name=\"community-member-contributions-11\"></a>Community Member Contributions:</h3>\n<p>Like many DAOs, the TEC has invested significant resources into allowing permissionless engagement in its work. This openness is not going away. This proposal just restructures and better defines the terms of that open engagement. It is important that the TEC continue to accept contributions from newcomers and long-time contributors. This is how we remain open to new ways of thinking and doing work. There will be two primary methods:</p>\n<ol>\n<li>\n<p>“Active Contributors” are those community members who regularly engage with the TEC through things like attending weekly coordinating meetings and executing minor tasks. For budgetary reasons, we will not be able to pay for most of this work, but these contributions can continue to be recognized and symbolically compensated through Praise and whenever substantial work emerges, it can be proposed to the common pool. The team will act as coordinators to ensure these contributions sync with the workflows, projects and overall priorities of the commons.</p>\n</li>\n<li>\n<p>The second option centers around carefully defining workflows to allow for truly permissionless engagement without generating a lot of ongoing operational expenses. That might mean buying/selling $TEC using our Augmenting Bonding Curve, participating in governance, sharing and curating knowledge with the curation service, and even participating in Praise quantification. It will be important to continue to develop more of these opportunities for permissionless contribution over time.</p>\n</li>\n</ol>\n<h2>\n<a class=\"anchor\" href=\"#who-has-expertise-in-this-topic-and-could-advise-your-process-12\" name=\"who-has-expertise-in-this-topic-and-could-advise-your-process-12\"></a>Who has expertise in this topic and could advise your process?</h2>\n<p>The Stewards as well as stakeholders and community members that have experience and perspective to share.</p>\n<h2>\n<a class=\"anchor\" href=\"#what-type-of-proposal-is-this-13\" name=\"what-type-of-proposal-is-this-13\"></a>What type of proposal is this?</h2>\n<ol start=\"2\">\n<li>Snapshot (cultural)</li>\n</ol>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-28T19:50:38Z",
+   "updated_at": "2022-11-28T19:50:38Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Snapshot vote is live until December 2nd at 8:45 pm CET<br/>\n<a class=\"onebox\" href=\"https://snapshot.org/#/tecommons.eth/proposal/0x59214e4c0e1952a1269fb18979063b74ec30d62f61aba89fe5758bc866869ddd\" rel=\"noopener\" target=\"_blank\">https://snapshot.org/#/tecommons.eth/proposal/0x59214e4c0e1952a1269fb18979063b74ec30d62f61aba89fe5758bc866869ddd</a></p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2022-11-28T21:55:32Z",
+   "updated_at": "2022-11-28T22:07:56Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1177\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<p>The initial team members include: Bear100, Enti, Rex, Nate, Acidlazzer, and Gideonro. The team is subject to change with each new funding proposal and based on individual members’ performance and accountability.</p>\n</blockquote>\n</aside>\n<p>Hello Gideon and everyone shaping this idea! I fully agree on the intention of the proposal, but I voted No in the snapshot because im concerned around the criteria of choosing this initial team. I think that it would be good to open the space for people to propose themselves and have an open selection, instead of a team chosen from the group that is leading the initiative. Also I think it would be good to make minimal requirements to qualify for the group, like:</p>\n<ul>\n<li>Having participated in the hatch (people that joined the TEC after hatch may not be aware of the praisemageddon and certain agreements we have done that are still pending for implementation)</li>\n<li>Having at least 3 k of $TEC. This means this people has skin in the game, has received praise, has tokens and at least a small amount governance power.</li>\n<li>Having participated in at least 1 of the Initial working groups that are sunsetting.</li>\n<li>Having an active membership in the Trusted seed.</li>\n</ul>\n<p>… And we can think of other requirements that would guarantee that the people here meets expectations that anyone in the community can think of.</p>\n<p>BTW, for some weeks the Gravity website call was at the same time of the Transformation calls, so we couldn’t assist, but from starting this week we are moving our call so that we are more active in this conversation.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 4,
+   "username": "rex",
+   "name": null,
+   "created_at": "2022-11-29T01:45:00Z",
+   "updated_at": "2022-11-29T03:15:01Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>gm Juank,</p>\n<p>I do appreciate you raise your concerns, and I do believe them to be valid ones which must be answered. TLDR: The members mentioned above are not there due to any undemocratic process, nor “selected” by the team.</p>\n<p>The constitutive members above were the only members to present candidacy to fulfil the roles of the Coordination Team <strong>at all</strong>. The floor was open for weeks, months, even, and nobody else joined any of the eight weeks of sync calls, nor showed any interest async in shaping or being part of the proposal.</p>\n<p>To make you aware on the scope of quorum, we have spent an estimated 48hs in sync discussing ideas to come to terms to this proposal, whose lifespan is not to be much longer than the time we spent crafting it. We were honest and open throughout, and both asked and actively looked for all sectors of the community to their raise concerns and suggestions, working groups, members, old, new, prospective, TEs, you name it. All in all, a decent guesstimate would be that we spent a total of 700hs of unpaid work to come to the proposal above.</p>\n<p>Despite having work in a freelance/volunteer position at the TEC, and having been the most Praised individual during a couple consecutive rounds, I do not meet the criteria you set here. I joined slightly after the Hatch, in early April '22, and have played a pretty active part in the commons since. Further, you ask for a third of my savings with the amount of TEC you would ask me to purchase. I feel these conditions are very out of touch with the reality of the Commons as of today.</p>\n<p>I welcome everybody to come raise their concerns in 6PM CEST  <a href=\"https://discord.com/events/810180621930070088/1044919677287149658\" rel=\"noopener nofollow ugc\">tomorrow’s</a> and  6PM CEST <a href=\"https://discord.com/events/810180621930070088/1045647635391971359\" rel=\"noopener nofollow ugc\">Thursday’s</a> Transformation Calls, to hear any further concerns that we can incorporate into the <strong>execution</strong> of the proposal above. There’s still much to polish off.</p>\n<p>(edit 1 and 2: reduced repetition on paragraph 2.)</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 5,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2022-11-29T12:43:30Z",
+   "updated_at": "2022-11-29T12:43:30Z",
+   "reply_to_post_number": null,
+   "like_count": 3,
+   "cooked": "<p>Sometimes when we have worked a lot on something and we start sharing it, it may seem that feedback is drawing us back, but giving space to what is in the unconscious to be visible will allow us to add more collective wisdom to improve.</p>\n<p>I stopped assisting to the transformation calls like 3 weeks ago due to a Gravity website sprint, and i mentioned my concerns at that point, of having an inclusive process for the selection of this group of people (saying that sometimes we avoid political stuff but its needed), I thought we could even do a community vote for the candidates, but what im seeing is a vote to backup a team of the people that was participating actively in the transformation working stream.</p>\n<p>I dont think that the list of requirements should be fulfilled to a 100% by all, but maybe it can be a criteria to qualify the list of people. I also think that another cool criteria would be the amount of POAPs from the TEC or the TEA. Most of the people in the commons has invested (even right now TEC is at hatch price) so having a small amount of $TEC just goes along with Ostroms second rule of congruence between appropiation and provision, and that as all of us, the people in this group has skin in the game and is affected in the same way by what affects all of us.</p>\n<p>I’m also sorry for this late replies, maybe it would have been better to do them before, im talking here not from Gravity DAO, but my personal point of view as a tokenholder, a hatcher and a former steward. I respect any outcome that the community decides and i fully respect everyone behind this proposal, im just speaking for more transparency, clarity, and accountability for this important team that has to carry the legacy of the TEC and also implement the transformation that is ahead of us.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 6,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2022-11-29T14:45:28Z",
+   "updated_at": "2022-11-29T14:45:28Z",
+   "reply_to_post_number": null,
+   "like_count": 7,
+   "cooked": "<p>I second Rex points.<br/>\nBeing on a DAO means anyone can submit proposals at any time. We encouraged forks to happen so everyone could have a say. This proposal is the result of this team’s dedication and willingness to move the TEC forward. Again, any other group or individual could have submitted a proposal as well, (and still can) or volunteered to be a part of this one but it didn’t happen.</p>\n<p>I couldn’t feel more confident of having <a class=\"mention\" href=\"/u/bear100\">@bear100</a> , <a class=\"mention\" href=\"/u/enti\">@enti</a> and <a class=\"mention\" href=\"/u/rex\">@rex</a> (the ones that don’t match the criteria you suggested) to be in the front of this proposal. They have been aligned with our culture and mission and they are providing an <strong>incredible</strong> amount of value to the TEC.</p>\n<p>It’s important to be humble and acknowledge how the TEC was built from the ground, offering opportunity for so many of us to learn and engage. The TEC tokens that contributors received in the hatch had a higher value than what is being distributed now with Praise. There are many forms of collaborating and being aligned with a mission. Labor, capital and expertise are the pillars we’ve been working with. Someone who puts a lot of work on something also has skin in the game.</p>\n<p>People who have seen important events happening in the community in the past are so welcome to advise when previous information is needed. I think many stewards, including myself, would happily share learnings and guidance.</p>\n<p>I hope that the measure of what affects us is not dictated mainly by the token price but by the impact we are creating on the token engineering field.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 7,
+   "username": "enti",
+   "name": null,
+   "created_at": "2022-11-29T17:40:18Z",
+   "updated_at": "2022-11-29T17:40:18Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<p>Something I think it’s important to remember is that this is a temporary/transitional team, whose members are the same as of those working groups this coordination team is replacing, like Transparency, Sampo or Comms – so I don’t honestly see why putting us under a rather political selection process and requirements is any helpful, or fair at all.</p>\n<p>That said, and repeating the first sentence, this is just a transitional team and things are very likely to change and evolve over time. Your feedback makes a lot of sense and we all should definitely have it in mind for when the transitional term ends.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 8,
+   "username": "gideonro",
+   "name": null,
+   "created_at": "2022-11-30T18:30:57Z",
+   "updated_at": "2022-11-30T18:30:57Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>I wanted to sit with this a couple days, <a class=\"mention\" href=\"/u/juankbell\">@Juankbell</a>. On reflection, I believe this issue boils down to what, exactly, this team represents.</p>\n<p>If you see it as simply a working group that’s consolidating the work of earlier working groups, there’s no reason to treat it any differently from any other working group. We never (as far as I know) used political processes for selecting working group team members in the past. We simply relied on do-ocracy and tapping people’s passion and dedication. In this context, requiring people to hold large amounts of tokens simply to contribute work is not only unfair, but a very dangerous direction.</p>\n<p>If you see this team as a replacement for TEC stewards and the stewardship of the commons, then that <em>is</em> a different situation. That is definitely <em>not</em> how I see this team, but I’m guessing that this gets to the heart of what is concerning to you.</p>\n<p>It concerns me too and as noted in the proposal, we still have work to do in defining what that higher-level stewardship and governance of the commons should be going forward with all the changes that the TEC is undergoing. Here is where having a real stake in the commons becomes <em>very</em> important, and I believe we need get much better at representing the full range of stakeholders in this mission (Hatchers, general token holders, contributors, volunteers, but also token engineers who aren’t yet engaged with the TEC, Token Engineering Academy grads, etc.).</p>\n<p>That’s my take, at least.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 9,
+   "username": "Maxwe11",
+   "name": null,
+   "created_at": "2022-11-30T20:39:17Z",
+   "updated_at": "2022-11-30T20:39:17Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<aside class=\"quote no-group\" data-post=\"1\" data-topic=\"1177\" data-username=\"gideonro\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" class=\"avatar\" height=\"20\" src=\"https://forum.tecommons.org/user_avatar/forum.tecommons.org/gideonro/40/405_2.png\" width=\"20\"/> gideonro:</div>\n<blockquote>\n<h3>Team Goals for Transition Period:</h3>\n<ul>\n<li>Maintain the TEC’s essential services.</li>\n<li>Community accountability and team accountability systems: define what success looks like in terms of outcomes and metrics. This includes updating the community covenant to include a section on accountability (especially around provision and appropriation of services and resources for the commons). This will include details on graduated sanctions.</li>\n<li>Clarifying project management and governance processes.</li>\n<li>Clarify the relationship between voluntary contributions recognized by Praise and paid contributions among the coordination team.</li>\n<li>This proposal replaces coordination of the DAO formally done by the TEC Stewards. The Steward transformation process proposed on Snapshot in August wasn’t approved for a lack of quorum (it received 143k TEC votes of the needed 208k - 10% of the total token supply), and there is some remaining work still to be done defining what role, if any, stewardship plays in the TEC going forward.</li>\n</ul>\n</blockquote>\n</aside>\n<p>I think the feedback is great, and in this instance has surfaced maybe a lack of clarity on what the proposal encompasses. Echoing what I think <a class=\"mention\" href=\"/u/gideonro\">@gideonro</a> is getting at above, I see the goal of this proposal/core team as to ensure that the essential services of the TEC are fulfilled. I think it’s important to distinguish the relatively narrow scope of the proposal above, which is effectively to provide stable pay to this core group of contributors, from the larger transformation effort that is and has been open to all. I see this proposal as enabling that transformation to happen (with input from as many as want to be involved) by ‘hiring’ this group to perform the operational requirements in a streamlined and consistent manner.</p>\n<p>From that/my perspective then, the qualifications for this group come down to willingness and ability (both from a skills and time perspective) to fill the role. Adding pre-requisites such as tenure and financial stake to the qualifications simply shrinks the pool and eliminates otherwise qualified candidates. Those with tenure and financial stake will still have input on the direction to the TEC through conviction voting (of which they have a near monopoly on) and participation in the transformation effort/calls (which to my understanding will not suddenly become opaque or exclusionary).</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  },
+  {
+   "post_number": 10,
+   "username": "Juankbell",
+   "name": null,
+   "created_at": "2022-12-01T13:48:13Z",
+   "updated_at": "2022-12-01T13:48:13Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<p>Thanks to everyone who replied to my comments, the answers received clarified a lot the root from where my concerns came, and now i feel a lot better with my understanding of the proposal and the uncertainty that I was experiencing (maybe because of a poorly informed judgement). BTW, i changed my vote in snapshot and now im on the Yes side  <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=10\" title=\":slight_smile:\"/> - So nothing, I thank how everyone was open to talk with me and bring some light to the topic I was raising.</p>",
+   "action": null,
+   "source": {
+    "source": "wayback",
+    "timestamp": "20230401014843",
+    "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "commoncrawl",
+   "timestamp": "20221126231323",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20221126231323",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230401014843",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20230401014843",
+   "url": "https://forum.tecommons.org/t/tec-coordination-team-proposal/1177"
+  }
+ ]
+}

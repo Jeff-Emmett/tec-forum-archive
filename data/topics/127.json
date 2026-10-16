@@ -1,0 +1,79 @@
+{
+ "id": 127,
+ "title": "Blast from the Past: TEC Spec described in March 2019",
+ "slug": "blast-from-the-past-tec-spec-described-in-march-2019",
+ "category_id": 6,
+ "posts_count": 2,
+ "created_at": "2020-12-05T23:41:55.821Z",
+ "last_posted_at": "2021-02-16T15:09:19.298Z",
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-02-16T15:09:19Z",
+ "captured_between": [
+  "2021-03-01T22:26:51Z",
+  "2021-03-01T22:26:51Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "Griff",
+   "name": null,
+   "created_at": "2020-12-05T23:41:55Z",
+   "updated_at": "2020-12-05T23:41:55Z",
+   "reply_to_post_number": null,
+   "like_count": 5,
+   "cooked": "<div class=\"onebox lazyYT lazyYT-container\" data-parameters=\"feature=oembed&amp;wmode=opaque&amp;start=39\" data-youtube-id=\"WJ23oQpooG0\" data-youtube-title=\"EthCC 2: Griff Green\">\n<a href=\"https://www.youtube.com/watch?v=WJ23oQpooG0\" rel=\"noopener\" target=\"_blank\">\n<img class=\"ytp-thumbnail-image\" height=\"388\" src=\"https://forum.tecommons.org/uploads/default/original/1X/744a9745038a7d7a3329f8662f33082dca97fd1f.jpeg\" title=\"EthCC 2: Griff Green\" width=\"690\"/>\n</a>\n</div>\n<p>The first ~10 minutes I talk about the necessary infrastructure needed for Decentralized Governance to really scale, but the last 1/2 I dig into the dream of building a Commons that can scale to provide the the public good to the entire world <img alt=\":smiley:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/smiley.png?v=9\" title=\":smiley:\"/></p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210301222651",
+    "url": "https://forum.tecommons.org/t/blast-from-the-past-tec-spec-described-in-march-2019/127"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "Tonga",
+   "name": null,
+   "created_at": "2020-12-06T01:43:55Z",
+   "updated_at": "2020-12-06T01:43:55Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p>I get suprised how these vids have so little views, thx for sharing Griff!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210301222651",
+    "url": "https://forum.tecommons.org/t/blast-from-the-past-tec-spec-described-in-march-2019/127"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-02-16T15:09:19Z",
+   "updated_at": "2021-02-16T15:09:19Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>In March 2019:</p>\n<ul>\n<li>Aragon Fundraising (Aragon Black’s bonding curve implementation) was still in <a href=\"https://github.com/AragonBlack/fundraising/commit/a6a8ec06fd5521cbb3aef3ac353dfb19956fbd30\">early development</a>\n</li>\n<li>Conviction Voting was just an idea that was <a href=\"https://devpost.com/software/gitviction\">implemented for the first time</a> in the hackathon after EthCC 2.</li>\n<li>Fees were so low in mainnet that Aragon would not be deployed on xDAI until 2020.</li>\n</ul>\n<p>But…</p>\n<aside class=\"onebox twitterstatus\">\n<header class=\"source\">\n<a href=\"https://twitter.com/elonmusk/status/1355068728128516101\" rel=\"noopener\" target=\"_blank\">twitter.com</a>\n</header>\n<article class=\"onebox-body\">\n<img class=\"thumbnail onebox-avatar\" height=\"400\" src=\"https://forum.tecommons.org/uploads/default/original/1X/5216f6333cd28c4d684ea46432d63242fd76f83b.jpeg\" width=\"400\"/>\n<h4><a href=\"https://twitter.com/elonmusk/status/1355068728128516101\" rel=\"noopener\" target=\"_blank\">Elon Musk (elonmusk)</a></h4>\n<div class=\"tweet\"> In retrospect, it was inevitable</div>\n<div class=\"date\">\n<a href=\"https://twitter.com/elonmusk/status/1355068728128516101\" rel=\"noopener\" target=\"_blank\">00:22 - 29. Jan. 2021</a>\n<span class=\"like\">\n<svg aria-hidden=\"true\" height=\"16px\" viewbox=\"0 0 512 512\" width=\"14px\">\n<path d=\"M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z\"></path>\n</svg> 615.000\n    </span>\n<span class=\"retweet\">\n<svg aria-hidden=\"true\" height=\"16px\" viewbox=\"0 0 640 512\" width=\"14px\">\n<path d=\"M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z\"></path>\n</svg> 60.000\n    </span>\n</div>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20210301222651",
+    "url": "https://forum.tecommons.org/t/blast-from-the-past-tec-spec-described-in-march-2019/127"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210301222651",
+   "url": "https://forum.tecommons.org/t/blast-from-the-past-tec-spec-described-in-march-2019/127"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210301222651",
+   "url": "https://forum.tecommons.org/t/blast-from-the-past-tec-spec-described-in-march-2019/127"
+  }
+ ]
+}

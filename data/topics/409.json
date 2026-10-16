@@ -1,0 +1,106 @@
+{
+ "id": 409,
+ "title": "Using Celeste as TECommons arbitrator",
+ "slug": "using-celeste-as-tecommons-arbitrator",
+ "category_id": 7,
+ "posts_count": 2,
+ "created_at": "2021-06-03T18:04:46.185Z",
+ "last_posted_at": "2021-06-07T20:31:25.467Z",
+ "tags": [
+  "cultural-proposal"
+ ],
+ "views": 3127,
+ "highest_post_number": 3,
+ "closed": false,
+ "archived": false,
+ "total_known": true,
+ "archived_posts": 3,
+ "archived_numbers": 3,
+ "last_archived_post_at": "2021-06-07T20:31:25Z",
+ "captured_between": [
+  "2021-06-24T16:08:22Z",
+  "2026-07-17T02:53:22Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "sem",
+   "name": null,
+   "created_at": "2021-06-03T18:04:46Z",
+   "updated_at": "2021-11-12T21:44:24Z",
+   "reply_to_post_number": null,
+   "like_count": 6,
+   "cooked": "<h2>\n<a class=\"anchor\" href=\"#using-celeste-as-tecommons-arbitrator-1\" name=\"using-celeste-as-tecommons-arbitrator-1\"></a>Using Celeste as TECommons arbitrator</h2>\n<h3>\n<a class=\"anchor\" href=\"#proposal-information-2\" name=\"proposal-information-2\"></a>Proposal Information</h3>\n<p><strong>Proposal Description:</strong></p>\n<p>With the Commons Upgrade, we are going to use Disputable Voting and Disputable Conviction Voting. Disputable means that proposals can be challanged meanwhile they are voted. When a challenging happens, an Arbitrator decides if the proposal should be canceled or if it should continue according to what the TEC Community Covenant says. This will convert TEC into a <a href=\"https://www.youtube.com/watch?v=k7hXkiTCTC0\">manifesto-based organization</a>.</p>\n<p>This means we need to decide two things: what kind of Community Covenant we want and what Arbitrator we choose to rule based on this Covenant.</p>\n<p>This proposal is to decide if we choose Celeste, the 1hive subjective oracle and Aragon Protocol in xDAI, to be our arbitrator.</p>\n<h3>\n<a class=\"anchor\" href=\"#decision-making-proposal-details-3\" name=\"decision-making-proposal-details-3\"></a><strong>Decision Making Proposal Details:</strong>\n</h3>\n<ul>\n<li><em>What cultural agreements do you wish to change or implement?</em></li>\n</ul>\n<p>Using an arbitrator such as Celeste means switching some control from TEC whales to Celeste keepers. Since TEC governance can be bought, an arbitrator prevents TEC whales to fund initiatives not aligned with the community values. It also prevents governance attacks such as the classical DAO 51% attack, in which a majority of tokenholders vote to move all the funds of a DAO to another DAO they control.</p>\n<p>This means that we will have a kind of “legal” system on top of TE Commons that will assure the “hard gov” decisions (tokenholder votes) follow the values defined by our previous “soft gov” decissions (defined in our Covenant).</p>\n<ul>\n<li><em>Why is it important?</em></li>\n</ul>\n<p>DAO smart contracts can not code human values very well. Raising questions to a subjective oracle such as Celeste when it is needed can keep the community mission, vision and values and does not depend on a plutocracy of tokenholders.</p>\n<ul>\n<li><em><s>What’s the desired outcome?</s> What could go wrong?</em></li>\n</ul>\n<p>Choosing Celeste as our Dispubable (Conviction) Voting Arbitrator means we give some power to Celeste keepers (honey tokenholders staking on Celeste). Does it mean that a majority of Honey tokenholders can block any proposal on TEC? <em>Is Celeste the The One Ring of Power for DAOs?</em></p>\n<p>Not exactly. Celeste keepers are incentivized to reply to disputes not based on their values but based on what each Community Covenant is saying. They offer a service, but they do not govern the DAOs. The responsible ones for writting the Covenants are DAOs themselves.</p>\n<p>It is possible to change both Arbitator and Covenant by a Community vote at a later point, but those decisions can be challanged based on what is specified in the old covenant (for example, when the new covenant is incompatible with the previous one).</p>\n<ul>\n<li><em>How will the community benefit from it?</em></li>\n</ul>\n<p>Celeste is a service provided by 1hive to manifesto-based DAOs which provides a unique value. It is like a trusted decentralized admin that can cancel invalid proposals without relying on a commitee of DAO-choosen members, centralizing the censorship power in few hands.</p>\n<p>Having Celeste as an arbitrator also means that we will be more integrated into the 1hive ecosystem. TEC will be a <a href=\"https://1hive.gitbook.io/gardens/\">1hive Gardens</a> that uses a special token policy (an Augmented Bonding Curve to be exact), but is compatible with the other gardens. This will bring to TEC all the tools developed for gardens in the future.</p>\n<ul>\n<li><em>What’s the process for implementing this?</em></li>\n</ul>\n<p>If this vote passes, we will decide Celeste parameters and the Covenant through a participatory process held by Soft Gov and Gravity and propose Celeste as the arbitrator in the Commons Upgrade vote.</p>\n<ul>\n<li><em>Who is involved?</em></li>\n</ul>\n<p>The working groups involved in this proposal are SoftGov, Gravity and Commons Swarm. The Covenant will be written based on the Vision, Mission and Values defined in SoftGov, and Gravity will help to define what is acceptable behaviour and what is not. Commons Swarm will provide it’s knowledge on how Celeste works and what is expected on a Covenant.</p>\n<p>Below is an Anon vote on this topic.</p>\n<p>Vote “Yes” If you want to use Celeste as our Arbitrator, Vote \"Block if you do NOT want to use Celeste as our Arbitrator and vote “Neutral” if you have no preference.</p>\n<div class=\"poll\" data-poll-charttype=\"bar\" data-poll-max=\"1\" data-poll-min=\"1\" data-poll-name=\"poll\" data-poll-results=\"always\" data-poll-status=\"open\" data-poll-type=\"multiple\">\n<div>\n<div class=\"poll-container\">\n<ul>\n<li data-poll-option-id=\"2201970b5a6ec7079ef90f31ff7bd940\">YES</li>\n<li data-poll-option-id=\"8854bdad11ca2b87287712b012749c80\">NEUTRAL</li>\n<li data-poll-option-id=\"3c6659dc0f0db9e88edf9e7132475002\">BLOCK</li>\n</ul>\n</div>\n<div class=\"poll-info\">\n<p>\n<span class=\"info-number\">0</span>\n<span class=\"info-label\">voters</span>\n</p>\n</div>\n</div>\n</div>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717025322",
+    "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409"
+   }
+  },
+  {
+   "post_number": 2,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-06-07T17:40:26Z",
+   "updated_at": "2021-06-07T17:40:26Z",
+   "reply_to_post_number": null,
+   "like_count": 0,
+   "cooked": "<p>Last chance to vote before we close this round!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717025322",
+    "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409"
+   }
+  },
+  {
+   "post_number": 3,
+   "username": "liviade",
+   "name": null,
+   "created_at": "2021-06-07T20:31:25Z",
+   "updated_at": "2021-06-07T20:31:25Z",
+   "reply_to_post_number": null,
+   "like_count": 2,
+   "cooked": "<p>The voting is closed and this proposal is approved <img alt=\":slight_smile:\" class=\"emoji\" src=\"https://forum.tecommons.org/images/emoji/win10/slight_smile.png?v=9\" title=\":slight_smile:\"/></p><aside class=\"onebox googledocs\">\n<header class=\"source\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">docs.google.com</a>\n</header>\n<article class=\"onebox-body\">\n<a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\"><span class=\"googledocs-onebox-logo g-sheets-logo\"></span></a>\n<h3><a href=\"https://docs.google.com/spreadsheets/d/12_PK_G9-gGxPOm-mdl5dlfdh9GSZGuI5gkTLkWlfNcY/edit#gid=0\" rel=\"noopener\" target=\"_blank\">TEC soft gov decision tracking</a></h3>\n<p>Decision Tracking\n\nproposal title ,date,yes votes,neutral votes,block votes,result,proposal link \nDecision Making Process,Aug 28,4,1,0,approved,https://docs.google.com/document/d/...</p>\n</article>\n<div class=\"onebox-metadata\">\n</div>\n<div style=\"clear: both\"></div>\n</aside>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20260717025322",
+    "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20210624160822",
+   "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20210624160822",
+   "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20240616093254",
+   "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409?u=chuygarcia92"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20240616093254",
+   "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409?u=chuygarcia92"
+  },
+  {
+   "source": "wayback",
+   "timestamp": "20241215004417",
+   "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409?u=chuygarcia92"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20260717025322",
+   "url": "https://forum.tecommons.org/t/using-celeste-as-tecommons-arbitrator/409"
+  }
+ ]
+}

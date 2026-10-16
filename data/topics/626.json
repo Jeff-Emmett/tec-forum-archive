@@ -1,0 +1,46 @@
+{
+ "id": 626,
+ "title": "Conviction Voting - Minimum Effective Supply",
+ "slug": "conviction-voting-minimum-effective-supply",
+ "category_id": 27,
+ "posts_count": 0,
+ "total_known": false,
+ "archived_posts": 1,
+ "archived_numbers": 1,
+ "created_at": "2021-09-17T20:43:12Z",
+ "last_archived_post_at": "2021-09-17T20:43:12Z",
+ "captured_between": [
+  "2023-02-04T01:42:55Z",
+  "2023-02-04T01:42:55Z"
+ ],
+ "posts": [
+  {
+   "post_number": 1,
+   "username": "natesuits",
+   "name": null,
+   "created_at": "2021-09-17T20:43:12Z",
+   "updated_at": "2021-09-17T20:53:21Z",
+   "reply_to_post_number": null,
+   "like_count": 1,
+   "cooked": "<p><strong>Minimum Effective Supply</strong></p>\n<p>In order to understand the role of Minimum Effective Supply, we first need to re-examine the definition of effective supply and its role in determining our minimum conviction parameter.</p>\n<blockquote>\n<p>The Minimum Conviction dictates how many TEC tokens are needed to pass a proposal, no matter how small the amount requested. On the Commons Config Dashboard (CCD), the Minimum Conviction is set as a percentage of the <a href=\"https://forum.tecommons.org/t/conviction-voting-tl-dr/308\">effective supply</a>, where effective supply is the number of tokens actively voting on proposals.</p>\n</blockquote>\n<p>Let us look at an example:</p>\n<pre><code class=\"lang-auto\">Minimum Conviction = 20% of Effective Supply\n\nProposal #1 - 100 Active Voting Tokens (MC not satisfied)\nProposal #2 - 400 Active Voting Tokens (holds MC)\nProposal #3 - 1000 Active Voting Tokens (holds MC)\n\nEffective Supply = 1500 Tokens (Among 3 proposals)\n\nRequired tokens to satisfy Minimum Conviction = 300 (1500 * 0.2)\n</code></pre>\n<p>The Minimum Effective Supply parameter exists to deal with specific edge-cases that attempt to pass a proposal immediately after the initialization of our Conviction Voting Modules, when the effective supply is very small.</p>\n<p>For example, we have just launched our Conviction Voting module, and already there is 1 proposal that is attempting to send funds from the Common Pool to an EOA. Based upon our parameters:</p>\n<pre><code class=\"lang-auto\">Minimum Conviction = 20% of Effective Supply\n\nProposal #1 -- 20 Active Voting Tokens (holds MC)\n\nEffective Supply = 20 Tokens\n\nRequired Tokens to satisfy Minimum Conviction = 4 Tokens (20 * 0.2)\n</code></pre>\n<p>This proposal clearly passes the requirements of holding Minimum Conviction, and depending on what you defined as your Conviction Growth parameter, could open up the possibility for this type of proposal to be executed before the community is able to do anything about it.</p>\n<p>The Minimum Effective Supply is a parameter that prevents proposals like this from satisfying the Minimum Conviction requirement, because it defines an assumed minimum for the value of effective supply with every proposal. If you set this parameter to 1000 tokens, the proposal above and any other active proposal where the effective supply is less than 1000 tokens – will be assumed by our Conviction Voting Module, to be exactly 1000 tokens actively voting, meaning the proposal would still need at least 200 tokens (1000 * 0.2) voting on the proposal in order for it to satisfy the Minimum Conviction parameter.</p>\n<p><strong>Implications &amp; Parameter Options</strong></p>\n<p>You will have the option to set the Minimum Effective Supply to any number of tokens you would like.</p>\n<p>The implications of setting this parameter is that it will remain after the initialization of the Conviction Voting module. If the Minimum Effective Supply is too high (&gt;100,000 tokens), the community will have a hard time passing legitimate proposals. If it is too low (&lt;1000 tokens), we expose ourselves to the possibility of an agent executing on this edge case.</p>\n<p>Since this parameter has limited scope and high impact, it is set as a default parameter within the advanced parameter section. Any altering of this parameter should be justified within your design strategy.</p>\n<p><strong>Related Parameters to consider when defining the Minimum Effective Supply parameter:</strong></p>\n<p>Minimum Conviction<br/>\nConviction Growth<br/>\nSpending Limit</p>\n<p><strong>Suggested Range:</strong><br/>\nUndefined</p>\n<p>********This Post is still Under Review!</p>",
+   "action": null,
+   "source": {
+    "source": "commoncrawl",
+    "timestamp": "20230204014255",
+    "url": "https://forum.tecommons.org/t/conviction-voting-minimum-effective-supply/626"
+   }
+  }
+ ],
+ "captures": [
+  {
+   "source": "wayback",
+   "timestamp": "20230204014255",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-effective-supply/626"
+  },
+  {
+   "source": "commoncrawl",
+   "timestamp": "20230204014255",
+   "url": "https://forum.tecommons.org/t/conviction-voting-minimum-effective-supply/626"
+  }
+ ]
+}
