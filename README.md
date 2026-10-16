@@ -6,6 +6,9 @@ rebuilt from public web-archive captures (Internet Archive Wayback Machine and C
 
 **Live:** https://tec.mycostack.xyz
 
+**Source:** https://gitea.jeffemmett.com/jeffemmett/tec-forum-archive (primary), mirrored to
+https://github.com/Jeff-Emmett/tec-forum-archive
+
 Old forum links work once the host is swapped: `forum.tecommons.org/t/<slug>/<id>` →
 `tec.mycostack.xyz/t/<slug>/<id>/`.
 
@@ -55,7 +58,8 @@ Machine when the target was not captured), and serves under a strict CSP (`nginx
 `docker compose up -d --build` on Netcup (`/opt/websites/tec-forum-archive`). The image build
 reruns parse + build + pagefind from `raw/`, so the repo alone reproduces the site.
 Traefik router `tec-forum-archive`, host `tec.mycostack.xyz`, Cloudflare tunnel ingress via
-`dev-ops/cloudflare/cf-onboard.py`.
+`dev-ops/cloudflare/cf-onboard.py`. The origin answers this host only via the tunnel or tailnet
+(`dev-ops/security/origin-lock`; regenerate it whenever a hostname is added).
 
 ## Filling gaps
 
