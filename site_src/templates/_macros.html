@@ -1,0 +1,9 @@
+{% macro topic_row(r, show_cat=True) %}
+<li class="trow{% if not r.archived %} is-missing{% endif %}">
+  <a class="trow-title" href="{{ r.path }}">{{ r.title }}</a>
+  <span class="trow-meta mono"><time datetime="{{ r.created_at }}">{{ r.created_at|date }}</time>{% if show_cat and r.category %} · <a href="{{ r.category.path }}">{{ r.category.name }}</a>{% endif %} · {% if r.archived %}{{ coverage(r) }}{% else %}<span class="stamp">not captured</span>{% endif %}
+  </span>
+</li>
+{% endmacro %}
+
+{% macro coverage(r) %}{% if r.more %}<span class="partial" title="Later replies existed but were not captured">{{ r.have }}+ posts</span>{% elif r.total and r.have < r.total %}<span class="partial" title="{{ r.have }} of {{ r.total }} posts were captured">{{ r.have }}/{{ r.total }} posts</span>{% else %}{{ r.have }} post{{ '' if r.have == 1 else 's' }}{% endif %}{% endmacro %}

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% from "_macros.html" import topic_row %}
+{% block title %}{{ c.name }} · TEC Forum Archive{% endblock %}
+{% block main %}
+<header class="page-head" data-pagefind-ignore>
+  {% if c.parent %}<p class="crumbs mono">{{ c.parent }}</p>{% endif %}
+  <h1>{{ c.name }}</h1>
+  {% if c.description %}<p class="lede-text">{{ c.description }}</p>{% endif %}
+  <p class="mono small">{{ c.archived }} of {{ c.rows|length }} known topics recovered</p>
+</header>
+<ol class="tlist" data-pagefind-ignore>
+  {% for r in c.rows %}{{ topic_row(r, show_cat=False) }}{% endfor %}
+</ol>
+{% endblock %}

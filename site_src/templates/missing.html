@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% from "_macros.html" import topic_row %}
+{% block title %}Missing · TEC Forum Archive{% endblock %}
+{% block main %}
+<header class="page-head">
+  <h1>What's missing</h1>
+  <p class="lede-text">The forum's own sitemaps and topic lists name {{ rows|length }} topics that no crawler saved, and {{ partial|length }} recovered topics are missing some replies. If you kept copies, exported posts, or administered the forum and hold a Discourse backup, <a href="/about/#contribute">they can fill these gaps</a>.</p>
+</header>
+<section>
+  <h2>Never captured <span class="count mono">{{ rows|length }}</span></h2>
+  <p class="small">Titles come from the forum's topic lists. Each link opens the Wayback Machine in case a capture turns up later.</p>
+  <ol class="tlist">{% for r in rows %}{{ topic_row(r) }}{% endfor %}</ol>
+</section>
+<section>
+  <h2>Partially captured <span class="count mono">{{ partial|length }}</span></h2>
+  <ol class="tlist">{% for r in partial %}{{ topic_row(r) }}{% endfor %}</ol>
+</section>
+{% endblock %}

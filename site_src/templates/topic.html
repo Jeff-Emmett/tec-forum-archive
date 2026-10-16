@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% from "_macros.html" import coverage %}
+{% block title %}{{ t.title }} · TEC Forum Archive{% endblock %}
+{% block description %}{{ t.title }}: archived discussion from the Token Engineering Commons forum, {{ t.created_at|date }}.{% endblock %}
+{% block head %}<link rel="canonical" href="https://tec.mycostack.xyz{{ t.path }}">{% endblock %}
+{% block main %}
+<article class="topic" data-pagefind-body>
+  <header class="topic-head">
+    <p class="crumbs mono" data-pagefind-ignore>
+      {% if t.category %}{% if t.category.parent %}{{ t.category.parent }} / {% endif %}<a href="{{ t.category.path }}" data-pagefind-filter="category">{{ t.category.name }}</a>{% else %}Uncategorised{% endif %}
+      {% for tag in t.tags %}<span class="tag">#{{ tag }}</span>{% endfor %}
+    </p>
+    <h1 data-pagefind-meta="title">{{ t.title }}</h1>
+    <p class="topic-facts mono" data-pagefind-ignore>
+      Started <time datetime="{{ t.created_at }}">{{ t.created_at|date }}</time> · {{ coverage(t) }} preserved
+    </p>
+    {% if t.more %}
+    <p class="notice" data-pagefind-ignore>This topic had more replies than survive in public web archives. The gaps are marked where they fall.</p>
+    {% elif t.total and t.have < t.total %}
+    <p class="notice" data-pagefind-ignore>Only {{ t.have }} of this topic's {{ t.total }} posts survive in public web archives. The gaps are marked where they fall.</p>
+    {% endif %}
+  </header>
+
+  {% for p in posts %}
+  {% if p.gap %}
+  <div class="gap mono" data-pagefind-ignore>
+    {% if p.gap[1] is none %}Later replies, from post {{ p.gap[0] }} on, were not captured.{% elif p.gap[0] == p.gap[1] %}Post {{ p.gap[0] }} was not captured.{% else %}Posts {{ p.gap[0] }}–{{ p.gap[1] }} were not captured{% if p.tail %} (later replies){% endif %}.{% endif %}
+  </div>
+  {% elif p.action %}
+  <div class="action mono" id="post_{{ p.post_number }}" data-pagefind-ignore>#{{ p.post_number }} · {{ p.action|replace('.', ' ')|replace('_', ' ') }}{% if p.username %} by {{ p.username }}{% endif %} · {{ p.created_at|date }}</div>
+  {% else %}
+  <section class="post" id="post_{{ p.post_number }}">
+    <header class="post-meta mono" data-pagefind-ignore>
+      <a class="post-n" href="#post_{{ p.post_number }}" aria-label="Post {{ p.post_number }}">#{{ p.post_number }}</a>
+      <span class="who">{% if p.user %}<a href="/u/{{ p.user }}/">{{ p.display or p.username }}</a>{% if p.display and p.display != p.username %} <span class="handle">@{{ p.username }}</span>{% endif %}{% else %}unknown{% endif %}</span>
+      <time datetime="{{ p.created_at }}">{{ p.created_at|date }}</time>
+      {% if p.reply_to_post_number %}<a class="reply" href="#post_{{ p.reply_to_post_number }}">↩ #{{ p.reply_to_post_number }}</a>{% endif %}
+      {% if p.like_count %}<span class="likes" title="likes">♥ {{ p.like_count }}</span>{% endif %}
+    </header>
+    <div class="cooked">{{ p.html|safe }}</div>
+    <p class="prov mono" data-pagefind-ignore>{% if p.source.source == 'wayback' %}<a href="{{ p.source_url }}" rel="nofollow noopener">Wayback capture, {{ p.source.timestamp[:4] }}-{{ p.source.timestamp[4:6] }}-{{ p.source.timestamp[6:8] }}</a>{% else %}Common Crawl capture, {{ p.source.timestamp[:4] }}-{{ p.source.timestamp[4:6] }}-{{ p.source.timestamp[6:8] }}{% endif %}</p>
+  </section>
+  {% endif %}
+  {% endfor %}
+
+  <details class="sources" data-pagefind-ignore>
+    <summary class="mono">Sources for this page ({{ captures|length }} captures)</summary>
+    <p>Original address: <span class="mono">{{ original }}</span></p>
+    <ul class="mono small">
+      {% for c in captures %}<li>{% if c.source == 'wayback' %}<a href="{{ src_url(c) }}" rel="nofollow noopener">{{ c.timestamp }}</a>{% else %}{{ c.timestamp }} (Common Crawl){% endif %} {{ c.url }}</li>{% endfor %}
+    </ul>
+  </details>
+</article>
+{% endblock %}

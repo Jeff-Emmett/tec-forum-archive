@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% from "_macros.html" import topic_row %}
+{% block main %}
+<section class="lede" data-pagefind-ignore>
+  <h1>Token Engineering Commons forum, {{ site.first|year }}–{{ site.last|year }}</h1>
+  <p class="lede-text">The TEC's Discourse forum held its proposals, hatch parameter debates, working-group updates and governance decisions until it went offline with the DAO's shutdown. This archive pieces it back together from what public web crawlers saved.</p>
+  <dl class="tally mono">
+    <div><dt>Topics recovered</dt><dd>{{ site.topics }}</dd></div>
+    <div><dt>Posts recovered</dt><dd>{{ site.posts }}</dd></div>
+    <div><dt>Verified complete</dt><dd>{{ site.complete }}</dd></div>
+    <div><dt>Known, not captured</dt><dd><a href="/missing/">{{ site.known - site.topics }}</a></dd></div>
+  </dl>
+</section>
+
+<nav class="catstrip" aria-label="Categories" data-pagefind-ignore>
+  {% for c in cats if c.archived %}<a href="/c/{{ c.slug }}/">{{ c.label }} <span class="mono">{{ c.archived }}</span></a>{% endfor %}
+</nav>
+
+{% for year, rs in years %}
+<section class="year" data-pagefind-ignore>
+  <h2 id="y{{ year }}"><span>{{ year }}</span> <span class="count mono">{{ rs|length }} topic{{ '' if rs|length == 1 else 's' }}</span></h2>
+  <ol class="tlist">
+    {% for r in rs %}{{ topic_row(r) }}{% endfor %}
+  </ol>
+</section>
+{% endfor %}
+{% endblock %}

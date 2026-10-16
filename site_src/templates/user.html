@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}{{ u.display or u.username }} · TEC Forum Archive{% endblock %}
+{% block main %}
+<header class="page-head">
+  <p class="crumbs mono"><a href="/people/">People</a></p>
+  <h1>{{ u.display or u.username }}</h1>
+  <p class="mono small">@{{ u.username }} · {{ u.count }} recovered post{{ '' if u.count == 1 else 's' }} · {{ u.first|date }} – {{ u.last|date }}</p>
+</header>
+<ol class="tlist" data-pagefind-ignore>
+  {% for i in items|reverse %}
+  <li class="trow"><a class="trow-title" href="{{ i.path }}">{{ i.title }}</a><span class="trow-meta mono"><time datetime="{{ i.created_at }}">{{ i.created_at|date }}</time> · #{{ i.n }}</span></li>
+  {% endfor %}
+</ol>
+{% endblock %}

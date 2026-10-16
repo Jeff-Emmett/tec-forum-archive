@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Categories · TEC Forum Archive{% endblock %}
+{% block main %}
+<header class="page-head"><h1>Categories</h1></header>
+<ul class="clist" data-pagefind-ignore>
+  {% for c in cats %}
+  <li>
+    <a href="/c/{{ c.slug }}/">{% if c.parent %}<span class="parent">{{ c.parent }} › </span>{% endif %}{{ c.name }}</a>
+    <span class="mono small">{{ c.archived }}/{{ c.rows|length }} topics</span>
+    {% if c.description %}<p>{{ c.description }}</p>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}

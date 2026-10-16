@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}People · TEC Forum Archive{% endblock %}
+{% block main %}
+<header class="page-head">
+  <h1>People</h1>
+  <p class="lede-text">{{ people|length }} people appear in the recovered posts. Counts cover surviving posts only.</p>
+</header>
+<ol class="plist mono" data-pagefind-ignore>
+  {% for p in people %}
+  <li><a href="/u/{{ p.user }}/">{{ p.display or p.username }}</a>{% if p.display and p.display != p.username %} <span class="handle">@{{ p.username }}</span>{% endif %} <span class="n">{{ p.count }}</span></li>
+  {% endfor %}
+</ol>
+{% endblock %}

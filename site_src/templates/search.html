@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Search · TEC Forum Archive{% endblock %}
+{% block head %}<link rel="stylesheet" href="/pagefind/pagefind-ui.css"><script src="/pagefind/pagefind-ui.js" defer></script><script src="/assets/search.js" defer></script>{% endblock %}
+{% block main %}
+<header class="page-head"><h1>Search</h1><p class="small">Full text of every recovered post.</p></header>
+<div id="search"></div>
+<noscript><p>Search needs JavaScript. Browse by <a href="/categories/">category</a> or <a href="/">year</a> instead.</p></noscript>
+{% endblock %}

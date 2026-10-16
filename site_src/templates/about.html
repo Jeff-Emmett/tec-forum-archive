@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}About · TEC Forum Archive{% endblock %}
+{% block main %}
+<article class="prose">
+  <h1>About this archive</h1>
+  <p>The Token Engineering Commons ran a Discourse forum at <span class="mono">forum.tecommons.org</span> from {{ site.first|year }}. The TEC used it for funding proposals, hatch and commons-configuration debates, working-group reports, Praise and rewards analysis, and the governance decisions that ended in the claims process. The forum went offline when the DAO shut down, and no export was published.</p>
+  <p>This site rebuilds it from public web archives. It is read-only and unofficial. It sits alongside other commons-tooling histories preserved by the <a href="https://mycostack.xyz">MycoStack</a> project.</p>
+
+  <h2>What was recovered</h2>
+  <ul>
+    <li><strong>{{ site.topics }}</strong> topics with at least one post, out of <strong>{{ site.known }}</strong> public topics named in the forum's own sitemaps and topic lists.</li>
+    <li><strong>{{ site.posts }}</strong> posts by <strong>{{ site.people }}</strong> people, dated {{ site.first|date }} to {{ site.last|date }}.</li>
+    <li><strong>{{ site.complete }}</strong> topics are verified complete against a post count the forum itself published. Topics known to be missing replies say where the gaps fall. For the rest no count survives, so completeness can't be checked.</li>
+    <li>{{ site.spam }} spam topics (cracked-software link drops from after moderation stopped) are left out. They are listed in <a href="/data/excluded-spam.json">excluded-spam.json</a>.</li>
+    <li>Built from {{ site.wayback_captures }} Internet Archive Wayback Machine captures and {{ site.cc_captures }} Common Crawl captures.</li>
+  </ul>
+
+  <h2>How it was made</h2>
+  <ol>
+    <li>Every capture of the forum was listed from the Wayback Machine's CDX index and from each Common Crawl index since 2020.</li>
+    <li>Each distinct capture of a topic page was downloaded unmodified. Newer captures include Discourse's preloaded topic JSON, which carries display names, reply links and likes. Older ones carry the crawler view, which has the post body, author and dates.</li>
+    <li>Posts were merged by their number within each topic. Where several captures held the same post, the newest one was kept, since it carries the latest edit. Every post links back to the capture it came from.</li>
+    <li>Post HTML was sanitised. Links between topics were rewritten to point inside this archive, and everything else points to the Wayback Machine. Images were kept wherever a crawler had saved them.</li>
+  </ol>
+  <p>Old forum links keep working if you change the host: <span class="mono">forum.tecommons.org/t/&lt;slug&gt;/&lt;id&gt;</span> becomes <span class="mono">tec.mycostack.xyz/t/&lt;slug&gt;/&lt;id&gt;/</span>.</p>
+
+  <h2>Data</h2>
+  <p>The merged corpus, one topic per line with every post and its source capture: <a href="/data/tec-forum-archive.jsonl.gz">tec-forum-archive.jsonl.gz</a>. The index of all known topics, captured or not: <a href="/data/index.json">index.json</a>. Scraper and site source: <a href="https://gitea.jeffemmett.com/jeffemmett/tec-forum-archive">gitea.jeffemmett.com/jeffemmett/tec-forum-archive</a>.</p>
+
+  <h2 id="contribute">Filling the gaps</h2>
+  <p>The archive could be completed from a Discourse admin backup (the <span class="mono">.tar.gz</span> under <span class="mono">/admin/backups</span>). If you ran the forum and still hold one, or kept saved pages or exports of particular threads, please open an issue on the repository above. A backup would be stripped of emails, IP addresses and private messages before anything from it is published.</p>
+
+  <h2 id="removal">Corrections and removal</h2>
+  <p>Everything here was publicly posted and publicly archived. If you wrote a post and want it removed or attributed differently, open an issue on the repository and it will be handled.</p>
+</article>
+{% endblock %}
