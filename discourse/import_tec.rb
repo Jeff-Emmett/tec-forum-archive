@@ -71,6 +71,7 @@ class ImportScripts::Tec < ImportScripts::Base
 
   def import_categories
     puts "", "categories"
+    SiteSetting.max_category_nesting = 3 # Archive > Conviction Voting > Advice Process
     @bundle["categories"].each do |c|
       if c["id"] == SiteSetting.uncategorized_category_id
         cat = Category.find(c["id"])
@@ -86,7 +87,10 @@ class ImportScripts::Tec < ImportScripts::Base
         color: c["color"] || "0088CC", text_color: "FFFFFF",
         description: c["description_text"],
       )
+      # both: the accessor stops after_create, the custom field stops Category.ensure_consistency!
+      # (a background job) from adding the definition topic later, which would take an archive id
       cat.skip_category_definition = true
+      cat.custom_fields[Category::SKIP_DEFINITION_CUSTOM_FIELD] = true
       cat.custom_fields["import_id"] = c["id"].to_s
       cat.save!
       add_category(c["id"].to_s, cat)
@@ -228,7 +232,7 @@ class ImportScripts::Tec < ImportScripts::Base
     @bundle["missing"].each do |m|
       ["t/#{m["slug"]}/#{m["id"]}", "t/#{m["id"]}"].each do |url|
         next if m["slug"].blank? && url.include?("//")
-        Permalink.find_or_create_by!(url: url) { |pl| pl.permalink_type = "external_url"; pl.external_url = m["wayback"] }
+        Permalink.find_or_create_by!(url: url) { |pl| pl.external_url = m["wayback"] }
       rescue => e
         puts "  permalink #{url}: #{e.message}"
       end

@@ -14,7 +14,7 @@ params:
   db_shared_buffers: "128MB"
   db_work_mem: "10MB"
 
-docker_args: --memory=3g --memory-swap=3g
+docker_args: --memory=3g --memory-swap=3g --network=traefik-public
 
 env:
   LC_ALL: en_US.UTF-8
@@ -58,7 +58,9 @@ labels:
   app_name: tec
   traefik.enable: "true"
   traefik.docker.network: traefik-public
-  ## TEC_HOST_RULE is swapped to Host(`tec.mycostack.xyz`) at cut-over (discourse/deploy.sh).
-  traefik.http.routers.tec-discourse.rule: "Host(`tec-discourse.invalid`)"
+  ## The static evidence view (tec-forum-archive container) also claims this host at priority 1,
+  ## so it answers whenever this container is down or being rebuilt.
+  traefik.http.routers.tec-discourse.rule: "Host(`tec.mycostack.xyz`)"
+  traefik.http.routers.tec-discourse.priority: "100"
   traefik.http.routers.tec-discourse.entrypoints: web
   traefik.http.services.tec-discourse.loadbalancer.server.port: "80"

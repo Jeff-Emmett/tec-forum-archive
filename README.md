@@ -4,13 +4,15 @@ A read-only reconstruction of `forum.tecommons.org`, the Token Engineering Commo
 The forum went offline with the TEC DAO's shutdown, and no export was published. This archive is
 rebuilt from public web-archive captures (Internet Archive Wayback Machine and Common Crawl).
 
-**Live:** https://tec.mycostack.xyz
+**Live:** https://tec.mycostack.xyz — the forum as a read-only Discourse (native threading, search,
+user pages; original topic and post numbers). https://tec-archive.mycostack.xyz — the static
+evidence view: which capture every post came from, and where the gaps are.
 
 **Source:** https://gitea.jeffemmett.com/jeffemmett/tec-forum-archive (primary), mirrored to
 https://github.com/Jeff-Emmett/tec-forum-archive
 
-Old forum links work once the host is swapped: `forum.tecommons.org/t/<slug>/<id>` →
-`tec.mycostack.xyz/t/<slug>/<id>/`.
+Old forum links work once the host is swapped: `forum.tecommons.org/t/<slug>/<id>[/<n>]` →
+`tec.mycostack.xyz/t/<slug>/<id>[/<n>]` (the evidence view takes the same paths).
 
 ## Pipeline
 
@@ -60,6 +62,31 @@ reruns parse + build + pagefind from `raw/`, so the repo alone reproduces the si
 Traefik router `tec-forum-archive`, host `tec.mycostack.xyz`, Cloudflare tunnel ingress via
 `dev-ops/cloudflare/cf-onboard.py`. The origin answers this host only via the tunnel or tailnet
 (`dev-ops/security/origin-lock`; regenerate it whenever a hostname is added).
+
+## Discourse
+
+`discourse/` holds the container config and import scripts for the Discourse at tec.mycostack.xyz.
+It runs from its own `discourse_docker` clone, `/opt/discourse-tec` on Netcup, so it shares nothing
+with `/opt/discourse` (cadCAD `app`, `p2pforum`).
+
+```
+scraper/discourse_export.py data raw discourse-import     # bundle.json + uploads/
+# copy discourse-import/ and discourse/*.rb to /opt/discourse-tec/shared/tec/import/, then in the container:
+su discourse -c 'RAILS_ENV=production bundle exec ruby /shared/import/import_tec.rb /shared/import'
+su discourse -c 'RAILS_ENV=production bundle exec rails runner /shared/import/configure.rb'
+su discourse -c 'RAILS_ENV=production bundle exec rails runner /shared/import/admin.rb'
+```
+
+- Topic ids, category ids and post numbers are the forum's own. Uncaptured post numbers stay
+  unused; the first number of each gap is a staff note linking to the evidence view. Uncaptured
+  topics are permalinks to the Wayback Machine.
+- Read-only via Discourse's staff-writes-only mode; signups and email are off; every topic archived.
+- Like counts are not shown: Discourse displays likes from per-user like records, and who liked
+  was never public, so none were invented.
+- Admin is `tec_archivist` (jeff@jeffemmett.com), created with a random password nobody saw. To set
+  one: `cd /opt/discourse-tec && ./launcher enter tec`, then `rake admin:create` with that email.
+- `./launcher rebuild tec` is safe here (own clone). While the container is down, the static
+  evidence view answers on tec.mycostack.xyz (its Traefik router is priority 1, Discourse's 100).
 
 ## Filling gaps
 
